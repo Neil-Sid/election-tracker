@@ -5,7 +5,7 @@
 //   node scripts/check-history.mjs IT        one country
 //   node scripts/check-history.mjs           every file in scripts/history
 //   node scripts/check-history.mjs US --file=other.json            a file kept elsewhere
-//   node scripts/check-history.mjs US --file=current.json --current  replacements for today's elections
+//   node scripts/check-history.mjs US --file=current.json --current  replacements for today's elections, or newer ones
 
 import { readFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
@@ -51,7 +51,9 @@ for (const file of files) {
     else {
       if (el.kind !== now.kind) errors.push(`${at}: kind ${el.kind}, but ${el.office} is ${now.kind}`);
       if (currentMode) {
-        if (el.id !== now.id || el.date !== now.date) errors.push(`${at}: should replace the current ${el.office} election (${now.id}, ${now.date})`);
+        // A replacement for today's election, or a newer one that will take its place.
+        const replaces = el.id === now.id && el.date === now.date;
+        if (!replaces && !(el.date > now.date)) errors.push(`${at}: should replace the current ${el.office} election (${now.id}, ${now.date}) or come after it`);
       } else if (!(el.date < now.date)) errors.push(`${at}: date ${el.date} is not before the current ${el.office} election (${now.date})`);
       if (el.date < '1948-01-01') errors.push(`${at}: date ${el.date} is before 1948`);
     }
@@ -89,7 +91,10 @@ for (const file of files) {
       if (el.rounds?.length) errors.push(`${at}: candidates should repeat the last round`);
     }
     const winners = el.candidates?.filter(c => c.winner) ?? [];
-    if (winners.length !== 1) errors.push(`${at}: ${winners.length} winners flagged, expected 1`);
+    // A first round whose run-off is still to come flags the two going through instead.
+    if (el.call?.status === 'runoff') {
+      if (winners.length || el.candidates.filter(c => c.advanced).length !== 2) errors.push(`${at}: a pending run-off needs two candidates flagged advanced and no winner`);
+    } else if (winners.length !== 1) errors.push(`${at}: ${winners.length} winners flagged, expected 1`);
     if (el.kind !== 'presidential' || el.totalSeats != null) {
       const seats = el.candidates.reduce((n, c) => n + (c.seats ?? 0), 0);
       if (!Number.isInteger(el.totalSeats)) errors.push(`${at}: totalSeats missing`);

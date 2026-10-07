@@ -15,7 +15,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, 'dist');
 
 await rm(out, { recursive: true, force: true });
-for (const dir of ['css', 'js', 'data']) await cp(path.join(root, dir), path.join(out, dir), { recursive: true });
+for (const dir of ['css', 'js', 'data', 'img']) await cp(path.join(root, dir), path.join(out, dir), { recursive: true });
 
 const hashes = {};
 for (const file of await readdir(out, { recursive: true })) {
@@ -27,8 +27,12 @@ for (const file of await readdir(out, { recursive: true })) {
 const imports = Object.fromEntries(Object.entries(hashes)
   .filter(([url]) => !url.endsWith('.css'))
   .map(([url, hash]) => [`./${url}`, `./${url}?v=${hash}`]));
-const html = (await readFile(path.join(root, 'index.html'), 'utf8'))
+let html = (await readFile(path.join(root, 'index.html'), 'utf8'))
   .replace(/(src|href)="((?:js|css)\/[^"]+)"/g, (_, attr, url) => `${attr}="${url}?v=${hashes[url]}"`)
   .replace('<script type="module"', `<script type="importmap">${JSON.stringify({ imports }, null, 1)}</script>\n<script type="module"`);
+// Link previews need an absolute image URL. Vercel provides the production
+// domain at build time; a local build keeps the relative one.
+const site = process.env.VERCEL_PROJECT_PRODUCTION_URL;
+if (site) html = html.replace('content="img/og.png"', `content="https://${site}/img/og.png"`);
 await writeFile(path.join(out, 'index.html'), html);
 console.log(`dist/: ${Object.keys(hashes).length} files versioned`);

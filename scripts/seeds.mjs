@@ -41,27 +41,29 @@ export const EXTRA = {
       psd: p('PSD', '#FFA500'), mdb: p('MDB', '#30914D'), rep: p('Republicanos', '#0070C5'), pdt: p('PDT', '#C21E56'), psb: p('PSB', '#FFCC00'),
       psdb: p('PSDB', '#0080FF'), psol: p('PSOL', '#F26B61'), pode: p('Podemos', '#2DA933'), avante: p('Avante', '#088F8F'), psc: p('PSC', '#009118'),
       pcdob: p('PCdoB', '#820000'), pv: p('PV', '#006600'), cidadania: p('Cidadania', '#EC008C'), solidariedade: p('Solidariedade', '#FF9C2B'),
-      patriota: p('Patriota', '#00552A'), novo: p('Novo', '#F3701B'), pros: p('PROS', '#A0522D'), rede: p('Rede', '#379E8D'), ptb: p('PTB', '#008040')
+      patriota: p('Patriota', '#00552A'), novo: p('Novo', '#F3701B'), pros: p('PROS', '#A0522D'), rede: p('Rede', '#379E8D'), ptb: p('PTB', '#008040'),
+      missao: p('Mission Party', '#7E3FA6'), prd: p('Democratic Renewal Party', '#8A5A2B')
     },
     elections: [{
-      id: 'br-chamber-2022', office: 'Chamber of Deputies', kind: 'legislative', date: '2022-10-02', status: 'final', reporting: 100, turnout: 79.0,
-      cite: { name: 'the Superior Electoral Court', url: 'https://en.wikipedia.org/wiki/2022_Brazilian_general_election' },
+      id: 'br-chamber-2026', office: 'Chamber of Deputies', kind: 'legislative', date: '2026-10-04', status: 'final', reporting: 100,
+      cite: { name: 'the Superior Electoral Court (TSE)', url: 'https://en.wikipedia.org/wiki/2026_Brazilian_general_election' },
       system: '513 seats, open-list proportional by state', totalSeats: 513, majority: 257, seatLabel: 'Seats',
-      // Superior Electoral Court results. Others: nine parties that won no seat.
+      // Superior Electoral Court results, from Wikipedia's table (revision 1379095197). Shares are of the
+      // listed parties' votes; the source gives no turnout for the chamber.
       candidates: [
-        c('Liberal Party', 'pl', 16.6, 99, { votes: 18200300, change: 66, winner: true }), c("Workers' Party", 'pt', 12.1, 69, { votes: 13236698, change: 13 }),
-        c('União Brasil', 'uniao', 9.3, 59, { votes: 10215433, change: -22 }), c('Progressistas', 'pp', 7.9, 47, { votes: 8692918, change: 10 }),
-        c('PSD', 'psd', 7.6, 42, { votes: 8293956, change: 8 }), c('MDB', 'mdb', 7.2, 42, { votes: 7870810, change: 8 }),
-        c('Republicanos', 'rep', 7, 40, { votes: 7610894, change: 10 }), c('PDT', 'pdt', 3.5, 17, { votes: 3828367, change: -11 }),
-        c('PSB', 'psb', 3.8, 14, { votes: 4173479, change: -18 }), c('PSDB', 'psdb', 3, 13, { votes: 3309061, change: -16 }),
-        c('PSOL', 'psol', 3.5, 12, { votes: 3852246, change: 2 }), c('Podemos', 'pode', 3.3, 12, { votes: 3610634, change: -5 }),
-        c('Avante', 'avante', 2, 7, { votes: 2192518, change: 0 }), c('PSC', 'psc', 1.8, 6, { votes: 1944678, change: -2 }),
-        c('PCdoB', 'pcdob', 1.1, 6, { votes: 1154712, change: -4 }), c('PV', 'pv', 0.9, 6, { votes: 954578, change: 2 }),
-        c('Cidadania', 'cidadania', 1.5, 5, { votes: 1614106, change: -3 }), c('Solidariedade', 'solidariedade', 1.6, 4, { votes: 1702519, change: -9 }),
-        c('Patriota', 'patriota', 1.4, 4, { votes: 1526570, change: -5 }), c('Novo', 'novo', 1.2, 3, { votes: 1354754, change: -5 }),
-        c('PROS', 'pros', 0.7, 3, { votes: 799661, change: -5 }), c('Rede', 'rede', 0.7, 2, { votes: 782917, change: 1 }),
-        c('PTB', 'ptb', 1.3, 1, { votes: 1422652, change: -9 }), c('Others', 'oth', 1, 0, { votes: 1064013, change: -6 })
+        c('Liberal Party', 'pl', 22.69, 121, { votes: 25824755, change: 22, winner: true }), c("Workers' Party", 'pt', 13, 70, { votes: 14793128, change: 1 }),
+        c('União Brasil', 'uniao', 6.92, 46, { votes: 7876904, change: -13 }), c('PSD', 'psd', 8.25, 43, { votes: 9391321, change: 1 }),
+        c('Republicanos', 'rep', 6.95, 41, { votes: 7911780, change: 1 }), c('Progressistas', 'pp', 6.69, 41, { votes: 7616758, change: -6 }),
+        c('MDB', 'mdb', 6.93, 36, { votes: 7890384, change: -6 }), c('Podemos', 'pode', 5.17, 27, { votes: 5887427, change: 9 }),
+        c('PSB', 'psb', 4.4, 15, { votes: 5007692, change: 1 }), c('PSOL', 'psol', 4.67, 14, { votes: 5312161, change: 2 }),
+        c('PSDB', 'psdb', 2.41, 11, { votes: 2742544, change: -2 }), c('PCdoB', 'pcdob', 1.15, 11, { votes: 1306368, change: 5 }),
+        c('Novo', 'novo', 2.56, 10, { votes: 2914364, change: 7 }), c('PV', 'pv', 1.2, 7, { votes: 1368491, change: 1 }),
+        c('PDT', 'pdt', 1.64, 6, { votes: 1868424, change: -11 }), c('Avante', 'avante', 1.59, 5, { votes: 1807942, change: -2 }),
+        c('Democratic Renewal Party', 'prd', 1.06, 5, { votes: 1203659, change: 0 }), c('Solidariedade', 'solidariedade', 0.92, 2, { votes: 1049014, change: -2 }),
+        c('Mission Party', 'missao', 1.08, 1, { votes: 1223569 }), c('Rede', 'rede', 0.23, 1, { votes: 264181, change: -1 }),
+        c('Cidadania', 'cidadania', 0.26, 0, { votes: 291324, change: -5 }), c('Others', 'oth', 0.22, 0, { votes: 250192, change: 0 })
       ],
+      winners: { CE: 'pl', DF: 'pl', PR: 'novo', RJ: 'pl', SP: 'pl' },
       regionSeats: BR_CHAMBER_SEATS
     }],
     after: 'Senate'
@@ -642,7 +644,7 @@ export const NEW_INDEX = {
 const s = (country, office, kind, date, tz, close, basedOn, extra = {}) => ({ country, office, kind, date, timezone: tz, pollsClose: close, basedOn, ...extra });
 export const NEW_SCHEDULE = [
   s('US', 'House of Representatives', 'legislative', '2026-11-03', 'America/New_York', '20:00', 'us-house-2024'),
-  s('BR', 'Chamber of Deputies', 'legislative', '2030-10-06', 'America/Sao_Paulo', '17:00', 'br-chamber-2022', { tentative: true }),
+  s('BR', 'Chamber of Deputies', 'legislative', '2030-10-06', 'America/Sao_Paulo', '17:00', 'br-chamber-2026', { tentative: true }),
   s('AR', 'Chamber of Deputies', 'legislative', '2027-10-24', 'America/Argentina/Buenos_Aires', '18:00', 'ar-chamber-2025'),
   s('IN', 'Lok Sabha', 'legislative', '2029-05-15', 'Asia/Kolkata', '18:00', 'in-lok-sabha-2024', { tentative: true }),
   s('JP', 'House of Councillors', 'legislative', '2028-07-23', 'Asia/Tokyo', '20:00', 'jp-councillors-2025', { tentative: true }),
@@ -674,7 +676,6 @@ export const NEW_SCHEDULE = [
 
 export const NEW_HISTORY = {
   'us-house-2024': [2022, 2020, 2018, 2016],
-  'br-chamber-2022': [2018, 2014, 2010],
   'ar-chamber-2025': [2023, 2021, 2019],
   'in-lok-sabha-2024': [2019, 2014, 2009],
   'jp-councillors-2025': [2022, 2019, 2016],

@@ -8,9 +8,8 @@ who won, shaded by margin: by state, province or region, and for chambers electe
 single-member seats, by official district (US congressional districts, UK and French
 constituencies, Canadian ridings, Australian divisions, German Wahlkreise, Indian Lok
 Sabha seats and Japanese districts). The side panel shows the national result, the
-breakdown, the closest races, polling for the next vote, past results and how the
-system works. On election night a cron job writes live counts, which the page picks up
-every two minutes.
+breakdown, the closest races, past results and how the system works. Results are as of
+the date at the top of `data/index.json` (`asOf`), shown on the home page.
 
 ![The 2024 US House of Representatives: seats by party, and the map by congressional district](docs/screenshot.png)
 
@@ -20,8 +19,7 @@ vote or lost five or more seats, and sums the rest into Others. Where the source
 who won each state or region, the map uses it and the page says so. For the US House
 and the UK, Canadian, Australian and Spanish lower houses, the seats each party took in
 each state, nation, province or community are real too. The rest of the state, region
-and district detail, and the polling, is sample data. No API is used for results or
-race calls.
+and district detail is sample data. No API is used for results or race calls.
 
 The tracker also has every national election since 1948 for each office it shows, in
 all 23 countries. See [Past elections](#past-elections).
@@ -33,9 +31,11 @@ python -m http.server 5280
 ```
 
 Then open http://localhost:5280. Any static file server works. There's no build step
-for local use. D3, TopoJSON and the world atlas load from CDNs. If you change a JS file
-while the page is open, hard refresh, because the Python server lets the browser cache
-modules. The scripts in `scripts/` need Node 22 or later.
+for local use. D3, TopoJSON and the world outline are copies in `js/vendor/` and
+`data/`, so the page makes no requests to other hosts (licences in
+`js/vendor/LICENSES.md`). If you change a JS file while the page is open, hard refresh,
+because the Python server lets the browser cache modules. The scripts in `scripts/`
+need Node 22 or later.
 
 ## Deploying
 
@@ -47,6 +47,15 @@ maps and results that changed since their last visit. A changed file gets a new 
 so no one keeps an old copy. `index.html` and `data/live/` are checked on every
 request. To try a build locally, run `npm run build` and open
 http://localhost:5280/dist/.
+
+Link previews use `img/og.png`. Their image URL has to be absolute, so the build fills
+in the production domain from Vercel's `VERCEL_PROJECT_PRODUCTION_URL`. `vercel.json`
+also sets a few security headers: no MIME sniffing, a referrer policy, and no
+embedding in frames.
+
+Vercel serves static files, so nothing there writes `data/live/`. A deployed copy shows
+the results as of `asOf` until you update the data and redeploy. Live counts need a host
+where the cron below can write files.
 
 ## Live updates
 
@@ -68,19 +77,22 @@ final result.
 ```
 index.html                  shell: top bar, side panel, globe pane
 css/style.css               all styling, light and dark
+img/og.png                  link preview image
 js/app.js                   boot, hash router (#/, #/US, #/US/us-senate-2024), live polling
 js/globe.js                 canvas orthographic globe: drag, inertia, zoom, fly-to, hit-testing, layers
 js/world.js                 loads outlines, regions and districts, with level-of-detail copies
 js/home.js                  home panel: next vote, calendar, roster, latest results
-js/country.js               country panel: results, regions and districts, polling, history, simulation
+js/country.js               country panel: results, regions and districts, history, simulation
 js/charts.js                seat chamber, head-to-head bar, history bars, polling chart
 js/data.js                  loaders; overlays data/live onto data/countries
 js/status.js                live / today / soon / scheduled per country
+js/vendor/                  D3 and TopoJSON, with their licences
 data/index.json             tracked countries, globe camera, region and district wording
 data/schedule.json          upcoming elections; the cron reads this
-data/countries/*.json       parties, results, regions, districts, polling, system facts
+data/countries/*.json       parties, results, regions, districts, system facts
 data/regions.topo.json      state/province shapes keyed like "US-OH"
 data/districts/*.topo.json  single-member districts keyed like "US-CA-12"
+data/world-coarse.topo.json world-atlas 110m, the zoomed-out globe
 data/world-detail.topo.json lighter cut of world-atlas 50m for country zoom
 data/sources.json           official results authority and district map source per country
 data/live/index.json        which countries have a live file (kept by the cron)
@@ -92,7 +104,7 @@ scripts/build-history.mjs   builds data/history from scripts/history
 scripts/regions.mjs         region results and regional-party rules, shared by mock-data and build-history
 scripts/update-results.mjs  cron entry point
 scripts/stamp.mjs           deploy build: dist/ with content-hashed URLs
-vercel.json                 Vercel build settings and cache headers
+vercel.json                 Vercel build settings, cache and security headers
 scripts/calls.mjs           the tracker's call rules
 scripts/adapters/mock.mjs   the feed in use: replays the last result as a live count
 scripts/adapters/ap.mjs     Associated Press client, kept but not connected
@@ -118,7 +130,8 @@ An election in `data/countries/<CODE>.json`:
   "status": "final | live",
   "reporting": 100,
   "totalSeats": 435, "majority": 218, "seatLabel": "Seats",
-  "candidates": [{ "name", "party", "votes", "pct", "seats", "change", "winner" }],
+  "candidates": [{ "name", "party", "votes", "pct", "seats", "change", "winner", "advanced", "short" }],
+  "call": { "status": "runoff", "parties": ["pl", "pt"], "by": "the Superior Electoral Court" },
   "regions": [{
     "name": "Ohio", "abbr": "OH", "contested": true, "winner": "gop",
     "margin": 17.7, "turnout": 54.1, "votes": 2097363, "seats": 15,
@@ -136,7 +149,9 @@ An election in `data/countries/<CODE>.json`:
 }
 ```
 
-`cite` names the source of the national figures. `statesFrom` is set when region
+A first round whose run-off is still to come has `call.status` "runoff", with the two
+candidates going through flagged `advanced` (`short` is an optional short name, such as
+"Lula"). `cite` names the source of the national figures. `statesFrom` is set when region
 winners come from a source rather than the sample generator. `chamberSize` is set when
 `totalSeats` counts only the seats that were up (Argentina's half renewals).
 
@@ -144,7 +159,8 @@ A region's `abbr` matches the suffix of its shape id in `regions.topo.json`, and
 district's `abbr` the suffix of its id in `data/districts/<CODE>.topo.json`. When
 `contested` is false the globe hatches the region as having no race. During a live
 count a region or district has a `leader` but no `winner` until it is called. The
-country file also carries `about` (system facts per office) and `polls`.
+country file also carries `about` (system facts per office), and `polls` only for real
+polling series, each with a `source`.
 
 A live file (`data/live/US.json`) is `{ code, updatedAt, elections: [...] }` in the
 same shape. The page overlays it by election id, so it can update an existing race or
@@ -230,7 +246,7 @@ geographically.
 
 ## Past elections
 
-Every country has every national election since 1948 for each office it shows, 842 in
+Every country has every national election since 1948 for each office it shows, 845 in
 all. On a country page, pick a year on the rail under the office tabs (each year is marked
 in the winner's colour), or a row under Past results. A past election opens like the
 current one, with its seat chart, full results and the globe painted by region, at its
@@ -279,7 +295,7 @@ npm run history
 
 `districts` takes a country code and that country's boundary file from the table
 above (shapefile zip or GeoJSON); the field mapping for each lives in
-`scripts/build-districts.mjs`. `mock` rewrites all sample results, polling and system
+`scripts/build-districts.mjs`. `mock` rewrites all sample results and system
 facts, adds sample past results only for offices without real ones, and leaves alone
 any election that carries a `source`. One run is enough: each election is rebuilt until
 the district maps stop changing its region winners.

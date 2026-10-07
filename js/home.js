@@ -1,6 +1,6 @@
 import { nextOffices, nextText } from './status.js';
 import { loadCountry } from './data.js';
-import { fmtDate, fmtLongDate, daysUntil } from './format.js';
+import { fmtDate, fmtLongDate, fmtFullDate, daysUntil } from './format.js';
 
 export function renderHome(panel, ctx) {
   const { index, schedule, globe, statuses } = ctx;
@@ -18,7 +18,7 @@ export function renderHome(panel, ctx) {
       <header class="intro">
         <p class="eyebrow">National elections</p>
         <h1>Elections around the world.</h1>
-        <p class="lede">Spin the globe and pick a country to see its result state by state. On election day the count updates live. The rest of the time you see the last result.</p>
+        <p class="lede">Spin the globe and pick a country to see who won, state by state, in its latest election and every national election since 1948.${ctx.index.asOf ? ` Results as of ${fmtFullDate(ctx.index.asOf)}.` : ''}</p>
       </header>
       <dl class="stats"></dl>
       <a class="feature"></a>
@@ -34,7 +34,7 @@ export function renderHome(panel, ctx) {
         <h2 class="block-title">Latest results</h2>
         <ul class="recent"><li class="muted">Loading…</li></ul>
       </section>
-      <p class="fineprint">Sample data for layout only. Results are not real.</p>
+      <p class="fineprint">National results are official figures. Each country page names its source and says which parts of its map are illustrative.</p>
     </div>`;
 
   const stats = panel.querySelector('.stats');
@@ -177,7 +177,7 @@ export function renderHome(panel, ctx) {
       <li><a href="#/${country.code}/${e.id}">
         <span class="rc-main"><b>${country.name}</b><span>${e.office}${e.note ? ` ${e.note.toLowerCase()}` : ''} · ${fmtDate(e.date)}${e.source ? ` · ${e.source.short}` : ''}</span></span>
         <span class="rc-win">${runoff?.length
-          ? `Run-off: ${runoff.map(c => c.name.split(' ').at(-1)).join(' v ')}`
+          ? `Run-off: ${runoff.map(c => c.short ?? (c.name.split(' ').slice(1).join(' ') || c.name)).join(' v ')}`
           : `<i class="sw" style="background:${party.color}"></i>${win.name}`}</span>
       </a></li>`).join('');
   }

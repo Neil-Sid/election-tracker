@@ -1,6 +1,6 @@
 import { asset } from './data.js';
 
-const COARSE = 'https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json';
+const COARSE = asset('data/world-coarse.topo.json');
 const DETAIL = asset('data/world-detail.topo.json');
 const cache = new Map();
 

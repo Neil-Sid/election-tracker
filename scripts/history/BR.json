@@ -169,6 +169,22 @@
     "ind": {
       "name": "Independents",
       "color": "#DCDCDC"
+    },
+    "ptb": {
+      "name": "PTB",
+      "color": "#008040"
+    },
+    "psc": {
+      "name": "PSC",
+      "color": "#009118"
+    },
+    "pros": {
+      "name": "PROS",
+      "color": "#A0522D"
+    },
+    "patriota": {
+      "name": "Patriota",
+      "color": "#00552A"
     }
   },
   "elections": [
@@ -5012,6 +5028,524 @@
         }
       ],
       "notes": "Seats are the Senate's composition after the election (81 seats); 54 seats were contested. One independent senator is in the composition; the table gives independents 0 votes."
+    },
+    {
+      "id": "br-president-2022",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2022-10-02",
+      "turnout": 79.42,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election",
+        "revid": 1378689124
+      },
+      "candidates": [
+        {
+          "name": "Lula da Silva",
+          "party": "pt",
+          "votes": 60345999,
+          "pct": 50.9,
+          "winner": true
+        },
+        {
+          "name": "Jair Bolsonaro",
+          "party": "pl",
+          "votes": 58206354,
+          "pct": 49.1
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2022-10-02",
+          "candidates": [
+            {
+              "name": "Lula da Silva",
+              "party": "pt",
+              "votes": 57259504,
+              "pct": 48.43
+            },
+            {
+              "name": "Jair Bolsonaro",
+              "party": "pl",
+              "votes": 51072345,
+              "pct": 43.2
+            },
+            {
+              "name": "Simone Tebet",
+              "party": "mdb",
+              "votes": 4915423,
+              "pct": 4.16
+            },
+            {
+              "name": "Ciro Gomes",
+              "party": "pdt",
+              "votes": 3599287,
+              "pct": 3.04
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 1383160,
+              "pct": 1.17
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2022-10-30",
+          "candidates": [
+            {
+              "name": "Lula da Silva",
+              "party": "pt",
+              "votes": 60345999,
+              "pct": 50.9,
+              "winner": true
+            },
+            {
+              "name": "Jair Bolsonaro",
+              "party": "pl",
+              "votes": 58206354,
+              "pct": 49.1
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 79.05% (both computed from the template's valid, blank and invalid votes and electorate). First-round others: Soraya Thronicke (Brazil Union) 600,955, Luiz Felipe d'Avila (New Party) 559,708, Kelmon Souza (Brazilian Labour Party) 81,129, Leonardo Péricles (Popular Unity) 53,519, Sofia Manzano (Brazilian Communist Party) 45,620, Vera Lúcia Salgado (United Socialist Workers' Party) 25,625, José Maria Eymael (Christian Democracy) 16,604. Region winners are each state's run-off winner from the by-federative-unit table, whose columns add up to the national run-off totals (voters abroad excluded).",
+      "regionWinners": {
+        "AC": "pl",
+        "AL": "pt",
+        "AP": "pl",
+        "AM": "pt",
+        "BA": "pt",
+        "CE": "pt",
+        "ES": "pl",
+        "DF": "pl",
+        "GO": "pl",
+        "MA": "pt",
+        "MT": "pl",
+        "MS": "pl",
+        "MG": "pt",
+        "PA": "pt",
+        "PB": "pt",
+        "PR": "pl",
+        "PE": "pt",
+        "PI": "pt",
+        "RJ": "pl",
+        "RN": "pt",
+        "RS": "pl",
+        "RO": "pl",
+        "RR": "pl",
+        "SC": "pl",
+        "SP": "pl",
+        "SE": "pt",
+        "TO": "pt"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election#By_federative_unit"
+    },
+    {
+      "id": "br-chamber-2022",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2022-10-02",
+      "totalSeats": 513,
+      "turnout": 79.2,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election",
+        "revid": 1378689124
+      },
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 18200300,
+          "pct": 16.64,
+          "seats": 99,
+          "change": 66,
+          "winner": true
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 13236698,
+          "pct": 12.1,
+          "seats": 69,
+          "change": 13
+        },
+        {
+          "name": "Brazil Union",
+          "party": "uniao",
+          "votes": 10215433,
+          "pct": 9.34,
+          "seats": 59,
+          "change": -22
+        },
+        {
+          "name": "Progressistas",
+          "party": "pp",
+          "votes": 8692918,
+          "pct": 7.95,
+          "seats": 47,
+          "change": 10
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 8293956,
+          "pct": 7.58,
+          "seats": 42,
+          "change": 8
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 7870810,
+          "pct": 7.19,
+          "seats": 42,
+          "change": 8
+        },
+        {
+          "name": "Republicans",
+          "party": "rep",
+          "votes": 7610894,
+          "pct": 6.96,
+          "seats": 40,
+          "change": 10
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3828367,
+          "pct": 3.5,
+          "seats": 17,
+          "change": -11
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 4173479,
+          "pct": 3.81,
+          "seats": 14,
+          "change": -18
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 3309061,
+          "pct": 3.02,
+          "seats": 13,
+          "change": -16
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 3852246,
+          "pct": 3.52,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "Podemos",
+          "party": "pode",
+          "votes": 3610634,
+          "pct": 3.3,
+          "seats": 12,
+          "change": -5
+        },
+        {
+          "name": "Avante",
+          "party": "avante",
+          "votes": 2192518,
+          "pct": 2,
+          "seats": 7,
+          "change": 0
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 1944678,
+          "pct": 1.78,
+          "seats": 6,
+          "change": -2
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 1154712,
+          "pct": 1.06,
+          "seats": 6,
+          "change": -4
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 954578,
+          "pct": 0.87,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Cidadania",
+          "party": "cidadania",
+          "votes": 1614106,
+          "pct": 1.48,
+          "seats": 5,
+          "change": -3
+        },
+        {
+          "name": "Solidarity",
+          "party": "solidariedade",
+          "votes": 1702519,
+          "pct": 1.56,
+          "seats": 4,
+          "change": -9
+        },
+        {
+          "name": "Patriota",
+          "party": "patriota",
+          "votes": 1526570,
+          "pct": 1.4,
+          "seats": 4,
+          "change": -5
+        },
+        {
+          "name": "New Party",
+          "party": "novo",
+          "votes": 1354754,
+          "pct": 1.24,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "Republican Party of the Social Order",
+          "party": "pros",
+          "votes": 799661,
+          "pct": 0.73,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "Sustainability Network",
+          "party": "rede",
+          "votes": 782917,
+          "pct": 0.72,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 1422652,
+          "pct": 1.3,
+          "seats": 1,
+          "change": -9
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1064013,
+          "pct": 0.97,
+          "seats": 0,
+          "change": -6
+        }
+      ],
+      "notes": "Federation members are listed separately, as the table gives their seats: Brazil of Hope (PT, PCdoB, PV), Always Forward (PSDB, Cidadania), PSOL REDE (PSOL, Rede). Change is the table's comparison with 2018 (União Brasil against PSL plus DEM; PCdoB, Podemos and Patriota including parties that merged into them). Others: Brazilian Labour Renewal Party 292,371, Party of National Mobilization 256,578, Act 158,868, Christian Democracy 97,741, Brazilian Communist Party 85,511, Brazilian Woman's Party 83,055, Popular Unity 54,586, United Socialist Workers' Party 27,995, Workers' Cause Party 7,308; Popular Unity's change is \"new\" and counts as 0. Shares are computed from the table's votes. Turnout is valid, blank (7,501,125) and invalid (6,285,972) votes over the electorate (155,557,422). Region winners (party with the most votes) only for the 13 states whose 2022 state article has a Chamber results table: BA (2022 Bahia general election, revid 1368581750); CE (2022 Ceará general election, revid 1369369860); ES (2022 Espírito Santo general election, revid 1378263538); DF (2022 Federal District gubernatorial election, revid 1378553064); MA (2022 Maranhão gubernatorial election, revid 1343051548); MS (2022 Mato Grosso do Sul gubernatorial election, revid 1343054066); MG (2022 Minas Gerais general election, revid 1368559693); PR (2022 Paraná gubernatorial election, revid 1376606162); PE (2022 Pernambuco gubernatorial election, revid 1375668392); RJ (2022 Rio de Janeiro general election, revid 1376620930); RS (2022 Rio Grande do Sul gubernatorial election, revid 1376620885); SC (2022 Santa Catarina gubernatorial election, revid 1376626082); SP (2022 São Paulo general election, revid 1376640588). Their seat totals match the allotment (BA 39, CE 22, ES 10, DF 8, MA 18, MS 8, MG 53, PR 30, PE 25, RJ 46, RS 31, SC 16, SP 70). Alagoas's article lists only the elected deputies.",
+      "regionWinners": {
+        "BA": "pt",
+        "CE": "pl",
+        "ES": "pp",
+        "DF": "rep",
+        "MA": "pl",
+        "MS": "psdb",
+        "MG": "pl",
+        "PR": "psd",
+        "PE": "psb",
+        "RJ": "pl",
+        "RS": "pt",
+        "SC": "pl",
+        "SP": "pl"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:2022_Brazilian_gubernatorial_elections"
+    },
+    {
+      "id": "br-senate-2022",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2022-10-02",
+      "totalSeats": 81,
+      "turnout": 79.2,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election",
+        "revid": 1378689124
+      },
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 25278764,
+          "pct": 25.39,
+          "seats": 13,
+          "change": 11,
+          "winner": true
+        },
+        {
+          "name": "Brazil Union",
+          "party": "uniao",
+          "votes": 5465486,
+          "pct": 5.49,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 11312512,
+          "pct": 11.36,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 3882458,
+          "pct": 3.9,
+          "seats": 10,
+          "change": -2
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 12024696,
+          "pct": 12.08,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Progressistas",
+          "party": "pp",
+          "votes": 7592391,
+          "pct": 7.62,
+          "seats": 7,
+          "change": 2
+        },
+        {
+          "name": "Podemos",
+          "party": "pode",
+          "votes": 1776283,
+          "pct": 1.78,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 1384871,
+          "pct": 1.39,
+          "seats": 4,
+          "change": -5
+        },
+        {
+          "name": "Republicans",
+          "party": "rep",
+          "votes": 4259279,
+          "pct": 4.28,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 1586922,
+          "pct": 1.59,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 13615846,
+          "pct": 13.67,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 4285485,
+          "pct": 4.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Republican Party of the Social Order",
+          "party": "pros",
+          "votes": 213247,
+          "pct": 0.21,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Sustainability Network",
+          "party": "rede",
+          "votes": 8133,
+          "pct": 0.01,
+          "seats": 1,
+          "change": -4
+        },
+        {
+          "name": "Cidadania",
+          "party": "cidadania",
+          "votes": 0,
+          "pct": 0,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2046003,
+          "pct": 2.05,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Avante",
+          "party": "avante",
+          "votes": 1359455,
+          "pct": 1.37,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3487306,
+          "pct": 3.5,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column: senators elected in 2022 plus those not up, by party at the time); 27 seats were contested, one per state. Seats won in 2022: Liberal Party 8, Brazil Union 5, Workers' Party 4, Progressistas 3, Social Democratic Party 2, Republicans 2, Brazilian Socialist Party 1, Social Christian Party 1, Brazilian Democratic Movement 1. Change is the table's +/− column against the same count after 2018. Cidadania holds a seat with no 2022 candidates (0 votes); Sustainability Network and PROS hold seats not up in 2022. Others: Green Party 475,597, Communist Party of Brazil 299,013, Brazilian Labour Renewal Party 758,938, Socialism and Liberty Party 675,244, New Party 479,593, Popular Unity 291,294, United Socialist Workers' Party 132,680, Christian Democracy 94,098, Patriota 76,729, Brazilian Communist Party 64,569, Brazilian Woman's Party 61,350, Party of National Mobilization 27,812, Act 24,076, Solidarity 17,339, Workers' Cause Party 8,974, Independent 0. Turnout is valid, blank (9,340,309) and invalid (14,276,125) votes over the electorate (155,557,422). Region winners (the elected senator's party) only for the 14 states with a 2022 state article: AL Renan Filho, BA Otto Alencar, CE Camilo Santana, ES Magno Malta, DF Damares Alves, MA Flávio Dino, MS Tereza Cristina, MG Cleiton Azevedo, PR Sergio Moro, PE Teresa Leitão, RJ Romário Faria, RS Hamilton Mourão, SC Jorge Seif, SP Marcos Pontes.",
+      "regionWinners": {
+        "AL": "mdb",
+        "BA": "psd",
+        "CE": "pt",
+        "ES": "pl",
+        "DF": "rep",
+        "MA": "psb",
+        "MS": "pp",
+        "MG": "psc",
+        "PR": "uniao",
+        "PE": "pt",
+        "RJ": "pl",
+        "RS": "rep",
+        "SC": "pl",
+        "SP": "pl"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:2022_Brazilian_gubernatorial_elections"
     }
   ]
 }

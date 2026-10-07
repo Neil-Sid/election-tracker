@@ -127,7 +127,7 @@
     "note": "Run-off",
     "timezone": "America/Sao_Paulo",
     "pollsClose": "17:00",
-    "basedOn": "br-president-2022"
+    "basedOn": "br-president-2026"
   },
   {
     "country": "BR",
@@ -137,7 +137,7 @@
     "tentative": true,
     "timezone": "America/Sao_Paulo",
     "pollsClose": "17:00",
-    "basedOn": "br-senate-2022"
+    "basedOn": "br-senate-2026"
   },
   {
     "country": "AR",
@@ -263,7 +263,7 @@
     "date": "2030-10-06",
     "timezone": "America/Sao_Paulo",
     "pollsClose": "17:00",
-    "basedOn": "br-chamber-2022",
+    "basedOn": "br-chamber-2026",
     "tentative": true
   },
   {

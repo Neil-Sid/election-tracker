@@ -1,15 +1,15 @@
 #!/usr/bin/env node
-// Fills data/countries/*.json with placeholder detail: a result for every
-// state/region, past elections, polling for the next vote and a short "how it
-// works". Seeded, so re-running gives the same numbers. Real feeds should write
-// the same fields directly; nothing here is a real result.
+// Fills data/countries/*.json with generated detail: a result for every
+// state/region and district, sample past results where there are no real ones,
+// and a short "how it works". National results, real region winners and seat
+// splits are kept as given. Seeded, so re-running gives the same numbers.
 
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { EXTRA, NEW, NEW_INDEX, NEW_SCHEDULE, NEW_HISTORY, NEW_ABOUT, EXTRA_ABOUT } from './seeds.mjs';
 import { buildDistricts, fitSeats, addSeatShares } from './districts.mjs';
-import { seeded, r1, clamp, nationalBase, allocate, regionResult, REGIONAL, standsIn } from './regions.mjs';
+import { seeded, r1, nationalBase, allocate, regionResult, REGIONAL, standsIn } from './regions.mjs';
 
 // Chambers elected in single-member districts get a district breakdown when
 // data/districts/<CODE>.topo.json exists.
@@ -20,7 +20,6 @@ const DISTRICT_ELECTIONS = {
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const countriesDir = path.join(root, 'data', 'countries');
-const TODAY = new Date('2026-10-05T00:00:00Z');
 const CODES = ['US', 'CA', 'BR', 'AR', 'GB', 'ES', 'FR', 'DE', 'AU', ...Object.keys(NEW)];
 const SEED_KEYS = ['winners', 'defaultWinner', 'regionSeats', 'partial'];
 
@@ -82,8 +81,6 @@ const HISTORY = {
   'us-senate-2024': [2022, 2020, 2018, 2016],
   'us-governors-2024': [2022, 2020, 2018, 2016],
   'ca-house-2025': [2021, 2019, 2015, 2011],
-  'br-president-2022': [2018, 2014, 2010, 2006],
-  'br-senate-2022': [2018, 2014, 2010],
   'ar-president-2023': [2019, 2015, 2011],
   'ar-senate-2025': [2023, 2021, 2019],
   'gb-commons-2024': [2019, 2017, 2015, 2010],
@@ -296,35 +293,6 @@ function history(el, years, rand) {
   });
 }
 
-function polls(country, schedule) {
-  const seen = new Set();
-  const out = [];
-  const upcoming = schedule.filter(s => s.country === country.code && s.date >= TODAY.toISOString().slice(0, 10));
-  for (const entry of upcoming.sort((a, b) => a.date.localeCompare(b.date))) {
-    if (seen.has(entry.office)) continue;
-    seen.add(entry.office);
-    const basis = country.elections.find(e => e.id === entry.basedOn);
-    if (!basis) continue;
-    const view = basis.rounds ? basis.rounds[0] : basis;
-    const rand = seeded(`polls-${entry.basedOn}`);
-    const parties = nationalBase(view).slice(0, /run-off/i.test(entry.note ?? '') ? 2 : 4);
-    const weeks = 30;
-    const series = parties.map(p => {
-      const target = p.pct + (rand() - 0.5) * 8;
-      let v = p.pct;
-      const points = [];
-      for (let w = weeks - 1; w >= 0; w--) {
-        v += (rand() - 0.5) * 1.8 + (target - v) * 0.12;
-        const d = new Date(TODAY.getTime() - w * 7 * 86400000).toISOString().slice(0, 10);
-        points.push([d, r1(clamp(v, 0.5, 70))]);
-      }
-      return { party: p.party, points };
-    });
-    out.push({ office: entry.office, date: entry.date, note: entry.note ?? null, tentative: Boolean(entry.tentative), series });
-  }
-  return out;
-}
-
 Object.assign(HISTORY, NEW_HISTORY);
 Object.assign(ABOUT, NEW_ABOUT);
 for (const [code, offices] of Object.entries(EXTRA_ABOUT)) Object.assign(ABOUT[code].offices, offices);
@@ -463,8 +431,8 @@ for (const code of CODES) {
   }
 
   const { name, subtitle, parties, elections } = country;
-  const out = { code, name, subtitle, about: ABOUT[code], parties, elections, polls: polls({ ...country, code }, schedule) };
+  const out = { code, name, subtitle, about: ABOUT[code], parties, elections, ...(country.polls?.some(p => p.source) ? { polls: country.polls } : {}) };
   await writeFile(file, countryJSON(out));
   const regions = elections.reduce((n, e) => n + (e.regions?.length ?? 0), 0);
-  console.log(`${code}: ${elections.length} elections, ${regions} region results, ${out.polls.length} polling series`);
+  console.log(`${code}: ${elections.length} elections, ${regions} region results`);
 }

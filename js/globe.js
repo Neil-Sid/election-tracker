@@ -358,6 +358,25 @@ export async function createGlobe(pane, { countries }) {
   // never stops a flight that is under way.
   let samples = [];
   let travel = 0;
+  // Two fingers zoom by their spread, relative to the zoom when the pinch
+  // began; the drag below ignores them meanwhile.
+  let pinch = null;
+  const spread = t => Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].clientY);
+  canvas.addEventListener('touchstart', e => {
+    if (e.touches.length !== 2) return;
+    pinch = { d: spread(e.touches), k: zoomTarget ?? k };
+    fly = null;
+    interact();
+  });
+  canvas.addEventListener('touchmove', e => {
+    if (!pinch || e.touches.length !== 2) return;
+    zoomTarget = clampK((pinch.k * spread(e.touches)) / pinch.d);
+    interact();
+  });
+  const unpinch = e => { if (e.touches.length < 2) pinch = null; };
+  canvas.addEventListener('touchend', unpinch);
+  canvas.addEventListener('touchcancel', unpinch);
+
   d3.select(canvas).call(d3.drag()
     .clickDistance(5)
     .on('start', () => {
@@ -366,6 +385,7 @@ export async function createGlobe(pane, { countries }) {
       interact();
     })
     .on('drag', e => {
+      if (pinch) return;
       if (!dragging) {
         travel += Math.hypot(e.dx, e.dy);
         if (travel < 4) return;

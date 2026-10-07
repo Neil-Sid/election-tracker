@@ -1,6 +1,6 @@
 import { loadCountry } from './data.js';
 import { nextText } from './status.js';
-import { fmtInt, fmtPct, fmtDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
+import { fmtInt, fmtPct, fmtDate, fmtFullDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
 import { chamber, duel, historyRows, pollChart } from './charts.js';
 
 export function renderCountry(panel, ctx, { meta, country: initial, archive, electionId }) {
@@ -175,8 +175,9 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     renderElection();
     renderExtras();
     const el = current();
+    const asOf = !picked && ctx.index.asOf ? ` Results as of ${fmtFullDate(ctx.index.asOf)}.` : '';
     fineprint.textContent = el.cite
-      ? `National results from ${el.cite.name}, via Wikipedia. ${el.statesFrom ? `Winners by ${term} are sourced; their shares are illustrative.` : `Results by ${term} are illustrative.`}`
+      ? `National results from ${el.cite.name}, via Wikipedia. ${el.statesFrom ? `Winners by ${term} are sourced; their shares are illustrative.` : `Results by ${term} are illustrative.`}${asOf}`
       : 'Sample data for layout. Results are not real.';
   }
 
@@ -570,7 +571,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
             <span class="muted">Next vote ${poll.tentative ? `expected ${poll.date.slice(0, 4)}` : fmtDate(poll.date)}</span>
           </div>
           ${pollChart(poll, party)}
-          <p class="note">Sample polling series for layout, not real polls. Change since ${pollFrom}.</p>
+          <p class="note">${poll.source ? `Polling from ${poll.source}. ` : ''}Change since ${pollFrom}.</p>
         </section>` : ''}
       ${hist ? `
         <section class="block">

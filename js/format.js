@@ -19,6 +19,9 @@ export function timeAgo(iso) {
   return fmtDate(iso.slice(0, 10));
 }
 
+export const fmtFullDate = iso =>
+  new Date(iso + 'T00:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
 export const fmtLongDate = iso =>
   new Date(iso + 'T00:00:00').toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 
