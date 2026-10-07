@@ -1,0 +1,5471 @@
+{
+  "code": "IT",
+  "parties": {
+    "dc": {
+      "name": "Christian Democracy",
+      "color": "#87CEFA",
+      "article": "Christian Democracy (Italy)"
+    },
+    "fdp": {
+      "name": "Popular Democratic Front",
+      "color": "#EE2C21",
+      "article": "Popular Democratic Front (Italy)"
+    },
+    "us": {
+      "name": "Socialist Unity",
+      "color": "#FF8282",
+      "article": "Socialist Unity (Italy)"
+    },
+    "bn": {
+      "name": "National Bloc",
+      "color": "#272E75",
+      "article": "National Bloc (Italy, 1948)"
+    },
+    "pnm": {
+      "name": "Monarchist National Party",
+      "color": "#4B61D1",
+      "article": "Monarchist National Party"
+    },
+    "pri": {
+      "name": "Italian Republican Party",
+      "color": "#3CB371",
+      "article": "Italian Republican Party"
+    },
+    "msi": {
+      "name": "Italian Social Movement",
+      "color": "#555555",
+      "article": "Italian Social Movement"
+    },
+    "pcont": {
+      "name": "Peasants' Party of Italy",
+      "color": "#99CC33",
+      "article": "Peasants' Party of Italy"
+    },
+    "psdaz": {
+      "name": "Sardinian Action Party",
+      "color": "#708090",
+      "article": "Sardinian Action Party"
+    },
+    "uspri": {
+      "name": "Socialist Unity–PRI",
+      "color": "#FFC0CB"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "pci": {
+      "name": "Italian Communist Party",
+      "color": "#C72F35",
+      "article": "Italian Communist Party"
+    },
+    "psi": {
+      "name": "Italian Socialist Party",
+      "color": "#ED2855",
+      "article": "Italian Socialist Party"
+    },
+    "psdi": {
+      "name": "Italian Democratic Socialist Party",
+      "color": "#FF8282",
+      "article": "Italian Democratic Socialist Party"
+    },
+    "pli": {
+      "name": "Italian Liberal Party",
+      "color": "#2975C2",
+      "article": "Italian Liberal Party"
+    },
+    "and": {
+      "name": "National Democratic Alliance",
+      "color": "#32CD32",
+      "article": "National Democratic Alliance (Italy)"
+    },
+    "pmp": {
+      "name": "People's Monarchist Party",
+      "color": "#002366",
+      "article": "People's Monarchist Party (Italy)"
+    },
+    "prirad": {
+      "name": "PRI–Radical Party",
+      "color": "#3CB371"
+    },
+    "mc": {
+      "name": "Community Movement",
+      "color": "#800080",
+      "article": "Community Movement"
+    },
+    "uv": {
+      "name": "Valdostan Union",
+      "color": "#5EABD1",
+      "article": "Valdostan Union"
+    },
+    "pcipsi": {
+      "name": "PCI–PSI",
+      "color": "#FF0000"
+    },
+    "msipnm": {
+      "name": "MSI–PNM",
+      "color": "#6B5B95"
+    },
+    "pdium": {
+      "name": "Italian Democratic Party of Monarchist Unity",
+      "color": "#536CE8",
+      "article": "Italian Democratic Party of Monarchist Unity"
+    },
+    "dcpri": {
+      "name": "DC–PRI",
+      "color": "#5F9EA0"
+    },
+    "msipdium": {
+      "name": "MSI–PDIUM",
+      "color": "#6B5B95"
+    },
+    "psca": {
+      "name": "Social Christian Autonomist Party",
+      "color": "#FFA500"
+    },
+    "psu": {
+      "name": "Unified Socialist Party",
+      "color": "#E52F63",
+      "article": "Unified Socialist Party (Italy)"
+    },
+    "psiup": {
+      "name": "Italian Socialist Party of Proletarian Unity",
+      "color": "#EF2626",
+      "article": "Italian Socialist Party of Proletarian Unity"
+    },
+    "pcipsiup": {
+      "name": "PCI–PSIUP",
+      "color": "#C72F35"
+    },
+    "dcuvrv": {
+      "name": "DC–UV–RV–PSDI",
+      "color": "#5EABD1"
+    },
+    "pcipsiupsd": {
+      "name": "PCI–PSIUP–PSd'Az",
+      "color": "#8B1A1A"
+    },
+    "dp": {
+      "name": "Proletarian Democracy",
+      "color": "#8B0000",
+      "article": "Proletarian Democracy"
+    },
+    "pr": {
+      "name": "Radical Party",
+      "color": "#FFD700",
+      "article": "Radical Party (Italy)"
+    },
+    "pcipsipdup": {
+      "name": "PCI–PSI–PdUP",
+      "color": "#FF0000"
+    },
+    "plipripsdi": {
+      "name": "PLI–PRI–PSDI",
+      "color": "#90EE90"
+    },
+    "dcrvuv": {
+      "name": "DC–RV–UV–UVP–PRI",
+      "color": "#5EABD1"
+    },
+    "pdup": {
+      "name": "Proletarian Unity Party",
+      "color": "#FF0000",
+      "article": "Proletarian Unity Party (Italy)"
+    },
+    "lpt": {
+      "name": "List for Trieste",
+      "color": "#4CBB17",
+      "article": "List for Trieste"
+    },
+    "prnsu": {
+      "name": "Radical Party–New United Left",
+      "color": "#FFC0CB"
+    },
+    "lv": {
+      "name": "Liga Veneta",
+      "color": "#0030AA",
+      "article": "Liga Veneta"
+    },
+    "pnp": {
+      "name": "Pensioners' National Party",
+      "color": "#B8860B",
+      "article": "Pensioners' National Party"
+    },
+    "plipri": {
+      "name": "PLI–PRI",
+      "color": "#6A5ACD"
+    },
+    "flv": {
+      "name": "Federation of Green Lists",
+      "color": "#6CC417",
+      "article": "Federation of Green Lists"
+    },
+    "ll": {
+      "name": "Lega Lombarda",
+      "color": "#008000",
+      "article": "Lega Lombarda"
+    },
+    "psipsdipr": {
+      "name": "PSI–PSDI–PR",
+      "color": "#C71585"
+    },
+    "als": {
+      "name": "Lay-Socialist Alliance",
+      "color": "#FF69B4"
+    },
+    "psipsdiprv": {
+      "name": "PSI–PSDI–PR–Greens",
+      "color": "#BDB76B"
+    },
+    "pds": {
+      "name": "Democratic Party of the Left",
+      "color": "#C72F35",
+      "article": "Democratic Party of the Left"
+    },
+    "prc": {
+      "name": "Communist Refoundation Party",
+      "color": "#8B0000",
+      "article": "Communist Refoundation Party"
+    },
+    "fdv": {
+      "name": "Federation of the Greens",
+      "color": "#6CC417",
+      "article": "Federation of the Greens"
+    },
+    "rete": {
+      "name": "The Network",
+      "color": "#DF0174",
+      "article": "The Network (political party)"
+    },
+    "lp": {
+      "name": "Pannella List",
+      "color": "#FFD700",
+      "article": "Pannella List"
+    },
+    "fpuv": {
+      "name": "Federalism–Pensioners Living Men",
+      "color": "#8FBC8F"
+    },
+    "lav": {
+      "name": "Lega Autonomia Veneta",
+      "color": "#DAA520",
+      "article": "Lega Autonomia Veneta"
+    },
+    "percal": {
+      "name": "For Calabria",
+      "color": "#F4A460"
+    },
+    "lal": {
+      "name": "Lega Alpina Lumbarda",
+      "color": "#3333FF",
+      "article": "Lega Alpina Lumbarda"
+    },
+    "permol": {
+      "name": "For Molise",
+      "color": "#0090DC"
+    },
+    "sir": {
+      "name": "Yes Referendum",
+      "color": "#DA70D6"
+    },
+    "fi94": {
+      "name": "Forza Italia",
+      "color": "#0087DC",
+      "article": "Forza Italia (1994)"
+    },
+    "an": {
+      "name": "National Alliance",
+      "color": "#0148A4",
+      "article": "National Alliance (Italy)"
+    },
+    "ppi": {
+      "name": "Italian People's Party",
+      "color": "#87CEFA",
+      "article": "Italian People's Party (1994)"
+    },
+    "ccd": {
+      "name": "Christian Democratic Centre",
+      "color": "#00CED1",
+      "article": "Christian Democratic Centre"
+    },
+    "ad": {
+      "name": "Democratic Alliance",
+      "color": "#9370DB",
+      "article": "Democratic Alliance (Italy)"
+    },
+    "ps": {
+      "name": "Segni Pact",
+      "color": "#FF8C00",
+      "article": "Segni Pact"
+    },
+    "lam": {
+      "name": "Southern Action League",
+      "color": "#00008B",
+      "article": "Southern Action League"
+    },
+    "polo": {
+      "name": "Pole of Freedoms – Pole of Good Government",
+      "color": "#0A6BE1",
+      "article": "Pole of Freedoms"
+    },
+    "patto": {
+      "name": "Pact for Italy",
+      "color": "#FF8C00",
+      "article": "Pact for Italy"
+    },
+    "magris": {
+      "name": "Magris List",
+      "color": "#FFA364"
+    },
+    "pprodi": {
+      "name": "Populars for Prodi",
+      "color": "#20B2AA",
+      "article": "Populars for Prodi"
+    },
+    "ccdcdu": {
+      "name": "CCD–CDU (White Flower)",
+      "color": "#A6DBEC"
+    },
+    "ri": {
+      "name": "Italian Renewal",
+      "color": "#7B68EE",
+      "article": "Italian Renewal"
+    },
+    "ual": {
+      "name": "Ladin Autonomist Union",
+      "color": "#6495ED",
+      "article": "Ladin Autonomist Union"
+    },
+    "cdu": {
+      "name": "United Christian Democrats",
+      "color": "#4682B4",
+      "article": "United Christian Democrats"
+    },
+    "prog": {
+      "name": "Progressives",
+      "color": "#D90000",
+      "article": "Progressives (Italy)"
+    },
+    "ft": {
+      "name": "Tricolour Flame",
+      "color": "#555555",
+      "article": "Tricolour Flame"
+    },
+    "ds": {
+      "name": "Democrats of the Left",
+      "color": "#C72F35",
+      "article": "Democrats of the Left"
+    },
+    "dl": {
+      "name": "Democracy is Freedom – The Daisy",
+      "color": "#66CDAA",
+      "article": "Democracy is Freedom – The Daisy"
+    },
+    "girasole": {
+      "name": "The Sunflower",
+      "color": "#6CC417",
+      "article": "The Sunflower"
+    },
+    "pdci": {
+      "name": "Party of Italian Communists",
+      "color": "#FF4500",
+      "article": "Party of Italian Communists"
+    },
+    "npsi": {
+      "name": "New Italian Socialist Party",
+      "color": "#FA8072",
+      "article": "New Italian Socialist Party"
+    },
+    "rs": {
+      "name": "Sardinian Reformers",
+      "color": "#2B65EC",
+      "article": "Sardinian Reformers"
+    },
+    "ns": {
+      "name": "New Sicily",
+      "color": "#FFEB3B",
+      "article": "New Sicily"
+    },
+    "illy": {
+      "name": "With Illy for Trieste",
+      "color": "#F0E68C"
+    },
+    "idv": {
+      "name": "Italy of Values",
+      "color": "#FFA500",
+      "article": "Italy of Values"
+    },
+    "de": {
+      "name": "European Democracy",
+      "color": "#6495ED",
+      "article": "European Democracy"
+    },
+    "lb": {
+      "name": "Bonino List",
+      "color": "#FFD700",
+      "article": "Bonino List"
+    },
+    "sdi": {
+      "name": "Italian Democratic Socialists",
+      "color": "#E75480",
+      "article": "Italian Democratic Socialists"
+    },
+    "lpa": {
+      "name": "League for Autonomy – Lombard Alliance",
+      "color": "#8B008B",
+      "article": "Lega per l'Autonomia – Alleanza Lombarda"
+    },
+    "ulivo": {
+      "name": "The Olive Tree",
+      "color": "#EF3E3E",
+      "article": "The Olive Tree (Italy)"
+    },
+    "udc": {
+      "name": "Union of the Centre",
+      "color": "#87CEFA",
+      "article": "Union of the Centre (2002)"
+    },
+    "rnp": {
+      "name": "Rose in the Fist",
+      "color": "#FFD700",
+      "article": "Rose in the Fist"
+    },
+    "udeur": {
+      "name": "Union of Democrats for Europe",
+      "color": "#C04000",
+      "article": "Union of Democrats for Europe"
+    },
+    "dcanpsi": {
+      "name": "Christian Democracy – New PSI",
+      "color": "#D2B48C"
+    },
+    "ald": {
+      "name": "Autonomy Liberty Democracy",
+      "color": "#E56717",
+      "article": "Autonomy Liberty Democracy"
+    },
+    "aisa": {
+      "name": "Italian Associations in South America",
+      "color": "#2B346C",
+      "article": "Italian Associations in South America"
+    },
+    "insieme": {
+      "name": "Together with the Union",
+      "color": "#FC2D2D",
+      "article": "Together with the Union"
+    },
+    "consumatori": {
+      "name": "Consumers' List",
+      "color": "#90EE90",
+      "article": "Consumers' List"
+    },
+    "pp": {
+      "name": "Pensioners' Party",
+      "color": "#B8860B",
+      "article": "Pensioners' Party (Italy)"
+    },
+    "pdl": {
+      "name": "The People of Freedom",
+      "color": "#0087DC",
+      "article": "The People of Freedom"
+    },
+    "mpa": {
+      "name": "Movement for Autonomy",
+      "color": "#00CCCC",
+      "article": "Movement for Autonomy"
+    },
+    "sa": {
+      "name": "The Left – The Rainbow",
+      "color": "#8B0000",
+      "article": "The Left – The Rainbow"
+    },
+    "destra": {
+      "name": "The Right – Tricolour Flame",
+      "color": "#555555",
+      "article": "The Right – Tricolour Flame"
+    },
+    "sc": {
+      "name": "Civic Choice",
+      "color": "#1560BD",
+      "article": "Civic Choice"
+    },
+    "sel": {
+      "name": "Left Ecology Freedom",
+      "color": "#C80815",
+      "article": "Left Ecology Freedom"
+    },
+    "cd": {
+      "name": "Democratic Centre",
+      "color": "#E86055",
+      "article": "Democratic Centre (Italy)"
+    },
+    "usei": {
+      "name": "South American Union of Italian Emigrants",
+      "color": "#DEE573",
+      "article": "South American Union of Italian Emigrants"
+    },
+    "rc": {
+      "name": "Civil Revolution",
+      "color": "#FF6600",
+      "article": "Civil Revolution"
+    },
+    "fare": {
+      "name": "Act to Stop the Decline",
+      "color": "#808000",
+      "article": "Act to Stop the Decline"
+    },
+    "monti": {
+      "name": "With Monti for Italy",
+      "color": "#1560BD",
+      "article": "With Monti for Italy"
+    },
+    "megafono": {
+      "name": "The Megaphone – Crocetta List",
+      "color": "#FFC0CB",
+      "article": "The Megaphone – Crocetta List"
+    },
+    "gs": {
+      "name": "Great South",
+      "color": "#A9D4FF",
+      "article": "Great South (Italy)"
+    },
+    "leu": {
+      "name": "Free and Equal",
+      "color": "#B32938",
+      "article": "Free and Equal (Italy)"
+    },
+    "nci": {
+      "name": "Us with Italy–UDC",
+      "color": "#236186",
+      "article": "Us with Italy"
+    },
+    "cp": {
+      "name": "Popular Civic List",
+      "color": "#DF0174",
+      "article": "Popular Civic List"
+    },
+    "ins": {
+      "name": "Together",
+      "color": "#3CB371",
+      "article": "Together (Italy)"
+    },
+    "pap": {
+      "name": "Power to the People",
+      "color": "#CD5C5C",
+      "article": "Power to the People (Italy)"
+    }
+  },
+  "elections": [
+    {
+      "id": "it-chamber-1948",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1948-04-18",
+      "totalSeats": 574,
+      "turnout": 92.23,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1948_Italian_general_election",
+        "revid": 1378510497
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12740042,
+          "pct": 48.51,
+          "seats": 305,
+          "change": 98,
+          "winner": true
+        },
+        {
+          "name": "Popular Democratic Front",
+          "party": "fdp",
+          "votes": 8136637,
+          "pct": 30.98,
+          "seats": 183,
+          "change": -36
+        },
+        {
+          "name": "Socialist Unity",
+          "party": "us",
+          "votes": 1858116,
+          "pct": 7.07,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "National Bloc",
+          "party": "bn",
+          "votes": 1003727,
+          "pct": 3.82,
+          "seats": 19,
+          "change": -52
+        },
+        {
+          "name": "Monarchist National Party",
+          "party": "pnm",
+          "votes": 729078,
+          "pct": 2.78,
+          "seats": 14,
+          "change": -2
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 651875,
+          "pct": 2.48,
+          "seats": 9,
+          "change": -14
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 526882,
+          "pct": 2.01,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 124243,
+          "pct": 0.47,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Peasants' Party of Italy",
+          "party": "pcont",
+          "votes": 95914,
+          "pct": 0.37,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": 61928,
+          "pct": 0.24,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 336016,
+          "pct": 1.28,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1953",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1953-06-07",
+      "totalSeats": 590,
+      "turnout": 93.84,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1953_Italian_general_election",
+        "revid": 1378507312
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10862073,
+          "pct": 40.1,
+          "seats": 263,
+          "change": -41,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 6120809,
+          "pct": 22.6,
+          "seats": 143,
+          "change": 13
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3441014,
+          "pct": 12.7,
+          "seats": 75,
+          "change": 22
+        },
+        {
+          "name": "Monarchist National Party",
+          "party": "pnm",
+          "votes": 1854850,
+          "pct": 6.85,
+          "seats": 40,
+          "change": 26
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1582154,
+          "pct": 5.84,
+          "seats": 29,
+          "change": 23
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1222957,
+          "pct": 4.51,
+          "seats": 19,
+          "change": -14
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 815929,
+          "pct": 3.01,
+          "seats": 13,
+          "change": -6
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 438149,
+          "pct": 1.62,
+          "seats": 5,
+          "change": -4
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 122474,
+          "pct": 0.45,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 627292,
+          "pct": 2.32,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1958",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1958-05-25",
+      "totalSeats": 596,
+      "turnout": 93.83,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1958_Italian_general_election",
+        "revid": 1378507569
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12520207,
+          "pct": 42.35,
+          "seats": 273,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 6704454,
+          "pct": 22.68,
+          "seats": 140,
+          "change": -3
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 4206726,
+          "pct": 14.23,
+          "seats": 84,
+          "change": 9
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1407718,
+          "pct": 4.76,
+          "seats": 24,
+          "change": -5
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1345447,
+          "pct": 4.55,
+          "seats": 22,
+          "change": 3
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1047081,
+          "pct": 3.54,
+          "seats": 17,
+          "change": 4
+        },
+        {
+          "name": "People's Monarchist Party",
+          "party": "pmp",
+          "votes": 776919,
+          "pct": 2.63,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Monarchist National Party",
+          "party": "pnm",
+          "votes": 659997,
+          "pct": 2.23,
+          "seats": 11,
+          "change": -29
+        },
+        {
+          "name": "Italian Republican Party–Radical Party",
+          "party": "prirad",
+          "votes": 405782,
+          "pct": 1.37,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 135491,
+          "pct": 0.46,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Community Movement",
+          "party": "mc",
+          "votes": 173227,
+          "pct": 0.59,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Valdostan Union",
+          "party": "uv",
+          "votes": 30596,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 146624,
+          "pct": 0.5,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1963",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1963-04-28",
+      "totalSeats": 630,
+      "turnout": 92.89,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1963_Italian_general_election",
+        "revid": 1378507709
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 11773182,
+          "pct": 38.28,
+          "seats": 260,
+          "change": -13,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 7767601,
+          "pct": 25.26,
+          "seats": 166,
+          "change": 16
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 4255836,
+          "pct": 13.84,
+          "seats": 87,
+          "change": 3
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 2144270,
+          "pct": 6.97,
+          "seats": 39,
+          "change": 22
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1876271,
+          "pct": 6.1,
+          "seats": 33,
+          "change": 11
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1570282,
+          "pct": 5.11,
+          "seats": 27,
+          "change": 3
+        },
+        {
+          "name": "Italian Democratic Party of Monarchist Unity",
+          "party": "pdium",
+          "votes": 536948,
+          "pct": 1.75,
+          "seats": 8,
+          "change": -17
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 420213,
+          "pct": 1.37,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 135457,
+          "pct": 0.44,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Valdostan Union",
+          "party": "uv",
+          "votes": 31844,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 240967,
+          "pct": 0.78,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1968",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1968-05-19",
+      "totalSeats": 630,
+      "turnout": 92.79,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1968_Italian_general_election",
+        "revid": 1378507797
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12437848,
+          "pct": 39.12,
+          "seats": 266,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 8551347,
+          "pct": 26.9,
+          "seats": 177,
+          "change": 11
+        },
+        {
+          "name": "Unified Socialist Party",
+          "party": "psu",
+          "votes": 4603192,
+          "pct": 14.48,
+          "seats": 91,
+          "change": -29
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1850650,
+          "pct": 5.82,
+          "seats": 31,
+          "change": -8
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1414036,
+          "pct": 4.45,
+          "seats": 24,
+          "change": -3
+        },
+        {
+          "name": "Italian Socialist Party of Proletarian Unity",
+          "party": "psiup",
+          "votes": 1414697,
+          "pct": 4.45,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 626533,
+          "pct": 1.97,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Italian Democratic Party of Monarchist Unity",
+          "party": "pdium",
+          "votes": 414507,
+          "pct": 1.3,
+          "seats": 6,
+          "change": -2
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 152991,
+          "pct": 0.48,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 324627,
+          "pct": 1.02,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1972",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1972-05-07",
+      "totalSeats": 630,
+      "turnout": 93.19,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1972_Italian_general_election",
+        "revid": 1378507869
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12912466,
+          "pct": 38.66,
+          "seats": 266,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 9068961,
+          "pct": 27.15,
+          "seats": 179,
+          "change": 2
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3208497,
+          "pct": 9.61,
+          "seats": 61,
+          "change": null
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2894722,
+          "pct": 8.67,
+          "seats": 56,
+          "change": 32
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1718142,
+          "pct": 5.14,
+          "seats": 29,
+          "change": null
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1300439,
+          "pct": 3.89,
+          "seats": 20,
+          "change": -11
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 954357,
+          "pct": 2.86,
+          "seats": 15,
+          "change": 6
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 153674,
+          "pct": 0.46,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "DC – UV – RV – PSDI",
+          "party": "dcuvrv",
+          "votes": 34083,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Italian Socialist Party of Proletarian Unity",
+          "party": "psiup",
+          "votes": 648591,
+          "pct": 1.94,
+          "seats": 0,
+          "change": -23
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 509616,
+          "pct": 1.53,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "PSI and PSDI show no seat change in the table because they ran on a unified list in 1968."
+    },
+    {
+      "id": "it-chamber-1976",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1976-06-20",
+      "totalSeats": 630,
+      "turnout": 93.39,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1976_Italian_general_election",
+        "revid": 1378507943
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 14209519,
+          "pct": 38.71,
+          "seats": 262,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 12614650,
+          "pct": 34.37,
+          "seats": 228,
+          "change": 49
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3540309,
+          "pct": 9.64,
+          "seats": 57,
+          "change": -4
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2238339,
+          "pct": 6.1,
+          "seats": 35,
+          "change": -21
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1239492,
+          "pct": 3.38,
+          "seats": 15,
+          "change": -14
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1135546,
+          "pct": 3.09,
+          "seats": 14,
+          "change": -1
+        },
+        {
+          "name": "Proletarian Democracy",
+          "party": "dp",
+          "votes": 557025,
+          "pct": 1.52,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 480122,
+          "pct": 1.31,
+          "seats": 5,
+          "change": -15
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 394439,
+          "pct": 1.07,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 184375,
+          "pct": 0.5,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "PCI – PSI – PdUP",
+          "party": "pcipsipdup",
+          "votes": 26748,
+          "pct": 0.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 87014,
+          "pct": 0.24,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1979",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1979-06-03",
+      "totalSeats": 630,
+      "turnout": 90.62,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1979_Italian_general_election",
+        "revid": 1378508066
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 14046290,
+          "pct": 38.3,
+          "seats": 262,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 11139231,
+          "pct": 30.38,
+          "seats": 201,
+          "change": -26
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3596802,
+          "pct": 9.81,
+          "seats": 62,
+          "change": 5
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1930639,
+          "pct": 5.26,
+          "seats": 30,
+          "change": -5
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1407535,
+          "pct": 3.84,
+          "seats": 20,
+          "change": 5
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 1264870,
+          "pct": 3.45,
+          "seats": 18,
+          "change": 14
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1110209,
+          "pct": 3.03,
+          "seats": 16,
+          "change": 2
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 712646,
+          "pct": 1.94,
+          "seats": 9,
+          "change": 4
+        },
+        {
+          "name": "Proletarian Unity Party",
+          "party": "pdup",
+          "votes": 502247,
+          "pct": 1.37,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 204899,
+          "pct": 0.56,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "List for Trieste",
+          "party": "lpt",
+          "votes": 65505,
+          "pct": 0.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Valdostan Union",
+          "party": "uv",
+          "votes": 33250,
+          "pct": 0.09,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 657185,
+          "pct": 1.79,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1983",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1983-06-26",
+      "totalSeats": 630,
+      "turnout": 88.01,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1983_Italian_general_election",
+        "revid": 1378508176
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12153081,
+          "pct": 32.93,
+          "seats": 225,
+          "change": -37,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 11032318,
+          "pct": 29.89,
+          "seats": 198,
+          "change": -3
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 4223362,
+          "pct": 11.44,
+          "seats": 73,
+          "change": 11
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2511487,
+          "pct": 6.81,
+          "seats": 42,
+          "change": 12
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1874512,
+          "pct": 5.08,
+          "seats": 29,
+          "change": 13
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1508234,
+          "pct": 4.09,
+          "seats": 23,
+          "change": 3
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1066980,
+          "pct": 2.89,
+          "seats": 16,
+          "change": 7
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 809810,
+          "pct": 2.19,
+          "seats": 11,
+          "change": -7
+        },
+        {
+          "name": "Proletarian Democracy",
+          "party": "dp",
+          "votes": 542039,
+          "pct": 1.47,
+          "seats": 7,
+          "change": 7
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 184940,
+          "pct": 0.5,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Liga Veneta",
+          "party": "lv",
+          "votes": 125311,
+          "pct": 0.34,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": 91923,
+          "pct": 0.25,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Aosta Valley (UV–UVP–DP)",
+          "party": "vda",
+          "votes": 28086,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Pensioners' National Party",
+          "party": "pnp",
+          "votes": 503461,
+          "pct": 1.36,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 250461,
+          "pct": 0.68,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1987",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1987-06-15",
+      "totalSeats": 630,
+      "turnout": 88.83,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1987_Italian_general_election",
+        "revid": 1378508603
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 13233620,
+          "pct": 34.31,
+          "seats": 234,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 10250644,
+          "pct": 26.58,
+          "seats": 177,
+          "change": -21
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 5501696,
+          "pct": 14.26,
+          "seats": 94,
+          "change": 21
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2281126,
+          "pct": 5.91,
+          "seats": 35,
+          "change": -7
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1428663,
+          "pct": 3.7,
+          "seats": 21,
+          "change": -8
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1140209,
+          "pct": 2.96,
+          "seats": 17,
+          "change": -6
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 987720,
+          "pct": 2.56,
+          "seats": 13,
+          "change": 2
+        },
+        {
+          "name": "Federation of Green Lists",
+          "party": "flv",
+          "votes": 969218,
+          "pct": 2.51,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 809946,
+          "pct": 2.1,
+          "seats": 11,
+          "change": -5
+        },
+        {
+          "name": "Proletarian Democracy",
+          "party": "dp",
+          "votes": 641901,
+          "pct": 1.66,
+          "seats": 8,
+          "change": 1
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 202022,
+          "pct": 0.52,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": 169978,
+          "pct": 0.44,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Lega Lombarda",
+          "party": "ll",
+          "votes": 186255,
+          "pct": 0.48,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": 41707,
+          "pct": 0.11,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 726803,
+          "pct": 1.88,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "it-chamber-1992",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1992-04-06",
+      "totalSeats": 630,
+      "turnout": 87.36,
+      "source": {
+        "name": "Wikipedia, citing Romano (JSTOR) and the Brocchini electoral archive",
+        "url": "https://en.wikipedia.org/wiki/1992_Italian_general_election",
+        "revid": 1378508690
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 11637569,
+          "pct": 29.65,
+          "seats": 206,
+          "change": -28,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party of the Left",
+          "party": "pds",
+          "votes": 6317962,
+          "pct": 16.1,
+          "seats": 107,
+          "change": -70
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 5343808,
+          "pct": 13.62,
+          "seats": 92,
+          "change": -2
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 3395384,
+          "pct": 8.65,
+          "seats": 55,
+          "change": 54
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 2201428,
+          "pct": 5.61,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2107272,
+          "pct": 5.37,
+          "seats": 34,
+          "change": -1
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1723756,
+          "pct": 4.39,
+          "seats": 27,
+          "change": 6
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1121854,
+          "pct": 2.86,
+          "seats": 17,
+          "change": 6
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": 1093037,
+          "pct": 2.79,
+          "seats": 16,
+          "change": 3
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1066672,
+          "pct": 2.72,
+          "seats": 16,
+          "change": -1
+        },
+        {
+          "name": "The Network",
+          "party": "rete",
+          "votes": 730293,
+          "pct": 1.86,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Pannella List",
+          "party": "lp",
+          "votes": 486344,
+          "pct": 1.24,
+          "seats": 7,
+          "change": -6
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 198431,
+          "pct": 0.51,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Federalism–Pensioners Living Men (UV–PSd'Az–SSK–UfS)",
+          "party": "fpuv",
+          "votes": 154987,
+          "pct": 0.39,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Lega Autonomia Veneta",
+          "party": "lav",
+          "votes": 152396,
+          "pct": 0.39,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": 41404,
+          "pct": 0.11,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1470909,
+          "pct": 3.75,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The article cites Romano (JSTOR 45132579) and the Brocchini electoral archive for this table."
+    },
+    {
+      "id": "it-chamber-1994",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1994-03-28",
+      "totalSeats": 630,
+      "turnout": 86.31,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1994_Italian_general_election",
+        "revid": 1361539732
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party of the Left",
+          "party": "pds",
+          "votes": 7881646,
+          "pct": 20.36,
+          "seats": 125,
+          "change": 17,
+          "winner": true
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 3235248,
+          "pct": 8.36,
+          "seats": 118,
+          "change": 62
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": 8136135,
+          "pct": 21.01,
+          "seats": 111,
+          "change": null
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": 5214133,
+          "pct": 13.47,
+          "seats": 110,
+          "change": 75
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 2343946,
+          "pct": 6.05,
+          "seats": 38,
+          "change": 4
+        },
+        {
+          "name": "Italian People's Party",
+          "party": "ppi",
+          "votes": 4287172,
+          "pct": 11.07,
+          "seats": 33,
+          "change": -146
+        },
+        {
+          "name": "Christian Democratic Centre",
+          "party": "ccd",
+          "votes": null,
+          "pct": null,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "ad",
+          "votes": 456114,
+          "pct": 1.18,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 849429,
+          "pct": 2.19,
+          "seats": 15,
+          "change": -77
+        },
+        {
+          "name": "Segni Pact",
+          "party": "ps",
+          "votes": 1811814,
+          "pct": 4.68,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": 1047268,
+          "pct": 2.7,
+          "seats": 11,
+          "change": -5
+        },
+        {
+          "name": "The Network",
+          "party": "rete",
+          "votes": 719841,
+          "pct": 1.86,
+          "seats": 8,
+          "change": -4
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 231842,
+          "pct": 0.6,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Southern Action League",
+          "party": "lam",
+          "votes": 59873,
+          "pct": 0.15,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Pannella List",
+          "party": "lp",
+          "votes": 1359283,
+          "pct": 3.51,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1089149,
+          "pct": 2.81,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Mixed system (475 single-member and 155 proportional seats): votes and shares are the proportional list vote, seats are each party's total. The Christian Democratic Centre ran on the Forza Italia proportional list and Aosta Valley had no proportional list, so their votes are null. Turnout is from the infobox (votes cast / registered voters). The list rows in the source table add up to 38,722,893 votes, 2,000 more than the table's total of 38,720,893 valid votes; shares are the table's own."
+    },
+    {
+      "id": "it-chamber-1996",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1996-04-21",
+      "totalSeats": 630,
+      "turnout": 82.88,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1996_Italian_general_election",
+        "revid": 1365274171
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party of the Left",
+          "party": "pds",
+          "votes": 7894118,
+          "pct": 21.06,
+          "seats": 172,
+          "change": 48,
+          "winner": true
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": 7712149,
+          "pct": 20.57,
+          "seats": 123,
+          "change": -9
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": 5870491,
+          "pct": 15.66,
+          "seats": 93,
+          "change": -17
+        },
+        {
+          "name": "Populars for Prodi (PPI–UD–PRI–SVP)",
+          "party": "pprodi",
+          "votes": 2554072,
+          "pct": 6.81,
+          "seats": 69,
+          "change": 18
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 3776354,
+          "pct": 10.07,
+          "seats": 59,
+          "change": -59
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 3213748,
+          "pct": 8.57,
+          "seats": 35,
+          "change": -3
+        },
+        {
+          "name": "CCD – CDU",
+          "party": "ccdcdu",
+          "votes": 2189563,
+          "pct": 5.84,
+          "seats": 30,
+          "change": 3
+        },
+        {
+          "name": "Italian Renewal",
+          "party": "ri",
+          "votes": 1627380,
+          "pct": 4.34,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": 938665,
+          "pct": 2.5,
+          "seats": 14,
+          "change": 3
+        },
+        {
+          "name": "The Network",
+          "party": "rete",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Southern Action League",
+          "party": "lam",
+          "votes": 72062,
+          "pct": 0.19,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Ladin Autonomist Union",
+          "party": "ual",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Pannella-Sgarbi List",
+          "party": "lp",
+          "votes": 702988,
+          "pct": 1.88,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 932808,
+          "pct": 2.49,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Mixed system (475 single-member and 155 proportional seats): votes and shares are the proportional list vote, seats are each party's total. The Network, the Ladin Autonomist Union, the SVP (part of the Populars for Prodi list) and Aosta Valley had no proportional list of their own, so their votes are null."
+    },
+    {
+      "id": "it-chamber-2001",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2001-05-13",
+      "totalSeats": 630,
+      "turnout": 81.38,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2001_Italian_general_election",
+        "revid": 1378458158
+      },
+      "candidates": [
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": 10923431,
+          "pct": 29.43,
+          "seats": 194,
+          "change": 71,
+          "winner": true
+        },
+        {
+          "name": "Democrats of the Left",
+          "party": "ds",
+          "votes": 6151154,
+          "pct": 16.57,
+          "seats": 136,
+          "change": -36
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": 4463205,
+          "pct": 12.02,
+          "seats": 99,
+          "change": 6
+        },
+        {
+          "name": "Democracy is Freedom",
+          "party": "dl",
+          "votes": 5391827,
+          "pct": 14.52,
+          "seats": 83,
+          "change": -12
+        },
+        {
+          "name": "White Flower (CCD–CDU)",
+          "party": "ccdcdu",
+          "votes": 1194040,
+          "pct": 3.22,
+          "seats": 40,
+          "change": 10
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 1464301,
+          "pct": 3.94,
+          "seats": 30,
+          "change": -29
+        },
+        {
+          "name": "The Sunflower (FdV–SDI)",
+          "party": "girasole",
+          "votes": 805340,
+          "pct": 2.17,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 1868659,
+          "pct": 5.03,
+          "seats": 11,
+          "change": -24
+        },
+        {
+          "name": "Party of Italian Communists",
+          "party": "pdci",
+          "votes": 620859,
+          "pct": 1.67,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "New Italian Socialist Party",
+          "party": "npsi",
+          "votes": 353269,
+          "pct": 0.95,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 200059,
+          "pct": 0.54,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Sardinian Reformers",
+          "party": "rs",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "New Sicily",
+          "party": "ns",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "With Illy for Trieste",
+          "party": "illy",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Italy of Values",
+          "party": "idv",
+          "votes": 1443725,
+          "pct": 3.89,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "European Democracy",
+          "party": "de",
+          "votes": 888269,
+          "pct": 2.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Bonino List",
+          "party": "lb",
+          "votes": 832213,
+          "pct": 2.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 522445,
+          "pct": 1.41,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Mixed system (475 single-member and 155 proportional seats): votes and shares are the proportional list vote, seats are each party's total. Sardinian Reformers, New Sicily, With Illy for Trieste and Aosta Valley had no proportional list, so their votes are null (the overall table puts 78,284 votes in the proportional column for With Illy for Trieste, but that is its single-member vote in the first-past-the-post table). The list rows in the source table add up to 37,122,796 votes, 20 more than the table's total of 37,122,776 valid votes; shares are the table's own."
+    },
+    {
+      "id": "it-chamber-2006",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2006-04-10",
+      "totalSeats": 630,
+      "turnout": 83.62,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2006_Italian_general_election",
+        "revid": 1378848218
+      },
+      "candidates": [
+        {
+          "name": "The Olive Tree",
+          "party": "ulivo",
+          "votes": 11930983,
+          "pct": 31.27,
+          "seats": 226,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": 9048976,
+          "pct": 23.72,
+          "seats": 140,
+          "change": -54
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": 4707126,
+          "pct": 12.34,
+          "seats": 72,
+          "change": -27
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 2229464,
+          "pct": 5.84,
+          "seats": 41,
+          "change": 30
+        },
+        {
+          "name": "Union of Christian and Centre Democrats",
+          "party": "udc",
+          "votes": 2580190,
+          "pct": 6.76,
+          "seats": 39,
+          "change": -1
+        },
+        {
+          "name": "Northern League – MpA",
+          "party": "lega",
+          "votes": 1747730,
+          "pct": 4.58,
+          "seats": 26,
+          "change": -4
+        },
+        {
+          "name": "Rose in the Fist",
+          "party": "rnp",
+          "votes": 990694,
+          "pct": 2.6,
+          "seats": 18,
+          "change": 9
+        },
+        {
+          "name": "Italy of Values",
+          "party": "idv",
+          "votes": 877052,
+          "pct": 2.3,
+          "seats": 17,
+          "change": 17
+        },
+        {
+          "name": "Party of Italian Communists",
+          "party": "pdci",
+          "votes": 884127,
+          "pct": 2.32,
+          "seats": 16,
+          "change": 6
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": 784803,
+          "pct": 2.06,
+          "seats": 15,
+          "change": 7
+        },
+        {
+          "name": "Union of Democrats for Europe",
+          "party": "udeur",
+          "votes": 534088,
+          "pct": 1.4,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Christian Democracy – Socialist Party",
+          "party": "dcanpsi",
+          "votes": 285474,
+          "pct": 0.75,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 182704,
+          "pct": 0.48,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Autonomy Liberty Democracy",
+          "party": "ald",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Italian Associations in South America",
+          "party": "aisa",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1369932,
+          "pct": 3.59,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are for Italy excluding Aosta Valley and the overseas constituencies; seats include the Aosta Valley seat and the 12 overseas seats. National Alliance's 72 seats include the overseas seat of For Italy in the World, which the table combines with it. Autonomy Liberty Democracy (Aosta Valley) and Italian Associations in South America (overseas) have no Italy-wide vote. Turnout is from the infobox."
+    },
+    {
+      "id": "it-chamber-2008",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2008-04-14",
+      "totalSeats": 630,
+      "turnout": 80.51,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2008_Italian_general_election",
+        "revid": 1372941056
+      },
+      "candidates": [
+        {
+          "name": "The People of Freedom",
+          "party": "pdl",
+          "votes": 13629464,
+          "pct": 37.38,
+          "seats": 276,
+          "change": 60,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 12095306,
+          "pct": 33.18,
+          "seats": 217,
+          "change": -9
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 3024543,
+          "pct": 8.3,
+          "seats": 60,
+          "change": 34
+        },
+        {
+          "name": "Union of the Centre",
+          "party": "udc",
+          "votes": 2050229,
+          "pct": 5.62,
+          "seats": 36,
+          "change": -3
+        },
+        {
+          "name": "Italy of Values",
+          "party": "idv",
+          "votes": 1594024,
+          "pct": 4.37,
+          "seats": 29,
+          "change": 12
+        },
+        {
+          "name": "Movement for Autonomy",
+          "party": "mpa",
+          "votes": 410499,
+          "pct": 1.13,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 147718,
+          "pct": 0.41,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Autonomy Liberty Democracy",
+          "party": "ald",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Associative Movement of Italians Abroad",
+          "party": "maie",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "The Left – The Rainbow",
+          "party": "sa",
+          "votes": 1124298,
+          "pct": 3.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "The Right – Tricolour Flame",
+          "party": "destra",
+          "votes": 884961,
+          "pct": 2.43,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1496212,
+          "pct": 4.1,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are for Italy excluding Aosta Valley and the overseas constituencies; seats include the Aosta Valley seat and the 12 overseas seats. The table gives one +34 change spanning the Northern League and Movement for Autonomy rows; it is shown for the Northern League and the MpA change is left null. Turnout is from the infobox."
+    },
+    {
+      "id": "it-chamber-2013",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2013-02-25",
+      "totalSeats": 630,
+      "turnout": 75.2,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2013_Italian_general_election",
+        "revid": 1372899723
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 8646034,
+          "pct": 25.43,
+          "seats": 297,
+          "change": 80,
+          "winner": true
+        },
+        {
+          "name": "Five Star Movement",
+          "party": "m5s",
+          "votes": 8691406,
+          "pct": 25.56,
+          "seats": 109,
+          "change": null
+        },
+        {
+          "name": "The People of Freedom",
+          "party": "pdl",
+          "votes": 7332134,
+          "pct": 21.56,
+          "seats": 98,
+          "change": -178
+        },
+        {
+          "name": "Civic Choice",
+          "party": "sc",
+          "votes": 2823842,
+          "pct": 8.3,
+          "seats": 39,
+          "change": null
+        },
+        {
+          "name": "Left Ecology Freedom",
+          "party": "sel",
+          "votes": 1089231,
+          "pct": 3.2,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 1390534,
+          "pct": 4.09,
+          "seats": 18,
+          "change": -42
+        },
+        {
+          "name": "Brothers of Italy",
+          "party": "fdi",
+          "votes": 666765,
+          "pct": 1.96,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Union of the Centre",
+          "party": "udc",
+          "votes": 608321,
+          "pct": 1.79,
+          "seats": 8,
+          "change": -28
+        },
+        {
+          "name": "Democratic Centre",
+          "party": "cd",
+          "votes": 167328,
+          "pct": 0.49,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 146800,
+          "pct": 0.43,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Associative Movement of Italians Abroad",
+          "party": "maie",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "South American Union of Italian Emigrants",
+          "party": "usei",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley (UV–SA–FA)",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Civil Revolution",
+          "party": "rc",
+          "votes": 765189,
+          "pct": 2.25,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Act to Stop the Decline",
+          "party": "fare",
+          "votes": 380044,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1298187,
+          "pct": 3.82,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are for Italy excluding Aosta Valley and the overseas constituencies; seats include the Aosta Valley seat and the 12 overseas seats. The table shows a change of −118 for the Five Star Movement, which first stood in 2013, so its change is left null. Civic Choice's 39 seats include the 2 overseas seats that the table shows for its joint overseas list with the UDC. The list rows in the source table add up to 34,005,815 votes, 60 more than the table's total of 34,005,755 valid votes; shares are the table's own."
+    },
+    {
+      "id": "it-chamber-2018",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2018-03-04",
+      "totalSeats": 630,
+      "turnout": 72.94,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2018_Italian_general_election",
+        "revid": 1375391676
+      },
+      "candidates": [
+        {
+          "name": "Five Star Movement",
+          "party": "m5s",
+          "votes": 10732066,
+          "pct": 32.68,
+          "seats": 227,
+          "change": 119,
+          "winner": true
+        },
+        {
+          "name": "League",
+          "party": "lega",
+          "votes": 5698687,
+          "pct": 17.35,
+          "seats": 125,
+          "change": 109
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 6161896,
+          "pct": 18.76,
+          "seats": 112,
+          "change": -180
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi",
+          "votes": 4596956,
+          "pct": 14,
+          "seats": 104,
+          "change": 1
+        },
+        {
+          "name": "Brothers of Italy",
+          "party": "fdi",
+          "votes": 1429550,
+          "pct": 4.35,
+          "seats": 32,
+          "change": 25
+        },
+        {
+          "name": "Free and Equal",
+          "party": "leu",
+          "votes": 1114799,
+          "pct": 3.39,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Us with Italy–UDC",
+          "party": "nci",
+          "votes": 427152,
+          "pct": 1.3,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "SVP–PATT",
+          "party": "svp",
+          "votes": 134651,
+          "pct": 0.41,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "More Europe",
+          "party": "pe",
+          "votes": 841468,
+          "pct": 2.56,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Popular Civic List",
+          "party": "cp",
+          "votes": 178107,
+          "pct": 0.54,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Together",
+          "party": "ins",
+          "votes": 190601,
+          "pct": 0.58,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Associative Movement of Italians Abroad",
+          "party": "maie",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "South American Union of Italian Emigrants",
+          "party": "usei",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Power to the People",
+          "party": "pap",
+          "votes": 372179,
+          "pct": 1.13,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 963593,
+          "pct": 2.93,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Mixed system (single-member, proportional and 12 overseas seats): votes and shares are the proportional list vote in Italy, seats are each party's total. SVP–PATT is shown as SVP. The overall table has no Others row; Others here are the proportional lists that won no seat."
+    },
+    {
+      "id": "it-senate-1948",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1948-04-18",
+      "totalSeats": 237,
+      "turnout": 92.15,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1948_Italian_general_election",
+        "revid": 1378510497
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10899640,
+          "pct": 48.11,
+          "seats": 131,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Popular Democratic Front",
+          "party": "fdp",
+          "votes": 6969122,
+          "pct": 30.76,
+          "seats": 72,
+          "change": null
+        },
+        {
+          "name": "Socialist Unity",
+          "party": "us",
+          "votes": 943219,
+          "pct": 4.16,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "National Bloc",
+          "party": "bn",
+          "votes": 1222419,
+          "pct": 5.4,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "US – PRI",
+          "party": "uspri",
+          "votes": 607792,
+          "pct": 2.68,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 594178,
+          "pct": 2.62,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 544039,
+          "pct": 2.4,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Monarchist National Party",
+          "party": "pnm",
+          "votes": 393510,
+          "pct": 1.74,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 95406,
+          "pct": 0.42,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 164092,
+          "pct": 0.72,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": 65743,
+          "pct": 0.29,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 158130,
+          "pct": 0.7,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the 237 elected senators; the former deputies who joined the first Senate by right under the Constitution, and life senators, are not included. The table has no seat-change column.",
+      "regionWinners": {
+        "PIE": "dc",
+        "VDA": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "LIG": "dc",
+        "EMR": "fdp",
+        "MAR": "dc",
+        "LAZ": "dc",
+        "ABR": "dc",
+        "MOL": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1948_Italian_general_election#By_constituency_2"
+    },
+    {
+      "id": "it-senate-1953",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1953-06-07",
+      "totalSeats": 237,
+      "turnout": 93.78,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1953_Italian_general_election",
+        "revid": 1378507312
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 9660210,
+          "pct": 39.76,
+          "seats": 112,
+          "change": -19,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 4910077,
+          "pct": 20.21,
+          "seats": 52,
+          "change": 6
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 2891605,
+          "pct": 11.9,
+          "seats": 26,
+          "change": -15
+        },
+        {
+          "name": "Monarchist National Party",
+          "party": "pnm",
+          "votes": 1581128,
+          "pct": 6.51,
+          "seats": 14,
+          "change": 10
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1473645,
+          "pct": 6.07,
+          "seats": 9,
+          "change": 8
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1046301,
+          "pct": 4.31,
+          "seats": 4,
+          "change": -4
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 695816,
+          "pct": 2.86,
+          "seats": 3,
+          "change": -4
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 107139,
+          "pct": 0.44,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "National Democratic Alliance",
+          "party": "and",
+          "votes": 165845,
+          "pct": 0.68,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 261713,
+          "pct": 1.08,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1502798,
+          "pct": 6.19,
+          "seats": 14,
+          "change": null
+        }
+      ],
+      "notes": "Seats are elected senators only. The source table groups minor lists under \"Other parties\" (1,313,380 votes, 14 seats) without naming them, so those 14 seats are in Others.",
+      "regionWinners": {
+        "PIE": "dc",
+        "VDA": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "LIG": "dc",
+        "EMR": "pci",
+        "MAR": "dc",
+        "LAZ": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1953_Italian_general_election#By_constituency_2"
+    },
+    {
+      "id": "it-senate-1958",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1958-05-25",
+      "totalSeats": 246,
+      "turnout": 93.98,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1958_Italian_general_election",
+        "revid": 1378507569
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10780954,
+          "pct": 41.23,
+          "seats": 123,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 5700952,
+          "pct": 21.8,
+          "seats": 59,
+          "change": 8
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3682945,
+          "pct": 14.08,
+          "seats": 35,
+          "change": 9
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1150051,
+          "pct": 4.4,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1164280,
+          "pct": 4.45,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "People's Monarchist Party",
+          "party": "pmp",
+          "votes": 774242,
+          "pct": 2.96,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1012610,
+          "pct": 3.87,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Monarchist National Party",
+          "party": "pnm",
+          "votes": 565045,
+          "pct": 2.16,
+          "seats": 2,
+          "change": -14
+        },
+        {
+          "name": "PCI – PSI",
+          "party": "pcipsi",
+          "votes": 185557,
+          "pct": 0.71,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 120068,
+          "pct": 0.46,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Left-wing independents",
+          "party": "ind",
+          "votes": 28141,
+          "pct": 0.11,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Italian Republican Party – Radical Party",
+          "party": "prirad",
+          "votes": 363462,
+          "pct": 1.39,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "MSI – PNM",
+          "party": "msipnm",
+          "votes": 291359,
+          "pct": 1.11,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 330336,
+          "pct": 1.26,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "PIE": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "LIG": "dc",
+        "EMR": "pci",
+        "TOS": "dc",
+        "MAR": "dc",
+        "LAZ": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1958_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1963",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1963-04-28",
+      "totalSeats": 315,
+      "turnout": 95.88,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1963_Italian_general_election",
+        "revid": 1378507709
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10017975,
+          "pct": 36.47,
+          "seats": 129,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 6933310,
+          "pct": 25.24,
+          "seats": 84,
+          "change": 25
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3849495,
+          "pct": 14.01,
+          "seats": 44,
+          "change": 9
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 2043323,
+          "pct": 7.44,
+          "seats": 18,
+          "change": 14
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1743870,
+          "pct": 6.35,
+          "seats": 14,
+          "change": 9
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1458917,
+          "pct": 5.31,
+          "seats": 14,
+          "change": 6
+        },
+        {
+          "name": "DC – PRI",
+          "party": "dcpri",
+          "votes": 199805,
+          "pct": 0.73,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Italian Democratic Party of Monarchist Unity",
+          "party": "pdium",
+          "votes": 429412,
+          "pct": 1.56,
+          "seats": 2,
+          "change": -5
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 112023,
+          "pct": 0.41,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "MSI – PDIUM",
+          "party": "msipdium",
+          "votes": 212381,
+          "pct": 0.77,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Social Christian Autonomist Party",
+          "party": "psca",
+          "votes": 43355,
+          "pct": 0.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Valdostan Union",
+          "party": "uv",
+          "votes": 29510,
+          "pct": 0.11,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Catholic independents",
+          "party": "ind",
+          "votes": 22578,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 373348,
+          "pct": 1.36,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "PIE": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "LIG": "dc",
+        "EMR": "pci",
+        "TOS": "pci",
+        "MAR": "dc",
+        "LAZ": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1963_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1968",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1968-05-19",
+      "totalSeats": 315,
+      "turnout": 93.04,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1968_Italian_general_election",
+        "revid": 1378507797
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10972114,
+          "pct": 38.34,
+          "seats": 135,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party–PSIUP",
+          "party": "pcipsiup",
+          "votes": 8585601,
+          "pct": 30,
+          "seats": 101,
+          "change": 17
+        },
+        {
+          "name": "Unified Socialist Party",
+          "party": "psu",
+          "votes": 4354906,
+          "pct": 15.22,
+          "seats": 46,
+          "change": -12
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1943795,
+          "pct": 6.79,
+          "seats": 16,
+          "change": -2
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1304847,
+          "pct": 4.56,
+          "seats": 11,
+          "change": -3
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 622388,
+          "pct": 2.17,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Italian Democratic Party of Monarchist Unity",
+          "party": "pdium",
+          "votes": 312702,
+          "pct": 1.09,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 131071,
+          "pct": 0.46,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "MSI–PDIUM",
+          "party": "msipdium",
+          "votes": 292349,
+          "pct": 1.02,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 96248,
+          "pct": 0.34,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "PIE": "dc",
+        "VDA": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "EMR": "pcipsiup",
+        "TOS": "pcipsiup",
+        "UMB": "pcipsiup",
+        "MAR": "dc",
+        "LAZ": "dc",
+        "ABR": "dc",
+        "MOL": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1968_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1972",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1972-05-07",
+      "totalSeats": 315,
+      "turnout": 92.7,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1972_Italian_general_election",
+        "revid": 1378507869
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 11465529,
+          "pct": 38.07,
+          "seats": 135,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party – PSIUP (PCI–PSIUP)",
+          "party": "pcipsiup",
+          "votes": 8312828,
+          "pct": 27.6,
+          "seats": 91,
+          "change": -10
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3225707,
+          "pct": 10.71,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2766986,
+          "pct": 9.19,
+          "seats": 26,
+          "change": 15
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1613810,
+          "pct": 5.36,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 1319175,
+          "pct": 4.38,
+          "seats": 8,
+          "change": -8
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 918440,
+          "pct": 3.05,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "PCI – PSIUP – PSd'Az",
+          "party": "pcipsiupsd",
+          "votes": 189534,
+          "pct": 0.63,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "SVP – PPTT",
+          "party": "svp",
+          "votes": 113452,
+          "pct": 0.38,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "DC – UV – RV – PSDI",
+          "party": "dcuvrv",
+          "votes": 28735,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 161861,
+          "pct": 0.54,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are elected senators only. PSI and PSDI show no seat change in the table because they ran on a unified list in 1968.",
+      "regionWinners": {
+        "PIE": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "EMR": "pcipsiup",
+        "TOS": "pcipsiup",
+        "MAR": "dc",
+        "LAZ": "dc",
+        "ABR": "dc",
+        "MOL": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1972_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1976",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1976-06-20",
+      "totalSeats": 315,
+      "turnout": 93.4,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1976_Italian_general_election",
+        "revid": 1378507943
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12227353,
+          "pct": 38.88,
+          "seats": 135,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 10637772,
+          "pct": 33.83,
+          "seats": 116,
+          "change": 22
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3208164,
+          "pct": 10.2,
+          "seats": 29,
+          "change": -4
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2086430,
+          "pct": 6.63,
+          "seats": 15,
+          "change": -11
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 974940,
+          "pct": 3.1,
+          "seats": 6,
+          "change": -5
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 846415,
+          "pct": 2.69,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 438265,
+          "pct": 1.39,
+          "seats": 2,
+          "change": -6
+        },
+        {
+          "name": "PLI – PRI – PSDI",
+          "party": "plipripsdi",
+          "votes": 334898,
+          "pct": 1.06,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 158584,
+          "pct": 0.5,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "PCI – PSI",
+          "party": "pcipsi",
+          "votes": 52922,
+          "pct": 0.17,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "DC – RV – UV – UVP – PRI",
+          "party": "dcrvuv",
+          "votes": 22917,
+          "pct": 0.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 460771,
+          "pct": 1.47,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "PIE": "dc",
+        "LOM": "dc",
+        "TAA": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "EMR": "pci",
+        "TOS": "pci",
+        "UMB": "pci",
+        "ABR": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1976_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1979",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1979-06-03",
+      "totalSeats": 315,
+      "turnout": 90.69,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1979_Italian_general_election",
+        "revid": 1378508066
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 12010716,
+          "pct": 38.34,
+          "seats": 138,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 9855951,
+          "pct": 31.46,
+          "seats": 109,
+          "change": -7
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3252410,
+          "pct": 10.38,
+          "seats": 32,
+          "change": 3
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 1780950,
+          "pct": 5.68,
+          "seats": 13,
+          "change": -2
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1320729,
+          "pct": 4.22,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1053251,
+          "pct": 3.36,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 172582,
+          "pct": 0.55,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 691718,
+          "pct": 2.21,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 413444,
+          "pct": 1.32,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Valdostan Union",
+          "party": "uv",
+          "votes": 37082,
+          "pct": 0.12,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Radical Party–New United Left (PR–NSU)",
+          "party": "prnsu",
+          "votes": 365954,
+          "pct": 1.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 376008,
+          "pct": 1.2,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "LOM": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "LIG": "pci",
+        "EMR": "pci",
+        "TOS": "pci",
+        "UMB": "pci",
+        "LAZ": "dc",
+        "ABR": "dc",
+        "MOL": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1979_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1983",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1983-06-26",
+      "totalSeats": 315,
+      "turnout": 88.83,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1983_Italian_general_election",
+        "revid": 1378508176
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10077204,
+          "pct": 32.41,
+          "seats": 120,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 9577071,
+          "pct": 30.81,
+          "seats": 107,
+          "change": -2
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3539593,
+          "pct": 11.39,
+          "seats": 38,
+          "change": 6
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2283524,
+          "pct": 7.35,
+          "seats": 18,
+          "change": 5
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1452279,
+          "pct": 4.67,
+          "seats": 10,
+          "change": 4
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 1184936,
+          "pct": 3.81,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 834771,
+          "pct": 2.69,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 157444,
+          "pct": 0.51,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 548229,
+          "pct": 1.76,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "PLI–PRI",
+          "party": "plipri",
+          "votes": 127504,
+          "pct": 0.41,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Liga Veneta",
+          "party": "lv",
+          "votes": 91171,
+          "pct": 0.29,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": 76797,
+          "pct": 0.25,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Aosta Valley (UV–UVP–DP)",
+          "party": "vda",
+          "votes": 26547,
+          "pct": 0.09,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Pensioners' National Party",
+          "party": "pnp",
+          "votes": 370756,
+          "pct": 1.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Proletarian Democracy",
+          "party": "dp",
+          "votes": 327750,
+          "pct": 1.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 413435,
+          "pct": 1.33,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "PIE": "pci",
+        "LOM": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "LIG": "pci",
+        "EMR": "pci",
+        "TOS": "pci",
+        "UMB": "pci",
+        "MAR": "pci",
+        "ABR": "dc",
+        "MOL": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1983_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1987",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1987-06-15",
+      "totalSeats": 315,
+      "turnout": 88.37,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1987_Italian_general_election",
+        "revid": 1378508603
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 10897036,
+          "pct": 33.62,
+          "seats": 125,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "Italian Communist Party",
+          "party": "pci",
+          "votes": 9181579,
+          "pct": 28.33,
+          "seats": 101,
+          "change": -6
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 3535457,
+          "pct": 10.91,
+          "seats": 36,
+          "change": -2
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2121026,
+          "pct": 6.54,
+          "seats": 16,
+          "change": -2
+        },
+        {
+          "name": "PSI–PSDI–PR",
+          "party": "psipsdipr",
+          "votes": 962215,
+          "pct": 2.97,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1248641,
+          "pct": 3.85,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 764370,
+          "pct": 2.36,
+          "seats": 5,
+          "change": -3
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 700330,
+          "pct": 2.16,
+          "seats": 3,
+          "change": -3
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 572461,
+          "pct": 1.77,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 171539,
+          "pct": 0.53,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Federation of Green Lists",
+          "party": "flv",
+          "votes": 634182,
+          "pct": 1.96,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Proletarian Democracy",
+          "party": "dp",
+          "votes": 493667,
+          "pct": 1.52,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Lega Lombarda",
+          "party": "ll",
+          "votes": 137276,
+          "pct": 0.42,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": 124266,
+          "pct": 0.38,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Lay-Socialist Alliance (PSI–PSDI–PRI–PLI–PR)",
+          "party": "als",
+          "votes": 84883,
+          "pct": 0.26,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "PSI–PSDI–PR–Greens",
+          "party": "psipsdiprv",
+          "votes": 58501,
+          "pct": 0.18,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": 35830,
+          "pct": 0.11,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 690602,
+          "pct": 2.13,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "LOM": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "EMR": "pci",
+        "TOS": "pci",
+        "UMB": "pci",
+        "MAR": "pci",
+        "LAZ": "dc",
+        "ABR": "dc",
+        "MOL": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1987_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1992",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1992-04-06",
+      "totalSeats": 315,
+      "turnout": 86.8,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1992_Italian_general_election",
+        "revid": 1378508690
+      },
+      "candidates": [
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 9088494,
+          "pct": 27.27,
+          "seats": 107,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party of the Left",
+          "party": "pds",
+          "votes": 5682888,
+          "pct": 17.05,
+          "seats": 64,
+          "change": -37
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": 4523873,
+          "pct": 13.57,
+          "seats": 49,
+          "change": 13
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 2732461,
+          "pct": 8.2,
+          "seats": 25,
+          "change": 24
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 2171950,
+          "pct": 6.52,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Italian Social Movement",
+          "party": "msi",
+          "votes": 2171215,
+          "pct": 6.51,
+          "seats": 16,
+          "change": 0
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": 1565142,
+          "pct": 4.7,
+          "seats": 10,
+          "change": 2
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": 1027303,
+          "pct": 3.08,
+          "seats": 4,
+          "change": 3
+        },
+        {
+          "name": "Italian Liberal Party",
+          "party": "pli",
+          "votes": 939159,
+          "pct": 2.82,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Italian Democratic Socialist Party",
+          "party": "psdi",
+          "votes": 853895,
+          "pct": 2.56,
+          "seats": 3,
+          "change": -2
+        },
+        {
+          "name": "The Network",
+          "party": "rete",
+          "votes": 239868,
+          "pct": 0.72,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": 168113,
+          "pct": 0.5,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "For Calabria",
+          "party": "percal",
+          "votes": 143976,
+          "pct": 0.43,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Lega Alpina Lumbarda",
+          "party": "lal",
+          "votes": 192450,
+          "pct": 0.58,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Federalism–Pensioners Living Men (UV–PSd'Az–SSK–UfS)",
+          "party": "fpuv",
+          "votes": 174713,
+          "pct": 0.52,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Lega Autonomia Veneta",
+          "party": "lav",
+          "votes": 142446,
+          "pct": 0.43,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "For Molise",
+          "party": "permol",
+          "votes": 48352,
+          "pct": 0.15,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": 34150,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Yes Referendum",
+          "party": "sir",
+          "votes": 332318,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1095815,
+          "pct": 3.29,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "Seats are elected senators only; life senators are not included.",
+      "regionWinners": {
+        "PIE": "dc",
+        "LOM": "dc",
+        "VEN": "dc",
+        "FVG": "dc",
+        "EMR": "pds",
+        "TOS": "pds",
+        "UMB": "pds",
+        "LAZ": "dc",
+        "ABR": "dc",
+        "CAM": "dc",
+        "PUG": "dc",
+        "BAS": "dc",
+        "CAL": "dc",
+        "SIC": "dc",
+        "SAR": "dc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1992_Italian_general_election#Results_by_constituency_2"
+    },
+    {
+      "id": "it-senate-1994",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1994-03-28",
+      "totalSeats": 315,
+      "turnout": 85.83,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1994_Italian_general_election",
+        "revid": 1361539732
+      },
+      "candidates": [
+        {
+          "name": "Pole of Freedoms – Pole of Good Government",
+          "party": "polo",
+          "votes": null,
+          "pct": null,
+          "seats": 155,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party of the Left",
+          "party": "pds",
+          "votes": null,
+          "pct": null,
+          "seats": 76,
+          "change": 12
+        },
+        {
+          "name": "Pact for Italy",
+          "party": "patto",
+          "votes": null,
+          "pct": null,
+          "seats": 31,
+          "change": -64
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": null,
+          "pct": null,
+          "seats": 18,
+          "change": -2
+        },
+        {
+          "name": "Italian Socialist Party",
+          "party": "psi",
+          "votes": null,
+          "pct": null,
+          "seats": 9,
+          "change": -40
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": null,
+          "pct": null,
+          "seats": 7,
+          "change": 3
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "ad",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "The Network",
+          "party": "rete",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Pannella List",
+          "party": "lp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Lombard Alpine League",
+          "party": "lal",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Magris List",
+          "party": "magris",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The Senate used a single vote per candidate, counted by coalition or by list running alone (Pole of Freedoms – Pole of Good Government 13,342,940 (40.34%); Alliance of Progressives 10,881,320 (32.90%); Pact for Italy 5,519,090 (16.69%); Pannella List 767,765 (2.32%)), so there is no party vote and votes are null; parties are listed with their own seats. The overall table splits the Pole's seats as Northern League 60, National Alliance 48, Forza Italia 36, Christian Democratic Centre 12, which adds to 156, but its constituency tables give the Pole 128 single-member and 27 proportional seats (155) and the Senate total is 315, so the Pole is shown as one row. Pact for Italy (PPI and Segni Pact) is not split in the table. Seats are elected senators only. Turnout is from the infobox."
+    },
+    {
+      "id": "it-senate-1996",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1996-04-21",
+      "totalSeats": 315,
+      "turnout": 82.21,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1996_Italian_general_election",
+        "revid": 1365274171
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party of the Left",
+          "party": "pds",
+          "votes": null,
+          "pct": null,
+          "seats": 102,
+          "change": 26,
+          "winner": true
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": null,
+          "pct": null,
+          "seats": 48,
+          "change": 13
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": null,
+          "pct": null,
+          "seats": 43,
+          "change": -4
+        },
+        {
+          "name": "Italian People's Party",
+          "party": "ppi",
+          "votes": null,
+          "pct": null,
+          "seats": 27,
+          "change": -4
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": null,
+          "pct": null,
+          "seats": 27,
+          "change": -33
+        },
+        {
+          "name": "Christian Democratic Centre",
+          "party": "ccd",
+          "votes": null,
+          "pct": null,
+          "seats": 15,
+          "change": 3
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": null,
+          "pct": null,
+          "seats": 14,
+          "change": 7
+        },
+        {
+          "name": "Italian Renewal",
+          "party": "ri",
+          "votes": null,
+          "pct": null,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "United Christian Democrats",
+          "party": "cdu",
+          "votes": null,
+          "pct": null,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Progressives",
+          "party": "prog",
+          "votes": null,
+          "pct": null,
+          "seats": 10,
+          "change": -8
+        },
+        {
+          "name": "The Fir – South Tyrolean People's Party – PATT",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "The Network",
+          "party": "rete",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": -5
+        },
+        {
+          "name": "Venetian Autonomy League",
+          "party": "lav",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Sardinian Action Party",
+          "party": "psdaz",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Tricolour Flame",
+          "party": "ft",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Pannella-Sgarbi List",
+          "party": "lp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The Senate used a single vote per candidate, counted by coalition or by list running alone (The Olive Tree 13,444,978 (41.21%); Pole for Freedoms 12,185,020 (37.35%); Northern League 3,394,733 (10.41%); Progressives 934,974 (2.87%); Tricolour Flame 747,487 (2.29%); Pannella-Sgarbi List 509,826 (1.56%)), so there is no party vote and votes are null; parties are listed with their own seats. The SVP row is the joint list \"The Fir – SVP – PATT\". Seats are elected senators only. Turnout is from the infobox."
+    },
+    {
+      "id": "it-senate-2001",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2001-05-13",
+      "totalSeats": 315,
+      "turnout": 81.32,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2001_Italian_general_election",
+        "revid": 1378458158
+      },
+      "candidates": [
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": null,
+          "pct": null,
+          "seats": 82,
+          "change": 40,
+          "winner": true
+        },
+        {
+          "name": "Democrats of the Left",
+          "party": "ds",
+          "votes": null,
+          "pct": null,
+          "seats": 64,
+          "change": -38
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": null,
+          "pct": null,
+          "seats": 45,
+          "change": 2
+        },
+        {
+          "name": "Democracy is Freedom",
+          "party": "dl",
+          "votes": null,
+          "pct": null,
+          "seats": 43,
+          "change": -5
+        },
+        {
+          "name": "White Flower (CCD–CDU)",
+          "party": "ccdcdu",
+          "votes": null,
+          "pct": null,
+          "seats": 29,
+          "change": 4
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": null,
+          "pct": null,
+          "seats": 17,
+          "change": -10
+        },
+        {
+          "name": "Federation of the Greens",
+          "party": "fdv",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": -6
+        },
+        {
+          "name": "Italian Democratic Socialists",
+          "party": "sdi",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Independent candidates",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": -6
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Party of Italian Communists",
+          "party": "pdci",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "European Democracy",
+          "party": "de",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Italian Republican Party",
+          "party": "pri",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "New Italian Socialist Party",
+          "party": "npsi",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Tricolour Flame",
+          "party": "ft",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Italy of Values",
+          "party": "idv",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "League for Autonomy – Lombard League",
+          "party": "lpa",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Bonino List",
+          "party": "lb",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The Senate used a single vote per candidate, counted by coalition or by list running alone (House of Freedoms 14,406,519 (42.57%); The Olive Tree 13,282,495 (39.22%); Communist Refoundation Party 1,708,707 (5.04%); European Democracy 1,066,908 (3.15%); Italy of Values 1,140,489 (3.37%); Bonino List 677,725 (2.00%); Tricolour Flame 340,221 (1.00%)), so there is no party vote and votes are null; parties are listed with their own seats. Tricolour Flame won 1 seat inside the House of Freedoms and also ran its own list; the SVP won 1 seat with The Olive Tree and 2 on its own list. Each is one row with the combined seats and no change. Seats are elected senators only. Turnout is from the infobox."
+    },
+    {
+      "id": "it-senate-2006",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2006-04-10",
+      "totalSeats": 315,
+      "turnout": 83.5,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2006_Italian_general_election",
+        "revid": 1378848218
+      },
+      "candidates": [
+        {
+          "name": "Forza Italia",
+          "party": "fi94",
+          "votes": 8202890,
+          "pct": 24.01,
+          "seats": 80,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Democrats of the Left",
+          "party": "ds",
+          "votes": 5977347,
+          "pct": 17.5,
+          "seats": 65,
+          "change": 1
+        },
+        {
+          "name": "The Daisy",
+          "party": "dl",
+          "votes": 3664903,
+          "pct": 10.73,
+          "seats": 43,
+          "change": 0
+        },
+        {
+          "name": "National Alliance",
+          "party": "an",
+          "votes": 4235208,
+          "pct": 12.4,
+          "seats": 41,
+          "change": 4
+        },
+        {
+          "name": "Communist Refoundation Party",
+          "party": "prc",
+          "votes": 2518361,
+          "pct": 7.37,
+          "seats": 27,
+          "change": 23
+        },
+        {
+          "name": "Union of Christian and Centre Democrats",
+          "party": "udc",
+          "votes": 2309442,
+          "pct": 6.76,
+          "seats": 21,
+          "change": -8
+        },
+        {
+          "name": "Northern League – MpA",
+          "party": "lega",
+          "votes": 1530667,
+          "pct": 4.48,
+          "seats": 14,
+          "change": -3
+        },
+        {
+          "name": "Together with the Union",
+          "party": "insieme",
+          "votes": 1423003,
+          "pct": 4.17,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Italy of Values",
+          "party": "idv",
+          "votes": 986191,
+          "pct": 2.89,
+          "seats": 4,
+          "change": 3
+        },
+        {
+          "name": "Union of Democrats for Europe",
+          "party": "udeur",
+          "votes": 477226,
+          "pct": 1.4,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Consumers' List",
+          "party": "consumatori",
+          "votes": 72199,
+          "pct": 0.21,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Autonomy Liberty Democracy",
+          "party": "ald",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Italian Associations in South America",
+          "party": "aisa",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Rose in the Fist",
+          "party": "rnp",
+          "votes": 851604,
+          "pct": 2.49,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Pensioners' Party",
+          "party": "pp",
+          "votes": 340565,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1573009,
+          "pct": 4.6,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are for the 18 regions excluding Aosta Valley and Trentino-Alto Adige; seats include those regions and the 6 overseas seats. The table gives the Democrats of the Left 65 seats together with the joint Olive Tree list (59,498 votes, in Others). The SVP won its seats in Trentino-Alto Adige, so its vote is null. Seats are elected senators only. Turnout is from the infobox."
+    },
+    {
+      "id": "it-senate-2008",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2008-04-14",
+      "totalSeats": 315,
+      "turnout": 80.4,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2008_Italian_general_election",
+        "revid": 1372941056
+      },
+      "candidates": [
+        {
+          "name": "The People of Freedom",
+          "party": "pdl",
+          "votes": 12511258,
+          "pct": 38.17,
+          "seats": 147,
+          "change": 26,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 11042452,
+          "pct": 33.69,
+          "seats": 118,
+          "change": 10
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 2642280,
+          "pct": 8.06,
+          "seats": 25,
+          "change": 11
+        },
+        {
+          "name": "Italy of Values",
+          "party": "idv",
+          "votes": 1414730,
+          "pct": 4.32,
+          "seats": 14,
+          "change": 10
+        },
+        {
+          "name": "South Tyrolean People's Party",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Union of the Centre",
+          "party": "udc",
+          "votes": 1866356,
+          "pct": 5.69,
+          "seats": 3,
+          "change": -18
+        },
+        {
+          "name": "Movement for Autonomy",
+          "party": "mpa",
+          "votes": 355361,
+          "pct": 1.08,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Associative Movement of Italians Abroad",
+          "party": "maie",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "The Left – The Rainbow",
+          "party": "sa",
+          "votes": 1053228,
+          "pct": 3.21,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "The Right – Tricolour Flame",
+          "party": "destra",
+          "votes": 686926,
+          "pct": 2.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1201748,
+          "pct": 3.67,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are for the 18 regions excluding Aosta Valley and Trentino-Alto Adige; seats include those regions and the 6 overseas seats. The SVP and Aosta Valley won seats outside the 18-region vote, so their votes are null. The table gives one +11 change spanning the Northern League and Movement for Autonomy rows; it is shown for the Northern League and the MpA change is left null. Seats are elected senators only. Turnout is from the infobox."
+    },
+    {
+      "id": "it-senate-2013",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2013-02-25",
+      "totalSeats": 315,
+      "turnout": 75.11,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2013_Italian_general_election",
+        "revid": 1372899723
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 8400255,
+          "pct": 27.43,
+          "seats": 111,
+          "change": -7,
+          "winner": true
+        },
+        {
+          "name": "The People of Freedom",
+          "party": "pdl",
+          "votes": 6829373,
+          "pct": 22.3,
+          "seats": 98,
+          "change": -49
+        },
+        {
+          "name": "Five Star Movement",
+          "party": "m5s",
+          "votes": 7285850,
+          "pct": 23.79,
+          "seats": 54,
+          "change": null
+        },
+        {
+          "name": "With Monti for Italy",
+          "party": "monti",
+          "votes": 2797486,
+          "pct": 9.13,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Northern League",
+          "party": "lega",
+          "votes": 1328555,
+          "pct": 4.33,
+          "seats": 18,
+          "change": -7
+        },
+        {
+          "name": "Left Ecology Freedom",
+          "party": "sel",
+          "votes": 912374,
+          "pct": 2.97,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "SVP – PATT",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "The Megaphone",
+          "party": "megafono",
+          "votes": 138581,
+          "pct": 0.45,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Great South",
+          "party": "gs",
+          "votes": 122100,
+          "pct": 0.39,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Associative Movement of Italians Abroad",
+          "party": "maie",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Aosta Valley (UV–SA–FA)",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Brothers of Italy",
+          "party": "fdi",
+          "votes": 590083,
+          "pct": 1.92,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Civil Revolution",
+          "party": "rc",
+          "votes": 549987,
+          "pct": 1.79,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1662901,
+          "pct": 5.43,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are for the 18 regions excluding Aosta Valley and Trentino-Alto Adige; seats include those regions and the 6 overseas seats. SVP–PATT (shown as SVP) and Aosta Valley won seats outside the 18-region vote, so their votes are null. Seats are elected senators only."
+    },
+    {
+      "id": "it-senate-2018",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2018-03-04",
+      "totalSeats": 315,
+      "turnout": 73.01,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2018_Italian_general_election",
+        "revid": 1375391676
+      },
+      "candidates": [
+        {
+          "name": "Five Star Movement",
+          "party": "m5s",
+          "votes": 9733928,
+          "pct": 32.22,
+          "seats": 112,
+          "change": 58,
+          "winner": true
+        },
+        {
+          "name": "League",
+          "party": "lega",
+          "votes": 5321537,
+          "pct": 17.61,
+          "seats": 58,
+          "change": 39
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi",
+          "votes": 4358004,
+          "pct": 14.43,
+          "seats": 57,
+          "change": -41
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 5783360,
+          "pct": 19.14,
+          "seats": 53,
+          "change": -57
+        },
+        {
+          "name": "Brothers of Italy",
+          "party": "fdi",
+          "votes": 1286606,
+          "pct": 4.26,
+          "seats": 18,
+          "change": 18
+        },
+        {
+          "name": "Free and Equal",
+          "party": "leu",
+          "votes": 991159,
+          "pct": 3.28,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Us with Italy–UDC",
+          "party": "nci",
+          "votes": 361402,
+          "pct": 1.2,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "SVP–PATT",
+          "party": "svp",
+          "votes": 128282,
+          "pct": 0.42,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "More Europe",
+          "party": "pe",
+          "votes": 714821,
+          "pct": 2.37,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Together",
+          "party": "ins",
+          "votes": 163454,
+          "pct": 0.54,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Popular Civic List",
+          "party": "cp",
+          "votes": 157282,
+          "pct": 0.52,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Associative Movement of Italians Abroad",
+          "party": "maie",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "South American Union of Italian Emigrants",
+          "party": "usei",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Power to the People",
+          "party": "pap",
+          "votes": 320493,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 890233,
+          "pct": 2.95,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Mixed system (single-member, proportional and 6 overseas seats): votes and shares are the proportional list vote in Italy, seats are each party's total. SVP–PATT is shown as SVP; Aosta Valley won its single-member seat with no proportional list. Seats are elected senators only."
+    }
+  ]
+}

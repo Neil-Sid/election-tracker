@@ -1,0 +1,5056 @@
+{
+  "code": "IN",
+  "parties": {
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "apt": {
+      "name": "Appointed members",
+      "color": "#4A4A52"
+    },
+    "nota": {
+      "name": "None of the above",
+      "color": "#D8D8DD"
+    },
+    "inc": {
+      "name": "Indian National Congress",
+      "color": "#19AAED",
+      "article": "Indian National Congress"
+    },
+    "soc48": {
+      "name": "Socialist Party (1948)",
+      "color": "#33CC00",
+      "article": "Socialist Party (India, 1948)"
+    },
+    "kmpp": {
+      "name": "Kisan Mazdoor Praja Party",
+      "color": "#FFA500",
+      "article": "Kisan Mazdoor Praja Party"
+    },
+    "cpi": {
+      "name": "Communist Party of India",
+      "color": "#F26D6D",
+      "article": "Communist Party of India"
+    },
+    "bjs": {
+      "name": "Bharatiya Jana Sangh",
+      "color": "#FF9933",
+      "article": "Bharatiya Jana Sangh"
+    },
+    "rpi": {
+      "name": "Republican Party of India",
+      "color": "#000066",
+      "article": "Republican Party of India"
+    },
+    "rrp": {
+      "name": "Ram Rajya Parishad",
+      "color": "#C1440E",
+      "article": "Ram Rajya Parishad"
+    },
+    "klp": {
+      "name": "Krishikar Lok Party",
+      "color": "#0B9E15",
+      "article": "Krishikar Lok Party"
+    },
+    "pdf": {
+      "name": "People's Democratic Front",
+      "color": "#E6452E",
+      "article": "People's Democratic Front (Hyderabad)"
+    },
+    "sad": {
+      "name": "Shiromani Akali Dal",
+      "color": "#0F204A",
+      "article": "Shiromani Akali Dal"
+    },
+    "hms": {
+      "name": "Hindu Mahasabha",
+      "color": "#8B4513",
+      "article": "Hindu Mahasabha"
+    },
+    "pwpi": {
+      "name": "Peasants and Workers Party of India",
+      "color": "#B5446E",
+      "article": "Peasants and Workers Party of India"
+    },
+    "aifb": {
+      "name": "All India Forward Bloc",
+      "color": "#AC1313",
+      "article": "All India Forward Bloc"
+    },
+    "aigp": {
+      "name": "All India Ganatantra Parishad",
+      "color": "#FF33CC",
+      "article": "All India Ganatantra Parishad"
+    },
+    "tntp": {
+      "name": "Tamil Nadu Toilers' Party",
+      "color": "#FF6347",
+      "article": "Tamil Nadu Toilers' Party"
+    },
+    "jhp": {
+      "name": "Jharkhand Party",
+      "color": "#008000",
+      "article": "Jharkhand Party"
+    },
+    "rsp": {
+      "name": "Revolutionary Socialist Party",
+      "color": "#D84C4C",
+      "article": "Revolutionary Socialist Party (India)"
+    },
+    "cwp": {
+      "name": "Commonweal Party",
+      "color": "#5D8AA8",
+      "article": "Commonweal Party"
+    },
+    "lss": {
+      "name": "Lok Sewak Sangh",
+      "color": "#00FF00",
+      "article": "Lok Sewak Sangh"
+    },
+    "cnspjp": {
+      "name": "Chota Nagpur Santhal Parganas Janata Party",
+      "color": "#8B6914",
+      "article": "Chota Nagpur Santhal Parganas Janata Party"
+    },
+    "ttnc": {
+      "name": "Travancore Tamil Nadu Congress",
+      "color": "#FF4500",
+      "article": "Travancore Tamil Nadu Congress"
+    },
+    "iuml": {
+      "name": "Indian Union Muslim League",
+      "color": "#006600",
+      "article": "Indian Union Muslim League"
+    },
+    "psp": {
+      "name": "Praja Socialist Party",
+      "color": "#F15270",
+      "article": "Praja Socialist Party"
+    },
+    "swp": {
+      "name": "Swatantra Party",
+      "color": "#0000FF",
+      "article": "Swatantra Party"
+    },
+    "soc55": {
+      "name": "Socialist Party (1955)",
+      "color": "#FF0000",
+      "article": "Socialist Party of India (1955)"
+    },
+    "dmk": {
+      "name": "DMK",
+      "color": "#8B1A1A",
+      "article": "Dravida Munnetra Kazhagam"
+    },
+    "nmgjp": {
+      "name": "Nutan Maha Gujarat Janata Parishad",
+      "color": "#9C6B98",
+      "article": "Nutan Maha Gujarat Janata Parishad"
+    },
+    "hls": {
+      "name": "Haryana Lok Samiti",
+      "color": "#6B8E23",
+      "article": "Haryana Lok Samiti"
+    },
+    "aphlc": {
+      "name": "All Party Hill Leaders Conference",
+      "color": "#B59A00",
+      "article": "All Party Hill Leaders Conference"
+    },
+    "ssp": {
+      "name": "Samyukta Socialist Party",
+      "color": "#33CC00",
+      "article": "Samyukta Socialist Party"
+    },
+    "cpim": {
+      "name": "CPI (Marxist)",
+      "color": "#CC0D0D",
+      "article": "Communist Party of India (Marxist)"
+    },
+    "bc": {
+      "name": "Bangla Congress",
+      "color": "#7E57C2",
+      "article": "Bangla Congress"
+    },
+    "adsfs": {
+      "name": "Akali Dal (Sant Fateh Singh)",
+      "color": "#FF8000",
+      "article": "Akali Dal – Sant Fateh Singh Group"
+    },
+    "kec": {
+      "name": "Kerala Congress",
+      "color": "#809FFF",
+      "article": "Kerala Congress"
+    },
+    "nc": {
+      "name": "National Conference",
+      "color": "#922B3E",
+      "article": "Jammu & Kashmir National Conference"
+    },
+    "jkd": {
+      "name": "Jana Kranti Dal",
+      "color": "#B03060",
+      "article": "Jana Kranti Dal"
+    },
+    "ugp": {
+      "name": "United Goans Party",
+      "color": "#CA8642",
+      "article": "United Goans Party"
+    },
+    "nno": {
+      "name": "Nagaland Nationalist Organisation",
+      "color": "#FFFF00",
+      "article": "Nagaland Nationalist Organisation"
+    },
+    "inco": {
+      "name": "Congress (Organisation)",
+      "color": "#A5F1F9",
+      "article": "Syndicate Congress"
+    },
+    "bkd": {
+      "name": "Bharatiya Kranti Dal",
+      "color": "#08FF10",
+      "article": "Bharatiya Kranti Dal"
+    },
+    "tps": {
+      "name": "Telangana Praja Samithi",
+      "color": "#800000",
+      "article": "Telangana Praja Samithi"
+    },
+    "utc": {
+      "name": "Utkal Congress",
+      "color": "#FCEE23",
+      "article": "Utkal Congress"
+    },
+    "rpik": {
+      "name": "Republican Party of India (Khobragade)",
+      "color": "#00008B",
+      "article": "Republican Party of India (Khobragade)"
+    },
+    "vhp": {
+      "name": "Vishal Haryana Party",
+      "color": "#FFFF00",
+      "article": "Vishal Haryana Party"
+    },
+    "aijp": {
+      "name": "All India Jharkhand Party",
+      "color": "#CC9999",
+      "article": "All India Jharkhand Party"
+    },
+    "ss": {
+      "name": "Shiv Sena",
+      "color": "#F37020",
+      "article": "Shiv Sena"
+    },
+    "ufn": {
+      "name": "United Front of Nagaland",
+      "color": "#40FF40",
+      "article": "United Front of Nagaland"
+    },
+    "mgp": {
+      "name": "Maharashtrawadi Gomantak Party",
+      "color": "#AF7050",
+      "article": "Maharashtrawadi Gomantak Party"
+    },
+    "mpp": {
+      "name": "Manipur People's Party",
+      "color": "#99CC99",
+      "article": "Manipur People's Party"
+    },
+    "jp": {
+      "name": "Janata Party",
+      "color": "#1F75FE",
+      "article": "Janata Party"
+    },
+    "aiadmk": {
+      "name": "AIADMK",
+      "color": "#009933",
+      "article": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    "udf": {
+      "name": "United Democratic Front",
+      "color": "#0078FF",
+      "article": "United Democratic Front (Kerala)"
+    },
+    "jps": {
+      "name": "Janata Party (Secular)",
+      "color": "#06038D",
+      "article": "Janata Party (Secular)"
+    },
+    "incu": {
+      "name": "Congress (Urs)",
+      "color": "#7777FF",
+      "article": "Indian National Congress (U)"
+    },
+    "sjp": {
+      "name": "Sikkim Janata Parishad",
+      "color": "#5BB30E",
+      "article": "Sikkim Janata Parishad"
+    },
+    "bjp": {
+      "name": "Bharatiya Janata Party",
+      "color": "#F97D09",
+      "article": "Bharatiya Janata Party"
+    },
+    "lkd": {
+      "name": "Lokdal",
+      "color": "#00FF66",
+      "article": "Lokdal"
+    },
+    "tdp": {
+      "name": "Telugu Desam Party",
+      "color": "#E8C800",
+      "article": "Telugu Desam Party"
+    },
+    "ics": {
+      "name": "Indian Congress (Socialist)",
+      "color": "#00FF00",
+      "article": "Indian Congress (Socialist)"
+    },
+    "incj": {
+      "name": "Congress (Jagjivan)",
+      "color": "#00CCFF",
+      "article": "Indian National Congress (Jagjivan)"
+    },
+    "kecj": {
+      "name": "Kerala Congress (Joseph)",
+      "color": "#809FFF",
+      "article": "Kerala Congress (Joseph)"
+    },
+    "jmm": {
+      "name": "Jharkhand Mukti Morcha",
+      "color": "#337316",
+      "article": "Jharkhand Mukti Morcha"
+    },
+    "jd": {
+      "name": "Janata Dal",
+      "color": "#2E8B57",
+      "article": "Janata Dal"
+    },
+    "bsp": {
+      "name": "Bahujan Samaj Party",
+      "color": "#22409A",
+      "article": "Bahujan Samaj Party"
+    },
+    "sada": {
+      "name": "Shiromani Akali Dal (Amritsar)",
+      "color": "#FFCF00",
+      "article": "Shiromani Akali Dal (Amritsar)"
+    },
+    "pmk": {
+      "name": "Pattali Makkal Katchi",
+      "color": "#FFFF00",
+      "article": "Pattali Makkal Katchi"
+    },
+    "icsscs": {
+      "name": "Indian Congress (Socialist) – Sarat Chandra Sinha",
+      "color": "#000000",
+      "article": "Indian Congress (Socialist) – Sarat Chandra Sinha"
+    },
+    "ipf": {
+      "name": "Indian People's Front",
+      "color": "#E40017",
+      "article": "Indian People's Front"
+    },
+    "aimim": {
+      "name": "AIMIM",
+      "color": "#0C6B4B",
+      "article": "All India Majlis-e-Ittehadul Muslimeen"
+    },
+    "gnlf": {
+      "name": "Gorkha National Liberation Front",
+      "color": "#8FBC8F",
+      "article": "Gorkha National Liberation Front"
+    },
+    "kecm": {
+      "name": "Kerala Congress (M)",
+      "color": "#89BADF",
+      "article": "Kerala Congress (M)"
+    },
+    "mcc": {
+      "name": "Marxist Co-ordination Committee",
+      "color": "#C24E4E",
+      "article": "Marxist Co-ordination Committee"
+    },
+    "npf": {
+      "name": "Naga People's Front",
+      "color": "#1717CC",
+      "article": "Naga People's Front"
+    },
+    "ssgp": {
+      "name": "Sikkim Sangram Parishad",
+      "color": "#663300",
+      "article": "Sikkim Sangram Parishad"
+    },
+    "mnf": {
+      "name": "Mizo National Front",
+      "color": "#2E5694",
+      "article": "Mizo National Front"
+    },
+    "agp": {
+      "name": "Asom Gana Parishad",
+      "color": "#99CCFF",
+      "article": "Asom Gana Parishad"
+    },
+    "jdg": {
+      "name": "Janata Dal (Gujarat)",
+      "color": "#20B2AA",
+      "article": "Janata Dal (Gujarat)"
+    },
+    "hvp": {
+      "name": "Haryana Vikas Party",
+      "color": "#CC00CC",
+      "article": "Haryana Vikas Party"
+    },
+    "umfa": {
+      "name": "United Minorities Front",
+      "color": "#348017",
+      "article": "United Minorities Front, Assam"
+    },
+    "asdc": {
+      "name": "Autonomous State Demand Committee",
+      "color": "#6B4226",
+      "article": "Autonomous State Demand Committee"
+    },
+    "rpia": {
+      "name": "Republican Party of India (Athawale)",
+      "color": "#000080",
+      "article": "Republican Party of India (Athawale)"
+    },
+    "sp": {
+      "name": "Samajwadi Party",
+      "color": "#D42A2A",
+      "article": "Samajwadi Party"
+    },
+    "tmc": {
+      "name": "Tamil Maanila Congress",
+      "color": "#C71585",
+      "article": "Tamil Maanila Congress (Moopanar)"
+    },
+    "samata": {
+      "name": "Samata Party",
+      "color": "#8E44AD",
+      "article": "Samata Party"
+    },
+    "aiict": {
+      "name": "All India Indira Congress (Tiwari)",
+      "color": "#00FFFF",
+      "article": "All India Indira Congress (Tiwari)"
+    },
+    "mdmk": {
+      "name": "MDMK",
+      "color": "#FC0000",
+      "article": "Marumalarchi Dravida Munnetra Kazhagam"
+    },
+    "cpiml": {
+      "name": "CPI (ML) Liberation",
+      "color": "#C41301",
+      "article": "Communist Party of India (Marxist–Leninist) Liberation"
+    },
+    "kcp": {
+      "name": "Karnataka Congress Party",
+      "color": "#1F618D"
+    },
+    "mpvc": {
+      "name": "Madhya Pradesh Vikas Congress",
+      "color": "#48A9A6"
+    },
+    "bbm": {
+      "name": "Bharipa Bahujan Mahasangh",
+      "color": "#0000FF",
+      "article": "Bharipa Bahujan Mahasangh"
+    },
+    "ad": {
+      "name": "Apna Dal",
+      "color": "#27176D",
+      "article": "Apna Dal (Kamerawadi)"
+    },
+    "sdf": {
+      "name": "Sikkim Democratic Front",
+      "color": "#FBEC5D",
+      "article": "Sikkim Democratic Front"
+    },
+    "ugdp": {
+      "name": "United Goans Democratic Party",
+      "color": "#5BB30E",
+      "article": "United Goans Democratic Party"
+    },
+    "rjd": {
+      "name": "Rashtriya Janata Dal",
+      "color": "#056D05",
+      "article": "Rashtriya Janata Dal"
+    },
+    "aitc": {
+      "name": "Trinamool Congress",
+      "color": "#20C646",
+      "article": "Trinamool Congress"
+    },
+    "bjd": {
+      "name": "Biju Janata Dal",
+      "color": "#70A548",
+      "article": "Biju Janata Dal"
+    },
+    "lks": {
+      "name": "Lok Shakti",
+      "color": "#336600",
+      "article": "Lok Shakti"
+    },
+    "arjp": {
+      "name": "All India Rashtriya Janata Party",
+      "color": "#A0522D",
+      "article": "Rashtriya Janmat Party"
+    },
+    "inld": {
+      "name": "Indian National Lok Dal",
+      "color": "#005747",
+      "article": "Indian National Lok Dal"
+    },
+    "sjpr": {
+      "name": "Samajwadi Janata Party (Rashtriya)",
+      "color": "#74C365",
+      "article": "Samajwadi Janata Party (Rashtriya)"
+    },
+    "aiics": {
+      "name": "All India Indira Congress (Secular)",
+      "color": "#4682B4",
+      "article": "All India Indira Congress (Secular)"
+    },
+    "mgradmk": {
+      "name": "MGR Anna Dravida Munnetra Kazhagam",
+      "color": "#F06292",
+      "article": "Su. Thirunavukkarasar"
+    },
+    "mscp": {
+      "name": "Manipur State Congress Party",
+      "color": "#99CC99",
+      "article": "Manipur State Congress Party"
+    },
+    "arc": {
+      "name": "Arunachal Congress",
+      "color": "#CCCCFF",
+      "article": "Arunachal Congress"
+    },
+    "nlp": {
+      "name": "National Loktantrik Party",
+      "color": "#3333FF",
+      "article": "National Loktantrik Party"
+    },
+    "hvc": {
+      "name": "Himachal Vikas Congress",
+      "color": "#CE8186",
+      "article": "Himachal Vikas Congress"
+    },
+    "jdu": {
+      "name": "Janata Dal (United)",
+      "color": "#003366",
+      "article": "Janata Dal (United)"
+    },
+    "ncp": {
+      "name": "Nationalist Congress Party",
+      "color": "#FFC0CB",
+      "article": "Nationalist Congress Party"
+    },
+    "jds": {
+      "name": "Janata Dal (Secular)",
+      "color": "#02865A",
+      "article": "Janata Dal (Secular)"
+    },
+    "rld": {
+      "name": "Rashtriya Lok Dal",
+      "color": "#006400",
+      "article": "Rashtriya Lok Dal"
+    },
+    "ablc": {
+      "name": "Akhil Bharatiya Loktantrik Congress",
+      "color": "#93DE73",
+      "article": "Akhil Bharatiya Loktantrik Congress"
+    },
+    "ljp": {
+      "name": "Lok Janshakti Party",
+      "color": "#0093DD",
+      "article": "Lok Janshakti Party"
+    },
+    "brs": {
+      "name": "Bharat Rashtra Samithi",
+      "color": "#F84996",
+      "article": "Bharat Rashtra Samithi"
+    },
+    "jkpdp": {
+      "name": "Peoples Democratic Party",
+      "color": "#058532",
+      "article": "Jammu and Kashmir Peoples Democratic Party"
+    },
+    "ifdp": {
+      "name": "Indian Federal Democratic Party",
+      "color": "#CC3399",
+      "article": "Indian Federal Democratic Party"
+    },
+    "bnsp": {
+      "name": "Bharatiya Navshakti Party",
+      "color": "#FFCC66",
+      "article": "Bharatiya Navshakti Party"
+    },
+    "ajsu": {
+      "name": "All Jharkhand Students Union",
+      "color": "#6827B5",
+      "article": "All Jharkhand Students Union"
+    },
+    "prp": {
+      "name": "Praja Rajyam Party",
+      "color": "#66FF00",
+      "article": "Praja Rajyam Party"
+    },
+    "aiudf": {
+      "name": "All India United Democratic Front",
+      "color": "#9E9D24",
+      "article": "All India United Democratic Front"
+    },
+    "jvm": {
+      "name": "Jharkhand Vikas Morcha (Prajatantrik)",
+      "color": "#EDFB06",
+      "article": "Jharkhand Vikas Morcha (Prajatantrik)"
+    },
+    "hjc": {
+      "name": "Haryana Janhit Congress (BL)",
+      "color": "#FFA000",
+      "article": "Haryana Janhit Congress (BL)"
+    },
+    "vck": {
+      "name": "VCK",
+      "color": "#1E90FF",
+      "article": "Viduthalai Chiruthaigal Katchi"
+    },
+    "bpf": {
+      "name": "Bodoland People's Front",
+      "color": "#FF6600",
+      "article": "Bodoland People's Front"
+    },
+    "swbp": {
+      "name": "Swabhimani Paksha",
+      "color": "#D06767",
+      "article": "Swabhimani Paksha"
+    },
+    "bva": {
+      "name": "Bahujan Vikas Aaghadi",
+      "color": "#C0CA33",
+      "article": "Bahujan Vikas Aaghadi"
+    },
+    "ysrcp": {
+      "name": "YSR Congress Party",
+      "color": "#1569C7",
+      "article": "YSR Congress Party"
+    },
+    "aap": {
+      "name": "Aam Aadmi Party",
+      "color": "#0072B0",
+      "article": "Aam Aadmi Party"
+    },
+    "rlsp": {
+      "name": "Rashtriya Lok Samta Party",
+      "color": "#999966",
+      "article": "Rashtriya Lok Samta Party"
+    },
+    "npp": {
+      "name": "National People's Party",
+      "color": "#F5AD00",
+      "article": "National People's Party (India)"
+    },
+    "ainrc": {
+      "name": "All India N.R. Congress",
+      "color": "#D4A017",
+      "article": "All India N. R. Congress"
+    },
+    "skm": {
+      "name": "Sikkim Krantikari Morcha",
+      "color": "#E91E63",
+      "article": "Sikkim Krantikari Morcha"
+    },
+    "ads": {
+      "name": "Apna Dal (Sonelal)",
+      "color": "#26176D",
+      "article": "Apna Dal (Soneylal)"
+    },
+    "rlp": {
+      "name": "Rashtriya Loktantrik Party",
+      "color": "#FFD42A",
+      "article": "Rashtriya Loktantrik Party"
+    },
+    "ndpp": {
+      "name": "Nationalist Democratic Progressive Party",
+      "color": "#ED1B24",
+      "article": "Nationalist Democratic Progressive Party"
+    }
+  },
+  "elections": [
+    {
+      "id": "in-lok-sabha-1952",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "label": "1951–52",
+      "date": "1952-02-21",
+      "totalSeats": 499,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1951–52_Indian_general_election",
+        "revid": 1371424489
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 47665951,
+          "pct": 44.99,
+          "seats": 364,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 16850089,
+          "pct": 15.9,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 3487401,
+          "pct": 3.29,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "soc48",
+          "votes": 11216719,
+          "pct": 10.59,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Kisan Mazdoor Praja Party",
+          "party": "kmpp",
+          "votes": 6135978,
+          "pct": 5.79,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "People's Democratic Front",
+          "party": "pdf",
+          "votes": 1367404,
+          "pct": 1.29,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "All India Ganatantra Parishad",
+          "party": "aigp",
+          "votes": 959749,
+          "pct": 0.91,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 1047611,
+          "pct": 0.99,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Hindu Mahasabha",
+          "party": "hms",
+          "votes": 1003034,
+          "pct": 0.95,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Tamil Nadu Toilers' Party",
+          "party": "tntp",
+          "votes": 889292,
+          "pct": 0.84,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Bharatiya Jana Sangh",
+          "party": "bjs",
+          "votes": 3246361,
+          "pct": 3.06,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Akhil Bharatiya Ram Rajya Parishad",
+          "party": "rrp",
+          "votes": 2091898,
+          "pct": 1.97,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Party",
+          "party": "jhp",
+          "votes": 749702,
+          "pct": 0.71,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 468108,
+          "pct": 0.44,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Commonweal Party",
+          "party": "cwp",
+          "votes": 325398,
+          "pct": 0.31,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Scheduled Castes Federation",
+          "party": "rpi",
+          "votes": 2521695,
+          "pct": 2.38,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 992187,
+          "pct": 0.94,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Lok Sewak Sangh",
+          "party": "lss",
+          "votes": 309940,
+          "pct": 0.29,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Krishikar Lok Party",
+          "party": "klp",
+          "votes": 1489615,
+          "pct": 1.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Forward Bloc (Marxist)",
+          "party": "aifb",
+          "votes": 963058,
+          "pct": 0.91,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Chota Nagpur Santhal Parganas Janata Party",
+          "party": "cnspjp",
+          "votes": 236094,
+          "pct": 0.22,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Travancore Tamil Nadu Congress",
+          "party": "ttnc",
+          "votes": 115893,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 79470,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1737436,
+          "pct": 1.64,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling ran from 25 October 1951 to 21 February 1952. The source table includes 10 appointed members (6 for Jammu and Kashmir, 2 Anglo-Indians, 1 for Part B tribal areas of Assam, 1 for the Andaman and Nicobar Islands), so the total is 499 (489 elected). No seat changes: first election. Turnout omitted: the article gives none (its table lists the electorate but no votes cast)."
+    },
+    {
+      "id": "in-lok-sabha-1957",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1957-03-14",
+      "totalSeats": 505,
+      "turnout": 45.44,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1957_Indian_general_election",
+        "revid": 1377250528
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 57579589,
+          "pct": 47.78,
+          "seats": 371,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 23284249,
+          "pct": 19.32,
+          "seats": 42,
+          "change": 5
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 10754075,
+          "pct": 8.92,
+          "seats": 27,
+          "change": 11
+        },
+        {
+          "name": "Praja Socialist Party",
+          "party": "psp",
+          "votes": 12542666,
+          "pct": 10.41,
+          "seats": 19,
+          "change": -2
+        },
+        {
+          "name": "All India Ganatantra Parishad",
+          "party": "aigp",
+          "votes": 1291141,
+          "pct": 1.07,
+          "seats": 7,
+          "change": 1
+        },
+        {
+          "name": "Scheduled Castes Federation",
+          "party": "rpi",
+          "votes": 2038890,
+          "pct": 1.69,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "Jharkhand Party",
+          "party": "jhp",
+          "votes": 751830,
+          "pct": 0.62,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "Bharatiya Jana Sangh",
+          "party": "bjs",
+          "votes": 7193267,
+          "pct": 5.97,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 924832,
+          "pct": 0.77,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Chota Nagpur Santhal Parganas Janata Party",
+          "party": "cnspjp",
+          "votes": 501359,
+          "pct": 0.42,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "People's Democratic Front",
+          "party": "pdf",
+          "votes": 1044032,
+          "pct": 0.87,
+          "seats": 2,
+          "change": -5
+        },
+        {
+          "name": "Forward Bloc (Marxist)",
+          "party": "aifb",
+          "votes": 665341,
+          "pct": 0.55,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Hindu Mahasabha",
+          "party": "hms",
+          "votes": 1032322,
+          "pct": 0.86,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 910322,
+          "pct": 0.76,
+          "seats": 0,
+          "change": -6
+        }
+      ],
+      "notes": "Polling ran from 24 February to 14 March 1957. The source table includes 11 appointed members, so the total is 505 (494 elected). Others change sums the minor parties shown in the table."
+    },
+    {
+      "id": "in-lok-sabha-1962",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1962-02-25",
+      "totalSeats": 508,
+      "turnout": 55.42,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1962_Indian_general_election",
+        "revid": 1371423760
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 51509084,
+          "pct": 44.72,
+          "seats": 361,
+          "change": -10,
+          "winner": true
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 11450037,
+          "pct": 9.94,
+          "seats": 29,
+          "change": 2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 12722488,
+          "pct": 11.05,
+          "seats": 20,
+          "change": -22
+        },
+        {
+          "name": "Swatantra Party",
+          "party": "swp",
+          "votes": 9085252,
+          "pct": 7.89,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Bharatiya Jana Sangh",
+          "party": "bjs",
+          "votes": 7415170,
+          "pct": 6.44,
+          "seats": 14,
+          "change": 10
+        },
+        {
+          "name": "Praja Socialist Party",
+          "party": "psp",
+          "votes": 7848345,
+          "pct": 6.81,
+          "seats": 12,
+          "change": -7
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 2315610,
+          "pct": 2.01,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "soc55",
+          "votes": 3099397,
+          "pct": 2.69,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "All India Ganatantra Parishad",
+          "party": "aigp",
+          "votes": 342970,
+          "pct": 0.3,
+          "seats": 4,
+          "change": -3
+        },
+        {
+          "name": "Republican Party of India",
+          "party": "rpi",
+          "votes": 3255985,
+          "pct": 2.83,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 829129,
+          "pct": 0.72,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Party",
+          "party": "jhp",
+          "votes": 467338,
+          "pct": 0.41,
+          "seats": 3,
+          "change": -3
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 826588,
+          "pct": 0.72,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Akhil Bharatiya Ram Rajya Parishad",
+          "party": "rrp",
+          "votes": 688990,
+          "pct": 0.6,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Revolutionary Socialist Party (RSP)",
+          "party": "rsp",
+          "votes": 451717,
+          "pct": 0.39,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 417761,
+          "pct": 0.36,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Lok Sewak Sangh",
+          "party": "lss",
+          "votes": 281755,
+          "pct": 0.24,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Hindu Mahasabha",
+          "party": "hms",
+          "votes": 747861,
+          "pct": 0.65,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Nutan Maha Gujarat Janata Parishad",
+          "party": "nmgjp",
+          "votes": 195812,
+          "pct": 0.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Haryana Lok Samiti",
+          "party": "hls",
+          "votes": 118667,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All Party Hill Leaders Conference",
+          "party": "aphlc",
+          "votes": 91850,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 14,
+          "change": 3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1007084,
+          "pct": 0.87,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "notes": "Polling ran from 19 to 25 February 1962. The source table includes 14 appointed members, so the total is 508 (494 elected). Parties marked \"New\" in the table have a null change."
+    },
+    {
+      "id": "in-lok-sabha-1967",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1967-02-21",
+      "totalSeats": 523,
+      "turnout": 61.04,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1967_Indian_general_election",
+        "revid": 1371235809
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 59490701,
+          "pct": 40.78,
+          "seats": 283,
+          "change": -78,
+          "winner": true
+        },
+        {
+          "name": "Swatantra Party",
+          "party": "swp",
+          "votes": 12646847,
+          "pct": 8.67,
+          "seats": 44,
+          "change": 26
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 20106051,
+          "pct": 13.78,
+          "seats": 35,
+          "change": 15
+        },
+        {
+          "name": "Bharatiya Jana Sangh",
+          "party": "bjs",
+          "votes": 13580935,
+          "pct": 9.31,
+          "seats": 35,
+          "change": 21
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 5529405,
+          "pct": 3.79,
+          "seats": 25,
+          "change": 18
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 7458396,
+          "pct": 5.11,
+          "seats": 23,
+          "change": -6
+        },
+        {
+          "name": "Samyukta Socialist Party",
+          "party": "ssp",
+          "votes": 7171627,
+          "pct": 4.92,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 6246522,
+          "pct": 4.28,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Praja Socialist Party",
+          "party": "psp",
+          "votes": 4456487,
+          "pct": 3.06,
+          "seats": 13,
+          "change": 1
+        },
+        {
+          "name": "Bangla Congress",
+          "party": "bc",
+          "votes": 1204356,
+          "pct": 0.83,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Akali Dal – Sant Fateh Singh",
+          "party": "adsfs",
+          "votes": 968712,
+          "pct": 0.66,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 1028755,
+          "pct": 0.71,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 627910,
+          "pct": 0.43,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 413868,
+          "pct": 0.28,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Republican Party of India",
+          "party": "rpi",
+          "votes": 3607711,
+          "pct": 2.47,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 210020,
+          "pct": 0.14,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Jana Kranti Dal",
+          "party": "jkd",
+          "votes": 183211,
+          "pct": 0.13,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All Party Hill Leaders Conference",
+          "party": "aphlc",
+          "votes": 112492,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Goans – Seqveria Group",
+          "party": "ugp",
+          "votes": 100137,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nagaland Nationalist Organisation",
+          "party": "nno",
+          "votes": 0,
+          "pct": 0,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": -11
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 722367,
+          "pct": 0.5,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Polling ran from 17 to 21 February 1967. The source table includes 3 appointed members (2 Anglo-Indians, 1 for the North-East Frontier Agency), so the total is 523 (520 elected). Parties marked \"New\" in the table have a null change."
+    },
+    {
+      "id": "in-lok-sabha-1971",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1971-03-10",
+      "totalSeats": 521,
+      "turnout": 55.27,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1971_Indian_general_election",
+        "revid": 1374632370
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress (R)",
+          "party": "inc",
+          "votes": 64033274,
+          "pct": 43.68,
+          "seats": 352,
+          "change": 69,
+          "winner": true
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 7510089,
+          "pct": 5.12,
+          "seats": 25,
+          "change": 6
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 6933627,
+          "pct": 4.73,
+          "seats": 23,
+          "change": 0
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 5622758,
+          "pct": 3.84,
+          "seats": 23,
+          "change": -2
+        },
+        {
+          "name": "Bharatiya Jana Sangh",
+          "party": "bjs",
+          "votes": 10777119,
+          "pct": 7.35,
+          "seats": 22,
+          "change": -13
+        },
+        {
+          "name": "Indian National Congress (Organisation)",
+          "party": "inco",
+          "votes": 15285851,
+          "pct": 10.43,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 12279629,
+          "pct": 8.38,
+          "seats": 14,
+          "change": -21
+        },
+        {
+          "name": "Telangana Praja Samithi",
+          "party": "tps",
+          "votes": 1873589,
+          "pct": 1.28,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Swatantra Party",
+          "party": "swp",
+          "votes": 4497988,
+          "pct": 3.07,
+          "seats": 8,
+          "change": -36
+        },
+        {
+          "name": "Samyukta Socialist Party",
+          "party": "ssp",
+          "votes": 3555639,
+          "pct": 2.43,
+          "seats": 3,
+          "change": -20
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 724001,
+          "pct": 0.49,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress",
+          "party": "kec",
+          "votes": 542431,
+          "pct": 0.37,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Praja Socialist Party",
+          "party": "psp",
+          "votes": 1526076,
+          "pct": 1.04,
+          "seats": 2,
+          "change": -11
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 962971,
+          "pct": 0.66,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 416545,
+          "pct": 0.28,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Bharatiya Kranti Dal",
+          "party": "bkd",
+          "votes": 3189821,
+          "pct": 2.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 1279873,
+          "pct": 0.87,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Utkal Congress",
+          "party": "utc",
+          "votes": 1053176,
+          "pct": 0.72,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Bangla Congress",
+          "party": "bc",
+          "votes": 518781,
+          "pct": 0.35,
+          "seats": 1,
+          "change": -4
+        },
+        {
+          "name": "Vishal Haryana Party",
+          "party": "vhp",
+          "votes": 352514,
+          "pct": 0.24,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Jharkhand Party",
+          "party": "aijp",
+          "votes": 272563,
+          "pct": 0.19,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Republican Party of India",
+          "party": "rpi",
+          "votes": 153794,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "All Party Hill Leaders Conference",
+          "party": "aphlc",
+          "votes": 90772,
+          "pct": 0.06,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Front of Nagaland",
+          "party": "ufn",
+          "votes": 89514,
+          "pct": 0.06,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "United Goans – Seqveria Group",
+          "party": "ugp",
+          "votes": 58401,
+          "pct": 0.04,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3001480,
+          "pct": 2.05,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "Polling ran from 1 to 10 March 1971. The source table includes 3 appointed members, so the total is 521 (518 elected). Congress (R) and Congress (I) rows use the inc key: Wikipedia says that faction was recognised as the Indian National Congress, and it dropped the \"(Indira)\" suffix in 1996. Parties marked \"New\" in the table have a null change."
+    },
+    {
+      "id": "in-lok-sabha-1977",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1977-03-20",
+      "totalSeats": 544,
+      "turnout": 60.49,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1977_Indian_general_election",
+        "revid": 1378383704
+      },
+      "candidates": [
+        {
+          "name": "Janata Party",
+          "party": "jp",
+          "votes": 78062828,
+          "pct": 41.32,
+          "seats": 295,
+          "change": 209,
+          "winner": true
+        },
+        {
+          "name": "Indian National Congress (R)",
+          "party": "inc",
+          "votes": 65211589,
+          "pct": 34.52,
+          "seats": 154,
+          "change": -198
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 8113659,
+          "pct": 4.29,
+          "seats": 22,
+          "change": -3
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 5480378,
+          "pct": 2.9,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 10393617,
+          "pct": 5.5,
+          "seats": 9,
+          "change": -5
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 2373331,
+          "pct": 1.26,
+          "seats": 9,
+          "change": 8
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 5322088,
+          "pct": 2.82,
+          "seats": 7,
+          "change": -16
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 1030232,
+          "pct": 0.55,
+          "seats": 5,
+          "change": 5
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 851164,
+          "pct": 0.45,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Indian National Congress (Organisation)",
+          "party": "inco",
+          "votes": 3252217,
+          "pct": 1.72,
+          "seats": 3,
+          "change": -13
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 633644,
+          "pct": 0.34,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 3323320,
+          "pct": 1.76,
+          "seats": 2,
+          "change": -21
+        },
+        {
+          "name": "Republican Party of India (Khobragade)",
+          "party": "rpik",
+          "votes": 956072,
+          "pct": 0.51,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 565007,
+          "pct": 0.3,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Kerala Congress",
+          "party": "kec",
+          "votes": 491674,
+          "pct": 0.26,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 483192,
+          "pct": 0.26,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "All India Jharkhand Party",
+          "party": "aijp",
+          "votes": 126288,
+          "pct": 0.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Democratic Front",
+          "party": "udf",
+          "votes": 124627,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Maharashtrawadi Gomantak Party",
+          "party": "mgp",
+          "votes": 118748,
+          "pct": 0.06,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Appointed Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2003829,
+          "pct": 1.06,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Polling ran from 16 to 20 March 1977. The source table includes 2 appointed Anglo-Indian members, so the total is 544 (542 elected). Congress (R) and Congress (I) rows use the inc key: Wikipedia says that faction was recognised as the Indian National Congress, and it dropped the \"(Indira)\" suffix in 1996. Parties marked \"New\" in the table have a null change."
+    },
+    {
+      "id": "in-lok-sabha-1980",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1980-01-06",
+      "totalSeats": 531,
+      "turnout": 56.92,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1980_Indian_general_election",
+        "revid": 1378383699
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress (Indira)",
+          "party": "inc",
+          "votes": 84455313,
+          "pct": 42.69,
+          "seats": 353,
+          "change": 199,
+          "winner": true
+        },
+        {
+          "name": "Janata Party (Secular)",
+          "party": "jps",
+          "votes": 18574696,
+          "pct": 9.39,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 12352331,
+          "pct": 6.24,
+          "seats": 37,
+          "change": 15
+        },
+        {
+          "name": "Janata Party",
+          "party": "jp",
+          "votes": 37530228,
+          "pct": 18.97,
+          "seats": 31,
+          "change": -264
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 4236537,
+          "pct": 2.14,
+          "seats": 16,
+          "change": 14
+        },
+        {
+          "name": "Indian National Congress (Urs)",
+          "party": "incu",
+          "votes": 10449859,
+          "pct": 5.28,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 4927342,
+          "pct": 2.49,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 12717510,
+          "pct": 6.43,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1285517,
+          "pct": 0.65,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1011564,
+          "pct": 0.51,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 493143,
+          "pct": 0.25,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 4674064,
+          "pct": 2.36,
+          "seats": 2,
+          "change": -16
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 475507,
+          "pct": 0.24,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 1396412,
+          "pct": 0.71,
+          "seats": 1,
+          "change": -8
+        },
+        {
+          "name": "Kerala Congress",
+          "party": "kec",
+          "votes": 356997,
+          "pct": 0.18,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Jharkhand Party",
+          "party": "jhp",
+          "votes": 254520,
+          "pct": 0.13,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Maharashtrawadi Gomantak Party",
+          "party": "mgp",
+          "votes": 127188,
+          "pct": 0.06,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Sikkim Janata Parishad",
+          "party": "sjp",
+          "votes": 31750,
+          "pct": 0.02,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 470567,
+          "pct": 0.24,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Appointed Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2003229,
+          "pct": 1.01,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "Polling on 3 and 6 January 1980. The source table includes 2 appointed Anglo-Indian members, so the total is 531 (529 elected). Congress (R) and Congress (I) rows use the inc key: Wikipedia says that faction was recognised as the Indian National Congress, and it dropped the \"(Indira)\" suffix in 1996. Parties marked \"New\" in the table have a null change."
+    },
+    {
+      "id": "in-lok-sabha-1984",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1984-12-28",
+      "totalSeats": 516,
+      "turnout": 63.56,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1984_Indian_general_election",
+        "revid": 1375869335
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress (Indira)",
+          "party": "inc",
+          "votes": 115478267,
+          "pct": 49.1,
+          "seats": 404,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 10132859,
+          "pct": 4.31,
+          "seats": 30,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 13809950,
+          "pct": 5.87,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 3968967,
+          "pct": 1.69,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Janata Party",
+          "party": "jp",
+          "votes": 16210514,
+          "pct": 6.89,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 6363430,
+          "pct": 2.71,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 18623803,
+          "pct": 7.92,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Indian Congress (Socialist)",
+          "party": "ics",
+          "votes": 3577377,
+          "pct": 1.52,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Lokdal",
+          "party": "lkd",
+          "votes": 14040064,
+          "pct": 5.97,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1173869,
+          "pct": 0.5,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 1010243,
+          "pct": 0.43,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 18202853,
+          "pct": 7.74,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 5695179,
+          "pct": 2.42,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1055556,
+          "pct": 0.45,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 658821,
+          "pct": 0.28,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (Joseph)",
+          "party": "kecj",
+          "votes": 598113,
+          "pct": 0.25,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian National Congress (Jagjivan)",
+          "party": "incj",
+          "votes": 1511515,
+          "pct": 0.64,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 463963,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Appointed Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2608866,
+          "pct": 1.11,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling on 24, 27 and 28 December 1984. Assam and Punjab voted in 1985; the article lists those 27 seats in a separate table, so they are not included here. Totals are the article's main results table: 514 elected seats plus 2 appointed Anglo-Indian members (516). The infobox's 414 seats for Congress (I) include the 10 it won in 1985. Turnout (63.56%) is computed from this table's electorate and votes cast; the infobox's 64.01% covers the 1984 and 1985 polls together. Congress (R) and Congress (I) rows use the inc key: Wikipedia says that faction was recognised as the Indian National Congress, and it dropped the \"(Indira)\" suffix in 1996. The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-1989",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1989-11-26",
+      "totalSeats": 531,
+      "turnout": 61.95,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1989_Indian_general_election",
+        "revid": 1375869053
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress (Indira)",
+          "party": "inc",
+          "votes": 118894702,
+          "pct": 39.53,
+          "seats": 197,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Janata Dal",
+          "party": "jd",
+          "votes": 53518521,
+          "pct": 17.79,
+          "seats": 143,
+          "change": null
+        },
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 34171477,
+          "pct": 11.36,
+          "seats": 85,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 19691309,
+          "pct": 6.55,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 15793781,
+          "pct": 5.25,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 7734697,
+          "pct": 2.57,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 4518649,
+          "pct": 1.5,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal (Simranjit Singh Mann)",
+          "party": "sada",
+          "votes": 2318872,
+          "pct": 0.77,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1854276,
+          "pct": 0.62,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 6213390,
+          "pct": 2.07,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1261310,
+          "pct": 0.42,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1032276,
+          "pct": 0.34,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 71194,
+          "pct": 0.02,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 9909728,
+          "pct": 3.29,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 974234,
+          "pct": 0.32,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian Congress (Socialist) – Sarat Chandra Sinha",
+          "party": "icsscs",
+          "votes": 978377,
+          "pct": 0.33,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indian People's Front",
+          "party": "ipf",
+          "votes": 737551,
+          "pct": 0.25,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 617376,
+          "pct": 0.21,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Gorkha National Liberation Front",
+          "party": "gnlf",
+          "votes": 435070,
+          "pct": 0.14,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 352191,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 339426,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Marxist Co-ordination Committee",
+          "party": "mcc",
+          "votes": 247013,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Hindu Mahasabha",
+          "party": "hms",
+          "votes": 217514,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Maharashtrawadi Gomantak Party",
+          "party": "mgp",
+          "votes": 116392,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Sangram Parishad",
+          "party": "ssgp",
+          "votes": 91608,
+          "pct": 0.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 7196099,
+          "pct": 2.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Janata Party",
+          "party": "jp",
+          "votes": 3029743,
+          "pct": 1.01,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 8459647,
+          "pct": 2.81,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling on 22 and 26 November 1989. Voting was not held in Assam. The source table covers the 529 elected seats (of 543) plus 2 nominated Anglo-Indian members (531). Congress (R) and Congress (I) rows use the inc key: Wikipedia says that faction was recognised as the Indian National Congress, and it dropped the \"(Indira)\" suffix in 1996. The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-1991",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1991-06-15",
+      "totalSeats": 523,
+      "turnout": 56.73,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1991_Indian_general_election",
+        "revid": 1378383719
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress (Indira)",
+          "party": "inc",
+          "votes": 99799403,
+          "pct": 36.26,
+          "seats": 232,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 55345075,
+          "pct": 20.11,
+          "seats": 120,
+          "change": null
+        },
+        {
+          "name": "Janata Dal",
+          "party": "jd",
+          "votes": 32589180,
+          "pct": 11.84,
+          "seats": 59,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 16954797,
+          "pct": 6.16,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 6851114,
+          "pct": 2.49,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 8223271,
+          "pct": 2.99,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 4470542,
+          "pct": 1.62,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1481900,
+          "pct": 0.54,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Janata Party",
+          "party": "jp",
+          "votes": 9267096,
+          "pct": 3.37,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 2208712,
+          "pct": 0.8,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1749730,
+          "pct": 0.64,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1145015,
+          "pct": 0.42,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 4420719,
+          "pct": 1.61,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 845418,
+          "pct": 0.31,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 11441688,
+          "pct": 4.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Asom Gana Parishad",
+          "party": "agp",
+          "votes": 1489898,
+          "pct": 0.54,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (Gujarat)",
+          "party": "jdg",
+          "votes": 1399702,
+          "pct": 0.51,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indian Congress (Socialist) – Sarat Chandra Sinha",
+          "party": "icsscs",
+          "votes": 982954,
+          "pct": 0.36,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 456900,
+          "pct": 0.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 384255,
+          "pct": 0.14,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Haryana Vikas Party",
+          "party": "hvp",
+          "votes": 331794,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nagaland People's Council",
+          "party": "npf",
+          "votes": 328015,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Manipur Peoples Party",
+          "party": "mpp",
+          "votes": 169692,
+          "pct": 0.06,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Autonomous State Demand Committee",
+          "party": "asdc",
+          "votes": 139785,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Sangram Parishad",
+          "party": "ssgp",
+          "votes": 106247,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 5741910,
+          "pct": 2.09,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6882178,
+          "pct": 2.5,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling on 20 May, 12 June and 15 June 1991. Punjab voted on 19 February 1992 (separate table in the article, not included). Elections were not held for Jammu and Kashmir's 6 seats, 2 seats in Bihar and 1 in Uttar Pradesh. The source table covers 521 elected seats plus 2 nominated Anglo-Indian members (523). Congress (R) and Congress (I) rows use the inc key: Wikipedia says that faction was recognised as the Indian National Congress, and it dropped the \"(Indira)\" suffix in 1996. The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-1996",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1996-05-07",
+      "totalSeats": 545,
+      "turnout": 57.94,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1996_Indian_general_election",
+        "revid": 1377712108
+      },
+      "candidates": [
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 67950851,
+          "pct": 20.29,
+          "seats": 161,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 96455493,
+          "pct": 28.8,
+          "seats": 140,
+          "change": null
+        },
+        {
+          "name": "Janata Dal",
+          "party": "jd",
+          "votes": 27070340,
+          "pct": 8.08,
+          "seats": 46,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 20496810,
+          "pct": 6.12,
+          "seats": 32,
+          "change": null
+        },
+        {
+          "name": "Tamil Maanila Congress",
+          "party": "tmc",
+          "votes": 7339982,
+          "pct": 2.19,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 10989241,
+          "pct": 3.28,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 7151381,
+          "pct": 2.14,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 9931826,
+          "pct": 2.97,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 4989994,
+          "pct": 1.49,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 6582263,
+          "pct": 1.97,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 13453235,
+          "pct": 4.02,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 21041557,
+          "pct": 6.28,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Samata Party",
+          "party": "samata",
+          "votes": 7256086,
+          "pct": 2.17,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 2534979,
+          "pct": 0.76,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Asom Gana Parishad",
+          "party": "agp",
+          "votes": 2560506,
+          "pct": 0.76,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 2105469,
+          "pct": 0.63,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "All India Indira Congress (Tiwari)",
+          "party": "aiict",
+          "votes": 4903070,
+          "pct": 1.46,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1279492,
+          "pct": 0.38,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Haryana Vikas Party",
+          "party": "hvp",
+          "votes": 1156322,
+          "pct": 0.35,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 757316,
+          "pct": 0.23,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1287072,
+          "pct": 0.38,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Karnataka Congress Party",
+          "party": "kcp",
+          "votes": 581868,
+          "pct": 0.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 382319,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 340070,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Madhya Pradesh Vikas Congress",
+          "party": "mpvc",
+          "votes": 337539,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Autonomous State Demand Committee",
+          "party": "asdc",
+          "votes": 180112,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Maharashtrawadi Gomantak Party",
+          "party": "mgp",
+          "votes": 129220,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Democratic Front",
+          "party": "sdf",
+          "votes": 124218,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "United Goans Democratic Party",
+          "party": "ugdp",
+          "votes": 109346,
+          "pct": 0.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 15395309,
+          "pct": 4.6,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling on 27 April, 2 May and 7 May 1996. The source table includes 2 nominated Anglo-Indian members, so the total is 545 (543 elected). The table has no seat-change column. The rows for Karnataka Congress Party and Madhya Pradesh Vikas Congress link to state Congress committee articles; they are kept as separate parties, as the table lists them."
+    },
+    {
+      "id": "in-lok-sabha-1998",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1998-02-28",
+      "totalSeats": 545,
+      "turnout": 61.97,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1998_Indian_general_election",
+        "revid": 1378324517
+      },
+      "candidates": [
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 94266188,
+          "pct": 25.59,
+          "seats": 182,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 95111131,
+          "pct": 25.82,
+          "seats": 141,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 18991867,
+          "pct": 5.16,
+          "seats": 32,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 18167640,
+          "pct": 4.93,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 6731550,
+          "pct": 1.83,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Janata Dal",
+          "party": "rjd",
+          "votes": 10229971,
+          "pct": 2.78,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 10199463,
+          "pct": 2.77,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Samata Party",
+          "party": "samata",
+          "votes": 6491639,
+          "pct": 1.76,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 6429569,
+          "pct": 1.75,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Biju Janata Dal",
+          "party": "bjd",
+          "votes": 3669825,
+          "pct": 1,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 3001769,
+          "pct": 0.81,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "West Bengal Trinamool Congress",
+          "party": "aitc",
+          "votes": 8920583,
+          "pct": 2.42,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Janata Dal",
+          "party": "jd",
+          "votes": 11930209,
+          "pct": 3.24,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 8719952,
+          "pct": 2.37,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 6528566,
+          "pct": 1.77,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 5308388,
+          "pct": 1.44,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 17186779,
+          "pct": 4.67,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 2032585,
+          "pct": 0.55,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Haryana Lok Dal (Rashtriya)",
+          "party": "inld",
+          "votes": 1956087,
+          "pct": 0.53,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Pattali Makkal Katchi",
+          "party": "pmk",
+          "votes": 1548976,
+          "pct": 0.42,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Republican Party of India",
+          "party": "rpi",
+          "votes": 1351019,
+          "pct": 0.37,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Tamil Maanila Congress",
+          "party": "tmc",
+          "votes": 5169183,
+          "pct": 1.4,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Lok Shakti",
+          "party": "lks",
+          "votes": 2548725,
+          "pct": 0.69,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Marumalarchi Dravida Munnetra Kazhagam",
+          "party": "mdmk",
+          "votes": 1602504,
+          "pct": 0.44,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 784669,
+          "pct": 0.21,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1213965,
+          "pct": 0.33,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Muslim League Kerala State Committee",
+          "party": "iuml",
+          "votes": 800765,
+          "pct": 0.22,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Arunachal Congress",
+          "party": "arc",
+          "votes": 172496,
+          "pct": 0.05,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "All India Rashtriya Janata Party",
+          "party": "arjp",
+          "votes": 2071643,
+          "pct": 0.56,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Janata Party (Rashtriya)",
+          "party": "sjpr",
+          "votes": 1181083,
+          "pct": 0.32,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Haryana Vikas Party",
+          "party": "hvp",
+          "votes": 875803,
+          "pct": 0.24,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 485785,
+          "pct": 0.13,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Indira Congress (Secular)",
+          "party": "aiics",
+          "votes": 457510,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Janata Party",
+          "party": "jp",
+          "votes": 444305,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "United Minorities Front, Assam",
+          "party": "umfa",
+          "votes": 357759,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 356168,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 269609,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Manipur State Congress Party",
+          "party": "mscp",
+          "votes": 190358,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Autonomous State Demand Committee",
+          "party": "asdc",
+          "votes": 184241,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Democratic Front",
+          "party": "sdf",
+          "votes": 102440,
+          "pct": 0.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 10333933,
+          "pct": 2.81,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling on 16, 22 and 28 February 1998. The source table includes 2 nominated Anglo-Indian members, so the total is 545 (543 elected). The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-1999",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "1999-10-03",
+      "totalSeats": 545,
+      "turnout": 59.99,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/1999_Indian_general_election",
+        "revid": 1378324520
+      },
+      "candidates": [
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 86562209,
+          "pct": 23.75,
+          "seats": 182,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 103120330,
+          "pct": 28.3,
+          "seats": 114,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 19695767,
+          "pct": 5.4,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 13297370,
+          "pct": 3.65,
+          "seats": 29,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 13717021,
+          "pct": 3.76,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (United)",
+          "party": "jdu",
+          "votes": 11282084,
+          "pct": 3.1,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 5672412,
+          "pct": 1.56,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 15175845,
+          "pct": 4.16,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 6298832,
+          "pct": 1.73,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 7046953,
+          "pct": 1.93,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Biju Janata Dal",
+          "party": "bjd",
+          "votes": 4378536,
+          "pct": 1.2,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Trinamool Congress",
+          "party": "aitc",
+          "votes": 9363785,
+          "pct": 2.57,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Nationalist Congress Party",
+          "party": "ncp",
+          "votes": 8260311,
+          "pct": 2.27,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Janata Dal",
+          "party": "rjd",
+          "votes": 10150492,
+          "pct": 2.79,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 9996386,
+          "pct": 2.74,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Pattali Makkal Katchi",
+          "party": "pmk",
+          "votes": 2377741,
+          "pct": 0.65,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Indian National Lok Dal",
+          "party": "inld",
+          "votes": 2002700,
+          "pct": 0.55,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 5395119,
+          "pct": 1.48,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Marumalarchi Dravida Munnetra Kazhagam",
+          "party": "mdmk",
+          "votes": 1620527,
+          "pct": 0.44,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 454481,
+          "pct": 0.12,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1500817,
+          "pct": 0.41,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 2502949,
+          "pct": 0.69,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Lok Dal",
+          "party": "rld",
+          "votes": 1364030,
+          "pct": 0.37,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1288060,
+          "pct": 0.35,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Muslim League Kerala State Committee",
+          "party": "iuml",
+          "votes": 833562,
+          "pct": 0.23,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Akhil Bharatiya Loktantrik Congress",
+          "party": "ablc",
+          "votes": 818713,
+          "pct": 0.22,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (Secular)",
+          "party": "jds",
+          "votes": 3332702,
+          "pct": 0.91,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist–Leninist) Liberation",
+          "party": "cpiml",
+          "votes": 1220698,
+          "pct": 0.33,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Bharipa Bahujan Mahasangh",
+          "party": "bbm",
+          "votes": 692559,
+          "pct": 0.19,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 448165,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "MGR Anna Dravida Munnetra Kazhagam",
+          "party": "mgradmk",
+          "votes": 396216,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress",
+          "party": "kec",
+          "votes": 365313,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 357402,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal (Simranjit Singh Mann)",
+          "party": "sada",
+          "votes": 298846,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Janata Party (Rashtriya)",
+          "party": "sjpr",
+          "votes": 297337,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Peasants and Workers Party of India",
+          "party": "pwpi",
+          "votes": 282583,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Himachal Vikas Congress",
+          "party": "hvc",
+          "votes": 264002,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Manipur State Congress Party",
+          "party": "mscp",
+          "votes": 222417,
+          "pct": 0.06,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Democratic Front",
+          "party": "sdf",
+          "votes": 107828,
+          "pct": 0.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 11974194,
+          "pct": 3.29,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling from 5 September to 3 October 1999. The source table includes 2 nominated Anglo-Indian members, so the total is 545 (543 elected). The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-2004",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "2004-05-10",
+      "totalSeats": 545,
+      "turnout": 58.07,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/2004_Indian_general_election",
+        "revid": 1378324526
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 103408949,
+          "pct": 26.53,
+          "seats": 145,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 86371561,
+          "pct": 22.16,
+          "seats": 138,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 22070614,
+          "pct": 5.66,
+          "seats": 43,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 16824072,
+          "pct": 4.32,
+          "seats": 36,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Janata Dal",
+          "party": "rjd",
+          "votes": 9384147,
+          "pct": 2.41,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 20765229,
+          "pct": 5.33,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 7064393,
+          "pct": 1.81,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 7056255,
+          "pct": 1.81,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Biju Janata Dal",
+          "party": "bjd",
+          "votes": 5082849,
+          "pct": 1.3,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 5484111,
+          "pct": 1.41,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Nationalist Congress Party",
+          "party": "ncp",
+          "votes": 7023175,
+          "pct": 1.8,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (United)",
+          "party": "jdu",
+          "votes": 9144963,
+          "pct": 2.35,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 3506681,
+          "pct": 0.9,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Pattali Makkal Katchi",
+          "party": "pmk",
+          "votes": 2169020,
+          "pct": 0.56,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 16549900,
+          "pct": 4.25,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 11844811,
+          "pct": 3.04,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Telangana Rashtra Samithi",
+          "party": "brs",
+          "votes": 2441405,
+          "pct": 0.63,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1846843,
+          "pct": 0.47,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Lok Janshakti Party",
+          "party": "ljp",
+          "votes": 2771427,
+          "pct": 0.71,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Marumalarchi Dravida Munnetra Kazhagam",
+          "party": "mdmk",
+          "votes": 1679870,
+          "pct": 0.43,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (Secular)",
+          "party": "jds",
+          "votes": 5732296,
+          "pct": 1.47,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Lok Dal",
+          "party": "rld",
+          "votes": 2463607,
+          "pct": 0.63,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1689794,
+          "pct": 0.43,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1365055,
+          "pct": 0.35,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Trinamool Congress",
+          "party": "aitc",
+          "votes": 8071867,
+          "pct": 2.07,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Asom Gana Parishad",
+          "party": "agp",
+          "votes": 2069600,
+          "pct": 0.53,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 493067,
+          "pct": 0.13,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 770098,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Naga People's Front",
+          "party": "npf",
+          "votes": 715366,
+          "pct": 0.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 417248,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Republican Party of India (Athawale)",
+          "party": "rpia",
+          "votes": 367510,
+          "pct": 0.09,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Loktantrik Party",
+          "party": "nlp",
+          "votes": 367049,
+          "pct": 0.09,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress",
+          "party": "kec",
+          "votes": 353905,
+          "pct": 0.09,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Janata Party (Rashtriya)",
+          "party": "sjpr",
+          "votes": 337386,
+          "pct": 0.09,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "PDP(in Kashmir)",
+          "party": "jkpdp",
+          "votes": 267457,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indian Federal Democratic Party",
+          "party": "ifdp",
+          "votes": 256411,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Mizo National Front",
+          "party": "mnf",
+          "votes": 182864,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Bharatiya Navshakti Party",
+          "party": "bnsp",
+          "votes": 171080,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Democratic Front",
+          "party": "sdf",
+          "votes": 153409,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 8547014,
+          "pct": 2.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 12497426,
+          "pct": 3.21,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling on 20 and 26 April and 5 and 10 May 2004. The source table includes 2 nominated Anglo-Indian members, so the total is 545 (543 elected). The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-2009",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "2009-05-13",
+      "totalSeats": 545,
+      "turnout": 58.21,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/2009_Indian_general_election",
+        "revid": 1376413970
+      },
+      "candidates": [
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 119111019,
+          "pct": 28.55,
+          "seats": 206,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 78435381,
+          "pct": 18.8,
+          "seats": 116,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 14284638,
+          "pct": 3.42,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 25728920,
+          "pct": 6.17,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (United)",
+          "party": "jdu",
+          "votes": 6331201,
+          "pct": 1.52,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "All India Trinamool Congress",
+          "party": "aitc",
+          "votes": 13356510,
+          "pct": 3.2,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 7625397,
+          "pct": 1.83,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 22219111,
+          "pct": 5.33,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Biju Janata Dal",
+          "party": "bjd",
+          "votes": 6612552,
+          "pct": 1.59,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 6454950,
+          "pct": 1.55,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 21647686,
+          "pct": 5.19,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Nationalist Congress Party",
+          "party": "ncp",
+          "votes": 8521502,
+          "pct": 2.04,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 6953591,
+          "pct": 1.67,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 10481659,
+          "pct": 2.51,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Lok Dal",
+          "party": "rld",
+          "votes": 1821054,
+          "pct": 0.44,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 5951888,
+          "pct": 1.43,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Janata Dal",
+          "party": "rjd",
+          "votes": 5280084,
+          "pct": 1.27,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 4004789,
+          "pct": 0.96,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (Secular)",
+          "party": "jds",
+          "votes": 3434082,
+          "pct": 0.82,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 498374,
+          "pct": 0.12,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Telangana Rashtra Samithi",
+          "party": "brs",
+          "votes": 2582326,
+          "pct": 0.62,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1665173,
+          "pct": 0.4,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1573650,
+          "pct": 0.38,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "All India Forward Bloc",
+          "party": "aifb",
+          "votes": 1345803,
+          "pct": 0.32,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Muslim League Kerala State Committee",
+          "party": "iuml",
+          "votes": 877494,
+          "pct": 0.21,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Assam United Democratic Front",
+          "party": "aiudf",
+          "votes": 2184553,
+          "pct": 0.52,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Asom Gana Parishad",
+          "party": "agp",
+          "votes": 1773103,
+          "pct": 0.43,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Marumalarchi Dravida Munnetra Kazhagam",
+          "party": "mdmk",
+          "votes": 1112908,
+          "pct": 0.27,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Vikas Morcha (Prajatantrik)",
+          "party": "jvm",
+          "votes": 963274,
+          "pct": 0.23,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nagaland Peoples Front",
+          "party": "npf",
+          "votes": 832224,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Haryana Janhit Congress (BL)",
+          "party": "hjc",
+          "votes": 816395,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Viduthalai Chiruthaigal Katchi",
+          "party": "vck",
+          "votes": 735847,
+          "pct": 0.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Bodoland People's Front",
+          "party": "bpf",
+          "votes": 656430,
+          "pct": 0.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Swabhimani Paksha",
+          "party": "swbp",
+          "votes": 481025,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 404962,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 308061,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Bahujan Vikas Aaghadi",
+          "party": "bva",
+          "votes": 223234,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Democratic Front",
+          "party": "sdf",
+          "votes": 159351,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Praja Rajyam Party",
+          "party": "prp",
+          "votes": 6590046,
+          "pct": 1.58,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 23119034,
+          "pct": 5.54,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling from 16 April to 13 May 2009. The source table includes 2 nominated Anglo-Indian members, so the total is 545 (543 elected). The table groups 286 minor parties with under 100,000 votes into one row, which is part of Others here. The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-2014",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "2014-05-12",
+      "totalSeats": 545,
+      "turnout": 66.44,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/2014_Indian_general_election",
+        "revid": 1377416008
+      },
+      "candidates": [
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 171660230,
+          "pct": 31,
+          "seats": 282,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 106935942,
+          "pct": 19.31,
+          "seats": 44,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 18111579,
+          "pct": 3.27,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "All India Trinamool Congress",
+          "party": "aitc",
+          "votes": 21262665,
+          "pct": 3.84,
+          "seats": 34,
+          "change": null
+        },
+        {
+          "name": "Biju Janata Dal",
+          "party": "bjd",
+          "votes": 9489946,
+          "pct": 1.71,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 10262544,
+          "pct": 1.85,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 14099230,
+          "pct": 2.55,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Telangana Rashtra Samithi",
+          "party": "brs",
+          "votes": 6736270,
+          "pct": 1.22,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 17988955,
+          "pct": 3.25,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "YSR Congress Party",
+          "party": "ysrcp",
+          "votes": 13995435,
+          "pct": 2.53,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Nationalist Congress Party",
+          "party": "ncp",
+          "votes": 8635558,
+          "pct": 1.56,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Lok Janshakti Party",
+          "party": "ljp",
+          "votes": 2295929,
+          "pct": 0.41,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 18673089,
+          "pct": 3.37,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Aam Aadmi Party",
+          "party": "aap",
+          "votes": 11325387,
+          "pct": 2.05,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Janata Dal",
+          "party": "rjd",
+          "votes": 7440937,
+          "pct": 1.34,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 3636148,
+          "pct": 0.66,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 16737720,
+          "pct": 3.02,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "All India United Democratic Front",
+          "party": "aiudf",
+          "votes": 2333040,
+          "pct": 0.42,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Rashtriya Lok Samta Party",
+          "party": "rlsp",
+          "votes": 1078473,
+          "pct": 0.19,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Jammu and Kashmir Peoples Democratic Party",
+          "party": "jkpdp",
+          "votes": 732644,
+          "pct": 0.13,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (United)",
+          "party": "jdu",
+          "votes": 5992281,
+          "pct": 1.08,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Janata Dal (Secular)",
+          "party": "jds",
+          "votes": 3731481,
+          "pct": 0.67,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian National Lok Dal",
+          "party": "inld",
+          "votes": 2799899,
+          "pct": 0.51,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1637994,
+          "pct": 0.3,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 1100096,
+          "pct": 0.2,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Apna Dal",
+          "party": "ad",
+          "votes": 821820,
+          "pct": 0.15,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 4327460,
+          "pct": 0.78,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Pattali Makkal Katchi",
+          "party": "pmk",
+          "votes": 1827566,
+          "pct": 0.33,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 1666380,
+          "pct": 0.3,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Swabhimani Paksha",
+          "party": "swbp",
+          "votes": 1105073,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Naga People's Front",
+          "party": "npf",
+          "votes": 994505,
+          "pct": 0.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India Majlis-E-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 685730,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Peoples Party",
+          "party": "npp",
+          "votes": 576448,
+          "pct": 0.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 424194,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All India N.R. Congress",
+          "party": "ainrc",
+          "votes": 255826,
+          "pct": 0.05,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Democratic Front",
+          "party": "sdf",
+          "votes": 163698,
+          "pct": 0.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 22946346,
+          "pct": 4.14,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 9631246,
+          "pct": 1.74,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Nominated Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "None of the above",
+          "party": "nota",
+          "votes": 6002942,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 23680240,
+          "pct": 4.28,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling from 7 April to 12 May 2014. The source table includes 2 nominated Anglo-Indian members, so the total is 545 (543 elected). \"None of the above\" votes are a row in the table and count in the vote total used for percentages. The table has no seat-change column."
+    },
+    {
+      "id": "in-lok-sabha-2019",
+      "office": "Lok Sabha",
+      "kind": "legislative",
+      "date": "2019-05-19",
+      "totalSeats": 545,
+      "turnout": 67.4,
+      "source": {
+        "name": "Wikipedia, citing the Election Commission of India",
+        "url": "https://en.wikipedia.org/wiki/2019_Indian_general_election",
+        "revid": 1378324565
+      },
+      "candidates": [
+        {
+          "name": "Bharatiya Janata Party",
+          "party": "bjp",
+          "votes": 229076879,
+          "pct": 37.3,
+          "seats": 303,
+          "change": 21,
+          "winner": true
+        },
+        {
+          "name": "Indian National Congress",
+          "party": "inc",
+          "votes": 119495214,
+          "pct": 19.46,
+          "seats": 52,
+          "change": 8
+        },
+        {
+          "name": "Dravida Munnetra Kazhagam",
+          "party": "dmk",
+          "votes": 14363332,
+          "pct": 2.34,
+          "seats": 24,
+          "change": 24
+        },
+        {
+          "name": "Trinamool Congress",
+          "party": "aitc",
+          "votes": 24929330,
+          "pct": 4.06,
+          "seats": 22,
+          "change": -12
+        },
+        {
+          "name": "YSR Congress Party",
+          "party": "ysrcp",
+          "votes": 15537006,
+          "pct": 2.53,
+          "seats": 22,
+          "change": 13
+        },
+        {
+          "name": "Shiv Sena",
+          "party": "ss",
+          "votes": 12858904,
+          "pct": 2.09,
+          "seats": 18,
+          "change": 0
+        },
+        {
+          "name": "Janata Dal (United)",
+          "party": "jdu",
+          "votes": 8926679,
+          "pct": 1.45,
+          "seats": 16,
+          "change": 14
+        },
+        {
+          "name": "Biju Janata Dal",
+          "party": "bjd",
+          "votes": 10174021,
+          "pct": 1.66,
+          "seats": 12,
+          "change": -8
+        },
+        {
+          "name": "Bahujan Samaj Party",
+          "party": "bsp",
+          "votes": 22246501,
+          "pct": 3.62,
+          "seats": 10,
+          "change": 10
+        },
+        {
+          "name": "Telangana Rashtra Samithi",
+          "party": "brs",
+          "votes": 7696848,
+          "pct": 1.25,
+          "seats": 9,
+          "change": -2
+        },
+        {
+          "name": "Lok Janshakti Party",
+          "party": "ljp",
+          "votes": 3206979,
+          "pct": 0.52,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Samajwadi Party",
+          "party": "sp",
+          "votes": 15647206,
+          "pct": 2.55,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Nationalist Congress Party",
+          "party": "ncp",
+          "votes": 8500331,
+          "pct": 1.38,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 16485773,
+          "pct": 2.68,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Telugu Desam Party",
+          "party": "tdp",
+          "votes": 12515345,
+          "pct": 2.04,
+          "seats": 3,
+          "change": -13
+        },
+        {
+          "name": "Communist Party of India (Marxist)",
+          "party": "cpim",
+          "votes": 10744908,
+          "pct": 1.75,
+          "seats": 3,
+          "change": -6
+        },
+        {
+          "name": "Indian Union Muslim League",
+          "party": "iuml",
+          "votes": 1592467,
+          "pct": 0.26,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Jammu & Kashmir National Conference",
+          "party": "nc",
+          "votes": 280356,
+          "pct": 0.05,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Shiromani Akali Dal",
+          "party": "sad",
+          "votes": 3778574,
+          "pct": 0.62,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Communist Party of India",
+          "party": "cpi",
+          "votes": 3576184,
+          "pct": 0.58,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "All India Majlis-e-Ittehadul Muslimeen",
+          "party": "aimim",
+          "votes": 1201542,
+          "pct": 0.2,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Apna Dal (Sonelal)",
+          "party": "ads",
+          "votes": 1039478,
+          "pct": 0.17,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "All India Anna Dravida Munnetra Kazhagam",
+          "party": "aiadmk",
+          "votes": 8307345,
+          "pct": 1.35,
+          "seats": 1,
+          "change": -36
+        },
+        {
+          "name": "Janata Dal (Secular)",
+          "party": "jds",
+          "votes": 3457107,
+          "pct": 0.56,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Aam Aadmi Party",
+          "party": "aap",
+          "votes": 2716629,
+          "pct": 0.44,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Jharkhand Mukti Morcha",
+          "party": "jmm",
+          "votes": 1901976,
+          "pct": 0.31,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "All India United Democratic Front",
+          "party": "aiudf",
+          "votes": 1402088,
+          "pct": 0.23,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Revolutionary Socialist Party",
+          "party": "rsp",
+          "votes": 709685,
+          "pct": 0.12,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Rashtriya Loktantrik Party",
+          "party": "rlp",
+          "votes": 660051,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All Jharkhand Students Union",
+          "party": "ajsu",
+          "votes": 648277,
+          "pct": 0.11,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Viduthalai Chiruthaigal Katchi",
+          "party": "vck",
+          "votes": 507643,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Nationalist Democratic Progressive Party",
+          "party": "ndpp",
+          "votes": 500510,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National People's Party",
+          "party": "npp",
+          "votes": 425986,
+          "pct": 0.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Kerala Congress (M)",
+          "party": "kecm",
+          "votes": 421046,
+          "pct": 0.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Naga People's Front",
+          "party": "npf",
+          "votes": 363527,
+          "pct": 0.06,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Mizo National Front",
+          "party": "mnf",
+          "votes": 224286,
+          "pct": 0.04,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Sikkim Krantikari Morcha",
+          "party": "skm",
+          "votes": 166922,
+          "pct": 0.03,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Rashtriya Janata Dal",
+          "party": "rjd",
+          "votes": 6632247,
+          "pct": 1.08,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Appointed Anglo-Indians",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "None of the above",
+          "party": "nota",
+          "votes": 6522772,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 34730869,
+          "pct": 5.65,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling from 11 April to 19 May 2019 (Vellore voted on 5 August 2019). The source table includes 2 appointed Anglo-Indian members, so the total is 545 (543 elected). \"None of the above\" votes are a row in the table and count in the vote total used for percentages."
+    }
+  ]
+}

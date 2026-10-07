@@ -1,0 +1,669 @@
+{
+  "code": "PT",
+  "name": "Portugal",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary semi-presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Assembly of the Republic (230)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 10800000,
+    "offices": {
+      "Assembly of the Republic": "230 deputies elected by closed-list proportional representation (D’Hondt) in 22 constituencies: the 18 districts, the Azores, Madeira and two for voters abroad. Terms run up to four years.",
+      "President": "Elected for five years by popular vote, with a run-off if no candidate wins a majority. The president can dissolve parliament."
+    }
+  },
+  "parties": {
+    "ad": {
+      "name": "Democratic Alliance",
+      "color": "#F68A21"
+    },
+    "chega": {
+      "name": "Chega",
+      "color": "#202056"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#F2569F"
+    },
+    "il": {
+      "name": "Liberal Initiative",
+      "color": "#00ADEF"
+    },
+    "livre": {
+      "name": "Livre",
+      "color": "#8CC63F"
+    },
+    "cdu": {
+      "name": "CDU (PCP–PEV)",
+      "color": "#E10600"
+    },
+    "be": {
+      "name": "Left Bloc",
+      "color": "#B5134B"
+    },
+    "pan": {
+      "name": "PAN",
+      "color": "#008080"
+    },
+    "jpp": {
+      "name": "JPP",
+      "color": "#3D8BC9"
+    },
+    "adn": {
+      "name": "ADN",
+      "color": "#1D4E89"
+    },
+    "ind": {
+      "name": "Independent",
+      "color": "#5B6C7D"
+    },
+    "vieira": {
+      "name": "Independent",
+      "color": "#9C8E7A"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "pt-assembly-2025",
+      "office": "Assembly of the Republic",
+      "kind": "legislative",
+      "date": "2025-05-18",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 58.25,
+      "cite": {
+        "name": "the Ministry of Internal Administration",
+        "url": "https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election"
+      },
+      "system": "230 seats, closed-list proportional (D’Hondt) in 22 constituencies",
+      "totalSeats": 230,
+      "majority": 116,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Democratic Alliance",
+          "party": "ad",
+          "pct": 33.15,
+          "seats": 91,
+          "votes": 2008488,
+          "change": 11,
+          "winner": true
+        },
+        {
+          "name": "Chega",
+          "party": "chega",
+          "pct": 23.74,
+          "seats": 60,
+          "votes": 1438554,
+          "change": 10
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "pct": 23.81,
+          "seats": 58,
+          "votes": 1442546,
+          "change": -20
+        },
+        {
+          "name": "Liberal Initiative",
+          "party": "il",
+          "pct": 5.59,
+          "seats": 9,
+          "votes": 338974,
+          "change": 1
+        },
+        {
+          "name": "Livre",
+          "party": "livre",
+          "pct": 4.25,
+          "seats": 6,
+          "votes": 257291,
+          "change": 2
+        },
+        {
+          "name": "CDU (PCP–PEV)",
+          "party": "cdu",
+          "pct": 3.03,
+          "seats": 3,
+          "votes": 183686,
+          "change": -1
+        },
+        {
+          "name": "Left Bloc",
+          "party": "be",
+          "pct": 2.08,
+          "seats": 1,
+          "votes": 125808,
+          "change": -4
+        },
+        {
+          "name": "PAN",
+          "party": "pan",
+          "pct": 1.43,
+          "seats": 1,
+          "votes": 86930,
+          "change": 0
+        },
+        {
+          "name": "JPP",
+          "party": "jpp",
+          "pct": 0.34,
+          "seats": 1,
+          "votes": 20900,
+          "change": 1
+        },
+        {
+          "name": "ADN",
+          "party": "adn",
+          "pct": 1.35,
+          "seats": 0,
+          "votes": 81660,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 1.23,
+          "seats": 0,
+          "votes": 74484,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Aveiro","abbr":"01","seats":16,"winner":"ad","margin":3.6,"turnout":60.9,"votes":447778,"results":[{"party":"ad","pct":36.8,"votes":164782,"seats":6},{"party":"ps","pct":33.2,"votes":148662,"seats":5},{"party":"chega","pct":21,"votes":94033,"seats":3},{"party":"livre","pct":5.1,"votes":22837,"seats":1},{"party":"il","pct":3.9,"votes":17463,"seats":1}]},
+        {"name":"Azores","abbr":"20","seats":5,"winner":"ad","margin":6,"turnout":58.9,"votes":143958,"results":[{"party":"ad","pct":40.4,"votes":58159,"seats":2},{"party":"ps","pct":34.4,"votes":49522,"seats":2},{"party":"chega","pct":15.2,"votes":21882,"seats":1},{"party":"livre","pct":6,"votes":8637,"seats":0},{"party":"il","pct":4.1,"votes":5902,"seats":0}]},
+        {"name":"Beja","abbr":"02","seats":3,"winner":"chega","margin":1.5,"turnout":57.4,"votes":77200,"results":[{"party":"chega","pct":39.9,"votes":30803,"seats":1},{"party":"ad","pct":38.4,"votes":29645,"seats":1},{"party":"ps","pct":13.1,"votes":10113,"seats":1},{"party":"livre","pct":4.5,"votes":3474,"seats":0},{"party":"il","pct":4.1,"votes":3165,"seats":0}]},
+        {"name":"Braga","abbr":"03","seats":19,"winner":"ad","margin":6.5,"turnout":65.1,"votes":430695,"results":[{"party":"ad","pct":39.2,"votes":168832,"seats":7},{"party":"ps","pct":32.7,"votes":140837,"seats":6},{"party":"chega","pct":19.7,"votes":84847,"seats":4},{"party":"livre","pct":4.7,"votes":20243,"seats":1},{"party":"il","pct":3.7,"votes":15936,"seats":1}]},
+        {"name":"Bragança","abbr":"04","seats":3,"winner":"ad","margin":5.5,"turnout":60.9,"votes":76634,"results":[{"party":"ad","pct":34.7,"votes":26592,"seats":1},{"party":"chega","pct":29.2,"votes":22377,"seats":1},{"party":"ps","pct":22.5,"votes":17243,"seats":1},{"party":"livre","pct":7.1,"votes":5441,"seats":0},{"party":"il","pct":6.5,"votes":4981,"seats":0}]},
+        {"name":"Castelo Branco","abbr":"05","seats":4,"winner":"ad","margin":10.6,"turnout":54.8,"votes":112990,"results":[{"party":"ad","pct":38.5,"votes":43501,"seats":2},{"party":"chega","pct":27.9,"votes":31524,"seats":1},{"party":"ps","pct":20.8,"votes":23502,"seats":1},{"party":"il","pct":7.6,"votes":8587,"seats":0},{"party":"livre","pct":5.3,"votes":5988,"seats":0}]},
+        {"name":"Coimbra","abbr":"06","seats":9,"winner":"ad","margin":7.1,"turnout":58.1,"votes":279278,"results":[{"party":"ad","pct":39.5,"votes":110315,"seats":4},{"party":"chega","pct":32.4,"votes":90486,"seats":3},{"party":"ps","pct":14.1,"votes":39378,"seats":1},{"party":"il","pct":8.3,"votes":23180,"seats":1},{"party":"livre","pct":5.7,"votes":15919,"seats":0}]},
+        {"name":"Évora","abbr":"07","seats":3,"winner":"ps","margin":2.4,"turnout":64.5,"votes":91383,"results":[{"party":"ps","pct":35.8,"votes":32715,"seats":1},{"party":"ad","pct":33.4,"votes":30522,"seats":1},{"party":"chega","pct":21.3,"votes":19465,"seats":1},{"party":"il","pct":5.6,"votes":5117,"seats":0},{"party":"livre","pct":3.9,"votes":3564,"seats":0}]},
+        {"name":"Faro","abbr":"08","seats":9,"winner":"chega","margin":3.8,"turnout":57.1,"votes":261305,"results":[{"party":"chega","pct":33.6,"votes":87798,"seats":3},{"party":"ps","pct":29.8,"votes":77869,"seats":3},{"party":"ad","pct":25.6,"votes":66894,"seats":2},{"party":"livre","pct":5.9,"votes":15417,"seats":1},{"party":"il","pct":5.1,"votes":13327,"seats":0}]},
+        {"name":"Guarda","abbr":"09","seats":3,"winner":"ad","margin":6.1,"turnout":52.8,"votes":87296,"results":[{"party":"ad","pct":36.4,"votes":31776,"seats":1},{"party":"ps","pct":30.3,"votes":26451,"seats":1},{"party":"chega","pct":24,"votes":20951,"seats":1},{"party":"il","pct":6,"votes":5238,"seats":0},{"party":"livre","pct":3.3,"votes":2881,"seats":0}]},
+        {"name":"Leiria","abbr":"10","seats":10,"winner":"ad","margin":2.6,"turnout":52.3,"votes":224439,"results":[{"party":"ad","pct":38.7,"votes":86858,"seats":4},{"party":"chega","pct":36.1,"votes":81022,"seats":4},{"party":"ps","pct":17.8,"votes":39950,"seats":2},{"party":"il","pct":4.9,"votes":10998,"seats":0},{"party":"livre","pct":2.5,"votes":5611,"seats":0}]},
+        {"name":"Lisbon","abbr":"11","seats":48,"winner":"ad","margin":16.5,"turnout":57.4,"votes":1300009,"results":[{"party":"ad","pct":47.4,"votes":616204,"seats":23},{"party":"chega","pct":30.9,"votes":401703,"seats":15},{"party":"ps","pct":13.4,"votes":174201,"seats":6},{"party":"il","pct":4.9,"votes":63700,"seats":2},{"party":"livre","pct":3.4,"votes":44200,"seats":2}]},
+        {"name":"Madeira","abbr":"30","seats":6,"winner":"ad","margin":9.8,"turnout":63.6,"votes":140535,"results":[{"party":"ad","pct":35.7,"votes":50171,"seats":2},{"party":"ps","pct":25.9,"votes":36399,"seats":2},{"party":"chega","pct":19.3,"votes":27123,"seats":1},{"party":"jpp","pct":13.1,"votes":18410,"seats":1},{"party":"il","pct":6,"votes":8432,"seats":0}]},
+        {"name":"Portalegre","abbr":"12","seats":2,"winner":"chega","margin":10,"turnout":52.8,"votes":59303,"results":[{"party":"chega","pct":42.2,"votes":25026,"seats":1},{"party":"ad","pct":32.2,"votes":19096,"seats":1},{"party":"ps","pct":19.6,"votes":11623,"seats":0},{"party":"livre","pct":3.9,"votes":2313,"seats":0},{"party":"il","pct":2.2,"votes":1305,"seats":0}]},
+        {"name":"Porto","abbr":"13","seats":40,"winner":"ad","margin":2.8,"turnout":60.6,"votes":1105183,"results":[{"party":"ad","pct":35.1,"votes":387919,"seats":14},{"party":"ps","pct":32.3,"votes":356974,"seats":13},{"party":"chega","pct":20.7,"votes":228773,"seats":8},{"party":"il","pct":8.8,"votes":97256,"seats":4},{"party":"livre","pct":3.1,"votes":34261,"seats":1}]},
+        {"name":"Santarém","abbr":"14","seats":9,"winner":"ad","margin":17.9,"turnout":54.1,"votes":275785,"results":[{"party":"ad","pct":41.8,"votes":115278,"seats":4},{"party":"chega","pct":23.9,"votes":65913,"seats":2},{"party":"ps","pct":23.8,"votes":65637,"seats":2},{"party":"il","pct":6.6,"votes":18202,"seats":1},{"party":"livre","pct":3.9,"votes":10756,"seats":0}]},
+        {"name":"Setúbal","abbr":"15","seats":19,"winner":"chega","margin":3.1,"turnout":61.2,"votes":492382,"results":[{"party":"chega","pct":37,"votes":182181,"seats":7},{"party":"ad","pct":33.9,"votes":166917,"seats":6},{"party":"ps","pct":20.8,"votes":102415,"seats":4},{"party":"il","pct":4.6,"votes":22650,"seats":1},{"party":"livre","pct":3.7,"votes":18218,"seats":1}]},
+        {"name":"Viana do Castelo","abbr":"16","seats":6,"winner":"ad","margin":5.5,"turnout":55,"votes":165968,"results":[{"party":"ad","pct":36.9,"votes":61242,"seats":2},{"party":"chega","pct":31.4,"votes":52114,"seats":2},{"party":"ps","pct":22.6,"votes":37509,"seats":2},{"party":"livre","pct":5.7,"votes":9460,"seats":0},{"party":"il","pct":3.4,"votes":5643,"seats":0}]},
+        {"name":"Vila Real","abbr":"17","seats":5,"winner":"ad","margin":4.9,"turnout":52.3,"votes":124695,"results":[{"party":"ad","pct":38,"votes":47384,"seats":2},{"party":"chega","pct":33.1,"votes":41274,"seats":2},{"party":"ps","pct":15.9,"votes":19827,"seats":1},{"party":"il","pct":9.6,"votes":11971,"seats":0},{"party":"livre","pct":3.4,"votes":4240,"seats":0}]},
+        {"name":"Viseu","abbr":"18","seats":8,"winner":"ad","margin":4.9,"turnout":55.1,"votes":203234,"results":[{"party":"ad","pct":39,"votes":79261,"seats":3},{"party":"ps","pct":34.1,"votes":69303,"seats":3},{"party":"chega","pct":14.9,"votes":30282,"seats":1},{"party":"il","pct":8.1,"votes":16462,"seats":1},{"party":"livre","pct":3.9,"votes":7926,"seats":0}]}
+      ]
+    },
+    {
+      "id": "pt-president-2026",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2026-02-08",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 50.03,
+      "cite": {
+        "name": "the Ministry of Internal Administration",
+        "url": "https://en.wikipedia.org/wiki/2026_Portuguese_presidential_election"
+      },
+      "system": "Two-round popular vote, five-year term",
+      "candidates": [
+        {
+          "name": "António José Seguro",
+          "party": "ps",
+          "pct": 66.84,
+          "seats": null,
+          "votes": 3502613,
+          "winner": true
+        },
+        {
+          "name": "André Ventura",
+          "party": "chega",
+          "pct": 33.16,
+          "seats": null,
+          "votes": 1737950
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2026-01-18",
+          "candidates": [
+            {
+              "name": "António José Seguro",
+              "party": "ps",
+              "pct": 31.11,
+              "seats": null,
+              "votes": 1755563
+            },
+            {
+              "name": "André Ventura",
+              "party": "chega",
+              "pct": 23.52,
+              "seats": null,
+              "votes": 1327021
+            },
+            {
+              "name": "João Cotrim de Figueiredo",
+              "party": "il",
+              "pct": 16,
+              "seats": null,
+              "votes": 903057
+            },
+            {
+              "name": "Henrique Gouveia e Melo",
+              "party": "ind",
+              "pct": 12.32,
+              "seats": null,
+              "votes": 695377
+            },
+            {
+              "name": "Luís Marques Mendes",
+              "party": "ad",
+              "pct": 11.3,
+              "seats": null,
+              "votes": 637442
+            },
+            {
+              "name": "Catarina Martins",
+              "party": "be",
+              "pct": 2.06,
+              "seats": null,
+              "votes": 116407
+            },
+            {
+              "name": "António Filipe",
+              "party": "cdu",
+              "pct": 1.64,
+              "seats": null,
+              "votes": 92644
+            },
+            {
+              "name": "Manuel João Vieira",
+              "party": "vieira",
+              "pct": 1.08,
+              "seats": null,
+              "votes": 60927
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "pct": 0.96,
+              "seats": null,
+              "votes": 54258
+            }
+          ],
+          "regions": [
+            {"name":"Aveiro","abbr":"01","winner":"ps","margin":14.4,"turnout":52.2,"votes":335424,"results":[{"party":"ps","pct":34.3,"votes":115050},{"party":"chega","pct":19.9,"votes":66749},{"party":"il","pct":18.3,"votes":61383},{"party":"ind","pct":17.4,"votes":58364},{"party":"ad","pct":10.2,"votes":34213}]},
+            {"name":"Azores","abbr":"20","winner":"chega","margin":6.1,"turnout":52.9,"votes":235289,"results":[{"party":"chega","pct":34,"votes":79998},{"party":"ps","pct":27.9,"votes":65646},{"party":"ad","pct":14.7,"votes":34587},{"party":"ind","pct":13.2,"votes":31058},{"party":"il","pct":10.2,"votes":23999}]},
+            {"name":"Beja","abbr":"02","winner":"chega","margin":0.1,"turnout":49.6,"votes":287407,"results":[{"party":"chega","pct":24.8,"votes":71277},{"party":"il","pct":24.7,"votes":70990},{"party":"ps","pct":22.4,"votes":64379},{"party":"ind","pct":16.2,"votes":46560},{"party":"ad","pct":12,"votes":34489}]},
+            {"name":"Braga","abbr":"03","winner":"chega","margin":7.9,"turnout":55.6,"votes":274473,"results":[{"party":"chega","pct":33.1,"votes":90851},{"party":"ps","pct":25.2,"votes":69167},{"party":"ind","pct":14.5,"votes":39799},{"party":"ad","pct":14.4,"votes":39524},{"party":"il","pct":12.8,"votes":35133}]},
+            {"name":"Bragança","abbr":"04","winner":"ps","margin":14.7,"turnout":47.5,"votes":284514,"results":[{"party":"ps","pct":36.3,"votes":103279},{"party":"il","pct":21.6,"votes":61455},{"party":"chega","pct":17,"votes":48367},{"party":"ad","pct":14.9,"votes":42393},{"party":"ind","pct":10.2,"votes":29020}]},
+            {"name":"Castelo Branco","abbr":"05","winner":"ps","margin":5.4,"turnout":48.2,"votes":322111,"results":[{"party":"ps","pct":35.8,"votes":115316},{"party":"chega","pct":30.4,"votes":97922},{"party":"il","pct":16.9,"votes":54437},{"party":"ad","pct":10.7,"votes":34466},{"party":"ind","pct":6.1,"votes":19649}]},
+            {"name":"Coimbra","abbr":"06","winner":"ps","margin":19,"turnout":46.5,"votes":295451,"results":[{"party":"ps","pct":41.9,"votes":123794},{"party":"chega","pct":22.9,"votes":67658},{"party":"il","pct":17.9,"votes":52886},{"party":"ind","pct":9.3,"votes":27477},{"party":"ad","pct":8,"votes":23636}]},
+            {"name":"Évora","abbr":"07","winner":"chega","margin":11.1,"turnout":48.7,"votes":332491,"results":[{"party":"chega","pct":32.5,"votes":108060},{"party":"ind","pct":21.4,"votes":71153},{"party":"ps","pct":18.9,"votes":62841},{"party":"ad","pct":14,"votes":46549},{"party":"il","pct":13.2,"votes":43889}]},
+            {"name":"Faro","abbr":"08","winner":"ps","margin":5.9,"turnout":45.5,"votes":273813,"results":[{"party":"ps","pct":30.2,"votes":82692},{"party":"chega","pct":24.3,"votes":66537},{"party":"il","pct":20.3,"votes":55584},{"party":"ind","pct":17.9,"votes":49013},{"party":"ad","pct":7.3,"votes":19988}]},
+            {"name":"Guarda","abbr":"09","winner":"ps","margin":16.2,"turnout":56.9,"votes":226525,"results":[{"party":"ps","pct":38.7,"votes":87665},{"party":"chega","pct":22.5,"votes":50968},{"party":"il","pct":19.5,"votes":44172},{"party":"ad","pct":12.2,"votes":27636},{"party":"ind","pct":7.1,"votes":16083}]},
+            {"name":"Leiria","abbr":"10","winner":"ps","margin":20,"turnout":44.5,"votes":333955,"results":[{"party":"ps","pct":39.4,"votes":131578},{"party":"chega","pct":19.4,"votes":64787},{"party":"ind","pct":16.1,"votes":53767},{"party":"il","pct":15.8,"votes":52765},{"party":"ad","pct":9.3,"votes":31058}]},
+            {"name":"Lisbon","abbr":"11","winner":"ps","margin":21.1,"turnout":46,"votes":233238,"results":[{"party":"ps","pct":42.3,"votes":98660},{"party":"chega","pct":21.2,"votes":49446},{"party":"il","pct":20.1,"votes":46881},{"party":"ad","pct":10.4,"votes":24257},{"party":"ind","pct":6,"votes":13994}]},
+            {"name":"Madeira","abbr":"30","winner":"ps","margin":13.2,"turnout":48.4,"votes":301748,"results":[{"party":"ps","pct":35.9,"votes":108328},{"party":"chega","pct":22.7,"votes":68497},{"party":"il","pct":17.3,"votes":52202},{"party":"ind","pct":14.8,"votes":44659},{"party":"ad","pct":9.2,"votes":27761}]},
+            {"name":"Portalegre","abbr":"12","winner":"ps","margin":0.5,"turnout":49.8,"votes":272634,"results":[{"party":"ps","pct":25.3,"votes":68976},{"party":"il","pct":24.8,"votes":67613},{"party":"chega","pct":20.1,"votes":54799},{"party":"ad","pct":17.7,"votes":48256},{"party":"ind","pct":12.1,"votes":32989}]},
+            {"name":"Porto","abbr":"13","winner":"ps","margin":20.5,"turnout":50,"votes":282980,"results":[{"party":"ps","pct":41.8,"votes":118286},{"party":"chega","pct":21.3,"votes":60275},{"party":"il","pct":12.8,"votes":36221},{"party":"ad","pct":12.1,"votes":34241},{"party":"ind","pct":12,"votes":33958}]},
+            {"name":"Santarém","abbr":"14","winner":"ps","margin":0.1,"turnout":49.4,"votes":238545,"results":[{"party":"ps","pct":29.1,"votes":69417},{"party":"chega","pct":29,"votes":69178},{"party":"ind","pct":15.5,"votes":36974},{"party":"il","pct":13.9,"votes":33158},{"party":"ad","pct":12.4,"votes":29580}]},
+            {"name":"Setúbal","abbr":"15","winner":"ps","margin":11.7,"turnout":56.3,"votes":269184,"results":[{"party":"ps","pct":38.1,"votes":102559},{"party":"chega","pct":26.4,"votes":71065},{"party":"ind","pct":16.8,"votes":45223},{"party":"il","pct":12.5,"votes":33648},{"party":"ad","pct":6.1,"votes":16420}]},
+            {"name":"Viana do Castelo","abbr":"16","winner":"ps","margin":2,"turnout":56.2,"votes":249321,"results":[{"party":"ps","pct":34.6,"votes":86265},{"party":"chega","pct":32.6,"votes":81279},{"party":"il","pct":15,"votes":37398},{"party":"ad","pct":9.6,"votes":23935},{"party":"ind","pct":8.2,"votes":20444}]},
+            {"name":"Vila Real","abbr":"17","winner":"ps","margin":6.5,"turnout":53.2,"votes":285144,"results":[{"party":"ps","pct":28.6,"votes":81551},{"party":"chega","pct":22.1,"votes":63017},{"party":"il","pct":19.3,"votes":55033},{"party":"ad","pct":15.8,"votes":45053},{"party":"ind","pct":14.2,"votes":40490}]},
+            {"name":"Viseu","abbr":"18","winner":"ps","margin":4,"turnout":53.8,"votes":325891,"results":[{"party":"ps","pct":29.9,"votes":97441},{"party":"il","pct":25.9,"votes":84406},{"party":"chega","pct":24.6,"votes":80169},{"party":"ind","pct":9.9,"votes":32263},{"party":"ad","pct":9.7,"votes":31611}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2026-02-08",
+          "candidates": [
+            {
+              "name": "António José Seguro",
+              "party": "ps",
+              "pct": 66.84,
+              "seats": null,
+              "votes": 3502613,
+              "winner": true
+            },
+            {
+              "name": "André Ventura",
+              "party": "chega",
+              "pct": 33.16,
+              "seats": null,
+              "votes": 1737950
+            }
+          ],
+          "regions": [
+            {"name":"Aveiro","abbr":"01","winner":"ps","margin":7.6,"turnout":48.9,"votes":293731,"results":[{"party":"ps","pct":53.8,"votes":158027},{"party":"chega","pct":46.2,"votes":135704}]},
+            {"name":"Azores","abbr":"20","winner":"ps","margin":25.2,"turnout":46,"votes":256135,"results":[{"party":"ps","pct":62.6,"votes":160341},{"party":"chega","pct":37.4,"votes":95794}]},
+            {"name":"Beja","abbr":"02","winner":"ps","margin":61.6,"turnout":54,"votes":269674,"results":[{"party":"ps","pct":80.8,"votes":217897},{"party":"chega","pct":19.2,"votes":51777}]},
+            {"name":"Braga","abbr":"03","winner":"ps","margin":34.8,"turnout":47.3,"votes":259526,"results":[{"party":"ps","pct":67.4,"votes":174921},{"party":"chega","pct":32.6,"votes":84605}]},
+            {"name":"Bragança","abbr":"04","winner":"ps","margin":9.8,"turnout":52.7,"votes":229071,"results":[{"party":"ps","pct":54.9,"votes":125760},{"party":"chega","pct":45.1,"votes":103311}]},
+            {"name":"Castelo Branco","abbr":"05","winner":"ps","margin":47.4,"turnout":46.9,"votes":229103,"results":[{"party":"ps","pct":73.7,"votes":168849},{"party":"chega","pct":26.3,"votes":60254}]},
+            {"name":"Coimbra","abbr":"06","winner":"ps","margin":19.4,"turnout":54.7,"votes":309862,"results":[{"party":"ps","pct":59.7,"votes":184988},{"party":"chega","pct":40.3,"votes":124874}]},
+            {"name":"Évora","abbr":"07","winner":"ps","margin":36,"turnout":55,"votes":289613,"results":[{"party":"ps","pct":68,"votes":196937},{"party":"chega","pct":32,"votes":92676}]},
+            {"name":"Faro","abbr":"08","winner":"ps","margin":42.2,"turnout":50.9,"votes":219422,"results":[{"party":"ps","pct":71.1,"votes":156009},{"party":"chega","pct":28.9,"votes":63413}]},
+            {"name":"Guarda","abbr":"09","winner":"ps","margin":29.8,"turnout":46.6,"votes":240937,"results":[{"party":"ps","pct":64.9,"votes":156368},{"party":"chega","pct":35.1,"votes":84569}]},
+            {"name":"Leiria","abbr":"10","winner":"ps","margin":13.2,"turnout":52.1,"votes":258689,"results":[{"party":"ps","pct":56.6,"votes":146418},{"party":"chega","pct":43.4,"votes":112271}]},
+            {"name":"Lisbon","abbr":"11","winner":"ps","margin":31,"turnout":55.7,"votes":308294,"results":[{"party":"ps","pct":65.5,"votes":201933},{"party":"chega","pct":34.5,"votes":106361}]},
+            {"name":"Madeira","abbr":"30","winner":"ps","margin":29.4,"turnout":51.4,"votes":212338,"results":[{"party":"ps","pct":64.7,"votes":137383},{"party":"chega","pct":35.3,"votes":74955}]},
+            {"name":"Portalegre","abbr":"12","winner":"ps","margin":24.6,"turnout":44.3,"votes":272224,"results":[{"party":"ps","pct":62.3,"votes":169596},{"party":"chega","pct":37.7,"votes":102628}]},
+            {"name":"Porto","abbr":"13","winner":"ps","margin":30.8,"turnout":54.1,"votes":297458,"results":[{"party":"ps","pct":65.4,"votes":194538},{"party":"chega","pct":34.6,"votes":102920}]},
+            {"name":"Santarém","abbr":"14","winner":"ps","margin":42.8,"turnout":56.8,"votes":287754,"results":[{"party":"ps","pct":71.4,"votes":205456},{"party":"chega","pct":28.6,"votes":82298}]},
+            {"name":"Setúbal","abbr":"15","winner":"ps","margin":39.2,"turnout":53.9,"votes":231152,"results":[{"party":"ps","pct":69.6,"votes":160882},{"party":"chega","pct":30.4,"votes":70270}]},
+            {"name":"Viana do Castelo","abbr":"16","winner":"ps","margin":37.2,"turnout":44.7,"votes":229489,"results":[{"party":"ps","pct":68.6,"votes":157429},{"party":"chega","pct":31.4,"votes":72060}]},
+            {"name":"Vila Real","abbr":"17","winner":"ps","margin":49.2,"turnout":54.2,"votes":260130,"results":[{"party":"ps","pct":74.6,"votes":194057},{"party":"chega","pct":25.4,"votes":66073}]},
+            {"name":"Viseu","abbr":"18","winner":"ps","margin":56.4,"turnout":54.8,"votes":285691,"results":[{"party":"ps","pct":78.2,"votes":223410},{"party":"chega","pct":21.8,"votes":62281}]}
+          ]
+        }
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "Assembly of the Republic",
+      "date": "2029-10-07",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "ad",
+          "points": [
+            ["2026-03-16",33],
+            ["2026-03-23",32.2],
+            ["2026-03-30",31.9],
+            ["2026-04-06",32.2],
+            ["2026-04-13",32.5],
+            ["2026-04-20",32.3],
+            ["2026-04-27",32.6],
+            ["2026-05-04",32.7],
+            ["2026-05-11",33.1],
+            ["2026-05-18",32.5],
+            ["2026-05-25",32.4],
+            ["2026-06-01",33],
+            ["2026-06-08",33.6],
+            ["2026-06-15",33.3],
+            ["2026-06-22",32.8],
+            ["2026-06-29",32.8],
+            ["2026-07-06",31.9],
+            ["2026-07-13",31.9],
+            ["2026-07-20",31.4],
+            ["2026-07-27",30.8],
+            ["2026-08-03",31.2],
+            ["2026-08-10",31.4],
+            ["2026-08-17",31.7],
+            ["2026-08-24",31.1],
+            ["2026-08-31",31.3],
+            ["2026-09-07",30.7],
+            ["2026-09-14",31.2],
+            ["2026-09-21",31.3],
+            ["2026-09-28",32.2],
+            ["2026-10-05",32.4]
+          ]
+        },
+        {
+          "party": "ps",
+          "points": [
+            ["2026-03-16",24.1],
+            ["2026-03-23",24.5],
+            ["2026-03-30",23.4],
+            ["2026-04-06",22.3],
+            ["2026-04-13",22.4],
+            ["2026-04-20",22.8],
+            ["2026-04-27",22.4],
+            ["2026-05-04",21.9],
+            ["2026-05-11",21.3],
+            ["2026-05-18",21.2],
+            ["2026-05-25",21.2],
+            ["2026-06-01",21.5],
+            ["2026-06-08",21.1],
+            ["2026-06-15",20.9],
+            ["2026-06-22",20.5],
+            ["2026-06-29",20],
+            ["2026-07-06",19.7],
+            ["2026-07-13",19],
+            ["2026-07-20",19.2],
+            ["2026-07-27",18.9],
+            ["2026-08-03",19.2],
+            ["2026-08-10",19],
+            ["2026-08-17",19.8],
+            ["2026-08-24",20.5],
+            ["2026-08-31",21.2],
+            ["2026-09-07",20.9],
+            ["2026-09-14",20.8],
+            ["2026-09-21",20.8],
+            ["2026-09-28",20.4],
+            ["2026-10-05",20.7]
+          ]
+        },
+        {
+          "party": "chega",
+          "points": [
+            ["2026-03-16",24.6],
+            ["2026-03-23",24.9],
+            ["2026-03-30",24.3],
+            ["2026-04-06",24.1],
+            ["2026-04-13",23.8],
+            ["2026-04-20",24.1],
+            ["2026-04-27",25],
+            ["2026-05-04",24.8],
+            ["2026-05-11",25.1],
+            ["2026-05-18",25.1],
+            ["2026-05-25",25.2],
+            ["2026-06-01",25.4],
+            ["2026-06-08",26],
+            ["2026-06-15",25.4],
+            ["2026-06-22",25.9],
+            ["2026-06-29",26.1],
+            ["2026-07-06",25.5],
+            ["2026-07-13",24.9],
+            ["2026-07-20",25.7],
+            ["2026-07-27",26.3],
+            ["2026-08-03",26.2],
+            ["2026-08-10",25.7],
+            ["2026-08-17",26.4],
+            ["2026-08-24",26.7],
+            ["2026-08-31",25.9],
+            ["2026-09-07",26.2],
+            ["2026-09-14",25.7],
+            ["2026-09-21",25.6],
+            ["2026-09-28",26.1],
+            ["2026-10-05",25.7]
+          ]
+        },
+        {
+          "party": "il",
+          "points": [
+            ["2026-03-16",6.3],
+            ["2026-03-23",6.2],
+            ["2026-03-30",5.6],
+            ["2026-04-06",5.4],
+            ["2026-04-13",5.1],
+            ["2026-04-20",6.2],
+            ["2026-04-27",7],
+            ["2026-05-04",7.7],
+            ["2026-05-11",8.4],
+            ["2026-05-18",7.7],
+            ["2026-05-25",8.2],
+            ["2026-06-01",7.5],
+            ["2026-06-08",8.3],
+            ["2026-06-15",9],
+            ["2026-06-22",9.4],
+            ["2026-06-29",9.7],
+            ["2026-07-06",8.7],
+            ["2026-07-13",8.3],
+            ["2026-07-20",7.8],
+            ["2026-07-27",8.4],
+            ["2026-08-03",7.5],
+            ["2026-08-10",6.7],
+            ["2026-08-17",6.8],
+            ["2026-08-24",6.9],
+            ["2026-08-31",6.9],
+            ["2026-09-07",6.7],
+            ["2026-09-14",7],
+            ["2026-09-21",6.7],
+            ["2026-09-28",7.5],
+            ["2026-10-05",8.3]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "President",
+      "date": "2031-01-19",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "ps",
+          "points": [
+            ["2026-03-16",31.1],
+            ["2026-03-23",30.5],
+            ["2026-03-30",30.9],
+            ["2026-04-06",29.7],
+            ["2026-04-13",29],
+            ["2026-04-20",28.3],
+            ["2026-04-27",28.3],
+            ["2026-05-04",28.8],
+            ["2026-05-11",28.2],
+            ["2026-05-18",28.3],
+            ["2026-05-25",27.8],
+            ["2026-06-01",27.8],
+            ["2026-06-08",28.1],
+            ["2026-06-15",27.9],
+            ["2026-06-22",28.1],
+            ["2026-06-29",28.4],
+            ["2026-07-06",28.8],
+            ["2026-07-13",28.3],
+            ["2026-07-20",29],
+            ["2026-07-27",28.8],
+            ["2026-08-03",28],
+            ["2026-08-10",27.8],
+            ["2026-08-17",27.7],
+            ["2026-08-24",27.3],
+            ["2026-08-31",26.7],
+            ["2026-09-07",26.7],
+            ["2026-09-14",26],
+            ["2026-09-21",27.1],
+            ["2026-09-28",27.7],
+            ["2026-10-05",28]
+          ]
+        },
+        {
+          "party": "chega",
+          "points": [
+            ["2026-03-16",23.6],
+            ["2026-03-23",23.6],
+            ["2026-03-30",23],
+            ["2026-04-06",23.2],
+            ["2026-04-13",23.2],
+            ["2026-04-20",23.2],
+            ["2026-04-27",23.1],
+            ["2026-05-04",23.5],
+            ["2026-05-11",24.2],
+            ["2026-05-18",23.2],
+            ["2026-05-25",23],
+            ["2026-06-01",23.2],
+            ["2026-06-08",22.4],
+            ["2026-06-15",22.6],
+            ["2026-06-22",23.3],
+            ["2026-06-29",23],
+            ["2026-07-06",22.7],
+            ["2026-07-13",23.4],
+            ["2026-07-20",23.2],
+            ["2026-07-27",22.8],
+            ["2026-08-03",22.7],
+            ["2026-08-10",22.9],
+            ["2026-08-17",22.8],
+            ["2026-08-24",23.4],
+            ["2026-08-31",22.9],
+            ["2026-09-07",23.4],
+            ["2026-09-14",23.7],
+            ["2026-09-21",23.7],
+            ["2026-09-28",24.4],
+            ["2026-10-05",24.7]
+          ]
+        },
+        {
+          "party": "il",
+          "points": [
+            ["2026-03-16",15.9],
+            ["2026-03-23",15],
+            ["2026-03-30",14.3],
+            ["2026-04-06",13.4],
+            ["2026-04-13",13.5],
+            ["2026-04-20",12.9],
+            ["2026-04-27",13.4],
+            ["2026-05-04",12.6],
+            ["2026-05-11",12.5],
+            ["2026-05-18",12.5],
+            ["2026-05-25",12.4],
+            ["2026-06-01",12.2],
+            ["2026-06-08",11.6],
+            ["2026-06-15",11.3],
+            ["2026-06-22",12.3],
+            ["2026-06-29",12.9],
+            ["2026-07-06",13.7],
+            ["2026-07-13",13.1],
+            ["2026-07-20",13.7],
+            ["2026-07-27",13.9],
+            ["2026-08-03",13.9],
+            ["2026-08-10",13.2],
+            ["2026-08-17",12.8],
+            ["2026-08-24",13.1],
+            ["2026-08-31",12.4],
+            ["2026-09-07",11.9],
+            ["2026-09-14",12.8],
+            ["2026-09-21",13.5],
+            ["2026-09-28",13.7],
+            ["2026-10-05",13.2]
+          ]
+        },
+        {
+          "party": "ind",
+          "points": [
+            ["2026-03-16",12.9],
+            ["2026-03-23",12.9],
+            ["2026-03-30",12.5],
+            ["2026-04-06",13],
+            ["2026-04-13",13.6],
+            ["2026-04-20",14.1],
+            ["2026-04-27",13.8],
+            ["2026-05-04",14.3],
+            ["2026-05-11",14.8],
+            ["2026-05-18",15.6],
+            ["2026-05-25",16.4],
+            ["2026-06-01",16.2],
+            ["2026-06-08",15.9],
+            ["2026-06-15",15.7],
+            ["2026-06-22",15.1],
+            ["2026-06-29",15],
+            ["2026-07-06",14.7],
+            ["2026-07-13",14.6],
+            ["2026-07-20",14.7],
+            ["2026-07-27",15.4],
+            ["2026-08-03",15.7],
+            ["2026-08-10",16.6],
+            ["2026-08-17",17],
+            ["2026-08-24",16.2],
+            ["2026-08-31",17],
+            ["2026-09-07",17.4],
+            ["2026-09-14",17.8],
+            ["2026-09-21",17.3],
+            ["2026-09-28",16.3],
+            ["2026-10-05",16.3]
+          ]
+        }
+      ]
+    }
+  ]
+}

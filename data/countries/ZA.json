@@ -1,0 +1,430 @@
+{
+  "code": "ZA",
+  "name": "South Africa",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "Parliament: National Assembly (400) and National Council of Provinces",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 27700000,
+    "offices": {
+      "National Assembly": "400 seats shared out by closed-list proportional representation, half from national lists and half from regional lists. The Assembly elects the President."
+    }
+  },
+  "parties": {
+    "anc": {
+      "name": "African National Congress",
+      "color": "#007A3D"
+    },
+    "da": {
+      "name": "Democratic Alliance",
+      "color": "#005BA6"
+    },
+    "mk": {
+      "name": "uMkhonto weSizwe",
+      "color": "#2F2F2F"
+    },
+    "eff": {
+      "name": "Economic Freedom Fighters",
+      "color": "#C8102E"
+    },
+    "ifp": {
+      "name": "Inkatha Freedom Party",
+      "color": "#E1A400"
+    },
+    "pa": {
+      "name": "Patriotic Alliance",
+      "color": "#7A3E9D"
+    },
+    "ffp": {
+      "name": "Freedom Front Plus",
+      "color": "#F28C28"
+    },
+    "actionsa": {
+      "name": "ActionSA",
+      "color": "#00A0B0"
+    },
+    "acdp": {
+      "name": "African Christian Democratic Party",
+      "color": "#BA0C2F"
+    },
+    "udm": {
+      "name": "United Democratic Movement",
+      "color": "#FFB300"
+    },
+    "rise": {
+      "name": "Rise Mzansi",
+      "color": "#0336D8"
+    },
+    "bosa": {
+      "name": "Build One South Africa",
+      "color": "#E7B04A"
+    },
+    "atm": {
+      "name": "African Transformation Movement",
+      "color": "#00ADEE"
+    },
+    "aljamaah": {
+      "name": "Al Jama-ah",
+      "color": "#1C9069"
+    },
+    "ncc": {
+      "name": "National Coloured Congress",
+      "color": "#161616"
+    },
+    "pac": {
+      "name": "Pan Africanist Congress",
+      "color": "#008718"
+    },
+    "uat": {
+      "name": "United Africans Transformation",
+      "color": "#363362"
+    },
+    "good": {
+      "name": "GOOD",
+      "color": "#F36900"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "za-assembly-2024",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2024-05-29",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 58.6,
+      "cite": {
+        "name": "the Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2024_South_African_general_election"
+      },
+      "system": "400 seats, closed-list proportional",
+      "totalSeats": 400,
+      "majority": 201,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "pct": 40.2,
+          "seats": 159,
+          "votes": 6459683,
+          "change": -71,
+          "winner": true
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "da",
+          "pct": 21.8,
+          "seats": 87,
+          "votes": 3505735,
+          "change": 3
+        },
+        {
+          "name": "uMkhonto weSizwe",
+          "party": "mk",
+          "pct": 14.6,
+          "seats": 58,
+          "votes": 2344309,
+          "change": 58
+        },
+        {
+          "name": "Economic Freedom Fighters",
+          "party": "eff",
+          "pct": 9.5,
+          "seats": 39,
+          "votes": 1529961,
+          "change": -5
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "pct": 3.8,
+          "seats": 17,
+          "votes": 618207,
+          "change": 3
+        },
+        {
+          "name": "Patriotic Alliance",
+          "party": "pa",
+          "pct": 2.1,
+          "seats": 9,
+          "votes": 330425,
+          "change": 9
+        },
+        {
+          "name": "Freedom Front Plus",
+          "party": "ffp",
+          "pct": 1.4,
+          "seats": 6,
+          "votes": 218850,
+          "change": -4
+        },
+        {
+          "name": "ActionSA",
+          "party": "actionsa",
+          "pct": 1.2,
+          "seats": 6,
+          "votes": 192373,
+          "change": 6
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "pct": 0.6,
+          "seats": 3,
+          "votes": 96575,
+          "change": -1
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "pct": 0.5,
+          "seats": 3,
+          "votes": 78448,
+          "change": 1
+        },
+        {
+          "name": "Rise Mzansi",
+          "party": "rise",
+          "pct": 0.4,
+          "seats": 2,
+          "votes": 67975,
+          "change": 2
+        },
+        {
+          "name": "Build One South Africa",
+          "party": "bosa",
+          "pct": 0.4,
+          "seats": 2,
+          "votes": 65912,
+          "change": 2
+        },
+        {
+          "name": "African Transformation Movement",
+          "party": "atm",
+          "pct": 0.4,
+          "seats": 2,
+          "votes": 63554,
+          "change": 0
+        },
+        {
+          "name": "Al Jama-ah",
+          "party": "aljamaah",
+          "pct": 0.2,
+          "seats": 2,
+          "votes": 39067,
+          "change": 1
+        },
+        {
+          "name": "National Coloured Congress",
+          "party": "ncc",
+          "pct": 0.2,
+          "seats": 2,
+          "votes": 37422,
+          "change": 2
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "pct": 0.2,
+          "seats": 1,
+          "votes": 36716,
+          "change": 0
+        },
+        {
+          "name": "United Africans Transformation",
+          "party": "uat",
+          "pct": 0.2,
+          "seats": 1,
+          "votes": 35679,
+          "change": 1
+        },
+        {
+          "name": "GOOD",
+          "party": "good",
+          "pct": 0.2,
+          "seats": 1,
+          "votes": 29501,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 2,
+          "seats": 0,
+          "votes": 326327,
+          "change": -6
+        }
+      ],
+      "regions": [
+        {"name":"Eastern Cape","abbr":"EC","winner":"anc","margin":32.9,"turnout":61.9,"votes":2094633,"results":[{"party":"anc","pct":49.3,"votes":1032654},{"party":"mk","pct":16.4,"votes":343520},{"party":"da","pct":15.2,"votes":318384},{"party":"eff","pct":13.9,"votes":291154},{"party":"ifp","pct":5.1,"votes":106826}]},
+        {"name":"Free State","abbr":"FS","winner":"anc","margin":14.2,"turnout":60.1,"votes":1462195,"results":[{"party":"anc","pct":38.6,"votes":564407},{"party":"da","pct":24.4,"votes":356776},{"party":"mk","pct":21.1,"votes":308523},{"party":"eff","pct":8.2,"votes":119900},{"party":"ifp","pct":7.7,"votes":112589}]},
+        {"name":"Gauteng","abbr":"GT","winner":"anc","margin":1.8,"turnout":57.8,"votes":1648091,"results":[{"party":"anc","pct":30.7,"votes":505964},{"party":"mk","pct":28.9,"votes":476298},{"party":"da","pct":20.7,"votes":341155},{"party":"eff","pct":13.8,"votes":227437},{"party":"ifp","pct":5.8,"votes":95589}]},
+        {"name":"KwaZulu-Natal","abbr":"NL","winner":"mk","margin":2.1,"turnout":56.1,"votes":2012372,"results":[{"party":"mk","pct":37.6,"votes":756652},{"party":"anc","pct":35.5,"votes":714392},{"party":"da","pct":18.2,"votes":366252},{"party":"eff","pct":5.6,"votes":112693},{"party":"ifp","pct":3.2,"votes":64396}]},
+        {"name":"Limpopo","abbr":"LP","winner":"anc","margin":4.3,"turnout":53.1,"votes":1916155,"results":[{"party":"anc","pct":33.2,"votes":636163},{"party":"mk","pct":28.9,"votes":553769},{"party":"da","pct":19.7,"votes":377483},{"party":"eff","pct":10,"votes":191616},{"party":"ifp","pct":8.1,"votes":155209}]},
+        {"name":"Mpumalanga","abbr":"MP","winner":"anc","margin":9.7,"turnout":61.5,"votes":1496836,"results":[{"party":"anc","pct":40.2,"votes":601728},{"party":"da","pct":30.5,"votes":456535},{"party":"eff","pct":13.2,"votes":197582},{"party":"mk","pct":12.2,"votes":182614},{"party":"ifp","pct":4,"votes":59873}]},
+        {"name":"North West","abbr":"NW","winner":"anc","margin":4.5,"turnout":53.2,"votes":1435406,"results":[{"party":"anc","pct":39,"votes":559808},{"party":"da","pct":34.5,"votes":495215},{"party":"mk","pct":15.8,"votes":226794},{"party":"eff","pct":6.9,"votes":99043},{"party":"ifp","pct":3.8,"votes":54545}]},
+        {"name":"Northern Cape","abbr":"NC","winner":"anc","margin":30.8,"turnout":62,"votes":1436020,"results":[{"party":"anc","pct":48.9,"votes":702214},{"party":"da","pct":18.1,"votes":259920},{"party":"mk","pct":16.8,"votes":241251},{"party":"eff","pct":10.8,"votes":155090},{"party":"ifp","pct":5.4,"votes":77545}]},
+        {"name":"Western Cape","abbr":"WC","winner":"da","margin":11.5,"turnout":55.3,"votes":1715268,"results":[{"party":"da","pct":37.3,"votes":639795},{"party":"anc","pct":25.8,"votes":442539},{"party":"mk","pct":18.6,"votes":319040},{"party":"eff","pct":13.5,"votes":231561},{"party":"ifp","pct":4.9,"votes":84048}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "National Assembly",
+      "date": "2029-05-16",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "anc",
+          "points": [
+            ["2026-03-16",40.4],
+            ["2026-03-23",39.4],
+            ["2026-03-30",39.2],
+            ["2026-04-06",38.9],
+            ["2026-04-13",38.6],
+            ["2026-04-20",39.4],
+            ["2026-04-27",39.5],
+            ["2026-05-04",39.6],
+            ["2026-05-11",39.5],
+            ["2026-05-18",39.5],
+            ["2026-05-25",40],
+            ["2026-06-01",39.6],
+            ["2026-06-08",38.8],
+            ["2026-06-15",39.6],
+            ["2026-06-22",40],
+            ["2026-06-29",39.9],
+            ["2026-07-06",39.2],
+            ["2026-07-13",39.5],
+            ["2026-07-20",39.9],
+            ["2026-07-27",40],
+            ["2026-08-03",40.3],
+            ["2026-08-10",39.4],
+            ["2026-08-17",39.4],
+            ["2026-08-24",39.8],
+            ["2026-08-31",39.3],
+            ["2026-09-07",40.1],
+            ["2026-09-14",39.9],
+            ["2026-09-21",40.2],
+            ["2026-09-28",40.5],
+            ["2026-10-05",40.3]
+          ]
+        },
+        {
+          "party": "da",
+          "points": [
+            ["2026-03-16",22.7],
+            ["2026-03-23",22.7],
+            ["2026-03-30",23],
+            ["2026-04-06",22.4],
+            ["2026-04-13",23.3],
+            ["2026-04-20",23.9],
+            ["2026-04-27",23.7],
+            ["2026-05-04",23.7],
+            ["2026-05-11",23.8],
+            ["2026-05-18",22.9],
+            ["2026-05-25",22],
+            ["2026-06-01",22.2],
+            ["2026-06-08",22.2],
+            ["2026-06-15",22.9],
+            ["2026-06-22",22.2],
+            ["2026-06-29",23],
+            ["2026-07-06",22.3],
+            ["2026-07-13",22.4],
+            ["2026-07-20",21.7],
+            ["2026-07-27",21.3],
+            ["2026-08-03",22.3],
+            ["2026-08-10",22.2],
+            ["2026-08-17",22.5],
+            ["2026-08-24",23],
+            ["2026-08-31",22.2],
+            ["2026-09-07",21.5],
+            ["2026-09-14",22.1],
+            ["2026-09-21",21.9],
+            ["2026-09-28",21.2],
+            ["2026-10-05",21.1]
+          ]
+        },
+        {
+          "party": "mk",
+          "points": [
+            ["2026-03-16",14.9],
+            ["2026-03-23",14.7],
+            ["2026-03-30",15],
+            ["2026-04-06",15.4],
+            ["2026-04-13",15],
+            ["2026-04-20",15],
+            ["2026-04-27",13.9],
+            ["2026-05-04",13.5],
+            ["2026-05-11",14],
+            ["2026-05-18",14.1],
+            ["2026-05-25",13.3],
+            ["2026-06-01",13.8],
+            ["2026-06-08",12.8],
+            ["2026-06-15",12.1],
+            ["2026-06-22",12.7],
+            ["2026-06-29",12.5],
+            ["2026-07-06",12.7],
+            ["2026-07-13",12.7],
+            ["2026-07-20",11.9],
+            ["2026-07-27",12],
+            ["2026-08-03",11.6],
+            ["2026-08-10",11],
+            ["2026-08-17",12],
+            ["2026-08-24",12.2],
+            ["2026-08-31",12.7],
+            ["2026-09-07",12.4],
+            ["2026-09-14",12.6],
+            ["2026-09-21",13],
+            ["2026-09-28",13.1],
+            ["2026-10-05",13.1]
+          ]
+        },
+        {
+          "party": "eff",
+          "points": [
+            ["2026-03-16",9.8],
+            ["2026-03-23",8.9],
+            ["2026-03-30",8.7],
+            ["2026-04-06",7.7],
+            ["2026-04-13",8.2],
+            ["2026-04-20",8.8],
+            ["2026-04-27",9.1],
+            ["2026-05-04",9.5],
+            ["2026-05-11",9],
+            ["2026-05-18",9.4],
+            ["2026-05-25",9.3],
+            ["2026-06-01",9],
+            ["2026-06-08",9.3],
+            ["2026-06-15",9.3],
+            ["2026-06-22",9.5],
+            ["2026-06-29",8.5],
+            ["2026-07-06",8.8],
+            ["2026-07-13",8.2],
+            ["2026-07-20",7.6],
+            ["2026-07-27",8],
+            ["2026-08-03",8.7],
+            ["2026-08-10",8],
+            ["2026-08-17",8],
+            ["2026-08-24",7],
+            ["2026-08-31",7.3],
+            ["2026-09-07",6.4],
+            ["2026-09-14",5.9],
+            ["2026-09-21",6],
+            ["2026-09-28",6],
+            ["2026-10-05",6.8]
+          ]
+        }
+      ]
+    }
+  ]
+}

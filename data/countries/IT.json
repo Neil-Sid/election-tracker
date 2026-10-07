@@ -1,0 +1,746 @@
+{
+  "code": "IT",
+  "name": "Italy",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "President of the Council of Ministers",
+    "legislature": "Parliament: Chamber of Deputies (400) and Senate (200 elected)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 50900000,
+    "offices": {
+      "Chamber of Deputies": "About three eighths of seats come from single-member districts and the rest from proportional lists, under a 3% threshold. Both chambers must back the government.",
+      "Senate": "Elected regionally with the same mixed system as the Chamber. Former presidents and a few appointees sit for life."
+    }
+  },
+  "parties": {
+    "fdi": {
+      "name": "Brothers of Italy",
+      "color": "#03386A"
+    },
+    "pd": {
+      "name": "Democratic Party",
+      "color": "#EF1C27"
+    },
+    "lega": {
+      "name": "Lega",
+      "color": "#1D7F2E"
+    },
+    "m5s": {
+      "name": "Five Star Movement",
+      "color": "#E8C800"
+    },
+    "fi": {
+      "name": "Forza Italia",
+      "color": "#0087DC"
+    },
+    "az": {
+      "name": "Action–Italia Viva",
+      "color": "#9370DB"
+    },
+    "avs": {
+      "name": "Greens and Left",
+      "color": "#8FBC3F"
+    },
+    "nm": {
+      "name": "Us Moderates",
+      "color": "#4682B4"
+    },
+    "pe": {
+      "name": "+Europa",
+      "color": "#FFD700"
+    },
+    "svp": {
+      "name": "SVP",
+      "color": "#231F20"
+    },
+    "ic": {
+      "name": "Civic Commitment",
+      "color": "#1E889D"
+    },
+    "scn": {
+      "name": "South calls North",
+      "color": "#F2AB14"
+    },
+    "vda": {
+      "name": "Aosta Valley",
+      "color": "#48D1CC"
+    },
+    "cb": {
+      "name": "Campobase",
+      "color": "#96BF0D"
+    },
+    "maie": {
+      "name": "MAIE",
+      "color": "#333B8E"
+    },
+    "italexit": {
+      "name": "Italexit",
+      "color": "#366A9F"
+    },
+    "up": {
+      "name": "People's Union",
+      "color": "#71256A"
+    },
+    "isp": {
+      "name": "Sovereign and Popular Italy",
+      "color": "#B04E4E"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "it-chamber-2022",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2022-09-25",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 63.9,
+      "cite": {
+        "name": "the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2022_Italian_general_election"
+      },
+      "system": "400 seats: 147 districts and 253 proportional",
+      "totalSeats": 400,
+      "majority": 201,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Brothers of Italy",
+          "party": "fdi",
+          "pct": 26,
+          "seats": 119,
+          "votes": 7302517,
+          "change": 87,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "pct": 19.1,
+          "seats": 69,
+          "votes": 5356180,
+          "change": -43
+        },
+        {
+          "name": "Lega",
+          "party": "lega",
+          "pct": 8.8,
+          "seats": 66,
+          "votes": 2464005,
+          "change": -59
+        },
+        {
+          "name": "Five Star Movement",
+          "party": "m5s",
+          "pct": 15.4,
+          "seats": 52,
+          "votes": 4333972,
+          "change": -175
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi",
+          "pct": 8.1,
+          "seats": 45,
+          "votes": 2278217,
+          "change": -59
+        },
+        {
+          "name": "Action–Italia Viva",
+          "party": "az",
+          "pct": 7.8,
+          "seats": 21,
+          "votes": 2186669,
+          "change": 21
+        },
+        {
+          "name": "Greens and Left",
+          "party": "avs",
+          "pct": 3.6,
+          "seats": 12,
+          "votes": 1018669,
+          "change": 12
+        },
+        {
+          "name": "Us Moderates",
+          "party": "nm",
+          "pct": 0.9,
+          "seats": 7,
+          "votes": 255505,
+          "change": 7
+        },
+        {
+          "name": "SVP",
+          "party": "svp",
+          "pct": 0.4,
+          "seats": 3,
+          "votes": 117010,
+          "change": -1
+        },
+        {
+          "name": "+Europa",
+          "party": "pe",
+          "pct": 2.8,
+          "seats": 2,
+          "votes": 793961,
+          "change": -1
+        },
+        {
+          "name": "South calls North",
+          "party": "scn",
+          "pct": 0.8,
+          "seats": 1,
+          "votes": 212685,
+          "change": 1
+        },
+        {
+          "name": "Civic Commitment",
+          "party": "ic",
+          "pct": 0.6,
+          "seats": 1,
+          "votes": 169165,
+          "change": 1
+        },
+        {
+          "name": "Aosta Valley",
+          "party": "vda",
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "MAIE",
+          "party": "maie",
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Italexit",
+          "party": "italexit",
+          "pct": 1.9,
+          "seats": 0,
+          "votes": 534950
+        },
+        {
+          "name": "People's Union",
+          "party": "up",
+          "pct": 1.4,
+          "seats": 0,
+          "votes": 403149
+        },
+        {
+          "name": "Sovereign and Popular Italy",
+          "party": "isp",
+          "pct": 1.2,
+          "seats": 0,
+          "votes": 348831
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 1.1,
+          "seats": 0,
+          "votes": 312297
+        }
+      ],
+      "regions": [
+        {"name":"Abruzzo","abbr":"ABR","winner":"fdi","margin":18.4,"turnout":59.2,"votes":1153805,"results":[{"party":"fdi","pct":39,"votes":449984},{"party":"m5s","pct":20.6,"votes":237684},{"party":"lega","pct":15.8,"votes":182301},{"party":"pd","pct":14.4,"votes":166148},{"party":"fi","pct":10.3,"votes":118842}]},
+        {"name":"Aosta Valley","abbr":"VDA","winner":"vda","margin":3,"turnout":64.1,"votes":1279320,"results":[{"party":"vda","pct":24.4,"votes":312154},{"party":"fdi","pct":21.4,"votes":273774},{"party":"pd","pct":21.3,"votes":272495},{"party":"m5s","pct":14.9,"votes":190619},{"party":"fi","pct":11.9,"votes":152239},{"party":"lega","pct":6.1,"votes":78039}]},
+        {"name":"Apulia","abbr":"PUG","winner":"fdi","margin":10.9,"turnout":64.2,"votes":1641211,"results":[{"party":"fdi","pct":34.9,"votes":572783},{"party":"pd","pct":24,"votes":393891},{"party":"lega","pct":15.8,"votes":259311},{"party":"fi","pct":12.7,"votes":208434},{"party":"m5s","pct":12.5,"votes":205151}]},
+        {"name":"Basilicata","abbr":"BAS","winner":"fdi","margin":2.5,"turnout":58.9,"votes":1562845,"results":[{"party":"fdi","pct":25.6,"votes":400088},{"party":"m5s","pct":23.1,"votes":361017},{"party":"pd","pct":20,"votes":312569},{"party":"fi","pct":16.6,"votes":259432},{"party":"lega","pct":14.7,"votes":229738}]},
+        {"name":"Calabria","abbr":"CAL","winner":"fdi","margin":7,"turnout":67.7,"votes":1337360,"results":[{"party":"fdi","pct":34,"votes":454702},{"party":"pd","pct":27,"votes":361087},{"party":"m5s","pct":21.2,"votes":283520},{"party":"lega","pct":13.2,"votes":176532},{"party":"fi","pct":4.6,"votes":61519}]},
+        {"name":"Campania","abbr":"CAM","winner":"m5s","margin":2.3,"turnout":59.7,"votes":1570531,"results":[{"party":"m5s","pct":31.7,"votes":497858},{"party":"fdi","pct":29.4,"votes":461736},{"party":"pd","pct":22,"votes":345517},{"party":"lega","pct":9.4,"votes":147630},{"party":"fi","pct":7.5,"votes":117790}]},
+        {"name":"Emilia-Romagna","abbr":"EMR","winner":"pd","margin":1.6,"turnout":66.9,"votes":1366425,"results":[{"party":"pd","pct":33.7,"votes":460485},{"party":"fdi","pct":32.1,"votes":438622},{"party":"m5s","pct":18.1,"votes":247323},{"party":"fi","pct":9.5,"votes":129810},{"party":"lega","pct":6.5,"votes":88818}]},
+        {"name":"Friuli-Venezia Giulia","abbr":"FVG","winner":"fdi","margin":2.6,"turnout":70.4,"votes":1539240,"results":[{"party":"fdi","pct":29.7,"votes":457154},{"party":"m5s","pct":27.1,"votes":417134},{"party":"pd","pct":18.3,"votes":281681},{"party":"fi","pct":15.2,"votes":233964},{"party":"lega","pct":9.7,"votes":149306}]},
+        {"name":"Lazio","abbr":"LAZ","winner":"fdi","margin":18.2,"turnout":69.7,"votes":1471154,"results":[{"party":"fdi","pct":45,"votes":662019},{"party":"pd","pct":26.8,"votes":394269},{"party":"m5s","pct":10.2,"votes":150058},{"party":"lega","pct":9.6,"votes":141231},{"party":"fi","pct":8.4,"votes":123577}]},
+        {"name":"Liguria","abbr":"LIG","winner":"fdi","margin":0.4,"turnout":61.3,"votes":1299866,"results":[{"party":"fdi","pct":33.5,"votes":435455},{"party":"pd","pct":33.1,"votes":430256},{"party":"m5s","pct":15.4,"votes":200179},{"party":"lega","pct":11.6,"votes":150784},{"party":"fi","pct":6.4,"votes":83191}]},
+        {"name":"Lombardy","abbr":"LOM","winner":"fdi","margin":8.5,"turnout":63.7,"votes":1554517,"results":[{"party":"fdi","pct":33.2,"votes":516100},{"party":"pd","pct":24.7,"votes":383966},{"party":"m5s","pct":22.6,"votes":351321},{"party":"lega","pct":12.2,"votes":189651},{"party":"fi","pct":7.3,"votes":113480}]},
+        {"name":"Marche","abbr":"MAR","winner":"fdi","margin":2.4,"turnout":58,"votes":1668468,"results":[{"party":"fdi","pct":33.6,"votes":560605},{"party":"pd","pct":31.2,"votes":520562},{"party":"m5s","pct":14.4,"votes":240259},{"party":"fi","pct":11.5,"votes":191874},{"party":"lega","pct":9.2,"votes":153499}]},
+        {"name":"Molise","abbr":"MOL","winner":"fdi","margin":17.5,"turnout":59.3,"votes":1587710,"results":[{"party":"fdi","pct":41,"votes":650961},{"party":"pd","pct":23.5,"votes":373112},{"party":"m5s","pct":20.5,"votes":325481},{"party":"lega","pct":9,"votes":142894},{"party":"fi","pct":6.1,"votes":96850}]},
+        {"name":"Piedmont","abbr":"PIE","winner":"fdi","margin":13.2,"turnout":57.9,"votes":1524206,"results":[{"party":"fdi","pct":41.9,"votes":638642},{"party":"pd","pct":28.7,"votes":437447},{"party":"m5s","pct":12.9,"votes":196623},{"party":"lega","pct":11.1,"votes":169187},{"party":"fi","pct":5.4,"votes":82307}]},
+        {"name":"Sardinia","abbr":"SAR","winner":"fdi","margin":9.3,"turnout":68.2,"votes":1551661,"results":[{"party":"fdi","pct":33.5,"votes":519806},{"party":"pd","pct":24.2,"votes":375502},{"party":"m5s","pct":16.5,"votes":256024},{"party":"fi","pct":13.1,"votes":203268},{"party":"lega","pct":12.7,"votes":197061}]},
+        {"name":"Sicily","abbr":"SIC","winner":"fdi","margin":0.3,"turnout":66.4,"votes":1652964,"results":[{"party":"fdi","pct":28.5,"votes":471095},{"party":"pd","pct":28.2,"votes":466136},{"party":"scn","pct":20.3,"votes":335552},{"party":"m5s","pct":14.3,"votes":236374},{"party":"lega","pct":8.8,"votes":145461}]},
+        {"name":"Trentino-South Tyrol","abbr":"TAA","winner":"svp","margin":17.4,"turnout":70.5,"votes":1313428,"results":[{"party":"svp","pct":41.9,"votes":550326},{"party":"fdi","pct":24.5,"votes":321790},{"party":"pd","pct":12.6,"votes":165492},{"party":"m5s","pct":9.1,"votes":119522},{"party":"lega","pct":7,"votes":91940},{"party":"fi","pct":5,"votes":65671}]},
+        {"name":"Tuscany","abbr":"TOS","winner":"pd","margin":1.2,"turnout":58.8,"votes":1427985,"results":[{"party":"pd","pct":32.9,"votes":469807},{"party":"fdi","pct":31.7,"votes":452671},{"party":"m5s","pct":22.9,"votes":327009},{"party":"lega","pct":6.5,"votes":92819},{"party":"fi","pct":6,"votes":85679}]},
+        {"name":"Umbria","abbr":"UMB","winner":"fdi","margin":9.6,"turnout":59,"votes":1468441,"results":[{"party":"fdi","pct":34.2,"votes":502207},{"party":"pd","pct":24.6,"votes":361236},{"party":"lega","pct":15.6,"votes":229077},{"party":"m5s","pct":15,"votes":220266},{"party":"fi","pct":10.6,"votes":155655}]},
+        {"name":"Veneto","abbr":"VEN","winner":"fdi","margin":6.2,"turnout":68.2,"votes":1438132,"results":[{"party":"fdi","pct":31.1,"votes":447259},{"party":"pd","pct":24.9,"votes":358095},{"party":"m5s","pct":23.8,"votes":342275},{"party":"lega","pct":12.6,"votes":181205},{"party":"fi","pct":7.6,"votes":109298}]}
+      ]
+    },
+    {
+      "id": "it-senate-2022",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2022-09-25",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 63.8,
+      "cite": {
+        "name": "the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2022_Italian_general_election"
+      },
+      "system": "200 elected seats: 74 districts and 126 proportional",
+      "totalSeats": 200,
+      "majority": 101,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Brothers of Italy",
+          "party": "fdi",
+          "pct": 26,
+          "seats": 65,
+          "votes": 7167136,
+          "change": 47,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "pct": 19,
+          "seats": 39,
+          "votes": 5226732,
+          "change": -14
+        },
+        {
+          "name": "Lega",
+          "party": "lega",
+          "pct": 8.8,
+          "seats": 29,
+          "votes": 2439200,
+          "change": -29
+        },
+        {
+          "name": "Five Star Movement",
+          "party": "m5s",
+          "pct": 15.5,
+          "seats": 28,
+          "votes": 4285894,
+          "change": -84
+        },
+        {
+          "name": "Forza Italia",
+          "party": "fi",
+          "pct": 8.3,
+          "seats": 18,
+          "votes": 2279802,
+          "change": -39
+        },
+        {
+          "name": "Action–Italia Viva",
+          "party": "az",
+          "pct": 7.7,
+          "seats": 9,
+          "votes": 2131310,
+          "change": 9
+        },
+        {
+          "name": "Greens and Left",
+          "party": "avs",
+          "pct": 3.5,
+          "seats": 4,
+          "votes": 972316,
+          "change": 4
+        },
+        {
+          "name": "Us Moderates",
+          "party": "nm",
+          "pct": 0.9,
+          "seats": 3,
+          "votes": 243409,
+          "change": 3
+        },
+        {
+          "name": "SVP",
+          "party": "svp",
+          "pct": null,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "South calls North",
+          "party": "scn",
+          "pct": 1,
+          "seats": 1,
+          "votes": 271549,
+          "change": 1
+        },
+        {
+          "name": "Campobase",
+          "party": "cb",
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "MAIE",
+          "party": "maie",
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "+Europa",
+          "party": "pe",
+          "pct": 2.9,
+          "seats": 0,
+          "votes": 810441,
+          "change": -1
+        },
+        {
+          "name": "Italexit",
+          "party": "italexit",
+          "pct": 1.9,
+          "seats": 0,
+          "votes": 515657
+        },
+        {
+          "name": "People's Union",
+          "party": "up",
+          "pct": 1.4,
+          "seats": 0,
+          "votes": 374247
+        },
+        {
+          "name": "Sovereign and Popular Italy",
+          "party": "isp",
+          "pct": 1.1,
+          "seats": 0,
+          "votes": 309391
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 2,
+          "seats": 0,
+          "votes": 542591
+        }
+      ],
+      "regions": [
+        {"name":"Abruzzo","abbr":"ABR","winner":"fdi","margin":7.1,"turnout":70.7,"votes":1219894,"results":[{"party":"fdi","pct":31.7,"votes":386706},{"party":"pd","pct":24.6,"votes":300094},{"party":"m5s","pct":19.6,"votes":239099},{"party":"fi","pct":15.3,"votes":186644},{"party":"lega","pct":8.7,"votes":106131}]},
+        {"name":"Aosta Valley","abbr":"VDA","winner":"lega","margin":0.4,"turnout":70.5,"votes":1577361,"results":[{"party":"lega","pct":27.5,"votes":433774},{"party":"fdi","pct":27.1,"votes":427465},{"party":"pd","pct":20.1,"votes":317050},{"party":"m5s","pct":16.3,"votes":257110},{"party":"fi","pct":9,"votes":141962}]},
+        {"name":"Apulia","abbr":"PUG","winner":"fdi","margin":9.3,"turnout":70.1,"votes":1455686,"results":[{"party":"fdi","pct":35.2,"votes":512401},{"party":"m5s","pct":25.9,"votes":377023},{"party":"pd","pct":22.6,"votes":328985},{"party":"fi","pct":8.6,"votes":125189},{"party":"lega","pct":7.7,"votes":112088}]},
+        {"name":"Basilicata","abbr":"BAS","winner":"fdi","margin":7.2,"turnout":63,"votes":1316482,"results":[{"party":"fdi","pct":31.2,"votes":410742},{"party":"m5s","pct":24,"votes":315956},{"party":"pd","pct":21.4,"votes":281727},{"party":"fi","pct":14,"votes":184307},{"party":"lega","pct":9.4,"votes":123749}]},
+        {"name":"Calabria","abbr":"CAL","winner":"fdi","margin":19.4,"turnout":67.3,"votes":1440322,"results":[{"party":"fdi","pct":44.8,"votes":645264},{"party":"pd","pct":25.4,"votes":365842},{"party":"m5s","pct":14.1,"votes":203085},{"party":"lega","pct":9.6,"votes":138271},{"party":"fi","pct":6,"votes":86419}]},
+        {"name":"Campania","abbr":"CAM","winner":"m5s","margin":3.3,"turnout":61.6,"votes":1572848,"results":[{"party":"m5s","pct":32.3,"votes":508030},{"party":"fdi","pct":29,"votes":456126},{"party":"pd","pct":25.7,"votes":404222},{"party":"fi","pct":7.4,"votes":116391},{"party":"lega","pct":5.6,"votes":88079}]},
+        {"name":"Emilia-Romagna","abbr":"EMR","winner":"pd","margin":4.1,"turnout":61.7,"votes":1437295,"results":[{"party":"pd","pct":31.6,"votes":454185},{"party":"fdi","pct":27.5,"votes":395256},{"party":"m5s","pct":21.8,"votes":313330},{"party":"fi","pct":13.6,"votes":195472},{"party":"lega","pct":5.4,"votes":77614}]},
+        {"name":"Friuli-Venezia Giulia","abbr":"FVG","winner":"fdi","margin":0.4,"turnout":61.4,"votes":1464181,"results":[{"party":"fdi","pct":34.4,"votes":503678},{"party":"pd","pct":34,"votes":497822},{"party":"m5s","pct":14,"votes":204985},{"party":"lega","pct":11.3,"votes":165452},{"party":"fi","pct":6.4,"votes":93708}]},
+        {"name":"Lazio","abbr":"LAZ","winner":"fdi","margin":24.1,"turnout":69.9,"votes":1596461,"results":[{"party":"fdi","pct":44,"votes":702443},{"party":"pd","pct":19.9,"votes":317696},{"party":"m5s","pct":13.8,"votes":220312},{"party":"lega","pct":12.4,"votes":197961},{"party":"fi","pct":10,"votes":159646}]},
+        {"name":"Liguria","abbr":"LIG","winner":"fdi","margin":16.6,"turnout":64.8,"votes":1429530,"results":[{"party":"fdi","pct":37.3,"votes":533215},{"party":"pd","pct":20.7,"votes":295913},{"party":"m5s","pct":19.2,"votes":274470},{"party":"lega","pct":13,"votes":185839},{"party":"fi","pct":9.8,"votes":140094}]},
+        {"name":"Lombardy","abbr":"LOM","winner":"fdi","margin":16.2,"turnout":59.9,"votes":1635316,"results":[{"party":"fdi","pct":43.5,"votes":711362},{"party":"pd","pct":27.3,"votes":446441},{"party":"m5s","pct":16.3,"votes":266557},{"party":"lega","pct":8,"votes":130825},{"party":"fi","pct":4.9,"votes":80130}]},
+        {"name":"Marche","abbr":"MAR","winner":"fdi","margin":6.6,"turnout":60.9,"votes":1194100,"results":[{"party":"fdi","pct":32.5,"votes":388083},{"party":"pd","pct":25.9,"votes":309272},{"party":"m5s","pct":20.1,"votes":240014},{"party":"lega","pct":13.1,"votes":156427},{"party":"fi","pct":8.4,"votes":100304}]},
+        {"name":"Molise","abbr":"MOL","winner":"fdi","margin":5.9,"turnout":67.6,"votes":1553870,"results":[{"party":"fdi","pct":33.1,"votes":514331},{"party":"pd","pct":27.2,"votes":422653},{"party":"m5s","pct":24.3,"votes":377590},{"party":"fi","pct":9.1,"votes":141402},{"party":"lega","pct":6.3,"votes":97894}]},
+        {"name":"Piedmont","abbr":"PIE","winner":"fdi","margin":8.1,"turnout":69,"votes":1341206,"results":[{"party":"fdi","pct":32.6,"votes":437233},{"party":"pd","pct":24.5,"votes":328595},{"party":"m5s","pct":18.7,"votes":250806},{"party":"fi","pct":13.6,"votes":182404},{"party":"lega","pct":10.6,"votes":142168}]},
+        {"name":"Sardinia","abbr":"SAR","winner":"fdi","margin":3.2,"turnout":62,"votes":1579171,"results":[{"party":"fdi","pct":29.2,"votes":461118},{"party":"pd","pct":26,"votes":410584},{"party":"m5s","pct":22.1,"votes":348997},{"party":"lega","pct":11.6,"votes":183184},{"party":"fi","pct":11.2,"votes":176867}]},
+        {"name":"Sicily","abbr":"SIC","winner":"fdi","margin":17.2,"turnout":58,"votes":1186053,"results":[{"party":"fdi","pct":35.7,"votes":423421},{"party":"pd","pct":18.5,"votes":219420},{"party":"scn","pct":17.6,"votes":208745},{"party":"m5s","pct":16,"votes":189768},{"party":"lega","pct":12.2,"votes":144698}]},
+        {"name":"Trentino-South Tyrol","abbr":"TAA","winner":"svp","margin":1.3,"turnout":66.9,"votes":1306515,"results":[{"party":"svp","pct":26.3,"votes":343613},{"party":"fdi","pct":25,"votes":326629},{"party":"pd","pct":21.4,"votes":279594},{"party":"m5s","pct":17.2,"votes":224721},{"party":"lega","pct":5.5,"votes":71858},{"party":"fi","pct":4.7,"votes":61406}]},
+        {"name":"Tuscany","abbr":"TOS","winner":"pd","margin":1,"turnout":64.1,"votes":1134029,"results":[{"party":"pd","pct":29.6,"votes":335673},{"party":"fdi","pct":28.6,"votes":324332},{"party":"m5s","pct":25.3,"votes":286909},{"party":"lega","pct":11.1,"votes":125877},{"party":"fi","pct":5.4,"votes":61238}]},
+        {"name":"Umbria","abbr":"UMB","winner":"fdi","margin":1,"turnout":61.9,"votes":1489626,"results":[{"party":"fdi","pct":25.7,"votes":382834},{"party":"pd","pct":24.7,"votes":367938},{"party":"m5s","pct":24,"votes":357510},{"party":"lega","pct":15.4,"votes":229402},{"party":"fi","pct":10.2,"votes":151942}]},
+        {"name":"Veneto","abbr":"VEN","winner":"fdi","margin":30.4,"turnout":60.7,"votes":1121167,"results":[{"party":"fdi","pct":46.7,"votes":523585},{"party":"m5s","pct":16.3,"votes":182750},{"party":"fi","pct":14.7,"votes":164812},{"party":"pd","pct":14.6,"votes":163690},{"party":"lega","pct":7.7,"votes":86330}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "Chamber of Deputies",
+      "date": "2027-09-26",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "fdi",
+          "points": [
+            ["2026-03-16",26.1],
+            ["2026-03-23",26.8],
+            ["2026-03-30",27.9],
+            ["2026-04-06",28.9],
+            ["2026-04-13",29.3],
+            ["2026-04-20",28.9],
+            ["2026-04-27",28.1],
+            ["2026-05-04",27.5],
+            ["2026-05-11",28.2],
+            ["2026-05-18",28.2],
+            ["2026-05-25",28.5],
+            ["2026-06-01",28.6],
+            ["2026-06-08",28.4],
+            ["2026-06-15",28.8],
+            ["2026-06-22",29.5],
+            ["2026-06-29",29.8],
+            ["2026-07-06",29.2],
+            ["2026-07-13",29.5],
+            ["2026-07-20",30.2],
+            ["2026-07-27",29.8],
+            ["2026-08-03",28.8],
+            ["2026-08-10",28.5],
+            ["2026-08-17",29.2],
+            ["2026-08-24",28.7],
+            ["2026-08-31",29.2],
+            ["2026-09-07",29.2],
+            ["2026-09-14",29.8],
+            ["2026-09-21",30.4],
+            ["2026-09-28",30.1],
+            ["2026-10-05",29.2]
+          ]
+        },
+        {
+          "party": "pd",
+          "points": [
+            ["2026-03-16",19.8],
+            ["2026-03-23",19.8],
+            ["2026-03-30",20.4],
+            ["2026-04-06",20],
+            ["2026-04-13",19.4],
+            ["2026-04-20",19.1],
+            ["2026-04-27",19.7],
+            ["2026-05-04",20],
+            ["2026-05-11",20.7],
+            ["2026-05-18",21.2],
+            ["2026-05-25",21.6],
+            ["2026-06-01",21.8],
+            ["2026-06-08",22.1],
+            ["2026-06-15",21.8],
+            ["2026-06-22",21.3],
+            ["2026-06-29",20.9],
+            ["2026-07-06",20.5],
+            ["2026-07-13",21.2],
+            ["2026-07-20",21.8],
+            ["2026-07-27",22.6],
+            ["2026-08-03",22.2],
+            ["2026-08-10",22.6],
+            ["2026-08-17",23.3],
+            ["2026-08-24",22.8],
+            ["2026-08-31",23.5],
+            ["2026-09-07",23.5],
+            ["2026-09-14",24],
+            ["2026-09-21",24],
+            ["2026-09-28",23],
+            ["2026-10-05",23.3]
+          ]
+        },
+        {
+          "party": "m5s",
+          "points": [
+            ["2026-03-16",14.4],
+            ["2026-03-23",14],
+            ["2026-03-30",13.6],
+            ["2026-04-06",13.4],
+            ["2026-04-13",13.1],
+            ["2026-04-20",13.1],
+            ["2026-04-27",12.9],
+            ["2026-05-04",12.4],
+            ["2026-05-11",13],
+            ["2026-05-18",12.6],
+            ["2026-05-25",11.7],
+            ["2026-06-01",11.8],
+            ["2026-06-08",11.6],
+            ["2026-06-15",11.9],
+            ["2026-06-22",12.7],
+            ["2026-06-29",12.1],
+            ["2026-07-06",12.6],
+            ["2026-07-13",12.6],
+            ["2026-07-20",11.9],
+            ["2026-07-27",12.2],
+            ["2026-08-03",12],
+            ["2026-08-10",11.5],
+            ["2026-08-17",11.1],
+            ["2026-08-24",11.5],
+            ["2026-08-31",11.8],
+            ["2026-09-07",11.6],
+            ["2026-09-14",11],
+            ["2026-09-21",11.3],
+            ["2026-09-28",12.2],
+            ["2026-10-05",11.5]
+          ]
+        },
+        {
+          "party": "lega",
+          "points": [
+            ["2026-03-16",9.8],
+            ["2026-03-23",9.2],
+            ["2026-03-30",8.7],
+            ["2026-04-06",9.1],
+            ["2026-04-13",8.8],
+            ["2026-04-20",8.3],
+            ["2026-04-27",8.9],
+            ["2026-05-04",9.8],
+            ["2026-05-11",10.6],
+            ["2026-05-18",11.6],
+            ["2026-05-25",11.5],
+            ["2026-06-01",12.1],
+            ["2026-06-08",11.7],
+            ["2026-06-15",10.9],
+            ["2026-06-22",11.2],
+            ["2026-06-29",11.8],
+            ["2026-07-06",12],
+            ["2026-07-13",11.4],
+            ["2026-07-20",11.6],
+            ["2026-07-27",10.8],
+            ["2026-08-03",11.3],
+            ["2026-08-10",10.9],
+            ["2026-08-17",11.8],
+            ["2026-08-24",12.3],
+            ["2026-08-31",11.8],
+            ["2026-09-07",12.2],
+            ["2026-09-14",12.7],
+            ["2026-09-21",13.3],
+            ["2026-09-28",13.4],
+            ["2026-10-05",14]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Senate",
+      "date": "2027-09-26",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "fdi",
+          "points": [
+            ["2026-03-16",25.1],
+            ["2026-03-23",25.1],
+            ["2026-03-30",25.8],
+            ["2026-04-06",26.1],
+            ["2026-04-13",26.2],
+            ["2026-04-20",25.8],
+            ["2026-04-27",26],
+            ["2026-05-04",25.7],
+            ["2026-05-11",25.1],
+            ["2026-05-18",24.9],
+            ["2026-05-25",24.7],
+            ["2026-06-01",25.5],
+            ["2026-06-08",24.8],
+            ["2026-06-15",25.5],
+            ["2026-06-22",25.6],
+            ["2026-06-29",26.2],
+            ["2026-07-06",25.6],
+            ["2026-07-13",26],
+            ["2026-07-20",25.3],
+            ["2026-07-27",26.1],
+            ["2026-08-03",25.6],
+            ["2026-08-10",26.1],
+            ["2026-08-17",25.4],
+            ["2026-08-24",26.1],
+            ["2026-08-31",26.7],
+            ["2026-09-07",26.9],
+            ["2026-09-14",27.6],
+            ["2026-09-21",26.8],
+            ["2026-09-28",26],
+            ["2026-10-05",26.6]
+          ]
+        },
+        {
+          "party": "pd",
+          "points": [
+            ["2026-03-16",19.5],
+            ["2026-03-23",20.7],
+            ["2026-03-30",20.3],
+            ["2026-04-06",21.1],
+            ["2026-04-13",21.2],
+            ["2026-04-20",21.4],
+            ["2026-04-27",20.8],
+            ["2026-05-04",21.5],
+            ["2026-05-11",22.3],
+            ["2026-05-18",23],
+            ["2026-05-25",22.4],
+            ["2026-06-01",21.7],
+            ["2026-06-08",21.1],
+            ["2026-06-15",20.7],
+            ["2026-06-22",21.2],
+            ["2026-06-29",21.3],
+            ["2026-07-06",22.2],
+            ["2026-07-13",21.9],
+            ["2026-07-20",21.7],
+            ["2026-07-27",22.3],
+            ["2026-08-03",22.1],
+            ["2026-08-10",22],
+            ["2026-08-17",21.2],
+            ["2026-08-24",21.8],
+            ["2026-08-31",21],
+            ["2026-09-07",20.3],
+            ["2026-09-14",21.2],
+            ["2026-09-21",21.9],
+            ["2026-09-28",22.1],
+            ["2026-10-05",22.4]
+          ]
+        },
+        {
+          "party": "m5s",
+          "points": [
+            ["2026-03-16",15.7],
+            ["2026-03-23",14.8],
+            ["2026-03-30",13.9],
+            ["2026-04-06",13.3],
+            ["2026-04-13",13.7],
+            ["2026-04-20",14.1],
+            ["2026-04-27",15],
+            ["2026-05-04",14.2],
+            ["2026-05-11",15.1],
+            ["2026-05-18",15.5],
+            ["2026-05-25",16.1],
+            ["2026-06-01",15.3],
+            ["2026-06-08",15.6],
+            ["2026-06-15",16.2],
+            ["2026-06-22",16.1],
+            ["2026-06-29",15],
+            ["2026-07-06",14.8],
+            ["2026-07-13",14.4],
+            ["2026-07-20",13.7],
+            ["2026-07-27",13.7],
+            ["2026-08-03",14.5],
+            ["2026-08-10",15.2],
+            ["2026-08-17",14.6],
+            ["2026-08-24",14.4],
+            ["2026-08-31",15.3],
+            ["2026-09-07",15.8],
+            ["2026-09-14",15.5],
+            ["2026-09-21",14.8],
+            ["2026-09-28",15.7],
+            ["2026-10-05",16.1]
+          ]
+        },
+        {
+          "party": "lega",
+          "points": [
+            ["2026-03-16",9.7],
+            ["2026-03-23",10.1],
+            ["2026-03-30",9.6],
+            ["2026-04-06",9],
+            ["2026-04-13",9.8],
+            ["2026-04-20",10.3],
+            ["2026-04-27",11],
+            ["2026-05-04",10.2],
+            ["2026-05-11",10.3],
+            ["2026-05-18",11.1],
+            ["2026-05-25",11.4],
+            ["2026-06-01",10.4],
+            ["2026-06-08",10.8],
+            ["2026-06-15",10.1],
+            ["2026-06-22",10.5],
+            ["2026-06-29",9.7],
+            ["2026-07-06",10.3],
+            ["2026-07-13",11],
+            ["2026-07-20",10],
+            ["2026-07-27",9.3],
+            ["2026-08-03",8.8],
+            ["2026-08-10",9.4],
+            ["2026-08-17",8.6],
+            ["2026-08-24",8.7],
+            ["2026-08-31",9.4],
+            ["2026-09-07",10.1],
+            ["2026-09-14",10.6],
+            ["2026-09-21",10.2],
+            ["2026-09-28",10.1],
+            ["2026-10-05",9.7]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1072 @@
+{
+  "code": "BR",
+  "name": "Brazil",
+  "subtitle": "Federal elections",
+  "about": {
+    "system": "Federal presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "National Congress: Chamber of Deputies (513) and Federal Senate (81)",
+    "votingAge": 16,
+    "compulsory": true,
+    "registered": 156400000,
+    "offices": {
+      "President": "Elected for four years by national popular vote. If nobody passes 50% of valid votes in the first round, the top two meet in a run-off four weeks later.",
+      "Senate": "Three senators per state and the Federal District, serving eight-year terms. Elections alternate between renewing one third and two thirds of the chamber.",
+      "Chamber of Deputies": "513 deputies elected by open-list proportional representation in each state, with between 8 and 70 seats per state."
+    }
+  },
+  "parties": {
+    "pl": {
+      "name": "Liberal Party",
+      "color": "#015AAA"
+    },
+    "pt": {
+      "name": "Workers' Party",
+      "color": "#E20E28"
+    },
+    "uniao": {
+      "name": "União Brasil",
+      "color": "#2FBEF2"
+    },
+    "pp": {
+      "name": "Progressistas",
+      "color": "#203F71"
+    },
+    "psd": {
+      "name": "PSD",
+      "color": "#FFA500"
+    },
+    "mdb": {
+      "name": "MDB",
+      "color": "#30914D"
+    },
+    "rep": {
+      "name": "Republicanos",
+      "color": "#0070C5"
+    },
+    "pdt": {
+      "name": "PDT",
+      "color": "#C21E56"
+    },
+    "psb": {
+      "name": "PSB",
+      "color": "#FFCC00"
+    },
+    "psdb": {
+      "name": "PSDB",
+      "color": "#0080FF"
+    },
+    "psol": {
+      "name": "PSOL",
+      "color": "#F26B61"
+    },
+    "pode": {
+      "name": "Podemos",
+      "color": "#2DA933"
+    },
+    "avante": {
+      "name": "Avante",
+      "color": "#088F8F"
+    },
+    "psc": {
+      "name": "PSC",
+      "color": "#009118"
+    },
+    "pcdob": {
+      "name": "PCdoB",
+      "color": "#820000"
+    },
+    "pv": {
+      "name": "PV",
+      "color": "#006600"
+    },
+    "cidadania": {
+      "name": "Cidadania",
+      "color": "#EC008C"
+    },
+    "solidariedade": {
+      "name": "Solidariedade",
+      "color": "#FF9C2B"
+    },
+    "patriota": {
+      "name": "Patriota",
+      "color": "#00552A"
+    },
+    "novo": {
+      "name": "Novo",
+      "color": "#F3701B"
+    },
+    "pros": {
+      "name": "PROS",
+      "color": "#A0522D"
+    },
+    "rede": {
+      "name": "Rede",
+      "color": "#379E8D"
+    },
+    "ptb": {
+      "name": "PTB",
+      "color": "#008040"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#C7C7CC"
+    }
+  },
+  "elections": [
+    {
+      "id": "br-president-2022",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2022-10-30",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 79.4,
+      "system": "Two-round popular vote",
+      "candidates": [
+        {
+          "name": "Lula da Silva",
+          "party": "pt",
+          "votes": 60345999,
+          "pct": 50.9,
+          "winner": true
+        },
+        {
+          "name": "Jair Bolsonaro",
+          "party": "pl",
+          "votes": 58206354,
+          "pct": 49.1
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2022-10-02",
+          "candidates": [
+            {
+              "name": "Lula da Silva",
+              "party": "pt",
+              "votes": 57259504,
+              "pct": 48.4
+            },
+            {
+              "name": "Jair Bolsonaro",
+              "party": "pl",
+              "votes": 51072345,
+              "pct": 43.2
+            },
+            {
+              "name": "Simone Tebet",
+              "party": "mdb",
+              "votes": 4915423,
+              "pct": 4.2
+            },
+            {
+              "name": "Ciro Gomes",
+              "party": "pdt",
+              "votes": 3599287,
+              "pct": 3
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 1428000,
+              "pct": 1.2
+            }
+          ],
+          "regions": [
+            {"name":"Acre","abbr":"AC","winner":"pt","margin":15.5,"turnout":86,"votes":4269374,"results":[{"party":"pt","pct":54.6,"votes":2331078},{"party":"pl","pct":39.1,"votes":1669325},{"party":"mdb","pct":3.3,"votes":140889},{"party":"pdt","pct":1.8,"votes":76849},{"party":"oth","pct":1.2,"votes":51232}]},
+            {"name":"Alagoas","abbr":"AL","winner":"pt","margin":30.6,"turnout":81.7,"votes":3521095,"results":[{"party":"pt","pct":62.1,"votes":2186600},{"party":"pl","pct":31.5,"votes":1109145},{"party":"mdb","pct":4.1,"votes":144365},{"party":"pdt","pct":1.7,"votes":59859},{"party":"oth","pct":0.7,"votes":24648}]},
+            {"name":"Amapá","abbr":"AP","winner":"pt","margin":10.7,"turnout":82.5,"votes":4214028,"results":[{"party":"pt","pct":48.4,"votes":2039590},{"party":"pl","pct":37.7,"votes":1588689},{"party":"mdb","pct":6.1,"votes":257056},{"party":"pdt","pct":5.5,"votes":231772},{"party":"oth","pct":2.2,"votes":92709}]},
+            {"name":"Amazonas","abbr":"AM","winner":"pt","margin":27.8,"turnout":84.1,"votes":3597481,"results":[{"party":"pt","pct":59.8,"votes":2151294},{"party":"pl","pct":32,"votes":1151194},{"party":"pdt","pct":4.1,"votes":147497},{"party":"mdb","pct":3.3,"votes":118717},{"party":"oth","pct":0.8,"votes":28780}]},
+            {"name":"Bahia","abbr":"BA","winner":"pt","margin":23.1,"turnout":84.6,"votes":3778215,"results":[{"party":"pt","pct":56.5,"votes":2134691},{"party":"pl","pct":33.4,"votes":1261924},{"party":"mdb","pct":5.6,"votes":211580},{"party":"pdt","pct":3.4,"votes":128459},{"party":"oth","pct":1.1,"votes":41560}]},
+            {"name":"Ceará","abbr":"CE","winner":"pt","margin":9.3,"turnout":77,"votes":3785686,"results":[{"party":"pt","pct":52.4,"votes":1983699},{"party":"pl","pct":43.1,"votes":1631631},{"party":"mdb","pct":2,"votes":75714},{"party":"pdt","pct":1.7,"votes":64357},{"party":"oth","pct":0.8,"votes":30285}]},
+            {"name":"Distrito Federal","abbr":"DF","winner":"pl","margin":25.8,"turnout":83.8,"votes":4161027,"results":[{"party":"pl","pct":59.9,"votes":2492455},{"party":"pt","pct":34.1,"votes":1418910},{"party":"mdb","pct":2.6,"votes":108187},{"party":"pdt","pct":2.1,"votes":87382},{"party":"oth","pct":1.3,"votes":54093}]},
+            {"name":"Espírito Santo","abbr":"ES","winner":"pl","margin":21.3,"turnout":74.8,"votes":4562280,"results":[{"party":"pl","pct":57.2,"votes":2609624},{"party":"pt","pct":35.9,"votes":1637859},{"party":"mdb","pct":3.1,"votes":141431},{"party":"pdt","pct":2.3,"votes":104932},{"party":"oth","pct":1.5,"votes":68434}]},
+            {"name":"Goiás","abbr":"GO","winner":"pl","margin":22.7,"turnout":84.9,"votes":5036485,"results":[{"party":"pl","pct":57.2,"votes":2880869},{"party":"pt","pct":34.5,"votes":1737587},{"party":"pdt","pct":4.5,"votes":226642},{"party":"mdb","pct":2.8,"votes":141022},{"party":"oth","pct":1.1,"votes":55401}]},
+            {"name":"Maranhão","abbr":"MA","winner":"pl","margin":34.6,"turnout":74,"votes":5254171,"results":[{"party":"pl","pct":62.6,"votes":3289111},{"party":"pt","pct":28,"votes":1471168},{"party":"mdb","pct":6,"votes":315250},{"party":"pdt","pct":1.9,"votes":99829},{"party":"oth","pct":1.5,"votes":78813}]},
+            {"name":"Mato Grosso","abbr":"MT","winner":"pl","margin":18.8,"turnout":73.9,"votes":3859106,"results":[{"party":"pl","pct":55.2,"votes":2130227},{"party":"pt","pct":36.4,"votes":1404715},{"party":"mdb","pct":3.6,"votes":138928},{"party":"pdt","pct":3.3,"votes":127350},{"party":"oth","pct":1.5,"votes":57887}]},
+            {"name":"Mato Grosso do Sul","abbr":"MS","winner":"pl","margin":2.5,"turnout":83.5,"votes":5025365,"results":[{"party":"pl","pct":47.5,"votes":2387048},{"party":"pt","pct":45,"votes":2261414},{"party":"mdb","pct":4.1,"votes":206040},{"party":"pdt","pct":2,"votes":100507},{"party":"oth","pct":1.5,"votes":75380}]},
+            {"name":"Minas Gerais","abbr":"MG","winner":"pt","margin":23.3,"turnout":85.6,"votes":3727879,"results":[{"party":"pt","pct":57.5,"votes":2143530},{"party":"pl","pct":34.2,"votes":1274935},{"party":"mdb","pct":3.8,"votes":141659},{"party":"pdt","pct":3.7,"votes":137932},{"party":"oth","pct":0.8,"votes":29823}]},
+            {"name":"Pará","abbr":"PA","winner":"pl","margin":2.2,"turnout":80.3,"votes":4598000,"results":[{"party":"pl","pct":45.1,"votes":2073698},{"party":"pt","pct":42.9,"votes":1972542},{"party":"mdb","pct":6.9,"votes":317262},{"party":"pdt","pct":3.7,"votes":170126},{"party":"oth","pct":1.4,"votes":64372}]},
+            {"name":"Paraíba","abbr":"PB","winner":"pt","margin":10.7,"turnout":78.9,"votes":5190111,"results":[{"party":"pt","pct":52,"votes":2698858},{"party":"pl","pct":41.3,"votes":2143516},{"party":"mdb","pct":3.2,"votes":166084},{"party":"pdt","pct":2.9,"votes":150513},{"party":"oth","pct":0.6,"votes":31141}]},
+            {"name":"Paraná","abbr":"PR","winner":"pl","margin":8.3,"turnout":82.5,"votes":4283139,"results":[{"party":"pl","pct":49.3,"votes":2111588},{"party":"pt","pct":41,"votes":1756087},{"party":"mdb","pct":5.1,"votes":218440},{"party":"pdt","pct":3.6,"votes":154193},{"party":"oth","pct":1,"votes":42831}]},
+            {"name":"Pernambuco","abbr":"PE","winner":"pl","margin":0.9,"turnout":76.6,"votes":3669112,"results":[{"party":"pl","pct":46.7,"votes":1713475},{"party":"pt","pct":45.8,"votes":1680453},{"party":"mdb","pct":3.4,"votes":124750},{"party":"pdt","pct":2.5,"votes":91728},{"party":"oth","pct":1.6,"votes":58706}]},
+            {"name":"Piauí","abbr":"PI","winner":"pt","margin":12.2,"turnout":84.1,"votes":4172987,"results":[{"party":"pt","pct":52.5,"votes":2190818},{"party":"pl","pct":40.3,"votes":1681714},{"party":"pdt","pct":3,"votes":125190},{"party":"mdb","pct":2.9,"votes":121017},{"party":"oth","pct":1.3,"votes":54249}]},
+            {"name":"Rio de Janeiro","abbr":"RJ","winner":"pt","margin":27.5,"turnout":86.2,"votes":4929077,"results":[{"party":"pt","pct":60.4,"votes":2977163},{"party":"pl","pct":32.9,"votes":1621666},{"party":"pdt","pct":2.7,"votes":133085},{"party":"mdb","pct":2.6,"votes":128156},{"party":"oth","pct":1.5,"votes":73936}]},
+            {"name":"Rio Grande do Norte","abbr":"RN","winner":"pt","margin":5.2,"turnout":83.2,"votes":4771785,"results":[{"party":"pt","pct":46.7,"votes":2228424},{"party":"pl","pct":41.5,"votes":1980291},{"party":"mdb","pct":6.5,"votes":310166},{"party":"pdt","pct":3.9,"votes":186100},{"party":"oth","pct":1.3,"votes":62033}]},
+            {"name":"Rio Grande do Sul","abbr":"RS","winner":"pl","margin":8.3,"turnout":80.4,"votes":3777168,"results":[{"party":"pl","pct":51,"votes":1926356},{"party":"pt","pct":42.7,"votes":1612851},{"party":"pdt","pct":3.3,"votes":124647},{"party":"mdb","pct":2.3,"votes":86875},{"party":"oth","pct":0.7,"votes":26440}]},
+            {"name":"Rondônia","abbr":"RO","winner":"pt","margin":4,"turnout":72.6,"votes":4969370,"results":[{"party":"pt","pct":48.6,"votes":2415114},{"party":"pl","pct":44.6,"votes":2216339},{"party":"mdb","pct":4.3,"votes":213683},{"party":"pdt","pct":1.8,"votes":89449},{"party":"oth","pct":0.7,"votes":34786}]},
+            {"name":"Roraima","abbr":"RR","winner":"pt","margin":31.3,"turnout":78.7,"votes":4671952,"results":[{"party":"pt","pct":61,"votes":2849891},{"party":"pl","pct":29.7,"votes":1387570},{"party":"mdb","pct":4.5,"votes":210238},{"party":"pdt","pct":3.1,"votes":144831},{"party":"oth","pct":1.7,"votes":79423}]},
+            {"name":"Santa Catarina","abbr":"SC","winner":"pt","margin":5,"turnout":84.6,"votes":4447580,"results":[{"party":"pt","pct":48.9,"votes":2174867},{"party":"pl","pct":43.9,"votes":1952488},{"party":"mdb","pct":4.8,"votes":213484},{"party":"pdt","pct":1.7,"votes":75609},{"party":"oth","pct":0.7,"votes":31133}]},
+            {"name":"São Paulo","abbr":"SP","winner":"pl","margin":10.6,"turnout":85.4,"votes":4640885,"results":[{"party":"pl","pct":48.4,"votes":2246188},{"party":"pt","pct":37.8,"votes":1754255},{"party":"mdb","pct":8.7,"votes":403757},{"party":"pdt","pct":3.1,"votes":143867},{"party":"oth","pct":1.9,"votes":88177}]},
+            {"name":"Sergipe","abbr":"SE","winner":"pt","margin":7.7,"turnout":74,"votes":4464017,"results":[{"party":"pt","pct":49.4,"votes":2205224},{"party":"pl","pct":41.7,"votes":1861495},{"party":"mdb","pct":5.8,"votes":258913},{"party":"pdt","pct":2.2,"votes":98208},{"party":"oth","pct":0.9,"votes":40176}]},
+            {"name":"Tocantins","abbr":"TO","winner":"pt","margin":35,"turnout":73.1,"votes":3673525,"results":[{"party":"pt","pct":62.5,"votes":2295953},{"party":"pl","pct":27.5,"votes":1010219},{"party":"mdb","pct":5.1,"votes":187350},{"party":"pdt","pct":4,"votes":146941},{"party":"oth","pct":0.9,"votes":33062}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2022-10-30",
+          "candidates": [
+            {
+              "name": "Lula da Silva",
+              "party": "pt",
+              "votes": 60345999,
+              "pct": 50.9,
+              "winner": true
+            },
+            {
+              "name": "Jair Bolsonaro",
+              "party": "pl",
+              "votes": 58206354,
+              "pct": 49.1
+            }
+          ],
+          "regions": [
+            {"name":"Acre","abbr":"AC","winner":"pl","margin":7.2,"turnout":86.2,"votes":3906483,"results":[{"party":"pl","pct":53.6,"votes":2093875},{"party":"pt","pct":46.4,"votes":1812608}]},
+            {"name":"Alagoas","abbr":"AL","winner":"pt","margin":5.8,"turnout":78.5,"votes":4705669,"results":[{"party":"pt","pct":52.9,"votes":2489299},{"party":"pl","pct":47.1,"votes":2216370}]},
+            {"name":"Amapá","abbr":"AP","winner":"pl","margin":5.8,"turnout":74.3,"votes":3869229,"results":[{"party":"pl","pct":52.9,"votes":2046822},{"party":"pt","pct":47.1,"votes":1822407}]},
+            {"name":"Amazonas","abbr":"AM","winner":"pt","margin":10,"turnout":75.4,"votes":4535287,"results":[{"party":"pt","pct":55,"votes":2494408},{"party":"pl","pct":45,"votes":2040879}]},
+            {"name":"Bahia","abbr":"BA","winner":"pt","margin":4.6,"turnout":80.5,"votes":5177264,"results":[{"party":"pt","pct":52.3,"votes":2707709},{"party":"pl","pct":47.7,"votes":2469555}]},
+            {"name":"Ceará","abbr":"CE","winner":"pt","margin":16.4,"turnout":73.8,"votes":4664978,"results":[{"party":"pt","pct":58.2,"votes":2715017},{"party":"pl","pct":41.8,"votes":1949961}]},
+            {"name":"Distrito Federal","abbr":"DF","winner":"pl","margin":16.6,"turnout":79.5,"votes":5146546,"results":[{"party":"pl","pct":58.3,"votes":3000436},{"party":"pt","pct":41.7,"votes":2146110}]},
+            {"name":"Espírito Santo","abbr":"ES","winner":"pl","margin":1.2,"turnout":77.9,"votes":4102315,"results":[{"party":"pl","pct":50.6,"votes":2075771},{"party":"pt","pct":49.4,"votes":2026544}]},
+            {"name":"Goiás","abbr":"GO","winner":"pl","margin":7.4,"turnout":82.5,"votes":4348377,"results":[{"party":"pl","pct":53.7,"votes":2335078},{"party":"pt","pct":46.3,"votes":2013299}]},
+            {"name":"Maranhão","abbr":"MA","winner":"pt","margin":34,"turnout":76.9,"votes":3860739,"results":[{"party":"pt","pct":67,"votes":2586695},{"party":"pl","pct":33,"votes":1274044}]},
+            {"name":"Mato Grosso","abbr":"MT","winner":"pl","margin":31.8,"turnout":75,"votes":4428483,"results":[{"party":"pl","pct":65.9,"votes":2918370},{"party":"pt","pct":34.1,"votes":1510113}]},
+            {"name":"Mato Grosso do Sul","abbr":"MS","winner":"pl","margin":42.6,"turnout":73,"votes":4565840,"results":[{"party":"pl","pct":71.3,"votes":3255444},{"party":"pt","pct":28.7,"votes":1310396}]},
+            {"name":"Minas Gerais","abbr":"MG","winner":"pt","margin":4.8,"turnout":74.9,"votes":4979985,"results":[{"party":"pt","pct":52.4,"votes":2609512},{"party":"pl","pct":47.6,"votes":2370473}]},
+            {"name":"Pará","abbr":"PA","winner":"pt","margin":21.2,"turnout":75.6,"votes":3929114,"results":[{"party":"pt","pct":60.6,"votes":2381043},{"party":"pl","pct":39.4,"votes":1548071}]},
+            {"name":"Paraíba","abbr":"PB","winner":"pt","margin":8.2,"turnout":78.4,"votes":4255622,"results":[{"party":"pt","pct":54.1,"votes":2302292},{"party":"pl","pct":45.9,"votes":1953330}]},
+            {"name":"Paraná","abbr":"PR","winner":"pl","margin":3.6,"turnout":73.9,"votes":3640469,"results":[{"party":"pl","pct":51.8,"votes":1885763},{"party":"pt","pct":48.2,"votes":1754706}]},
+            {"name":"Pernambuco","abbr":"PE","winner":"pt","margin":23.6,"turnout":80.8,"votes":4961766,"results":[{"party":"pt","pct":61.8,"votes":3066371},{"party":"pl","pct":38.2,"votes":1895395}]},
+            {"name":"Piauí","abbr":"PI","winner":"pt","margin":10.8,"turnout":83.4,"votes":3741985,"results":[{"party":"pt","pct":55.4,"votes":2073060},{"party":"pl","pct":44.6,"votes":1668925}]},
+            {"name":"Rio de Janeiro","abbr":"RJ","winner":"pl","margin":16.6,"turnout":83.1,"votes":3624457,"results":[{"party":"pl","pct":58.3,"votes":2113058},{"party":"pt","pct":41.7,"votes":1511399}]},
+            {"name":"Rio Grande do Norte","abbr":"RN","winner":"pt","margin":8.8,"turnout":75.1,"votes":3956214,"results":[{"party":"pt","pct":54.4,"votes":2152180},{"party":"pl","pct":45.6,"votes":1804034}]},
+            {"name":"Rio Grande do Sul","abbr":"RS","winner":"pl","margin":0.6,"turnout":82.9,"votes":4907936,"results":[{"party":"pl","pct":50.3,"votes":2468692},{"party":"pt","pct":49.7,"votes":2439244}]},
+            {"name":"Rondônia","abbr":"RO","winner":"pl","margin":7,"turnout":84.1,"votes":5027808,"results":[{"party":"pl","pct":53.5,"votes":2689877},{"party":"pt","pct":46.5,"votes":2337931}]},
+            {"name":"Roraima","abbr":"RR","winner":"pl","margin":2.8,"turnout":85.9,"votes":4284187,"results":[{"party":"pl","pct":51.4,"votes":2202072},{"party":"pt","pct":48.6,"votes":2082115}]},
+            {"name":"Santa Catarina","abbr":"SC","winner":"pl","margin":27.6,"turnout":86.1,"votes":4382890,"results":[{"party":"pl","pct":63.8,"votes":2796284},{"party":"pt","pct":36.2,"votes":1586606}]},
+            {"name":"São Paulo","abbr":"SP","winner":"pl","margin":14,"turnout":72.6,"votes":4987027,"results":[{"party":"pl","pct":57,"votes":2842605},{"party":"pt","pct":43,"votes":2144422}]},
+            {"name":"Sergipe","abbr":"SE","winner":"pt","margin":14.2,"turnout":76.9,"votes":4060482,"results":[{"party":"pt","pct":57.1,"votes":2318535},{"party":"pl","pct":42.9,"votes":1741947}]},
+            {"name":"Tocantins","abbr":"TO","winner":"pt","margin":7.4,"turnout":85.5,"votes":4507835,"results":[{"party":"pt","pct":53.7,"votes":2420707},{"party":"pl","pct":46.3,"votes":2087128}]}
+          ]
+        }
+      ],
+      "cite": {
+        "name": "the Superior Electoral Court",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election"
+      }
+    },
+    {
+      "id": "br-senate-2022",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2022-10-02",
+      "status": "final",
+      "reporting": 100,
+      "system": "81 seats · 27 contested",
+      "totalSeats": 81,
+      "majority": 41,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 25278764,
+          "pct": 25.4,
+          "seats": 13,
+          "change": 11,
+          "winner": true
+        },
+        {
+          "name": "União Brasil",
+          "party": "uniao",
+          "votes": 5465486,
+          "pct": 5.5,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "PSD",
+          "party": "psd",
+          "votes": 11312512,
+          "pct": 11.4,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "MDB",
+          "party": "mdb",
+          "votes": 3882458,
+          "pct": 3.9,
+          "seats": 10,
+          "change": -2
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 12024696,
+          "pct": 12.1,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Progressistas",
+          "party": "pp",
+          "votes": 7592391,
+          "pct": 7.6,
+          "seats": 7,
+          "change": 2
+        },
+        {
+          "name": "Podemos",
+          "party": "pode",
+          "votes": 1776283,
+          "pct": 1.8,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "PSDB",
+          "party": "psdb",
+          "votes": 1384871,
+          "pct": 1.4,
+          "seats": 4,
+          "change": -5
+        },
+        {
+          "name": "Republicanos",
+          "party": "rep",
+          "votes": 4259279,
+          "pct": 4.3,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "PDT",
+          "party": "pdt",
+          "votes": 1586922,
+          "pct": 1.6,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "PSB",
+          "party": "psb",
+          "votes": 13615846,
+          "pct": 13.7,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "PSC",
+          "party": "psc",
+          "votes": 4285485,
+          "pct": 4.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "PROS",
+          "party": "pros",
+          "votes": 213247,
+          "pct": 0.2,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Rede",
+          "party": "rede",
+          "votes": 8133,
+          "pct": 0,
+          "seats": 1,
+          "change": -4
+        },
+        {
+          "name": "Cidadania",
+          "party": "cidadania",
+          "votes": 0,
+          "pct": 0,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "PTB",
+          "party": "ptb",
+          "votes": 2046003,
+          "pct": 2.1,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Avante",
+          "party": "avante",
+          "votes": 1359455,
+          "pct": 1.4,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3487306,
+          "pct": 3.5,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "regions": [
+        {"name":"Acre","abbr":"AC","winner":"uniao","margin":1.6,"turnout":54.1,"votes":3538640,"results":[{"party":"uniao","pct":27.3,"votes":966049},{"party":"pl","pct":25.7,"votes":909430},{"party":"pt","pct":17.2,"votes":608646},{"party":"psb","pct":13.6,"votes":481255},{"party":"psd","pct":10.8,"votes":382173},{"party":"pp","pct":5.4,"votes":191087}]},
+        {"name":"Alagoas","abbr":"AL","winner":"mdb","margin":5.5,"turnout":63.3,"votes":3600738,"results":[{"party":"mdb","pct":28,"votes":1008207},{"party":"pl","pct":22.5,"votes":810166},{"party":"pt","pct":16,"votes":576118},{"party":"psd","pct":14.6,"votes":525708},{"party":"psb","pct":12.7,"votes":457294},{"party":"pp","pct":6.2,"votes":223246}]},
+        {"name":"Amapá","abbr":"AP","winner":"uniao","margin":14.1,"turnout":65.1,"votes":3947777,"results":[{"party":"uniao","pct":33.1,"votes":1306714},{"party":"psb","pct":19,"votes":750078},{"party":"pl","pct":17,"votes":671122},{"party":"psd","pct":13.4,"votes":529002},{"party":"pp","pct":10,"votes":394778},{"party":"pt","pct":7.5,"votes":296083}]},
+        {"name":"Amazonas","abbr":"AM","winner":"psd","margin":14.6,"turnout":64.6,"votes":3266665,"results":[{"party":"psd","pct":47.5,"votes":1551666},{"party":"pl","pct":32.9,"votes":1074733},{"party":"psb","pct":8.1,"votes":264600},{"party":"pt","pct":6.1,"votes":199267},{"party":"pp","pct":5.4,"votes":176400}]},
+        {"name":"Bahia","abbr":"BA","winner":"psd","margin":8.9,"turnout":63.7,"votes":3264255,"results":[{"party":"psd","pct":42.2,"votes":1377516},{"party":"pl","pct":33.3,"votes":1086997},{"party":"pt","pct":10.8,"votes":352540},{"party":"pp","pct":7.4,"votes":241555},{"party":"psb","pct":6.3,"votes":205648}]},
+        {"name":"Ceará","abbr":"CE","winner":"pt","margin":16.6,"turnout":57.7,"votes":3599151,"results":[{"party":"pt","pct":48.1,"votes":1731192},{"party":"pl","pct":31.5,"votes":1133733},{"party":"psb","pct":8,"votes":287932},{"party":"psd","pct":7.8,"votes":280734},{"party":"pp","pct":4.7,"votes":169160}]},
+        {"name":"Distrito Federal","abbr":"DF","winner":"rep","margin":0.9,"turnout":62.9,"votes":3182576,"results":[{"party":"rep","pct":25.6,"votes":814739},{"party":"pl","pct":24.7,"votes":786096},{"party":"psb","pct":17.1,"votes":544220},{"party":"pt","pct":16.9,"votes":537855},{"party":"psd","pct":10.8,"votes":343718},{"party":"pp","pct":4.7,"votes":149581}]},
+        {"name":"Espírito Santo","abbr":"ES","winner":"pl","margin":13.7,"turnout":58.5,"votes":3240880,"results":[{"party":"pl","pct":33.9,"votes":1098658},{"party":"psd","pct":20.2,"votes":654658},{"party":"psb","pct":18.4,"votes":596322},{"party":"pt","pct":17.8,"votes":576877},{"party":"pp","pct":9.8,"votes":317606}]},
+        {"name":"Goiás","abbr":"GO","winner":"pl","margin":14.7,"turnout":62.1,"votes":4018175,"results":[{"party":"pl","pct":34.3,"votes":1378234},{"party":"psb","pct":19.6,"votes":787562},{"party":"pt","pct":18.7,"votes":751399},{"party":"psd","pct":17.5,"votes":703181},{"party":"pp","pct":9.9,"votes":397799}]},
+        {"name":"Maranhão","abbr":"MA","winner":"psb","margin":0.8,"turnout":59.9,"votes":3104194,"results":[{"party":"psb","pct":27.8,"votes":862966},{"party":"pl","pct":27,"votes":838132},{"party":"psd","pct":23,"votes":713965},{"party":"pt","pct":14.5,"votes":450108},{"party":"pp","pct":7.7,"votes":239023}]},
+        {"name":"Mato Grosso","abbr":"MT","winner":"pl","margin":0.4,"turnout":56.3,"votes":4032919,"results":[{"party":"pl","pct":25.9,"votes":1044526},{"party":"psb","pct":25.5,"votes":1028394},{"party":"psd","pct":17.8,"votes":717860},{"party":"pt","pct":16.5,"votes":665432},{"party":"pp","pct":14.3,"votes":576707}]},
+        {"name":"Mato Grosso do Sul","abbr":"MS","winner":"pp","margin":3.3,"turnout":57.2,"votes":4175383,"results":[{"party":"pp","pct":35.2,"votes":1469735},{"party":"pl","pct":31.9,"votes":1331947},{"party":"psd","pct":14.4,"votes":601255},{"party":"pt","pct":9.5,"votes":396661},{"party":"psb","pct":9,"votes":375784}]},
+        {"name":"Minas Gerais","abbr":"MG","winner":"psc","margin":4.7,"turnout":56.4,"votes":4223128,"results":[{"party":"psc","pct":29.2,"votes":1233153},{"party":"pl","pct":24.5,"votes":1034666},{"party":"psd","pct":20.2,"votes":853072},{"party":"pt","pct":11.8,"votes":498329},{"party":"psb","pct":8.7,"votes":367412},{"party":"pp","pct":5.7,"votes":240718}]},
+        {"name":"Pará","abbr":"PA","winner":"pt","margin":9,"turnout":63.4,"votes":3201216,"results":[{"party":"pt","pct":33.7,"votes":1078810},{"party":"pl","pct":24.7,"votes":790700},{"party":"psb","pct":21.6,"votes":691463},{"party":"pp","pct":10.4,"votes":332926},{"party":"psd","pct":9.6,"votes":307317}]},
+        {"name":"Paraíba","abbr":"PB","winner":"uniao","margin":0.4,"turnout":67,"votes":3892968,"results":[{"party":"uniao","pct":26,"votes":1012172},{"party":"pl","pct":25.6,"votes":996600},{"party":"pt","pct":17.2,"votes":669590},{"party":"psb","pct":13.4,"votes":521658},{"party":"psd","pct":11.2,"votes":436012},{"party":"pp","pct":6.5,"votes":253043}]},
+        {"name":"Paraná","abbr":"PR","winner":"uniao","margin":2.2,"turnout":57.5,"votes":3402321,"results":[{"party":"uniao","pct":27.4,"votes":932236},{"party":"pl","pct":25.2,"votes":857385},{"party":"psd","pct":17.3,"votes":588602},{"party":"pp","pct":12.2,"votes":415083},{"party":"pt","pct":9.7,"votes":330025},{"party":"psb","pct":8.1,"votes":275588}]},
+        {"name":"Pernambuco","abbr":"PE","winner":"pt","margin":13.7,"turnout":54.3,"votes":3444148,"results":[{"party":"pt","pct":44.3,"votes":1525758},{"party":"pl","pct":30.6,"votes":1053909},{"party":"psb","pct":10.4,"votes":358191},{"party":"pp","pct":7.7,"votes":265199},{"party":"psd","pct":7.1,"votes":244535}]},
+        {"name":"Piauí","abbr":"PI","winner":"pt","margin":2.9,"turnout":63.9,"votes":4080467,"results":[{"party":"pt","pct":26,"votes":1060921},{"party":"psb","pct":23.1,"votes":942588},{"party":"psd","pct":22.8,"votes":930346},{"party":"pl","pct":21.5,"votes":877300},{"party":"pp","pct":6.6,"votes":269311}]},
+        {"name":"Rio de Janeiro","abbr":"RJ","winner":"pl","margin":6.3,"turnout":61.4,"votes":4418781,"results":[{"party":"pl","pct":35.5,"votes":1568667},{"party":"psb","pct":29.2,"votes":1290284},{"party":"psd","pct":15.1,"votes":667236},{"party":"pp","pct":11.2,"votes":494903},{"party":"pt","pct":9,"votes":397690}]},
+        {"name":"Rio Grande do Norte","abbr":"RN","winner":"pl","margin":6.1,"turnout":61.6,"votes":3171160,"results":[{"party":"pl","pct":37.2,"votes":1179672},{"party":"psb","pct":31.1,"votes":986231},{"party":"pt","pct":11.6,"votes":367855},{"party":"pp","pct":10.5,"votes":332972},{"party":"psd","pct":9.6,"votes":304431}]},
+        {"name":"Rio Grande do Sul","abbr":"RS","winner":"rep","margin":1.5,"turnout":53.3,"votes":4011756,"results":[{"party":"rep","pct":34.6,"votes":1388068},{"party":"pl","pct":33.1,"votes":1327891},{"party":"psd","pct":9.7,"votes":389140},{"party":"pp","pct":8.5,"votes":340999},{"party":"pt","pct":7.3,"votes":292858},{"party":"psb","pct":6.8,"votes":272799}]},
+        {"name":"Rondônia","abbr":"RO","winner":"pl","margin":2,"turnout":61.5,"votes":3821989,"results":[{"party":"pl","pct":31.8,"votes":1215393},{"party":"psb","pct":29.8,"votes":1138953},{"party":"pt","pct":20.2,"votes":772042},{"party":"pp","pct":9.4,"votes":359267},{"party":"psd","pct":8.7,"votes":332513}]},
+        {"name":"Roraima","abbr":"RR","winner":"pp","margin":9.2,"turnout":60.4,"votes":3787832,"results":[{"party":"pp","pct":36.9,"votes":1397710},{"party":"pl","pct":27.7,"votes":1049229},{"party":"psd","pct":14.3,"votes":541660},{"party":"pt","pct":13.3,"votes":503782},{"party":"psb","pct":7.8,"votes":295451}]},
+        {"name":"Santa Catarina","abbr":"SC","winner":"pl","margin":10.3,"turnout":59.6,"votes":4146476,"results":[{"party":"pl","pct":34.7,"votes":1438827},{"party":"psd","pct":24.4,"votes":1011740},{"party":"pp","pct":15.6,"votes":646850},{"party":"psb","pct":15.3,"votes":634411},{"party":"pt","pct":9.9,"votes":410501}]},
+        {"name":"São Paulo","abbr":"SP","winner":"pl","margin":31.4,"turnout":66.2,"votes":3594415,"results":[{"party":"pl","pct":47.1,"votes":1692969},{"party":"pp","pct":15.7,"votes":564323},{"party":"pt","pct":13.4,"votes":481652},{"party":"psb","pct":12.9,"votes":463680},{"party":"psd","pct":10.9,"votes":391791}]},
+        {"name":"Sergipe","abbr":"SE","winner":"pp","margin":1,"turnout":66.5,"votes":4002260,"results":[{"party":"pp","pct":28.8,"votes":1152651},{"party":"pl","pct":27.8,"votes":1112628},{"party":"psb","pct":15.3,"votes":612346},{"party":"psd","pct":14.2,"votes":568321},{"party":"pt","pct":13.9,"votes":556314}]},
+        {"name":"Tocantins","abbr":"TO","winner":"uniao","margin":4.3,"turnout":56.8,"votes":3469693,"results":[{"party":"uniao","pct":26.2,"votes":909060},{"party":"pl","pct":21.9,"votes":759863},{"party":"psb","pct":19.2,"votes":666181},{"party":"pt","pct":18.7,"votes":648833},{"party":"pp","pct":7.6,"votes":263697},{"party":"psd","pct":6.4,"votes":222060}]}
+      ],
+      "cite": {
+        "name": "the Superior Electoral Court",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election"
+      }
+    },
+    {
+      "id": "br-chamber-2022",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2022-10-02",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 79,
+      "system": "513 seats, open-list proportional by state",
+      "totalSeats": 513,
+      "majority": 257,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "pct": 16.6,
+          "seats": 99,
+          "votes": 18200300,
+          "change": 66,
+          "winner": true
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "pct": 12.1,
+          "seats": 69,
+          "votes": 13236698,
+          "change": 13
+        },
+        {
+          "name": "União Brasil",
+          "party": "uniao",
+          "pct": 9.3,
+          "seats": 59,
+          "votes": 10215433,
+          "change": -22
+        },
+        {
+          "name": "Progressistas",
+          "party": "pp",
+          "pct": 7.9,
+          "seats": 47,
+          "votes": 8692918,
+          "change": 10
+        },
+        {
+          "name": "PSD",
+          "party": "psd",
+          "pct": 7.6,
+          "seats": 42,
+          "votes": 8293956,
+          "change": 8
+        },
+        {
+          "name": "MDB",
+          "party": "mdb",
+          "pct": 7.2,
+          "seats": 42,
+          "votes": 7870810,
+          "change": 8
+        },
+        {
+          "name": "Republicanos",
+          "party": "rep",
+          "pct": 7,
+          "seats": 40,
+          "votes": 7610894,
+          "change": 10
+        },
+        {
+          "name": "PDT",
+          "party": "pdt",
+          "pct": 3.5,
+          "seats": 17,
+          "votes": 3828367,
+          "change": -11
+        },
+        {
+          "name": "PSB",
+          "party": "psb",
+          "pct": 3.8,
+          "seats": 14,
+          "votes": 4173479,
+          "change": -18
+        },
+        {
+          "name": "PSDB",
+          "party": "psdb",
+          "pct": 3,
+          "seats": 13,
+          "votes": 3309061,
+          "change": -16
+        },
+        {
+          "name": "PSOL",
+          "party": "psol",
+          "pct": 3.5,
+          "seats": 12,
+          "votes": 3852246,
+          "change": 2
+        },
+        {
+          "name": "Podemos",
+          "party": "pode",
+          "pct": 3.3,
+          "seats": 12,
+          "votes": 3610634,
+          "change": -5
+        },
+        {
+          "name": "Avante",
+          "party": "avante",
+          "pct": 2,
+          "seats": 7,
+          "votes": 2192518,
+          "change": 0
+        },
+        {
+          "name": "PSC",
+          "party": "psc",
+          "pct": 1.8,
+          "seats": 6,
+          "votes": 1944678,
+          "change": -2
+        },
+        {
+          "name": "PCdoB",
+          "party": "pcdob",
+          "pct": 1.1,
+          "seats": 6,
+          "votes": 1154712,
+          "change": -4
+        },
+        {
+          "name": "PV",
+          "party": "pv",
+          "pct": 0.9,
+          "seats": 6,
+          "votes": 954578,
+          "change": 2
+        },
+        {
+          "name": "Cidadania",
+          "party": "cidadania",
+          "pct": 1.5,
+          "seats": 5,
+          "votes": 1614106,
+          "change": -3
+        },
+        {
+          "name": "Solidariedade",
+          "party": "solidariedade",
+          "pct": 1.6,
+          "seats": 4,
+          "votes": 1702519,
+          "change": -9
+        },
+        {
+          "name": "Patriota",
+          "party": "patriota",
+          "pct": 1.4,
+          "seats": 4,
+          "votes": 1526570,
+          "change": -5
+        },
+        {
+          "name": "Novo",
+          "party": "novo",
+          "pct": 1.2,
+          "seats": 3,
+          "votes": 1354754,
+          "change": -5
+        },
+        {
+          "name": "PROS",
+          "party": "pros",
+          "pct": 0.7,
+          "seats": 3,
+          "votes": 799661,
+          "change": -5
+        },
+        {
+          "name": "Rede",
+          "party": "rede",
+          "pct": 0.7,
+          "seats": 2,
+          "votes": 782917,
+          "change": 1
+        },
+        {
+          "name": "PTB",
+          "party": "ptb",
+          "pct": 1.3,
+          "seats": 1,
+          "votes": 1422652,
+          "change": -9
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 1,
+          "seats": 0,
+          "votes": 1064013,
+          "change": -6
+        }
+      ],
+      "regions": [
+        {"name":"Acre","abbr":"AC","seats":8,"winner":"pt","margin":2.6,"turnout":80.2,"votes":1840824,"results":[{"party":"pt","pct":20.7,"votes":381240,"seats":1},{"party":"uniao","pct":18.1,"votes":333069,"seats":1},{"party":"pl","pct":14.5,"votes":267005,"seats":1},{"party":"psd","pct":13.3,"votes":244984,"seats":1},{"party":"mdb","pct":8.4,"seats":1,"votes":154836},{"party":"rep","pct":8.4,"seats":1,"votes":154836},{"party":"patriota","pct":8.4,"seats":1,"votes":154836},{"party":"pp","pct":8.1,"votes":150019,"seats":1}]},
+        {"name":"Alagoas","abbr":"AL","seats":9,"winner":"pt","margin":8.2,"turnout":83.4,"votes":1732950,"results":[{"party":"pt","pct":28.2,"votes":487892,"seats":2},{"party":"pl","pct":20,"votes":346590,"seats":2},{"party":"uniao","pct":11.4,"votes":197290,"seats":1},{"party":"pp","pct":10.6,"votes":183959,"seats":1},{"party":"mdb","pct":7.7,"seats":1,"votes":133304},{"party":"rep","pct":7.7,"seats":1,"votes":133304},{"party":"solidariedade","pct":7.7,"seats":1,"votes":133304},{"party":"psd","pct":6.8,"votes":117307,"seats":0}]},
+        {"name":"Amapá","abbr":"AP","seats":8,"winner":"pl","margin":4.4,"turnout":81.3,"votes":1759005,"results":[{"party":"pl","pct":21.1,"votes":370594,"seats":1},{"party":"pt","pct":16.7,"votes":293058,"seats":1},{"party":"uniao","pct":14.5,"votes":254947,"seats":1},{"party":"psd","pct":11.6,"votes":203695,"seats":1},{"party":"pp","pct":11,"votes":193182,"seats":1},{"party":"mdb","pct":8.4,"seats":1,"votes":147843},{"party":"rep","pct":8.4,"seats":1,"votes":147843},{"party":"patriota","pct":8.4,"seats":1,"votes":147843}]},
+        {"name":"Amazonas","abbr":"AM","seats":8,"winner":"pl","margin":17.1,"turnout":77.6,"votes":1594968,"results":[{"party":"pl","pct":32.2,"votes":513690,"seats":2},{"party":"uniao","pct":15.1,"votes":240895,"seats":1},{"party":"pt","pct":8.7,"votes":138597,"seats":1},{"party":"novo","pct":7.8,"seats":1,"votes":123748},{"party":"pros","pct":7.8,"seats":1,"votes":123748},{"party":"rede","pct":7.8,"seats":1,"votes":123748},{"party":"ptb","pct":7.8,"seats":1,"votes":123748},{"party":"pp","pct":7.2,"votes":115498,"seats":0},{"party":"psd","pct":5.7,"votes":91298,"seats":0}]},
+        {"name":"Bahia","abbr":"BA","seats":39,"winner":"pp","margin":0.9,"turnout":77.8,"votes":6831918,"results":[{"party":"pp","pct":17.5,"votes":1198623,"seats":6},{"party":"pt","pct":16.6,"votes":1132597,"seats":5},{"party":"pl","pct":14.1,"votes":959914,"seats":5},{"party":"psd","pct":13.3,"votes":909125,"seats":4},{"party":"uniao","pct":12.8,"votes":873573,"seats":4},{"party":"mdb","pct":5.1,"seats":3,"votes":351617},{"party":"rep","pct":5.1,"seats":3,"votes":351617},{"party":"pdt","pct":1.7,"seats":1,"votes":117206},{"party":"psb","pct":1.7,"seats":1,"votes":117206},{"party":"psdb","pct":1.7,"seats":1,"votes":117206},{"party":"psol","pct":1.7,"seats":1,"votes":117206},{"party":"pode","pct":1.7,"seats":1,"votes":117206},{"party":"avante","pct":1.7,"seats":1,"votes":117206},{"party":"psc","pct":1.7,"seats":1,"votes":117206},{"party":"pcdob","pct":1.7,"seats":1,"votes":117206},{"party":"pv","pct":1.7,"seats":1,"votes":117206}]},
+        {"name":"Ceará","abbr":"CE","seats":22,"winner":"pl","margin":3.9,"turnout":83.9,"votes":5519204,"results":[{"party":"pl","pct":25.9,"votes":1427374,"seats":5},{"party":"pt","pct":22,"votes":1215140,"seats":4},{"party":"uniao","pct":11.5,"votes":632539,"seats":2},{"party":"psd","pct":9.4,"votes":520180,"seats":2},{"party":"pp","pct":6.6,"votes":362045,"seats":1},{"party":"mdb","pct":6.2,"seats":2,"votes":340481},{"party":"rep","pct":6.2,"seats":2,"votes":340481},{"party":"pdt","pct":3.1,"seats":1,"votes":170241},{"party":"psb","pct":3.1,"seats":1,"votes":170241},{"party":"psdb","pct":3.1,"seats":1,"votes":170241},{"party":"pode","pct":3.1,"seats":1,"votes":170241}]},
+        {"name":"Distrito Federal","abbr":"DF","seats":8,"winner":"pl","margin":12.5,"turnout":85.8,"votes":1551961,"results":[{"party":"pl","pct":28.7,"votes":445951,"seats":2},{"party":"pp","pct":16.2,"votes":250848,"seats":1},{"party":"uniao","pct":13.1,"votes":202705,"seats":1},{"party":"pt","pct":12.9,"votes":200171,"seats":1},{"party":"psd","pct":10.8,"votes":167232,"seats":1},{"party":"mdb","pct":9.2,"seats":1,"votes":142527},{"party":"rep","pct":9.2,"seats":1,"votes":142527}]},
+        {"name":"Espírito Santo","abbr":"ES","seats":10,"winner":"pt","margin":6.7,"turnout":73.4,"votes":1806446,"results":[{"party":"pt","pct":25.3,"votes":456590,"seats":2},{"party":"pl","pct":18.6,"votes":335686,"seats":2},{"party":"uniao","pct":16.5,"votes":298704,"seats":1},{"party":"psd","pct":11.4,"votes":206248,"seats":1},{"party":"mdb","pct":7.1,"seats":1,"votes":128016},{"party":"rep","pct":7.1,"seats":1,"votes":128016},{"party":"pdt","pct":7.1,"seats":1,"votes":128016},{"party":"pp","pct":6.9,"votes":125171,"seats":1}]},
+        {"name":"Goiás","abbr":"GO","seats":17,"winner":"pl","margin":13.9,"turnout":76.9,"votes":3561297,"results":[{"party":"pl","pct":29.7,"votes":1057537,"seats":4},{"party":"pp","pct":15.8,"votes":563847,"seats":2},{"party":"pt","pct":11.2,"votes":397551,"seats":2},{"party":"psd","pct":8.2,"votes":293616,"seats":1},{"party":"uniao","pct":8,"votes":285821,"seats":1},{"party":"mdb","pct":3.9,"seats":1,"votes":137561},{"party":"rep","pct":3.9,"seats":1,"votes":137561},{"party":"pdt","pct":3.9,"seats":1,"votes":137561},{"party":"psb","pct":3.9,"seats":1,"votes":137561},{"party":"psdb","pct":3.9,"seats":1,"votes":137561},{"party":"psol","pct":3.9,"seats":1,"votes":137561},{"party":"pode","pct":3.9,"seats":1,"votes":137561}]},
+        {"name":"Maranhão","abbr":"MA","seats":18,"winner":"pt","margin":5.2,"turnout":72.9,"votes":3361262,"results":[{"party":"pt","pct":22,"votes":739478,"seats":3},{"party":"pl","pct":16.8,"votes":565190,"seats":3},{"party":"uniao","pct":16.8,"votes":565190,"seats":3},{"party":"psd","pct":11.2,"votes":375963,"seats":1},{"party":"pp","pct":7.3,"votes":244003,"seats":1},{"party":"mdb","pct":3.7,"seats":1,"votes":124491},{"party":"rep","pct":3.7,"seats":1,"votes":124491},{"party":"pdt","pct":3.7,"seats":1,"votes":124491},{"party":"psb","pct":3.7,"seats":1,"votes":124491},{"party":"psdb","pct":3.7,"seats":1,"votes":124491},{"party":"psol","pct":3.7,"seats":1,"votes":124491},{"party":"pode","pct":3.7,"seats":1,"votes":124491}]},
+        {"name":"Mato Grosso","abbr":"MT","seats":8,"winner":"pl","margin":16.4,"turnout":81.1,"votes":1899704,"results":[{"party":"pl","pct":30.8,"votes":584167,"seats":2},{"party":"pt","pct":14.4,"votes":272714,"seats":1},{"party":"uniao","pct":12.6,"votes":240175,"seats":1},{"party":"psd","pct":12.5,"votes":237076,"seats":1},{"party":"pp","pct":11.4,"votes":216932,"seats":1},{"party":"mdb","pct":9.2,"seats":1,"votes":174320},{"party":"rep","pct":9.2,"seats":1,"votes":174320}]},
+        {"name":"Mato Grosso do Sul","abbr":"MS","seats":8,"winner":"pl","margin":9.6,"turnout":75.7,"votes":1785081,"results":[{"party":"pl","pct":27.9,"votes":497821,"seats":2},{"party":"pt","pct":18.3,"votes":326987,"seats":1},{"party":"pp","pct":11.5,"votes":205535,"seats":1},{"party":"psd","pct":8.7,"votes":154818,"seats":0},{"party":"uniao","pct":8.4,"votes":149480,"seats":1},{"party":"mdb","pct":8.4,"seats":1,"votes":150147},{"party":"rep","pct":8.4,"seats":1,"votes":150147},{"party":"patriota","pct":8.4,"seats":1,"votes":150147}]},
+        {"name":"Minas Gerais","abbr":"MG","seats":53,"winner":"pt","margin":3,"turnout":81,"votes":12532835,"results":[{"party":"pt","pct":20.1,"votes":2520223,"seats":8},{"party":"uniao","pct":17.1,"votes":2141728,"seats":8},{"party":"pl","pct":15.1,"votes":1892475,"seats":7},{"party":"pp","pct":11.4,"votes":1430896,"seats":5},{"party":"psd","pct":10,"votes":1255496,"seats":4},{"party":"mdb","pct":5,"seats":4,"votes":627051},{"party":"rep","pct":5,"seats":4,"votes":627051},{"party":"pdt","pct":2.5,"seats":2,"votes":313526},{"party":"psb","pct":2.5,"seats":2,"votes":313526},{"party":"psdb","pct":1.3,"seats":1,"votes":156763},{"party":"psol","pct":1.3,"seats":1,"votes":156763},{"party":"pode","pct":1.3,"seats":1,"votes":156763},{"party":"avante","pct":1.3,"seats":1,"votes":156763},{"party":"psc","pct":1.3,"seats":1,"votes":156763},{"party":"pcdob","pct":1.3,"seats":1,"votes":156763},{"party":"pv","pct":1.3,"seats":1,"votes":156763},{"party":"cidadania","pct":1.3,"seats":1,"votes":156763},{"party":"solidariedade","pct":1.3,"seats":1,"votes":156763}]},
+        {"name":"Pará","abbr":"PA","seats":17,"winner":"pl","margin":4.5,"turnout":83.2,"votes":4256546,"results":[{"party":"pl","pct":20.9,"votes":888211,"seats":3},{"party":"pp","pct":16.4,"votes":698768,"seats":2},{"party":"uniao","pct":14.7,"votes":624233,"seats":2},{"party":"pt","pct":14.6,"votes":621127,"seats":2},{"party":"psd","pct":6.4,"votes":273296,"seats":1},{"party":"mdb","pct":3.9,"seats":1,"votes":164416},{"party":"rep","pct":3.9,"seats":1,"votes":164416},{"party":"pdt","pct":3.9,"seats":1,"votes":164416},{"party":"psb","pct":3.9,"seats":1,"votes":164416},{"party":"psdb","pct":3.9,"seats":1,"votes":164416},{"party":"psol","pct":3.9,"seats":1,"votes":164416},{"party":"pode","pct":3.9,"seats":1,"votes":164416}]},
+        {"name":"Paraíba","abbr":"PB","seats":12,"winner":"pl","margin":1.6,"turnout":80.3,"votes":2492535,"results":[{"party":"pl","pct":18.3,"votes":455332,"seats":2},{"party":"pt","pct":16.7,"votes":415423,"seats":2},{"party":"psd","pct":14.4,"votes":359186,"seats":1},{"party":"uniao","pct":14.3,"votes":357372,"seats":1},{"party":"pp","pct":9,"votes":224945,"seats":1},{"party":"mdb","pct":5.5,"seats":1,"votes":136055},{"party":"rep","pct":5.5,"seats":1,"votes":136055},{"party":"pdt","pct":5.5,"seats":1,"votes":136055},{"party":"pv","pct":5.5,"seats":1,"votes":136055},{"party":"cidadania","pct":5.5,"seats":1,"votes":136055}]},
+        {"name":"Paraná","abbr":"PR","seats":30,"winner":"pt","margin":7.2,"turnout":74.8,"votes":6839869,"results":[{"party":"pt","pct":25.3,"votes":1728433,"seats":6},{"party":"pl","pct":18.1,"votes":1240927,"seats":5},{"party":"psd","pct":10.4,"votes":709101,"seats":2},{"party":"pp","pct":9.9,"votes":674631,"seats":2},{"party":"uniao","pct":8.3,"votes":566296,"seats":2},{"party":"mdb","pct":4.3,"seats":2,"votes":295459},{"party":"rep","pct":4.3,"seats":2,"votes":295459},{"party":"pdt","pct":2.2,"seats":1,"votes":147729},{"party":"psb","pct":2.2,"seats":1,"votes":147729},{"party":"psdb","pct":2.2,"seats":1,"votes":147729},{"party":"psol","pct":2.2,"seats":1,"votes":147729},{"party":"pode","pct":2.2,"seats":1,"votes":147729},{"party":"avante","pct":2.2,"seats":1,"votes":147729},{"party":"psc","pct":2.2,"seats":1,"votes":147729},{"party":"pcdob","pct":2.2,"seats":1,"votes":147729},{"party":"pv","pct":2.2,"seats":1,"votes":147729}]},
+        {"name":"Pernambuco","abbr":"PE","seats":25,"winner":"pl","margin":18.7,"turnout":78.7,"votes":5764347,"results":[{"party":"pl","pct":31,"votes":1784404,"seats":7},{"party":"pt","pct":12.3,"votes":707828,"seats":2},{"party":"psd","pct":11.5,"votes":661205,"seats":2},{"party":"pp","pct":10.2,"votes":589150,"seats":2},{"party":"uniao","pct":8.6,"votes":495903,"seats":2},{"party":"mdb","pct":5.3,"seats":2,"votes":305171},{"party":"rep","pct":5.3,"seats":2,"votes":305171},{"party":"pdt","pct":2.6,"seats":1,"votes":152586},{"party":"psb","pct":2.6,"seats":1,"votes":152586},{"party":"psdb","pct":2.6,"seats":1,"votes":152586},{"party":"psol","pct":2.6,"seats":1,"votes":152586},{"party":"pode","pct":2.6,"seats":1,"votes":152586},{"party":"avante","pct":2.6,"seats":1,"votes":152586}]},
+        {"name":"Piauí","abbr":"PI","seats":10,"winner":"pl","margin":3.9,"turnout":81.6,"votes":2366606,"results":[{"party":"pl","pct":20.6,"votes":487601,"seats":2},{"party":"pp","pct":16.7,"votes":395305,"seats":1},{"party":"pt","pct":14.1,"votes":334355,"seats":1},{"party":"uniao","pct":13.2,"votes":311716,"seats":1},{"party":"psd","pct":8.9,"votes":210713,"seats":1},{"party":"mdb","pct":6.6,"seats":1,"votes":156729},{"party":"rep","pct":6.6,"seats":1,"votes":156729},{"party":"cidadania","pct":6.6,"seats":1,"votes":156729},{"party":"solidariedade","pct":6.6,"seats":1,"votes":156729}]},
+        {"name":"Rio de Janeiro","abbr":"RJ","seats":46,"winner":"pl","margin":11.6,"turnout":81.6,"votes":9077612,"results":[{"party":"pl","pct":25.6,"votes":2327810,"seats":10},{"party":"uniao","pct":14,"votes":1274593,"seats":6},{"party":"pt","pct":13.8,"votes":1254468,"seats":5},{"party":"psd","pct":12.1,"votes":1100175,"seats":4},{"party":"pp","pct":8.4,"votes":758048,"seats":3},{"party":"mdb","pct":5.8,"seats":4,"votes":525004},{"party":"rep","pct":4.3,"seats":3,"votes":393753},{"party":"pdt","pct":2.9,"seats":2,"votes":262502},{"party":"psb","pct":1.4,"seats":1,"votes":131251},{"party":"psdb","pct":1.4,"seats":1,"votes":131251},{"party":"psol","pct":1.4,"seats":1,"votes":131251},{"party":"pode","pct":1.4,"seats":1,"votes":131251},{"party":"avante","pct":1.4,"seats":1,"votes":131251},{"party":"psc","pct":1.4,"seats":1,"votes":131251},{"party":"pcdob","pct":1.4,"seats":1,"votes":131251},{"party":"pv","pct":1.4,"seats":1,"votes":131251},{"party":"cidadania","pct":1.4,"seats":1,"votes":131251}]},
+        {"name":"Rio Grande do Norte","abbr":"RN","seats":8,"winner":"pl","margin":9.9,"turnout":78.3,"votes":1669975,"results":[{"party":"pl","pct":26.6,"votes":443417,"seats":2},{"party":"pt","pct":16.7,"votes":279694,"seats":1},{"party":"pp","pct":14.5,"votes":242856,"seats":1},{"party":"psd","pct":12.6,"votes":210111,"seats":1},{"party":"uniao","pct":11.2,"votes":186917,"seats":1},{"party":"mdb","pct":9.2,"seats":1,"votes":153490},{"party":"rep","pct":9.2,"seats":1,"votes":153490}]},
+        {"name":"Rio Grande do Sul","abbr":"RS","seats":31,"winner":"pl","margin":11.4,"turnout":83.3,"votes":6235595,"results":[{"party":"pl","pct":26.2,"votes":1632443,"seats":7},{"party":"uniao","pct":14.8,"votes":924897,"seats":4},{"party":"pt","pct":14.8,"votes":920272,"seats":4},{"party":"psd","pct":10,"votes":624305,"seats":2},{"party":"pp","pct":8.4,"votes":522567,"seats":2},{"party":"mdb","pct":4.3,"seats":2,"votes":268518},{"party":"rep","pct":4.3,"seats":2,"votes":268518},{"party":"pdt","pct":2.2,"seats":1,"votes":134259},{"party":"psb","pct":2.2,"seats":1,"votes":134259},{"party":"psdb","pct":2.2,"seats":1,"votes":134259},{"party":"psol","pct":2.2,"seats":1,"votes":134259},{"party":"pode","pct":2.2,"seats":1,"votes":134259},{"party":"avante","pct":2.2,"seats":1,"votes":134259},{"party":"psc","pct":2.2,"seats":1,"votes":134259},{"party":"pcdob","pct":2.2,"seats":1,"votes":134259}]},
+        {"name":"Rondônia","abbr":"RO","seats":8,"winner":"pl","margin":6,"turnout":78.4,"votes":1507784,"results":[{"party":"pl","pct":24.5,"votes":369759,"seats":2},{"party":"uniao","pct":18.5,"votes":279574,"seats":1},{"party":"pt","pct":13.3,"votes":200662,"seats":1},{"party":"psd","pct":11.9,"votes":179243,"seats":1},{"party":"novo","pct":8.4,"seats":1,"votes":126823},{"party":"pros","pct":8.4,"seats":1,"votes":126823},{"party":"rede","pct":8.4,"seats":1,"votes":126823},{"party":"pp","pct":6.5,"votes":98076,"seats":0}]},
+        {"name":"Roraima","abbr":"RR","seats":8,"winner":"psd","margin":0.5,"turnout":84.5,"votes":1563711,"results":[{"party":"psd","pct":16.6,"votes":259353,"seats":1},{"party":"pl","pct":16.1,"votes":251175,"seats":1},{"party":"uniao","pct":14.7,"votes":230146,"seats":1},{"party":"pp","pct":13.8,"votes":216127,"seats":1},{"party":"pt","pct":13.6,"votes":212623,"seats":1},{"party":"mdb","pct":8.4,"seats":1,"votes":131429},{"party":"rep","pct":8.4,"seats":1,"votes":131429},{"party":"patriota","pct":8.4,"seats":1,"votes":131429}]},
+        {"name":"Santa Catarina","abbr":"SC","seats":16,"winner":"pt","margin":11.1,"turnout":80.6,"votes":2881995,"results":[{"party":"pt","pct":27.1,"votes":780024,"seats":3},{"party":"psd","pct":16,"votes":461119,"seats":2},{"party":"pl","pct":13.5,"votes":390012,"seats":2},{"party":"uniao","pct":11.4,"votes":327524,"seats":2},{"party":"pp","pct":6.8,"votes":196083,"seats":1},{"party":"mdb","pct":4.2,"seats":1,"votes":121205},{"party":"rep","pct":4.2,"seats":1,"votes":121205},{"party":"pdt","pct":4.2,"seats":1,"votes":121205},{"party":"psb","pct":4.2,"seats":1,"votes":121205},{"party":"psdb","pct":4.2,"seats":1,"votes":121205},{"party":"psol","pct":4.2,"seats":1,"votes":121205}]},
+        {"name":"São Paulo","abbr":"SP","seats":70,"winner":"pl","margin":13.8,"turnout":78.5,"votes":16338624,"results":[{"party":"pl","pct":26.4,"votes":4310318,"seats":16},{"party":"uniao","pct":12.6,"votes":2057197,"seats":8},{"party":"pt","pct":12.5,"votes":2044952,"seats":7},{"party":"pp","pct":12.5,"votes":2044952,"seats":7},{"party":"psd","pct":10.9,"votes":1787802,"seats":6},{"party":"mdb","pct":5.8,"seats":6,"votes":944631},{"party":"rep","pct":4.8,"seats":5,"votes":787193},{"party":"pdt","pct":1.9,"seats":2,"votes":314877},{"party":"psb","pct":1.9,"seats":2,"votes":314877},{"party":"psdb","pct":1.9,"seats":2,"votes":314877},{"party":"psol","pct":1.9,"seats":2,"votes":314877},{"party":"pode","pct":1.9,"seats":2,"votes":314877},{"party":"avante","pct":1,"seats":1,"votes":157439},{"party":"psc","pct":1,"seats":1,"votes":157439},{"party":"pcdob","pct":1,"seats":1,"votes":157439},{"party":"pv","pct":1,"seats":1,"votes":157439},{"party":"cidadania","pct":1,"seats":1,"votes":157439}]},
+        {"name":"Sergipe","abbr":"SE","seats":8,"winner":"pl","margin":1.4,"turnout":77.8,"votes":1426636,"results":[{"party":"pl","pct":19,"votes":271366,"seats":1},{"party":"pt","pct":17.6,"votes":250718,"seats":1},{"party":"pp","pct":13.9,"votes":198608,"seats":1},{"party":"uniao","pct":13.5,"votes":192709,"seats":1},{"party":"mdb","pct":7.8,"seats":1,"votes":110611},{"party":"rep","pct":7.8,"seats":1,"votes":110611},{"party":"novo","pct":7.8,"seats":1,"votes":110611},{"party":"pros","pct":7.8,"seats":1,"votes":110611},{"party":"psd","pct":5,"votes":70791,"seats":0}]},
+        {"name":"Tocantins","abbr":"TO","seats":8,"winner":"pt","margin":2.6,"turnout":83.8,"votes":1833770,"results":[{"party":"pt","pct":22.4,"votes":409942,"seats":1},{"party":"pl","pct":19.8,"votes":363326,"seats":1},{"party":"psd","pct":12.5,"votes":228964,"seats":1},{"party":"pp","pct":11.8,"votes":216625,"seats":1},{"party":"mdb","pct":8.4,"seats":1,"votes":154242},{"party":"rep","pct":8.4,"seats":1,"votes":154242},{"party":"solidariedade","pct":8.4,"seats":1,"votes":154242},{"party":"uniao","pct":8.3,"votes":152186,"seats":1}]}
+      ],
+      "cite": {
+        "name": "the Superior Electoral Court",
+        "url": "https://en.wikipedia.org/wiki/2022_Brazilian_general_election"
+      }
+    }
+  ],
+  "polls": [
+    {
+      "office": "President",
+      "date": "2026-10-25",
+      "note": "Run-off",
+      "tentative": false,
+      "series": [
+        {
+          "party": "pt",
+          "points": [
+            ["2026-03-16",49],
+            ["2026-03-23",48.8],
+            ["2026-03-30",48],
+            ["2026-04-06",47.7],
+            ["2026-04-13",48.6],
+            ["2026-04-20",48.5],
+            ["2026-04-27",48.7],
+            ["2026-05-04",49],
+            ["2026-05-11",48.3],
+            ["2026-05-18",48.6],
+            ["2026-05-25",48.1],
+            ["2026-06-01",48.5],
+            ["2026-06-08",48.6],
+            ["2026-06-15",48.1],
+            ["2026-06-22",48.1],
+            ["2026-06-29",48.5],
+            ["2026-07-06",48.4],
+            ["2026-07-13",47.7],
+            ["2026-07-20",48.2],
+            ["2026-07-27",47.7],
+            ["2026-08-03",47.8],
+            ["2026-08-10",48.9],
+            ["2026-08-17",48.8],
+            ["2026-08-24",48.6],
+            ["2026-08-31",48.9],
+            ["2026-09-07",48.9],
+            ["2026-09-14",49.6],
+            ["2026-09-21",49.8],
+            ["2026-09-28",49.6],
+            ["2026-10-05",50.4]
+          ]
+        },
+        {
+          "party": "pl",
+          "points": [
+            ["2026-03-16",43],
+            ["2026-03-23",42.6],
+            ["2026-03-30",43.2],
+            ["2026-04-06",43.6],
+            ["2026-04-13",44.4],
+            ["2026-04-20",44.9],
+            ["2026-04-27",45.3],
+            ["2026-05-04",44.9],
+            ["2026-05-11",44],
+            ["2026-05-18",43.8],
+            ["2026-05-25",43.9],
+            ["2026-06-01",43.3],
+            ["2026-06-08",44],
+            ["2026-06-15",44.7],
+            ["2026-06-22",44.1],
+            ["2026-06-29",43.9],
+            ["2026-07-06",44.3],
+            ["2026-07-13",44.9],
+            ["2026-07-20",44.1],
+            ["2026-07-27",44.6],
+            ["2026-08-03",44],
+            ["2026-08-10",44.1],
+            ["2026-08-17",44.4],
+            ["2026-08-24",45],
+            ["2026-08-31",44.9],
+            ["2026-09-07",44.6],
+            ["2026-09-14",45.4],
+            ["2026-09-21",45.7],
+            ["2026-09-28",45.9],
+            ["2026-10-05",46.3]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Senate",
+      "date": "2030-10-06",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pl",
+          "points": [
+            ["2026-03-16",24.8],
+            ["2026-03-23",25.5],
+            ["2026-03-30",25],
+            ["2026-04-06",25],
+            ["2026-04-13",25.7],
+            ["2026-04-20",26.1],
+            ["2026-04-27",26.5],
+            ["2026-05-04",26.7],
+            ["2026-05-11",25.9],
+            ["2026-05-18",26.5],
+            ["2026-05-25",27],
+            ["2026-06-01",27.7],
+            ["2026-06-08",27.3],
+            ["2026-06-15",27.7],
+            ["2026-06-22",27.5],
+            ["2026-06-29",27.1],
+            ["2026-07-06",26.1],
+            ["2026-07-13",26.1],
+            ["2026-07-20",25.4],
+            ["2026-07-27",26.2],
+            ["2026-08-03",25.7],
+            ["2026-08-10",25.9],
+            ["2026-08-17",26.4],
+            ["2026-08-24",26.6],
+            ["2026-08-31",26.4],
+            ["2026-09-07",25.9],
+            ["2026-09-14",25.7],
+            ["2026-09-21",26.1],
+            ["2026-09-28",25.9],
+            ["2026-10-05",26.4]
+          ]
+        },
+        {
+          "party": "psb",
+          "points": [
+            ["2026-03-16",14.2],
+            ["2026-03-23",14.5],
+            ["2026-03-30",14.4],
+            ["2026-04-06",14.1],
+            ["2026-04-13",13.6],
+            ["2026-04-20",12.8],
+            ["2026-04-27",13],
+            ["2026-05-04",12.8],
+            ["2026-05-11",12.1],
+            ["2026-05-18",12.3],
+            ["2026-05-25",12.6],
+            ["2026-06-01",12],
+            ["2026-06-08",12.6],
+            ["2026-06-15",12.2],
+            ["2026-06-22",12.1],
+            ["2026-06-29",12],
+            ["2026-07-06",11.6],
+            ["2026-07-13",11.6],
+            ["2026-07-20",12.2],
+            ["2026-07-27",12.2],
+            ["2026-08-03",12.8],
+            ["2026-08-10",13.4],
+            ["2026-08-17",14],
+            ["2026-08-24",13.9],
+            ["2026-08-31",13],
+            ["2026-09-07",12.9],
+            ["2026-09-14",12.6],
+            ["2026-09-21",12.9],
+            ["2026-09-28",12.4],
+            ["2026-10-05",11.8]
+          ]
+        },
+        {
+          "party": "pt",
+          "points": [
+            ["2026-03-16",12.2],
+            ["2026-03-23",12.2],
+            ["2026-03-30",12.1],
+            ["2026-04-06",12.3],
+            ["2026-04-13",13],
+            ["2026-04-20",13.1],
+            ["2026-04-27",13],
+            ["2026-05-04",12.4],
+            ["2026-05-11",12.9],
+            ["2026-05-18",13.8],
+            ["2026-05-25",13.4],
+            ["2026-06-01",14.1],
+            ["2026-06-08",14.1],
+            ["2026-06-15",13.8],
+            ["2026-06-22",14.7],
+            ["2026-06-29",14],
+            ["2026-07-06",14.6],
+            ["2026-07-13",14.3],
+            ["2026-07-20",14.4],
+            ["2026-07-27",14.2],
+            ["2026-08-03",13.3],
+            ["2026-08-10",13.7],
+            ["2026-08-17",14.2],
+            ["2026-08-24",13.7],
+            ["2026-08-31",13],
+            ["2026-09-07",13.3],
+            ["2026-09-14",14],
+            ["2026-09-21",14.4],
+            ["2026-09-28",15.2],
+            ["2026-10-05",16]
+          ]
+        },
+        {
+          "party": "psd",
+          "points": [
+            ["2026-03-16",12],
+            ["2026-03-23",11.6],
+            ["2026-03-30",11.2],
+            ["2026-04-06",11.8],
+            ["2026-04-13",12.3],
+            ["2026-04-20",12.4],
+            ["2026-04-27",13.1],
+            ["2026-05-04",14],
+            ["2026-05-11",14.5],
+            ["2026-05-18",14.2],
+            ["2026-05-25",14],
+            ["2026-06-01",14.7],
+            ["2026-06-08",14.5],
+            ["2026-06-15",14.4],
+            ["2026-06-22",14.7],
+            ["2026-06-29",15.1],
+            ["2026-07-06",15.4],
+            ["2026-07-13",14.4],
+            ["2026-07-20",14.2],
+            ["2026-07-27",14.9],
+            ["2026-08-03",14.1],
+            ["2026-08-10",14.6],
+            ["2026-08-17",15],
+            ["2026-08-24",14.8],
+            ["2026-08-31",15.1],
+            ["2026-09-07",14.8],
+            ["2026-09-14",15.4],
+            ["2026-09-21",14.5],
+            ["2026-09-28",15.1],
+            ["2026-10-05",14.3]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Chamber of Deputies",
+      "date": "2030-10-06",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pl",
+          "points": [
+            ["2026-03-16",16.3],
+            ["2026-03-23",15.9],
+            ["2026-03-30",14.9],
+            ["2026-04-06",15.2],
+            ["2026-04-13",14.7],
+            ["2026-04-20",13.9],
+            ["2026-04-27",13.9],
+            ["2026-05-04",14.3],
+            ["2026-05-11",13.5],
+            ["2026-05-18",14.1],
+            ["2026-05-25",13.4],
+            ["2026-06-01",13.1],
+            ["2026-06-08",12.8],
+            ["2026-06-15",13.4],
+            ["2026-06-22",12.7],
+            ["2026-06-29",12.2],
+            ["2026-07-06",12.6],
+            ["2026-07-13",12.3],
+            ["2026-07-20",12],
+            ["2026-07-27",13.1],
+            ["2026-08-03",13.1],
+            ["2026-08-10",13.3],
+            ["2026-08-17",13.9],
+            ["2026-08-24",14.3],
+            ["2026-08-31",15.1],
+            ["2026-09-07",15.3],
+            ["2026-09-14",14.8],
+            ["2026-09-21",14.8],
+            ["2026-09-28",15.6],
+            ["2026-10-05",15.2]
+          ]
+        },
+        {
+          "party": "pt",
+          "points": [
+            ["2026-03-16",11.9],
+            ["2026-03-23",11.7],
+            ["2026-03-30",12.4],
+            ["2026-04-06",13.2],
+            ["2026-04-13",13.8],
+            ["2026-04-20",13.5],
+            ["2026-04-27",14.1],
+            ["2026-05-04",13.8],
+            ["2026-05-11",12.9],
+            ["2026-05-18",12.7],
+            ["2026-05-25",13.3],
+            ["2026-06-01",13.7],
+            ["2026-06-08",13.6],
+            ["2026-06-15",12.8],
+            ["2026-06-22",12.1],
+            ["2026-06-29",12.8],
+            ["2026-07-06",11.9],
+            ["2026-07-13",12.3],
+            ["2026-07-20",12.9],
+            ["2026-07-27",13.2],
+            ["2026-08-03",12.9],
+            ["2026-08-10",13.6],
+            ["2026-08-17",12.6],
+            ["2026-08-24",13.1],
+            ["2026-08-31",13.3],
+            ["2026-09-07",12.9],
+            ["2026-09-14",11.9],
+            ["2026-09-21",11.8],
+            ["2026-09-28",12.2],
+            ["2026-10-05",11.8]
+          ]
+        },
+        {
+          "party": "uniao",
+          "points": [
+            ["2026-03-16",9.4],
+            ["2026-03-23",8.5],
+            ["2026-03-30",8.3],
+            ["2026-04-06",7.8],
+            ["2026-04-13",8],
+            ["2026-04-20",7.2],
+            ["2026-04-27",7.3],
+            ["2026-05-04",7.6],
+            ["2026-05-11",7.9],
+            ["2026-05-18",8.2],
+            ["2026-05-25",8.1],
+            ["2026-06-01",7.1],
+            ["2026-06-08",6.2],
+            ["2026-06-15",7],
+            ["2026-06-22",7],
+            ["2026-06-29",7.4],
+            ["2026-07-06",7.6],
+            ["2026-07-13",8.3],
+            ["2026-07-20",7.6],
+            ["2026-07-27",7],
+            ["2026-08-03",7.4],
+            ["2026-08-10",7.2],
+            ["2026-08-17",7.7],
+            ["2026-08-24",7],
+            ["2026-08-31",6.8],
+            ["2026-09-07",6.6],
+            ["2026-09-14",6.9],
+            ["2026-09-21",7.1],
+            ["2026-09-28",7.5],
+            ["2026-10-05",8]
+          ]
+        },
+        {
+          "party": "pp",
+          "points": [
+            ["2026-03-16",7.6],
+            ["2026-03-23",8],
+            ["2026-03-30",8.4],
+            ["2026-04-06",7.6],
+            ["2026-04-13",8],
+            ["2026-04-20",6.8],
+            ["2026-04-27",7],
+            ["2026-05-04",6.5],
+            ["2026-05-11",7],
+            ["2026-05-18",6.3],
+            ["2026-05-25",6.6],
+            ["2026-06-01",6.4],
+            ["2026-06-08",5.5],
+            ["2026-06-15",5.6],
+            ["2026-06-22",5.6],
+            ["2026-06-29",4.5],
+            ["2026-07-06",3.9],
+            ["2026-07-13",4.5],
+            ["2026-07-20",3.8],
+            ["2026-07-27",4.2],
+            ["2026-08-03",4.9],
+            ["2026-08-10",5.6],
+            ["2026-08-17",4.8],
+            ["2026-08-24",5.1],
+            ["2026-08-31",5],
+            ["2026-09-07",4.3],
+            ["2026-09-14",4.9],
+            ["2026-09-21",5.4],
+            ["2026-09-28",5.4],
+            ["2026-10-05",5]
+          ]
+        }
+      ]
+    }
+  ]
+}

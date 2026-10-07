@@ -1,0 +1,543 @@
+{
+  "code": "KR",
+  "name": "South Korea",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "National Assembly (300)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 44400000,
+    "offices": {
+      "President": "Elected for a single five-year term by plurality in one round.",
+      "National Assembly": "254 single-member districts and 46 proportional seats, elected every four years."
+    }
+  },
+  "parties": {
+    "dp": {
+      "name": "Democratic Party",
+      "color": "#152484"
+    },
+    "ppp": {
+      "name": "People Power Party",
+      "color": "#E61E2B"
+    },
+    "rkp": {
+      "name": "Rebuilding Korea Party",
+      "color": "#3FA9F5"
+    },
+    "reform": {
+      "name": "Reform Party",
+      "color": "#FF7210"
+    },
+    "prog": {
+      "name": "Progressive Party",
+      "color": "#7D3C98"
+    },
+    "bip": {
+      "name": "Basic Income Party",
+      "color": "#B8860B"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "nfp": {
+      "name": "New Future Party",
+      "color": "#45BABD"
+    },
+    "lup": {
+      "name": "Liberal Unification Party",
+      "color": "#080B9E"
+    },
+    "jp": {
+      "name": "Justice Party",
+      "color": "#FFCC00"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "kr-president-2025",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2025-06-03",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 79.38,
+      "cite": {
+        "name": "the National Election Commission",
+        "url": "https://en.wikipedia.org/wiki/2025_South_Korean_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_South_Korean_presidential_election",
+      "system": "Single-round popular vote, five-year term",
+      "candidates": [
+        {
+          "name": "Lee Jae Myung",
+          "party": "dp",
+          "pct": 49.42,
+          "seats": null,
+          "votes": 17287513,
+          "winner": true
+        },
+        {
+          "name": "Kim Moon-soo",
+          "party": "ppp",
+          "pct": 41.15,
+          "seats": null,
+          "votes": 14395639
+        },
+        {
+          "name": "Lee Jun-seok",
+          "party": "reform",
+          "pct": 8.34,
+          "seats": null,
+          "votes": 2917523
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 1.09,
+          "seats": null,
+          "votes": 379941
+        }
+      ],
+      "regions": [
+        {"name":"Busan","abbr":"26","winner":"ppp","margin":6.3,"turnout":75.7,"votes":1732670,"results":[{"party":"ppp","pct":49.4,"votes":855939},{"party":"dp","pct":43.1,"votes":746781},{"party":"reform","pct":6.6,"votes":114356},{"party":"oth","pct":0.8,"votes":13861}]},
+        {"name":"Daegu","abbr":"27","winner":"ppp","margin":23.8,"turnout":74.5,"votes":1656909,"results":[{"party":"ppp","pct":58.1,"votes":962664},{"party":"dp","pct":34.3,"votes":568320},{"party":"reform","pct":6.8,"votes":112670},{"party":"oth","pct":0.8,"votes":13255}]},
+        {"name":"Daejeon","abbr":"30","winner":"dp","margin":42.3,"turnout":79.3,"votes":1988962,"results":[{"party":"dp","pct":67.9,"votes":1350505},{"party":"ppp","pct":25.6,"votes":509174},{"party":"reform","pct":5,"votes":99448},{"party":"oth","pct":1.5,"votes":29834}]},
+        {"name":"Gangwon","abbr":"42","winner":"ppp","margin":21.9,"turnout":82.3,"votes":2295076,"results":[{"party":"ppp","pct":58.8,"votes":1349505},{"party":"dp","pct":36.9,"votes":846883},{"party":"reform","pct":3.6,"votes":82623},{"party":"oth","pct":0.8,"votes":18361}]},
+        {"name":"Gwangju","abbr":"29","winner":"dp","margin":35.2,"turnout":82.5,"votes":1981145,"results":[{"party":"dp","pct":63.7,"votes":1261989},{"party":"ppp","pct":28.5,"votes":564626},{"party":"reform","pct":7.2,"votes":142642},{"party":"oth","pct":0.6,"votes":11887}]},
+        {"name":"Gyeonggi","abbr":"41","winner":"dp","margin":10,"turnout":80.2,"votes":1672578,"results":[{"party":"dp","pct":50.7,"votes":847997},{"party":"ppp","pct":40.7,"votes":680739},{"party":"reform","pct":7.8,"votes":130461},{"party":"oth","pct":0.8,"votes":13381}]},
+        {"name":"Incheon","abbr":"28","winner":"dp","margin":9.7,"turnout":72.8,"votes":1983440,"results":[{"party":"dp","pct":52.6,"votes":1043289},{"party":"ppp","pct":42.9,"votes":850896},{"party":"reform","pct":3.8,"votes":75371},{"party":"oth","pct":0.7,"votes":13884}]},
+        {"name":"Jeju","abbr":"49","winner":"dp","margin":7.9,"turnout":82.3,"votes":2058050,"results":[{"party":"dp","pct":47.9,"votes":985806},{"party":"ppp","pct":40,"votes":823220},{"party":"reform","pct":10.9,"votes":224327},{"party":"oth","pct":1.1,"votes":22639}]},
+        {"name":"North Chungcheong","abbr":"43","winner":"dp","margin":13.8,"turnout":77,"votes":1789530,"results":[{"party":"dp","pct":52.6,"votes":941293},{"party":"ppp","pct":38.8,"votes":694338},{"party":"reform","pct":8.1,"votes":144952},{"party":"oth","pct":0.5,"votes":8948}]},
+        {"name":"North Gyeongsang","abbr":"47","winner":"ppp","margin":3,"turnout":76.2,"votes":2027376,"results":[{"party":"ppp","pct":48.1,"votes":975168},{"party":"dp","pct":45.1,"votes":914347},{"party":"reform","pct":6.2,"votes":125697},{"party":"oth","pct":0.6,"votes":12164}]},
+        {"name":"North Jeolla","abbr":"45","winner":"dp","margin":1.9,"turnout":82.1,"votes":2313701,"results":[{"party":"dp","pct":46.2,"votes":1068930},{"party":"ppp","pct":44.3,"votes":1024970},{"party":"reform","pct":7.9,"votes":182782},{"party":"oth","pct":1.6,"votes":37019}]},
+        {"name":"Sejong","abbr":"50","winner":"dp","margin":4.7,"turnout":80.5,"votes":1830350,"results":[{"party":"dp","pct":49.6,"votes":907854},{"party":"ppp","pct":44.9,"votes":821827},{"party":"reform","pct":4.2,"votes":76875},{"party":"oth","pct":1.4,"votes":25625}]},
+        {"name":"Seoul","abbr":"11","winner":"dp","margin":1.3,"turnout":85.6,"votes":1906453,"results":[{"party":"dp","pct":48.2,"votes":918910},{"party":"ppp","pct":46.9,"votes":894126},{"party":"reform","pct":4.2,"votes":80071},{"party":"oth","pct":0.7,"votes":13345}]},
+        {"name":"South Chungcheong","abbr":"44","winner":"dp","margin":15.1,"turnout":72.4,"votes":1783831,"results":[{"party":"dp","pct":53,"votes":945430},{"party":"ppp","pct":37.9,"votes":676072},{"party":"reform","pct":8.1,"votes":144490},{"party":"oth","pct":1,"votes":17838}]},
+        {"name":"South Gyeongsang","abbr":"48","winner":"ppp","margin":5.2,"turnout":84.4,"votes":1717610,"results":[{"party":"ppp","pct":50.1,"votes":860523},{"party":"dp","pct":44.9,"votes":771207},{"party":"reform","pct":3.8,"votes":65269},{"party":"oth","pct":1.3,"votes":22329}]},
+        {"name":"South Jeolla","abbr":"46","winner":"dp","margin":2.3,"turnout":82.9,"votes":1986144,"results":[{"party":"dp","pct":47.9,"votes":951363},{"party":"ppp","pct":45.6,"votes":905682},{"party":"reform","pct":6,"votes":119169},{"party":"oth","pct":0.5,"votes":9931}]},
+        {"name":"Ulsan","abbr":"31","winner":"ppp","margin":0.4,"turnout":79.1,"votes":1807091,"results":[{"party":"ppp","pct":46.7,"votes":843911},{"party":"dp","pct":46.3,"votes":836683},{"party":"reform","pct":6.6,"votes":119268},{"party":"oth","pct":0.4,"votes":7228}]}
+      ]
+    },
+    {
+      "id": "kr-assembly-2024",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2024-04-10",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 66.97,
+      "cite": {
+        "name": "the National Election Commission, KBS and Daum",
+        "url": "https://en.wikipedia.org/wiki/2024_South_Korean_legislative_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2024_South_Korean_legislative_election",
+      "system": "300 seats: 254 districts and 46 proportional",
+      "totalSeats": 300,
+      "majority": 151,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Democratic Party / Democratic Alliance",
+          "party": "dp",
+          "pct": 26.7,
+          "seats": 169,
+          "votes": 7567459,
+          "winner": true
+        },
+        {
+          "name": "People Power Party / People Future Party",
+          "party": "ppp",
+          "pct": 36.67,
+          "seats": 108,
+          "votes": 10395264
+        },
+        {
+          "name": "Rebuilding Korea Party",
+          "party": "rkp",
+          "pct": 24.25,
+          "seats": 12,
+          "votes": 6874278
+        },
+        {
+          "name": "Reform Party",
+          "party": "reform",
+          "pct": 3.62,
+          "seats": 3,
+          "votes": 1025775
+        },
+        {
+          "name": "Progressive Party",
+          "party": "prog",
+          "pct": null,
+          "seats": 3
+        },
+        {
+          "name": "New Progressive Alliance",
+          "party": "bip",
+          "pct": null,
+          "seats": 2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "pct": null,
+          "seats": 2
+        },
+        {
+          "name": "New Future Party",
+          "party": "nfp",
+          "pct": 1.71,
+          "seats": 1,
+          "votes": 483827
+        },
+        {
+          "name": "Liberal Unification Party",
+          "party": "lup",
+          "pct": 2.27,
+          "seats": 0,
+          "votes": 642433
+        },
+        {
+          "name": "Green–Justice Party",
+          "party": "jp",
+          "pct": 2.15,
+          "seats": 0,
+          "votes": 609313
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 2.63,
+          "seats": 0,
+          "votes": 746170
+        }
+      ],
+      "regions": [
+        {"name":"Busan","abbr":"26","winner":"ppp","margin":17,"turnout":65.7,"votes":1378428,"results":[{"party":"ppp","pct":48.1,"votes":663024},{"party":"dp","pct":31.1,"votes":428691},{"party":"rkp","pct":15.7,"votes":216413},{"party":"reform","pct":2.7,"votes":37218},{"party":"oth","pct":2.4,"votes":33082}]},
+        {"name":"Daegu","abbr":"27","winner":"ppp","margin":21.7,"turnout":70.5,"votes":1671681,"results":[{"party":"ppp","pct":48.8,"votes":815780},{"party":"dp","pct":27.1,"votes":453026},{"party":"rkp","pct":16.3,"votes":272484},{"party":"oth","pct":4,"votes":66867},{"party":"reform","pct":3.9,"votes":65196}]},
+        {"name":"Daejeon","abbr":"30","winner":"dp","margin":13.4,"turnout":65.4,"votes":1618519,"results":[{"party":"dp","pct":44.7,"votes":723478},{"party":"ppp","pct":31.3,"votes":506596},{"party":"rkp","pct":18.7,"votes":302663},{"party":"reform","pct":3.6,"votes":58267},{"party":"oth","pct":1.7,"votes":27515}]},
+        {"name":"Gangwon","abbr":"42","winner":"ppp","margin":4.7,"turnout":68.6,"votes":1971017,"results":[{"party":"ppp","pct":36.6,"votes":721392},{"party":"dp","pct":31.9,"votes":628754},{"party":"rkp","pct":27.1,"votes":534146},{"party":"reform","pct":2.7,"votes":53217},{"party":"oth","pct":1.7,"votes":33507}]},
+        {"name":"Gwangju","abbr":"29","winner":"dp","margin":1.8,"turnout":71.6,"votes":1392017,"results":[{"party":"dp","pct":40.8,"votes":567943},{"party":"ppp","pct":39,"votes":542887},{"party":"rkp","pct":15.5,"votes":215763},{"party":"oth","pct":2.4,"votes":33408},{"party":"reform","pct":2.3,"votes":32016}]},
+        {"name":"Gyeonggi","abbr":"41","winner":"dp","margin":2.9,"turnout":64.6,"votes":1542073,"results":[{"party":"dp","pct":36.3,"votes":559772},{"party":"ppp","pct":33.4,"votes":515052},{"party":"rkp","pct":23.6,"votes":363929},{"party":"reform","pct":3.8,"votes":58599},{"party":"oth","pct":3,"votes":46262}]},
+        {"name":"Incheon","abbr":"28","winner":"dp","margin":2.2,"turnout":68.2,"votes":1898178,"results":[{"party":"dp","pct":34.2,"votes":649177},{"party":"ppp","pct":32,"votes":607417},{"party":"rkp","pct":22,"votes":417599},{"party":"reform","pct":7.6,"votes":144262},{"party":"oth","pct":4.1,"votes":77825}]},
+        {"name":"Jeju","abbr":"49","winner":"dp","margin":8.8,"turnout":68,"votes":1402646,"results":[{"party":"dp","pct":42.5,"votes":596125},{"party":"ppp","pct":33.7,"votes":472692},{"party":"rkp","pct":15.1,"votes":211800},{"party":"reform","pct":5.1,"votes":71535},{"party":"oth","pct":3.6,"votes":50495}]},
+        {"name":"North Chungcheong","abbr":"43","winner":"dp","margin":3.4,"turnout":67,"votes":1686237,"results":[{"party":"dp","pct":39.1,"votes":659319},{"party":"ppp","pct":35.7,"votes":601987},{"party":"rkp","pct":19,"votes":320385},{"party":"reform","pct":3.8,"votes":64077},{"party":"oth","pct":2.4,"votes":40470}]},
+        {"name":"North Gyeongsang","abbr":"47","winner":"ppp","margin":27.7,"turnout":67.4,"votes":1409357,"results":[{"party":"ppp","pct":52.3,"votes":737094},{"party":"rkp","pct":24.6,"votes":346702},{"party":"dp","pct":16.1,"votes":226906},{"party":"reform","pct":4.5,"votes":63421},{"party":"oth","pct":2.4,"votes":33825}]},
+        {"name":"North Jeolla","abbr":"45","winner":"dp","margin":7.9,"turnout":71.4,"votes":1640327,"results":[{"party":"dp","pct":35.6,"votes":583956},{"party":"rkp","pct":27.7,"votes":454371},{"party":"ppp","pct":25.5,"votes":418283},{"party":"reform","pct":6.6,"votes":108262},{"party":"oth","pct":4.7,"votes":77095}]},
+        {"name":"Sejong","abbr":"50","winner":"nfp","margin":3.7,"turnout":68.7,"votes":1403472,"results":[{"party":"nfp","pct":35.1,"votes":492619},{"party":"ppp","pct":31.4,"votes":440690},{"party":"dp","pct":15.7,"votes":220345},{"party":"rkp","pct":12.9,"votes":181048},{"party":"oth","pct":2.7,"votes":37894},{"party":"reform","pct":2.3,"votes":32280}]},
+        {"name":"Seoul","abbr":"11","winner":"dp","margin":5.9,"turnout":67.5,"votes":1354964,"results":[{"party":"dp","pct":35.6,"votes":482367},{"party":"rkp","pct":29.7,"votes":402424},{"party":"ppp","pct":28.6,"votes":387520},{"party":"reform","pct":3.1,"votes":42004},{"party":"oth","pct":3.1,"votes":42004}]},
+        {"name":"South Chungcheong","abbr":"44","winner":"dp","margin":21.8,"turnout":68.1,"votes":1825376,"results":[{"party":"dp","pct":53.3,"votes":972925},{"party":"ppp","pct":31.5,"votes":574993},{"party":"rkp","pct":11.2,"votes":204442},{"party":"reform","pct":3.1,"votes":56587},{"party":"oth","pct":0.9,"votes":16428}]},
+        {"name":"South Gyeongsang","abbr":"48","winner":"ppp","margin":4.1,"turnout":65.8,"votes":1662985,"results":[{"party":"ppp","pct":35.9,"votes":597012},{"party":"dp","pct":31.8,"votes":528829},{"party":"rkp","pct":28.6,"votes":475614},{"party":"oth","pct":2,"votes":33260},{"party":"reform","pct":1.7,"votes":28271}]},
+        {"name":"South Jeolla","abbr":"46","winner":"dp","margin":6.1,"turnout":73.5,"votes":1430506,"results":[{"party":"dp","pct":35.1,"votes":502108},{"party":"ppp","pct":29,"votes":414847},{"party":"rkp","pct":28.6,"votes":409125},{"party":"reform","pct":4.5,"votes":64373},{"party":"oth","pct":2.7,"votes":38624}]},
+        {"name":"Ulsan","abbr":"31","winner":"ppp","margin":6.5,"turnout":66.9,"votes":1902918,"results":[{"party":"ppp","pct":36.7,"votes":698371},{"party":"rkp","pct":30.2,"votes":574681},{"party":"dp","pct":27.3,"votes":519497},{"party":"reform","pct":2.9,"votes":55185},{"party":"oth","pct":2.8,"votes":53282}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "National Assembly",
+      "date": "2028-04-12",
+      "note": null,
+      "tentative": false,
+      "series": [
+        {
+          "party": "ppp",
+          "points": [
+            ["2026-03-16",37.1],
+            ["2026-03-23",36.1],
+            ["2026-03-30",35.3],
+            ["2026-04-06",35.5],
+            ["2026-04-13",35.5],
+            ["2026-04-20",35],
+            ["2026-04-27",35.8],
+            ["2026-05-04",35.7],
+            ["2026-05-11",34.9],
+            ["2026-05-18",34.9],
+            ["2026-05-25",34.9],
+            ["2026-06-01",34.4],
+            ["2026-06-08",33.6],
+            ["2026-06-15",34.5],
+            ["2026-06-22",35.1],
+            ["2026-06-29",34.3],
+            ["2026-07-06",35.3],
+            ["2026-07-13",35.6],
+            ["2026-07-20",35.8],
+            ["2026-07-27",35],
+            ["2026-08-03",34.5],
+            ["2026-08-10",34],
+            ["2026-08-17",33.4],
+            ["2026-08-24",33.4],
+            ["2026-08-31",33],
+            ["2026-09-07",33.8],
+            ["2026-09-14",33.7],
+            ["2026-09-21",34.3],
+            ["2026-09-28",33.9],
+            ["2026-10-05",34.9]
+          ]
+        },
+        {
+          "party": "dp",
+          "points": [
+            ["2026-03-16",27.1],
+            ["2026-03-23",27.3],
+            ["2026-03-30",26.8],
+            ["2026-04-06",26.5],
+            ["2026-04-13",26.6],
+            ["2026-04-20",26.7],
+            ["2026-04-27",27.3],
+            ["2026-05-04",26.6],
+            ["2026-05-11",26.5],
+            ["2026-05-18",26.3],
+            ["2026-05-25",25.4],
+            ["2026-06-01",24.8],
+            ["2026-06-08",25.4],
+            ["2026-06-15",26.2],
+            ["2026-06-22",26],
+            ["2026-06-29",26],
+            ["2026-07-06",26.3],
+            ["2026-07-13",26.6],
+            ["2026-07-20",26.4],
+            ["2026-07-27",26.1],
+            ["2026-08-03",25.6],
+            ["2026-08-10",25.4],
+            ["2026-08-17",24.8],
+            ["2026-08-24",25.6],
+            ["2026-08-31",25.8],
+            ["2026-09-07",25.4],
+            ["2026-09-14",26.2],
+            ["2026-09-21",26.8],
+            ["2026-09-28",27.2],
+            ["2026-10-05",26.7]
+          ]
+        },
+        {
+          "party": "rkp",
+          "points": [
+            ["2026-03-16",23.6],
+            ["2026-03-23",23],
+            ["2026-03-30",22.6],
+            ["2026-04-06",22.1],
+            ["2026-04-13",22.3],
+            ["2026-04-20",22.3],
+            ["2026-04-27",21.9],
+            ["2026-05-04",22.6],
+            ["2026-05-11",23.1],
+            ["2026-05-18",23.8],
+            ["2026-05-25",24.2],
+            ["2026-06-01",25.2],
+            ["2026-06-08",25.3],
+            ["2026-06-15",26],
+            ["2026-06-22",25.2],
+            ["2026-06-29",24.5],
+            ["2026-07-06",24.5],
+            ["2026-07-13",25],
+            ["2026-07-20",25.2],
+            ["2026-07-27",24.6],
+            ["2026-08-03",24.7],
+            ["2026-08-10",25.1],
+            ["2026-08-17",25.8],
+            ["2026-08-24",26],
+            ["2026-08-31",25.8],
+            ["2026-09-07",25],
+            ["2026-09-14",25],
+            ["2026-09-21",24.5],
+            ["2026-09-28",25.5],
+            ["2026-10-05",24.7]
+          ]
+        },
+        {
+          "party": "reform",
+          "points": [
+            ["2026-03-16",4.8],
+            ["2026-03-23",4.5],
+            ["2026-03-30",4.7],
+            ["2026-04-06",4],
+            ["2026-04-13",3.6],
+            ["2026-04-20",3.3],
+            ["2026-04-27",3.6],
+            ["2026-05-04",4.1],
+            ["2026-05-11",4.3],
+            ["2026-05-18",4],
+            ["2026-05-25",5],
+            ["2026-06-01",5.3],
+            ["2026-06-08",5],
+            ["2026-06-15",4.6],
+            ["2026-06-22",4.9],
+            ["2026-06-29",4.6],
+            ["2026-07-06",5.6],
+            ["2026-07-13",6.3],
+            ["2026-07-20",5.7],
+            ["2026-07-27",6.3],
+            ["2026-08-03",5.6],
+            ["2026-08-10",4.9],
+            ["2026-08-17",5],
+            ["2026-08-24",5.4],
+            ["2026-08-31",5.9],
+            ["2026-09-07",6.7],
+            ["2026-09-14",7.2],
+            ["2026-09-21",6.2],
+            ["2026-09-28",6.3],
+            ["2026-10-05",6.8]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "President",
+      "date": "2030-06-03",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "dp",
+          "points": [
+            ["2026-03-16",50.7],
+            ["2026-03-23",51.2],
+            ["2026-03-30",51.8],
+            ["2026-04-06",52.1],
+            ["2026-04-13",53.1],
+            ["2026-04-20",53.8],
+            ["2026-04-27",53.2],
+            ["2026-05-04",53.8],
+            ["2026-05-11",53.2],
+            ["2026-05-18",52.8],
+            ["2026-05-25",53.2],
+            ["2026-06-01",52.3],
+            ["2026-06-08",53],
+            ["2026-06-15",53.1],
+            ["2026-06-22",52.9],
+            ["2026-06-29",53.5],
+            ["2026-07-06",53.4],
+            ["2026-07-13",53.8],
+            ["2026-07-20",53.8],
+            ["2026-07-27",54],
+            ["2026-08-03",53.2],
+            ["2026-08-10",52.3],
+            ["2026-08-17",52.7],
+            ["2026-08-24",53.1],
+            ["2026-08-31",53.2],
+            ["2026-09-07",53.3],
+            ["2026-09-14",53.4],
+            ["2026-09-21",53.7],
+            ["2026-09-28",53.5],
+            ["2026-10-05",53.7]
+          ]
+        },
+        {
+          "party": "ppp",
+          "points": [
+            ["2026-03-16",41.1],
+            ["2026-03-23",41.9],
+            ["2026-03-30",41.7],
+            ["2026-04-06",42.5],
+            ["2026-04-13",43.4],
+            ["2026-04-20",44.3],
+            ["2026-04-27",43.3],
+            ["2026-05-04",43.1],
+            ["2026-05-11",42.9],
+            ["2026-05-18",42.5],
+            ["2026-05-25",43],
+            ["2026-06-01",43.3],
+            ["2026-06-08",42.9],
+            ["2026-06-15",43.6],
+            ["2026-06-22",44.2],
+            ["2026-06-29",43.6],
+            ["2026-07-06",43],
+            ["2026-07-13",42.5],
+            ["2026-07-20",42.7],
+            ["2026-07-27",43.2],
+            ["2026-08-03",42.5],
+            ["2026-08-10",42],
+            ["2026-08-17",41.4],
+            ["2026-08-24",41.1],
+            ["2026-08-31",41.4],
+            ["2026-09-07",40.8],
+            ["2026-09-14",41.3],
+            ["2026-09-21",42.4],
+            ["2026-09-28",41.7],
+            ["2026-10-05",41.6]
+          ]
+        },
+        {
+          "party": "reform",
+          "points": [
+            ["2026-03-16",8.5],
+            ["2026-03-23",8],
+            ["2026-03-30",7.9],
+            ["2026-04-06",8.2],
+            ["2026-04-13",9.1],
+            ["2026-04-20",9.3],
+            ["2026-04-27",9],
+            ["2026-05-04",10.1],
+            ["2026-05-11",10.1],
+            ["2026-05-18",10.1],
+            ["2026-05-25",10],
+            ["2026-06-01",10.7],
+            ["2026-06-08",10.2],
+            ["2026-06-15",10.5],
+            ["2026-06-22",9.8],
+            ["2026-06-29",10.3],
+            ["2026-07-06",11.2],
+            ["2026-07-13",11.1],
+            ["2026-07-20",11.6],
+            ["2026-07-27",11.8],
+            ["2026-08-03",10.9],
+            ["2026-08-10",11.9],
+            ["2026-08-17",11.1],
+            ["2026-08-24",10.9],
+            ["2026-08-31",11.4],
+            ["2026-09-07",11.9],
+            ["2026-09-14",11.3],
+            ["2026-09-21",11.6],
+            ["2026-09-28",10.8],
+            ["2026-10-05",11.2]
+          ]
+        },
+        {
+          "party": "oth",
+          "points": [
+            ["2026-03-16",0.5],
+            ["2026-03-23",1],
+            ["2026-03-30",0.7],
+            ["2026-04-06",0.6],
+            ["2026-04-13",1],
+            ["2026-04-20",1.5],
+            ["2026-04-27",2.5],
+            ["2026-05-04",2.9],
+            ["2026-05-11",3.3],
+            ["2026-05-18",3.5],
+            ["2026-05-25",3.3],
+            ["2026-06-01",3.7],
+            ["2026-06-08",3.5],
+            ["2026-06-15",4],
+            ["2026-06-22",3.8],
+            ["2026-06-29",3.9],
+            ["2026-07-06",3.9],
+            ["2026-07-13",4],
+            ["2026-07-20",4.7],
+            ["2026-07-27",3.9],
+            ["2026-08-03",3.6],
+            ["2026-08-10",3.2],
+            ["2026-08-17",3.9],
+            ["2026-08-24",4.5],
+            ["2026-08-31",4.4],
+            ["2026-09-07",3.8],
+            ["2026-09-14",3.1],
+            ["2026-09-21",4],
+            ["2026-09-28",3.3],
+            ["2026-10-05",3.7]
+          ]
+        }
+      ]
+    }
+  ]
+}

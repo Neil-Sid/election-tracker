@@ -1,0 +1,3741 @@
+{
+  "code": "PL",
+  "parties": {
+    "pzpr": {
+      "name": "Polish United Workers' Party",
+      "color": "#E3401B",
+      "article": "Polish United Workers' Party"
+    },
+    "zsl": {
+      "name": "United People's Party",
+      "color": "#05764E",
+      "article": "United People's Party (Poland)"
+    },
+    "sd": {
+      "name": "Democratic Party",
+      "color": "#475196",
+      "article": "Alliance of Democrats (Poland)"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC",
+      "article": "Independent politician"
+    },
+    "pax": {
+      "name": "PAX Association",
+      "color": "#223D2E",
+      "article": "PAX Association"
+    },
+    "uchs": {
+      "name": "Christian-Social Union",
+      "color": "#00FFFF"
+    },
+    "pzks": {
+      "name": "Polish Catholic-Social Association",
+      "color": "#1465A4"
+    },
+    "solid": {
+      "name": "Solidarity",
+      "color": "#F56914",
+      "article": "Solidarity Citizens' Committee"
+    },
+    "pron": {
+      "name": "Patriotic Movement for National Rebirth",
+      "color": "#E3401B"
+    },
+    "ud": {
+      "name": "Democratic Union",
+      "color": "#DB812E",
+      "article": "Democratic Union (Poland)"
+    },
+    "sld": {
+      "name": "Democratic Left Alliance",
+      "color": "#E2001A",
+      "article": "Democratic Left Alliance (Poland)"
+    },
+    "wak": {
+      "name": "Catholic Electoral Action",
+      "color": "#295989",
+      "article": "Catholic Electoral Action"
+    },
+    "poc": {
+      "name": "Centre Civic Alliance",
+      "color": "#FFD054",
+      "article": "Centre Civic Alliance"
+    },
+    "psl": {
+      "name": "Polish People's Party",
+      "color": "#1BB100",
+      "article": "Polish People's Party"
+    },
+    "kpn": {
+      "name": "Confederation of Independent Poland",
+      "color": "#333300",
+      "article": "Confederation of Independent Poland"
+    },
+    "kld": {
+      "name": "Liberal Democratic Congress",
+      "color": "#007FB2",
+      "article": "Liberal Democratic Congress"
+    },
+    "plud": {
+      "name": "Peasants' Agreement",
+      "color": "#7DAD0B",
+      "article": "Peasants' Agreement"
+    },
+    "pppp": {
+      "name": "Polish Beer-Lovers' Party",
+      "color": "#FAB43A",
+      "article": "Polish Beer-Lovers' Party"
+    },
+    "chd": {
+      "name": "Christian Democracy",
+      "color": "#5C3FB5",
+      "article": "Christian Democracy (Poland)"
+    },
+    "upr": {
+      "name": "Real Politics Union",
+      "color": "#151A3A",
+      "article": "Real Politics Union"
+    },
+    "sp": {
+      "name": "Labour Solidarity",
+      "color": "#D33F49",
+      "article": "Labour Solidarity"
+    },
+    "mn": {
+      "name": "German Minority",
+      "color": "#5F9EA0",
+      "article": "German Minority Electoral Committee"
+    },
+    "pchd": {
+      "name": "Party of Christian Democrats",
+      "color": "#869EDE",
+      "article": "Party of Christian Democrats"
+    },
+    "partiax": {
+      "name": "Party X",
+      "color": "#05435C",
+      "article": "Party X"
+    },
+    "rds": {
+      "name": "Democratic-Social Movement",
+      "color": "#FAAA49",
+      "article": "Democratic-Social Movement (Poland)"
+    },
+    "ras": {
+      "name": "Silesian Autonomy Movement",
+      "color": "#144172",
+      "article": "Silesian Autonomy Movement"
+    },
+    "lpwpiast": {
+      "name": "Ludowe Porozumienie Wyborcze \"Piast\"",
+      "color": "#008000"
+    },
+    "szp": {
+      "name": "Solidarni z Prezydentem",
+      "color": "#7FB3D5"
+    },
+    "zpodh": {
+      "name": "Związek Podhalan",
+      "color": "#44C9EB"
+    },
+    "pzz": {
+      "name": "Polish Western Union",
+      "color": "#480B0C"
+    },
+    "wus": {
+      "name": "Social Democratic Union of Greater Poland",
+      "color": "#C70455"
+    },
+    "jl": {
+      "name": "Jedności Ludowej",
+      "color": "#33A61E"
+    },
+    "prawosl": {
+      "name": "Orthodox Electoral Committee",
+      "color": "#CBA854"
+    },
+    "s80": {
+      "name": "Solidarność 80",
+      "color": "#AD3A2B"
+    },
+    "uwlkp": {
+      "name": "Unia Wielkopolan",
+      "color": "#56A651"
+    },
+    "zkpz": {
+      "name": "Alliance of Women Against the Hardships of Life",
+      "color": "#913CC3"
+    },
+    "up": {
+      "name": "Labour Union",
+      "color": "#C71585",
+      "article": "Labour Union (Poland)"
+    },
+    "kkwo": {
+      "name": "Catholic Electoral Committee \"Fatherland\"",
+      "color": "#324DA6"
+    },
+    "bbwr": {
+      "name": "Nonpartisan Bloc for Support of Reforms",
+      "color": "#B8860B",
+      "article": "Nonpartisan Bloc for Support of Reforms"
+    },
+    "pc": {
+      "name": "Centre Agreement – Polish Union",
+      "color": "#20B2AA",
+      "article": "Centre Agreement – Polish Union"
+    },
+    "sro": {
+      "name": "Self-Defence of the Republic of Poland",
+      "color": "#FFCD1A",
+      "article": "Self-Defence of the Republic of Poland"
+    },
+    "kdr": {
+      "name": "Coalition for the Republic",
+      "color": "#BD0934",
+      "article": "Coalition for the Republic"
+    },
+    "polun": {
+      "name": "Polish Union",
+      "color": "#3C3F55"
+    },
+    "zchn": {
+      "name": "Christian National Union",
+      "color": "#06A7EE",
+      "article": "Christian National Union"
+    },
+    "rs": {
+      "name": "Rural Solidarity",
+      "color": "#009640"
+    },
+    "kiksrk": {
+      "name": "KIK–SRK",
+      "color": "#FFE000"
+    },
+    "aws": {
+      "name": "Solidarity Electoral Action",
+      "color": "#4B0082",
+      "article": "Solidarity Electoral Action"
+    },
+    "uw": {
+      "name": "Freedom Union",
+      "color": "#2666AE",
+      "article": "Freedom Union (Poland)"
+    },
+    "rop": {
+      "name": "Movement for Reconstruction of Poland",
+      "color": "#DB1736",
+      "article": "Movement for Reconstruction of Poland"
+    },
+    "kpeir": {
+      "name": "National Party of Retirees and Pensioners",
+      "color": "#7B68EE",
+      "article": "National Party of Retirees and Pensioners"
+    },
+    "kpeirrp": {
+      "name": "National Alliance of Retirees and Pensioners",
+      "color": "#F0D002"
+    },
+    "bdp": {
+      "name": "National Christian Bloc for Poland",
+      "color": "#000000"
+    },
+    "sldup": {
+      "name": "Democratic Left Alliance – Labour Union",
+      "color": "#CA2021",
+      "article": "Democratic Left Alliance – Labour Union"
+    },
+    "po": {
+      "name": "Civic Platform",
+      "color": "#F68F2D",
+      "article": "Civic Platform"
+    },
+    "lpr": {
+      "name": "League of Polish Families",
+      "color": "#2DA0D2",
+      "article": "League of Polish Families"
+    },
+    "s2001": {
+      "name": "Senate 2001",
+      "color": "#1356A3",
+      "article": "Senate 2001"
+    },
+    "ars": {
+      "name": "Alternative Social Movement",
+      "color": "#E61701",
+      "article": "Alternative Social Movement"
+    },
+    "kwwlk": {
+      "name": "Supporters of Lech Kaczyński",
+      "color": "#073A76"
+    },
+    "stoklosa": {
+      "name": "Henryk Stokłosa committee",
+      "color": "#3F6684"
+    },
+    "sdpl": {
+      "name": "Social Democracy of Poland",
+      "color": "#D6312D",
+      "article": "Social Democracy of Poland"
+    },
+    "pd": {
+      "name": "Democratic Party – demokraci.pl",
+      "color": "#FF9900",
+      "article": "Democratic Party – demokraci.pl"
+    },
+    "rpat": {
+      "name": "Patriotic Movement",
+      "color": "#8B5A2B"
+    },
+    "centrum": {
+      "name": "Centre",
+      "color": "#0D81D9",
+      "article": "Centre Party (Poland)"
+    },
+    "lid": {
+      "name": "Left and Democrats",
+      "color": "#FF4500",
+      "article": "Left and Democrats"
+    },
+    "rp": {
+      "name": "Your Movement",
+      "color": "#8E44AD",
+      "article": "Your Movement"
+    },
+    "pjn": {
+      "name": "Poland Comes First",
+      "color": "#8C0046",
+      "article": "Poland Comes First"
+    },
+    "knp": {
+      "name": "Congress of the New Right",
+      "color": "#263238",
+      "article": "Congress of the New Right"
+    },
+    "obs": {
+      "name": "Citizens to the Senate",
+      "color": "#F9DA05"
+    },
+    "rdut": {
+      "name": "Rafał Dutkiewicz Electoral Committee",
+      "color": "#D46008"
+    },
+    "ags": {
+      "name": "Autonomy for Upper Silesia",
+      "color": "#4A7A2C"
+    },
+    "kukiz": {
+      "name": "Kukiz'15",
+      "color": "#000000",
+      "article": "Kukiz'15"
+    },
+    "nowoczesna": {
+      "name": "Modern",
+      "color": "#005CA9",
+      "article": "Modern (political party)"
+    },
+    "zl": {
+      "name": "United Left",
+      "color": "#EC1C24",
+      "article": "United Left (Poland)"
+    },
+    "korwin": {
+      "name": "KORWiN",
+      "color": "#E8B909",
+      "article": "KORWiN (Poland)"
+    },
+    "kp": {
+      "name": "Polish Coalition",
+      "color": "#1BB100",
+      "article": "Polish Coalition"
+    },
+    "bs": {
+      "name": "Nonpartisan Local Government Activists",
+      "color": "#8B008B",
+      "article": "Nonpartisan Local Government Activists"
+    },
+    "road": {
+      "name": "Solidarity (ROAD and FPD factions)",
+      "color": "#667191"
+    },
+    "tyminski": {
+      "name": "Independent",
+      "color": "#7F7F7F"
+    },
+    "sdrp": {
+      "name": "Social Democracy of the Republic of Poland",
+      "color": "#CC2229",
+      "article": "Social Democracy of the Republic of Poland"
+    },
+    "walesa": {
+      "name": "Independent",
+      "color": "#9467BD"
+    },
+    "rdr": {
+      "name": "Movement for the Republic",
+      "color": "#D47034",
+      "article": "Movement for the Republic"
+    },
+    "hgw": {
+      "name": "Independent",
+      "color": "#FF69B4"
+    },
+    "pietrzak": {
+      "name": "Independent",
+      "color": "#8B6F47"
+    },
+    "skl": {
+      "name": "Conservative People's Party",
+      "color": "#4B61D1",
+      "article": "Conservative People's Party (Poland)"
+    },
+    "chdirp": {
+      "name": "Christian Democracy of the Third Polish Republic",
+      "color": "#800000",
+      "article": "Christian Democracy of the Third Polish Republic"
+    },
+    "wip": {
+      "name": "Liberty and Lawfulness",
+      "color": "#5A5A5A"
+    },
+    "prawica": {
+      "name": "Right Wing of the Republic",
+      "color": "#BE282D",
+      "article": "Right Wing of the Republic"
+    },
+    "pkukiz": {
+      "name": "Independent",
+      "color": "#000000"
+    },
+    "holownia": {
+      "name": "Independent",
+      "color": "#FAC300"
+    }
+  },
+  "elections": [
+    {
+      "id": "pl-sejm-1952",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1952-10-26",
+      "note": "Single list, not competitive",
+      "totalSeats": 425,
+      "turnout": 95.03,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1952_Polish_parliamentary_election",
+        "revid": 1332376870
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 273,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 90,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 25,
+          "change": null
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 15,459,849 votes (99.8% of valid votes; 31,321 blank ballots). Votes are not split by party, so only seats are shown. First Sejm of the Polish People's Republic; no seat changes."
+    },
+    {
+      "id": "pl-sejm-1957",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1957-01-20",
+      "note": "Single list, not competitive",
+      "totalSeats": 459,
+      "turnout": 94.14,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1957_Polish_parliamentary_election",
+        "revid": 1333483616
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 239,
+          "change": -34,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 118,
+          "change": 28
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 63,
+          "change": 26
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": 14
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 16,563,314 votes (98.4% of valid votes; 270,002 blank ballots). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1961",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1961-04-16",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 94.83,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1961_Polish_parliamentary_election",
+        "revid": 1336086552
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 256,
+          "change": 17,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 117,
+          "change": -1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 48,
+          "change": -15
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": 0
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 17,342,570 votes (98.34% of valid votes; 292,009 blank ballots). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1965",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1965-05-30",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 96.62,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1965_Polish_parliamentary_election",
+        "revid": 1275355560
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 255,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 117,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 49,
+          "change": 1
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": 0
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 18,742,152 votes (98.81% of valid votes; 226,324 blank ballots). Votes are not split by party, so only seats are shown. Date from the article text (30 May 1965); the infobox says 30 June."
+    },
+    {
+      "id": "pl-sejm-1969",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1969-06-01",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 97.61,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1969_Polish_parliamentary_election",
+        "revid": 1378245792
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 255,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 117,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 49,
+          "change": 0
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": 0
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 20,473,114 votes (99.22% of valid votes; 161,569 blank ballots). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1972",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1972-03-19",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 97.94,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1972_Polish_parliamentary_election",
+        "revid": 1378245787
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 255,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 117,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 49,
+          "change": 0
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": 0
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 21,746,242 votes (99.53% of valid votes; 103,155 blank ballots). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1976",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1976-03-21",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 98.27,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1976_Polish_parliamentary_election",
+        "revid": 1378245785
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 261,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 113,
+          "change": -4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 49,
+          "change": 0
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 37,
+          "change": -2
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 23,502,983 votes (99.43% of valid votes; 134,350 blank ballots). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1980",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1980-03-23",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 98.87,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1980_Polish_parliamentary_election",
+        "revid": 1378245783
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 261,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 113,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 49,
+          "change": 0
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 37,
+          "change": 0
+        }
+      ],
+      "notes": "All seats went to the Front of National Unity list, which received 24,683,056 votes (99.52% of valid votes; 119,556 blank ballots). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1985",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1985-10-13",
+      "note": "Single list, not competitive",
+      "totalSeats": 460,
+      "turnout": 78.86,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1985_Polish_parliamentary_election",
+        "revid": 1378245782
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 245,
+          "change": -16,
+          "winner": true
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 106,
+          "change": -7
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 74,
+          "change": 25
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 35,
+          "change": -2
+        }
+      ],
+      "notes": "All seats went to the Patriotic Movement for National Rebirth list, which received 20,489,086 votes (all valid votes). Votes are not split by party, so only seats are shown."
+    },
+    {
+      "id": "pl-sejm-1989",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1989-06-04",
+      "note": "Partly free: 65% of seats reserved for the ruling coalition",
+      "totalSeats": 460,
+      "turnout": 62.7,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "revid": 1375086493
+      },
+      "candidates": [
+        {
+          "name": "Polish United Workers' Party",
+          "party": "pzpr",
+          "votes": null,
+          "pct": null,
+          "seats": 173,
+          "change": -72,
+          "winner": true
+        },
+        {
+          "name": "Solidarity Citizens' Committee",
+          "party": "solid",
+          "votes": null,
+          "pct": null,
+          "seats": 161,
+          "change": null
+        },
+        {
+          "name": "United People's Party",
+          "party": "zsl",
+          "votes": null,
+          "pct": null,
+          "seats": 76,
+          "change": -30
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": null,
+          "pct": null,
+          "seats": 27,
+          "change": -8
+        },
+        {
+          "name": "PAX Association",
+          "party": "pax",
+          "votes": null,
+          "pct": null,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Christian-Social Union",
+          "party": "uchs",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Polish Catholic-Social Association",
+          "party": "pzks",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Patriotic Movement for National Rebirth independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": -74
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "65% of seats (299) were reserved for the PZPR and its allies and the other 161 were contested freely; Solidarity's Citizens' Committee won all 161. Votes are not shown: the article gives them in separate tables for reserved seats (multi-member constituencies and a national list, where voters could back several candidates) and contested seats, so they cannot be added up. Turnout is the first round's; the second round was on 18 June 1989. The article tags this table's source as failed verification (March 2026)."
+    },
+    {
+      "id": "pl-sejm-1991",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1991-10-27",
+      "totalSeats": 460,
+      "turnout": 43.2,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/1991_Polish_parliamentary_election",
+        "revid": 1371514540
+      },
+      "candidates": [
+        {
+          "name": "Democratic Union",
+          "party": "ud",
+          "votes": 1382051,
+          "pct": 12.32,
+          "seats": 62,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 1344820,
+          "pct": 11.99,
+          "seats": 60,
+          "change": null
+        },
+        {
+          "name": "Catholic Electoral Action",
+          "party": "wak",
+          "votes": 980304,
+          "pct": 8.74,
+          "seats": 49,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 972952,
+          "pct": 8.67,
+          "seats": 48,
+          "change": null
+        },
+        {
+          "name": "Confederation of Independent Poland",
+          "party": "kpn",
+          "votes": 841738,
+          "pct": 7.5,
+          "seats": 46,
+          "change": null
+        },
+        {
+          "name": "Centre Civic Alliance",
+          "party": "poc",
+          "votes": 977344,
+          "pct": 8.71,
+          "seats": 44,
+          "change": null
+        },
+        {
+          "name": "Liberal Democratic Congress",
+          "party": "kld",
+          "votes": 839978,
+          "pct": 7.49,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "Peasants' Agreement",
+          "party": "plud",
+          "votes": 613626,
+          "pct": 5.47,
+          "seats": 28,
+          "change": null
+        },
+        {
+          "name": "Solidarity",
+          "party": "solid",
+          "votes": 566553,
+          "pct": 5.05,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "Polish Beer-Lovers' Party",
+          "party": "pppp",
+          "votes": 367106,
+          "pct": 3.27,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "German Minority Electoral Committee",
+          "party": "mn",
+          "votes": 132059,
+          "pct": 1.18,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Christian Democracy",
+          "party": "chd",
+          "votes": 265179,
+          "pct": 2.36,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Labour Solidarity",
+          "party": "sp",
+          "votes": 230975,
+          "pct": 2.06,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Party of Christian Democrats",
+          "party": "pchd",
+          "votes": 125314,
+          "pct": 1.12,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Polish Western Union",
+          "party": "pzz",
+          "votes": 26053,
+          "pct": 0.23,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 253024,
+          "pct": 2.26,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Party X",
+          "party": "partiax",
+          "votes": 52735,
+          "pct": 0.47,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Silesian Autonomy Movement",
+          "party": "ras",
+          "votes": 40061,
+          "pct": 0.36,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": 159017,
+          "pct": 1.42,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic-Social Movement",
+          "party": "rds",
+          "votes": 51656,
+          "pct": 0.46,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Ludowe Porozumienie Wyborcze \"Piast\"",
+          "party": "lpwpiast",
+          "votes": 42031,
+          "pct": 0.37,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Solidarni z Prezydentem",
+          "party": "szp",
+          "votes": 27586,
+          "pct": 0.25,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Związek Podhalan",
+          "party": "zpodh",
+          "votes": 26744,
+          "pct": 0.24,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Union of Greater Poland",
+          "party": "wus",
+          "votes": 23188,
+          "pct": 0.21,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Jedności Ludowej",
+          "party": "jl",
+          "votes": 18902,
+          "pct": 0.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Orthodox Electoral Committee",
+          "party": "prawosl",
+          "votes": 13788,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "\"Solidarność 80\"",
+          "party": "s80",
+          "votes": 12769,
+          "pct": 0.11,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Unia Wielkopolan",
+          "party": "uwlkp",
+          "votes": 9019,
+          "pct": 0.08,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Alliance of Women Against the Hardships of Life",
+          "party": "zkpz",
+          "votes": 1922,
+          "pct": 0.02,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 820108,
+          "pct": 7.31,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-sejm-1993",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1993-09-19",
+      "totalSeats": 460,
+      "turnout": 52.13,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/1993_Polish_parliamentary_election",
+        "revid": 1370551319
+      },
+      "candidates": [
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 2815169,
+          "pct": 20.41,
+          "seats": 171,
+          "change": 111,
+          "winner": true
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 2124367,
+          "pct": 15.4,
+          "seats": 132,
+          "change": 84
+        },
+        {
+          "name": "Democratic Union",
+          "party": "ud",
+          "votes": 1460957,
+          "pct": 10.59,
+          "seats": 74,
+          "change": 12
+        },
+        {
+          "name": "Labour Union",
+          "party": "up",
+          "votes": 1005004,
+          "pct": 7.28,
+          "seats": 41,
+          "change": 36
+        },
+        {
+          "name": "Confederation of Independent Poland",
+          "party": "kpn",
+          "votes": 795487,
+          "pct": 5.77,
+          "seats": 22,
+          "change": -24
+        },
+        {
+          "name": "Nonpartisan Bloc for Support of Reforms",
+          "party": "bbwr",
+          "votes": 746653,
+          "pct": 5.41,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "German Minority",
+          "party": "mn",
+          "votes": 110454,
+          "pct": 0.8,
+          "seats": 4,
+          "change": -3
+        },
+        {
+          "name": "Catholic Electoral Committee \"Fatherland\"",
+          "party": "kkwo",
+          "votes": 878445,
+          "pct": 6.37,
+          "seats": 0,
+          "change": -65
+        },
+        {
+          "name": "Solidarity",
+          "party": "solid",
+          "votes": 676334,
+          "pct": 4.9,
+          "seats": 0,
+          "change": -27
+        },
+        {
+          "name": "Centre Agreement – Polish Union",
+          "party": "pc",
+          "votes": 609973,
+          "pct": 4.42,
+          "seats": 0,
+          "change": -44
+        },
+        {
+          "name": "Liberal Democratic Congress",
+          "party": "kld",
+          "votes": 550578,
+          "pct": 3.99,
+          "seats": 0,
+          "change": -37
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 438559,
+          "pct": 3.18,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Lepper's Self-Defence",
+          "party": "sro",
+          "votes": 383967,
+          "pct": 2.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Party X",
+          "party": "partiax",
+          "votes": 377480,
+          "pct": 2.74,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Coalition for the Republic",
+          "party": "kdr",
+          "votes": 371923,
+          "pct": 2.7,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peasants' Agreement",
+          "party": "plud",
+          "votes": 327085,
+          "pct": 2.37,
+          "seats": 0,
+          "change": -28
+        },
+        {
+          "name": "Polish Beer-Lovers' Party",
+          "party": "pppp",
+          "votes": 14382,
+          "pct": 0.1,
+          "seats": 0,
+          "change": -16
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 109410,
+          "pct": 0.79,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-sejm-1997",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "1997-09-21",
+      "totalSeats": 460,
+      "turnout": 47.93,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1997_Polish_parliamentary_election",
+        "revid": 1332633620
+      },
+      "candidates": [
+        {
+          "name": "Solidarity Electoral Action",
+          "party": "aws",
+          "votes": 4427373,
+          "pct": 33.83,
+          "seats": 201,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 3551224,
+          "pct": 27.13,
+          "seats": 164,
+          "change": -7
+        },
+        {
+          "name": "Freedom Union",
+          "party": "uw",
+          "votes": 1749518,
+          "pct": 13.37,
+          "seats": 60,
+          "change": -14
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 956184,
+          "pct": 7.31,
+          "seats": 27,
+          "change": -105
+        },
+        {
+          "name": "Movement for Reconstruction of Poland",
+          "party": "rop",
+          "votes": 727072,
+          "pct": 5.56,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "German Minority Electoral Committee",
+          "party": "mn",
+          "votes": 51027,
+          "pct": 0.39,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Labour Union",
+          "party": "up",
+          "votes": 620611,
+          "pct": 4.74,
+          "seats": 0,
+          "change": -41
+        },
+        {
+          "name": "National Party of Retirees and Pensioners",
+          "party": "kpeir",
+          "votes": 284826,
+          "pct": 2.18,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 266317,
+          "pct": 2.03,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "National Alliance of Retirees and Pensioners",
+          "party": "kpeirrp",
+          "votes": 212826,
+          "pct": 1.63,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National Christian Bloc for Poland",
+          "party": "bdp",
+          "votes": 178395,
+          "pct": 1.36,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 62858,
+          "pct": 0.48,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-sejm-2001",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2001-09-23",
+      "totalSeats": 460,
+      "turnout": 46.29,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2001_Polish_parliamentary_election",
+        "revid": 1332217178
+      },
+      "candidates": [
+        {
+          "name": "Democratic Left Alliance – Labour Union",
+          "party": "sldup",
+          "votes": 5342519,
+          "pct": 41.04,
+          "seats": 216,
+          "change": 52,
+          "winner": true
+        },
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 1651099,
+          "pct": 12.68,
+          "seats": 65,
+          "change": null
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 1327624,
+          "pct": 10.2,
+          "seats": 53,
+          "change": 53
+        },
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 1236787,
+          "pct": 9.5,
+          "seats": 44,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1168659,
+          "pct": 8.98,
+          "seats": 42,
+          "change": 15
+        },
+        {
+          "name": "League of Polish Families",
+          "party": "lpr",
+          "votes": 1025148,
+          "pct": 7.87,
+          "seats": 38,
+          "change": 38
+        },
+        {
+          "name": "German Minority",
+          "party": "mn",
+          "votes": 47230,
+          "pct": 0.36,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Solidarity of the Right Electoral Action",
+          "party": "aws",
+          "votes": 729207,
+          "pct": 5.6,
+          "seats": 0,
+          "change": -201
+        },
+        {
+          "name": "Freedom Union",
+          "party": "uw",
+          "votes": 404074,
+          "pct": 3.1,
+          "seats": 0,
+          "change": -60
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 85582,
+          "pct": 0.66,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Turnout as stated in the article's infobox; the table's votes cast over its electorate give 46.18%."
+    },
+    {
+      "id": "pl-sejm-2005",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2005-09-25",
+      "totalSeats": 460,
+      "turnout": 40.57,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/2005_Polish_parliamentary_election",
+        "revid": 1372026091
+      },
+      "candidates": [
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 3185714,
+          "pct": 26.99,
+          "seats": 155,
+          "change": 111,
+          "winner": true
+        },
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 2849259,
+          "pct": 24.14,
+          "seats": 133,
+          "change": 68
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 1347355,
+          "pct": 11.41,
+          "seats": 56,
+          "change": 3
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 1335257,
+          "pct": 11.31,
+          "seats": 55,
+          "change": -161
+        },
+        {
+          "name": "League of Polish Families",
+          "party": "lpr",
+          "votes": 940762,
+          "pct": 7.97,
+          "seats": 34,
+          "change": -4
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 821656,
+          "pct": 6.96,
+          "seats": 25,
+          "change": -17
+        },
+        {
+          "name": "German Minority Electoral Committee",
+          "party": "mn",
+          "votes": 34469,
+          "pct": 0.29,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Social Democracy of Poland",
+          "party": "sdpl",
+          "votes": 459380,
+          "pct": 3.89,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 289276,
+          "pct": 2.45,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Janusz Korwin-Mikke Platform",
+          "party": "upr",
+          "votes": 185885,
+          "pct": 1.57,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Patriotic Movement",
+          "party": "rpat",
+          "votes": 124038,
+          "pct": 1.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 231625,
+          "pct": 1.96,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Turnout as stated in the article's infobox; the table's votes cast over its electorate give 40.51%."
+    },
+    {
+      "id": "pl-sejm-2007",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2007-10-21",
+      "totalSeats": 460,
+      "turnout": 53.82,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/2007_Polish_parliamentary_election",
+        "revid": 1375392640
+      },
+      "candidates": [
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 6701010,
+          "pct": 41.51,
+          "seats": 209,
+          "change": 76,
+          "winner": true
+        },
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 5183477,
+          "pct": 32.11,
+          "seats": 166,
+          "change": 11
+        },
+        {
+          "name": "Left and Democrats",
+          "party": "lid",
+          "votes": 2122981,
+          "pct": 13.15,
+          "seats": 53,
+          "change": -2
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1437638,
+          "pct": 8.91,
+          "seats": 31,
+          "change": 6
+        },
+        {
+          "name": "German Minority Electoral Committee",
+          "party": "mn",
+          "votes": 32462,
+          "pct": 0.2,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 247335,
+          "pct": 1.53,
+          "seats": 0,
+          "change": -56
+        },
+        {
+          "name": "League of Polish Families",
+          "party": "lpr",
+          "votes": 209171,
+          "pct": 1.3,
+          "seats": 0,
+          "change": -34
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 208128,
+          "pct": 1.29,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-sejm-2011",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2011-10-09",
+      "totalSeats": 460,
+      "turnout": 48.92,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2011_Polish_parliamentary_election",
+        "revid": 1330939933
+      },
+      "candidates": [
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 5629773,
+          "pct": 39.18,
+          "seats": 207,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 4295016,
+          "pct": 29.89,
+          "seats": 157,
+          "change": -9
+        },
+        {
+          "name": "Palikot's Movement",
+          "party": "rp",
+          "votes": 1439490,
+          "pct": 10.02,
+          "seats": 40,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1201628,
+          "pct": 8.36,
+          "seats": 28,
+          "change": -3
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 1184303,
+          "pct": 8.24,
+          "seats": 27,
+          "change": -26
+        },
+        {
+          "name": "German Minority Electoral Committee",
+          "party": "mn",
+          "votes": 28014,
+          "pct": 0.19,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Poland Comes First",
+          "party": "pjn",
+          "votes": 315393,
+          "pct": 2.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Congress of the New Right",
+          "party": "knp",
+          "votes": 151837,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 124049,
+          "pct": 0.86,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-sejm-2015",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2015-10-25",
+      "totalSeats": 460,
+      "turnout": 50.92,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2015_Polish_parliamentary_election",
+        "revid": 1372754803
+      },
+      "candidates": [
+        {
+          "name": "United Right",
+          "party": "pis",
+          "votes": 5711687,
+          "pct": 37.58,
+          "seats": 235,
+          "change": 78,
+          "winner": true
+        },
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 3661474,
+          "pct": 24.09,
+          "seats": 138,
+          "change": -69
+        },
+        {
+          "name": "Kukiz'15",
+          "party": "kukiz",
+          "votes": 1339094,
+          "pct": 8.81,
+          "seats": 42,
+          "change": null
+        },
+        {
+          "name": "Modern",
+          "party": "nowoczesna",
+          "votes": 1155370,
+          "pct": 7.6,
+          "seats": 28,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 779875,
+          "pct": 5.13,
+          "seats": 16,
+          "change": -12
+        },
+        {
+          "name": "German Minority Electoral Committee",
+          "party": "mn",
+          "votes": 27530,
+          "pct": 0.18,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Left",
+          "party": "zl",
+          "votes": 1147102,
+          "pct": 7.55,
+          "seats": 0,
+          "change": -67
+        },
+        {
+          "name": "KORWiN",
+          "party": "korwin",
+          "votes": 722999,
+          "pct": 4.76,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Together",
+          "party": "razem",
+          "votes": 550349,
+          "pct": 3.62,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 105191,
+          "pct": 0.69,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-sejm-2019",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2019-10-13",
+      "totalSeats": 460,
+      "turnout": 61.74,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2019_Polish_parliamentary_election",
+        "revid": 1374867557
+      },
+      "candidates": [
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 8051935,
+          "pct": 43.59,
+          "seats": 235,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Civic Coalition",
+          "party": "ko",
+          "votes": 5060355,
+          "pct": 27.4,
+          "seats": 134,
+          "change": -32
+        },
+        {
+          "name": "The Left",
+          "party": "lewica",
+          "votes": 2319946,
+          "pct": 12.56,
+          "seats": 49,
+          "change": 49
+        },
+        {
+          "name": "Polish Coalition",
+          "party": "kp",
+          "votes": 1578523,
+          "pct": 8.55,
+          "seats": 30,
+          "change": -28
+        },
+        {
+          "name": "Confederation Liberty and Independence",
+          "party": "konf",
+          "votes": 1256953,
+          "pct": 6.81,
+          "seats": 11,
+          "change": 8
+        },
+        {
+          "name": "German Minority",
+          "party": "mn",
+          "votes": 32094,
+          "pct": 0.17,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 170904,
+          "pct": 0.93,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-senate-1989",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1989-06-04",
+      "totalSeats": 100,
+      "turnout": 62.7,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+        "revid": 1375086493
+      },
+      "candidates": [
+        {
+          "name": "Solidarity Citizens' Committee",
+          "party": "solid",
+          "votes": null,
+          "pct": null,
+          "seats": 99,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Patriotic Movement for National Rebirth",
+          "party": "pron",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes are not shown: each voivodeship elected two senators at large (three in Warsaw and Katowice), so voters had two or three votes, and the table adds an \"Against all\" row; the first-round totals (Solidarity Citizens' Committee 20,754,772; Patriotic Movement for National Rebirth 8,200,944) are not shares of voters. The one non-Solidarity senator, Henryk Stokłosa, was non-partisan but supported by the Patriotic Movement for National Rebirth (per the article). Turnout is the first round's. The article tags the first-round source as failed verification (March 2026)."
+    },
+    {
+      "id": "pl-senate-1991",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1991-10-27",
+      "totalSeats": 100,
+      "turnout": 43.2,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1991_Polish_parliamentary_election",
+        "revid": 1371514540
+      },
+      "candidates": [
+        {
+          "name": "Democratic Union",
+          "party": "ud",
+          "votes": 3764156,
+          "pct": 16.42,
+          "seats": 21,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Local lists and independents",
+          "party": "ind",
+          "votes": 3708344,
+          "pct": 16.18,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Solidarity",
+          "party": "solid",
+          "votes": 2219160,
+          "pct": 9.68,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Centre Civic Alliance",
+          "party": "poc",
+          "votes": 2071045,
+          "pct": 9.04,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Catholic Electoral Action",
+          "party": "wak",
+          "votes": 1995866,
+          "pct": 8.71,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1691566,
+          "pct": 7.38,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Liberal Democratic Congress",
+          "party": "kld",
+          "votes": 1497718,
+          "pct": 6.53,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Peasants' Agreement",
+          "party": "plud",
+          "votes": 719778,
+          "pct": 3.14,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 2431178,
+          "pct": 10.61,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Confederation of Independent Poland",
+          "party": "kpn",
+          "votes": 1071364,
+          "pct": 4.67,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Party of Christian Democrats",
+          "party": "pchd",
+          "votes": 507722,
+          "pct": 2.22,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "sd",
+          "votes": 453721,
+          "pct": 1.98,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Party X",
+          "party": "partiax",
+          "votes": 417857,
+          "pct": 1.82,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 371891,
+          "pct": 1.62,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table has no seat-change column. Until 2011 the Senate was elected by block voting in multi-member constituencies, so voters cast several votes and committee votes add up to 22,921,366, more than the 11,474,846 valid ballots. Shares are of all votes cast for candidates, as in the table."
+    },
+    {
+      "id": "pl-senate-1993",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1993-09-19",
+      "totalSeats": 100,
+      "turnout": 52.1,
+      "source": {
+        "name": "Wikipedia, citing the official results notice in Monitor Polski (via Prawo.pl)",
+        "url": "https://en.wikipedia.org/wiki/1993_Polish_parliamentary_election",
+        "revid": 1370551319
+      },
+      "candidates": [
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 4993061,
+          "pct": 18.31,
+          "seats": 37,
+          "change": 33,
+          "winner": true
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 3238999,
+          "pct": 11.88,
+          "seats": 36,
+          "change": 29
+        },
+        {
+          "name": "Solidarity",
+          "party": "solid",
+          "votes": 2683085,
+          "pct": 9.84,
+          "seats": 9,
+          "change": -2
+        },
+        {
+          "name": "Democratic Union",
+          "party": "ud",
+          "votes": 2913773,
+          "pct": 10.69,
+          "seats": 4,
+          "change": -17
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1198999,
+          "pct": 4.4,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Nonpartisan Bloc for Support of Reforms",
+          "party": "bbwr",
+          "votes": 2193970,
+          "pct": 8.05,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Labour Union",
+          "party": "up",
+          "votes": 1121744,
+          "pct": 4.11,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Liberal Democratic Congress",
+          "party": "kld",
+          "votes": 1088769,
+          "pct": 3.99,
+          "seats": 1,
+          "change": -5
+        },
+        {
+          "name": "Polish Union",
+          "party": "polun",
+          "votes": 607624,
+          "pct": 2.23,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Peasants' Agreement",
+          "party": "plud",
+          "votes": 285406,
+          "pct": 1.05,
+          "seats": 1,
+          "change": -4
+        },
+        {
+          "name": "German Minority",
+          "party": "mn",
+          "votes": 124986,
+          "pct": 0.46,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "KIK–SRK",
+          "party": "kiksrk",
+          "votes": 99737,
+          "pct": 0.37,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Rural Solidarity",
+          "party": "rs",
+          "votes": 33682,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Confederation of Independent Poland",
+          "party": "kpn",
+          "votes": 1646654,
+          "pct": 6.04,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 650727,
+          "pct": 2.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian National Union",
+          "party": "zchn",
+          "votes": 486387,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 434657,
+          "pct": 1.59,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Catholic Electoral Committee \"Fatherland\"",
+          "party": "kkwo",
+          "votes": 323135,
+          "pct": 1.19,
+          "seats": 0,
+          "change": -9
+        },
+        {
+          "name": "Silesian Autonomy Movement",
+          "party": "ras",
+          "votes": 304877,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Coalition for the Republic",
+          "party": "kdr",
+          "votes": 290361,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2543319,
+          "pct": 9.33,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The Independents' +4 change sits in a mislabelled template field, so the rendered table shows no change for them; it is left out here. Until 2011 the Senate was elected by block voting in multi-member constituencies, so voters cast several votes and committee votes add up to 27,263,952, more than the 13,985,535 valid ballots. Shares are of all votes cast for candidates, as in the table. Others includes the table's \"Local lists\" row."
+    },
+    {
+      "id": "pl-senate-1997",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1997-09-21",
+      "totalSeats": 100,
+      "turnout": 47.83,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1997_Polish_parliamentary_election",
+        "revid": 1332633620
+      },
+      "candidates": [
+        {
+          "name": "Solidarity Electoral Action",
+          "party": "aws",
+          "votes": 6550176,
+          "pct": 25.25,
+          "seats": 51,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 6091721,
+          "pct": 23.48,
+          "seats": 28,
+          "change": -9
+        },
+        {
+          "name": "Freedom Union",
+          "party": "uw",
+          "votes": 2943527,
+          "pct": 11.35,
+          "seats": 8,
+          "change": 4
+        },
+        {
+          "name": "Local lists and independents",
+          "party": "ind",
+          "votes": 3804084,
+          "pct": 14.66,
+          "seats": 5,
+          "change": -5
+        },
+        {
+          "name": "Movement for Reconstruction of Poland",
+          "party": "rop",
+          "votes": 2553252,
+          "pct": 9.84,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1819176,
+          "pct": 7.01,
+          "seats": 3,
+          "change": -33
+        },
+        {
+          "name": "National Party of Retirees and Pensioners",
+          "party": "kpeir",
+          "votes": 1112129,
+          "pct": 4.29,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 550254,
+          "pct": 2.12,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Labour Union",
+          "party": "up",
+          "votes": 520130,
+          "pct": 2,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Until 2011 the Senate was elected by block voting in multi-member constituencies, so voters cast several votes and committee votes add up to 25,944,449, more than the 13,317,952 valid ballots. Shares are of all votes cast for candidates, as in the table."
+    },
+    {
+      "id": "pl-senate-2001",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2001-09-23",
+      "totalSeats": 100,
+      "turnout": 46.15,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2001_Polish_parliamentary_election",
+        "revid": 1332217178
+      },
+      "candidates": [
+        {
+          "name": "Democratic Left Alliance – Labour Union",
+          "party": "sldup",
+          "votes": 10532523,
+          "pct": 38.91,
+          "seats": 75,
+          "change": 47,
+          "winner": true
+        },
+        {
+          "name": "Senate 2001",
+          "party": "s2001",
+          "votes": 6610751,
+          "pct": 24.42,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 3575388,
+          "pct": 13.21,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 1158887,
+          "pct": 4.28,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "League of Polish Families",
+          "party": "lpr",
+          "votes": 1097058,
+          "pct": 4.05,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "KWW Supporters of Lech Kaczyński",
+          "party": "kwwlk",
+          "votes": 142461,
+          "pct": 0.53,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "KWW Henryk Stokłosa",
+          "party": "stoklosa",
+          "votes": 113139,
+          "pct": 0.42,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Local lists and independents",
+          "party": "ind",
+          "votes": 2656284,
+          "pct": 9.81,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Real Politics Union",
+          "party": "upr",
+          "votes": 469815,
+          "pct": 1.74,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Alternative Social Movement",
+          "party": "ars",
+          "votes": 296407,
+          "pct": 1.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 416406,
+          "pct": 1.54,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Until 2011 the Senate was elected by block voting in multi-member constituencies, so voters cast several votes and committee votes add up to 27,069,119, more than the 13,072,323 valid ballots. Shares are of all votes cast for candidates, as in the table."
+    },
+    {
+      "id": "pl-senate-2005",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2005-09-25",
+      "totalSeats": 100,
+      "turnout": 40.49,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/2005_Polish_parliamentary_election",
+        "revid": 1372026091
+      },
+      "candidates": [
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 5020704,
+          "pct": 20.8,
+          "seats": 49,
+          "change": 49,
+          "winner": true
+        },
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 4090497,
+          "pct": 16.94,
+          "seats": 34,
+          "change": 32
+        },
+        {
+          "name": "League of Polish Families",
+          "party": "lpr",
+          "votes": 2990092,
+          "pct": 12.39,
+          "seats": 7,
+          "change": 5
+        },
+        {
+          "name": "Local lists and independents",
+          "party": "ind",
+          "votes": 2792572,
+          "pct": 11.57,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 2016858,
+          "pct": 8.35,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1413872,
+          "pct": 5.86,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 3114118,
+          "pct": 12.9,
+          "seats": 0,
+          "change": -75
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pd",
+          "votes": 683799,
+          "pct": 2.83,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Social Democracy of Poland",
+          "party": "sdpl",
+          "votes": 573556,
+          "pct": 2.38,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Janusz Korwin-Mikke Platform",
+          "party": "upr",
+          "votes": 375037,
+          "pct": 1.55,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Centre",
+          "party": "centrum",
+          "votes": 246143,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 824723,
+          "pct": 3.42,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Until 2011 the Senate was elected by block voting in multi-member constituencies, so voters cast several votes and committee votes add up to 24,141,971, more than the 11,812,965 valid ballots. Shares are of all votes cast for candidates, as in the table."
+    },
+    {
+      "id": "pl-senate-2007",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2007-10-21",
+      "totalSeats": 100,
+      "turnout": 53.81,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/2007_Polish_parliamentary_election",
+        "revid": 1375392640
+      },
+      "candidates": [
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 12734742,
+          "pct": 39.14,
+          "seats": 60,
+          "change": 26,
+          "winner": true
+        },
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 10208412,
+          "pct": 31.38,
+          "seats": 39,
+          "change": -10
+        },
+        {
+          "name": "Local lists and independents",
+          "party": "ind",
+          "votes": 1185400,
+          "pct": 3.64,
+          "seats": 1,
+          "change": -4
+        },
+        {
+          "name": "Left and Democrats",
+          "party": "lid",
+          "votes": 4751281,
+          "pct": 14.6,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 2863883,
+          "pct": 8.8,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Self-Defence of the Republic of Poland",
+          "party": "sro",
+          "votes": 345427,
+          "pct": 1.06,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "League of Polish Families",
+          "party": "lpr",
+          "votes": 293289,
+          "pct": 0.9,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 153222,
+          "pct": 0.47,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Until 2011 the Senate was elected by block voting in multi-member constituencies, so voters cast several votes and committee votes add up to 32,535,656, more than the 16,190,804 valid ballots. Shares are of all votes cast for candidates, as in the table."
+    },
+    {
+      "id": "pl-senate-2011",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2011-10-09",
+      "totalSeats": 100,
+      "turnout": 48.92,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission and Plankton Polityczny",
+        "url": "https://en.wikipedia.org/wiki/2011_Polish_parliamentary_election",
+        "revid": 1330939933
+      },
+      "candidates": [
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 5173300,
+          "pct": 35.6,
+          "seats": 63,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 3915355,
+          "pct": 26.94,
+          "seats": 31,
+          "change": -8
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1143275,
+          "pct": 7.87,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1363796,
+          "pct": 9.39,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Rafał Dutkiewicz Electoral Committee",
+          "party": "rdut",
+          "votes": 261135,
+          "pct": 1.8,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Left Alliance",
+          "party": "sld",
+          "votes": 1355151,
+          "pct": 9.33,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Citizens to the Senate",
+          "party": "obs",
+          "votes": 504792,
+          "pct": 3.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Autonomy for Upper Silesia",
+          "party": "ags",
+          "votes": 147710,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 666948,
+          "pct": 4.59,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "From 2011 senators are elected in 100 single-member constituencies."
+    },
+    {
+      "id": "pl-senate-2015",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2015-10-25",
+      "totalSeats": 100,
+      "turnout": 50.92,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2015_Polish_parliamentary_election",
+        "revid": 1372754803
+      },
+      "candidates": [
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "votes": 5993433,
+          "pct": 39.99,
+          "seats": 61,
+          "change": 30,
+          "winner": true
+        },
+        {
+          "name": "Civic Platform",
+          "party": "po",
+          "votes": 4323789,
+          "pct": 28.85,
+          "seats": 34,
+          "change": -29
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1640571,
+          "pct": 10.95,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Polish People's Party",
+          "party": "psl",
+          "votes": 1109675,
+          "pct": 7.4,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "United Left",
+          "party": "zl",
+          "votes": 595206,
+          "pct": 3.97,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Modern",
+          "party": "nowoczesna",
+          "votes": 394817,
+          "pct": 2.63,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Kukiz'15",
+          "party": "kukiz",
+          "votes": 207156,
+          "pct": 1.38,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "KORWiN",
+          "party": "korwin",
+          "votes": 186510,
+          "pct": 1.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 536929,
+          "pct": 3.58,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Turnout as stated in the article's infobox; the table's votes cast over its electorate give 50.91%."
+    },
+    {
+      "id": "pl-senate-2019",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2019-10-13",
+      "totalSeats": 100,
+      "turnout": 61.74,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2019_Polish_parliamentary_election",
+        "revid": 1374867557
+      },
+      "candidates": [
+        {
+          "name": "United Right",
+          "party": "pis",
+          "votes": 8110193,
+          "pct": 44.56,
+          "seats": 48,
+          "change": -13,
+          "winner": true
+        },
+        {
+          "name": "Civic Coalition",
+          "party": "ko",
+          "votes": 6490306,
+          "pct": 35.66,
+          "seats": 43,
+          "change": 9
+        },
+        {
+          "name": "Independents and single-candidate committees",
+          "party": "ind",
+          "votes": 1087986,
+          "pct": 5.98,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Polish Coalition",
+          "party": "kp",
+          "votes": 1041909,
+          "pct": 5.72,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "The Left",
+          "party": "lewica",
+          "votes": 415745,
+          "pct": 2.28,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Nonpartisan Local Government Activists",
+          "party": "bs",
+          "votes": 331385,
+          "pct": 1.82,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 723824,
+          "pct": 3.98,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pl-president-1990",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1990-11-25",
+      "turnout": 53.4,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+        "revid": 1377024765
+      },
+      "candidates": [
+        {
+          "name": "Lech Wałęsa",
+          "party": "solid",
+          "votes": 10622696,
+          "pct": 74.25,
+          "winner": true
+        },
+        {
+          "name": "Stanisław Tymiński",
+          "party": "tyminski",
+          "votes": 3683098,
+          "pct": 25.75
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1990-11-25",
+          "candidates": [
+            {
+              "name": "Lech Wałęsa",
+              "party": "solid",
+              "votes": 6569889,
+              "pct": 39.96
+            },
+            {
+              "name": "Stanisław Tymiński",
+              "party": "tyminski",
+              "votes": 3797605,
+              "pct": 23.1
+            },
+            {
+              "name": "Tadeusz Mazowiecki",
+              "party": "road",
+              "votes": 2973264,
+              "pct": 18.08
+            },
+            {
+              "name": "Włodzimierz Cimoszewicz",
+              "party": "sdrp",
+              "votes": 1514025,
+              "pct": 9.21
+            },
+            {
+              "name": "Roman Bartoszcze",
+              "party": "psl",
+              "votes": 1176175,
+              "pct": 7.15
+            },
+            {
+              "name": "Leszek Moczulski",
+              "party": "kpn",
+              "votes": 411516,
+              "pct": 2.5
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1990-12-09",
+          "candidates": [
+            {
+              "name": "Lech Wałęsa",
+              "party": "solid",
+              "votes": 10622696,
+              "pct": 74.25,
+              "winner": true
+            },
+            {
+              "name": "Stanisław Tymiński",
+              "party": "tyminski",
+              "votes": 3683098,
+              "pct": 25.75
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 60.63%)."
+    },
+    {
+      "id": "pl-president-1995",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1995-11-05",
+      "turnout": 68.23,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1995_Polish_presidential_election",
+        "revid": 1377024856
+      },
+      "candidates": [
+        {
+          "name": "Aleksander Kwaśniewski",
+          "party": "sld",
+          "votes": 9704439,
+          "pct": 51.72,
+          "winner": true
+        },
+        {
+          "name": "Lech Wałęsa",
+          "party": "walesa",
+          "votes": 9058176,
+          "pct": 48.28
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1995-11-05",
+          "candidates": [
+            {
+              "name": "Aleksander Kwaśniewski",
+              "party": "sld",
+              "votes": 6275670,
+              "pct": 35.11
+            },
+            {
+              "name": "Lech Wałęsa",
+              "party": "walesa",
+              "votes": 5917328,
+              "pct": 33.11
+            },
+            {
+              "name": "Jacek Kuroń",
+              "party": "uw",
+              "votes": 1646946,
+              "pct": 9.22
+            },
+            {
+              "name": "Jan Olszewski",
+              "party": "rdr",
+              "votes": 1225453,
+              "pct": 6.86
+            },
+            {
+              "name": "Waldemar Pawlak",
+              "party": "psl",
+              "votes": 770419,
+              "pct": 4.31
+            },
+            {
+              "name": "Tadeusz Zieliński",
+              "party": "up",
+              "votes": 631432,
+              "pct": 3.53
+            },
+            {
+              "name": "Hanna Gronkiewicz-Waltz",
+              "party": "hgw",
+              "votes": 492628,
+              "pct": 2.76
+            },
+            {
+              "name": "Janusz Korwin-Mikke",
+              "party": "upr",
+              "votes": 428969,
+              "pct": 2.4
+            },
+            {
+              "name": "Andrzej Lepper",
+              "party": "sro",
+              "votes": 235797,
+              "pct": 1.32
+            },
+            {
+              "name": "Jan Pietrzak",
+              "party": "pietrzak",
+              "votes": 201033,
+              "pct": 1.12
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 46675,
+              "pct": 0.26
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1995-11-19",
+          "candidates": [
+            {
+              "name": "Aleksander Kwaśniewski",
+              "party": "sld",
+              "votes": 9704439,
+              "pct": 51.72,
+              "winner": true
+            },
+            {
+              "name": "Lech Wałęsa",
+              "party": "walesa",
+              "votes": 9058176,
+              "pct": 48.28
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 64.7%)."
+    },
+    {
+      "id": "pl-president-2000",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2000-10-08",
+      "turnout": 61.08,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2000_Polish_presidential_election",
+        "revid": 1357823384
+      },
+      "candidates": [
+        {
+          "name": "Aleksander Kwaśniewski",
+          "party": "sld",
+          "votes": 9485224,
+          "pct": 53.9,
+          "winner": true
+        },
+        {
+          "name": "Andrzej Olechowski",
+          "party": "skl",
+          "votes": 3044141,
+          "pct": 17.3
+        },
+        {
+          "name": "Marian Krzaklewski",
+          "party": "aws",
+          "votes": 2739621,
+          "pct": 15.57
+        },
+        {
+          "name": "Jarosław Kalinowski",
+          "party": "psl",
+          "votes": 1047949,
+          "pct": 5.95
+        },
+        {
+          "name": "Andrzej Lepper",
+          "party": "sro",
+          "votes": 537570,
+          "pct": 3.05
+        },
+        {
+          "name": "Janusz Korwin-Mikke",
+          "party": "upr",
+          "votes": 252499,
+          "pct": 1.43
+        },
+        {
+          "name": "Lech Wałęsa",
+          "party": "chdirp",
+          "votes": 178590,
+          "pct": 1.01
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 313325,
+          "pct": 1.78
+        }
+      ],
+      "notes": "Won outright in the first round."
+    },
+    {
+      "id": "pl-president-2005",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2005-10-09",
+      "turnout": 50.98,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2005_Polish_presidential_election",
+        "revid": 1374235188
+      },
+      "candidates": [
+        {
+          "name": "Lech Kaczyński",
+          "party": "pis",
+          "votes": 8257468,
+          "pct": 54.04,
+          "winner": true
+        },
+        {
+          "name": "Donald Tusk",
+          "party": "po",
+          "votes": 7022319,
+          "pct": 45.96
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2005-10-09",
+          "candidates": [
+            {
+              "name": "Donald Tusk",
+              "party": "po",
+              "votes": 5429666,
+              "pct": 36.33
+            },
+            {
+              "name": "Lech Kaczyński",
+              "party": "pis",
+              "votes": 4947927,
+              "pct": 33.1
+            },
+            {
+              "name": "Andrzej Lepper",
+              "party": "sro",
+              "votes": 2259094,
+              "pct": 15.11
+            },
+            {
+              "name": "Marek Borowski",
+              "party": "sdpl",
+              "votes": 1544642,
+              "pct": 10.33
+            },
+            {
+              "name": "Jarosław Kalinowski",
+              "party": "psl",
+              "votes": 269316,
+              "pct": 1.8
+            },
+            {
+              "name": "Janusz Korwin-Mikke",
+              "party": "upr",
+              "votes": 214116,
+              "pct": 1.43
+            },
+            {
+              "name": "Henryka Bochniarz",
+              "party": "pd",
+              "votes": 188598,
+              "pct": 1.26
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 93330,
+              "pct": 0.62
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2005-10-23",
+          "candidates": [
+            {
+              "name": "Lech Kaczyński",
+              "party": "pis",
+              "votes": 8257468,
+              "pct": 54.04,
+              "winner": true
+            },
+            {
+              "name": "Donald Tusk",
+              "party": "po",
+              "votes": 7022319,
+              "pct": 45.96
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 49.72%)."
+    },
+    {
+      "id": "pl-president-2010",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2010-06-20",
+      "turnout": 55.3,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2010_Polish_presidential_election",
+        "revid": 1373016793
+      },
+      "candidates": [
+        {
+          "name": "Bronisław Komorowski",
+          "party": "po",
+          "votes": 8933887,
+          "pct": 53.01,
+          "winner": true
+        },
+        {
+          "name": "Jarosław Kaczyński",
+          "party": "pis",
+          "votes": 7919134,
+          "pct": 46.99
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2010-06-20",
+          "candidates": [
+            {
+              "name": "Bronisław Komorowski",
+              "party": "po",
+              "votes": 6981319,
+              "pct": 41.54
+            },
+            {
+              "name": "Jarosław Kaczyński",
+              "party": "pis",
+              "votes": 6128255,
+              "pct": 36.46
+            },
+            {
+              "name": "Grzegorz Napieralski",
+              "party": "sld",
+              "votes": 2299870,
+              "pct": 13.68
+            },
+            {
+              "name": "Janusz Korwin-Mikke",
+              "party": "wip",
+              "votes": 416898,
+              "pct": 2.48
+            },
+            {
+              "name": "Waldemar Pawlak",
+              "party": "psl",
+              "votes": 294273,
+              "pct": 1.75
+            },
+            {
+              "name": "Andrzej Olechowski",
+              "party": "sd",
+              "votes": 242439,
+              "pct": 1.44
+            },
+            {
+              "name": "Andrzej Lepper",
+              "party": "sro",
+              "votes": 214657,
+              "pct": 1.28
+            },
+            {
+              "name": "Marek Jurek",
+              "party": "prawica",
+              "votes": 177315,
+              "pct": 1.06
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 51144,
+              "pct": 0.3
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2010-07-04",
+          "candidates": [
+            {
+              "name": "Bronisław Komorowski",
+              "party": "po",
+              "votes": 8933887,
+              "pct": 53.01,
+              "winner": true
+            },
+            {
+              "name": "Jarosław Kaczyński",
+              "party": "pis",
+              "votes": 7919134,
+              "pct": 46.99
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 54.92%)."
+    },
+    {
+      "id": "pl-president-2015",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2015-05-10",
+      "turnout": 55.34,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2015_Polish_presidential_election",
+        "revid": 1359444757
+      },
+      "candidates": [
+        {
+          "name": "Andrzej Duda",
+          "party": "pis",
+          "votes": 8630627,
+          "pct": 51.55,
+          "winner": true
+        },
+        {
+          "name": "Bronisław Komorowski",
+          "party": "po",
+          "votes": 8112311,
+          "pct": 48.45
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2015-05-10",
+          "candidates": [
+            {
+              "name": "Andrzej Duda",
+              "party": "pis",
+              "votes": 5179092,
+              "pct": 34.76
+            },
+            {
+              "name": "Bronisław Komorowski",
+              "party": "po",
+              "votes": 5031060,
+              "pct": 33.77
+            },
+            {
+              "name": "Paweł Kukiz",
+              "party": "pkukiz",
+              "votes": 3099079,
+              "pct": 20.8
+            },
+            {
+              "name": "Janusz Korwin-Mikke",
+              "party": "korwin",
+              "votes": 486084,
+              "pct": 3.26
+            },
+            {
+              "name": "Magdalena Ogórek",
+              "party": "sld",
+              "votes": 353883,
+              "pct": 2.38
+            },
+            {
+              "name": "Adam Jarubas",
+              "party": "psl",
+              "votes": 238761,
+              "pct": 1.6
+            },
+            {
+              "name": "Janusz Palikot",
+              "party": "rp",
+              "votes": 211242,
+              "pct": 1.42
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 299733,
+              "pct": 2.01
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2015-05-24",
+          "candidates": [
+            {
+              "name": "Andrzej Duda",
+              "party": "pis",
+              "votes": 8630627,
+              "pct": 51.55,
+              "winner": true
+            },
+            {
+              "name": "Bronisław Komorowski",
+              "party": "po",
+              "votes": 8112311,
+              "pct": 48.45
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 48.96%)."
+    },
+    {
+      "id": "pl-president-2020",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2020-06-28",
+      "turnout": 68.18,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2020_Polish_presidential_election",
+        "revid": 1378229764
+      },
+      "candidates": [
+        {
+          "name": "Andrzej Duda",
+          "party": "pis",
+          "votes": 10440648,
+          "pct": 51.03,
+          "winner": true
+        },
+        {
+          "name": "Rafał Trzaskowski",
+          "party": "ko",
+          "votes": 10018263,
+          "pct": 48.97
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2020-06-28",
+          "candidates": [
+            {
+              "name": "Andrzej Duda",
+              "party": "pis",
+              "votes": 8450513,
+              "pct": 43.5
+            },
+            {
+              "name": "Rafał Trzaskowski",
+              "party": "ko",
+              "votes": 5917340,
+              "pct": 30.46
+            },
+            {
+              "name": "Szymon Hołownia",
+              "party": "holownia",
+              "votes": 2693397,
+              "pct": 13.87
+            },
+            {
+              "name": "Krzysztof Bosak",
+              "party": "konf",
+              "votes": 1317380,
+              "pct": 6.78
+            },
+            {
+              "name": "Władysław Kosiniak-Kamysz",
+              "party": "psl",
+              "votes": 459365,
+              "pct": 2.36
+            },
+            {
+              "name": "Robert Biedroń",
+              "party": "lewica",
+              "votes": 432129,
+              "pct": 2.22
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 155335,
+              "pct": 0.8
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2020-07-12",
+          "candidates": [
+            {
+              "name": "Andrzej Duda",
+              "party": "pis",
+              "votes": 10440648,
+              "pct": 51.03,
+              "winner": true
+            },
+            {
+              "name": "Rafał Trzaskowski",
+              "party": "ko",
+              "votes": 10018263,
+              "pct": 48.97
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "DS": "ko",
+        "KP": "ko",
+        "LU": "pis",
+        "LB": "ko",
+        "LD": "pis",
+        "MA": "pis",
+        "MZ": "ko",
+        "OP": "ko",
+        "PK": "pis",
+        "PD": "pis",
+        "PM": "ko",
+        "SL": "ko",
+        "SK": "pis",
+        "WN": "ko",
+        "WP": "ko",
+        "ZP": "ko"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2020_Polish_presidential_election#By_voivodeship",
+      "notes": "Turnout is the run-off's (first round 64.51%). Region winners are the run-off winners by voivodeship."
+    }
+  ]
+}

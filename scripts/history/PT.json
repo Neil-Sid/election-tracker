@@ -1,0 +1,3032 @@
+{
+ "code": "PT",
+ "parties": {
+  "un": {
+   "name": "National Union",
+   "color": "#002E79",
+   "article": "National Union (Portugal)"
+  },
+  "psd": {
+   "name": "Social Democratic Party",
+   "color": "#FF9900",
+   "article": "Social Democratic Party (Portugal)"
+  },
+  "cds": {
+   "name": "CDS – People's Party",
+   "color": "#0093DD",
+   "article": "CDS – People's Party"
+  },
+  "pcp": {
+   "name": "Portuguese Communist Party",
+   "color": "#FF0000",
+   "article": "Portuguese Communist Party"
+  },
+  "apu": {
+   "name": "United People Alliance",
+   "color": "#EB3D43",
+   "article": "United People Alliance"
+  },
+  "udp": {
+   "name": "Popular Democratic Union",
+   "color": "#8E24AA",
+   "article": "Popular Democratic Union (Portugal)"
+  },
+  "mdp": {
+   "name": "Portuguese Democratic Movement (CDE)",
+   "color": "#8B0000",
+   "article": "Portuguese Democratic Movement"
+  },
+  "ceud": {
+   "name": "United Democratic Electoral Commission",
+   "color": "#FF0000"
+  },
+  "fsp": {
+   "name": "People's Socialist Front",
+   "color": "#BB4422",
+   "article": "People's Socialist Front"
+  },
+  "mes": {
+   "name": "Movement of Socialist Left",
+   "color": "#795548",
+   "article": "Movement of Socialist Left"
+  },
+  "adim": {
+   "name": "Association for the Defense of Macau Interests",
+   "color": "#000080",
+   "article": "Associação para a Defesa dos Interesses de Macau"
+  },
+  "pdc": {
+   "name": "Christian Democratic Party",
+   "color": "#556B2F",
+   "article": "Christian Democratic Party (Portugal)"
+  },
+  "frs": {
+   "name": "Republican and Socialist Front",
+   "color": "#E8559A",
+   "article": "Republican and Socialist Front"
+  },
+  "pus": {
+   "name": "Workers' Party of Socialist Unity",
+   "color": "#FF8A80",
+   "article": "Workers' Party of Socialist Unity"
+  },
+  "psr": {
+   "name": "Revolutionary Socialist Party",
+   "color": "#780000",
+   "article": "Revolutionary Socialist Party (Portugal)"
+  },
+  "ppm": {
+   "name": "People's Monarchist Party",
+   "color": "#2A5392",
+   "article": "People's Monarchist Party (Portugal)"
+  },
+  "prd": {
+   "name": "Democratic Renewal Party",
+   "color": "#008000",
+   "article": "Democratic Renewal Party (Portugal)"
+  },
+  "psn": {
+   "name": "National Solidarity Party",
+   "color": "#000080",
+   "article": "National Solidarity Party (Portugal)"
+  },
+  "pctp": {
+   "name": "Portuguese Workers' Communist Party",
+   "color": "#7B1FA2",
+   "article": "Portuguese Workers' Communist Party"
+  },
+  "pdr": {
+   "name": "Democratic Republican Party",
+   "color": "#1D4E89",
+   "article": "Democratic Republican Party (Portugal)"
+  },
+  "paf": {
+   "name": "Portugal Ahead (PSD/CDS)",
+   "color": "#00AAAA",
+   "article": "Coalition PSD/CDS"
+  },
+  "fup": {
+   "name": "Popular Unity Force",
+   "color": "#8B0000",
+   "article": "Força de Unidade Popular"
+  },
+  "pnd": {
+   "name": "New Democracy Party",
+   "color": "#1F468B",
+   "article": "New Democracy Party (Portugal)"
+  },
+  "rir": {
+   "name": "React, Include, Recycle",
+   "color": "#00939D",
+   "article": "React, Include, Recycle"
+  },
+  "otelo": {
+   "name": "Independent",
+   "color": "#810000"
+  },
+  "azevedo": {
+   "name": "Independent",
+   "color": "#F9A825"
+  },
+  "pintasilgo": {
+   "name": "Independent",
+   "color": "#613484"
+  },
+  "moura": {
+   "name": "Independent",
+   "color": "#6A1B9A"
+  },
+  "belem": {
+   "name": "Independent",
+   "color": "#8E24AA"
+  },
+  "vitorino": {
+   "name": "Independent",
+   "color": "#2E7D32"
+  },
+  "morais": {
+   "name": "Independent",
+   "color": "#8D6E63"
+  }
+ },
+ "elections": [
+  {
+   "id": "pt-assembly-1949",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1949-11-13",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 120,
+   "turnout": 75.81,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+    "url": "https://en.wikipedia.org/wiki/1949_Portuguese_legislative_election",
+    "revid": 1286454232
+   },
+   "candidates": [
+    {
+     "name": "National Union",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "seats": 120,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The election article gives no seat figures; the National Union's 120 seats are from the National Union (Portugal) article's electoral history (revid 1378857515). Others: Independent Agrarians, Regionalists (no votes in the source). The source gives only the total votes cast, not votes by list. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source."
+  },
+  {
+   "id": "pt-assembly-1953",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1953-11-08",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 120,
+   "turnout": 68.2,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+    "url": "https://en.wikipedia.org/wiki/1953_Portuguese_legislative_election",
+    "revid": 1286454478
+   },
+   "candidates": [
+    {
+     "name": "National Union",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "seats": 120,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Others: Opposition lists (no votes in the source). The source gives only the total votes cast, not votes by list. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source."
+  },
+  {
+   "id": "pt-assembly-1957",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1957-11-03",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 120,
+   "turnout": 70.43,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+    "url": "https://en.wikipedia.org/wiki/1957_Portuguese_legislative_election",
+    "revid": 1286453509
+   },
+   "candidates": [
+    {
+     "name": "National Union",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "seats": 120,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Others: Opposition lists (no votes in the source). The source gives only the total votes cast, not votes by list. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source."
+  },
+  {
+   "id": "pt-assembly-1961",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1961-11-12",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 130,
+   "turnout": 74.06,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+    "url": "https://en.wikipedia.org/wiki/1961_Portuguese_legislative_election",
+    "revid": 1286455584
+   },
+   "candidates": [
+    {
+     "name": "National Union",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "seats": 130,
+     "change": null,
+     "winner": true
+    }
+   ],
+   "notes": "The source gives only the total votes cast, not votes by list. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source. The National Union ran unopposed."
+  },
+  {
+   "id": "pt-assembly-1965",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1965-11-07",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 130,
+   "turnout": 73.56,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+    "url": "https://en.wikipedia.org/wiki/1965_Portuguese_legislative_election",
+    "revid": 1286455455
+   },
+   "candidates": [
+    {
+     "name": "National Union",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "seats": 130,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The election article gives no seat figures; the National Union's 130 seats are from the National Union (Portugal) article's electoral history (revid 1378857515). Others: Social Democratic list (no votes in the source). The source gives only the total votes cast, not votes by list. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source."
+  },
+  {
+   "id": "pt-assembly-1969",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1969-10-26",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 130,
+   "turnout": 62.5,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1969_Portuguese_legislative_election",
+    "revid": 1352375747
+   },
+   "candidates": [
+    {
+     "name": "National Union",
+     "party": "un",
+     "votes": 981263,
+     "pct": 88.07,
+     "seats": 130,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic Electoral Commission",
+     "party": "mdp",
+     "votes": 114745,
+     "pct": 10.3,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "United Democratic Electoral Commission",
+     "party": "ceud",
+     "votes": 16863,
+     "pct": 1.51,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1324,
+     "pct": 0.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Others: Monarchist Electoral Commission. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source."
+  },
+  {
+   "id": "pt-assembly-1973",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1973-10-28",
+   "note": "Estado Novo, opposition excluded",
+   "totalSeats": 150,
+   "turnout": 66.47,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1973_Portuguese_legislative_election",
+    "revid": 1303988821
+   },
+   "candidates": [
+    {
+     "name": "People's National Action",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "seats": 150,
+     "change": null,
+     "winner": true
+    }
+   ],
+   "notes": "The source gives only the total votes cast, not votes by list. National Assembly of the Estado Novo; turnout is votes cast over the registered electorate given in the source. People's National Action (the renamed National Union) was the only party standing after the opposition withdrew."
+  },
+  {
+   "id": "pt-assembly-1975",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1975-04-25",
+   "note": "Constituent Assembly",
+   "totalSeats": 250,
+   "turnout": 91.66,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election",
+    "revid": 1377990989
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2162972,
+     "pct": 40.69,
+     "seats": 116,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic People's Party",
+     "party": "psd",
+     "votes": 1507282,
+     "pct": 28.36,
+     "seats": 81,
+     "change": null
+    },
+    {
+     "name": "Portuguese Communist Party",
+     "party": "pcp",
+     "votes": 711935,
+     "pct": 13.39,
+     "seats": 30,
+     "change": null
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "party": "cds",
+     "votes": 434879,
+     "pct": 8.18,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Portuguese Democratic Movement",
+     "party": "mdp",
+     "votes": 236318,
+     "pct": 4.45,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Popular Democratic Union",
+     "party": "udp",
+     "votes": 44877,
+     "pct": 0.84,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Association for the Defense of Macau Interests",
+     "party": "adim",
+     "votes": 1622,
+     "pct": 0.03,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Socialist Front",
+     "party": "fsp",
+     "votes": 66307,
+     "pct": 1.25,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Movement of Socialist Left",
+     "party": "mes",
+     "votes": 58248,
+     "pct": 1.1,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 90714,
+     "pct": 1.71,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Change is not given (first election). Region winners are the lists with the most votes in each district; the Azores winner is the party that won all three Azorean districts (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "pcp",
+    "03": "psd",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election"
+  },
+  {
+   "id": "pt-assembly-1976",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1976-04-25",
+   "totalSeats": 263,
+   "turnout": 83.53,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1976_Portuguese_legislative_election",
+    "revid": 1371827566
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1912921,
+     "pct": 36.61,
+     "seats": 107,
+     "change": -9,
+     "winner": true
+    },
+    {
+     "name": "Democratic People's Party",
+     "party": "psd",
+     "votes": 1335381,
+     "pct": 25.55,
+     "seats": 73,
+     "change": -8
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "party": "cds",
+     "votes": 876007,
+     "pct": 16.76,
+     "seats": 42,
+     "change": 26
+    },
+    {
+     "name": "Portuguese Communist Party",
+     "party": "pcp",
+     "votes": 788830,
+     "pct": 15.1,
+     "seats": 40,
+     "change": 10
+    },
+    {
+     "name": "Popular Democratic Union",
+     "party": "udp",
+     "votes": 91690,
+     "pct": 1.75,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 220936,
+     "pct": 4.23,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district; the Azores winner is the party that won all three Azorean districts (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "pcp",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "pcp",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "pcp",
+    "08": "ps",
+    "09": "cds"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1976_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1979",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1979-12-02",
+   "totalSeats": 250,
+   "turnout": 82.87,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1979_Portuguese_legislative_election",
+    "revid": 1371827641
+   },
+   "candidates": [
+    {
+     "name": "Democratic Alliance",
+     "party": "ad",
+     "votes": 2719208,
+     "pct": 46.53,
+     "seats": 128,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1642136,
+     "pct": 28.1,
+     "seats": 74,
+     "change": -33
+    },
+    {
+     "name": "United People Alliance",
+     "party": "apu",
+     "votes": 1129322,
+     "pct": 19.33,
+     "seats": 47,
+     "change": 7
+    },
+    {
+     "name": "Popular Democratic Union",
+     "party": "udp",
+     "votes": 130842,
+     "pct": 2.24,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 72514,
+     "pct": 1.24,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 149717,
+     "pct": 2.56,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. The Democratic Alliance row is the source table's bloc total, which also counts the separate lists of Social Democratic Party (7 seats) and Democratic and Social Centre (0 seats). Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "ad",
+    "11": "ad",
+    "12": "ad",
+    "13": "ad",
+    "14": "ad",
+    "15": "apu",
+    "16": "ad",
+    "17": "ad",
+    "18": "ad",
+    "20": "ad",
+    "30": "ad",
+    "01": "ad",
+    "02": "apu",
+    "03": "ad",
+    "04": "ad",
+    "05": "ad",
+    "06": "ad",
+    "07": "apu",
+    "08": "ad",
+    "09": "ad"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1980",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1980-10-05",
+   "totalSeats": 250,
+   "turnout": 83.94,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1980_Portuguese_legislative_election",
+    "revid": 1377587411
+   },
+   "candidates": [
+    {
+     "name": "Democratic Alliance",
+     "party": "ad",
+     "votes": 2868076,
+     "pct": 48.7,
+     "seats": 134,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Republican and Socialist Front",
+     "party": "frs",
+     "votes": 1673279,
+     "pct": 28.41,
+     "seats": 74,
+     "change": 0
+    },
+    {
+     "name": "United People Alliance",
+     "party": "apu",
+     "votes": 1009505,
+     "pct": 17.14,
+     "seats": 41,
+     "change": -6
+    },
+    {
+     "name": "Popular Democratic Union",
+     "party": "udp",
+     "votes": 83204,
+     "pct": 1.41,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Workers' Party of Socialist Unity",
+     "party": "pus",
+     "votes": 83095,
+     "pct": 1.41,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Revolutionary Socialist",
+     "party": "psr",
+     "votes": 60496,
+     "pct": 1.03,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 111078,
+     "pct": 1.89,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. The Democratic Alliance row is the source table's bloc total, which also counts the separate lists of Social Democratic Party (8 seats) and Democratic and Social Centre (0 seats). The Republican and Socialist Front row is the source table's bloc total, which also counts the separate lists of Socialist Party (3 seats). Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "ad",
+    "11": "ad",
+    "12": "ad",
+    "13": "ad",
+    "14": "ad",
+    "15": "apu",
+    "16": "ad",
+    "17": "ad",
+    "18": "ad",
+    "20": "ad",
+    "30": "ad",
+    "01": "ad",
+    "02": "apu",
+    "03": "ad",
+    "04": "ad",
+    "05": "ad",
+    "06": "ad",
+    "07": "apu",
+    "08": "ad",
+    "09": "ad"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1980_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1983",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1983-04-25",
+   "totalSeats": 250,
+   "turnout": 77.79,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1983_Portuguese_legislative_election",
+    "revid": 1377586838
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2061309,
+     "pct": 37.07,
+     "seats": 101,
+     "change": 35,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1554804,
+     "pct": 27.96,
+     "seats": 75,
+     "change": -7
+    },
+    {
+     "name": "United People Alliance",
+     "party": "apu",
+     "votes": 1031609,
+     "pct": 18.55,
+     "seats": 44,
+     "change": 3
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "party": "cds",
+     "votes": 716705,
+     "pct": 12.89,
+     "seats": 30,
+     "change": -16
+    },
+    {
+     "name": "People's Monarchist Party",
+     "party": "ppm",
+     "votes": 27635,
+     "pct": 0.5,
+     "seats": 0,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 168863,
+     "pct": 3.04,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "apu",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "ps",
+    "02": "apu",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "apu",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1983_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1985",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1985-10-06",
+   "totalSeats": 250,
+   "turnout": 74.16,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1985_Portuguese_legislative_election",
+    "revid": 1372481943
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1732288,
+     "pct": 30.64,
+     "seats": 88,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1204321,
+     "pct": 21.3,
+     "seats": 57,
+     "change": -44
+    },
+    {
+     "name": "Democratic Renewal Party",
+     "party": "prd",
+     "votes": 1038893,
+     "pct": 18.38,
+     "seats": 45,
+     "change": null
+    },
+    {
+     "name": "United People Alliance",
+     "party": "apu",
+     "votes": 898281,
+     "pct": 15.89,
+     "seats": 38,
+     "change": -6
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "party": "cds",
+     "votes": 577580,
+     "pct": 10.22,
+     "seats": 22,
+     "change": -8
+    },
+    {
+     "name": "Popular Democratic Union",
+     "party": "udp",
+     "votes": 73401,
+     "pct": 1.3,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 128846,
+     "pct": 2.28,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "apu",
+    "13": "psd",
+    "14": "psd",
+    "15": "apu",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "apu",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "apu",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1985_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1987",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1987-07-19",
+   "totalSeats": 250,
+   "turnout": 71.57,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1987_Portuguese_legislative_election",
+    "revid": 1377549206
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 2850784,
+     "pct": 51.34,
+     "seats": 148,
+     "change": 60,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1262506,
+     "pct": 22.74,
+     "seats": 60,
+     "change": 3
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 689137,
+     "pct": 12.41,
+     "seats": 31,
+     "change": -7
+    },
+    {
+     "name": "Democratic Renewal Party",
+     "party": "prd",
+     "votes": 278561,
+     "pct": 5.02,
+     "seats": 7,
+     "change": -38
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "party": "cds",
+     "votes": 251987,
+     "pct": 4.54,
+     "seats": 4,
+     "change": -18
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 219715,
+     "pct": 3.96,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "cdu",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "cdu",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "cdu",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1987_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1991",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1991-10-06",
+   "totalSeats": 230,
+   "turnout": 67.78,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1991_Portuguese_legislative_election",
+    "revid": 1377548265
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 2902351,
+     "pct": 51.6,
+     "seats": 135,
+     "change": -13,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1670758,
+     "pct": 29.7,
+     "seats": 72,
+     "change": 12
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 504583,
+     "pct": 8.97,
+     "seats": 17,
+     "change": -14
+    },
+    {
+     "name": "Democratic and Social Centre",
+     "party": "cds",
+     "votes": 254317,
+     "pct": 4.52,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "National Solidarity Party",
+     "party": "psn",
+     "votes": 96096,
+     "pct": 1.71,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Socialist Party",
+     "party": "psr",
+     "votes": 64159,
+     "pct": 1.14,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Democratic Renewal Party",
+     "party": "prd",
+     "votes": 35077,
+     "pct": 0.62,
+     "seats": 0,
+     "change": -7
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 97418,
+     "pct": 1.73,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "psd",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "cdu",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "psd",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1991_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1995",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1995-10-01",
+   "totalSeats": 230,
+   "turnout": 66.3,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1995_Portuguese_legislative_election",
+    "revid": 1376199688
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2583755,
+     "pct": 44.61,
+     "seats": 112,
+     "change": 40,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 2014589,
+     "pct": 34.78,
+     "seats": 88,
+     "change": -47
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 534470,
+     "pct": 9.23,
+     "seats": 15,
+     "change": 10
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 506157,
+     "pct": 8.74,
+     "seats": 15,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 152790,
+     "pct": 2.64,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "ps",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1995_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-1999",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "1999-10-10",
+   "totalSeats": 230,
+   "turnout": 61.09,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1999_Portuguese_legislative_election",
+    "revid": 1376824285
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2385922,
+     "pct": 44.96,
+     "seats": 115,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1750158,
+     "pct": 32.98,
+     "seats": 81,
+     "change": -7
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 487058,
+     "pct": 9.18,
+     "seats": 17,
+     "change": 2
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 451643,
+     "pct": 8.51,
+     "seats": 15,
+     "change": 0
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 132333,
+     "pct": 2.49,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 99842,
+     "pct": 1.88,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "psd",
+    "18": "psd",
+    "20": "ps",
+    "30": "psd",
+    "01": "ps",
+    "02": "ps",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2002",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2002-03-17",
+   "totalSeats": 230,
+   "turnout": 61.47,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2002_Portuguese_legislative_election",
+    "revid": 1377338847
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 2200765,
+     "pct": 41.02,
+     "seats": 105,
+     "change": 24,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2068584,
+     "pct": 38.56,
+     "seats": 96,
+     "change": -19
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 477350,
+     "pct": 8.9,
+     "seats": 14,
+     "change": -1
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 379870,
+     "pct": 7.08,
+     "seats": 12,
+     "change": -5
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 149966,
+     "pct": 2.8,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 88542,
+     "pct": 1.65,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "ps",
+    "03": "psd",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2002_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2005",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2005-02-20",
+   "totalSeats": 230,
+   "turnout": 64.26,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2005_Portuguese_legislative_election",
+    "revid": 1377334131
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2588312,
+     "pct": 46.4,
+     "seats": 121,
+     "change": 25,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1653425,
+     "pct": 29.64,
+     "seats": 75,
+     "change": -30
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 433369,
+     "pct": 7.77,
+     "seats": 14,
+     "change": 2
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 416415,
+     "pct": 7.46,
+     "seats": 12,
+     "change": -2
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 364971,
+     "pct": 6.54,
+     "seats": 8,
+     "change": 5
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 122127,
+     "pct": 2.19,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "ps",
+    "18": "ps",
+    "20": "ps",
+    "30": "psd",
+    "01": "ps",
+    "02": "ps",
+    "03": "ps",
+    "04": "ps",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2005_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2009",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2009-09-27",
+   "totalSeats": 230,
+   "turnout": 59.68,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election",
+    "revid": 1378117814
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2077238,
+     "pct": 37.73,
+     "seats": 97,
+     "change": -24,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1653665,
+     "pct": 30.04,
+     "seats": 81,
+     "change": 10
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 592778,
+     "pct": 10.77,
+     "seats": 21,
+     "change": 9
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 557306,
+     "pct": 10.12,
+     "seats": 16,
+     "change": 8
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 446279,
+     "pct": 8.11,
+     "seats": 15,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 178012,
+     "pct": 3.23,
+     "seats": 0,
+     "change": -4
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "psd",
+    "18": "psd",
+    "20": "ps",
+    "30": "psd",
+    "01": "psd",
+    "02": "ps",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2011",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2011-06-05",
+   "totalSeats": 230,
+   "turnout": 58.03,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2011_Portuguese_legislative_election",
+    "revid": 1378118080
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 2159181,
+     "pct": 40.31,
+     "seats": 108,
+     "change": 27,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1566347,
+     "pct": 29.24,
+     "seats": 74,
+     "change": -23
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 653888,
+     "pct": 12.21,
+     "seats": 24,
+     "change": 3
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 441147,
+     "pct": 8.24,
+     "seats": 16,
+     "change": 1
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 288923,
+     "pct": 5.39,
+     "seats": 8,
+     "change": -8
+    },
+    {
+     "name": "Portuguese Workers' Communist Party",
+     "party": "pctp",
+     "votes": 62610,
+     "pct": 1.17,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Party for Animals and Nature",
+     "party": "pan",
+     "votes": 57995,
+     "pct": 1.08,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 126521,
+     "pct": 2.36,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "ps",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "ps",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "ps",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2015",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2015-10-04",
+   "totalSeats": 230,
+   "turnout": 55.84,
+   "source": {
+    "name": "Wikipedia, citing the Diário da República",
+    "url": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election",
+    "revid": 1373030911
+   },
+   "candidates": [
+    {
+     "name": "Portugal Ahead",
+     "party": "paf",
+     "votes": 2085465,
+     "pct": 40.06,
+     "seats": 107,
+     "change": -25,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1747730,
+     "pct": 33.57,
+     "seats": 86,
+     "change": 12
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 550945,
+     "pct": 10.58,
+     "seats": 19,
+     "change": 11
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 445901,
+     "pct": 8.56,
+     "seats": 17,
+     "change": 1
+    },
+    {
+     "name": "People Animals Nature",
+     "party": "pan",
+     "votes": 75170,
+     "pct": 1.44,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Democratic Republican Party",
+     "party": "pdr",
+     "votes": 61920,
+     "pct": 1.19,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Portuguese Workers' Communist Party",
+     "party": "pctp",
+     "votes": 60045,
+     "pct": 1.15,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 178937,
+     "pct": 3.44,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. The Portugal Ahead row is the source table's bloc total, which also counts the separate lists of Social Democratic Party (5 seats), CDS – People's Party (0 seats) and Alliance Azores (0 seats). Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "paf",
+    "11": "paf",
+    "12": "ps",
+    "13": "paf",
+    "14": "paf",
+    "15": "ps",
+    "16": "paf",
+    "17": "paf",
+    "18": "paf",
+    "20": "ps",
+    "30": "paf",
+    "01": "paf",
+    "02": "ps",
+    "03": "paf",
+    "04": "paf",
+    "05": "ps",
+    "06": "paf",
+    "07": "ps",
+    "08": "ps",
+    "09": "paf"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2019",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2019-10-06",
+   "totalSeats": 230,
+   "turnout": 48.6,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election",
+    "revid": 1375160743
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1903687,
+     "pct": 38.21,
+     "seats": 108,
+     "change": 22,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1454283,
+     "pct": 29.19,
+     "seats": 79,
+     "change": -10
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 498549,
+     "pct": 10.01,
+     "seats": 19,
+     "change": 0
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 332018,
+     "pct": 6.66,
+     "seats": 12,
+     "change": -5
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 221094,
+     "pct": 4.44,
+     "seats": 5,
+     "change": -13
+    },
+    {
+     "name": "People Animals Nature",
+     "party": "pan",
+     "votes": 173931,
+     "pct": 3.49,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "Chega",
+     "party": "chega",
+     "votes": 67502,
+     "pct": 1.35,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Liberal Initiative",
+     "party": "il",
+     "votes": 67443,
+     "pct": 1.35,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "LIVRE",
+     "party": "livre",
+     "votes": 56940,
+     "pct": 1.14,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 207162,
+     "pct": 4.16,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "psd",
+    "18": "psd",
+    "20": "ps",
+    "30": "psd",
+    "01": "ps",
+    "02": "ps",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2022",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2022-01-30",
+   "totalSeats": 230,
+   "turnout": 51.46,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2022_Portuguese_legislative_election",
+    "revid": 1378440802
+   },
+   "candidates": [
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 2302601,
+     "pct": 42.5,
+     "seats": 120,
+     "change": 12,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "votes": 1618381,
+     "pct": 29.87,
+     "seats": 77,
+     "change": -2
+    },
+    {
+     "name": "Chega",
+     "party": "chega",
+     "votes": 399659,
+     "pct": 7.38,
+     "seats": 12,
+     "change": 11
+    },
+    {
+     "name": "Liberal Initiative",
+     "party": "il",
+     "votes": 273687,
+     "pct": 5.05,
+     "seats": 8,
+     "change": 7
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 238920,
+     "pct": 4.41,
+     "seats": 6,
+     "change": -6
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 244603,
+     "pct": 4.51,
+     "seats": 5,
+     "change": -14
+    },
+    {
+     "name": "People Animals Nature",
+     "party": "pan",
+     "votes": 88152,
+     "pct": 1.63,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "LIVRE",
+     "party": "livre",
+     "votes": 71232,
+     "pct": 1.31,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "CDS – People's Party",
+     "party": "cds",
+     "votes": 89181,
+     "pct": 1.65,
+     "seats": 0,
+     "change": -5
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 91299,
+     "pct": 1.69,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. The Social Democratic Party row is the source table's bloc total, which also counts the separate lists of Madeira First (3 seats) and Democratic Alliance (2 seats). Region winners are the lists with the most votes in each district (district table in the same article). The vote in the Europe constituency was re-run in March 2022 after the Constitutional Court annulled it (source footnote).",
+   "regionWinners": {
+    "10": "ps",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "ps",
+    "18": "ps",
+    "20": "ps",
+    "30": "psd",
+    "01": "ps",
+    "02": "ps",
+    "03": "ps",
+    "04": "ps",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2022_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-assembly-2024",
+   "office": "Assembly of the Republic",
+   "kind": "legislative",
+   "date": "2024-03-10",
+   "totalSeats": 230,
+   "turnout": 59.9,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2024_Portuguese_legislative_election",
+    "revid": 1377846654
+   },
+   "candidates": [
+    {
+     "name": "Democratic Alliance",
+     "party": "ad",
+     "votes": 1867442,
+     "pct": 30.15,
+     "seats": 80,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 1812443,
+     "pct": 29.26,
+     "seats": 78,
+     "change": -42
+    },
+    {
+     "name": "Chega",
+     "party": "chega",
+     "votes": 1169781,
+     "pct": 18.88,
+     "seats": 50,
+     "change": 38
+    },
+    {
+     "name": "Liberal Initiative",
+     "party": "il",
+     "votes": 319877,
+     "pct": 5.16,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Left Bloc",
+     "party": "be",
+     "votes": 282314,
+     "pct": 4.56,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Unitary Democratic Coalition",
+     "party": "cdu",
+     "votes": 205551,
+     "pct": 3.32,
+     "seats": 4,
+     "change": -2
+    },
+    {
+     "name": "LIVRE",
+     "party": "livre",
+     "votes": 204875,
+     "pct": 3.31,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "People Animals Nature",
+     "party": "pan",
+     "votes": 126125,
+     "pct": 2.04,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "National Democratic Alternative",
+     "party": "adn",
+     "votes": 102134,
+     "pct": 1.65,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 104167,
+     "pct": 1.68,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); the article's percentages are of all votes cast. The Democratic Alliance row is the source table's bloc total, which also counts the separate lists of Madeira First (3 seats) and People's Monarchist Party (0 seats). Region winners are the lists with the most votes in each district (district table in the same article).",
+   "regionWinners": {
+    "10": "ad",
+    "11": "ps",
+    "12": "ps",
+    "13": "ad",
+    "14": "ps",
+    "15": "ps",
+    "16": "ad",
+    "17": "ad",
+    "18": "ad",
+    "20": "ad",
+    "30": "ad",
+    "01": "ad",
+    "02": "ps",
+    "03": "ad",
+    "04": "ad",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "chega",
+    "09": "ad"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2024_Portuguese_legislative_election"
+  },
+  {
+   "id": "pt-president-1949",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1949-02-13",
+   "note": "Estado Novo, opposition excluded",
+   "turnout": 77.61,
+   "source": {
+    "name": "Wikipedia, citing ISCSP and De Almeida (Elections in Europe, 2010)",
+    "url": "https://en.wikipedia.org/wiki/1949_Portuguese_presidential_election",
+    "revid": 1323415397
+   },
+   "candidates": [
+    {
+     "name": "Óscar Carmona",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "regionWinners": {
+    "10": "un",
+    "11": "un",
+    "12": "un",
+    "13": "un",
+    "14": "un",
+    "15": "un",
+    "16": "un",
+    "17": "un",
+    "18": "un",
+    "20": "un",
+    "30": "un",
+    "01": "un",
+    "02": "un",
+    "03": "un",
+    "04": "un",
+    "05": "un",
+    "06": "un",
+    "07": "un",
+    "08": "un",
+    "09": "un"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1949_Portuguese_presidential_election",
+   "notes": "Óscar Carmona was the only candidate on the ballot after José Norton de Matos withdrew; the source gives no vote count for him, only 875,598 votes cast. Turnout is votes cast over the electorate. His party is from the article's infobox (the results table names none). Region winners: as the only candidate on the ballot he carried every district (the article has no district table)."
+  },
+  {
+   "id": "pt-president-1951",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1951-07-22",
+   "note": "Estado Novo, opposition excluded",
+   "turnout": 77.17,
+   "source": {
+    "name": "Wikipedia, citing ISCSP and De Almeida (Elections in Europe, 2010)",
+    "url": "https://en.wikipedia.org/wiki/1951_Portuguese_presidential_election",
+    "revid": 1273794926
+   },
+   "candidates": [
+    {
+     "name": "Francisco Craveiro Lopes",
+     "party": "un",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "regionWinners": {
+    "10": "un",
+    "11": "un",
+    "12": "un",
+    "13": "un",
+    "14": "un",
+    "15": "un",
+    "16": "un",
+    "17": "un",
+    "18": "un",
+    "20": "un",
+    "30": "un",
+    "01": "un",
+    "02": "un",
+    "03": "un",
+    "04": "un",
+    "05": "un",
+    "06": "un",
+    "07": "un",
+    "08": "un",
+    "09": "un"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1951_Portuguese_presidential_election",
+   "notes": "Francisco Craveiro Lopes was the only candidate on the ballot after Manuel Quintão Meireles withdrew; the source gives no vote count for him, only 965,236 votes cast. Turnout is votes cast over the electorate. Region winners: as the only candidate on the ballot he carried every district (the article has no district table)."
+  },
+  {
+   "id": "pt-president-1958",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1958-06-08",
+   "note": "Estado Novo, restricted franchise",
+   "turnout": 77.35,
+   "source": {
+    "name": "Wikipedia, citing Fórum História, De Almeida and the Museum of the Presidency",
+    "url": "https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election",
+    "revid": 1354492307
+   },
+   "candidates": [
+    {
+     "name": "Américo Tomás",
+     "party": "un",
+     "votes": 765081,
+     "pct": 76.42,
+     "winner": true
+    },
+    {
+     "name": "Humberto Delgado",
+     "party": "ind",
+     "votes": 236057,
+     "pct": 23.58
+    }
+   ],
+   "regionWinners": {
+    "10": "un",
+    "11": "un",
+    "12": "un",
+    "13": "un",
+    "14": "un",
+    "15": "un",
+    "16": "un",
+    "17": "un",
+    "18": "un",
+    "30": "un",
+    "01": "un",
+    "02": "un",
+    "03": "un",
+    "04": "un",
+    "05": "un",
+    "06": "un",
+    "07": "un",
+    "08": "un",
+    "09": "un"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district; the Azores are left out because the table has only Angra do Heroísmo and Ponta Delgada of its three districts (district table in the same article). Humberto Delgado ran as an independent opposition candidate; the article reports widespread fraud allegations."
+  },
+  {
+   "id": "pt-president-1976",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1976-06-27",
+   "turnout": 75.47,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1976_Portuguese_presidential_election",
+    "revid": 1373901755
+   },
+   "candidates": [
+    {
+     "name": "António Ramalho Eanes",
+     "party": "ind",
+     "votes": 2967137,
+     "pct": 61.59,
+     "winner": true
+    },
+    {
+     "name": "Otelo Saraiva de Carvalho",
+     "party": "otelo",
+     "votes": 792760,
+     "pct": 16.46
+    },
+    {
+     "name": "José Pinheiro de Azevedo",
+     "party": "azevedo",
+     "votes": 692147,
+     "pct": 14.37
+    },
+    {
+     "name": "Octávio Pato",
+     "party": "pcp",
+     "votes": 365586,
+     "pct": 7.59
+    }
+   ],
+   "regionWinners": {
+    "10": "ind",
+    "11": "ind",
+    "12": "ind",
+    "13": "ind",
+    "14": "ind",
+    "15": "otelo",
+    "16": "ind",
+    "17": "ind",
+    "18": "ind",
+    "20": "ind",
+    "30": "ind",
+    "01": "ind",
+    "02": "ind",
+    "03": "ind",
+    "04": "ind",
+    "05": "ind",
+    "06": "ind",
+    "07": "ind",
+    "08": "ind",
+    "09": "ind"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1976_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-1980",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1980-12-07",
+   "turnout": 84.39,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1980_Portuguese_presidential_election",
+    "revid": 1371810635
+   },
+   "candidates": [
+    {
+     "name": "António Ramalho Eanes",
+     "party": "ind",
+     "votes": 3262520,
+     "pct": 56.44,
+     "winner": true
+    },
+    {
+     "name": "António Soares Carneiro",
+     "party": "ad",
+     "votes": 2325481,
+     "pct": 40.23
+    },
+    {
+     "name": "Otelo Saraiva de Carvalho",
+     "party": "fup",
+     "votes": 85896,
+     "pct": 1.49
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 106345,
+     "pct": 1.84
+    }
+   ],
+   "regionWinners": {
+    "10": "ad",
+    "11": "ind",
+    "12": "ind",
+    "13": "ind",
+    "14": "ind",
+    "15": "ind",
+    "16": "ad",
+    "17": "ad",
+    "18": "ad",
+    "20": "ind",
+    "30": "ad",
+    "01": "ad",
+    "02": "ind",
+    "03": "ind",
+    "04": "ad",
+    "05": "ind",
+    "06": "ind",
+    "07": "ind",
+    "08": "ind",
+    "09": "ad"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1980_Portuguese_presidential_election",
+   "notes": "Others: Carlos Galvão de Melo, António Pires Veloso, António Aires Rodrigues. Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-1986",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1986-01-26",
+   "turnout": 77.99,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1986_Portuguese_presidential_election",
+    "revid": 1371972999
+   },
+   "candidates": [
+    {
+     "name": "Mário Soares",
+     "party": "ps",
+     "votes": 3010756,
+     "pct": 51.18,
+     "winner": true
+    },
+    {
+     "name": "Diogo Freitas do Amaral",
+     "party": "cds",
+     "votes": 2872064,
+     "pct": 48.82
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "1986-01-26",
+     "candidates": [
+      {
+       "name": "Diogo Freitas do Amaral",
+       "party": "cds",
+       "votes": 2629597,
+       "pct": 46.31
+      },
+      {
+       "name": "Mário Soares",
+       "party": "ps",
+       "votes": 1443683,
+       "pct": 25.43
+      },
+      {
+       "name": "Francisco Salgado Zenha",
+       "party": "ind",
+       "votes": 1185867,
+       "pct": 20.88
+      },
+      {
+       "name": "Maria de Lourdes Pintasilgo",
+       "party": "pintasilgo",
+       "votes": 418961,
+       "pct": 7.38
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "1986-02-16",
+     "candidates": [
+      {
+       "name": "Mário Soares",
+       "party": "ps",
+       "votes": 3010756,
+       "pct": 51.18,
+       "winner": true
+      },
+      {
+       "name": "Diogo Freitas do Amaral",
+       "party": "cds",
+       "votes": 2872064,
+       "pct": 48.82
+      }
+     ]
+    }
+   ],
+   "regionWinners": {
+    "10": "cds",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "cds",
+    "17": "cds",
+    "18": "cds",
+    "20": "cds",
+    "30": "cds",
+    "01": "cds",
+    "02": "ps",
+    "03": "cds",
+    "04": "cds",
+    "05": "cds",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "cds"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1986_Portuguese_presidential_election",
+   "notes": "Turnout is the run-off's (first round 75.39%). Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-1991",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1991-01-13",
+   "turnout": 62.16,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1991_Portuguese_presidential_election",
+    "revid": 1373901772
+   },
+   "candidates": [
+    {
+     "name": "Mário Soares",
+     "party": "ps",
+     "votes": 3459521,
+     "pct": 70.35,
+     "winner": true
+    },
+    {
+     "name": "Basílio Horta",
+     "party": "cds",
+     "votes": 696379,
+     "pct": 14.16
+    },
+    {
+     "name": "Carlos Carvalhas",
+     "party": "pcp",
+     "votes": 635373,
+     "pct": 12.92
+    },
+    {
+     "name": "Carlos Manuel Marques",
+     "party": "udp",
+     "votes": 126581,
+     "pct": 2.57
+    }
+   ],
+   "regionWinners": {
+    "10": "ps",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "ps",
+    "18": "ps",
+    "20": "ps",
+    "30": "ps",
+    "01": "ps",
+    "02": "ps",
+    "03": "ps",
+    "04": "ps",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1991_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-1996",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1996-01-14",
+   "turnout": 66.29,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/1996_Portuguese_presidential_election",
+    "revid": 1371811573
+   },
+   "candidates": [
+    {
+     "name": "Jorge Sampaio",
+     "party": "ps",
+     "votes": 3035056,
+     "pct": 53.91,
+     "winner": true
+    },
+    {
+     "name": "Aníbal Cavaco Silva",
+     "party": "psd",
+     "votes": 2595131,
+     "pct": 46.09
+    }
+   ],
+   "regionWinners": {
+    "10": "psd",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "ps",
+    "03": "psd",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1996_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-2001",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2001-01-14",
+   "turnout": 49.71,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2001_Portuguese_presidential_election",
+    "revid": 1374338167
+   },
+   "candidates": [
+    {
+     "name": "Jorge Sampaio",
+     "party": "ps",
+     "votes": 2401015,
+     "pct": 55.55,
+     "winner": true
+    },
+    {
+     "name": "Joaquim Ferreira do Amaral",
+     "party": "psd",
+     "votes": 1498948,
+     "pct": 34.68
+    },
+    {
+     "name": "António Abreu",
+     "party": "pcp",
+     "votes": 223196,
+     "pct": 5.16
+    },
+    {
+     "name": "Fernando Rosas",
+     "party": "be",
+     "votes": 129840,
+     "pct": 3
+    },
+    {
+     "name": "António Garcia Pereira",
+     "party": "pctp",
+     "votes": 68900,
+     "pct": 1.59
+    }
+   ],
+   "regionWinners": {
+    "10": "ps",
+    "11": "ps",
+    "12": "ps",
+    "13": "ps",
+    "14": "ps",
+    "15": "ps",
+    "16": "ps",
+    "17": "ps",
+    "18": "ps",
+    "20": "ps",
+    "30": "ps",
+    "01": "ps",
+    "02": "ps",
+    "03": "ps",
+    "04": "psd",
+    "05": "ps",
+    "06": "ps",
+    "07": "ps",
+    "08": "ps",
+    "09": "ps"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2001_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-2006",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2006-01-22",
+   "turnout": 61.53,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2006_Portuguese_presidential_election",
+    "revid": 1374338206
+   },
+   "candidates": [
+    {
+     "name": "Aníbal Cavaco Silva",
+     "party": "psd",
+     "votes": 2773431,
+     "pct": 50.54,
+     "winner": true
+    },
+    {
+     "name": "Manuel Alegre",
+     "party": "ind",
+     "votes": 1138297,
+     "pct": 20.74
+    },
+    {
+     "name": "Mário Soares",
+     "party": "ps",
+     "votes": 785355,
+     "pct": 14.31
+    },
+    {
+     "name": "Jerónimo de Sousa",
+     "party": "pcp",
+     "votes": 474083,
+     "pct": 8.64
+    },
+    {
+     "name": "Francisco Louçã",
+     "party": "be",
+     "votes": 292198,
+     "pct": 5.32
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 23983,
+     "pct": 0.44
+    }
+   ],
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "psd",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "psd",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2006_Portuguese_presidential_election",
+   "notes": "Others: António Garcia Pereira. Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district; left out: Beja (the row's votes and percentages disagree on the leader) (district table in the same article)."
+  },
+  {
+   "id": "pt-president-2011",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2011-01-23",
+   "turnout": 46.52,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2011_Portuguese_presidential_election",
+    "revid": 1377879191
+   },
+   "candidates": [
+    {
+     "name": "Aníbal Cavaco Silva",
+     "party": "psd",
+     "votes": 2231956,
+     "pct": 52.95,
+     "winner": true
+    },
+    {
+     "name": "Manuel Alegre",
+     "party": "ps",
+     "votes": 831838,
+     "pct": 19.74
+    },
+    {
+     "name": "Fernando Nobre",
+     "party": "ind",
+     "votes": 593021,
+     "pct": 14.07
+    },
+    {
+     "name": "Francisco Lopes",
+     "party": "pcp",
+     "votes": 301017,
+     "pct": 7.14
+    },
+    {
+     "name": "José Manuel Coelho",
+     "party": "pnd",
+     "votes": 189918,
+     "pct": 4.51
+    },
+    {
+     "name": "Defensor Moura",
+     "party": "moura",
+     "votes": 67110,
+     "pct": 1.59
+    }
+   ],
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "psd",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "psd",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "psd",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-2016",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2016-01-24",
+   "turnout": 48.66,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2016_Portuguese_presidential_election",
+    "revid": 1376030827
+   },
+   "candidates": [
+    {
+     "name": "Marcelo Rebelo de Sousa",
+     "party": "psd",
+     "votes": 2413956,
+     "pct": 52,
+     "winner": true
+    },
+    {
+     "name": "António Sampaio da Nóvoa",
+     "party": "ind",
+     "votes": 1062138,
+     "pct": 22.88
+    },
+    {
+     "name": "Marisa Matias",
+     "party": "be",
+     "votes": 469814,
+     "pct": 10.12
+    },
+    {
+     "name": "Maria de Belém",
+     "party": "belem",
+     "votes": 196765,
+     "pct": 4.24
+    },
+    {
+     "name": "Edgar Silva",
+     "party": "pcp",
+     "votes": 183051,
+     "pct": 3.94
+    },
+    {
+     "name": "Vitorino Silva",
+     "party": "vitorino",
+     "votes": 152374,
+     "pct": 3.28
+    },
+    {
+     "name": "Paulo de Morais",
+     "party": "morais",
+     "votes": 100191,
+     "pct": 2.16
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 63726,
+     "pct": 1.37
+    }
+   ],
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "psd",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "psd",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "psd",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2016_Portuguese_presidential_election",
+   "notes": "Others: Henrique Neto, Jorge Sequeira, Cândido Ferreira. Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  },
+  {
+   "id": "pt-president-2021",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2021-01-24",
+   "turnout": 39.26,
+   "source": {
+    "name": "Wikipedia, citing the National Elections Commission (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2021_Portuguese_presidential_election",
+    "revid": 1378565642
+   },
+   "candidates": [
+    {
+     "name": "Marcelo Rebelo de Sousa",
+     "party": "psd",
+     "votes": 2531692,
+     "pct": 60.67,
+     "winner": true
+    },
+    {
+     "name": "Ana Gomes",
+     "party": "ind",
+     "votes": 540823,
+     "pct": 12.96
+    },
+    {
+     "name": "André Ventura",
+     "party": "chega",
+     "votes": 497746,
+     "pct": 11.93
+    },
+    {
+     "name": "João Ferreira",
+     "party": "pcp",
+     "votes": 179764,
+     "pct": 4.31
+    },
+    {
+     "name": "Marisa Matias",
+     "party": "be",
+     "votes": 165127,
+     "pct": 3.96
+    },
+    {
+     "name": "Tiago Mayan Gonçalves",
+     "party": "il",
+     "votes": 134991,
+     "pct": 3.23
+    },
+    {
+     "name": "Vitorino Silva",
+     "party": "rir",
+     "votes": 123031,
+     "pct": 2.95
+    }
+   ],
+   "regionWinners": {
+    "10": "psd",
+    "11": "psd",
+    "12": "psd",
+    "13": "psd",
+    "14": "psd",
+    "15": "psd",
+    "16": "psd",
+    "17": "psd",
+    "18": "psd",
+    "20": "psd",
+    "30": "psd",
+    "01": "psd",
+    "02": "psd",
+    "03": "psd",
+    "04": "psd",
+    "05": "psd",
+    "06": "psd",
+    "07": "psd",
+    "08": "psd",
+    "09": "psd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2021_Portuguese_presidential_election",
+   "notes": "Shares are of valid votes (excluding blank and invalid ballots); turnout is all votes cast over the electorate. Region winners are the candidates with the most votes in each district (district table in the same article)."
+  }
+ ]
+}

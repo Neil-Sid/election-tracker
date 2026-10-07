@@ -1,0 +1,5017 @@
+{
+  "code": "BR",
+  "parties": {
+    "psd1945": {
+      "name": "Social Democratic Party (1945–65)",
+      "color": "#0087DC",
+      "article": "Social Democratic Party (Brazil, 1945–1965)"
+    },
+    "udn": {
+      "name": "National Democratic Union",
+      "color": "#000080",
+      "article": "National Democratic Union (Brazil)"
+    },
+    "ptb1945": {
+      "name": "Brazilian Labour Party (1945–65)",
+      "color": "#CC0000",
+      "article": "Brazilian Labour Party (1945)"
+    },
+    "psp": {
+      "name": "Social Progressive Party",
+      "color": "#FF7F50",
+      "article": "Social Progressive Party"
+    },
+    "pr1945": {
+      "name": "Republican Party (1945–65)",
+      "color": "#009F3C",
+      "article": "Republican Party (Brazil)"
+    },
+    "ptn1945": {
+      "name": "National Labour Party (1945–65)",
+      "color": "#20B2AA",
+      "article": "National Labour Party (Brazil, 1945–1965)"
+    },
+    "pst1946": {
+      "name": "Social Labour Party (1946–65)",
+      "color": "#8E44AD"
+    },
+    "prt": {
+      "name": "Labour Republican Party",
+      "color": "#DB7093"
+    },
+    "prp1945": {
+      "name": "Popular Representation Party",
+      "color": "#2F4F4F",
+      "article": "Popular Representation Party"
+    },
+    "pdc": {
+      "name": "Christian Democratic Party",
+      "color": "#FF7700",
+      "article": "Christian Democratic Party (Brazil)"
+    },
+    "plib": {
+      "name": "Liberator Party",
+      "color": "#F9AF1E",
+      "article": "Liberator Party (Brazil)"
+    },
+    "mtr": {
+      "name": "Labour Renewal Movement",
+      "color": "#23FF00"
+    },
+    "arena": {
+      "name": "National Renewal Alliance",
+      "color": "#0067A5",
+      "article": "National Renewal Alliance"
+    },
+    "pds": {
+      "name": "Democratic Social Party",
+      "color": "#0A00C5",
+      "article": "Democratic Social Party"
+    },
+    "dem": {
+      "name": "Democrats",
+      "color": "#8CC63E",
+      "article": "Democrats (Brazil)"
+    },
+    "pl1985": {
+      "name": "Liberal Party (1985–2006)",
+      "color": "#080074",
+      "article": "Liberal Party (Brazil, 1985)"
+    },
+    "pcb": {
+      "name": "Brazilian Communist Party",
+      "color": "#4A4A4A",
+      "article": "Brazilian Communist Party"
+    },
+    "pmun": {
+      "name": "Brazilian Municipalist Party",
+      "color": "#0066CC"
+    },
+    "prn": {
+      "name": "National Reconstruction Party",
+      "color": "#9370DB",
+      "article": "Act (Brazil)"
+    },
+    "ptr": {
+      "name": "Renovator Labour Party",
+      "color": "#FA8072",
+      "article": "Renovator Labour Party"
+    },
+    "pst": {
+      "name": "Social Labour Party",
+      "color": "#5C9CD7",
+      "article": "Social Labour Party"
+    },
+    "pmn": {
+      "name": "Party of National Mobilization",
+      "color": "#BC8F8F",
+      "article": "National Mobilization"
+    },
+    "prs": {
+      "name": "Social Reforms Party",
+      "color": "#8E6C8A"
+    },
+    "psd1987": {
+      "name": "Social Democratic Party (1987–2003)",
+      "color": "#008B8B",
+      "article": "Social Democratic Party (Brazil, 1987)"
+    },
+    "ppr": {
+      "name": "Reform Progressive Party",
+      "color": "#0000FF",
+      "article": "Reform Progressive Party"
+    },
+    "pp1993": {
+      "name": "Progressive Party (1993–95)",
+      "color": "#9C6B30",
+      "article": "Progressive Party (Brazil, 1993)"
+    },
+    "prona": {
+      "name": "Party of the Reconstruction of the National Order",
+      "color": "#121212",
+      "article": "Party of the Reconstruction of the National Order"
+    },
+    "prp": {
+      "name": "Progressive Republican Party",
+      "color": "#7FE3D6",
+      "article": "Progressive Republican Party (Brazil)"
+    },
+    "psl": {
+      "name": "Social Liberal Party",
+      "color": "#808000",
+      "article": "Social Liberal Party (Brazil)"
+    },
+    "phs": {
+      "name": "Humanist Party of Solidarity",
+      "color": "#FFB478",
+      "article": "Humanist Party of Solidarity"
+    },
+    "dc": {
+      "name": "Christian Democracy",
+      "color": "#87CEEB",
+      "article": "Christian Democracy (Brazil)"
+    },
+    "prtb": {
+      "name": "Brazilian Labour Renewal Party",
+      "color": "#7A6A53",
+      "article": "Brazilian Labour Renewal Party"
+    },
+    "ppl": {
+      "name": "Free Fatherland Party",
+      "color": "#4B0082",
+      "article": "Free Fatherland Party (Brazil)"
+    },
+    "pan": {
+      "name": "Party of the Nation's Retirees",
+      "color": "#B8860B",
+      "article": "Party of the Nation's Retirees"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    }
+  },
+  "elections": [
+    {
+      "id": "br-president-1950",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1950-10-03",
+      "turnout": 72.06,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1950_Brazilian_general_election",
+        "revid": 1378245005
+      },
+      "candidates": [
+        {
+          "name": "Getúlio Vargas",
+          "party": "ptb1945",
+          "votes": 3849040,
+          "pct": 48.73,
+          "winner": true
+        },
+        {
+          "name": "Eduardo Gomes",
+          "party": "udn",
+          "votes": 2342384,
+          "pct": 29.66
+        },
+        {
+          "name": "Cristiano Machado",
+          "party": "psd1945",
+          "votes": 1697193,
+          "pct": 21.49
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 9466,
+          "pct": 0.12
+        }
+      ],
+      "notes": "Single round; Vargas won with a plurality."
+    },
+    {
+      "id": "br-chamber-1950",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1950-10-03",
+      "totalSeats": 304,
+      "turnout": 72,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1950_Brazilian_general_election",
+        "revid": 1378245005
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 2068405,
+          "pct": 26.99,
+          "seats": 112,
+          "winner": true
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 1301489,
+          "pct": 16.99,
+          "seats": 81
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 1262000,
+          "pct": 16.47,
+          "seats": 51
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 558792,
+          "pct": 7.29,
+          "seats": 24
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 216207,
+          "pct": 2.82,
+          "seats": 11
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 163341,
+          "pct": 2.13,
+          "seats": 9
+        },
+        {
+          "name": "National Labor Party",
+          "party": "ptn1945",
+          "votes": 211090,
+          "pct": 2.75,
+          "seats": 5
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 55338,
+          "pct": 0.72,
+          "seats": 5
+        },
+        {
+          "name": "Popular Representation Party",
+          "party": "prp1945",
+          "votes": 72397,
+          "pct": 0.94,
+          "seats": 2
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 56965,
+          "pct": 0.74,
+          "seats": 2
+        },
+        {
+          "name": "Labour Republican Party",
+          "party": "prt",
+          "votes": 73501,
+          "pct": 0.96,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 36638,
+          "pct": 0.48,
+          "seats": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1586050,
+          "pct": 20.7,
+          "seats": 0
+        }
+      ],
+      "notes": "Others includes 1,437,573 votes (18.76%) cast for 11 multi-party alliance lists; the source credits their seats to the member parties. The source table has no +/− column."
+    },
+    {
+      "id": "br-senate-1950",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1950-10-03",
+      "totalSeats": 22,
+      "turnout": 77.71,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1950_Brazilian_general_election",
+        "revid": 1378245005
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 1204349,
+          "pct": 15.45,
+          "seats": 6,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 814796,
+          "pct": 10.45,
+          "seats": 5
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 749989,
+          "pct": 9.62,
+          "seats": 4
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 524261,
+          "pct": 6.72,
+          "seats": 3
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 566520,
+          "pct": 7.27,
+          "seats": 2
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 126437,
+          "pct": 1.62,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 15458,
+          "pct": 0.2,
+          "seats": 1
+        },
+        {
+          "name": "Popular Representation Party",
+          "party": "prp1945",
+          "votes": 244769,
+          "pct": 3.14,
+          "seats": 0
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 88614,
+          "pct": 1.14,
+          "seats": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3460943,
+          "pct": 44.39,
+          "seats": 0
+        }
+      ],
+      "notes": "22 seats were contested; seats are seats won in this election, not the Senate's full composition. The source's Others row holds 43.08% of the vote and is not broken down."
+    },
+    {
+      "id": "br-chamber-1954",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1954-10-03",
+      "totalSeats": 326,
+      "turnout": 65.48,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1954_Brazilian_legislative_election",
+        "revid": 1376546265
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 2136220,
+          "pct": 23.13,
+          "seats": 114,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 1318101,
+          "pct": 14.27,
+          "seats": 74,
+          "change": -7
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 1447784,
+          "pct": 15.68,
+          "seats": 56,
+          "change": 5
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 863401,
+          "pct": 9.35,
+          "seats": 32,
+          "change": 12
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 246487,
+          "pct": 2.67,
+          "seats": 19,
+          "change": 8
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 114665,
+          "pct": 1.24,
+          "seats": 8,
+          "change": 3
+        },
+        {
+          "name": "National Labor Party",
+          "party": "ptn1945",
+          "votes": 190839,
+          "pct": 2.07,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 136329,
+          "pct": 1.48,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Popular Representation Party",
+          "party": "prp1945",
+          "votes": 70346,
+          "pct": 0.76,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 117345,
+          "pct": 1.27,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 32440,
+          "pct": 0.35,
+          "seats": 2,
+          "change": -7
+        },
+        {
+          "name": "Labour Republican Party",
+          "party": "prt",
+          "votes": 65325,
+          "pct": 0.71,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2496501,
+          "pct": 27.03,
+          "seats": 6,
+          "change": 6
+        }
+      ],
+      "notes": "Others includes 2,450,871 votes (26.54%) cast for 17 multi-party alliance lists (seats credited to member parties) and the source's Others row (6 seats, +6). The table gives the Social Progressive Party +12, although the 1950 table shows it with 24 seats."
+    },
+    {
+      "id": "br-senate-1954",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1954-10-03",
+      "totalSeats": 42,
+      "turnout": 65.5,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1954_Brazilian_legislative_election",
+        "revid": 1376546265
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 2102000,
+          "pct": 13.33,
+          "seats": 16,
+          "winner": true
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 1758872,
+          "pct": 11.16,
+          "seats": 10
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 1333345,
+          "pct": 8.46,
+          "seats": 10
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 1843230,
+          "pct": 11.69,
+          "seats": 2
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 44342,
+          "pct": 0.28,
+          "seats": 2
+        },
+        {
+          "name": "National Labor Party",
+          "party": "ptn1945",
+          "votes": 551549,
+          "pct": 3.5,
+          "seats": 1
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 134110,
+          "pct": 0.85,
+          "seats": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7997918,
+          "pct": 50.73,
+          "seats": 0
+        }
+      ],
+      "notes": "42 seats were contested; seats are seats won in this election, not the Senate's full composition. Others includes the source's 'Coalitions and others' row (7,759,564 votes, 49.22%). The vote total (15,765,366) is higher than the number of voters (9,862,892)."
+    },
+    {
+      "id": "br-president-1955",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1955-10-03",
+      "turnout": 59.68,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas, and an IBGE statistical yearbook (SAP)",
+        "url": "https://en.wikipedia.org/wiki/1955_Brazilian_presidential_election",
+        "revid": 1378245014
+      },
+      "candidates": [
+        {
+          "name": "Juscelino Kubitschek",
+          "party": "psd1945",
+          "votes": 3077411,
+          "pct": 35.68,
+          "winner": true
+        },
+        {
+          "name": "Juarez Távora",
+          "party": "udn",
+          "votes": 2610462,
+          "pct": 30.27
+        },
+        {
+          "name": "Adhemar de Barros",
+          "party": "psp",
+          "votes": 2222725,
+          "pct": 25.77
+        },
+        {
+          "name": "Plínio Salgado",
+          "party": "prp1945",
+          "votes": 714379,
+          "pct": 8.28
+        }
+      ],
+      "notes": "Single round; Kubitschek won with a plurality."
+    },
+    {
+      "id": "br-chamber-1958",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1958-10-03",
+      "totalSeats": 326,
+      "turnout": 92.01,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1958_Brazilian_legislative_election",
+        "revid": 1376546293
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 2296640,
+          "pct": 19.94,
+          "seats": 69,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 1830621,
+          "pct": 15.89,
+          "seats": 46
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 1644314,
+          "pct": 14.27,
+          "seats": 43
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 583220,
+          "pct": 5.06,
+          "seats": 14
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 291761,
+          "pct": 2.53,
+          "seats": 7
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 313635,
+          "pct": 2.72,
+          "seats": 6
+        },
+        {
+          "name": "Popular Representation Party",
+          "party": "prp1945",
+          "votes": 179589,
+          "pct": 1.56,
+          "seats": 2
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 120956,
+          "pct": 1.05,
+          "seats": 2
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 115365,
+          "pct": 1,
+          "seats": 2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 4142957,
+          "pct": 35.97,
+          "seats": 135
+        }
+      ],
+      "notes": "135 seats were won by 19 multi-party coalition lists (3,983,539 votes, 34.58%), which the source does not split by party; they are in Others with the source's Others row. Party seats are only those won on each party's own lists."
+    },
+    {
+      "id": "br-senate-1958",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1958-10-03",
+      "totalSeats": 21,
+      "turnout": 92,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1958_Brazilian_legislative_election",
+        "revid": 1376546293
+      },
+      "candidates": [
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 856846,
+          "pct": 8.1,
+          "seats": 8,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 1123574,
+          "pct": 10.62,
+          "seats": 6
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 688880,
+          "pct": 6.51,
+          "seats": 6
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 59201,
+          "pct": 0.56,
+          "seats": 1
+        },
+        {
+          "name": "National Labor Party",
+          "party": "ptn1945",
+          "votes": 245872,
+          "pct": 2.32,
+          "seats": 0
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 244863,
+          "pct": 2.31,
+          "seats": 0
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 236451,
+          "pct": 2.23,
+          "seats": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7125366,
+          "pct": 67.34,
+          "seats": 0
+        }
+      ],
+      "notes": "21 seats were contested; seats are seats won in this election, not the Senate's full composition. Others includes the source's Coalitions row (7,104,129 votes, 67.14%), whose seats the table shows as '–'."
+    },
+    {
+      "id": "br-president-1960",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1960-10-03",
+      "turnout": 80.98,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas and the Regional Electoral Court of Paraíba (TRE-PB)",
+        "url": "https://en.wikipedia.org/wiki/1960_Brazilian_presidential_election",
+        "revid": 1378245017
+      },
+      "candidates": [
+        {
+          "name": "Jânio Quadros",
+          "party": "ptn1945",
+          "votes": 5636623,
+          "pct": 48.26,
+          "winner": true
+        },
+        {
+          "name": "Henrique Teixeira Lott",
+          "party": "psd1945",
+          "votes": 3846825,
+          "pct": 32.94
+        },
+        {
+          "name": "Adhemar de Barros",
+          "party": "psp",
+          "votes": 2195709,
+          "pct": 18.8
+        }
+      ],
+      "notes": "Single round. The table lists coalitions as the parties (Quadros: PTN–UDN–PDC; Lott: PSD–PTB); the party keys follow the infobox (PTN and PSD)."
+    },
+    {
+      "id": "br-chamber-1962",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1962-10-07",
+      "totalSeats": 409,
+      "turnout": 79.59,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1962_Brazilian_legislative_election",
+        "revid": 1376546332
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 2225693,
+          "pct": 18.35,
+          "seats": 79,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 1722546,
+          "pct": 14.2,
+          "seats": 63
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 1604743,
+          "pct": 13.23,
+          "seats": 55
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 269155,
+          "pct": 2.22,
+          "seats": 6
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 124337,
+          "pct": 1.02,
+          "seats": 6
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 83421,
+          "pct": 0.69,
+          "seats": 2
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 26379,
+          "pct": 0.22,
+          "seats": 2
+        },
+        {
+          "name": "Labour Renewal Movement",
+          "party": "mtr",
+          "votes": 71657,
+          "pct": 0.59,
+          "seats": 1
+        },
+        {
+          "name": "Popular Representation Party",
+          "party": "prp1945",
+          "votes": 70435,
+          "pct": 0.58,
+          "seats": 1
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 54031,
+          "pct": 0.45,
+          "seats": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 5879786,
+          "pct": 48.46,
+          "seats": 193
+        }
+      ],
+      "notes": "193 seats were won by 23 multi-party coalition lists (5,759,739 votes, 47.47%), which the source does not split by party; they are in Others with the source's Others row. Party seats are only those won on each party's own lists."
+    },
+    {
+      "id": "br-senate-1962",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1962-10-07",
+      "totalSeats": 45,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1962_Brazilian_legislative_election",
+        "revid": 1376546332
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1945",
+          "votes": 2222547,
+          "pct": 10.8,
+          "seats": 16,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb1945",
+          "votes": 2694308,
+          "pct": 13.09,
+          "seats": 12
+        },
+        {
+          "name": "National Democratic Union",
+          "party": "udn",
+          "votes": 2182647,
+          "pct": 10.6,
+          "seats": 8
+        },
+        {
+          "name": "National Labor Party",
+          "party": "ptn1945",
+          "votes": 431284,
+          "pct": 2.1,
+          "seats": 2
+        },
+        {
+          "name": "Labour Renewal Movement",
+          "party": "mtr",
+          "votes": 538789,
+          "pct": 2.62,
+          "seats": 1
+        },
+        {
+          "name": "Republican Party",
+          "party": "pr1945",
+          "votes": 408524,
+          "pct": 1.98,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 318369,
+          "pct": 1.55,
+          "seats": 1
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 269560,
+          "pct": 1.31,
+          "seats": 1
+        },
+        {
+          "name": "Liberator Party",
+          "party": "plib",
+          "votes": 191685,
+          "pct": 0.93,
+          "seats": 1
+        },
+        {
+          "name": "Social Progressive Party",
+          "party": "psp",
+          "votes": 157029,
+          "pct": 0.76,
+          "seats": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst1946",
+          "votes": 642801,
+          "pct": 3.12,
+          "seats": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 10525448,
+          "pct": 51.14,
+          "seats": 0
+        }
+      ],
+      "notes": "45 seats were contested; seats are seats won in this election, not the Senate's full composition. The source gives one combined figure (10,339,539 votes, 50.23%) for coalitions and independents; it is in Others, so the one independent senator has no vote figure. Turnout is omitted: the table's figure (159.33%) counts more votes than registered voters."
+    },
+    {
+      "id": "br-chamber-1966",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1966-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 409,
+      "turnout": 77.21,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1966_Brazilian_legislative_election",
+        "revid": 1376546390
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 8731638,
+          "pct": 63.98,
+          "seats": 277,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 4915470,
+          "pct": 36.02,
+          "seats": 132
+        }
+      ],
+      "notes": "The source table has no +/− column."
+    },
+    {
+      "id": "br-senate-1966",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1966-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 23,
+      "turnout": 77.28,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1966_Brazilian_legislative_election",
+        "revid": 1376546390
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 7719382,
+          "pct": 56.63,
+          "seats": 19,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 5911361,
+          "pct": 43.37,
+          "seats": 4
+        }
+      ],
+      "notes": "23 seats were contested; seats are seats won in this election, not the Senate's full composition."
+    },
+    {
+      "id": "br-chamber-1970",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1970-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 310,
+      "turnout": 77.45,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1970_Brazilian_legislative_election",
+        "revid": 1376546429
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 10867814,
+          "pct": 69.46,
+          "seats": 223,
+          "change": -54,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 4777927,
+          "pct": 30.54,
+          "seats": 87,
+          "change": -45
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-1970",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1970-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 46,
+      "turnout": 77.57,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1970_Brazilian_legislative_election",
+        "revid": 1376546429
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 20524470,
+          "pct": 60.43,
+          "seats": 40,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 13440875,
+          "pct": 39.57,
+          "seats": 6
+        }
+      ],
+      "notes": "46 seats were contested; seats are seats won in this election, not the Senate's full composition. Each voter had two votes (per the article), so votes exceed voters."
+    },
+    {
+      "id": "br-chamber-1974",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1974-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 364,
+      "turnout": 80.93,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1974_Brazilian_legislative_election",
+        "revid": 1376546458
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 11866599,
+          "pct": 52,
+          "seats": 203,
+          "change": -20,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 10954359,
+          "pct": 48,
+          "seats": 161,
+          "change": 74
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-1974",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1974-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 22,
+      "turnout": 80.94,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1974_Brazilian_legislative_election",
+        "revid": 1376546458
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 14486252,
+          "pct": 59,
+          "seats": 16,
+          "winner": true
+        },
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 10067796,
+          "pct": 41,
+          "seats": 6
+        }
+      ],
+      "notes": "22 seats were contested; seats are seats won in this election, not the Senate's full composition."
+    },
+    {
+      "id": "br-chamber-1978",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1978-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 422,
+      "turnout": 80.08,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1978_Brazilian_legislative_election",
+        "revid": 1376546494
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 15053387,
+          "pct": 50.42,
+          "seats": 231,
+          "change": 28,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 14803526,
+          "pct": 49.58,
+          "seats": 191,
+          "change": 30
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-1978",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1978-11-15",
+      "note": "Only two legal parties (ARENA and MDB)",
+      "totalSeats": 23,
+      "turnout": 81.76,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1978_Brazilian_legislative_election",
+        "revid": 1376546494
+      },
+      "candidates": [
+        {
+          "name": "National Renewal Alliance",
+          "party": "arena",
+          "votes": 13116194,
+          "pct": 42.93,
+          "seats": 15,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 17432948,
+          "pct": 57.07,
+          "seats": 8
+        }
+      ],
+      "notes": "23 seats were contested; seats are seats won in this election, not the Senate's full composition. The article says a 1977 reform made the election of senators indirect; the MDB won 8 of the 23 seats despite 57% of the vote."
+    },
+    {
+      "id": "br-chamber-1982",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1982-11-15",
+      "totalSeats": 479,
+      "turnout": 82.31,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1982_Brazilian_legislative_election",
+        "revid": 1376546520
+      },
+      "candidates": [
+        {
+          "name": "Democratic Social Party",
+          "party": "pds",
+          "votes": 17775738,
+          "pct": 43.22,
+          "seats": 235,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 17666773,
+          "pct": 42.96,
+          "seats": 200,
+          "change": 9
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 2394723,
+          "pct": 5.82,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 1829055,
+          "pct": 4.45,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 1458719,
+          "pct": 3.55,
+          "seats": 8,
+          "change": null
+        }
+      ],
+      "notes": "Changes for the PDS and PMDB are against ARENA and MDB in 1978."
+    },
+    {
+      "id": "br-senate-1982",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1982-11-15",
+      "totalSeats": 25,
+      "turnout": 82.8,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1982_Brazilian_legislative_election",
+        "revid": 1376546520
+      },
+      "candidates": [
+        {
+          "name": "Democratic Social Party",
+          "party": "pds",
+          "votes": 17799069,
+          "pct": 42.22,
+          "seats": 15,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 18410338,
+          "pct": 43.67,
+          "seats": 9
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 2496188,
+          "pct": 5.92,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 1909452,
+          "pct": 4.53,
+          "seats": 0
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 1538786,
+          "pct": 3.65,
+          "seats": 0
+        }
+      ],
+      "notes": "25 seats were contested; seats are seats won in this election, not the Senate's full composition."
+    },
+    {
+      "id": "br-chamber-1986",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1986-11-15",
+      "totalSeats": 487,
+      "turnout": 94.97,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1986_Brazilian_legislative_election",
+        "revid": 1376546562
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 22633805,
+          "pct": 47.84,
+          "seats": 260,
+          "change": 60,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 8374709,
+          "pct": 17.7,
+          "seats": 118,
+          "change": null
+        },
+        {
+          "name": "Democratic Social Party",
+          "party": "pds",
+          "votes": 3731735,
+          "pct": 7.89,
+          "seats": 33,
+          "change": -202
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3075429,
+          "pct": 6.5,
+          "seats": 24,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2110467,
+          "pct": 4.46,
+          "seats": 17,
+          "change": 4
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 3253999,
+          "pct": 6.88,
+          "seats": 16,
+          "change": 8
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 1335139,
+          "pct": 2.82,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 565021,
+          "pct": 1.19,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Brazilian Communist Party",
+          "party": "pcb",
+          "votes": 427618,
+          "pct": 0.9,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 297237,
+          "pct": 0.63,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 450948,
+          "pct": 0.95,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 207903,
+          "pct": 0.44,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 847148,
+          "pct": 1.79,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-1986",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1986-11-15",
+      "totalSeats": 49,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1986_Brazilian_legislative_election",
+        "revid": 1376546562
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": null,
+          "pct": null,
+          "seats": 38,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": null,
+          "pct": null,
+          "seats": 7
+        },
+        {
+          "name": "Democratic Social Party",
+          "party": "pds",
+          "votes": null,
+          "pct": null,
+          "seats": 2
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Municipalist Party",
+          "party": "pmun",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        }
+      ],
+      "notes": "49 seats were contested; seats are seats won in this election, not the Senate's full composition. The source table gives seats only, no votes."
+    },
+    {
+      "id": "br-president-1989",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1989-11-15",
+      "turnout": 85.61,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/1989_Brazilian_presidential_election",
+        "revid": 1377935054
+      },
+      "candidates": [
+        {
+          "name": "Fernando Collor",
+          "party": "prn",
+          "votes": 35090206,
+          "pct": 53.03,
+          "winner": true
+        },
+        {
+          "name": "Lula da Silva",
+          "party": "pt",
+          "votes": 31075803,
+          "pct": 46.97
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1989-11-15",
+          "candidates": [
+            {
+              "name": "Fernando Collor",
+              "party": "prn",
+              "votes": 20611030,
+              "pct": 30.48
+            },
+            {
+              "name": "Lula da Silva",
+              "party": "pt",
+              "votes": 11622321,
+              "pct": 17.19
+            },
+            {
+              "name": "Leonel Brizola",
+              "party": "pdt",
+              "votes": 11167665,
+              "pct": 16.51
+            },
+            {
+              "name": "Mário Covas",
+              "party": "psdb",
+              "votes": 7790381,
+              "pct": 11.52
+            },
+            {
+              "name": "Paulo Maluf",
+              "party": "pds",
+              "votes": 5986585,
+              "pct": 8.85
+            },
+            {
+              "name": "Guilherme Afif",
+              "party": "pl1985",
+              "votes": 3272520,
+              "pct": 4.84
+            },
+            {
+              "name": "Ulysses Guimarães",
+              "party": "mdb",
+              "votes": 3204996,
+              "pct": 4.74
+            },
+            {
+              "name": "Roberto Freire",
+              "party": "pcb",
+              "votes": 769117,
+              "pct": 1.14
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 3201271,
+              "pct": 4.73
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1989-12-17",
+          "candidates": [
+            {
+              "name": "Fernando Collor",
+              "party": "prn",
+              "votes": 35090206,
+              "pct": 53.03,
+              "winner": true
+            },
+            {
+              "name": "Lula da Silva",
+              "party": "pt",
+              "votes": 31075803,
+              "pct": 46.97
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 88.08%. Region winners are from the run-off by federative unit.",
+      "regionWinners": {
+        "AC": "prn",
+        "AL": "prn",
+        "AP": "prn",
+        "AM": "prn",
+        "BA": "prn",
+        "CE": "prn",
+        "ES": "prn",
+        "DF": "pt",
+        "GO": "prn",
+        "MA": "prn",
+        "MT": "prn",
+        "MS": "prn",
+        "MG": "prn",
+        "PA": "prn",
+        "PB": "prn",
+        "PR": "prn",
+        "PE": "pt",
+        "PI": "prn",
+        "RJ": "pt",
+        "RN": "prn",
+        "RS": "pt",
+        "RO": "prn",
+        "RR": "prn",
+        "SC": "prn",
+        "SP": "prn",
+        "SE": "prn",
+        "TO": "prn"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1989_Brazilian_presidential_election"
+    },
+    {
+      "id": "br-chamber-1990",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1990-10-03",
+      "totalSeats": 503,
+      "turnout": 85.83,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas and Marchetti Ferraz Júnior",
+        "url": "https://en.wikipedia.org/wiki/1990_Brazilian_legislative_election",
+        "revid": 1376546597
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 7798653,
+          "pct": 19.26,
+          "seats": 108,
+          "change": -152,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 5026474,
+          "pct": 12.41,
+          "seats": 83,
+          "change": -35
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 4068078,
+          "pct": 10.04,
+          "seats": 46,
+          "change": 22
+        },
+        {
+          "name": "Democratic Social Party",
+          "party": "pds",
+          "votes": 3609196,
+          "pct": 8.91,
+          "seats": 42,
+          "change": 9
+        },
+        {
+          "name": "National Reconstruction Party",
+          "party": "prn",
+          "votes": 3357091,
+          "pct": 8.29,
+          "seats": 40,
+          "change": null
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 3515809,
+          "pct": 8.68,
+          "seats": 38,
+          "change": null
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2277882,
+          "pct": 5.62,
+          "seats": 38,
+          "change": 21
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 4128052,
+          "pct": 10.19,
+          "seats": 35,
+          "change": 19
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1205506,
+          "pct": 2.98,
+          "seats": 22,
+          "change": 17
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 1721929,
+          "pct": 4.25,
+          "seats": 16,
+          "change": 10
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 756034,
+          "pct": 1.87,
+          "seats": 11,
+          "change": 10
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 342079,
+          "pct": 0.84,
+          "seats": 6,
+          "change": 5
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 352049,
+          "pct": 0.87,
+          "seats": 5,
+          "change": 2
+        },
+        {
+          "name": "Social Reforms Party",
+          "party": "prs",
+          "votes": 243231,
+          "pct": 0.6,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Brazilian Communist Party",
+          "party": "pcb",
+          "votes": 388564,
+          "pct": 0.96,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Renovator Labour Party",
+          "party": "ptr",
+          "votes": 426848,
+          "pct": 1.05,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst",
+          "votes": 373986,
+          "pct": 0.92,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 249606,
+          "pct": 0.62,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1987",
+          "votes": 215226,
+          "pct": 0.53,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 442476,
+          "pct": 1.09,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-1990",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1990-10-03",
+      "totalSeats": 32,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1990_Brazilian_legislative_election",
+        "revid": 1376546597
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": null,
+          "pct": null,
+          "seats": 8
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": null,
+          "pct": null,
+          "seats": 4
+        },
+        {
+          "name": "National Reconstruction Party",
+          "party": "prn",
+          "votes": null,
+          "pct": null,
+          "seats": 2
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": null,
+          "pct": null,
+          "seats": 2
+        },
+        {
+          "name": "Democratic Social Party",
+          "party": "pds",
+          "votes": null,
+          "pct": null,
+          "seats": 2
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        }
+      ],
+      "notes": "32 seats were contested; seats are seats won in this election, not the Senate's full composition. The source table gives seats only, no votes. The PMDB and PFL tied on 8 seats; the article calls the PMDB the largest party, so it carries the winner flag."
+    },
+    {
+      "id": "br-president-1994",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1994-10-03",
+      "turnout": 82.24,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/1994_Brazilian_general_election",
+        "revid": 1378600461
+      },
+      "candidates": [
+        {
+          "name": "Fernando Henrique Cardoso",
+          "party": "psdb",
+          "votes": 34364961,
+          "pct": 54.28,
+          "winner": true
+        },
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "party": "pt",
+          "votes": 17122127,
+          "pct": 27.04
+        },
+        {
+          "name": "Enéas Carneiro",
+          "party": "prona",
+          "votes": 4671457,
+          "pct": 7.38
+        },
+        {
+          "name": "Orestes Quércia",
+          "party": "mdb",
+          "votes": 2772121,
+          "pct": 4.38
+        },
+        {
+          "name": "Leonel Brizola",
+          "party": "pdt",
+          "votes": 2015836,
+          "pct": 3.18
+        },
+        {
+          "name": "Esperidião Amin",
+          "party": "ppr",
+          "votes": 1739894,
+          "pct": 2.75
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 625935,
+          "pct": 0.99
+        }
+      ],
+      "notes": "Decided in the first round."
+    },
+    {
+      "id": "br-chamber-1994",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1994-10-03",
+      "totalSeats": 513,
+      "turnout": 81.97,
+      "source": {
+        "name": "Wikipedia (the results table names no source)",
+        "url": "https://en.wikipedia.org/wiki/1994_Brazilian_general_election",
+        "revid": 1378600461
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 9287049,
+          "pct": 20.32,
+          "seats": 107,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 5873370,
+          "pct": 12.85,
+          "seats": 89,
+          "change": 6
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 6350941,
+          "pct": 13.9,
+          "seats": 62,
+          "change": 24
+        },
+        {
+          "name": "Reform Progressive Party",
+          "party": "ppr",
+          "votes": 4307878,
+          "pct": 9.43,
+          "seats": 52,
+          "change": -12
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 5859347,
+          "pct": 12.82,
+          "seats": 49,
+          "change": 14
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp1993",
+          "votes": 3169626,
+          "pct": 6.94,
+          "seats": 36,
+          "change": 32
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3303434,
+          "pct": 7.23,
+          "seats": 34,
+          "change": -12
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2379773,
+          "pct": 5.21,
+          "seats": 31,
+          "change": -7
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 995298,
+          "pct": 2.18,
+          "seats": 15,
+          "change": 4
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 1603330,
+          "pct": 3.51,
+          "seats": 13,
+          "change": -3
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 567186,
+          "pct": 1.24,
+          "seats": 10,
+          "change": 5
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 257018,
+          "pct": 0.56,
+          "seats": 4,
+          "change": 3
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1987",
+          "votes": 414933,
+          "pct": 0.91,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 213734,
+          "pct": 0.47,
+          "seats": 3,
+          "change": -3
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 256485,
+          "pct": 0.56,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Progressive Republican Party",
+          "party": "prp",
+          "votes": 207307,
+          "pct": 0.45,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "National Reconstruction Party",
+          "party": "prn",
+          "votes": 184727,
+          "pct": 0.4,
+          "seats": 1,
+          "change": -39
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 462736,
+          "pct": 1.01,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "The source gives one combined vote figure (154,666, 0.34%) for the Green Party, Brazilian Communist Party, PRTB and PSTU; it is counted in Others, so the Green Party's own vote is null. The results table names no source."
+    },
+    {
+      "id": "br-senate-1994",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1994-10-03",
+      "totalSeats": 54,
+      "turnout": 82.27,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1994_Brazilian_general_election",
+        "revid": 1378600461
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 14870466,
+          "pct": 15.52,
+          "seats": 14,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 13014066,
+          "pct": 13.58,
+          "seats": 11
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 15652182,
+          "pct": 16.34,
+          "seats": 9
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 13350294,
+          "pct": 13.93,
+          "seats": 4
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 7299932,
+          "pct": 7.62,
+          "seats": 4
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp1993",
+          "votes": 4208013,
+          "pct": 4.39,
+          "seats": 4
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 4015701,
+          "pct": 4.19,
+          "seats": 3
+        },
+        {
+          "name": "Reform Progressive Party",
+          "party": "ppr",
+          "votes": 4473291,
+          "pct": 4.67,
+          "seats": 2
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 7138405,
+          "pct": 7.45,
+          "seats": 1
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 2447931,
+          "pct": 2.55,
+          "seats": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 2336549,
+          "pct": 2.44,
+          "seats": 1
+        },
+        {
+          "name": "National Reconstruction Party",
+          "party": "prn",
+          "votes": 1628491,
+          "pct": 1.7,
+          "seats": 0
+        },
+        {
+          "name": "Party of the Reconstruction of the National Order",
+          "party": "prona",
+          "votes": 1150157,
+          "pct": 1.2,
+          "seats": 0
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 963615,
+          "pct": 1.01,
+          "seats": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3264414,
+          "pct": 3.41,
+          "seats": 0
+        }
+      ],
+      "notes": "54 seats were contested; seats are seats won in this election, not the Senate's full composition."
+    },
+    {
+      "id": "br-president-1998",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1998-10-04",
+      "turnout": 78.51,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1998_Brazilian_general_election",
+        "revid": 1377998487
+      },
+      "candidates": [
+        {
+          "name": "Fernando Henrique Cardoso",
+          "party": "psdb",
+          "votes": 35936540,
+          "pct": 53.06,
+          "winner": true
+        },
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "party": "pt",
+          "votes": 21475218,
+          "pct": 31.71
+        },
+        {
+          "name": "Ciro Gomes",
+          "party": "cidadania",
+          "votes": 7426190,
+          "pct": 10.97
+        },
+        {
+          "name": "Enéas Carneiro",
+          "party": "prona",
+          "votes": 1447090,
+          "pct": 2.14
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1437527,
+          "pct": 2.12
+        }
+      ],
+      "notes": "Decided in the first round."
+    },
+    {
+      "id": "br-chamber-1998",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1998-10-04",
+      "totalSeats": 513,
+      "turnout": 78.53,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas and the Federal Senate",
+        "url": "https://en.wikipedia.org/wiki/1998_Brazilian_general_election",
+        "revid": 1377998487
+      },
+      "candidates": [
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 11526193,
+          "pct": 17.3,
+          "seats": 105,
+          "change": 16,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 11684900,
+          "pct": 17.54,
+          "seats": 99,
+          "change": 37
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 10105609,
+          "pct": 15.17,
+          "seats": 83,
+          "change": -24
+        },
+        {
+          "name": "Brazilian Progressive Party",
+          "party": "pp",
+          "votes": 7558601,
+          "pct": 11.35,
+          "seats": 60,
+          "change": null
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 8786499,
+          "pct": 13.19,
+          "seats": 58,
+          "change": 9
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 3768260,
+          "pct": 5.66,
+          "seats": 31,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3776541,
+          "pct": 5.67,
+          "seats": 25,
+          "change": -9
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 2273751,
+          "pct": 3.41,
+          "seats": 19,
+          "change": -4
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 1643881,
+          "pct": 2.47,
+          "seats": 12,
+          "change": -1
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 869270,
+          "pct": 1.3,
+          "seats": 7,
+          "change": -3
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 872348,
+          "pct": 1.31,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1987",
+          "votes": 503713,
+          "pct": 0.76,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 446256,
+          "pct": 0.67,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 360298,
+          "pct": 0.54,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Party of the Reconstruction of the National Order",
+          "party": "prona",
+          "votes": 592632,
+          "pct": 0.89,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst",
+          "votes": 193562,
+          "pct": 0.29,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Liberal Party",
+          "party": "psl",
+          "votes": 177037,
+          "pct": 0.27,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1472697,
+          "pct": 2.21,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-1998",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1998-10-04",
+      "totalSeats": 81,
+      "turnout": 78.52,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas and the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1998_Brazilian_general_election",
+        "revid": 1377998487
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 13414074,
+          "pct": 21.69,
+          "seats": 26,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 7047853,
+          "pct": 11.4,
+          "seats": 20
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 6366681,
+          "pct": 10.3,
+          "seats": 16
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 11392662,
+          "pct": 18.42,
+          "seats": 7
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3195863,
+          "pct": 5.17,
+          "seats": 4
+        },
+        {
+          "name": "Brazilian Progressive Party",
+          "party": "pp",
+          "votes": 9246089,
+          "pct": 14.95,
+          "seats": 3
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 3949025,
+          "pct": 6.39,
+          "seats": 3
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2449479,
+          "pct": 3.96,
+          "seats": 1
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 1846897,
+          "pct": 2.99,
+          "seats": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2931738,
+          "pct": 4.74,
+          "seats": 0
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (81 seats); 27 seats were contested. The table has no +/− column."
+    },
+    {
+      "id": "br-president-2002",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2002-10-06",
+      "turnout": 79.53,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2002_Brazilian_general_election",
+        "revid": 1378556909
+      },
+      "candidates": [
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "party": "pt",
+          "votes": 52793364,
+          "pct": 61.27,
+          "winner": true
+        },
+        {
+          "name": "José Serra",
+          "party": "psdb",
+          "votes": 33370739,
+          "pct": 38.73
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2002-10-06",
+          "candidates": [
+            {
+              "name": "Luiz Inácio Lula da Silva",
+              "party": "pt",
+              "votes": 39455233,
+              "pct": 46.44
+            },
+            {
+              "name": "José Serra",
+              "party": "psdb",
+              "votes": 19705445,
+              "pct": 23.2
+            },
+            {
+              "name": "Anthony Garotinho",
+              "party": "psb",
+              "votes": 15180097,
+              "pct": 17.87
+            },
+            {
+              "name": "Ciro Gomes",
+              "party": "cidadania",
+              "votes": 10170882,
+              "pct": 11.97
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 440855,
+              "pct": 0.52
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2002-10-27",
+          "candidates": [
+            {
+              "name": "Luiz Inácio Lula da Silva",
+              "party": "pt",
+              "votes": 52793364,
+              "pct": 61.27,
+              "winner": true
+            },
+            {
+              "name": "José Serra",
+              "party": "psdb",
+              "votes": 33370739,
+              "pct": 38.73
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 82.26%."
+    },
+    {
+      "id": "br-chamber-2002",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2002-10-06",
+      "totalSeats": 513,
+      "turnout": 82.27,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2002_Brazilian_general_election",
+        "revid": 1378556909
+      },
+      "candidates": [
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 16094080,
+          "pct": 18.4,
+          "seats": 91,
+          "change": 33,
+          "winner": true
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 11706253,
+          "pct": 13.38,
+          "seats": 84,
+          "change": -21
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 11691526,
+          "pct": 13.37,
+          "seats": 76,
+          "change": -7
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 12473743,
+          "pct": 14.26,
+          "seats": 70,
+          "change": -29
+        },
+        {
+          "name": "Brazilian Progressive Party",
+          "party": "pp",
+          "votes": 6828375,
+          "pct": 7.81,
+          "seats": 48,
+          "change": -12
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 4052111,
+          "pct": 4.63,
+          "seats": 26,
+          "change": -5
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 3780930,
+          "pct": 4.32,
+          "seats": 26,
+          "change": 14
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 4616674,
+          "pct": 5.28,
+          "seats": 22,
+          "change": 3
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 4482538,
+          "pct": 5.12,
+          "seats": 21,
+          "change": -4
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 2682487,
+          "pct": 3.07,
+          "seats": 15,
+          "change": 12
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 1967847,
+          "pct": 2.25,
+          "seats": 12,
+          "change": 5
+        },
+        {
+          "name": "Party of the Reconstruction of the National Order",
+          "party": "prona",
+          "votes": 1804655,
+          "pct": 2.06,
+          "seats": 6,
+          "change": 5
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 1179374,
+          "pct": 1.35,
+          "seats": 5,
+          "change": 5
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1987",
+          "votes": 452386,
+          "pct": 0.52,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Social Labour Party",
+          "party": "pst",
+          "votes": 504044,
+          "pct": 0.58,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 504611,
+          "pct": 0.58,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Social Liberal Party",
+          "party": "psl",
+          "votes": 408512,
+          "pct": 0.47,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 282878,
+          "pct": 0.32,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Christian Social Democratic Party",
+          "party": "dc",
+          "votes": 192546,
+          "pct": 0.22,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1768973,
+          "pct": 2.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-2002",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2002-10-06",
+      "totalSeats": 81,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet and the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/2002_Brazilian_general_election",
+        "revid": 1378556909
+      },
+      "candidates": [
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 28408415,
+          "pct": 18.49,
+          "seats": 19,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 25199662,
+          "pct": 16.4,
+          "seats": 19,
+          "change": -7
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 33853150,
+          "pct": 22.03,
+          "seats": 14,
+          "change": 7
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 21360291,
+          "pct": 13.9,
+          "seats": 11,
+          "change": -5
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 7932624,
+          "pct": 5.16,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 3389139,
+          "pct": 2.21,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 5190032,
+          "pct": 3.38,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 4857302,
+          "pct": 3.16,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Brazilian Progressive Party",
+          "party": "pp",
+          "votes": 6903581,
+          "pct": 4.49,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 4720408,
+          "pct": 3.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd1987",
+          "votes": 1151901,
+          "pct": 0.75,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 6199237,
+          "pct": 4.03,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 4498802,
+          "pct": 2.93,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (81 seats); 54 seats were contested. The PFL and PMDB tied on 19 seats; the PFL, with more votes, carries the winner flag. Turnout is omitted: the table's figure (164.54%) counts more votes than registered voters."
+    },
+    {
+      "id": "br-president-2006",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2006-10-01",
+      "turnout": 81.01,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/2006_Brazilian_general_election",
+        "revid": 1378557148
+      },
+      "candidates": [
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "party": "pt",
+          "votes": 58295042,
+          "pct": 60.83,
+          "winner": true
+        },
+        {
+          "name": "Geraldo Alckmin",
+          "party": "psdb",
+          "votes": 37543178,
+          "pct": 39.17
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2006-10-01",
+          "candidates": [
+            {
+              "name": "Luiz Inácio Lula da Silva",
+              "party": "pt",
+              "votes": 46662365,
+              "pct": 48.61
+            },
+            {
+              "name": "Geraldo Alckmin",
+              "party": "psdb",
+              "votes": 39968369,
+              "pct": 41.64
+            },
+            {
+              "name": "Heloísa Helena",
+              "party": "psol",
+              "votes": 6575393,
+              "pct": 6.85
+            },
+            {
+              "name": "Cristovam Buarque",
+              "party": "pdt",
+              "votes": 2538844,
+              "pct": 2.64
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 251762,
+              "pct": 0.26
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2006-10-29",
+          "candidates": [
+            {
+              "name": "Luiz Inácio Lula da Silva",
+              "party": "pt",
+              "votes": 58295042,
+              "pct": 60.83,
+              "winner": true
+            },
+            {
+              "name": "Geraldo Alckmin",
+              "party": "psdb",
+              "votes": 37543178,
+              "pct": 39.17
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 83.25%."
+    },
+    {
+      "id": "br-chamber-2006",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2006-10-01",
+      "totalSeats": 513,
+      "turnout": 83.27,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2006_Brazilian_general_election",
+        "revid": 1378557148
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 13580517,
+          "pct": 14.57,
+          "seats": 89,
+          "change": 15,
+          "winner": true
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 13989859,
+          "pct": 15.01,
+          "seats": 83,
+          "change": -8
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 12691043,
+          "pct": 13.62,
+          "seats": 65,
+          "change": -6
+        },
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 10182308,
+          "pct": 10.93,
+          "seats": 65,
+          "change": -19
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 6662309,
+          "pct": 7.15,
+          "seats": 42,
+          "change": -7
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 5732464,
+          "pct": 6.15,
+          "seats": 27,
+          "change": 5
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 4854017,
+          "pct": 5.21,
+          "seats": 24,
+          "change": 3
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 4074618,
+          "pct": 4.37,
+          "seats": 23,
+          "change": -3
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 4397743,
+          "pct": 4.72,
+          "seats": 22,
+          "change": -4
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 3630462,
+          "pct": 3.9,
+          "seats": 21,
+          "change": 6
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 3368561,
+          "pct": 3.61,
+          "seats": 13,
+          "change": 8
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 1982323,
+          "pct": 2.13,
+          "seats": 13,
+          "change": 1
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 1747863,
+          "pct": 1.88,
+          "seats": 9,
+          "change": 8
+        },
+        {
+          "name": "Christian Labour Party",
+          "party": "prn",
+          "votes": 806662,
+          "pct": 0.87,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 1149619,
+          "pct": 1.23,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 875686,
+          "pct": 0.94,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Party of the Reconstruction of the National Order",
+          "party": "prona",
+          "votes": 907494,
+          "pct": 0.97,
+          "seats": 2,
+          "change": -4
+        },
+        {
+          "name": "Humanist Party of Solidarity",
+          "party": "phs",
+          "votes": 435328,
+          "pct": 0.47,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Labour Party of Brazil",
+          "party": "avante",
+          "votes": 311833,
+          "pct": 0.33,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Party of the Nation's Retirees",
+          "party": "pan",
+          "votes": 264682,
+          "pct": 0.28,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 244059,
+          "pct": 0.26,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1295380,
+          "pct": 1.39,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-2006",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2006-10-01",
+      "totalSeats": 81,
+      "turnout": 83.27,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2006_Brazilian_general_election",
+        "revid": 1378557148
+      },
+      "candidates": [
+        {
+          "name": "Liberal Front Party",
+          "party": "dem",
+          "votes": 21653812,
+          "pct": 25.66,
+          "seats": 18,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 10148024,
+          "pct": 12.03,
+          "seats": 16,
+          "change": -3
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 10547778,
+          "pct": 12.5,
+          "seats": 14,
+          "change": 3
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 16222159,
+          "pct": 19.22,
+          "seats": 10,
+          "change": -4
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 5023041,
+          "pct": 5.95,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2676469,
+          "pct": 3.17,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 2143355,
+          "pct": 2.54,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl1985",
+          "votes": 696501,
+          "pct": 0.83,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 6364019,
+          "pct": 7.54,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 264155,
+          "pct": 0.31,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 4228431,
+          "pct": 5.01,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 1232571,
+          "pct": 1.46,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Brazilian Labour Renewal Party",
+          "party": "prtb",
+          "votes": 644111,
+          "pct": 0.76,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 351527,
+          "pct": 0.42,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 1425765,
+          "pct": 1.69,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 762087,
+          "pct": 0.9,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (81 seats); 27 seats were contested."
+    },
+    {
+      "id": "br-president-2010",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2010-10-03",
+      "turnout": 78.5,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2010_Brazilian_general_election",
+        "revid": 1378636231
+      },
+      "candidates": [
+        {
+          "name": "Dilma Rousseff",
+          "party": "pt",
+          "votes": 55752529,
+          "pct": 56.05,
+          "winner": true
+        },
+        {
+          "name": "José Serra",
+          "party": "psdb",
+          "votes": 43711388,
+          "pct": 43.95
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2010-10-03",
+          "candidates": [
+            {
+              "name": "Dilma Rousseff",
+              "party": "pt",
+              "votes": 47651434,
+              "pct": 46.91
+            },
+            {
+              "name": "José Serra",
+              "party": "psdb",
+              "votes": 33132283,
+              "pct": 32.61
+            },
+            {
+              "name": "Marina Silva",
+              "party": "pv",
+              "votes": 19636359,
+              "pct": 19.33
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 1170077,
+              "pct": 1.15
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2010-10-31",
+          "candidates": [
+            {
+              "name": "Dilma Rousseff",
+              "party": "pt",
+              "votes": 55752529,
+              "pct": 56.05,
+              "winner": true
+            },
+            {
+              "name": "José Serra",
+              "party": "psdb",
+              "votes": 43711388,
+              "pct": 43.95
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 81.88%. Region winners are from the run-off by state on the linked results page.",
+      "regionWinners": {
+        "AC": "psdb",
+        "AL": "pt",
+        "AP": "pt",
+        "AM": "pt",
+        "BA": "pt",
+        "CE": "pt",
+        "ES": "psdb",
+        "DF": "pt",
+        "GO": "psdb",
+        "MA": "pt",
+        "MT": "psdb",
+        "MS": "psdb",
+        "MG": "pt",
+        "PA": "pt",
+        "PB": "pt",
+        "PR": "psdb",
+        "PE": "pt",
+        "PI": "pt",
+        "RJ": "pt",
+        "RN": "pt",
+        "RS": "psdb",
+        "RO": "psdb",
+        "RR": "psdb",
+        "SC": "psdb",
+        "SP": "psdb",
+        "SE": "pt",
+        "TO": "pt"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2010_Brazilian_general_election"
+    },
+    {
+      "id": "br-chamber-2010",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2010-10-03",
+      "totalSeats": 513,
+      "turnout": 81.93,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2010_Brazilian_general_election",
+        "revid": 1378636231
+      },
+      "candidates": [
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 16289199,
+          "pct": 16.87,
+          "seats": 88,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 12537252,
+          "pct": 12.98,
+          "seats": 78,
+          "change": -11
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 11477380,
+          "pct": 11.88,
+          "seats": 54,
+          "change": -11
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 7301171,
+          "pct": 7.56,
+          "seats": 43,
+          "change": -22
+        },
+        {
+          "name": "Party of the Republic",
+          "party": "pl",
+          "votes": 7311655,
+          "pct": 7.57,
+          "seats": 42,
+          "change": 18
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 6330062,
+          "pct": 6.55,
+          "seats": 41,
+          "change": -1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 6851053,
+          "pct": 7.09,
+          "seats": 34,
+          "change": 7
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 4854602,
+          "pct": 5.03,
+          "seats": 28,
+          "change": 4
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 4038239,
+          "pct": 4.18,
+          "seats": 21,
+          "change": -1
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 3072546,
+          "pct": 3.18,
+          "seats": 17,
+          "change": 8
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 3710366,
+          "pct": 3.84,
+          "seats": 15,
+          "change": 2
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 2748290,
+          "pct": 2.85,
+          "seats": 15,
+          "change": 2
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 2536809,
+          "pct": 2.63,
+          "seats": 12,
+          "change": -9
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 1633500,
+          "pct": 1.69,
+          "seats": 7,
+          "change": 6
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 1086705,
+          "pct": 1.13,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 1142737,
+          "pct": 1.18,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Labour Party of Brazil",
+          "party": "avante",
+          "votes": 642422,
+          "pct": 0.67,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Humanist Party of Solidarity",
+          "party": "phs",
+          "votes": 764412,
+          "pct": 0.79,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Brazilian Labour Renewal Party",
+          "party": "prtb",
+          "votes": 307925,
+          "pct": 0.32,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Progressive Republican Party",
+          "party": "prp",
+          "votes": 307188,
+          "pct": 0.32,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Christian Labour Party",
+          "party": "prn",
+          "votes": 595431,
+          "pct": 0.62,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Social Liberal Party",
+          "party": "psl",
+          "votes": 499963,
+          "pct": 0.52,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 541104,
+          "pct": 0.56,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The table links the Party of the Republic row to the article on the Liberal Party (1985), which merged into it in 2006; it is filed under the pl key (today's Liberal Party)."
+    },
+    {
+      "id": "br-senate-2010",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2010-10-03",
+      "totalSeats": 81,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2010_Brazilian_general_election",
+        "revid": 1378636231
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 23998949,
+          "pct": 14.08,
+          "seats": 19,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 39410141,
+          "pct": 23.12,
+          "seats": 15,
+          "change": 5
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 30903736,
+          "pct": 18.13,
+          "seats": 11,
+          "change": -3
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 10225883,
+          "pct": 6,
+          "seats": 6,
+          "change": -12
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 7999589,
+          "pct": 4.69,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 9170015,
+          "pct": 5.38,
+          "seats": 5,
+          "change": 4
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 4649024,
+          "pct": 2.73,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 2431940,
+          "pct": 1.43,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 6129463,
+          "pct": 3.6,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 12561716,
+          "pct": 7.37,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 3041854,
+          "pct": 1.78,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 6766517,
+          "pct": 3.97,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 3332886,
+          "pct": 1.96,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 1247157,
+          "pct": 0.73,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 241321,
+          "pct": 0.14,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 5047797,
+          "pct": 2.96,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3273585,
+          "pct": 1.92,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (81 seats); 54 seats were contested. The table's 'Liberal Party' row links to the 1985 party, which had merged into the Party of the Republic in 2006; it is filed under the pl key. Turnout is omitted: the table's figure (163.87%) counts more votes than registered voters."
+    },
+    {
+      "id": "br-president-2014",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2014-10-05",
+      "turnout": 78.9,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2014_Brazilian_general_election",
+        "revid": 1378585003
+      },
+      "candidates": [
+        {
+          "name": "Dilma Rousseff",
+          "party": "pt",
+          "votes": 54501118,
+          "pct": 51.64,
+          "winner": true
+        },
+        {
+          "name": "Aécio Neves",
+          "party": "psdb",
+          "votes": 51041155,
+          "pct": 48.36
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2014-10-05",
+          "candidates": [
+            {
+              "name": "Dilma Rousseff",
+              "party": "pt",
+              "votes": 43267668,
+              "pct": 41.59
+            },
+            {
+              "name": "Aécio Neves",
+              "party": "psdb",
+              "votes": 34897211,
+              "pct": 33.55
+            },
+            {
+              "name": "Marina Silva",
+              "party": "psb",
+              "votes": 22176619,
+              "pct": 21.32
+            },
+            {
+              "name": "Luciana Genro",
+              "party": "psol",
+              "votes": 1612186,
+              "pct": 1.55
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 2070118,
+              "pct": 1.99
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2014-10-26",
+          "candidates": [
+            {
+              "name": "Dilma Rousseff",
+              "party": "pt",
+              "votes": 54501118,
+              "pct": 51.64,
+              "winner": true
+            },
+            {
+              "name": "Aécio Neves",
+              "party": "psdb",
+              "votes": 51041155,
+              "pct": 48.36
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 80.61%."
+    },
+    {
+      "id": "br-chamber-2014",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2014-10-05",
+      "totalSeats": 513,
+      "turnout": 80.7,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2014_Brazilian_general_election",
+        "revid": 1378585003
+      },
+      "candidates": [
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 13554166,
+          "pct": 13.94,
+          "seats": 69,
+          "change": -19,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 10791949,
+          "pct": 11.1,
+          "seats": 66,
+          "change": -13
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 11073631,
+          "pct": 11.39,
+          "seats": 54,
+          "change": 1
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 6429791,
+          "pct": 6.61,
+          "seats": 38,
+          "change": -5
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 5967953,
+          "pct": 6.14,
+          "seats": 36,
+          "change": null
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 6267878,
+          "pct": 6.44,
+          "seats": 34,
+          "change": 0
+        },
+        {
+          "name": "Party of the Republic",
+          "party": "pl",
+          "votes": 5635519,
+          "pct": 5.79,
+          "seats": 34,
+          "change": -7
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 3914193,
+          "pct": 4.02,
+          "seats": 25,
+          "change": 4
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 4423993,
+          "pct": 4.55,
+          "seats": 21,
+          "change": 13
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 4085487,
+          "pct": 4.2,
+          "seats": 21,
+          "change": -21
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3469168,
+          "pct": 3.57,
+          "seats": 19,
+          "change": -9
+        },
+        {
+          "name": "Solidariedade",
+          "party": "solidariedade",
+          "votes": 2689701,
+          "pct": 2.77,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 2520421,
+          "pct": 2.59,
+          "seats": 13,
+          "change": -5
+        },
+        {
+          "name": "Republican Party of the Social Order",
+          "party": "pros",
+          "votes": 1977117,
+          "pct": 2.03,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 1955689,
+          "pct": 2.01,
+          "seats": 10,
+          "change": -2
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 1913015,
+          "pct": 1.97,
+          "seats": 10,
+          "change": -5
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 2004464,
+          "pct": 2.06,
+          "seats": 8,
+          "change": -7
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 1745470,
+          "pct": 1.79,
+          "seats": 5,
+          "change": 2
+        },
+        {
+          "name": "Humanist Party of Solidarity",
+          "party": "phs",
+          "votes": 926664,
+          "pct": 0.95,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "National Labour Party",
+          "party": "pode",
+          "votes": 723182,
+          "pct": 0.74,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Progressive Republican Party",
+          "party": "prp",
+          "votes": 724825,
+          "pct": 0.75,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 467777,
+          "pct": 0.48,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "National Ecologic Party",
+          "party": "patriota",
+          "votes": 667983,
+          "pct": 0.69,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Christian Social Democratic Party",
+          "party": "dc",
+          "votes": 509936,
+          "pct": 0.52,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Christian Labour Party",
+          "party": "prn",
+          "votes": 338117,
+          "pct": 0.35,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Labour Party of Brazil",
+          "party": "avante",
+          "votes": 812497,
+          "pct": 0.84,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Social Liberal Party",
+          "party": "psl",
+          "votes": 808710,
+          "pct": 0.83,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Brazilian Labour Renewal Party",
+          "party": "prtb",
+          "votes": 454190,
+          "pct": 0.47,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 409675,
+          "pct": 0.42,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-2014",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2014-10-05",
+      "totalSeats": 81,
+      "turnout": 80.7,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2014_Brazilian_general_election",
+        "revid": 1378585003
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement Party",
+          "party": "mdb",
+          "votes": 12129969,
+          "pct": 13.58,
+          "seats": 18,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 15155818,
+          "pct": 16.96,
+          "seats": 12,
+          "change": -3
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 23880078,
+          "pct": 26.73,
+          "seats": 10,
+          "change": -1
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 3609643,
+          "pct": 4.04,
+          "seats": 8,
+          "change": 4
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 12123194,
+          "pct": 13.57,
+          "seats": 7,
+          "change": 4
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 3515426,
+          "pct": 3.93,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 1931738,
+          "pct": 2.16,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Party of the Republic",
+          "party": "pl",
+          "votes": 696462,
+          "pct": 0.78,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 7147245,
+          "pct": 8,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2803999,
+          "pct": 3.14,
+          "seats": 3,
+          "change": -3
+        },
+        {
+          "name": "Republican Party of the Social Order",
+          "party": "pros",
+          "votes": 2234132,
+          "pct": 2.5,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 1045275,
+          "pct": 1.17,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 803144,
+          "pct": 0.9,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 723576,
+          "pct": 0.81,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Solidarity",
+          "party": "solidariedade",
+          "votes": 370507,
+          "pct": 0.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 301162,
+          "pct": 0.34,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 880236,
+          "pct": 0.99,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (81 seats); 27 seats were contested."
+    },
+    {
+      "id": "br-president-2018",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2018-10-07",
+      "turnout": 78.7,
+      "source": {
+        "name": "Wikipedia, citing the Superior Electoral Court (TSE)",
+        "url": "https://en.wikipedia.org/wiki/2018_Brazilian_general_election",
+        "revid": 1377934464
+      },
+      "candidates": [
+        {
+          "name": "Jair Bolsonaro",
+          "party": "psl",
+          "votes": 57797847,
+          "pct": 55.13,
+          "winner": true
+        },
+        {
+          "name": "Fernando Haddad",
+          "party": "pt",
+          "votes": 47040906,
+          "pct": 44.87
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2018-10-07",
+          "candidates": [
+            {
+              "name": "Jair Bolsonaro",
+              "party": "psl",
+              "votes": 49277010,
+              "pct": 46.03
+            },
+            {
+              "name": "Fernando Haddad",
+              "party": "pt",
+              "votes": 31342051,
+              "pct": 29.28
+            },
+            {
+              "name": "Ciro Gomes",
+              "party": "pdt",
+              "votes": 13344371,
+              "pct": 12.47
+            },
+            {
+              "name": "Geraldo Alckmin",
+              "party": "psdb",
+              "votes": 5096350,
+              "pct": 4.76
+            },
+            {
+              "name": "João Amoêdo",
+              "party": "novo",
+              "votes": 2679745,
+              "pct": 2.5
+            },
+            {
+              "name": "Cabo Daciolo",
+              "party": "patriota",
+              "votes": 1348323,
+              "pct": 1.26
+            },
+            {
+              "name": "Henrique Meirelles",
+              "party": "mdb",
+              "votes": 1288950,
+              "pct": 1.2
+            },
+            {
+              "name": "Marina Silva",
+              "party": "rede",
+              "votes": 1069578,
+              "pct": 1
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 1604371,
+              "pct": 1.5
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2018-10-28",
+          "candidates": [
+            {
+              "name": "Jair Bolsonaro",
+              "party": "psl",
+              "votes": 57797847,
+              "pct": 55.13,
+              "winner": true
+            },
+            {
+              "name": "Fernando Haddad",
+              "party": "pt",
+              "votes": 47040906,
+              "pct": 44.87
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 79.67%. Region winners are from the run-off by state.",
+      "regionWinners": {
+        "AC": "psl",
+        "AL": "pt",
+        "AP": "psl",
+        "AM": "psl",
+        "BA": "pt",
+        "CE": "pt",
+        "DF": "psl",
+        "ES": "psl",
+        "GO": "psl",
+        "MA": "pt",
+        "MT": "psl",
+        "MS": "psl",
+        "MG": "psl",
+        "PA": "pt",
+        "PB": "pt",
+        "PR": "psl",
+        "PE": "pt",
+        "PI": "pt",
+        "RJ": "psl",
+        "RN": "pt",
+        "RS": "psl",
+        "RO": "psl",
+        "RR": "psl",
+        "SC": "psl",
+        "SP": "psl",
+        "SE": "pt",
+        "TO": "pt"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2018_Brazilian_general_election"
+    },
+    {
+      "id": "br-chamber-2018",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2018-10-07",
+      "totalSeats": 513,
+      "turnout": 79.8,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2018_Brazilian_general_election",
+        "revid": 1377934464
+      },
+      "candidates": [
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 10126611,
+          "pct": 10.3,
+          "seats": 56,
+          "change": -13,
+          "winner": true
+        },
+        {
+          "name": "Social Liberal Party",
+          "party": "psl",
+          "votes": 11457878,
+          "pct": 11.65,
+          "seats": 52,
+          "change": 51
+        },
+        {
+          "name": "Progressistas",
+          "party": "pp",
+          "votes": 5480067,
+          "pct": 5.57,
+          "seats": 37,
+          "change": -1
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 5749008,
+          "pct": 5.85,
+          "seats": 34,
+          "change": -2
+        },
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 5439167,
+          "pct": 5.53,
+          "seats": 34,
+          "change": -32
+        },
+        {
+          "name": "Party of the Republic",
+          "party": "pl",
+          "votes": 5224591,
+          "pct": 5.31,
+          "seats": 33,
+          "change": -1
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 5386400,
+          "pct": 5.48,
+          "seats": 32,
+          "change": -2
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 4992016,
+          "pct": 5.08,
+          "seats": 30,
+          "change": 9
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 5905541,
+          "pct": 6.01,
+          "seats": 29,
+          "change": -25
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 4581162,
+          "pct": 4.66,
+          "seats": 29,
+          "change": 8
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 4545846,
+          "pct": 4.62,
+          "seats": 28,
+          "change": 9
+        },
+        {
+          "name": "Solidariedade",
+          "party": "solidariedade",
+          "votes": 1953067,
+          "pct": 1.99,
+          "seats": 13,
+          "change": -2
+        },
+        {
+          "name": "Podemos",
+          "party": "pode",
+          "votes": 2243320,
+          "pct": 2.28,
+          "seats": 11,
+          "change": 7
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 2783669,
+          "pct": 2.83,
+          "seats": 10,
+          "change": 5
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 2022719,
+          "pct": 2.06,
+          "seats": 10,
+          "change": -15
+        },
+        {
+          "name": "Communist Party of Brazil",
+          "party": "pcdob",
+          "votes": 1329575,
+          "pct": 1.35,
+          "seats": 9,
+          "change": -1
+        },
+        {
+          "name": "New Party",
+          "party": "novo",
+          "votes": 2748079,
+          "pct": 2.79,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Republican Party of the Social Order",
+          "party": "pros",
+          "votes": 2042610,
+          "pct": 2.08,
+          "seats": 8,
+          "change": -3
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 1765226,
+          "pct": 1.8,
+          "seats": 8,
+          "change": -5
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 1590084,
+          "pct": 1.62,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Avante",
+          "party": "avante",
+          "votes": 1844048,
+          "pct": 1.88,
+          "seats": 7,
+          "change": 6
+        },
+        {
+          "name": "Humanist Party of Solidarity",
+          "party": "phs",
+          "votes": 1426444,
+          "pct": 1.45,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Patriota",
+          "party": "patriota",
+          "votes": 1432304,
+          "pct": 1.46,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Green Party",
+          "party": "pv",
+          "votes": 1592173,
+          "pct": 1.62,
+          "seats": 4,
+          "change": -4
+        },
+        {
+          "name": "Progressive Republican Party",
+          "party": "prp",
+          "votes": 851368,
+          "pct": 0.87,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Party of National Mobilization",
+          "party": "pmn",
+          "votes": 634129,
+          "pct": 0.64,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Christian Labour Party",
+          "party": "prn",
+          "votes": 601814,
+          "pct": 0.61,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Sustainability Network",
+          "party": "rede",
+          "votes": 816784,
+          "pct": 0.83,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Free Fatherland Party",
+          "party": "ppl",
+          "votes": 385197,
+          "pct": 0.39,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Christian Democracy",
+          "party": "dc",
+          "votes": 369386,
+          "pct": 0.38,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1018710,
+          "pct": 1.04,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "br-senate-2018",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2018-10-07",
+      "totalSeats": 81,
+      "turnout": 79.8,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet and G1",
+        "url": "https://en.wikipedia.org/wiki/2018_Brazilian_general_election",
+        "revid": 1377934464
+      },
+      "candidates": [
+        {
+          "name": "Brazilian Democratic Movement",
+          "party": "mdb",
+          "votes": 12800290,
+          "pct": 7.47,
+          "seats": 12,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Brazilian Social Democracy Party",
+          "party": "psdb",
+          "votes": 20310558,
+          "pct": 11.85,
+          "seats": 9,
+          "change": -1
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 8202342,
+          "pct": 4.79,
+          "seats": 7,
+          "change": 4
+        },
+        {
+          "name": "Workers' Party",
+          "party": "pt",
+          "votes": 24785670,
+          "pct": 14.46,
+          "seats": 6,
+          "change": -6
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 9218658,
+          "pct": 5.38,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Progressistas",
+          "party": "pp",
+          "votes": 7529901,
+          "pct": 4.39,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Sustainability Network",
+          "party": "rede",
+          "votes": 7166003,
+          "pct": 4.18,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Podemos",
+          "party": "pode",
+          "votes": 5494125,
+          "pct": 3.21,
+          "seats": 5,
+          "change": 5
+        },
+        {
+          "name": "Social Liberal Party",
+          "party": "psl",
+          "votes": 19413869,
+          "pct": 11.33,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Democratic Labour Party",
+          "party": "pdt",
+          "votes": 7737982,
+          "pct": 4.52,
+          "seats": 4,
+          "change": -4
+        },
+        {
+          "name": "Brazilian Labour Party",
+          "party": "ptb",
+          "votes": 1899838,
+          "pct": 1.11,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Brazilian Socialist Party",
+          "party": "psb",
+          "votes": 8234195,
+          "pct": 4.8,
+          "seats": 2,
+          "change": -5
+        },
+        {
+          "name": "Humanist Party of Solidarity",
+          "party": "phs",
+          "votes": 4228973,
+          "pct": 2.47,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Party of the Republic",
+          "party": "pl",
+          "votes": 3130082,
+          "pct": 1.83,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "cidadania",
+          "votes": 2954800,
+          "pct": 1.72,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Social Christian Party",
+          "party": "psc",
+          "votes": 4126068,
+          "pct": 2.41,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Solidariedade",
+          "party": "solidariedade",
+          "votes": 4001903,
+          "pct": 2.34,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Progressive Republican Party",
+          "party": "prp",
+          "votes": 1974061,
+          "pct": 1.15,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Brazilian Republican Party",
+          "party": "rep",
+          "votes": 1505607,
+          "pct": 0.88,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Republican Party of the Social Order",
+          "party": "pros",
+          "votes": 1370513,
+          "pct": 0.8,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Christian Labour Party",
+          "party": "prn",
+          "votes": 222931,
+          "pct": 0.13,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 0,
+          "pct": 0,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Socialism and Liberty Party",
+          "party": "psol",
+          "votes": 5273853,
+          "pct": 3.08,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "New Party",
+          "party": "novo",
+          "votes": 3467746,
+          "pct": 2.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6326354,
+          "pct": 3.69,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (81 seats); 54 seats were contested. One independent senator is in the composition; the table gives independents 0 votes."
+    }
+  ]
+}

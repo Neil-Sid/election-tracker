@@ -1,0 +1,544 @@
+{
+  "code": "AT",
+  "name": "Austria",
+  "subtitle": "Federal elections",
+  "about": {
+    "system": "Federal parliamentary republic",
+    "headOfState": "Federal President",
+    "headOfGovernment": "Federal Chancellor",
+    "legislature": "Parliament: National Council (183) and Federal Council",
+    "votingAge": 16,
+    "compulsory": false,
+    "registered": 6350000,
+    "offices": {
+      "National Council": "183 seats shared out by proportional representation at regional, state and federal level, with a 4% threshold. Terms are five years.",
+      "President": "Elected directly for six years. A candidate needs a majority of valid votes, otherwise the top two meet in a run-off."
+    }
+  },
+  "parties": {
+    "fpo": {
+      "name": "FPÖ",
+      "color": "#005DA8"
+    },
+    "ovp": {
+      "name": "ÖVP",
+      "color": "#63C3D0"
+    },
+    "spo": {
+      "name": "SPÖ",
+      "color": "#E31E2D"
+    },
+    "neos": {
+      "name": "NEOS",
+      "color": "#E3257B"
+    },
+    "gru": {
+      "name": "The Greens",
+      "color": "#88B626"
+    },
+    "ind": {
+      "name": "Independent",
+      "color": "#5B8C5A"
+    },
+    "bier": {
+      "name": "Beer Party",
+      "color": "#F5B700"
+    },
+    "kpo": {
+      "name": "KPÖ",
+      "color": "#AA0000"
+    },
+    "mfg": {
+      "name": "MFG",
+      "color": "#FF5824"
+    },
+    "wallentin": {
+      "name": "Independent",
+      "color": "#8D7B68"
+    },
+    "grosz": {
+      "name": "Independent",
+      "color": "#5E6A9E"
+    },
+    "staudinger": {
+      "name": "Independent",
+      "color": "#A0A0A0"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "at-national-council-2024",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2024-09-29",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 77.7,
+      "cite": {
+        "name": "the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2024_Austrian_legislative_election"
+      },
+      "system": "183 seats, proportional with a 4% threshold",
+      "totalSeats": 183,
+      "majority": 92,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "FPÖ",
+          "party": "fpo",
+          "pct": 28.85,
+          "seats": 57,
+          "votes": 1408514,
+          "change": 26,
+          "winner": true
+        },
+        {
+          "name": "ÖVP",
+          "party": "ovp",
+          "pct": 26.27,
+          "seats": 51,
+          "votes": 1282734,
+          "change": -20
+        },
+        {
+          "name": "SPÖ",
+          "party": "spo",
+          "pct": 21.14,
+          "seats": 41,
+          "votes": 1032234,
+          "change": 1
+        },
+        {
+          "name": "NEOS",
+          "party": "neos",
+          "pct": 9.14,
+          "seats": 18,
+          "votes": 446378,
+          "change": 3
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "pct": 8.24,
+          "seats": 16,
+          "votes": 402107,
+          "change": -10
+        },
+        {
+          "name": "KPÖ",
+          "party": "kpo",
+          "pct": 2.39,
+          "seats": 0,
+          "votes": 116891,
+          "change": 0
+        },
+        {
+          "name": "Beer Party",
+          "party": "bier",
+          "pct": 2.02,
+          "seats": 0,
+          "votes": 98395,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 1.96,
+          "seats": 0,
+          "votes": 95635,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Burgenland","abbr":"1","winner":"fpo","margin":0.6,"turnout":73.9,"votes":584338,"results":[{"party":"fpo","pct":31.4,"votes":183482},{"party":"spo","pct":30.8,"votes":179976},{"party":"ovp","pct":19.7,"votes":115115},{"party":"gru","pct":9.8,"votes":57265},{"party":"neos","pct":8.3,"votes":48500}]},
+        {"name":"Carinthia","abbr":"2","winner":"fpo","margin":0.9,"turnout":84,"votes":472544,"results":[{"party":"fpo","pct":29.5,"votes":139400},{"party":"ovp","pct":28.6,"votes":135148},{"party":"spo","pct":27.3,"votes":129005},{"party":"neos","pct":10.6,"votes":50090},{"party":"gru","pct":4,"votes":18902}]},
+        {"name":"Lower Austria","abbr":"3","winner":"fpo","margin":7,"turnout":80.8,"votes":435293,"results":[{"party":"fpo","pct":33.6,"votes":146258},{"party":"spo","pct":26.6,"votes":115788},{"party":"ovp","pct":23.6,"votes":102729},{"party":"gru","pct":10,"votes":43529},{"party":"neos","pct":6.1,"votes":26553}]},
+        {"name":"Salzburg","abbr":"5","winner":"fpo","margin":9.4,"turnout":79.9,"votes":554086,"results":[{"party":"fpo","pct":37.1,"votes":205566},{"party":"spo","pct":27.7,"votes":153482},{"party":"ovp","pct":14.9,"votes":82559},{"party":"gru","pct":12.2,"votes":67598},{"party":"neos","pct":8.1,"votes":44881}]},
+        {"name":"Styria","abbr":"6","winner":"fpo","margin":18.6,"turnout":82.9,"votes":556267,"results":[{"party":"fpo","pct":41.9,"votes":233076},{"party":"ovp","pct":23.3,"votes":129610},{"party":"spo","pct":19.5,"votes":108472},{"party":"neos","pct":9,"votes":50064},{"party":"gru","pct":6.4,"votes":35601}]},
+        {"name":"Tyrol","abbr":"7","winner":"ovp","margin":14.8,"turnout":74.3,"votes":458175,"results":[{"party":"ovp","pct":43.7,"votes":200222},{"party":"fpo","pct":28.9,"votes":132413},{"party":"spo","pct":12.3,"votes":56356},{"party":"gru","pct":9.8,"votes":44901},{"party":"neos","pct":5.4,"votes":24741}]},
+        {"name":"Upper Austria","abbr":"4","winner":"fpo","margin":7.3,"turnout":83.7,"votes":615521,"results":[{"party":"fpo","pct":31.9,"votes":196351},{"party":"spo","pct":24.6,"votes":151418},{"party":"ovp","pct":23.1,"votes":142185},{"party":"neos","pct":10.6,"votes":65245},{"party":"gru","pct":9.8,"votes":60321}]},
+        {"name":"Vienna","abbr":"9","winner":"spo","margin":1.2,"turnout":75.8,"votes":472915,"results":[{"party":"spo","pct":29.4,"votes":139037},{"party":"ovp","pct":28.2,"votes":133362},{"party":"fpo","pct":25.1,"votes":118702},{"party":"gru","pct":10.3,"votes":48710},{"party":"neos","pct":7.1,"votes":33577}]},
+        {"name":"Vorarlberg","abbr":"8","winner":"ovp","margin":4.8,"turnout":73.3,"votes":543201,"results":[{"party":"ovp","pct":33.3,"votes":180886},{"party":"fpo","pct":28.5,"votes":154812},{"party":"spo","pct":23.8,"votes":129282},{"party":"gru","pct":7.9,"votes":42913},{"party":"neos","pct":6.5,"votes":35308}]}
+      ]
+    },
+    {
+      "id": "at-president-2022",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2022-10-09",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 65.2,
+      "cite": {
+        "name": "the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2022_Austrian_presidential_election"
+      },
+      "system": "Popular vote over two rounds if needed, six-year term",
+      "candidates": [
+        {
+          "name": "Alexander Van der Bellen",
+          "party": "ind",
+          "pct": 56.69,
+          "seats": null,
+          "votes": 2299590,
+          "winner": true
+        },
+        {
+          "name": "Walter Rosenkranz",
+          "party": "fpo",
+          "pct": 17.68,
+          "seats": null,
+          "votes": 717097
+        },
+        {
+          "name": "Dominik Wlazny",
+          "party": "bier",
+          "pct": 8.31,
+          "seats": null,
+          "votes": 337010
+        },
+        {
+          "name": "Tassilo Wallentin",
+          "party": "wallentin",
+          "pct": 8.07,
+          "seats": null,
+          "votes": 327214
+        },
+        {
+          "name": "Gerald Grosz",
+          "party": "grosz",
+          "pct": 5.57,
+          "seats": null,
+          "votes": 225942
+        },
+        {
+          "name": "Michael Brunner",
+          "party": "mfg",
+          "pct": 2.11,
+          "seats": null,
+          "votes": 85465
+        },
+        {
+          "name": "Heinrich Staudinger",
+          "party": "staudinger",
+          "pct": 1.59,
+          "seats": null,
+          "votes": 64411
+        }
+      ],
+      "regions": [
+        {"name":"Burgenland","abbr":"1","winner":"ind","margin":39.6,"turnout":64.1,"votes":486765,"results":[{"party":"ind","pct":57.5,"votes":279890},{"party":"fpo","pct":17.9,"votes":87131},{"party":"bier","pct":11.7,"votes":56952},{"party":"wallentin","pct":7.9,"votes":38454},{"party":"grosz","pct":5.1,"votes":24825}]},
+        {"name":"Carinthia","abbr":"2","winner":"ind","margin":19.9,"turnout":70.4,"votes":538537,"results":[{"party":"ind","pct":47.7,"votes":256882},{"party":"fpo","pct":27.8,"votes":149713},{"party":"bier","pct":10.7,"votes":57623},{"party":"grosz","pct":7.3,"votes":39313},{"party":"wallentin","pct":6.5,"votes":35005}]},
+        {"name":"Lower Austria","abbr":"3","winner":"ind","margin":19,"turnout":65.7,"votes":378101,"results":[{"party":"ind","pct":47.5,"votes":179598},{"party":"fpo","pct":28.5,"votes":107759},{"party":"bier","pct":9.2,"votes":34785},{"party":"wallentin","pct":9.1,"votes":34407},{"party":"grosz","pct":5.6,"votes":21174}]},
+        {"name":"Salzburg","abbr":"5","winner":"ind","margin":25.4,"turnout":60.4,"votes":439852,"results":[{"party":"ind","pct":48.4,"votes":212888},{"party":"fpo","pct":23,"votes":101166},{"party":"bier","pct":11.4,"votes":50143},{"party":"wallentin","pct":9.6,"votes":42226},{"party":"grosz","pct":7.6,"votes":33429}]},
+        {"name":"Styria","abbr":"6","winner":"ind","margin":28.9,"turnout":61.4,"votes":386293,"results":[{"party":"ind","pct":54.2,"votes":209371},{"party":"fpo","pct":25.3,"votes":97732},{"party":"wallentin","pct":9.2,"votes":35539},{"party":"bier","pct":6.2,"votes":23950},{"party":"grosz","pct":5.1,"votes":19701}]},
+        {"name":"Tyrol","abbr":"7","winner":"ind","margin":32.9,"turnout":67.9,"votes":441826,"results":[{"party":"ind","pct":55.2,"votes":243888},{"party":"fpo","pct":22.3,"votes":98527},{"party":"wallentin","pct":8.8,"votes":38881},{"party":"bier","pct":8.1,"votes":35788},{"party":"grosz","pct":5.5,"votes":24300}]},
+        {"name":"Upper Austria","abbr":"4","winner":"ind","margin":32.6,"turnout":61.5,"votes":475671,"results":[{"party":"ind","pct":48.5,"votes":230700},{"party":"bier","pct":15.9,"votes":75632},{"party":"wallentin","pct":15.6,"votes":74205},{"party":"fpo","pct":14.9,"votes":70875},{"party":"grosz","pct":5.2,"votes":24735}]},
+        {"name":"Vienna","abbr":"9","winner":"ind","margin":46.1,"turnout":67.5,"votes":481788,"results":[{"party":"ind","pct":63.1,"votes":304008},{"party":"fpo","pct":17,"votes":81904},{"party":"wallentin","pct":7.9,"votes":38061},{"party":"bier","pct":7.4,"votes":35652},{"party":"grosz","pct":4.6,"votes":22162}]},
+        {"name":"Vorarlberg","abbr":"8","winner":"ind","margin":44.1,"turnout":64.9,"votes":504721,"results":[{"party":"ind","pct":63.9,"votes":322517},{"party":"fpo","pct":19.8,"votes":99935},{"party":"wallentin","pct":8.4,"votes":42397},{"party":"bier","pct":4.1,"votes":20694},{"party":"grosz","pct":3.8,"votes":19179}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "President",
+      "date": "2028-10-08",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "ind",
+          "points": [
+            ["2026-03-16",56.8],
+            ["2026-03-23",57.5],
+            ["2026-03-30",57],
+            ["2026-04-06",56.1],
+            ["2026-04-13",55.8],
+            ["2026-04-20",56.5],
+            ["2026-04-27",57.3],
+            ["2026-05-04",57.6],
+            ["2026-05-11",57.7],
+            ["2026-05-18",57.9],
+            ["2026-05-25",57.9],
+            ["2026-06-01",57.9],
+            ["2026-06-08",57.2],
+            ["2026-06-15",57.9],
+            ["2026-06-22",58.5],
+            ["2026-06-29",58.7],
+            ["2026-07-06",58],
+            ["2026-07-13",57.8],
+            ["2026-07-20",57.8],
+            ["2026-07-27",58],
+            ["2026-08-03",58.7],
+            ["2026-08-10",59.1],
+            ["2026-08-17",59.6],
+            ["2026-08-24",59.8],
+            ["2026-08-31",58.6],
+            ["2026-09-07",58.8],
+            ["2026-09-14",59.2],
+            ["2026-09-21",59.7],
+            ["2026-09-28",59.9],
+            ["2026-10-05",59.1]
+          ]
+        },
+        {
+          "party": "fpo",
+          "points": [
+            ["2026-03-16",18.8],
+            ["2026-03-23",19.2],
+            ["2026-03-30",19.4],
+            ["2026-04-06",18.9],
+            ["2026-04-13",19],
+            ["2026-04-20",19.3],
+            ["2026-04-27",19],
+            ["2026-05-04",19.4],
+            ["2026-05-11",19.6],
+            ["2026-05-18",20.1],
+            ["2026-05-25",19.8],
+            ["2026-06-01",20.7],
+            ["2026-06-08",20.4],
+            ["2026-06-15",21.4],
+            ["2026-06-22",20.8],
+            ["2026-06-29",21.1],
+            ["2026-07-06",21.6],
+            ["2026-07-13",21.7],
+            ["2026-07-20",22],
+            ["2026-07-27",22.1],
+            ["2026-08-03",22.3],
+            ["2026-08-10",21.9],
+            ["2026-08-17",21.3],
+            ["2026-08-24",21.3],
+            ["2026-08-31",21.9],
+            ["2026-09-07",21.9],
+            ["2026-09-14",22.6],
+            ["2026-09-21",22.2],
+            ["2026-09-28",21.9],
+            ["2026-10-05",22.1]
+          ]
+        },
+        {
+          "party": "bier",
+          "points": [
+            ["2026-03-16",7.8],
+            ["2026-03-23",8.3],
+            ["2026-03-30",7.9],
+            ["2026-04-06",7.6],
+            ["2026-04-13",8],
+            ["2026-04-20",7.3],
+            ["2026-04-27",7.6],
+            ["2026-05-04",7.8],
+            ["2026-05-11",8.2],
+            ["2026-05-18",8.8],
+            ["2026-05-25",8.1],
+            ["2026-06-01",8.6],
+            ["2026-06-08",8.3],
+            ["2026-06-15",7.8],
+            ["2026-06-22",7.9],
+            ["2026-06-29",8.1],
+            ["2026-07-06",7.4],
+            ["2026-07-13",8.1],
+            ["2026-07-20",7.2],
+            ["2026-07-27",6.4],
+            ["2026-08-03",6.8],
+            ["2026-08-10",7.8],
+            ["2026-08-17",7.4],
+            ["2026-08-24",7.3],
+            ["2026-08-31",8.2],
+            ["2026-09-07",7.7],
+            ["2026-09-14",8],
+            ["2026-09-21",8],
+            ["2026-09-28",8.6],
+            ["2026-10-05",7.7]
+          ]
+        },
+        {
+          "party": "wallentin",
+          "points": [
+            ["2026-03-16",7],
+            ["2026-03-23",6.2],
+            ["2026-03-30",5.8],
+            ["2026-04-06",5.2],
+            ["2026-04-13",4.5],
+            ["2026-04-20",5.3],
+            ["2026-04-27",5.4],
+            ["2026-05-04",5],
+            ["2026-05-11",5.4],
+            ["2026-05-18",5.8],
+            ["2026-05-25",6.3],
+            ["2026-06-01",6.5],
+            ["2026-06-08",6.6],
+            ["2026-06-15",6.7],
+            ["2026-06-22",6.7],
+            ["2026-06-29",6.9],
+            ["2026-07-06",6.6],
+            ["2026-07-13",6.6],
+            ["2026-07-20",6.9],
+            ["2026-07-27",7.1],
+            ["2026-08-03",7.3],
+            ["2026-08-10",7.4],
+            ["2026-08-17",7.9],
+            ["2026-08-24",8.2],
+            ["2026-08-31",8.3],
+            ["2026-09-07",8.4],
+            ["2026-09-14",8],
+            ["2026-09-21",7.1],
+            ["2026-09-28",6.2],
+            ["2026-10-05",5.7]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "National Council",
+      "date": "2029-09-30",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "fpo",
+          "points": [
+            ["2026-03-16",28.6],
+            ["2026-03-23",28.3],
+            ["2026-03-30",28.2],
+            ["2026-04-06",29.1],
+            ["2026-04-13",28.4],
+            ["2026-04-20",28.3],
+            ["2026-04-27",28.3],
+            ["2026-05-04",27.8],
+            ["2026-05-11",27.9],
+            ["2026-05-18",27.5],
+            ["2026-05-25",27.9],
+            ["2026-06-01",27.7],
+            ["2026-06-08",27.5],
+            ["2026-06-15",27.7],
+            ["2026-06-22",27],
+            ["2026-06-29",27.8],
+            ["2026-07-06",27.2],
+            ["2026-07-13",26.8],
+            ["2026-07-20",27.2],
+            ["2026-07-27",27.9],
+            ["2026-08-03",28.2],
+            ["2026-08-10",28.6],
+            ["2026-08-17",28.8],
+            ["2026-08-24",28.2],
+            ["2026-08-31",28],
+            ["2026-09-07",28.3],
+            ["2026-09-14",29.2],
+            ["2026-09-21",29.4],
+            ["2026-09-28",29.1],
+            ["2026-10-05",30]
+          ]
+        },
+        {
+          "party": "ovp",
+          "points": [
+            ["2026-03-16",26.4],
+            ["2026-03-23",25.9],
+            ["2026-03-30",25.4],
+            ["2026-04-06",24.5],
+            ["2026-04-13",24.1],
+            ["2026-04-20",23.3],
+            ["2026-04-27",23.7],
+            ["2026-05-04",24.2],
+            ["2026-05-11",24.6],
+            ["2026-05-18",24.4],
+            ["2026-05-25",24],
+            ["2026-06-01",23.2],
+            ["2026-06-08",24.2],
+            ["2026-06-15",23.4],
+            ["2026-06-22",23.6],
+            ["2026-06-29",23],
+            ["2026-07-06",23.4],
+            ["2026-07-13",23.1],
+            ["2026-07-20",23.6],
+            ["2026-07-27",23.4],
+            ["2026-08-03",22.6],
+            ["2026-08-10",23.5],
+            ["2026-08-17",24.3],
+            ["2026-08-24",24.7],
+            ["2026-08-31",24],
+            ["2026-09-07",24.4],
+            ["2026-09-14",25],
+            ["2026-09-21",25.3],
+            ["2026-09-28",24.9],
+            ["2026-10-05",25.5]
+          ]
+        },
+        {
+          "party": "spo",
+          "points": [
+            ["2026-03-16",21.6],
+            ["2026-03-23",22.1],
+            ["2026-03-30",21.7],
+            ["2026-04-06",22],
+            ["2026-04-13",23],
+            ["2026-04-20",24],
+            ["2026-04-27",23.6],
+            ["2026-05-04",23.6],
+            ["2026-05-11",23.8],
+            ["2026-05-18",24],
+            ["2026-05-25",24.9],
+            ["2026-06-01",24.5],
+            ["2026-06-08",25.5],
+            ["2026-06-15",24.5],
+            ["2026-06-22",24.7],
+            ["2026-06-29",24],
+            ["2026-07-06",23.8],
+            ["2026-07-13",23.5],
+            ["2026-07-20",23.4],
+            ["2026-07-27",24.3],
+            ["2026-08-03",23.9],
+            ["2026-08-10",23.3],
+            ["2026-08-17",23.8],
+            ["2026-08-24",23.3],
+            ["2026-08-31",23.8],
+            ["2026-09-07",23.5],
+            ["2026-09-14",22.9],
+            ["2026-09-21",22.4],
+            ["2026-09-28",23.2],
+            ["2026-10-05",23.7]
+          ]
+        },
+        {
+          "party": "neos",
+          "points": [
+            ["2026-03-16",9.6],
+            ["2026-03-23",10.3],
+            ["2026-03-30",10],
+            ["2026-04-06",9.6],
+            ["2026-04-13",9.2],
+            ["2026-04-20",9.2],
+            ["2026-04-27",8.8],
+            ["2026-05-04",9.9],
+            ["2026-05-11",9.9],
+            ["2026-05-18",10.7],
+            ["2026-05-25",11.7],
+            ["2026-06-01",11.7],
+            ["2026-06-08",11.3],
+            ["2026-06-15",10.7],
+            ["2026-06-22",10.7],
+            ["2026-06-29",10.8],
+            ["2026-07-06",10.2],
+            ["2026-07-13",11.2],
+            ["2026-07-20",10.8],
+            ["2026-07-27",11.2],
+            ["2026-08-03",11.2],
+            ["2026-08-10",11],
+            ["2026-08-17",11.6],
+            ["2026-08-24",11.5],
+            ["2026-08-31",11.3],
+            ["2026-09-07",11.3],
+            ["2026-09-14",12],
+            ["2026-09-21",12.5],
+            ["2026-09-28",12.9],
+            ["2026-10-05",12.2]
+          ]
+        }
+      ]
+    }
+  ]
+}

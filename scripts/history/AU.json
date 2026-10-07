@@ -1,0 +1,4667 @@
+{
+  "code": "AU",
+  "parties": {
+    "dlp": {
+      "name": "Democratic Labor Party",
+      "color": "#008080",
+      "article": "Democratic Labor Party (Australia, 1955)"
+    },
+    "qlp": {
+      "name": "Queensland Labor Party",
+      "color": "#6B8E23",
+      "article": "Queensland Labor Party (1957)"
+    },
+    "cpa": {
+      "name": "Communist Party of Australia",
+      "color": "#7A1F2B",
+      "article": "Communist Party of Australia"
+    },
+    "lang": {
+      "name": "Lang Labor",
+      "color": "#FF8C00",
+      "article": "Lang Labor"
+    },
+    "ap": {
+      "name": "Australia Party",
+      "color": "#FFCD00",
+      "article": "Australia Party"
+    },
+    "lrg": {
+      "name": "Liberal Reform Group",
+      "color": "#FFCD00",
+      "article": "Liberal Reform Group"
+    },
+    "bec": {
+      "name": "Better Education Committee",
+      "color": "#C71585"
+    },
+    "lm": {
+      "name": "Liberal Movement",
+      "color": "#8B008B",
+      "article": "Liberal Movement (Australia)"
+    },
+    "dem": {
+      "name": "Australian Democrats",
+      "color": "#FFCD00",
+      "article": "Australian Democrats"
+    },
+    "prog": {
+      "name": "Progress Party",
+      "color": "#CC7722",
+      "article": "Progress Party (Australia)"
+    },
+    "cdp": {
+      "name": "Christian Democratic Party",
+      "color": "#800040",
+      "article": "Christian Democratic Party (Australia)"
+    },
+    "ndp": {
+      "name": "Nuclear Disarmament Party",
+      "color": "#3CB371",
+      "article": "Nuclear Disarmament Party"
+    },
+    "aafi": {
+      "name": "Australians Against Further Immigration",
+      "color": "#964B00",
+      "article": "Australians Against Further Immigration"
+    },
+    "ffp": {
+      "name": "Family First Party",
+      "color": "#00CCFF",
+      "article": "Family First Party"
+    },
+    "puap": {
+      "name": "Pauline's United Australia Party",
+      "color": "#FF9966",
+      "article": "Pauline's United Australia Party"
+    },
+    "dlp78": {
+      "name": "Democratic Labour Party",
+      "color": "#2A9D8F",
+      "article": "Democratic Labour Party (Australia, 1978)"
+    },
+    "sex": {
+      "name": "Australian Sex Party",
+      "color": "#FF69B4",
+      "article": "Australian Sex Party"
+    },
+    "ldp": {
+      "name": "Liberal Democrats",
+      "color": "#8B5A2B",
+      "article": "Libertarian Party (Australia)"
+    },
+    "sff": {
+      "name": "Shooters, Fishers and Farmers",
+      "color": "#556B2F",
+      "article": "Shooters, Fishers and Farmers Party"
+    },
+    "amep": {
+      "name": "Australian Motoring Enthusiast Party",
+      "color": "#FF7F00",
+      "article": "Australian Motoring Enthusiast Party"
+    },
+    "asp": {
+      "name": "Australian Sports Party",
+      "color": "#0000FF",
+      "article": "Australian Sports Party"
+    },
+    "djp": {
+      "name": "Derryn Hinch's Justice Party",
+      "color": "#2F4F4F",
+      "article": "Derryn Hinch's Justice Party"
+    },
+    "acon": {
+      "name": "Australian Conservatives",
+      "color": "#00B9FB",
+      "article": "Australian Conservatives"
+    },
+    "nwa": {
+      "name": "Nationals WA",
+      "color": "#DAA520",
+      "article": "Western Australian National Party"
+    }
+  },
+  "elections": [
+    {
+      "id": "au-house-1949",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1949-12-10",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 123,
+      "turnout": 95.97,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1949_Australian_federal_election",
+        "revid": 1378859794
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2314143,
+          "pct": 50.26,
+          "seats": 74,
+          "change": 45,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2117088,
+          "pct": 45.98,
+          "seats": 48,
+          "change": 4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 99368,
+          "pct": 2.16,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 73811,
+          "pct": 1.6,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (55 seats) and Country (19) rows. Labor's 48 seats include the Northern Territory and the Independents' 1 seat is the Australian Capital Territory (territorial members had limited voting rights), as the table footnotes say. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. ACT and NT come from the national table's footnotes (the Independents' seat is the ACT; Labor's total includes the NT); the ACT infobox shows neither Labor nor the Coalition winning it.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "ind",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1949_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1951",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1951-04-28",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 123,
+      "turnout": 96,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1951_Australian_federal_election",
+        "revid": 1374451559
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2298512,
+          "pct": 50.34,
+          "seats": 69,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2174840,
+          "pct": 47.63,
+          "seats": 54,
+          "change": 6
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 47765,
+          "pct": 1.05,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 44782,
+          "pct": 0.98,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (52 seats) and Country (17) rows. Labor's 54 seats include the Northern Territory and the Australian Capital Territory (territorial members had limited voting rights), as the table's footnote says. Turnout is for contested seats only (infobox footnote). The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. South Australia is left out: Labor and the Coalition tied 5–5 and its infobox gives no votes (one Labor seat was uncontested).",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1951_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1954",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1954-05-29",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 123,
+      "turnout": 96.09,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1954_Australian_federal_election",
+        "revid": 1374451373
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2153970,
+          "pct": 47.57,
+          "seats": 64,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2266979,
+          "pct": 50.07,
+          "seats": 59,
+          "change": 5
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 56675,
+          "pct": 1.25,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 50027,
+          "pct": 1.11,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (47 seats) and Country (17) rows. Seats include the members for the Northern Territory and the Australian Capital Territory, counted in Labor's total as the table's footnote says; territorial members had limited voting rights. The table's Total row gives 121 (voting members only); the infobox gives the chamber as 123. Turnout is for contested seats only (infobox footnote). The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. Seat ties broken by first-preference votes: WA Coalition 4–4 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1954_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1955",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1955-12-10",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 124,
+      "turnout": 95,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1955_Australian_federal_election",
+        "revid": 1374451243
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2093430,
+          "pct": 47.67,
+          "seats": 75,
+          "change": 11,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 1961359,
+          "pct": 44.65,
+          "seats": 49,
+          "change": -10
+        },
+        {
+          "name": "Anti-Communist Labor",
+          "party": "dlp",
+          "votes": 227083,
+          "pct": 5.17,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 60042,
+          "pct": 1.37,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 51001,
+          "pct": 1.16,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (57 seats) and Country (18) rows. Seats include the members for the Northern Territory and the Australian Capital Territory, counted in Labor's total as the table's footnote says; territorial members had limited voting rights. The table's Total row gives 122 (voting members only); the infobox gives the chamber as 124. Turnout is for contested seats only (infobox footnote). The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. NT comes from the national table's footnote (Labor's total includes the NT); the page has no NT infobox.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1955_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1958",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1958-11-22",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 124,
+      "turnout": 95.48,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1958_Australian_federal_election",
+        "revid": 1374451220
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2324500,
+          "pct": 46.55,
+          "seats": 77,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2137890,
+          "pct": 42.81,
+          "seats": 47,
+          "change": -2
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 389688,
+          "pct": 7.8,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Queensland Labor",
+          "party": "qlp",
+          "votes": 80035,
+          "pct": 1.6,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 61380,
+          "pct": 1.23,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (58 seats) and Country (19) rows. The table's Coalition total row gives 2,298,512 votes, but its component rows add up to 2,324,500; the component sum is used. Seats include the members for the Northern Territory and the Australian Capital Territory, counted in Labor's total as the table's footnote says; territorial members had limited voting rights. The table's Total row gives 122 (voting members only); the infobox gives the chamber as 124. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. NT comes from the national table's footnote (Labor's total includes the NT); the page has no NT infobox.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1958_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1961",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1961-12-09",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 124,
+      "turnout": 95.27,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1961_Australian_federal_election",
+        "revid": 1374451187
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2512929,
+          "pct": 47.9,
+          "seats": 62,
+          "change": 15
+        },
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2208213,
+          "pct": 42.09,
+          "seats": 62,
+          "change": -15,
+          "winner": true
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 399475,
+          "pct": 7.61,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Queensland Labor",
+          "party": "qlp",
+          "votes": 57487,
+          "pct": 1.1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 67929,
+          "pct": 1.29,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (45 seats) and Country (17) rows. Seats include the members for the Northern Territory and the Australian Capital Territory, counted in Labor's total as the table's footnote says; territorial members had limited voting rights. The table's Total row gives 122 (voting members only); the infobox gives the chamber as 124. Labor and the Coalition both have 62 here, but two of Labor's are the territorial seats; the Coalition held 62 of the 122 voting seats and kept office under Menzies (infobox), so it is flagged as the winner. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. NT comes from the national table's footnote (Labor's total includes the NT); the page has no NT infobox.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "alp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1961_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1963",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1963-11-30",
+      "note": "Voting age 21",
+      "totalSeats": 124,
+      "turnout": 95.73,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1963_Australian_federal_election",
+        "revid": 1374451118
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2520321,
+          "pct": 46.04,
+          "seats": 72,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2489184,
+          "pct": 45.47,
+          "seats": 52,
+          "change": -10
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 407416,
+          "pct": 7.44,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 57792,
+          "pct": 1.06,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (52 seats) and Country (20) rows. Seats include the members for the Northern Territory and the Australian Capital Territory, counted in Labor's total as the table's footnote says; territorial members had limited voting rights. The table's Total row gives 122 (voting members only); the infobox gives the chamber as 124. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page. NT comes from the national table's footnote (Labor's total includes the NT); the page has no NT infobox.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1963_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1966",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1966-11-26",
+      "note": "Voting age 21",
+      "totalSeats": 124,
+      "turnout": 95.13,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1966_Australian_federal_election",
+        "revid": 1374450890
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2853890,
+          "pct": 49.98,
+          "seats": 82,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2282834,
+          "pct": 39.98,
+          "seats": 41,
+          "change": -9
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 82948,
+          "pct": 1.45,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 417411,
+          "pct": 7.31,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 72666,
+          "pct": 1.27,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (61 seats) and Country (21) rows. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1966_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1969",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1969-10-25",
+      "note": "Voting age 21",
+      "totalSeats": 125,
+      "turnout": 94.97,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1969_Australian_federal_election",
+        "revid": 1374450510
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2649219,
+          "pct": 43.33,
+          "seats": 66,
+          "change": -16,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2870792,
+          "pct": 46.95,
+          "seats": 59,
+          "change": 18
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 367977,
+          "pct": 6.02,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 141090,
+          "pct": 2.53,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 71428,
+          "pct": 1.17,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (46 seats) and Country (20) rows. The table's party rows add up to 6,100,506 votes, 13,612 fewer than its Total row (6,114,118); Others' share is computed against the Total row. The Independents' 2.53% matches about 154,700 votes against the Total row, so the gap is probably in the Independents' vote figure. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1969_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1972",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1972-12-02",
+      "note": "Voting age 21",
+      "totalSeats": 125,
+      "turnout": 95.38,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1972_Australian_federal_election",
+        "revid": 1374328360
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3273549,
+          "pct": 49.59,
+          "seats": 67,
+          "change": 8,
+          "winner": true
+        },
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2737911,
+          "pct": 41.48,
+          "seats": 58,
+          "change": -8
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 346415,
+          "pct": 5.25,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Australia",
+          "party": "ap",
+          "votes": 159916,
+          "pct": 2.42,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 83259,
+          "pct": 1.26,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (38 seats) and Country (20) rows. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election). Region winners: most House seats in each state or territory, from the state infoboxes on the results page.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1972_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1974",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1974-05-18",
+      "totalSeats": 127,
+      "turnout": 95.42,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1974_Australian_federal_election",
+        "revid": 1378847156
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3644110,
+          "pct": 49.3,
+          "seats": 66,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 3379545,
+          "pct": 45.73,
+          "seats": 61,
+          "change": 3
+        },
+        {
+          "name": "Australia",
+          "party": "ap",
+          "votes": 172176,
+          "pct": 2.33,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 104974,
+          "pct": 1.42,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 90201,
+          "pct": 1.22,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal (40 seats), Country (21) and National Alliance (0) rows. The Coalition's change (+3) is the table's Coalition row; its component rows sum to +1. The table includes the National Alliance (a Western Australian alliance of the Country Party and the DLP) inside the Coalition. Region winners: most House seats in each state or territory, from the state infoboxes on the results page. Seat ties broken by first-preference votes: WA Coalition 5–5 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1974_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1975",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1975-12-13",
+      "totalSeats": 127,
+      "turnout": 95.39,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1975_Australian_federal_election",
+        "revid": 1374327903
+      },
+      "candidates": [
+        {
+          "name": "Liberal–NCP Coalition",
+          "party": "lnp",
+          "votes": 4102078,
+          "pct": 53.05,
+          "seats": 91,
+          "change": 30,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3313004,
+          "pct": 42.84,
+          "seats": 36,
+          "change": -30
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 101750,
+          "pct": 1.32,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 215746,
+          "pct": 2.79,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–NCP Coalition combines the table's Liberal (68 seats), National Country (22) and Country Liberal (1) rows. Region winners: most House seats in each state or territory, from the state infoboxes on the results page. Seat ties broken by first-preference votes: SA Coalition 6–6 Labor; ACT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1975_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1977",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1977-12-10",
+      "totalSeats": 124,
+      "turnout": 95.08,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1977_Australian_federal_election",
+        "revid": 1374327840
+      },
+      "candidates": [
+        {
+          "name": "Liberal–NCP Coalition",
+          "party": "lnp",
+          "votes": 3811340,
+          "pct": 48.11,
+          "seats": 86,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3141051,
+          "pct": 39.65,
+          "seats": 38,
+          "change": 2
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 743365,
+          "pct": 9.38,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 113271,
+          "pct": 1.43,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 113827,
+          "pct": 1.44,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–NCP Coalition combines the table's Liberal (67 seats), National Country (18) and Country Liberal (1) rows. Region winners: most House seats in each state or territory, from the state infoboxes on the results page. Seat ties broken by first-preference votes: ACT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1977_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1980",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1980-10-18",
+      "totalSeats": 125,
+      "turnout": 94.35,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1980_Australian_federal_election",
+        "revid": 1374327799
+      },
+      "candidates": [
+        {
+          "name": "Liberal–NCP Coalition",
+          "party": "lnp",
+          "votes": 3853585,
+          "pct": 46.4,
+          "seats": 74,
+          "change": -12,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3749565,
+          "pct": 45.15,
+          "seats": 51,
+          "change": 13
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 546032,
+          "pct": 6.57,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 156410,
+          "pct": 1.88,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–NCP Coalition combines the table's Liberal (54 seats), National Country (19) and Country Liberal (1) rows. The table's party rows add up to 8,305,592 votes, 41 fewer than its Total row (8,305,633); Others' share is computed against the Total row. Region winners: most House seats in each state or territory, from the state infoboxes on the results page.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1980_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1983",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1983-03-05",
+      "totalSeats": 125,
+      "turnout": 94.64,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1983_Australian_House_of_Representatives_election",
+        "revid": 1345676474
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4297392,
+          "pct": 49.48,
+          "seats": 75,
+          "change": 24,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 3787281,
+          "pct": 43.61,
+          "seats": 50,
+          "change": -24
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 437265,
+          "pct": 5.03,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 162925,
+          "pct": 1.88,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (33 seats), National (17) and Country Liberal (0) rows. The table's Coalition total row gives 3,787,151 votes, but its component rows add up to 3,787,281; the component sum is used. The table's party rows add up to 8,684,863 votes, 1 more than its Total row (8,684,862); Others' share is computed against the Total row. Region winners: most House seats in each state or territory, from the state infoboxes on the results page.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "alp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1983_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1984",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1984-12-01",
+      "totalSeats": 148,
+      "turnout": 94.19,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1984_Australian_House_of_Representatives_election",
+        "revid": 1328222779
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4120130,
+          "pct": 47.55,
+          "seats": 82,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 3900042,
+          "pct": 45.01,
+          "seats": 66,
+          "change": 16
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 472204,
+          "pct": 5.45,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 90333,
+          "pct": 1.04,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 82243,
+          "pct": 0.95,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (44 seats), Nationals (21) and CLP (1) rows. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 1984 Australian federal election in …' pages.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1984_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1987",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1987-07-11",
+      "totalSeats": 148,
+      "turnout": 93.84,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1987_Australian_House_of_Representatives_election",
+        "revid": 1328229489
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4238663,
+          "pct": 45.9,
+          "seats": 86,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Liberal and National parties",
+          "party": "lnp",
+          "votes": 4238978,
+          "pct": 45.9,
+          "seats": 62,
+          "change": -4
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 557262,
+          "pct": 6,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 153205,
+          "pct": 1.66,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 46978,
+          "pct": 0.51,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal and National parties combines the table's Liberal (43 seats), Nationals (19) and CLP (0) rows. The Coalition had formally split in May 1987 (per the article) and the table lists the Liberal, National and CLP rows separately; they are combined here to match the other years. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 1987 Australian federal election in …' pages.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "alp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1987_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1990",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1990-03-24",
+      "totalSeats": 148,
+      "turnout": 95.32,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/1990_Australian_House_of_Representatives_election",
+        "revid": 1331460195
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3904138,
+          "pct": 39.44,
+          "seats": 78,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4302127,
+          "pct": 43.46,
+          "seats": 69,
+          "change": 7
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 257139,
+          "pct": 2.6,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 1114216,
+          "pct": 11.26,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Greens (state-based)",
+          "party": "grn",
+          "votes": 137351,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 185370,
+          "pct": 1.87,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (55 seats), Nationals (14) and CLP (0) rows. The table's party rows add up to 9,900,341 votes, 667 more than its Total row (9,899,674); Others' share is computed against the Total row. Greens are the state-based Green parties (the Australian Greens were founded in 1992). Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 1990 Australian federal election in …' pages.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "alp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1990_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1993",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1993-03-13",
+      "totalSeats": 147,
+      "turnout": 95.75,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/1993_Australian_House_of_Representatives_election",
+        "revid": 1328229524
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4751390,
+          "pct": 44.92,
+          "seats": 80,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4681822,
+          "pct": 44.27,
+          "seats": 65,
+          "change": -4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 329235,
+          "pct": 3.11,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 397060,
+          "pct": 3.75,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 196702,
+          "pct": 1.85,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 220570,
+          "pct": 2.09,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (49 seats), National (16) and Country Liberal (0) rows. The poll in the Division of Dickson was deferred to 17 April 1993. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 1993 Australian federal election in …' pages.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "alp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1993_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1996",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1996-03-02",
+      "totalSeats": 148,
+      "turnout": 95.77,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Elections 1996)",
+        "url": "https://en.wikipedia.org/wiki/1996_Australian_House_of_Representatives_election",
+        "revid": 1328222862
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5142161,
+          "pct": 47.25,
+          "seats": 94,
+          "change": 29,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4217765,
+          "pct": 38.75,
+          "seats": 49,
+          "change": -31
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 262420,
+          "pct": 2.41,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 735848,
+          "pct": 6.76,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 317654,
+          "pct": 2.92,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 208004,
+          "pct": 1.91,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (75 seats), Nationals (18) and CLP (1) rows. Turnout is the page's infobox figure (11,244,017 voters, transcluded from the main election article); the table caption's 94.99% repeats the 1998 caption. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 1996 Australian federal election in …' pages.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1996_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-1998",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1998-10-03",
+      "totalSeats": 148,
+      "turnout": 94.99,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/1998_Australian_House_of_Representatives_election",
+        "revid": 1343920278
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4388809,
+          "pct": 39.51,
+          "seats": 80,
+          "change": -14,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4454306,
+          "pct": 40.1,
+          "seats": 67,
+          "change": 18
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 195180,
+          "pct": 1.76,
+          "seats": 1,
+          "change": -4
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 936621,
+          "pct": 8.43,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 569875,
+          "pct": 5.13,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 290709,
+          "pct": 2.62,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 271548,
+          "pct": 2.44,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (64 seats), Nationals (16) and CLP (0) rows. The table's party rows add up to 11,107,048 votes, 2,015 fewer than its Total row (11,109,063); Others' share is computed against the Total row. The poll in the Division of Newcastle was deferred to 21 November 1998. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 1998 Australian federal election in …' pages. Seat ties broken by first-preference votes: WA Coalition 7–7 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1998_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2001",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2001-11-10",
+      "totalSeats": 150,
+      "turnout": 94.85,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2001_Australian_House_of_Representatives_election",
+        "revid": 1337737355
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4934958,
+          "pct": 43.01,
+          "seats": 82,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4341420,
+          "pct": 37.84,
+          "seats": 65,
+          "change": -2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 332118,
+          "pct": 2.89,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 620198,
+          "pct": 5.41,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 569074,
+          "pct": 4.96,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 498032,
+          "pct": 4.34,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 177694,
+          "pct": 1.55,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (68 seats), Nationals (13) and CLP (1) rows. The table's party rows add up to 11,473,494 votes, 580 fewer than its Total row (11,474,074); Others' share is computed against the Total row. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 2001 Australian federal election in …' pages. Seat ties broken by first-preference votes: NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2001_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2004",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2004-10-09",
+      "totalSeats": 150,
+      "turnout": 94.32,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2004_Australian_House_of_Representatives_election",
+        "revid": 1340927565
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5471588,
+          "pct": 46.71,
+          "seats": 87,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4409117,
+          "pct": 37.64,
+          "seats": 60,
+          "change": -5
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 292036,
+          "pct": 2.49,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 841734,
+          "pct": 7.19,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 235315,
+          "pct": 2.01,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 144832,
+          "pct": 1.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 139956,
+          "pct": 1.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 180554,
+          "pct": 1.54,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (74 seats), Nationals (12) and CLP (1) rows. Turnout is the table's registered voters/turnout row, which matches its vote and enrolment counts; the caption says 94.69%. Region winners: most House seats in each state or territory, from the state results tables on the results page. Seat ties broken by first-preference votes: NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2004_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2007",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2007-11-24",
+      "totalSeats": 150,
+      "turnout": 94.76,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2007_Australian_House_of_Representatives_election",
+        "revid": 1368880038
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 5388147,
+          "pct": 43.38,
+          "seats": 83,
+          "change": 23,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5228958,
+          "pct": 42.09,
+          "seats": 65,
+          "change": -22
+        },
+        {
+          "name": "Independents / Not Affiliated",
+          "party": "ind",
+          "votes": 276370,
+          "pct": 2.23,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 967781,
+          "pct": 7.79,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 246792,
+          "pct": 1.99,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 302346,
+          "pct": 2.43,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (55 seats), Nationals (10) and CLP (0) rows. The table's party rows add up to 12,410,394 votes, 9,469 fewer than its Total row (12,419,863); Others' share is computed against the Total row. Turnout is the caption's figure, which matches the table's vote and enrolment counts; its turnout row says 94.72%. Region winners: most House seats in each state or territory, from the state results tables on the results page.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "alp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2007_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2010",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2010-08-21",
+      "totalSeats": 150,
+      "turnout": 93.22,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2010_Australian_House_of_Representatives_election",
+        "revid": 1374148413
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5365529,
+          "pct": 43.32,
+          "seats": 72,
+          "change": 7
+        },
+        {
+          "name": "Australian Labor Party",
+          "party": "alp",
+          "votes": 4711363,
+          "pct": 37.99,
+          "seats": 72,
+          "change": -11,
+          "winner": true
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 312496,
+          "pct": 2.52,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Australian Greens",
+          "party": "grn",
+          "votes": 1458998,
+          "pct": 11.76,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "National (WA)",
+          "party": "nwa",
+          "votes": 43101,
+          "pct": 0.34,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Family First Party",
+          "party": "ffp",
+          "votes": 279330,
+          "pct": 2.25,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 231546,
+          "pct": 1.87,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (44 seats), Liberal National Party (QLD) (21), Nationals (6) and Country Liberal (NT) (1) rows. Nationals WA (1 seat) sat outside the Coalition and the table lists it separately. Labor and the Coalition tied on 72 seats; Labor is flagged as the winner because it formed a minority government with crossbench support (per the article). Turnout is the table's registered voters/turnout row (the caption says 93.21%). Region winners: most House seats in each state or territory, from the state results tables on the results page. Seat ties broken by first-preference votes: NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2013",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2013-09-07",
+      "totalSeats": 150,
+      "turnout": 93.23,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2013_Australian_House_of_Representatives_election",
+        "revid": 1326389026
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5882818,
+          "pct": 45.55,
+          "seats": 90,
+          "change": 19,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4311365,
+          "pct": 33.38,
+          "seats": 55,
+          "change": -16
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 177217,
+          "pct": 1.37,
+          "seats": 2,
+          "change": -4
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1116918,
+          "pct": 8.65,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Palmer United Party",
+          "party": "uap",
+          "votes": 709035,
+          "pct": 5.49,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Katter's Australian Party",
+          "party": "kap",
+          "votes": 134226,
+          "pct": 1.04,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 181820,
+          "pct": 1.41,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 401528,
+          "pct": 3.11,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (58 seats), LNP (22), Nationals (9) and Country Liberal (NT) (1) rows. The Coalition's change (+19) is the table's Coalition row; its component rows sum to +18. Region winners: most House seats in each state or territory, from the state results tables on the results page. Seat ties broken by first-preference votes: NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2013_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2016",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2016-07-02",
+      "totalSeats": 150,
+      "turnout": 91.01,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2016_Australian_House_of_Representatives_election",
+        "revid": 1376537848
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5693605,
+          "pct": 42.04,
+          "seats": 76,
+          "change": -14,
+          "winner": true
+        },
+        {
+          "name": "Australian Labor Party",
+          "party": "alp",
+          "votes": 4702296,
+          "pct": 34.73,
+          "seats": 69,
+          "change": 14
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 380712,
+          "pct": 2.81,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Australian Greens",
+          "party": "grn",
+          "votes": 1385650,
+          "pct": 10.23,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Nick Xenophon Team",
+          "party": "ca",
+          "votes": 250333,
+          "pct": 1.85,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Katter's Australian Party",
+          "party": "kap",
+          "votes": 72879,
+          "pct": 0.54,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Family First Party",
+          "party": "ffp",
+          "votes": 201222,
+          "pct": 1.49,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "cdp",
+          "votes": 178026,
+          "pct": 1.31,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Pauline Hanson's One Nation",
+          "party": "on",
+          "votes": 175020,
+          "pct": 1.29,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 501358,
+          "pct": 3.7,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal Party of Australia (45 seats), Liberal National Party (QLD) (21), National Party of Australia (10) and Country Liberal Party (NT) (0) rows. Region winners: most House seats in each state or territory, from the state infoboxes on the results page.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2016_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2019",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2019-05-18",
+      "totalSeats": 151,
+      "turnout": 91.89,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2019_Australian_House_of_Representatives_election",
+        "revid": 1313076903
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5906875,
+          "pct": 41.44,
+          "seats": 77,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Australian Labor Party",
+          "party": "alp",
+          "votes": 4752160,
+          "pct": 33.34,
+          "seats": 68,
+          "change": -1
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 479836,
+          "pct": 3.37,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Australian Greens",
+          "party": "grn",
+          "votes": 1482923,
+          "pct": 10.4,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Katter's Australian Party",
+          "party": "kap",
+          "votes": 69736,
+          "pct": 0.49,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Centre Alliance",
+          "party": "ca",
+          "votes": 46931,
+          "pct": 0.33,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Australia Party",
+          "party": "uap",
+          "votes": 488817,
+          "pct": 3.43,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Pauline Hanson's One Nation",
+          "party": "on",
+          "votes": 438587,
+          "pct": 3.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 587528,
+          "pct": 4.12,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal Party of Australia (44 seats), Liberal National Party (Qld) (23), National Party of Australia (10) and Country Liberal Party (NT) (0) rows. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 2019 Australian federal election in …' pages. Seat ties broken by first-preference votes: TAS Coalition 2–2 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2019_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-house-2022",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2022-05-21",
+      "totalSeats": 151,
+      "turnout": 89.82,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2022_Australian_House_of_Representatives_election",
+        "revid": 1329073330
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4776030,
+          "pct": 32.58,
+          "seats": 77,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5233334,
+          "pct": 35.7,
+          "seats": 58,
+          "change": -19
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 776169,
+          "pct": 5.29,
+          "seats": 10,
+          "change": 7
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1795985,
+          "pct": 12.25,
+          "seats": 4,
+          "change": 3
+        },
+        {
+          "name": "Katter's Australian",
+          "party": "kap",
+          "votes": 55863,
+          "pct": 0.38,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Centre Alliance",
+          "party": "ca",
+          "votes": 36500,
+          "pct": 0.25,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 727464,
+          "pct": 4.96,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "United Australia",
+          "party": "uap",
+          "votes": 604536,
+          "pct": 4.12,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ldp",
+          "votes": 252963,
+          "pct": 1.73,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 399237,
+          "pct": 2.72,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal (27 seats), Liberal National (Qld) (21), National (10) and Country Liberal (NT) (0) rows. The table's party rows add up to 14,658,081 votes, 961 fewer than its Total row (14,659,042); Others' share is computed against the Total row. Region winners: most House seats in each state or territory, from the state infoboxes that the results page transcludes from the per-state 'Results of the 2022 Australian federal election in …' pages. Seat ties broken by first-preference votes: TAS Coalition 2–2 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2022_Australian_House_of_Representatives_election"
+    },
+    {
+      "id": "au-senate-1949",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1949-12-10",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 60,
+      "turnout": 95.97,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1949_Australian_federal_election",
+        "revid": 1378859794
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 1881956,
+          "pct": 44.89,
+          "seats": 34,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2113447,
+          "pct": 50.41,
+          "seats": 26,
+          "change": 23
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 87958,
+          "pct": 2.1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Independents / ungrouped",
+          "party": "ind",
+          "votes": 71723,
+          "pct": 1.71,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 37441,
+          "pct": 0.89,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (21 seats) and Country (5) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 42 of the 60 seats were contested. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1951",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1951-04-28",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 60,
+      "turnout": 95.99,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1951_Australian_federal_election",
+        "revid": 1374451559
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2198687,
+          "pct": 49.7,
+          "seats": 32,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2029751,
+          "pct": 45.88,
+          "seats": 28,
+          "change": -6
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 93561,
+          "pct": 2.11,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Lang Labor",
+          "party": "lang",
+          "votes": 60549,
+          "pct": 1.37,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 41689,
+          "pct": 0.94,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (26 seats) and Country (6) rows. Double dissolution: all 60 Senate seats were contested. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1953",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1953-05-09",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 60,
+      "turnout": 94.93,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1953_Australian_Senate_election",
+        "revid": 1291351156
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2039938,
+          "pct": 44.43,
+          "seats": 31,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2323968,
+          "pct": 50.61,
+          "seats": 29,
+          "change": 1
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 140073,
+          "pct": 3.05,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 87610,
+          "pct": 1.91,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (26 seats) and Country (5) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 32 of the 60 seats were contested. Senate-only election. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1955",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1955-12-10",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 60,
+      "turnout": 95.01,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1955_Australian_federal_election",
+        "revid": 1374451243
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2161460,
+          "pct": 48.68,
+          "seats": 30,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 1803335,
+          "pct": 40.61,
+          "seats": 28,
+          "change": -1
+        },
+        {
+          "name": "Anti-Communist Labor",
+          "party": "dlp",
+          "votes": 271067,
+          "pct": 6.1,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 161869,
+          "pct": 3.64,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 43294,
+          "pct": 0.97,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (24 seats) and Country (6) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 30 of the 60 seats were contested. Anti-Communist Labor is the party later named the Democratic Labor Party (same article). The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1958",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1958-11-22",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 60,
+      "turnout": 95.48,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1958_Australian_federal_election",
+        "revid": 1374451220
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2084193,
+          "pct": 45.19,
+          "seats": 32,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 1973027,
+          "pct": 42.78,
+          "seats": 26,
+          "change": -2
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 314755,
+          "pct": 6.82,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 134263,
+          "pct": 2.91,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Queensland Labor",
+          "party": "qlp",
+          "votes": 73037,
+          "pct": 1.66,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 32784,
+          "pct": 0.71,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (25 seats) and Country (7) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 32 of the 60 seats were contested. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1961",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1961-12-09",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 60,
+      "turnout": 95.27,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1961_Australian_federal_election",
+        "revid": 1374451187
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2025078,
+          "pct": 42.08,
+          "seats": 30,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2151339,
+          "pct": 44.71,
+          "seats": 28,
+          "change": 2
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 388466,
+          "pct": 8.07,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 46499,
+          "pct": 0.97,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Queensland Labor",
+          "party": "qlp",
+          "votes": 84112,
+          "pct": 1.75,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Communist",
+          "party": "cpa",
+          "votes": 78188,
+          "pct": 1.62,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 38581,
+          "pct": 0.8,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (separate ticket) (24 seats) and Country (separate ticket) (6) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 31 of the 60 seats were contested. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1964",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1964-12-05",
+      "note": "Voting age 21",
+      "totalSeats": 60,
+      "turnout": 94.49,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1964_Australian_Senate_election",
+        "revid": 1372644868
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2362081,
+          "pct": 45.7,
+          "seats": 30,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2308670,
+          "pct": 44.66,
+          "seats": 27,
+          "change": -1
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 433511,
+          "pct": 8.39,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Independent / ungrouped",
+          "party": "ind",
+          "votes": 26873,
+          "pct": 0.52,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 37915,
+          "pct": 0.73,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (separate ticket) (23 seats) and Country (separate ticket) (7) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 30 of the 60 seats were contested. Senate-only election. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1967",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1967-11-25",
+      "note": "Voting age 21",
+      "totalSeats": 60,
+      "turnout": 95.11,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1967_Australian_Senate_election",
+        "revid": 1328293364
+      },
+      "candidates": [
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2365373,
+          "pct": 42.77,
+          "seats": 28,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2489990,
+          "pct": 45.03,
+          "seats": 27,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 540006,
+          "pct": 9.77,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Independent / ungrouped",
+          "party": "ind",
+          "votes": 55192,
+          "pct": 1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Reform Movement",
+          "party": "lrg",
+          "votes": 58679,
+          "pct": 1.06,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 20648,
+          "pct": 0.37,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (separate ticket) (21 seats) and Country (separate ticket) (7) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 30 of the 60 seats were contested. Senate-only election. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1970",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1970-11-21",
+      "note": "Voting age 21",
+      "totalSeats": 60,
+      "turnout": 93.98,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation; the article links the University of WA elections archive)",
+        "url": "https://en.wikipedia.org/wiki/1970_Australian_Senate_election",
+        "revid": 1363503410
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2376215,
+          "pct": 42.22,
+          "seats": 26,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2149023,
+          "pct": 38.18,
+          "seats": 26,
+          "change": -2
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 625142,
+          "pct": 11.11,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 116838,
+          "pct": 2.07,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Australia",
+          "party": "ap",
+          "votes": 163343,
+          "pct": 2.9,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Better Education Committee",
+          "party": "bec",
+          "votes": 59813,
+          "pct": 1.06,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 138459,
+          "pct": 2.46,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (21 seats) and Country (5) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 32 of the 60 seats were contested. Senate-only election. Labor and the Coalition tied on 26 seats; Labor is flagged as it had more votes. The franchise note follows the 1963 and 1974 election articles (Indigenous Australians first voted on the same basis as other electors in 1963; the voting age was cut from 21 to 18 before the 1974 election)."
+    },
+    {
+      "id": "au-senate-1974",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1974-05-18",
+      "totalSeats": 60,
+      "turnout": 95.5,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation)",
+        "url": "https://en.wikipedia.org/wiki/1974_Australian_Senate_election",
+        "revid": 1360393779
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3127197,
+          "pct": 47.29,
+          "seats": 29,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Liberal–Country Coalition",
+          "party": "lnp",
+          "votes": 2901454,
+          "pct": 43.88,
+          "seats": 29,
+          "change": 3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 140003,
+          "pct": 2.12,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Liberal Movement",
+          "party": "lm",
+          "votes": 63032,
+          "pct": 0.95,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 235343,
+          "pct": 3.56,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Australia",
+          "party": "ap",
+          "votes": 92107,
+          "pct": 1.39,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 53249,
+          "pct": 0.81,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–Country Coalition combines the table's Liberal–Country joint ticket (votes only), Liberal (23 seats), National Alliance (votes only) and Country (6) rows. Double dissolution: all 60 Senate seats were contested. The table includes the National Alliance (the Country Party's ticket in WA) inside the Coalition; per the table note its senator sat with the Country Party, and the alliance has no separate seats-held figure. Labor and the Coalition tied on 29 seats; Labor is flagged as it had more votes."
+    },
+    {
+      "id": "au-senate-1975",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1975-12-13",
+      "totalSeats": 64,
+      "turnout": 95.39,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation)",
+        "url": "https://en.wikipedia.org/wiki/1975_Australian_Senate_election",
+        "revid": 1360375352
+      },
+      "candidates": [
+        {
+          "name": "Liberal–NCP Coalition",
+          "party": "lnp",
+          "votes": 3706989,
+          "pct": 51.74,
+          "seats": 35,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2931310,
+          "pct": 40.91,
+          "seats": 27,
+          "change": -2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 114310,
+          "pct": 1.6,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Liberal Movement",
+          "party": "lm",
+          "votes": 76426,
+          "pct": 1.07,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 191049,
+          "pct": 2.67,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 144629,
+          "pct": 2.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–NCP Coalition combines the table's Liberal–NCP joint ticket (votes only), Liberal (26 seats), National Country (8) and Country Liberal (1) rows. Double dissolution: all 64 Senate seats were contested."
+    },
+    {
+      "id": "au-senate-1977",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1977-12-10",
+      "totalSeats": 64,
+      "turnout": 95.08,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation)",
+        "url": "https://en.wikipedia.org/wiki/1977_Australian_Senate_election",
+        "revid": 1360375365
+      },
+      "candidates": [
+        {
+          "name": "Liberal–NCP Coalition",
+          "party": "lnp",
+          "votes": 3369842,
+          "pct": 45.57,
+          "seats": 34,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 2718876,
+          "pct": 36.76,
+          "seats": 27,
+          "change": 0
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 823550,
+          "pct": 11.13,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 127850,
+          "pct": 1.73,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp",
+          "votes": 123192,
+          "pct": 1.67,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Progress",
+          "party": "prog",
+          "votes": 88203,
+          "pct": 1.19,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 144694,
+          "pct": 1.96,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–NCP Coalition combines the table's Liberal–NCP joint ticket (votes only), Liberal (27 seats), National Country (6) and Country Liberal (1) rows. The table's Coalition total row gives 3,369,843 votes, but its component rows add up to 3,369,842; the component sum is used. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 34 of the 64 seats were contested. The table gives Call to Australia 1.12%, but its 49,395 votes (the same figure as in the page's NSW table, the only state it contested) are 0.67% of the Total row, so it is counted in Others. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: NSW Coalition 2–2 Labor; VIC Coalition 2–2 Labor; ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1977_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1980",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1980-10-18",
+      "totalSeats": 64,
+      "turnout": 94.35,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1980_Australian_Senate_election",
+        "revid": 1331754437
+      },
+      "candidates": [
+        {
+          "name": "Liberal–NCP Coalition",
+          "party": "lnp",
+          "votes": 3343924,
+          "pct": 43.48,
+          "seats": 31,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3250187,
+          "pct": 42.25,
+          "seats": 27,
+          "change": 0
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 711805,
+          "pct": 9.25,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 86770,
+          "pct": 1.13,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Call to Australia",
+          "party": "cdp",
+          "votes": 118535,
+          "pct": 1.54,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 182610,
+          "pct": 2.37,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–NCP Coalition combines the table's Liberal–NCP joint ticket (votes only), Liberal (27 seats), National Country (3) and Country Liberal (1) rows. The table's Coalition total row gives 3,352,521 votes, but its component rows add up to 3,343,924; the component sum is used. The table's party rows add up to 7,693,831 votes, 1,467 more than its Total row (7,692,364); Others' share is computed against the Total row. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 34 of the 64 seats were contested. The page's summary says two of the three National Country senators were non-coalition; the table counts all three inside the Coalition. The excess equals the National Front of Australia row (1,467), which may also be counted in the table's 'Other' row. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: VIC Labor 2–2 Coalition; QLD Coalition 2–2 Labor; SA Coalition 2–2 Labor; TAS Coalition 2–2 Labor; ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1980_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1983",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1983-03-05",
+      "totalSeats": 64,
+      "turnout": 94.64,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1983_Australian_Senate_election",
+        "revid": 1293917207
+      },
+      "candidates": [
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3637316,
+          "pct": 45.49,
+          "seats": 30,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 3195397,
+          "pct": 39.97,
+          "seats": 28,
+          "change": -3
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 764911,
+          "pct": 9.57,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 193454,
+          "pct": 2.42,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Call to Australia",
+          "party": "cdp",
+          "votes": 96065,
+          "pct": 1.2,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 107902,
+          "pct": 1.35,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal–National joint ticket (votes only), Liberal (separate ticket) (23 seats), National (separate ticket) (4) and Country Liberal (1) rows. Double dissolution: all 64 Senate seats were contested. The table's 'Other' row (203,967 votes) already includes Call to Australia (96,065), Progress Party (1,905) and White Australia (1,025), which are listed beneath it without percentages: Labor, Coalition, Democrats, Independents and Other add up exactly to the Total. Call to Australia is shown separately here and Others is the rest of the 'Other' row. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor. Call to Australia's share is computed from its votes (the table gives no percentage).",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1983_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1984",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1984-12-01",
+      "totalSeats": 76,
+      "turnout": 94.55,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1984_Australian_Senate_election",
+        "revid": 1293917232
+      },
+      "candidates": [
+        {
+          "name": "Australian Labor Party",
+          "party": "alp",
+          "votes": 3750789,
+          "pct": 42.17,
+          "seats": 34,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 3516857,
+          "pct": 39.54,
+          "seats": 33,
+          "change": 5
+        },
+        {
+          "name": "Australian Democrats",
+          "party": "dem",
+          "votes": 677970,
+          "pct": 7.62,
+          "seats": 7,
+          "change": 2
+        },
+        {
+          "name": "Nuclear Disarmament Party",
+          "party": "ndp",
+          "votes": 643061,
+          "pct": 7.23,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 57325,
+          "pct": 0.65,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Call to Australia Party",
+          "party": "cdp",
+          "votes": 162272,
+          "pct": 1.82,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 85826,
+          "pct": 0.96,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/National joint ticket (votes only), Liberal Party of Australia (27 seats), National Party of Australia (5) and Country Liberal Party (1) rows. Independents combines the table's rows Harradine Group (22,992) and Independent (34,333). Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 46 of the 76 seats were contested. The Senate grew from 64 to 76 seats at this election. Harradine Group is independent Brian Harradine's ticket. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: NSW Labor 3–3 Coalition; VIC Labor 3–3 Coalition; QLD Coalition 3–3 Labor; WA Labor 3–3 Coalition; SA Labor 3–3 Coalition; TAS Labor 3–3 Coalition; ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1984_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1987",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1987-07-11",
+      "totalSeats": 76,
+      "turnout": 94.33,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library (Federal Election Results 1949–1993)",
+        "url": "https://en.wikipedia.org/wiki/1987_Australian_Senate_election",
+        "revid": 1305150778
+      },
+      "candidates": [
+        {
+          "name": "Liberal and National parties",
+          "party": "lnp",
+          "votes": 3939432,
+          "pct": 42.03,
+          "seats": 34,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4013860,
+          "pct": 42.83,
+          "seats": 32,
+          "change": -2
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 794107,
+          "pct": 8.47,
+          "seats": 7,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 221548,
+          "pct": 2.37,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Nuclear Disarmament",
+          "party": "ndp",
+          "votes": 102480,
+          "pct": 1.09,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Call to Australia",
+          "party": "cdp",
+          "votes": 136825,
+          "pct": 1.46,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 163428,
+          "pct": 1.74,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal and National parties combines the table's Liberal (27 seats), Liberal–National joint ticket (NSW) (votes only), Nationals (6) and CLP (1) rows. Independents combines the table's rows Vallentine Peace Group (40,048), Harradine Group (37,037) and Independent (144,463). The table's party rows add up to 9,371,680 votes, 1 fewer than its Total row (9,371,681); Others' share is computed against the Total row. Double dissolution: all 76 Senate seats were contested. Vallentine Peace Group (Jo Vallentine) and Harradine Group (Brian Harradine) are independent senators' tickets. The Coalition had formally split in May 1987; the table lists the Liberal, joint-ticket, National and CLP rows separately and they are combined here. The Nationals row includes the NT Nationals (table footnote). Turnout is computed from the table's turnout (9,766,571) and registered voters (10,353,213) rows; its caption (93.84%) and turnout percentage (90.5%) disagree with those counts. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: NSW Labor 5–5 Coalition; WA Labor 5–5 Coalition; SA Labor 5–5 Coalition; TAS Labor 5–5 Coalition; ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1987_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1990",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1990-03-24",
+      "totalSeats": 76,
+      "turnout": 95.81,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/1990_Australian_Senate_election",
+        "revid": 1352830057
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4162633,
+          "pct": 41.92,
+          "seats": 34,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3813547,
+          "pct": 38.41,
+          "seats": 32,
+          "change": 0
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 1253807,
+          "pct": 12.63,
+          "seats": 8,
+          "change": 1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 208157,
+          "pct": 2.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 29974,
+          "pct": 0.3,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Call to Australia",
+          "party": "cdp",
+          "votes": 136522,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 325125,
+          "pct": 3.27,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal–National joint ticket (votes only), Liberal (29 seats), Nationals (4) and CLP (1) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Greens are the state-based Green parties (the table notes there was no federal Australian Greens party yet). Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1990_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1993",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1993-03-13",
+      "totalSeats": 76,
+      "turnout": 96.22,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/1993_Australian_Senate_election",
+        "revid": 1352830496
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4595148,
+          "pct": 43.05,
+          "seats": 36,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4643871,
+          "pct": 43.5,
+          "seats": 30,
+          "change": -2
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 566944,
+          "pct": 5.31,
+          "seats": 7,
+          "change": -1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 314845,
+          "pct": 2.95,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Independents and others",
+          "party": "ind",
+          "votes": 120713,
+          "pct": 1.13,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Call to Australia",
+          "party": "cdp",
+          "votes": 108945,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 324339,
+          "pct": 3.04,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal–National joint ticket (votes only), Liberal (29 seats), Nationals (6) and CLP (1) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Independents and others is the table's 'Others' row; its seat is independent Brian Harradine (Tasmania), per the table's footnote. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: NSW Labor 3–3 Coalition; VIC Labor 3–3 Coalition; ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1993_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1996",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1996-03-02",
+      "totalSeats": 76,
+      "turnout": 96.2,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/1996_Australian_Senate_election",
+        "revid": 1364604719
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4792682,
+          "pct": 43.97,
+          "seats": 37,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3940150,
+          "pct": 36.15,
+          "seats": 29,
+          "change": -1
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 1179357,
+          "pct": 10.82,
+          "seats": 7,
+          "change": 0
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 345513,
+          "pct": 3.17,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 41489,
+          "pct": 0.38,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "AAFI",
+          "party": "aafi",
+          "votes": 137604,
+          "pct": 1.26,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Call to Australia",
+          "party": "cdp",
+          "votes": 117274,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Shooters",
+          "party": "sff",
+          "votes": 114724,
+          "pct": 1.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 230244,
+          "pct": 2.11,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal–National joint ticket (votes only), Liberal (31 seats), Nationals (5) and CLP (1) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Turnout is the table's turnout row (11,294,479 of 11,740,568 registered); the caption's 95.20% does not match those counts. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1996_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-1998",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1998-10-03",
+      "totalSeats": 76,
+      "turnout": 95.34,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/1998_Australian_Senate_election",
+        "revid": 1371910767
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4225736,
+          "pct": 37.68,
+          "seats": 35,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4182963,
+          "pct": 37.31,
+          "seats": 29,
+          "change": 0
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 947940,
+          "pct": 8.45,
+          "seats": 9,
+          "change": 2
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 1007439,
+          "pct": 8.99,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 305058,
+          "pct": 2.72,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Harradine Group",
+          "party": "ind",
+          "votes": 24254,
+          "pct": 0.22,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "cdp",
+          "votes": 122516,
+          "pct": 1.09,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 384705,
+          "pct": 3.43,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/National (Joint Ticket) (votes only), Liberal (31 seats), Nationals (3) and CLP (1) rows. The table's Coalition total row gives 4,225,673 votes, but its component rows add up to 4,225,736; the component sum is used. The table's party rows add up to 11,200,611 votes, 11,292 fewer than its Total row (11,211,903); Others' share is computed against the Total row. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Harradine Group is independent Brian Harradine's ticket. The table's source link points to the AEC's 2001 results pages. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: VIC Labor 3–3 Coalition; QLD Coalition 2–2 Labor; ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1998_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2001",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2001-11-10",
+      "totalSeats": 76,
+      "turnout": 95.74,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2001_Australian_Senate_election",
+        "revid": 1352830842
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4864337,
+          "pct": 41.83,
+          "seats": 35,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 3990997,
+          "pct": 34.32,
+          "seats": 28,
+          "change": 0
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 843130,
+          "pct": 7.25,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 574543,
+          "pct": 4.94,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Independents and others",
+          "party": "ind",
+          "votes": 79834,
+          "pct": 0.69,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 644364,
+          "pct": 5.54,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "cdp",
+          "votes": 129966,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 500634,
+          "pct": 4.31,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/National joint ticket (11 seats), Liberal (22), Nationals (1) and CLP (1) rows. The table's Coalition total row gives 4,863,337 votes, but its component rows add up to 4,864,337; the component sum is used. The table's party rows add up to 11,627,805 votes, 276 more than its Total row (11,627,529); Others' share is computed against the Total row. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Independents and others is the table's independent-styled 'Other' row; the page's summary says its two seats are independents. The table's source link points to the Parliamentary Library's 1998 election report. Turnout is computed from the table's turnout (12,098,320) and registered voters (12,636,631) rows; the caption says 95.20% and the row 95.7%. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2001_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2004",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2004-10-09",
+      "totalSeats": 76,
+      "turnout": 94.82,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2004_Australian_Senate_election",
+        "revid": 1377821000
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5390084,
+          "pct": 45.09,
+          "seats": 39,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4186715,
+          "pct": 35.02,
+          "seats": 28,
+          "change": 0
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 916431,
+          "pct": 7.67,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 250373,
+          "pct": 2.09,
+          "seats": 4,
+          "change": -4
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 210567,
+          "pct": 1.76,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 206455,
+          "pct": 1.73,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Unendorsed/ungrouped",
+          "party": "ind",
+          "votes": 180385,
+          "pct": 1.51,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "cdp",
+          "votes": 140674,
+          "pct": 1.18,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 471935,
+          "pct": 3.95,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/Nationals joint ticket (12 seats), Liberal (24), Nationals (2) and CLP (NT) (1) rows. The table's party rows add up to 11,953,619 votes, 30 fewer than its Total row (11,953,649); Others' share is computed against the Total row. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: NSW Coalition 3–3 Labor; SA Coalition 3–3 Labor; ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2004_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2007",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2007-11-24",
+      "totalSeats": 76,
+      "turnout": 95.17,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2007_Australian_Senate_election",
+        "revid": 1371971746
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5055095,
+          "pct": 39.94,
+          "seats": 37,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "Australian Labor Party",
+          "party": "alp",
+          "votes": 5101200,
+          "pct": 40.3,
+          "seats": 32,
+          "change": 4
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1144751,
+          "pct": 9.04,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 204788,
+          "pct": 1.62,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 174458,
+          "pct": 1.38,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 162975,
+          "pct": 1.29,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Pauline's UAP",
+          "party": "puap",
+          "votes": 141268,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 672270,
+          "pct": 5.31,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/Nationals joint ticket (19 seats), Liberal (17), Nationals (0) and CLP (1) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: NSW Labor 3–3 Coalition; VIC Labor 3–3 Coalition; QLD Coalition 3–3 Labor; SA Labor 2–2 Coalition; ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "alp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "alp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2007_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2010",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2010-08-21",
+      "totalSeats": 76,
+      "turnout": 93.83,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2010_Australian_Senate_election",
+        "revid": 1373560578
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4871871,
+          "pct": 38.3,
+          "seats": 34,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4469734,
+          "pct": 35.13,
+          "seats": 31,
+          "change": -1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1667315,
+          "pct": 13.11,
+          "seats": 9,
+          "change": 4
+        },
+        {
+          "name": "Democratic Labor",
+          "party": "dlp78",
+          "votes": 134987,
+          "pct": 1.06,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 55786,
+          "pct": 0.44,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 267493,
+          "pct": 2.1,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Sex Party",
+          "party": "sex",
+          "votes": 259583,
+          "pct": 2.04,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ldp",
+          "votes": 230191,
+          "pct": 1.81,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Shooters and Fishers",
+          "party": "sff",
+          "votes": 214119,
+          "pct": 1.68,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "cdp",
+          "votes": 127894,
+          "pct": 1.01,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 423260,
+          "pct": 3.33,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/Nationals joint ticket (17 seats), Liberal (16) and Country Liberal (NT) (1) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Turnout is the table's registered voters/turnout row (the caption says 93.82%). Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: VIC Labor 2–2 Coalition; ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "alp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2013",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2013-09-07",
+      "totalSeats": 76,
+      "turnout": 93.88,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2013_Australian_Senate_election",
+        "revid": 1377731872
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5057218,
+          "pct": 37.7,
+          "seats": 33,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4038591,
+          "pct": 30.11,
+          "seats": 25,
+          "change": -6
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1159588,
+          "pct": 8.65,
+          "seats": 10,
+          "change": 1
+        },
+        {
+          "name": "Palmer United Party",
+          "party": "uap",
+          "votes": 658976,
+          "pct": 4.91,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Liberal Democratic Party",
+          "party": "ldp",
+          "votes": 523831,
+          "pct": 3.91,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 273865,
+          "pct": 2.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 149306,
+          "pct": 1.11,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democratic Labour",
+          "party": "dlp78",
+          "votes": 112549,
+          "pct": 0.84,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "AMEP",
+          "party": "amep",
+          "votes": 67560,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Australian Sports Party",
+          "party": "asp",
+          "votes": 2997,
+          "pct": 0.02,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Sex Party",
+          "party": "sex",
+          "votes": 183731,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1184385,
+          "pct": 8.83,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/Nationals joint ticket (16 seats), Liberal (16), Nationals (0) and Country Liberal (NT) (1) rows. Independents combines the table's rows Xenophon Group (258,376) and Unendorsed/ungrouped (15,489). The table's party rows add up to 13,412,597 votes, 419 fewer than its Total row (13,413,016); Others' share is computed against the Total row. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. Xenophon Group is independent Nick Xenophon's ticket. Western Australia's result was declared void and its senators were elected at the 2014 special election; per the page, this table's seats follow the voided WA count. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: VIC Coalition 2–2 Labor; TAS Coalition 2–2 Labor; ACT Labor 1–1 Coalition; NT Coalition 1–1 Labor.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "lnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2013_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2016",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2016-07-02",
+      "totalSeats": 76,
+      "turnout": 91.93,
+      "source": {
+        "name": "Wikipedia, citing the Parliamentary Library",
+        "url": "https://en.wikipedia.org/wiki/2016_Australian_Senate_election",
+        "revid": 1377731888
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 4868246,
+          "pct": 35.18,
+          "seats": 30,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4123084,
+          "pct": 29.79,
+          "seats": 26,
+          "change": 1
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1197657,
+          "pct": 8.65,
+          "seats": 9,
+          "change": -1
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 593013,
+          "pct": 4.29,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Xenophon Team",
+          "party": "ca",
+          "votes": 456369,
+          "pct": 3.3,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ldp",
+          "votes": 298915,
+          "pct": 2.16,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Derryn Hinch's Justice Party",
+          "party": "djp",
+          "votes": 266607,
+          "pct": 1.93,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Family First",
+          "party": "ffp",
+          "votes": 191112,
+          "pct": 1.38,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Lambie Network",
+          "party": "jln",
+          "votes": 69074,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Shooters, Fishers and Farmers",
+          "party": "sff",
+          "votes": 192923,
+          "pct": 1.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "cdp",
+          "votes": 162155,
+          "pct": 1.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Animal Justice",
+          "party": "ajp",
+          "votes": 159373,
+          "pct": 1.15,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1260372,
+          "pct": 9.11,
+          "seats": 0,
+          "change": -5
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/Nationals joint ticket (10 seats), Liberal (14), LNP (5), CLP (1) and National (WA) (0) rows. Double dissolution: all 76 Senate seats were contested. The table includes the Nationals WA ticket inside the Coalition. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "alp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2016_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2019",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2019-05-18",
+      "totalSeats": 76,
+      "turnout": 92.48,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2019_Australian_Senate_election",
+        "revid": 1352831367
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5548142,
+          "pct": 37.99,
+          "seats": 35,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4204313,
+          "pct": 28.79,
+          "seats": 26,
+          "change": 0
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1488427,
+          "pct": 10.19,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 788203,
+          "pct": 5.4,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Centre Alliance",
+          "party": "ca",
+          "votes": 28416,
+          "pct": 0.19,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Conservatives",
+          "party": "acon",
+          "votes": 102769,
+          "pct": 0.7,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Lambie Network",
+          "party": "jln",
+          "votes": 31383,
+          "pct": 0.21,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Australia",
+          "party": "uap",
+          "votes": 345199,
+          "pct": 2.36,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "HEMP",
+          "party": "lc",
+          "votes": 262426,
+          "pct": 1.8,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Shooters, Fishers and Farmers",
+          "party": "sff",
+          "votes": 253267,
+          "pct": 1.73,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Animal Justice",
+          "party": "ajp",
+          "votes": 183996,
+          "pct": 1.26,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ldp",
+          "votes": 169735,
+          "pct": 1.16,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Democratic Labour",
+          "party": "dlp78",
+          "votes": 149970,
+          "pct": 1.03,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1048679,
+          "pct": 7.18,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/National joint ticket (12 seats), Liberal (16), Liberal National (Qld) (6), Country Liberal (NT) (1) and National (0) rows. Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. HEMP is the party now called Legalise Cannabis Australia (same article). Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: TAS Coalition 2–2 Labor; ACT Labor 1–1 Coalition; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "lnp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2019_Australian_Senate_election"
+    },
+    {
+      "id": "au-senate-2022",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2022-05-21",
+      "totalSeats": 76,
+      "turnout": 90.47,
+      "source": {
+        "name": "Wikipedia, citing the Australian Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2022_Australian_Senate_election",
+        "revid": 1375219707
+      },
+      "candidates": [
+        {
+          "name": "Liberal–National Coalition",
+          "party": "lnp",
+          "votes": 5148028,
+          "pct": 34.24,
+          "seats": 32,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Labor",
+          "party": "alp",
+          "votes": 4525598,
+          "pct": 30.09,
+          "seats": 26,
+          "change": 0
+        },
+        {
+          "name": "Greens",
+          "party": "grn",
+          "votes": 1903403,
+          "pct": 12.66,
+          "seats": 12,
+          "change": 3
+        },
+        {
+          "name": "One Nation",
+          "party": "on",
+          "votes": 644744,
+          "pct": 4.29,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Lambie Network",
+          "party": "jln",
+          "votes": 31203,
+          "pct": 0.21,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "United Australia",
+          "party": "uap",
+          "votes": 520520,
+          "pct": 3.46,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 196460,
+          "pct": 1.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Legalise Cannabis",
+          "party": "lc",
+          "votes": 501421,
+          "pct": 3.33,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ldp",
+          "votes": 340132,
+          "pct": 2.26,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Animal Justice",
+          "party": "ajp",
+          "votes": 240696,
+          "pct": 1.6,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 988453,
+          "pct": 6.57,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Liberal–National Coalition combines the table's Liberal/National joint ticket (11 seats), Liberal National (Qld) (5), Liberal (15), Country Liberal (NT) (1) and National (0) rows. Independents combines the table's rows David Pocock (60,406) and Unendorsed/ungrouped (136,054). Seats are the Senate's full composition after the election (seats won plus seats not up, as the table gives it); 40 of the 76 seats were contested. David Pocock was elected on his own registered ticket and is counted with the independents, as in the current data. Region winners: most Senate seats won in each state or territory at this election, from the state results (election boxes' elected candidates) on the Senate results page. Seat ties broken by first-preference votes: VIC Coalition 2–2 Labor; QLD Coalition 2–2 Labor; TAS Coalition 2–2 Labor; ACT Labor 1–1 independent; NT Labor 1–1 Coalition.",
+      "regionWinners": {
+        "NSW": "lnp",
+        "VIC": "lnp",
+        "QLD": "lnp",
+        "WA": "alp",
+        "SA": "lnp",
+        "TAS": "lnp",
+        "ACT": "alp",
+        "NT": "alp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2022_Australian_Senate_election"
+    }
+  ]
+}

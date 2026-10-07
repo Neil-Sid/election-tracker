@@ -1,0 +1,26 @@
+{
+  "name": "election-tracker",
+  "version": "0.1.0",
+  "description": "A draggable globe of national elections in 23 countries, with official results and every national election since 1948",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "python -m http.server 5280",
+    "build": "node scripts/stamp.mjs",
+    "cron": "node scripts/update-results.mjs",
+    "cron:demo": "node scripts/update-results.mjs --force --country=US --reporting=70",
+    "cron:reset": "node scripts/update-results.mjs --reset",
+    "regions": "node scripts/build-regions.mjs",
+    "mock": "node scripts/mock-data.mjs",
+    "history": "node scripts/check-history.mjs && node scripts/build-history.mjs",
+    "world": "node scripts/build-world.mjs",
+    "districts": "node scripts/build-districts.mjs"
+  },
+  "devDependencies": {
+    "mapshaper": "^0.7.77"
+  }
+}

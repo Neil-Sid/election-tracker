@@ -1,0 +1,2426 @@
+{
+  "code": "SE",
+  "parties": {
+    "nyd": {
+      "name": "New Democracy",
+      "color": "#FFFF00",
+      "article": "New Democracy (Sweden)"
+    },
+    "spi": {
+      "name": "Swedish Senior Citizen Interest Party",
+      "color": "#033001",
+      "article": "Swedish Senior Citizen Interest Party"
+    },
+    "fi": {
+      "name": "Feminist Initiative",
+      "color": "#CD1B68",
+      "article": "Feminist Initiative (Sweden)"
+    },
+    "mbs": {
+      "name": "Civic Unity",
+      "color": "#9370DB"
+    },
+    "cdc": {
+      "name": "Centre (CDU–C joint list)",
+      "color": "#2E8B57"
+    }
+  },
+  "elections": [
+    {
+      "id": "se-riksdag-1948",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1948-09-19",
+      "note": "Second Chamber",
+      "totalSeats": 230,
+      "turnout": 82.74,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010) and Statistics Sweden",
+        "url": "https://en.wikipedia.org/wiki/1948_Swedish_general_election",
+        "revid": 1309894355
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1789459,
+          "pct": 46.13,
+          "seats": 112,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 882437,
+          "pct": 22.75,
+          "seats": 57,
+          "change": 31
+        },
+        {
+          "name": "Farmers' League",
+          "party": "c",
+          "votes": 480421,
+          "pct": 12.39,
+          "seats": 30,
+          "change": -5
+        },
+        {
+          "name": "National Organisation of the Right",
+          "party": "m",
+          "votes": 478786,
+          "pct": 12.34,
+          "seats": 23,
+          "change": -16
+        },
+        {
+          "name": "Communist Party",
+          "party": "v",
+          "votes": 244826,
+          "pct": 6.31,
+          "seats": 8,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3062,
+          "pct": 0.08,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1948_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. County winners (most votes) come from the constituency vote table on the linked results page (revision 1286353181). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1952",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1952-09-21",
+      "note": "Second Chamber",
+      "totalSeats": 230,
+      "turnout": 79.11,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1952_Swedish_general_election",
+        "revid": 1273435839
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1742284,
+          "pct": 46.05,
+          "seats": 110,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 924819,
+          "pct": 24.44,
+          "seats": 58,
+          "change": 1
+        },
+        {
+          "name": "Right Party",
+          "party": "m",
+          "votes": 543825,
+          "pct": 14.37,
+          "seats": 31,
+          "change": 8
+        },
+        {
+          "name": "Farmers' League",
+          "party": "c",
+          "votes": 406183,
+          "pct": 10.74,
+          "seats": 26,
+          "change": -4
+        },
+        {
+          "name": "Communist Party",
+          "party": "v",
+          "votes": 164194,
+          "pct": 4.34,
+          "seats": 5,
+          "change": -3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2402,
+          "pct": 0.06,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1952_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. County winners (most votes) come from the constituency vote table on the linked results page (revision 1358173178). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1956",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1956-09-16",
+      "note": "Second Chamber",
+      "totalSeats": 231,
+      "turnout": 79.84,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010) and Statistics Sweden",
+        "url": "https://en.wikipedia.org/wiki/1956_Swedish_general_election",
+        "revid": 1349064079
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1729463,
+          "pct": 44.58,
+          "seats": 106,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 923564,
+          "pct": 23.81,
+          "seats": 58,
+          "change": 0
+        },
+        {
+          "name": "Right Party",
+          "party": "m",
+          "votes": 663693,
+          "pct": 17.11,
+          "seats": 42,
+          "change": 11
+        },
+        {
+          "name": "Farmers' League",
+          "party": "c",
+          "votes": 366612,
+          "pct": 9.45,
+          "seats": 19,
+          "change": -7
+        },
+        {
+          "name": "Communist Party",
+          "party": "v",
+          "votes": 194016,
+          "pct": 5,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1982,
+          "pct": 0.05,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1956_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. County winners (most votes) come from the constituency vote table on the linked results page (revision 1308309902). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1958",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1958-06-01",
+      "note": "Second Chamber",
+      "totalSeats": 231,
+      "turnout": 77.42,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1958_Swedish_general_election",
+        "revid": 1280847769
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1776667,
+          "pct": 46.22,
+          "seats": 111,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "Rightist Party",
+          "party": "m",
+          "votes": 750332,
+          "pct": 19.52,
+          "seats": 45,
+          "change": 3
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 700019,
+          "pct": 18.21,
+          "seats": 38,
+          "change": -20
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 486760,
+          "pct": 12.66,
+          "seats": 32,
+          "change": 13
+        },
+        {
+          "name": "Communist Party",
+          "party": "v",
+          "votes": 129319,
+          "pct": 3.36,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1155,
+          "pct": 0.03,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1958_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. County winners (most votes) come from the constituency vote table on the linked results page (revision 1226904392). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1960",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1960-09-18",
+      "note": "Second Chamber",
+      "totalSeats": 232,
+      "turnout": 85.91,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1960_Swedish_general_election",
+        "revid": 1307987059
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2033016,
+          "pct": 47.79,
+          "seats": 114,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 744142,
+          "pct": 17.49,
+          "seats": 40,
+          "change": 2
+        },
+        {
+          "name": "Rightist Party",
+          "party": "m",
+          "votes": 704365,
+          "pct": 16.56,
+          "seats": 39,
+          "change": -6
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 579007,
+          "pct": 13.61,
+          "seats": 34,
+          "change": 2
+        },
+        {
+          "name": "Communist Party",
+          "party": "v",
+          "votes": 190560,
+          "pct": 4.48,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3024,
+          "pct": 0.07,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1960_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. County winners (most votes) come from the constituency vote table on the linked results page (revision 1244677663). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1964",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1964-09-20",
+      "note": "Second Chamber",
+      "totalSeats": 233,
+      "turnout": 83.86,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1964_Swedish_general_election",
+        "revid": 1307986643
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2006923,
+          "pct": 47.27,
+          "seats": 113,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 720733,
+          "pct": 16.98,
+          "seats": 43,
+          "change": 3
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 559632,
+          "pct": 13.18,
+          "seats": 35,
+          "change": 1
+        },
+        {
+          "name": "Right Party",
+          "party": "m",
+          "votes": 582609,
+          "pct": 13.72,
+          "seats": 33,
+          "change": -6
+        },
+        {
+          "name": "Communist Party",
+          "party": "v",
+          "votes": 221746,
+          "pct": 5.22,
+          "seats": 8,
+          "change": 3
+        },
+        {
+          "name": "Civic Unity",
+          "party": "mbs",
+          "votes": 64807,
+          "pct": 1.53,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 75389,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 13941,
+          "pct": 0.33,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1964_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. Civic Unity was a joint list of the three right-wing parties in Malmö; one of its elected candidates was a Centre Party member who sat as an independent (per the article). County winners (most votes) come from the constituency vote table on the linked results page (revision 1226904479). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time. Gotland has no winner here because a joint centre-right list topped the poll there."
+    },
+    {
+      "id": "se-riksdag-1968",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1968-09-15",
+      "note": "Second Chamber",
+      "totalSeats": 233,
+      "turnout": 89.29,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1968_Swedish_general_election",
+        "revid": 1375010691
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2420277,
+          "pct": 50.12,
+          "seats": 125,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 757215,
+          "pct": 15.68,
+          "seats": 39,
+          "change": 3
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 688456,
+          "pct": 14.26,
+          "seats": 34,
+          "change": -9
+        },
+        {
+          "name": "Right Party",
+          "party": "m",
+          "votes": 621031,
+          "pct": 12.86,
+          "seats": 32,
+          "change": -1
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 145172,
+          "pct": 3.01,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "Civic Unity",
+          "party": "mbs",
+          "votes": 82082,
+          "pct": 1.7,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 72377,
+          "pct": 1.5,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 42769,
+          "pct": 0.89,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1968_Swedish_general_election#Constituency_results",
+      "notes": "Election to the Second Chamber (Andra kammaren) of the bicameral Riksdag. Civic Unity (the joint right-wing list in Malmö) won no seats; its seat cell is blank in the table. County winners (most votes) come from the constituency vote table on the linked results page (revision 1314374596). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time. Gotland has no winner here because a joint centre-right list topped the poll there."
+    },
+    {
+      "id": "se-riksdag-1970",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1970-09-20",
+      "totalSeats": 350,
+      "turnout": 88.28,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1970_Swedish_general_election",
+        "revid": 1273436469
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2256369,
+          "pct": 45.34,
+          "seats": 163,
+          "change": 38,
+          "winner": true
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 991208,
+          "pct": 19.92,
+          "seats": 71,
+          "change": 32
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 806667,
+          "pct": 16.21,
+          "seats": 58,
+          "change": 24
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 573812,
+          "pct": 11.53,
+          "seats": 41,
+          "change": 9
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 236659,
+          "pct": 4.76,
+          "seats": 17,
+          "change": 14
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 88770,
+          "pct": 1.78,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 22711,
+          "pct": 0.46,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1970_Swedish_general_election#Constituency_results",
+      "notes": "First election to the unicameral Riksdag (350 seats); the +/- column compares with the 1968 Second Chamber. County winners (most votes) come from the constituency vote table on the linked results page (revision 1308309893). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1973",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1973-09-16",
+      "totalSeats": 350,
+      "turnout": 90.84,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1973_Swedish_general_election",
+        "revid": 1273436557
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2247727,
+          "pct": 43.56,
+          "seats": 156,
+          "change": -7,
+          "winner": true
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 1295246,
+          "pct": 25.1,
+          "seats": 90,
+          "change": 19
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 737584,
+          "pct": 14.29,
+          "seats": 51,
+          "change": 10
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 486028,
+          "pct": 9.42,
+          "seats": 34,
+          "change": -24
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 274929,
+          "pct": 5.33,
+          "seats": 19,
+          "change": 2
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 90388,
+          "pct": 1.75,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 28244,
+          "pct": 0.55,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "c",
+        "X": "s",
+        "N": "c",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1973_Swedish_general_election#Results_by_constituency",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1374956698). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1976",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1976-09-19",
+      "totalSeats": 349,
+      "turnout": 91.76,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1976_Swedish_general_election",
+        "revid": 1360133411
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2324603,
+          "pct": 42.75,
+          "seats": 152,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 1309669,
+          "pct": 24.08,
+          "seats": 86,
+          "change": -4
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 847672,
+          "pct": 15.59,
+          "seats": 55,
+          "change": 4
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 601556,
+          "pct": 11.06,
+          "seats": 39,
+          "change": 5
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 258432,
+          "pct": 4.75,
+          "seats": 17,
+          "change": -2
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 73844,
+          "pct": 1.36,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21972,
+          "pct": 0.4,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1976_Swedish_general_election#Results_by_constituency",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1374556931). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1979",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1979-09-16",
+      "totalSeats": 349,
+      "turnout": 90.72,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1979_Swedish_general_election",
+        "revid": 1374370395
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2356234,
+          "pct": 43.24,
+          "seats": 154,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1108406,
+          "pct": 20.34,
+          "seats": 73,
+          "change": 18
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 984589,
+          "pct": 18.07,
+          "seats": 64,
+          "change": -22
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 577063,
+          "pct": 10.59,
+          "seats": 38,
+          "change": -1
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 305420,
+          "pct": 5.61,
+          "seats": 20,
+          "change": 3
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 75993,
+          "pct": 1.39,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 40933,
+          "pct": 0.75,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1979_Swedish_general_election#Results_by_constituencies",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1374557165). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1982",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1982-09-19",
+      "totalSeats": 349,
+      "turnout": 91.45,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1982_Swedish_general_election",
+        "revid": 1374742365
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2533250,
+          "pct": 45.61,
+          "seats": 166,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1313337,
+          "pct": 23.64,
+          "seats": 86,
+          "change": 13
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 859618,
+          "pct": 15.48,
+          "seats": 56,
+          "change": -8
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 327770,
+          "pct": 5.9,
+          "seats": 21,
+          "change": -17
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 308899,
+          "pct": 5.56,
+          "seats": 20,
+          "change": 0
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 103820,
+          "pct": 1.87,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 91787,
+          "pct": 1.65,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 16121,
+          "pct": 0.29,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1982_Swedish_general_election#Results_by_constituency",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1374557486). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1985",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1985-09-15",
+      "totalSeats": 349,
+      "turnout": 89.85,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1985_Swedish_general_election",
+        "revid": 1377867103
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2487551,
+          "pct": 44.68,
+          "seats": 159,
+          "change": -7,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1187335,
+          "pct": 21.33,
+          "seats": 76,
+          "change": -10
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 792268,
+          "pct": 14.23,
+          "seats": 51,
+          "change": 30
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 490999,
+          "pct": 8.82,
+          "seats": 43,
+          "change": -13
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 298419,
+          "pct": 5.36,
+          "seats": 19,
+          "change": -1
+        },
+        {
+          "name": "Centre (CDU–C)",
+          "party": "cdc",
+          "votes": 73711,
+          "pct": 1.32,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Unity",
+          "party": "kd",
+          "votes": 131548,
+          "pct": 2.36,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 83645,
+          "pct": 1.5,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21546,
+          "pct": 0.39,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1985_Swedish_general_election#Results_by_constituency",
+      "notes": "Centre (CDU–C) was a joint Centre Party and Christian Democratic Unity list in some constituencies; its one seat went to a Christian Democratic candidate (per the article). County winners (most votes) come from the constituency vote table on the linked results page (revision 1365986168). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time. The results page's Centre column (691,258) also counts the Christian Democrats and the joint list; no county winner depends on it."
+    },
+    {
+      "id": "se-riksdag-1988",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1988-09-18",
+      "totalSeats": 349,
+      "turnout": 85.96,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1988_Swedish_general_election",
+        "revid": 1376185608
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2321826,
+          "pct": 43.21,
+          "seats": 156,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 983226,
+          "pct": 18.3,
+          "seats": 66,
+          "change": -10
+        },
+        {
+          "name": "People's Party",
+          "party": "l",
+          "votes": 655720,
+          "pct": 12.2,
+          "seats": 44,
+          "change": -7
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 607240,
+          "pct": 11.3,
+          "seats": 42,
+          "change": -1
+        },
+        {
+          "name": "Left Party Communists",
+          "party": "v",
+          "votes": 314031,
+          "pct": 5.84,
+          "seats": 21,
+          "change": 2
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 296935,
+          "pct": 5.53,
+          "seats": 20,
+          "change": 20
+        },
+        {
+          "name": "Christian Democratic Society Party",
+          "party": "kd",
+          "votes": 158182,
+          "pct": 2.94,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 36559,
+          "pct": 0.68,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1988_Swedish_general_election#Results_by_constituency",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1254286367). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1991",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1991-09-15",
+      "totalSeats": 349,
+      "turnout": 86.74,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010) and Statistics Sweden",
+        "url": "https://en.wikipedia.org/wiki/1991_Swedish_general_election",
+        "revid": 1376186024
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2062761,
+          "pct": 37.71,
+          "seats": 138,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1199394,
+          "pct": 21.92,
+          "seats": 80,
+          "change": 14
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 499356,
+          "pct": 9.13,
+          "seats": 33,
+          "change": -11
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 465175,
+          "pct": 8.5,
+          "seats": 31,
+          "change": -11
+        },
+        {
+          "name": "Christian Democratic Society Party",
+          "party": "kd",
+          "votes": 390351,
+          "pct": 7.14,
+          "seats": 26,
+          "change": 26
+        },
+        {
+          "name": "New Democracy",
+          "party": "nyd",
+          "votes": 368281,
+          "pct": 6.73,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 246905,
+          "pct": 4.51,
+          "seats": 16,
+          "change": -5
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 185051,
+          "pct": 3.38,
+          "seats": 0,
+          "change": -20
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 53487,
+          "pct": 0.98,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "m",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1991_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1254296255). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1994",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1994-09-18",
+      "totalSeats": 349,
+      "turnout": 86.83,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1994_Swedish_general_election",
+        "revid": 1372706370
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2513905,
+          "pct": 45.25,
+          "seats": 161,
+          "change": 23,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1243253,
+          "pct": 22.38,
+          "seats": 80,
+          "change": 0
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 425153,
+          "pct": 7.65,
+          "seats": 27,
+          "change": -4
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 399556,
+          "pct": 7.19,
+          "seats": 26,
+          "change": -7
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 342988,
+          "pct": 6.17,
+          "seats": 22,
+          "change": 6
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 279042,
+          "pct": 5.02,
+          "seats": 18,
+          "change": 18
+        },
+        {
+          "name": "Christian Democratic Society Party",
+          "party": "kd",
+          "votes": 225974,
+          "pct": 4.07,
+          "seats": 15,
+          "change": -11
+        },
+        {
+          "name": "New Democracy",
+          "party": "nyd",
+          "votes": 68663,
+          "pct": 1.24,
+          "seats": 0,
+          "change": -25
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 57006,
+          "pct": 1.03,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "W": "s",
+        "M": "s",
+        "G": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1994_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1227543979). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-1998",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "1998-09-20",
+      "totalSeats": 349,
+      "turnout": 81.38,
+      "source": {
+        "name": "Wikipedia, citing Statistics Sweden",
+        "url": "https://en.wikipedia.org/wiki/1998_Swedish_general_election",
+        "revid": 1356047143
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1914426,
+          "pct": 36.4,
+          "seats": 131,
+          "change": -30,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1204926,
+          "pct": 22.91,
+          "seats": 82,
+          "change": 2
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 631011,
+          "pct": 12,
+          "seats": 43,
+          "change": 21
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 618033,
+          "pct": 11.75,
+          "seats": 42,
+          "change": 27
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 269762,
+          "pct": 5.13,
+          "seats": 18,
+          "change": -9
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 248076,
+          "pct": 4.72,
+          "seats": 17,
+          "change": -9
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 236699,
+          "pct": 4.5,
+          "seats": 16,
+          "change": -2
+        },
+        {
+          "name": "Swedish Senior Citizen Interest Party",
+          "party": "spi",
+          "votes": 52869,
+          "pct": 1.01,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 84307,
+          "pct": 1.6,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "s",
+        "BD": "s",
+        "AB": "m",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1998_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1209461240). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-2002",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2002-09-15",
+      "totalSeats": 349,
+      "turnout": 80.11,
+      "source": {
+        "name": "Wikipedia, citing the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2002_Swedish_general_election",
+        "revid": 1356045411
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 2113560,
+          "pct": 39.85,
+          "seats": 144,
+          "change": 13,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 809041,
+          "pct": 15.26,
+          "seats": 55,
+          "change": -27
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 710312,
+          "pct": 13.39,
+          "seats": 48,
+          "change": 31
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 485235,
+          "pct": 9.15,
+          "seats": 33,
+          "change": -9
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 444854,
+          "pct": 8.39,
+          "seats": 30,
+          "change": -13
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 328428,
+          "pct": 6.19,
+          "seats": 22,
+          "change": 4
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 246392,
+          "pct": 4.65,
+          "seats": 17,
+          "change": 1
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "votes": 76300,
+          "pct": 1.44,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 89090,
+          "pct": 1.68,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2002_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1337784986). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time. The results page's Left Party and Christian Democrat columns are labelled the wrong way round (each column's total matches the other party's national vote); no county winner depends on them."
+    },
+    {
+      "id": "se-riksdag-2006",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2006-09-17",
+      "totalSeats": 349,
+      "turnout": 81.99,
+      "source": {
+        "name": "Wikipedia, citing the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2006_Swedish_general_election",
+        "revid": 1374656945
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1942625,
+          "pct": 34.99,
+          "seats": 130,
+          "change": -14,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1456014,
+          "pct": 26.23,
+          "seats": 97,
+          "change": 42
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 437389,
+          "pct": 7.88,
+          "seats": 29,
+          "change": 7
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 418395,
+          "pct": 7.54,
+          "seats": 28,
+          "change": -20
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 365998,
+          "pct": 6.59,
+          "seats": 24,
+          "change": -9
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 324722,
+          "pct": 5.85,
+          "seats": 22,
+          "change": -8
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 291121,
+          "pct": 5.24,
+          "seats": 19,
+          "change": 2
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "votes": 162463,
+          "pct": 2.93,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 152551,
+          "pct": 2.75,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "s",
+        "BD": "s",
+        "AB": "m",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2006_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1337784982). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-2010",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2010-09-19",
+      "totalSeats": 349,
+      "turnout": 84.63,
+      "source": {
+        "name": "Wikipedia, citing the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2010_Swedish_general_election",
+        "revid": 1378385408
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1827497,
+          "pct": 30.66,
+          "seats": 112,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1791766,
+          "pct": 30.06,
+          "seats": 107,
+          "change": 10
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 437435,
+          "pct": 7.34,
+          "seats": 25,
+          "change": 6
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 420524,
+          "pct": 7.06,
+          "seats": 24,
+          "change": -4
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 390804,
+          "pct": 6.56,
+          "seats": 23,
+          "change": -6
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "votes": 339610,
+          "pct": 5.7,
+          "seats": 20,
+          "change": 20
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 334053,
+          "pct": 5.6,
+          "seats": 19,
+          "change": -3
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 333696,
+          "pct": 5.6,
+          "seats": 19,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 85023,
+          "pct": 1.43,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "m",
+        "I": "s",
+        "X": "s",
+        "N": "m",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "m",
+        "BD": "s",
+        "AB": "m",
+        "D": "s",
+        "C": "m",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2010_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1337784984). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-2014",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2014-09-14",
+      "totalSeats": 349,
+      "turnout": 85.81,
+      "source": {
+        "name": "Wikipedia, citing the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2014_Swedish_general_election",
+        "revid": 1378500113
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1932711,
+          "pct": 31.01,
+          "seats": 113,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1453517,
+          "pct": 23.33,
+          "seats": 84,
+          "change": -23
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "votes": 801178,
+          "pct": 12.86,
+          "seats": 49,
+          "change": 29
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 429275,
+          "pct": 6.89,
+          "seats": 25,
+          "change": 0
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 380937,
+          "pct": 6.11,
+          "seats": 22,
+          "change": -1
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 356331,
+          "pct": 5.72,
+          "seats": 21,
+          "change": 2
+        },
+        {
+          "name": "Liberal People's Party",
+          "party": "l",
+          "votes": 337773,
+          "pct": 5.42,
+          "seats": 19,
+          "change": -5
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 284806,
+          "pct": 4.57,
+          "seats": 16,
+          "change": -3
+        },
+        {
+          "name": "Feminist Initiative",
+          "party": "fi",
+          "votes": 194719,
+          "pct": 3.12,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 60326,
+          "pct": 0.97,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "s",
+        "BD": "s",
+        "AB": "m",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2014_Swedish_general_election#Constituency_results",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1318257691). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-2018",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2018-09-09",
+      "totalSeats": 349,
+      "turnout": 87.18,
+      "source": {
+        "name": "Wikipedia, citing the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2018_Swedish_general_election",
+        "revid": 1375993682
+      },
+      "candidates": [
+        {
+          "name": "Swedish Social Democratic Party",
+          "party": "s",
+          "votes": 1830386,
+          "pct": 28.26,
+          "seats": 100,
+          "change": -13,
+          "winner": true
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1284698,
+          "pct": 19.84,
+          "seats": 70,
+          "change": -14
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "votes": 1135627,
+          "pct": 17.53,
+          "seats": 62,
+          "change": 13
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 557500,
+          "pct": 8.61,
+          "seats": 31,
+          "change": 9
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 518454,
+          "pct": 8,
+          "seats": 28,
+          "change": 7
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 409478,
+          "pct": 6.32,
+          "seats": 22,
+          "change": 6
+        },
+        {
+          "name": "Liberals",
+          "party": "l",
+          "votes": 355546,
+          "pct": 5.49,
+          "seats": 20,
+          "change": 1
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 285899,
+          "pct": 4.41,
+          "seats": 16,
+          "change": -9
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 99137,
+          "pct": 1.53,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "s",
+        "BD": "s",
+        "AB": "m",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2018_Swedish_general_election#Results_by_constituency",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1347655152). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    },
+    {
+      "id": "se-riksdag-2022",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2022-09-11",
+      "totalSeats": 349,
+      "turnout": 84.21,
+      "source": {
+        "name": "Wikipedia, citing the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2022_Swedish_general_election",
+        "revid": 1376466795
+      },
+      "candidates": [
+        {
+          "name": "Social Democrats",
+          "party": "s",
+          "votes": 1964474,
+          "pct": 30.33,
+          "seats": 107,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "votes": 1330325,
+          "pct": 20.54,
+          "seats": 73,
+          "change": 11
+        },
+        {
+          "name": "Moderate Party",
+          "party": "m",
+          "votes": 1237428,
+          "pct": 19.1,
+          "seats": 68,
+          "change": -2
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "votes": 437050,
+          "pct": 6.75,
+          "seats": 24,
+          "change": -4
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "votes": 434945,
+          "pct": 6.71,
+          "seats": 24,
+          "change": -7
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 345712,
+          "pct": 5.34,
+          "seats": 19,
+          "change": -3
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "votes": 329242,
+          "pct": 5.08,
+          "seats": 18,
+          "change": 2
+        },
+        {
+          "name": "Liberals",
+          "party": "l",
+          "votes": 298542,
+          "pct": 4.61,
+          "seats": 16,
+          "change": -4
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 100252,
+          "pct": 1.55,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regionWinners": {
+        "K": "s",
+        "W": "s",
+        "O": "s",
+        "I": "s",
+        "X": "s",
+        "N": "s",
+        "Z": "s",
+        "F": "s",
+        "H": "s",
+        "G": "s",
+        "M": "s",
+        "BD": "s",
+        "AB": "s",
+        "D": "s",
+        "C": "s",
+        "S": "s",
+        "AC": "s",
+        "Y": "s",
+        "U": "s",
+        "T": "s",
+        "E": "s"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2022_Swedish_general_election#Results_by_constituency",
+      "notes": "County winners (most votes) come from the constituency vote table on the linked results page (revision 1377505811). Today's Stockholm, Skåne and Västra Götaland counties are the sum of the constituencies that make them up, and every constituency is taken on the boundaries of the time."
+    }
+  ]
+}

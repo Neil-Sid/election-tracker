@@ -1,0 +1,557 @@
+{
+  "code": "ID",
+  "name": "Indonesia",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "People's Consultative Assembly: House of Representatives (580) and Regional Representative Council",
+    "votingAge": 17,
+    "compulsory": false,
+    "registered": 204800000,
+    "offices": {
+      "President": "Elected for five years. A ticket wins outright with a majority nationwide and at least 20% in more than half the provinces, otherwise there is a run-off.",
+      "House of Representatives": "580 members elected by open-list proportional representation in multi-member districts, with a 4% national threshold."
+    }
+  },
+  "parties": {
+    "gerindra": {
+      "name": "Gerindra",
+      "color": "#7D2027"
+    },
+    "pdip": {
+      "name": "PDI-P",
+      "color": "#E3001B"
+    },
+    "golkar": {
+      "name": "Golkar",
+      "color": "#F2C200"
+    },
+    "nasdem": {
+      "name": "NasDem",
+      "color": "#1E3A8A"
+    },
+    "pkb": {
+      "name": "PKB",
+      "color": "#00843D"
+    },
+    "pks": {
+      "name": "PKS",
+      "color": "#FF6600"
+    },
+    "pan": {
+      "name": "PAN",
+      "color": "#0F67B1"
+    },
+    "demokrat": {
+      "name": "Demokrat",
+      "color": "#4E9BD5"
+    },
+    "ppp": {
+      "name": "PPP",
+      "color": "#00A100"
+    },
+    "psi": {
+      "name": "PSI",
+      "color": "#E6212A"
+    },
+    "perindo": {
+      "name": "Perindo",
+      "color": "#2F318B"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "id-president-2024",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2024-02-14",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 81.8,
+      "cite": {
+        "name": "the General Elections Commission",
+        "url": "https://en.wikipedia.org/wiki/2024_Indonesian_presidential_election"
+      },
+      "system": "Popular vote, run-off if no majority with 20% in half the provinces",
+      "candidates": [
+        {
+          "name": "Prabowo Subianto",
+          "party": "gerindra",
+          "pct": 58.6,
+          "seats": null,
+          "votes": 96214691,
+          "winner": true
+        },
+        {
+          "name": "Anies Baswedan",
+          "party": "nasdem",
+          "pct": 24.9,
+          "seats": null,
+          "votes": 40971906
+        },
+        {
+          "name": "Ganjar Pranowo",
+          "party": "pdip",
+          "pct": 16.5,
+          "seats": null,
+          "votes": 27040878
+        }
+      ],
+      "regions": [
+        {"name":"Aceh","abbr":"AC","winner":"nasdem","margin":1.9,"turnout":80.3,"votes":4043418,"results":[{"party":"nasdem","pct":45.1,"votes":1823582},{"party":"gerindra","pct":43.2,"votes":1746757},{"party":"pdip","pct":11.7,"votes":473080}]},
+        {"name":"Bali","abbr":"BA","winner":"gerindra","margin":28.4,"turnout":75.5,"votes":4538228,"results":[{"party":"gerindra","pct":57.7,"votes":2618558},{"party":"nasdem","pct":29.3,"votes":1329701},{"party":"pdip","pct":13.1,"votes":594508}]},
+        {"name":"Bangka-Belitung","abbr":"BB","winner":"gerindra","margin":8,"turnout":84.8,"votes":5891174,"results":[{"party":"gerindra","pct":47.8,"votes":2815981},{"party":"nasdem","pct":39.8,"votes":2344687},{"party":"pdip","pct":12.4,"votes":730506}]},
+        {"name":"Banten","abbr":"BT","winner":"gerindra","margin":10.3,"turnout":82.5,"votes":4047858,"results":[{"party":"gerindra","pct":44.9,"votes":1817488},{"party":"nasdem","pct":34.6,"votes":1400559},{"party":"pdip","pct":20.5,"votes":829811}]},
+        {"name":"Bengkulu","abbr":"BE","winner":"gerindra","margin":46.5,"turnout":75.4,"votes":4122161,"results":[{"party":"gerindra","pct":64.7,"votes":2667038},{"party":"nasdem","pct":18.2,"votes":750233},{"party":"pdip","pct":17,"votes":700767}]},
+        {"name":"Gorontalo","abbr":"GO","winner":"gerindra","margin":30.1,"turnout":80.4,"votes":5409092,"results":[{"party":"gerindra","pct":57.8,"votes":3126455},{"party":"nasdem","pct":27.7,"votes":1498318},{"party":"pdip","pct":14.5,"votes":784318}]},
+        {"name":"Jakarta Raya","abbr":"JK","winner":"gerindra","margin":17.9,"turnout":84.7,"votes":5552699,"results":[{"party":"gerindra","pct":48.2,"votes":2676401},{"party":"nasdem","pct":30.3,"votes":1682468},{"party":"pdip","pct":21.5,"votes":1193830}]},
+        {"name":"Jambi","abbr":"JA","winner":"gerindra","margin":34.4,"turnout":85.6,"votes":4407210,"results":[{"party":"gerindra","pct":60.5,"votes":2666362},{"party":"nasdem","pct":26.1,"votes":1150282},{"party":"pdip","pct":13.4,"votes":590566}]},
+        {"name":"Jawa Barat","abbr":"JB","winner":"gerindra","margin":52,"turnout":82.9,"votes":4265648,"results":[{"party":"gerindra","pct":68.5,"votes":2921969},{"party":"nasdem","pct":16.5,"votes":703832},{"party":"pdip","pct":14.9,"votes":635582}]},
+        {"name":"Jawa Tengah","abbr":"JT","winner":"gerindra","margin":33.2,"turnout":86.3,"votes":4881888,"results":[{"party":"gerindra","pct":60.6,"votes":2958424},{"party":"nasdem","pct":27.4,"votes":1337637},{"party":"pdip","pct":12,"votes":585827}]},
+        {"name":"Jawa Timur","abbr":"JI","winner":"gerindra","margin":4,"turnout":82,"votes":4774056,"results":[{"party":"gerindra","pct":45.2,"votes":2157873},{"party":"nasdem","pct":41.2,"votes":1966911},{"party":"pdip","pct":13.6,"votes":649272}]},
+        {"name":"Kalimantan Barat","abbr":"KB","winner":"gerindra","margin":41.6,"turnout":78.4,"votes":4717759,"results":[{"party":"gerindra","pct":66.5,"votes":3137310},{"party":"nasdem","pct":24.9,"votes":1174722},{"party":"pdip","pct":8.7,"votes":410445}]},
+        {"name":"Kalimantan Selatan","abbr":"KS","winner":"gerindra","margin":32.8,"turnout":82.2,"votes":5810573,"results":[{"party":"gerindra","pct":56.7,"votes":3294595},{"party":"pdip","pct":23.9,"votes":1388727},{"party":"nasdem","pct":19.3,"votes":1121441}]},
+        {"name":"Kalimantan Tengah","abbr":"KT","winner":"gerindra","margin":42.9,"turnout":81.8,"votes":4728608,"results":[{"party":"gerindra","pct":64.8,"votes":3064138},{"party":"nasdem","pct":21.9,"votes":1035565},{"party":"pdip","pct":13.3,"votes":628905}]},
+        {"name":"Kalimantan Timur","abbr":"KI","winner":"gerindra","margin":39.3,"turnout":83,"votes":5250404,"results":[{"party":"gerindra","pct":59.8,"votes":3139742},{"party":"nasdem","pct":20.5,"votes":1076333},{"party":"pdip","pct":19.7,"votes":1034330}]},
+        {"name":"Kepulauan Riau","abbr":"KR","winner":"gerindra","margin":9.7,"turnout":80.2,"votes":4821139,"results":[{"party":"gerindra","pct":43.1,"votes":2077911},{"party":"nasdem","pct":33.4,"votes":1610260},{"party":"pdip","pct":23.4,"votes":1128147}]},
+        {"name":"Lampung","abbr":"LA","winner":"gerindra","margin":42,"turnout":79.8,"votes":5782198,"results":[{"party":"gerindra","pct":61.6,"votes":3561834},{"party":"pdip","pct":19.6,"votes":1133311},{"party":"nasdem","pct":18.8,"votes":1087053}]},
+        {"name":"Maluku","abbr":"MA","winner":"gerindra","margin":40.6,"turnout":80.7,"votes":5764194,"results":[{"party":"gerindra","pct":66.5,"votes":3833189},{"party":"nasdem","pct":25.9,"votes":1492926},{"party":"pdip","pct":7.5,"votes":432315}]},
+        {"name":"Maluku Utara","abbr":"MU","winner":"gerindra","margin":32.3,"turnout":75.1,"votes":4353506,"results":[{"party":"gerindra","pct":58.6,"votes":2551155},{"party":"nasdem","pct":26.3,"votes":1144972},{"party":"pdip","pct":15.1,"votes":657379}]},
+        {"name":"Nusa Tenggara Barat","abbr":"NB","winner":"gerindra","margin":52.7,"turnout":84.4,"votes":4259986,"results":[{"party":"gerindra","pct":69.3,"votes":2952170},{"party":"pdip","pct":16.6,"votes":707158},{"party":"nasdem","pct":14.1,"votes":600658}]},
+        {"name":"Nusa Tenggara Timur","abbr":"NT","winner":"gerindra","margin":58.3,"turnout":88.1,"votes":5625908,"results":[{"party":"gerindra","pct":73,"votes":4106913},{"party":"nasdem","pct":14.7,"votes":827008},{"party":"pdip","pct":12.3,"votes":691987}]},
+        {"name":"Papua","abbr":"PA","winner":"gerindra","margin":25.5,"turnout":87.6,"votes":5550829,"results":[{"party":"gerindra","pct":53.2,"votes":2953041},{"party":"nasdem","pct":27.7,"votes":1537580},{"party":"pdip","pct":19.2,"votes":1065759}]},
+        {"name":"Papua Barat","abbr":"PB","winner":"gerindra","margin":24.5,"turnout":75.6,"votes":4513985,"results":[{"party":"gerindra","pct":51.9,"votes":2342758},{"party":"pdip","pct":27.4,"votes":1236832},{"party":"nasdem","pct":20.7,"votes":934395}]},
+        {"name":"Riau","abbr":"RI","winner":"gerindra","margin":23.8,"turnout":79,"votes":4346923,"results":[{"party":"gerindra","pct":56.8,"votes":2469052},{"party":"nasdem","pct":33,"votes":1434485},{"party":"pdip","pct":10.2,"votes":443386}]},
+        {"name":"Sulawesi Barat","abbr":"SR","winner":"gerindra","margin":3.5,"turnout":77.8,"votes":4264407,"results":[{"party":"gerindra","pct":40.9,"votes":1744142},{"party":"nasdem","pct":37.4,"votes":1594888},{"party":"pdip","pct":21.7,"votes":925376}]},
+        {"name":"Sulawesi Selatan","abbr":"SN","winner":"gerindra","margin":34.4,"turnout":85.1,"votes":5842508,"results":[{"party":"gerindra","pct":61.9,"votes":3616512},{"party":"nasdem","pct":27.5,"votes":1606690},{"party":"pdip","pct":10.6,"votes":619306}]},
+        {"name":"Sulawesi Tengah","abbr":"ST","winner":"gerindra","margin":31.5,"turnout":80.6,"votes":4487709,"results":[{"party":"gerindra","pct":56.6,"votes":2540043},{"party":"nasdem","pct":25.1,"votes":1126415},{"party":"pdip","pct":18.3,"votes":821251}]},
+        {"name":"Sulawesi Tenggara","abbr":"SG","winner":"gerindra","margin":54.3,"turnout":79.4,"votes":4111267,"results":[{"party":"gerindra","pct":70.6,"votes":2902555},{"party":"pdip","pct":16.3,"votes":670137},{"party":"nasdem","pct":13.1,"votes":538576}]},
+        {"name":"Sulawesi Utara","abbr":"SA","winner":"gerindra","margin":45.7,"turnout":88.5,"votes":4663977,"results":[{"party":"gerindra","pct":64.2,"votes":2994273},{"party":"nasdem","pct":18.5,"votes":862836},{"party":"pdip","pct":17.3,"votes":806868}]},
+        {"name":"Sumatera Barat","abbr":"SB","winner":"nasdem","margin":6.7,"turnout":86.8,"votes":5007460,"results":[{"party":"nasdem","pct":48.7,"votes":2438633},{"party":"gerindra","pct":42,"votes":2103133},{"party":"pdip","pct":9.2,"votes":460686}]},
+        {"name":"Sumatera Selatan","abbr":"SS","winner":"gerindra","margin":33.8,"turnout":81.2,"votes":5412194,"results":[{"party":"gerindra","pct":56.9,"votes":3079538},{"party":"nasdem","pct":23.1,"votes":1250217},{"party":"pdip","pct":20.1,"votes":1087851}]},
+        {"name":"Sumatera Utara","abbr":"SU","winner":"gerindra","margin":2.5,"turnout":86,"votes":5506034,"results":[{"party":"gerindra","pct":44.5,"votes":2450185},{"party":"nasdem","pct":42,"votes":2312534},{"party":"pdip","pct":13.5,"votes":743315}]},
+        {"name":"Yogyakarta","abbr":"YO","winner":"gerindra","margin":34.9,"turnout":87.7,"votes":5488544,"results":[{"party":"gerindra","pct":59.9,"votes":3287638},{"party":"pdip","pct":25,"votes":1372136},{"party":"nasdem","pct":15.1,"votes":828770}]}
+      ]
+    },
+    {
+      "id": "id-dpr-2024",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2024-02-14",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 81.4,
+      "cite": {
+        "name": "the General Elections Commission",
+        "url": "https://en.wikipedia.org/wiki/2024_Indonesian_general_election"
+      },
+      "system": "580 seats, open-list proportional with a 4% threshold",
+      "totalSeats": 580,
+      "majority": 291,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "PDI-P",
+          "party": "pdip",
+          "pct": 16.7,
+          "seats": 110,
+          "votes": 25384673,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "pct": 15.3,
+          "seats": 102,
+          "votes": 23208488,
+          "change": 17
+        },
+        {
+          "name": "Gerindra",
+          "party": "gerindra",
+          "pct": 13.2,
+          "seats": 86,
+          "votes": 20071345,
+          "change": 8
+        },
+        {
+          "name": "NasDem",
+          "party": "nasdem",
+          "pct": 9.7,
+          "seats": 69,
+          "votes": 14660328,
+          "change": 10
+        },
+        {
+          "name": "PKB",
+          "party": "pkb",
+          "pct": 10.6,
+          "seats": 68,
+          "votes": 16115358,
+          "change": 10
+        },
+        {
+          "name": "PKS",
+          "party": "pks",
+          "pct": 8.4,
+          "seats": 53,
+          "votes": 12781241,
+          "change": 3
+        },
+        {
+          "name": "PAN",
+          "party": "pan",
+          "pct": 7.2,
+          "seats": 48,
+          "votes": 10984639,
+          "change": 4
+        },
+        {
+          "name": "Demokrat",
+          "party": "demokrat",
+          "pct": 7.4,
+          "seats": 44,
+          "votes": 11283053,
+          "change": -10
+        },
+        {
+          "name": "PPP",
+          "party": "ppp",
+          "pct": 3.9,
+          "seats": 0,
+          "votes": 5878708,
+          "change": -19
+        },
+        {
+          "name": "PSI",
+          "party": "psi",
+          "pct": 2.8,
+          "seats": 0,
+          "votes": 4260108,
+          "change": 0
+        },
+        {
+          "name": "Perindo",
+          "party": "perindo",
+          "pct": 1.3,
+          "seats": 0,
+          "votes": 1955131,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 3.4,
+          "seats": 0,
+          "votes": 5210221,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Aceh","abbr":"AC","winner":"golkar","margin":10.8,"turnout":85.7,"votes":4770026,"results":[{"party":"golkar","pct":31.2,"votes":1488248},{"party":"gerindra","pct":20.4,"votes":973085},{"party":"pkb","pct":20,"votes":954005},{"party":"pdip","pct":15.6,"votes":744124},{"party":"nasdem","pct":12.7,"votes":605793}]},
+        {"name":"Bali","abbr":"BA","winner":"pdip","margin":12.2,"turnout":82.2,"votes":4493678,"results":[{"party":"pdip","pct":35,"votes":1572787},{"party":"golkar","pct":22.8,"votes":1024559},{"party":"nasdem","pct":16.2,"votes":727976},{"party":"gerindra","pct":15.4,"votes":692026},{"party":"pkb","pct":10.6,"votes":476330}]},
+        {"name":"Bangka-Belitung","abbr":"BB","winner":"pdip","margin":7.6,"turnout":81.9,"votes":4220320,"results":[{"party":"pdip","pct":33.7,"votes":1422248},{"party":"golkar","pct":26.1,"votes":1101504},{"party":"nasdem","pct":17,"votes":717454},{"party":"gerindra","pct":12.5,"votes":527540},{"party":"pkb","pct":10.7,"votes":451574}]},
+        {"name":"Banten","abbr":"BT","winner":"pdip","margin":0.2,"turnout":76.8,"votes":4199522,"results":[{"party":"pdip","pct":28.5,"votes":1196864},{"party":"golkar","pct":28.3,"votes":1188465},{"party":"nasdem","pct":17.2,"votes":722318},{"party":"pkb","pct":13.1,"votes":550137},{"party":"gerindra","pct":12.9,"votes":541738}]},
+        {"name":"Bengkulu","abbr":"BE","winner":"pdip","margin":8.6,"turnout":80.7,"votes":4237772,"results":[{"party":"pdip","pct":29,"votes":1228954},{"party":"gerindra","pct":20.4,"votes":864505},{"party":"golkar","pct":18.3,"votes":775512},{"party":"pkb","pct":17.2,"votes":728897},{"party":"nasdem","pct":15.2,"votes":644141}]},
+        {"name":"Gorontalo","abbr":"GO","winner":"golkar","margin":3.5,"turnout":86.5,"votes":5221234,"results":[{"party":"golkar","pct":27.8,"votes":1451503},{"party":"gerindra","pct":24.3,"votes":1268760},{"party":"pdip","pct":20.4,"votes":1065132},{"party":"nasdem","pct":15,"votes":783185},{"party":"pkb","pct":12.4,"votes":647433}]},
+        {"name":"Jakarta Raya","abbr":"JK","winner":"pdip","margin":4.1,"turnout":74.7,"votes":4371157,"results":[{"party":"pdip","pct":31.8,"votes":1390028},{"party":"golkar","pct":27.7,"votes":1210810},{"party":"pkb","pct":19.6,"votes":856747},{"party":"gerindra","pct":11.3,"votes":493941},{"party":"nasdem","pct":9.6,"votes":419631}]},
+        {"name":"Jambi","abbr":"JA","winner":"pdip","margin":5.4,"turnout":85.6,"votes":4942174,"results":[{"party":"pdip","pct":26.3,"votes":1299792},{"party":"nasdem","pct":20.9,"votes":1032914},{"party":"golkar","pct":19.6,"votes":968666},{"party":"gerindra","pct":16.8,"votes":830285},{"party":"pkb","pct":16.4,"votes":810517}]},
+        {"name":"Jawa Barat","abbr":"JB","winner":"pdip","margin":10.5,"turnout":74.7,"votes":5053025,"results":[{"party":"pdip","pct":31,"votes":1566438},{"party":"golkar","pct":20.5,"votes":1035870},{"party":"pkb","pct":19.2,"votes":970181},{"party":"nasdem","pct":18.4,"votes":929757},{"party":"gerindra","pct":11,"votes":555833}]},
+        {"name":"Jawa Tengah","abbr":"JT","winner":"pdip","margin":19.2,"turnout":74.5,"votes":4157640,"results":[{"party":"pdip","pct":37.3,"votes":1550800},{"party":"pkb","pct":18.1,"votes":752533},{"party":"gerindra","pct":17.3,"votes":719272},{"party":"golkar","pct":15.9,"votes":661065},{"party":"nasdem","pct":11.4,"votes":473971}]},
+        {"name":"Jawa Timur","abbr":"JI","winner":"pdip","margin":1.7,"turnout":80,"votes":4391274,"results":[{"party":"pdip","pct":30,"votes":1317382},{"party":"golkar","pct":28.3,"votes":1242731},{"party":"gerindra","pct":20.3,"votes":891429},{"party":"pkb","pct":13.6,"votes":597213},{"party":"nasdem","pct":7.8,"votes":342519}]},
+        {"name":"Kalimantan Barat","abbr":"KB","winner":"pdip","margin":5.3,"turnout":83.3,"votes":4428448,"results":[{"party":"pdip","pct":31.3,"votes":1386104},{"party":"golkar","pct":26,"votes":1151396},{"party":"pkb","pct":21.4,"votes":947688},{"party":"gerindra","pct":14.1,"votes":624411},{"party":"nasdem","pct":7.2,"votes":318848}]},
+        {"name":"Kalimantan Selatan","abbr":"KS","winner":"golkar","margin":8.2,"turnout":80.2,"votes":4194321,"results":[{"party":"golkar","pct":32.7,"votes":1371543},{"party":"gerindra","pct":24.5,"votes":1027609},{"party":"pkb","pct":16.5,"votes":692063},{"party":"pdip","pct":13.8,"votes":578816},{"party":"nasdem","pct":12.5,"votes":524290}]},
+        {"name":"Kalimantan Tengah","abbr":"KT","winner":"pkb","margin":3.1,"turnout":77.2,"votes":4897997,"results":[{"party":"pkb","pct":25.1,"votes":1229397},{"party":"pdip","pct":22,"votes":1077559},{"party":"golkar","pct":18.6,"votes":911027},{"party":"gerindra","pct":17.4,"votes":852251},{"party":"nasdem","pct":16.8,"votes":822863}]},
+        {"name":"Kalimantan Timur","abbr":"KI","winner":"pdip","margin":11.3,"turnout":82.8,"votes":3700700,"results":[{"party":"pdip","pct":32.4,"votes":1199027},{"party":"golkar","pct":21.1,"votes":780848},{"party":"gerindra","pct":21.1,"votes":780848},{"party":"nasdem","pct":15.1,"votes":558806},{"party":"pkb","pct":10.4,"votes":384873}]},
+        {"name":"Kepulauan Riau","abbr":"KR","winner":"pdip","margin":9.3,"turnout":82.2,"votes":5247229,"results":[{"party":"pdip","pct":30.7,"votes":1610899},{"party":"gerindra","pct":21.4,"votes":1122907},{"party":"golkar","pct":19.2,"votes":1007468},{"party":"pkb","pct":18.1,"votes":949748},{"party":"nasdem","pct":10.7,"votes":561454}]},
+        {"name":"Lampung","abbr":"LA","winner":"pdip","margin":14.6,"turnout":77.8,"votes":5116460,"results":[{"party":"pdip","pct":37.6,"votes":1923789},{"party":"gerindra","pct":23,"votes":1176786},{"party":"golkar","pct":14.5,"votes":741887},{"party":"nasdem","pct":14.1,"votes":721421},{"party":"pkb","pct":10.9,"votes":557694}]},
+        {"name":"Maluku","abbr":"MA","winner":"golkar","margin":0.1,"turnout":78.1,"votes":5160349,"results":[{"party":"golkar","pct":25.2,"votes":1300408},{"party":"gerindra","pct":25.1,"votes":1295248},{"party":"pdip","pct":25,"votes":1290087},{"party":"nasdem","pct":13.6,"votes":701807},{"party":"pkb","pct":11.2,"votes":577959}]},
+        {"name":"Maluku Utara","abbr":"MU","winner":"pdip","margin":7.4,"turnout":80.8,"votes":5111899,"results":[{"party":"pdip","pct":34.3,"votes":1753381},{"party":"gerindra","pct":26.9,"votes":1375101},{"party":"golkar","pct":16,"votes":817904},{"party":"pkb","pct":13.4,"votes":684994},{"party":"nasdem","pct":9.5,"votes":485630}]},
+        {"name":"Nusa Tenggara Barat","abbr":"NB","winner":"pdip","margin":8,"turnout":79.2,"votes":5118373,"results":[{"party":"pdip","pct":29.8,"votes":1525275},{"party":"gerindra","pct":21.8,"votes":1115805},{"party":"golkar","pct":18.9,"votes":967372},{"party":"nasdem","pct":18.3,"votes":936662},{"party":"pkb","pct":11.3,"votes":578376}]},
+        {"name":"Nusa Tenggara Timur","abbr":"NT","winner":"pdip","margin":14.1,"turnout":78.4,"votes":5257963,"results":[{"party":"pdip","pct":37.4,"votes":1966478},{"party":"gerindra","pct":23.3,"votes":1225105},{"party":"nasdem","pct":14.3,"votes":751889},{"party":"golkar","pct":13.4,"votes":704567},{"party":"pkb","pct":11.6,"votes":609924}]},
+        {"name":"Papua","abbr":"PA","winner":"pdip","margin":3.5,"turnout":81.2,"votes":5386712,"results":[{"party":"pdip","pct":27.6,"votes":1486733},{"party":"gerindra","pct":24.1,"votes":1298198},{"party":"pkb","pct":18.4,"votes":991155},{"party":"nasdem","pct":16.7,"votes":899581},{"party":"golkar","pct":13.3,"votes":716433}]},
+        {"name":"Papua Barat","abbr":"PB","winner":"pdip","margin":5,"turnout":81.6,"votes":4610921,"results":[{"party":"pdip","pct":36.1,"votes":1664542},{"party":"golkar","pct":31.1,"votes":1433996},{"party":"nasdem","pct":12.3,"votes":567143},{"party":"pkb","pct":10.4,"votes":479536},{"party":"gerindra","pct":10.1,"votes":465703}]},
+        {"name":"Riau","abbr":"RI","winner":"golkar","margin":11.3,"turnout":81.3,"votes":3699928,"results":[{"party":"golkar","pct":31.5,"votes":1165477},{"party":"pkb","pct":20.2,"votes":747385},{"party":"pdip","pct":18.7,"votes":691887},{"party":"gerindra","pct":16.7,"votes":617888},{"party":"nasdem","pct":12.9,"votes":477291}]},
+        {"name":"Sulawesi Barat","abbr":"SR","winner":"gerindra","margin":5.9,"turnout":84.6,"votes":4477760,"results":[{"party":"gerindra","pct":27.6,"votes":1235862},{"party":"nasdem","pct":21.7,"votes":971674},{"party":"pkb","pct":17.4,"votes":779130},{"party":"pdip","pct":17.2,"votes":770175},{"party":"golkar","pct":16.1,"votes":720919}]},
+        {"name":"Sulawesi Selatan","abbr":"SN","winner":"golkar","margin":1.6,"turnout":84.5,"votes":4783124,"results":[{"party":"golkar","pct":30.9,"votes":1477985},{"party":"pdip","pct":29.3,"votes":1401455},{"party":"pkb","pct":16.9,"votes":808348},{"party":"gerindra","pct":11.5,"votes":550059},{"party":"nasdem","pct":11.5,"votes":550059}]},
+        {"name":"Sulawesi Tengah","abbr":"ST","winner":"pdip","margin":0.2,"turnout":83.4,"votes":4109067,"results":[{"party":"pdip","pct":23.9,"votes":982067},{"party":"pkb","pct":23.7,"votes":973849},{"party":"golkar","pct":23.3,"votes":957413},{"party":"gerindra","pct":15.2,"votes":624578},{"party":"nasdem","pct":13.8,"votes":567051}]},
+        {"name":"Sulawesi Tenggara","abbr":"SG","winner":"pdip","margin":0.4,"turnout":82.4,"votes":3813794,"results":[{"party":"pdip","pct":24.9,"votes":949635},{"party":"golkar","pct":24.5,"votes":934380},{"party":"gerindra","pct":23.1,"votes":880986},{"party":"pkb","pct":14.4,"votes":549186},{"party":"nasdem","pct":13.1,"votes":499607}]},
+        {"name":"Sulawesi Utara","abbr":"SA","winner":"pdip","margin":7.2,"turnout":86.7,"votes":3685262,"results":[{"party":"pdip","pct":28.4,"votes":1046614},{"party":"golkar","pct":21.2,"votes":781276},{"party":"pkb","pct":19.8,"votes":729682},{"party":"gerindra","pct":19.7,"votes":725997},{"party":"nasdem","pct":10.9,"votes":401694}]},
+        {"name":"Sumatera Barat","abbr":"SB","winner":"gerindra","margin":1.9,"turnout":81.9,"votes":4600700,"results":[{"party":"gerindra","pct":24.9,"votes":1145574},{"party":"golkar","pct":23,"votes":1058161},{"party":"pdip","pct":22.7,"votes":1044359},{"party":"pkb","pct":15.8,"votes":726911},{"party":"nasdem","pct":13.6,"votes":625695}]},
+        {"name":"Sumatera Selatan","abbr":"SS","winner":"pdip","margin":3.2,"turnout":84,"votes":5184223,"results":[{"party":"pdip","pct":32.7,"votes":1695241},{"party":"golkar","pct":29.5,"votes":1529346},{"party":"gerindra","pct":21.6,"votes":1119792},{"party":"pkb","pct":9.8,"votes":508054},{"party":"nasdem","pct":6.5,"votes":336974}]},
+        {"name":"Sumatera Utara","abbr":"SU","winner":"golkar","margin":7.5,"turnout":87,"votes":3935885,"results":[{"party":"golkar","pct":33.9,"votes":1334265},{"party":"gerindra","pct":26.4,"votes":1039074},{"party":"pdip","pct":19.5,"votes":767498},{"party":"pkb","pct":11.1,"votes":436883},{"party":"nasdem","pct":9.1,"votes":358166}]},
+        {"name":"Yogyakarta","abbr":"YO","winner":"gerindra","margin":3.9,"turnout":76.4,"votes":3784369,"results":[{"party":"gerindra","pct":27,"votes":1021780},{"party":"pdip","pct":23.1,"votes":874189},{"party":"pkb","pct":21.6,"votes":817424},{"party":"golkar","pct":18.5,"votes":700108},{"party":"nasdem","pct":9.8,"votes":370868}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "President",
+      "date": "2029-02-14",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "gerindra",
+          "points": [
+            ["2026-03-16",59.5],
+            ["2026-03-23",59.8],
+            ["2026-03-30",60.2],
+            ["2026-04-06",60.4],
+            ["2026-04-13",60.5],
+            ["2026-04-20",60.8],
+            ["2026-04-27",61.6],
+            ["2026-05-04",61.1],
+            ["2026-05-11",60.9],
+            ["2026-05-18",60.8],
+            ["2026-05-25",60.3],
+            ["2026-06-01",60.6],
+            ["2026-06-08",60.5],
+            ["2026-06-15",61.4],
+            ["2026-06-22",61.3],
+            ["2026-06-29",60.8],
+            ["2026-07-06",61.7],
+            ["2026-07-13",62.4],
+            ["2026-07-20",61.9],
+            ["2026-07-27",62.2],
+            ["2026-08-03",61.3],
+            ["2026-08-10",60.5],
+            ["2026-08-17",59.9],
+            ["2026-08-24",60.3],
+            ["2026-08-31",59.7],
+            ["2026-09-07",60.8],
+            ["2026-09-14",61.3],
+            ["2026-09-21",62],
+            ["2026-09-28",61.1],
+            ["2026-10-05",61.5]
+          ]
+        },
+        {
+          "party": "nasdem",
+          "points": [
+            ["2026-03-16",25],
+            ["2026-03-23",24.4],
+            ["2026-03-30",23.7],
+            ["2026-04-06",23.4],
+            ["2026-04-13",24.1],
+            ["2026-04-20",24.8],
+            ["2026-04-27",25.7],
+            ["2026-05-04",26.5],
+            ["2026-05-11",27.1],
+            ["2026-05-18",26.8],
+            ["2026-05-25",26],
+            ["2026-06-01",26.8],
+            ["2026-06-08",26.8],
+            ["2026-06-15",25.9],
+            ["2026-06-22",26.7],
+            ["2026-06-29",25.8],
+            ["2026-07-06",25.1],
+            ["2026-07-13",26],
+            ["2026-07-20",25.3],
+            ["2026-07-27",25.1],
+            ["2026-08-03",25],
+            ["2026-08-10",25],
+            ["2026-08-17",25],
+            ["2026-08-24",25],
+            ["2026-08-31",24.2],
+            ["2026-09-07",24.9],
+            ["2026-09-14",25.6],
+            ["2026-09-21",26.1],
+            ["2026-09-28",26.1],
+            ["2026-10-05",25.7]
+          ]
+        },
+        {
+          "party": "pdip",
+          "points": [
+            ["2026-03-16",16.7],
+            ["2026-03-23",16],
+            ["2026-03-30",15.2],
+            ["2026-04-06",16.1],
+            ["2026-04-13",15.7],
+            ["2026-04-20",15.4],
+            ["2026-04-27",15.2],
+            ["2026-05-04",16.1],
+            ["2026-05-11",15.6],
+            ["2026-05-18",16.2],
+            ["2026-05-25",15.6],
+            ["2026-06-01",16.6],
+            ["2026-06-08",16.1],
+            ["2026-06-15",17],
+            ["2026-06-22",16.9],
+            ["2026-06-29",17.2],
+            ["2026-07-06",16.6],
+            ["2026-07-13",16.6],
+            ["2026-07-20",17],
+            ["2026-07-27",17],
+            ["2026-08-03",16.5],
+            ["2026-08-10",16],
+            ["2026-08-17",15.5],
+            ["2026-08-24",16.2],
+            ["2026-08-31",16],
+            ["2026-09-07",16.6],
+            ["2026-09-14",16.8],
+            ["2026-09-21",16.3],
+            ["2026-09-28",16.1],
+            ["2026-10-05",16.7]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "House of Representatives",
+      "date": "2029-02-14",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pdip",
+          "points": [
+            ["2026-03-16",16.7],
+            ["2026-03-23",16],
+            ["2026-03-30",16.1],
+            ["2026-04-06",16.6],
+            ["2026-04-13",16.8],
+            ["2026-04-20",16.3],
+            ["2026-04-27",16.4],
+            ["2026-05-04",15.5],
+            ["2026-05-11",15.3],
+            ["2026-05-18",14.2],
+            ["2026-05-25",13.2],
+            ["2026-06-01",13.2],
+            ["2026-06-08",12.7],
+            ["2026-06-15",13.1],
+            ["2026-06-22",12.4],
+            ["2026-06-29",11.7],
+            ["2026-07-06",11.3],
+            ["2026-07-13",11],
+            ["2026-07-20",11.8],
+            ["2026-07-27",12.6],
+            ["2026-08-03",12.8],
+            ["2026-08-10",13],
+            ["2026-08-17",13.7],
+            ["2026-08-24",13.6],
+            ["2026-08-31",12.9],
+            ["2026-09-07",12.7],
+            ["2026-09-14",12.7],
+            ["2026-09-21",13.7],
+            ["2026-09-28",14.1],
+            ["2026-10-05",14.1]
+          ]
+        },
+        {
+          "party": "golkar",
+          "points": [
+            ["2026-03-16",14.4],
+            ["2026-03-23",14.1],
+            ["2026-03-30",14.4],
+            ["2026-04-06",15.2],
+            ["2026-04-13",14.8],
+            ["2026-04-20",14.3],
+            ["2026-04-27",14.4],
+            ["2026-05-04",13.4],
+            ["2026-05-11",14.1],
+            ["2026-05-18",13.9],
+            ["2026-05-25",14.4],
+            ["2026-06-01",13.5],
+            ["2026-06-08",14],
+            ["2026-06-15",13.6],
+            ["2026-06-22",13.5],
+            ["2026-06-29",13.9],
+            ["2026-07-06",14.3],
+            ["2026-07-13",14.3],
+            ["2026-07-20",13.9],
+            ["2026-07-27",13.8],
+            ["2026-08-03",14.2],
+            ["2026-08-10",13.5],
+            ["2026-08-17",13.9],
+            ["2026-08-24",13.6],
+            ["2026-08-31",13.8],
+            ["2026-09-07",13.3],
+            ["2026-09-14",14],
+            ["2026-09-21",14.2],
+            ["2026-09-28",13.5],
+            ["2026-10-05",14.3]
+          ]
+        },
+        {
+          "party": "gerindra",
+          "points": [
+            ["2026-03-16",11.9],
+            ["2026-03-23",11.5],
+            ["2026-03-30",11.2],
+            ["2026-04-06",11.3],
+            ["2026-04-13",10.6],
+            ["2026-04-20",10.1],
+            ["2026-04-27",10.3],
+            ["2026-05-04",9.6],
+            ["2026-05-11",10.1],
+            ["2026-05-18",9.2],
+            ["2026-05-25",9.6],
+            ["2026-06-01",10.3],
+            ["2026-06-08",10.3],
+            ["2026-06-15",9.6],
+            ["2026-06-22",10],
+            ["2026-06-29",10],
+            ["2026-07-06",10.1],
+            ["2026-07-13",10.7],
+            ["2026-07-20",11.1],
+            ["2026-07-27",10.5],
+            ["2026-08-03",9.6],
+            ["2026-08-10",9.9],
+            ["2026-08-17",9.8],
+            ["2026-08-24",9.1],
+            ["2026-08-31",9.5],
+            ["2026-09-07",8.9],
+            ["2026-09-14",8.5],
+            ["2026-09-21",7.7],
+            ["2026-09-28",8.8],
+            ["2026-10-05",8.8]
+          ]
+        },
+        {
+          "party": "pkb",
+          "points": [
+            ["2026-03-16",10.8],
+            ["2026-03-23",10.9],
+            ["2026-03-30",10.5],
+            ["2026-04-06",11.1],
+            ["2026-04-13",11.3],
+            ["2026-04-20",12],
+            ["2026-04-27",11.4],
+            ["2026-05-04",10.9],
+            ["2026-05-11",10.4],
+            ["2026-05-18",9.8],
+            ["2026-05-25",9.6],
+            ["2026-06-01",8.8],
+            ["2026-06-08",9.1],
+            ["2026-06-15",9.1],
+            ["2026-06-22",8.4],
+            ["2026-06-29",8.7],
+            ["2026-07-06",9.7],
+            ["2026-07-13",9.4],
+            ["2026-07-20",9],
+            ["2026-07-27",9.2],
+            ["2026-08-03",10],
+            ["2026-08-10",10.2],
+            ["2026-08-17",10.2],
+            ["2026-08-24",9.4],
+            ["2026-08-31",10],
+            ["2026-09-07",9.4],
+            ["2026-09-14",9.2],
+            ["2026-09-21",8.7],
+            ["2026-09-28",8.5],
+            ["2026-10-05",8.3]
+          ]
+        }
+      ]
+    }
+  ]
+}

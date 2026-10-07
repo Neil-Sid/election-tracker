@@ -1,0 +1,3766 @@
+{
+  "code": "MX",
+  "parties": {
+    "pps": {
+      "name": "Popular Socialist Party",
+      "color": "#FF00FF",
+      "article": "Popular Socialist Party (Mexico)"
+    },
+    "fppm": {
+      "name": "Federation of Parties of the Mexican People",
+      "color": "#B70707",
+      "article": "Federation of Parties of the Mexican People"
+    },
+    "pnm": {
+      "name": "Nationalist Party of Mexico",
+      "color": "#A0522D",
+      "article": "Nationalist Party of Mexico"
+    },
+    "parm": {
+      "name": "Authentic Party of the Mexican Revolution",
+      "color": "#008B8B",
+      "article": "Authentic Party of the Mexican Revolution"
+    },
+    "pcm": {
+      "name": "Mexican Communist Party",
+      "color": "#FF0000",
+      "article": "Mexican Communist Party"
+    },
+    "pst": {
+      "name": "Workers' Socialist Party",
+      "color": "#000000",
+      "article": "Workers' Socialist Party (Mexico)"
+    },
+    "pdm": {
+      "name": "Mexican Democratic Party",
+      "color": "#8B5A2B",
+      "article": "Mexican Democratic Party"
+    },
+    "psum": {
+      "name": "Unified Socialist Party of Mexico",
+      "color": "#FF0000",
+      "article": "Unified Socialist Party of Mexico"
+    },
+    "prt": {
+      "name": "Workers' Revolutionary Party",
+      "color": "#800080",
+      "article": "Workers' Revolutionary Party (Mexico)"
+    },
+    "pmt": {
+      "name": "Mexican Workers' Party",
+      "color": "#DAA520",
+      "article": "Mexican Workers' Party"
+    },
+    "fdn": {
+      "name": "National Democratic Front",
+      "color": "#FFFF00",
+      "article": "National Democratic Front (Mexico)"
+    },
+    "pfcrn": {
+      "name": "Party of the Cardenist Front of National Reconstruction",
+      "color": "#D10000",
+      "article": "Party of the Cardenist Front of National Reconstruction"
+    },
+    "pms": {
+      "name": "Mexican Socialist Party",
+      "color": "#FF7F50",
+      "article": "Mexican Socialist Party"
+    },
+    "ds": {
+      "name": "Social Democracy",
+      "color": "#E810BD",
+      "article": "Social Democracy (Mexico)"
+    },
+    "pcd": {
+      "name": "Democratic Center Party",
+      "color": "#833275",
+      "article": "Democratic Center Party of Mexico"
+    },
+    "panal": {
+      "name": "New Alliance Party",
+      "color": "#00AAAA",
+      "article": "New Alliance Party (Mexico)"
+    },
+    "psd": {
+      "name": "Social Democratic Party",
+      "color": "#E02128",
+      "article": "Social Democratic Party (Mexico)"
+    },
+    "pes": {
+      "name": "Social Encounter Party",
+      "color": "#6E2F7D",
+      "article": "Social Encounter Party"
+    },
+    "ph": {
+      "name": "Humanist Party",
+      "color": "#F06BA8",
+      "article": "Humanist Party (Mexico)"
+    },
+    "pes2020": {
+      "name": "Solidarity Encounter Party",
+      "color": "#702F8A",
+      "article": "Solidarity Encounter Party"
+    },
+    "fxm": {
+      "name": "Force for Mexico",
+      "color": "#E85E91",
+      "article": "Force for Mexico"
+    },
+    "rsp": {
+      "name": "Progressive Social Networks",
+      "color": "#17A2B8",
+      "article": "Progressive Social Networks"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93",
+      "article": "Independent politician"
+    }
+  },
+  "elections": [
+    {
+      "id": "mx-chamber-1949",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1949-07-03",
+      "note": "Men only",
+      "totalSeats": 147,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1949_Mexican_legislative_election",
+        "revid": 1273614087
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 2031783,
+          "pct": 93.91,
+          "seats": 142,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 121061,
+          "pct": 5.6,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Popular Party",
+          "party": "pps",
+          "votes": 10738,
+          "pct": 0.5,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "Only men could vote. Popular Party was the early name of the Popular Socialist Party. The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-president-1952",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1952-07-07",
+      "note": "Men only",
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1952_Mexican_general_election",
+        "revid": 1373455852
+      },
+      "candidates": [
+        {
+          "name": "Adolfo Ruiz Cortines",
+          "party": "pri",
+          "votes": 2713419,
+          "pct": 74.31,
+          "winner": true
+        },
+        {
+          "name": "Miguel Henríquez Guzmán",
+          "party": "fppm",
+          "votes": 579745,
+          "pct": 15.88
+        },
+        {
+          "name": "Efraín González Luna",
+          "party": "pan",
+          "votes": 285555,
+          "pct": 7.82
+        },
+        {
+          "name": "Vicente Lombardo Toledano",
+          "party": "pps",
+          "votes": 72482,
+          "pct": 1.99
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 282,
+          "pct": 0.01
+        }
+      ],
+      "notes": "Only men could vote; women's suffrage came after this election. The table gives no invalid votes, so turnout is omitted. Others: 282 votes for other candidates."
+    },
+    {
+      "id": "mx-chamber-1952",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1952-07-07",
+      "note": "Men only",
+      "totalSeats": 161,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), the Chamber of Deputies and UNAM",
+        "url": "https://en.wikipedia.org/wiki/1952_Mexican_general_election",
+        "revid": 1373455852
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party (PRI)",
+          "party": "pri",
+          "votes": 2713419,
+          "pct": 74.31,
+          "seats": 151,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "National Action Party (PAN)",
+          "party": "pan",
+          "votes": 301986,
+          "pct": 8.27,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Federation of the Mexican People's Parties (FPPM)",
+          "party": "fppm",
+          "votes": 579745,
+          "pct": 15.88,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Popular Party (PP)",
+          "party": "pps",
+          "votes": 32194,
+          "pct": 0.88,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Nationalist Party of Mexico (PNM)",
+          "party": "pnm",
+          "votes": 24139,
+          "pct": 0.66,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "Only men could vote. In the source the PRI and FPPM Chamber votes are identical to their presidential votes. Seats as in the table (161). The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-senate-1952",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1952-07-07",
+      "note": "Men only",
+      "totalSeats": 60,
+      "source": {
+        "name": "Wikipedia, citing UNAM",
+        "url": "https://en.wikipedia.org/wiki/1952_Mexican_general_election",
+        "revid": 1373455852
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party (PRI)",
+          "party": "pri",
+          "votes": null,
+          "pct": null,
+          "seats": 60,
+          "change": null,
+          "winner": true
+        }
+      ],
+      "voted": [
+        "AGU",
+        "BCN",
+        "CAM",
+        "CHP",
+        "CHH",
+        "COA",
+        "COL",
+        "DUR",
+        "GUA",
+        "GRO",
+        "HID",
+        "JAL",
+        "MEX",
+        "DIF",
+        "MIC",
+        "MOR",
+        "NAY",
+        "NLE",
+        "OAX",
+        "PUE",
+        "QUE",
+        "SLP",
+        "SIN",
+        "SON",
+        "TAB",
+        "TAM",
+        "TLA",
+        "VER",
+        "YUC",
+        "ZAC"
+      ],
+      "notes": "Seats won in this election: the table gives only the PRI's 60 seats, with no votes. Only men could vote. Baja California Sur and Quintana Roo were territories without senators."
+    },
+    {
+      "id": "mx-chamber-1955",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1955-07-04",
+      "totalSeats": 162,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the Chamber of Deputies",
+        "url": "https://en.wikipedia.org/wiki/1955_Mexican_legislative_election",
+        "revid": 1297564299
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party (PRI)",
+          "party": "pri",
+          "votes": 5562761,
+          "pct": 89.86,
+          "seats": 153,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "National Action Party (PAN)",
+          "party": "pan",
+          "votes": 567678,
+          "pct": 9.17,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Popular Party (PP)",
+          "party": "pps",
+          "votes": 42621,
+          "pct": 0.69,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Nationalist Party of Mexico (PNM)",
+          "party": "pnm",
+          "votes": 17316,
+          "pct": 0.28,
+          "seats": 1,
+          "change": 0
+        }
+      ],
+      "notes": "First federal election in which women voted. The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-president-1958",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1958-07-06",
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1958_Mexican_general_election",
+        "revid": 1326697053
+      },
+      "candidates": [
+        {
+          "name": "Adolfo López Mateos",
+          "party": "pri",
+          "votes": 6767754,
+          "pct": 90.44,
+          "winner": true
+        },
+        {
+          "name": "Luis H. Álvarez",
+          "party": "pan",
+          "votes": 705303,
+          "pct": 9.42
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 10346,
+          "pct": 0.14
+        }
+      ],
+      "notes": "First presidential election in which women voted. The table gives no invalid votes, so turnout is omitted. Others: 10,346 votes for other candidates."
+    },
+    {
+      "id": "mx-chamber-1958",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1958-07-06",
+      "totalSeats": 162,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and UNAM",
+        "url": "https://en.wikipedia.org/wiki/1958_Mexican_general_election",
+        "revid": 1326697053
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party (PRI)",
+          "party": "pri",
+          "votes": 6467493,
+          "pct": 88.2,
+          "seats": 153,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "National Action Party (PAN)",
+          "party": "pan",
+          "votes": 749519,
+          "pct": 10.22,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Party (PPS)",
+          "party": "pps",
+          "votes": 50145,
+          "pct": 0.68,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution (PARM)",
+          "party": "parm",
+          "votes": 32464,
+          "pct": 0.44,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Nationalist Party of Mexico (PNM)",
+          "party": "pnm",
+          "votes": 22499,
+          "pct": 0.31,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 10309,
+          "pct": 0.14,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Others: non-registered candidates. The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-chamber-1961",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1961-07-02",
+      "totalSeats": 178,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1961_Mexican_legislative_election",
+        "revid": 1297539011
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party (PRI)",
+          "party": "pri",
+          "votes": 6178434,
+          "pct": 90.25,
+          "seats": 172,
+          "change": 19,
+          "winner": true
+        },
+        {
+          "name": "National Action Party (PAN)",
+          "party": "pan",
+          "votes": 518652,
+          "pct": 7.58,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Popular Socialist Party (PPS)",
+          "party": "pps",
+          "votes": 65143,
+          "pct": 0.95,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 83597,
+          "pct": 1.22,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Others: PARM (33,671), Nationalist Party (19,082) and non-registered candidates (30,844). The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-president-1964",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1964-07-05",
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1964_Mexican_general_election",
+        "revid": 1369539134
+      },
+      "candidates": [
+        {
+          "name": "Gustavo Díaz Ordaz",
+          "party": "pri",
+          "votes": 8368446,
+          "pct": 88.82,
+          "winner": true
+        },
+        {
+          "name": "José González Torres",
+          "party": "pan",
+          "votes": 1034337,
+          "pct": 10.98
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 19402,
+          "pct": 0.21
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pri",
+        "BCN": "pri",
+        "BCS": "pri",
+        "CAM": "pri",
+        "CHH": "pri",
+        "COA": "pri",
+        "COL": "pri",
+        "DUR": "pri",
+        "DIF": "pri",
+        "GUA": "pri",
+        "GRO": "pri",
+        "HID": "pri",
+        "JAL": "pri",
+        "MIC": "pri",
+        "MOR": "pri",
+        "NAY": "pri",
+        "NLE": "pri",
+        "OAX": "pri",
+        "PUE": "pri",
+        "QUE": "pri",
+        "ROO": "pri",
+        "SLP": "pri",
+        "SIN": "pri",
+        "SON": "pri",
+        "MEX": "pri",
+        "TAB": "pri",
+        "TAM": "pri",
+        "TLA": "pri",
+        "VER": "pri",
+        "YUC": "pri",
+        "ZAC": "pri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1964_Mexican_general_election",
+      "notes": "The table gives no invalid votes, so turnout is omitted. Others: 19,402 votes for other candidates. Region winners from the article's by-state table (CEDE), which has no row for Chiapas; that table credits Díaz Ordaz with PRI, PARM and PPS votes."
+    },
+    {
+      "id": "mx-chamber-1964",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1964-07-05",
+      "totalSeats": 210,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1964_Mexican_general_election",
+        "revid": 1369539134
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 7807912,
+          "pct": 86.26,
+          "seats": 175,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1042396,
+          "pct": 11.52,
+          "seats": 20,
+          "change": 15
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 123837,
+          "pct": 1.37,
+          "seats": 10,
+          "change": 9
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 64409,
+          "pct": 0.71,
+          "seats": 5,
+          "change": 5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 12970,
+          "pct": 0.14,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "First election with party deputies, seats allotted to opposition parties by vote share. Others: non-registered candidates. The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-senate-1964",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1964-07-05",
+      "totalSeats": 60,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and Sachs (1967)",
+        "url": "https://en.wikipedia.org/wiki/1964_Mexican_general_election",
+        "revid": 1369539134
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 7837364,
+          "pct": 87.83,
+          "seats": 60,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1001045,
+          "pct": 11.22,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 84592,
+          "pct": 0.95,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "voted": [
+        "AGU",
+        "BCN",
+        "CAM",
+        "CHP",
+        "CHH",
+        "COA",
+        "COL",
+        "DUR",
+        "GUA",
+        "GRO",
+        "HID",
+        "JAL",
+        "MEX",
+        "DIF",
+        "MIC",
+        "MOR",
+        "NAY",
+        "NLE",
+        "OAX",
+        "PUE",
+        "QUE",
+        "SLP",
+        "SIN",
+        "SON",
+        "TAB",
+        "TAM",
+        "TLA",
+        "VER",
+        "YUC",
+        "ZAC"
+      ],
+      "notes": "Seats won in this election (60). The table has no seat changes. Others: Authentic Party of the Mexican Revolution, Popular Socialist Party and non-registered candidates. No turnout (no invalid votes in the table). Baja California Sur and Quintana Roo were territories without senators."
+    },
+    {
+      "id": "mx-chamber-1967",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1967-07-02",
+      "totalSeats": 212,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1967_Mexican_legislative_election",
+        "revid": 1273234918
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 8342114,
+          "pct": 83.93,
+          "seats": 177,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1223926,
+          "pct": 12.31,
+          "seats": 20,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 215087,
+          "pct": 2.16,
+          "seats": 10,
+          "change": 0
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 138799,
+          "pct": 1.4,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 18888,
+          "pct": 0.19,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Others: non-registered candidates. The table gives no invalid votes, so turnout is omitted."
+    },
+    {
+      "id": "mx-president-1970",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1970-07-05",
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1970_Mexican_general_election",
+        "revid": 1367052885
+      },
+      "candidates": [
+        {
+          "name": "Luis Echeverría",
+          "party": "pri",
+          "votes": 11970893,
+          "pct": 86.02,
+          "winner": true
+        },
+        {
+          "name": "Efraín González Morfín",
+          "party": "pan",
+          "votes": 1945070,
+          "pct": 13.98
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pri",
+        "BCN": "pri",
+        "BCS": "pri",
+        "CAM": "pri",
+        "CHP": "pri",
+        "CHH": "pri",
+        "COA": "pri",
+        "COL": "pri",
+        "DUR": "pri",
+        "DIF": "pri",
+        "GUA": "pri",
+        "GRO": "pri",
+        "HID": "pri",
+        "JAL": "pri",
+        "MIC": "pri",
+        "MOR": "pri",
+        "NAY": "pri",
+        "NLE": "pri",
+        "OAX": "pri",
+        "PUE": "pri",
+        "QUE": "pri",
+        "ROO": "pri",
+        "SLP": "pri",
+        "SIN": "pri",
+        "SON": "pri",
+        "MEX": "pri",
+        "TAB": "pri",
+        "TAM": "pri",
+        "TLA": "pri",
+        "VER": "pri",
+        "YUC": "pri",
+        "ZAC": "pri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1970_Mexican_general_election",
+      "notes": "The national table lists only the two registered candidates and no invalid votes, so turnout is omitted. Region winners from the article's by-state table (CEDE)."
+    },
+    {
+      "id": "mx-chamber-1970",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1970-07-05",
+      "totalSeats": 213,
+      "turnout": 64.38,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1970_Mexican_general_election",
+        "revid": 1367052885
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11125770,
+          "pct": 83.31,
+          "seats": 178,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1893289,
+          "pct": 14.18,
+          "seats": 20,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 188854,
+          "pct": 1.41,
+          "seats": 10,
+          "change": 0
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 111883,
+          "pct": 0.84,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 35192,
+          "pct": 0.26,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Others: non-registered candidates. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-senate-1970",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1970-07-05",
+      "totalSeats": 60,
+      "turnout": 64.38,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1970_Mexican_general_election",
+        "revid": 1367052885
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11154003,
+          "pct": 84.35,
+          "seats": 60,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1889157,
+          "pct": 14.29,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 143648,
+          "pct": 1.09,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 37044,
+          "pct": 0.28,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "AGU",
+        "BCN",
+        "CAM",
+        "CHP",
+        "CHH",
+        "COA",
+        "COL",
+        "DUR",
+        "GUA",
+        "GRO",
+        "HID",
+        "JAL",
+        "MEX",
+        "DIF",
+        "MIC",
+        "MOR",
+        "NAY",
+        "NLE",
+        "OAX",
+        "PUE",
+        "QUE",
+        "SLP",
+        "SIN",
+        "SON",
+        "TAB",
+        "TAM",
+        "TLA",
+        "VER",
+        "YUC",
+        "ZAC"
+      ],
+      "notes": "Seats won in this election (60). Others: PARM and non-registered candidates. Turnout from the table's invalid votes and electorate. Baja California Sur and Quintana Roo were territories without senators."
+    },
+    {
+      "id": "mx-chamber-1973",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1973-07-01",
+      "totalSeats": 231,
+      "turnout": 60.3,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1973_Mexican_legislative_election",
+        "revid": 1273235757
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 10458618,
+          "pct": 77.38,
+          "seats": 189,
+          "change": 11,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 2207069,
+          "pct": 16.33,
+          "seats": 25,
+          "change": 5
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 541833,
+          "pct": 4.01,
+          "seats": 10,
+          "change": 0
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 272339,
+          "pct": 2.01,
+          "seats": 7,
+          "change": 2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 36858,
+          "pct": 0.27,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Others: non-registered candidates. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-president-1976",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1976-07-04",
+      "note": "Sole candidate",
+      "source": {
+        "name": "Wikipedia, citing INEGI and Nohlen (2005)",
+        "url": "https://en.wikipedia.org/wiki/1976_Mexican_general_election",
+        "revid": 1364397740
+      },
+      "candidates": [
+        {
+          "name": "José López Portillo",
+          "party": "pri",
+          "votes": 16727993,
+          "pct": 100,
+          "winner": true
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pri",
+        "BCN": "pri",
+        "BCS": "pri",
+        "CAM": "pri",
+        "CHP": "pri",
+        "CHH": "pri",
+        "COA": "pri",
+        "COL": "pri",
+        "DUR": "pri",
+        "DIF": "pri",
+        "GUA": "pri",
+        "GRO": "pri",
+        "HID": "pri",
+        "JAL": "pri",
+        "MIC": "pri",
+        "MOR": "pri",
+        "NAY": "pri",
+        "NLE": "pri",
+        "OAX": "pri",
+        "PUE": "pri",
+        "QUE": "pri",
+        "ROO": "pri",
+        "SLP": "pri",
+        "SIN": "pri",
+        "SON": "pri",
+        "MEX": "pri",
+        "TAB": "pri",
+        "TAM": "pri",
+        "TLA": "pri",
+        "VER": "pri",
+        "YUC": "pri",
+        "ZAC": "pri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1976_Mexican_general_election",
+      "notes": "López Portillo was the only candidate in the table: his total combines PRI 15,435,321, PPS 648,778 and PARM 339,922 votes plus 303,972 personal votes. Votes for unregistered candidates are not in the national table. The table gives no invalid votes, so turnout is omitted. Region winners from the article's by-state table (CEDE)."
+    },
+    {
+      "id": "mx-chamber-1976",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1976-07-04",
+      "totalSeats": 237,
+      "turnout": 62.01,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1976_Mexican_general_election",
+        "revid": 1364397740
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 12868104,
+          "pct": 84.89,
+          "seats": 195,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1358403,
+          "pct": 8.96,
+          "seats": 20,
+          "change": -5
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 479228,
+          "pct": 3.16,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 403274,
+          "pct": 2.66,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 49471,
+          "pct": 0.33,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Others: non-registered candidates. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-senate-1976",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1976-07-04",
+      "totalSeats": 64,
+      "turnout": 64.55,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1976_Mexican_general_election",
+        "revid": 1364397740
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 13406825,
+          "pct": 87.51,
+          "seats": 63,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 438850,
+          "pct": 2.86,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1245406,
+          "pct": 8.13,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 188788,
+          "pct": 1.23,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 40662,
+          "pct": 0.27,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats won in this election (64). The PPS senator ran in coalition with the PRI. Others: non-registered candidates. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-chamber-1979",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1979-07-01",
+      "totalSeats": 400,
+      "turnout": 49.34,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the IPU",
+        "url": "https://en.wikipedia.org/wiki/1979_Mexican_legislative_election",
+        "revid": 1293530340
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 9418178,
+          "pct": 72.79,
+          "seats": 296,
+          "change": 101,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 1525111,
+          "pct": 11.79,
+          "seats": 43,
+          "change": 23
+        },
+        {
+          "name": "Mexican Communist Party",
+          "party": "pcm",
+          "votes": 703068,
+          "pct": 5.43,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 298183,
+          "pct": 2.3,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 389590,
+          "pct": 3.01,
+          "seats": 11,
+          "change": -1
+        },
+        {
+          "name": "Workers' Socialist Party",
+          "party": "pst",
+          "votes": 311913,
+          "pct": 2.41,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 293540,
+          "pct": 2.27,
+          "seats": 10,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Non-registered candidates had constituency votes only (10,748), so no Others row. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-president-1982",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1982-07-04",
+      "turnout": 74.84,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1982_Mexican_general_election",
+        "revid": 1361124199
+      },
+      "candidates": [
+        {
+          "name": "Miguel de la Madrid",
+          "party": "pri",
+          "votes": 16748006,
+          "pct": 74.31,
+          "winner": true
+        },
+        {
+          "name": "Pablo Emilio Madero",
+          "party": "pan",
+          "votes": 3700045,
+          "pct": 16.42
+        },
+        {
+          "name": "Arnoldo Martínez Verdugo",
+          "party": "psum",
+          "votes": 821995,
+          "pct": 3.65
+        },
+        {
+          "name": "Ignacio González Gollaz",
+          "party": "pdm",
+          "votes": 433886,
+          "pct": 1.93
+        },
+        {
+          "name": "Rosario Ibarra",
+          "party": "prt",
+          "votes": 416448,
+          "pct": 1.85
+        },
+        {
+          "name": "Cándido Díaz Cerecedo",
+          "party": "pst",
+          "votes": 342005,
+          "pct": 1.52
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 76887,
+          "pct": 0.34
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pri",
+        "BCN": "pri",
+        "BCS": "pri",
+        "CAM": "pri",
+        "CHP": "pri",
+        "CHH": "pri",
+        "COA": "pri",
+        "COL": "pri",
+        "DUR": "pri",
+        "DIF": "pri",
+        "GUA": "pri",
+        "GRO": "pri",
+        "HID": "pri",
+        "JAL": "pri",
+        "MIC": "pri",
+        "MEX": "pri",
+        "MOR": "pri",
+        "NAY": "pri",
+        "NLE": "pri",
+        "OAX": "pri",
+        "PUE": "pri",
+        "QUE": "pri",
+        "ROO": "pri",
+        "SLP": "pri",
+        "SIN": "pri",
+        "SON": "pri",
+        "TAB": "pri",
+        "TAM": "pri",
+        "TLA": "pri",
+        "VER": "pri",
+        "YUC": "pri",
+        "ZAC": "pri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1982_Mexican_general_election",
+      "notes": "De la Madrid was the PRI–PARM–PPS candidate. Others: Manuel Moreno Sánchez (Social Democratic Party, 48,413) and non-registered candidates (28,474). Turnout from the table's invalid votes and electorate. Region winners from the article's by-state table (CEDE), whose totals differ slightly from the national figures."
+    },
+    {
+      "id": "mx-chamber-1982",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1982-07-04",
+      "totalSeats": 400,
+      "turnout": 72.56,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and Bailey (1988)",
+        "url": "https://en.wikipedia.org/wiki/1982_Mexican_general_election",
+        "revid": 1361124199
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 14289793,
+          "pct": 65.71,
+          "seats": 299,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 3786348,
+          "pct": 17.41,
+          "seats": 51,
+          "change": 8
+        },
+        {
+          "name": "Unified Socialist Party of Mexico",
+          "party": "psum",
+          "votes": 932214,
+          "pct": 4.29,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 534122,
+          "pct": 2.46,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "Workers' Socialist Party",
+          "party": "pst",
+          "votes": 428153,
+          "pct": 1.97,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 459303,
+          "pct": 2.11,
+          "seats": 10,
+          "change": -1
+        },
+        {
+          "name": "Workers' Revolutionary Party",
+          "party": "prt",
+          "votes": 308099,
+          "pct": 1.42,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 282004,
+          "pct": 1.3,
+          "seats": 0,
+          "change": -12
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 725305,
+          "pct": 3.34,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others: non-registered candidates (671,999 list votes) and the Social Democratic Party (53,306). Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-1982",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1982-07-04",
+      "totalSeats": 64,
+      "turnout": 71.14,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and Gómez Tagle",
+        "url": "https://en.wikipedia.org/wiki/1982_Mexican_general_election",
+        "revid": 1361124199
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 14574114,
+          "pct": 70.6,
+          "seats": 64,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 3678096,
+          "pct": 17.82,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Unified Socialist Party of Mexico",
+          "party": "psum",
+          "votes": 866301,
+          "pct": 4.2,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 438471,
+          "pct": 2.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 375059,
+          "pct": 1.82,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Workers' Socialist Party",
+          "party": "pst",
+          "votes": 320672,
+          "pct": 1.55,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Workers' Revolutionary Party",
+          "party": "prt",
+          "votes": 221421,
+          "pct": 1.07,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 168000,
+          "pct": 0.81,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "All 64 seats were elected; seats won. Others: PARM, Social Democratic Party and non-registered candidates. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-chamber-1985",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1985-07-07",
+      "totalSeats": 400,
+      "turnout": 51.82,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and Sandoval",
+        "url": "https://en.wikipedia.org/wiki/1985_Mexican_legislative_election",
+        "revid": 1273238363
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 10981938,
+          "pct": 63.29,
+          "seats": 292,
+          "change": -7,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 2831248,
+          "pct": 16.32,
+          "seats": 38,
+          "change": -13
+        },
+        {
+          "name": "Unified Socialist Party of Mexico",
+          "party": "psum",
+          "votes": 602530,
+          "pct": 3.47,
+          "seats": 12,
+          "change": -5
+        },
+        {
+          "name": "Workers' Socialist Party",
+          "party": "pst",
+          "votes": 593022,
+          "pct": 3.42,
+          "seats": 12,
+          "change": 1
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 507710,
+          "pct": 2.93,
+          "seats": 12,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 441567,
+          "pct": 2.54,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 416780,
+          "pct": 2.4,
+          "seats": 11,
+          "change": 11
+        },
+        {
+          "name": "Mexican Workers' Party",
+          "party": "pmt",
+          "votes": 291127,
+          "pct": 1.68,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Workers' Revolutionary Party",
+          "party": "prt",
+          "votes": 289626,
+          "pct": 1.67,
+          "seats": 6,
+          "change": 6
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 395955,
+          "pct": 2.28,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others is the table's own Others row. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-president-1988",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1988-07-06",
+      "turnout": 52.01,
+      "source": {
+        "name": "Wikipedia, citing Becerra Chávez",
+        "url": "https://en.wikipedia.org/wiki/1988_Mexican_general_election",
+        "revid": 1363163265
+      },
+      "candidates": [
+        {
+          "name": "Carlos Salinas de Gortari",
+          "party": "pri",
+          "votes": 9687926,
+          "pct": 50.71,
+          "winner": true
+        },
+        {
+          "name": "Cuauhtémoc Cárdenas",
+          "party": "fdn",
+          "votes": 5929585,
+          "pct": 31.03
+        },
+        {
+          "name": "Manuel Clouthier",
+          "party": "pan",
+          "votes": 3208584,
+          "pct": 16.79
+        },
+        {
+          "name": "Gumersindo Magaña Negrete",
+          "party": "pdm",
+          "votes": 190891,
+          "pct": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 89190,
+          "pct": 0.47
+        }
+      ],
+      "notes": "Cárdenas ran for the National Democratic Front (PFCRN, PPS, PARM and PMS). Magaña Negrete's share rounds to 1.00% in the table, so he is listed. Others: Rosario Ibarra (PRT, 74,857) and non-registered candidates (14,333). The article describes widespread fraud allegations against these official results. No region winners: the article's by-state table is hidden."
+    },
+    {
+      "id": "mx-chamber-1988",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1988-07-06",
+      "totalSeats": 500,
+      "turnout": 49.43,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and Villalpando Rojas",
+        "url": "https://en.wikipedia.org/wiki/1988_Mexican_general_election",
+        "revid": 1363163265
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 9276934,
+          "pct": 50.97,
+          "seats": 260,
+          "change": -32,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 3276824,
+          "pct": 18,
+          "seats": 101,
+          "change": 63
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 1673863,
+          "pct": 9.2,
+          "seats": 49,
+          "change": 38
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 1704532,
+          "pct": 9.37,
+          "seats": 36,
+          "change": null
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 1124575,
+          "pct": 6.18,
+          "seats": 30,
+          "change": 19
+        },
+        {
+          "name": "Mexican Socialist Party",
+          "party": "pms",
+          "votes": 810372,
+          "pct": 4.45,
+          "seats": 24,
+          "change": 6
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 244458,
+          "pct": 1.34,
+          "seats": 0,
+          "change": -12
+        },
+        {
+          "name": "Workers' Revolutionary Party",
+          "party": "prt",
+          "votes": 88637,
+          "pct": 0.49,
+          "seats": 0,
+          "change": -6
+        }
+      ],
+      "notes": "The table has one vote column. PFCRN, PPS, PARM and PMS formed the National Democratic Front. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-senate-1988",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1988-07-06",
+      "totalSeats": 64,
+      "turnout": 49.68,
+      "source": {
+        "name": "Wikipedia, citing Becerra Chávez, Nohlen (2005) and Villalpando Rojas",
+        "url": "https://en.wikipedia.org/wiki/1988_Mexican_general_election",
+        "revid": 1363163265
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 9263810,
+          "pct": 50.83,
+          "seats": 60,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Mexican Socialist Party",
+          "party": "pms",
+          "votes": 770659,
+          "pct": 4.23,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 3293460,
+          "pct": 18.07,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 1727376,
+          "pct": 9.48,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 1702203,
+          "pct": 9.34,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 1154811,
+          "pct": 6.34,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 223631,
+          "pct": 1.23,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 90230,
+          "pct": 0.5,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "All 64 seats were elected; seats won. PFCRN, PPS, PARM and PMS formed the National Democratic Front. Others: Workers' Revolutionary Party and non-registered or common candidates. Turnout from the table's invalid votes and electorate."
+    },
+    {
+      "id": "mx-chamber-1991",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1991-08-18",
+      "totalSeats": 500,
+      "turnout": 61.22,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1991_Mexican_legislative_election",
+        "revid": 1275076792
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 14145234,
+          "pct": 61.43,
+          "seats": 320,
+          "change": 60,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 4068712,
+          "pct": 17.67,
+          "seats": 89,
+          "change": -12
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 1913174,
+          "pct": 8.31,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 998158,
+          "pct": 4.33,
+          "seats": 23,
+          "change": -15
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 492514,
+          "pct": 2.14,
+          "seats": 15,
+          "change": -15
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 414780,
+          "pct": 1.8,
+          "seats": 12,
+          "change": -25
+        },
+        {
+          "name": "Ecologist Party of Mexico",
+          "party": "pvem",
+          "votes": 332603,
+          "pct": 1.44,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 260266,
+          "pct": 1.13,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 249915,
+          "pct": 1.09,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 150252,
+          "pct": 0.65,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others: Workers' Revolutionary Party (136,341) and non-registered candidates (13,911). Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-1991",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1991-08-18",
+      "totalSeats": 64,
+      "turnout": 61.5,
+      "source": {
+        "name": "Wikipedia, citing the Federal Electoral Institute (IFE), the IPU and Nohlen (2005)",
+        "url": "https://en.wikipedia.org/wiki/1991_Mexican_legislative_election",
+        "revid": 1275076792
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 14256447,
+          "pct": 61.54,
+          "seats": 61,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Party of the Democratic Revolution (incl. PPS–PRD Alliance)",
+          "party": "prd",
+          "votes": 1987565,
+          "pct": 8.58,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 4100287,
+          "pct": 17.7,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 1202425,
+          "pct": 5.19,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 487258,
+          "pct": 2.1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Ecologist Party of Mexico",
+          "party": "pvem",
+          "votes": 326251,
+          "pct": 1.41,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Mexican Democratic Party",
+          "party": "pdm",
+          "votes": 276661,
+          "pct": 1.19,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 258510,
+          "pct": 1.12,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 268982,
+          "pct": 1.16,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "32 of the 64 seats were up; seats are the composition after the election (won plus not up) with the table's +/−. The PRD row adds the PPS–PRD Alliance's 1,109,450 votes to the PRD's own 878,115 (share recomputed from votes); the PRD's 2 seats were not up. Others: Workers' Revolutionary Party, Popular Socialist Party (own list) and non-registered candidates."
+    },
+    {
+      "id": "mx-president-1994",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1994-08-21",
+      "turnout": 77.16,
+      "source": {
+        "name": "Wikipedia, citing the Federal Electoral Institute (IFE)",
+        "url": "https://en.wikipedia.org/wiki/1994_Mexican_general_election",
+        "revid": 1371161917
+      },
+      "candidates": [
+        {
+          "name": "Ernesto Zedillo",
+          "party": "pri",
+          "votes": 17181651,
+          "pct": 50.13,
+          "winner": true
+        },
+        {
+          "name": "Diego Fernández de Cevallos",
+          "party": "pan",
+          "votes": 9146841,
+          "pct": 26.69
+        },
+        {
+          "name": "Cuauhtémoc Cárdenas Solórzano",
+          "party": "prd",
+          "votes": 5852134,
+          "pct": 17.07
+        },
+        {
+          "name": "Cecilia Soto González",
+          "party": "pt",
+          "votes": 970121,
+          "pct": 2.83
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1126253,
+          "pct": 3.29
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pri",
+        "BCN": "pri",
+        "BCS": "pri",
+        "CAM": "pri",
+        "CHP": "pri",
+        "CHH": "pri",
+        "COA": "pri",
+        "COL": "pri",
+        "DIF": "pri",
+        "DUR": "pri",
+        "GUA": "pri",
+        "GRO": "pri",
+        "HID": "pri",
+        "JAL": "pri",
+        "MEX": "pri",
+        "MIC": "pri",
+        "MOR": "pri",
+        "NAY": "pri",
+        "NLE": "pri",
+        "OAX": "pri",
+        "PUE": "pri",
+        "QUE": "pri",
+        "ROO": "pri",
+        "SLP": "pri",
+        "SIN": "pri",
+        "SON": "pri",
+        "TAB": "pri",
+        "TAM": "pri",
+        "TLA": "pri",
+        "VER": "pri",
+        "YUC": "pri",
+        "ZAC": "pri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1994_Mexican_general_election",
+      "notes": "Others: Jorge González Torres (PVEM), Rafael Aguilar Talamantes (PFCRN), Álvaro Pérez Treviño (PARM), Marcela Lombardo Otero (PPS), Pablo Emilio Madero (PDM) and write-ins. Region winners from the article's by-state table (IFE)."
+    },
+    {
+      "id": "mx-chamber-1994",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1994-08-21",
+      "totalSeats": 500,
+      "turnout": 77.43,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the IPU",
+        "url": "https://en.wikipedia.org/wiki/1994_Mexican_general_election",
+        "revid": 1371161917
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 17236836,
+          "pct": 50.28,
+          "seats": 300,
+          "change": -20,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 8833468,
+          "pct": 25.77,
+          "seats": 119,
+          "change": 30
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 5728733,
+          "pct": 16.71,
+          "seats": 71,
+          "change": 30
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 909251,
+          "pct": 2.65,
+          "seats": 10,
+          "change": 10
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 479594,
+          "pct": 1.4,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 390402,
+          "pct": 1.14,
+          "seats": 0,
+          "change": -23
+        },
+        {
+          "name": "Authentic Party of the Mexican Revolution",
+          "party": "parm",
+          "votes": 290489,
+          "pct": 0.85,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "pps",
+          "votes": 239371,
+          "pct": 0.7,
+          "seats": 0,
+          "change": -12
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 172159,
+          "pct": 0.5,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others: Mexican Democratic Party (151,100) and independents (21,059). Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-1994",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1994-08-21",
+      "totalSeats": 128,
+      "turnout": 77.2,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the IPU",
+        "url": "https://en.wikipedia.org/wiki/1994_Mexican_general_election",
+        "revid": 1371161917
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 17195536,
+          "pct": 50.24,
+          "seats": 95,
+          "change": 34,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 8805038,
+          "pct": 25.73,
+          "seats": 25,
+          "change": 24
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 5759949,
+          "pct": 16.83,
+          "seats": 8,
+          "change": 6
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 977072,
+          "pct": 2.85,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 438941,
+          "pct": 1.28,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 400019,
+          "pct": 1.17,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 648078,
+          "pct": 1.89,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "96 of the 128 seats were up; seats are the composition after the election (won plus not up) with the table's +/−. Others: PARM, PPS, PDM and independents."
+    },
+    {
+      "id": "mx-chamber-1997",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1997-07-06",
+      "totalSeats": 500,
+      "turnout": 57.69,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the Diario Oficial de la Federación",
+        "url": "https://en.wikipedia.org/wiki/1997_Mexican_legislative_election",
+        "revid": 1328164192
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11438719,
+          "pct": 39.09,
+          "seats": 239,
+          "change": -61,
+          "winner": true
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 7518903,
+          "pct": 25.69,
+          "seats": 125,
+          "change": 54
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 7795538,
+          "pct": 26.64,
+          "seats": 121,
+          "change": 2
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 1116137,
+          "pct": 3.81,
+          "seats": 8,
+          "change": 8
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 756125,
+          "pct": 2.58,
+          "seats": 7,
+          "change": -3
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 328872,
+          "pct": 1.12,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 308827,
+          "pct": 1.06,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others: Mexican Democratic Party, Popular Socialist Party and independents. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-1997",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1997-07-06",
+      "totalSeats": 128,
+      "turnout": 57.76,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the IPU",
+        "url": "https://en.wikipedia.org/wiki/1997_Mexican_legislative_election",
+        "revid": 1328164192
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11266155,
+          "pct": 38.48,
+          "seats": 76,
+          "change": -19,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 7881121,
+          "pct": 26.92,
+          "seats": 33,
+          "change": 8
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 7564656,
+          "pct": 25.83,
+          "seats": 14,
+          "change": 6
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 1180004,
+          "pct": 4.03,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 745881,
+          "pct": 2.55,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Party of the Cardenist Front of National Reconstruction",
+          "party": "pfcrn",
+          "votes": 337328,
+          "pct": 1.15,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 306146,
+          "pct": 1.05,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "32 of the 128 seats were up; seats are the composition after the election (won plus not up) with the table's +/−. The 3 independents were not up and have no votes. Others: PDM, PPS and non-registered candidates."
+    },
+    {
+      "id": "mx-president-2000",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2000-07-02",
+      "turnout": 63.97,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the National Electoral Institute (INE)",
+        "url": "https://en.wikipedia.org/wiki/2000_Mexican_general_election",
+        "revid": 1376785492
+      },
+      "candidates": [
+        {
+          "name": "Vicente Fox",
+          "party": "pan",
+          "votes": 15989636,
+          "pct": 43.43,
+          "winner": true
+        },
+        {
+          "name": "Francisco Labastida",
+          "party": "pri",
+          "votes": 13579718,
+          "pct": 36.89
+        },
+        {
+          "name": "Cuauhtémoc Cárdenas",
+          "party": "prd",
+          "votes": 6256780,
+          "pct": 17
+        },
+        {
+          "name": "Gilberto Rincón Gallardo",
+          "party": "ds",
+          "votes": 592381,
+          "pct": 1.61
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 394946,
+          "pct": 1.07
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pan",
+        "BCN": "pan",
+        "BCS": "pan",
+        "CAM": "pri",
+        "CHP": "pri",
+        "CHH": "pan",
+        "COA": "pan",
+        "COL": "pan",
+        "DIF": "pan",
+        "DUR": "pri",
+        "GUA": "pan",
+        "GRO": "pri",
+        "HID": "pri",
+        "JAL": "pan",
+        "MEX": "pan",
+        "MIC": "prd",
+        "MOR": "pan",
+        "NAY": "pri",
+        "NLE": "pan",
+        "OAX": "pri",
+        "PUE": "pan",
+        "QUE": "pan",
+        "ROO": "pan",
+        "SLP": "pan",
+        "SIN": "pri",
+        "SON": "pan",
+        "TAB": "pri",
+        "TAM": "pan",
+        "TLA": "pri",
+        "VER": "pan",
+        "YUC": "pan",
+        "ZAC": "pri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2000_Mexican_general_election",
+      "notes": "Fox ran for the Alliance for Change and Cárdenas for the Alliance for Mexico. Others: Manuel Camacho Solís (Democratic Center Party, 206,589), Porfirio Muñoz Ledo (PARM, 156,896) and other candidates (31,461). Region winners from the article's by-state table (IFE)."
+    },
+    {
+      "id": "mx-chamber-2000",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2000-07-02",
+      "totalSeats": 500,
+      "turnout": 63.66,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the Electoral Tribunal (TEPJF)",
+        "url": "https://en.wikipedia.org/wiki/2000_Mexican_general_election",
+        "revid": 1376785492
+      },
+      "candidates": [
+        {
+          "name": "Alliance for Change (PAN-led)",
+          "party": "pan",
+          "votes": 14323649,
+          "pct": 39.19,
+          "seats": 224,
+          "change": 95,
+          "winner": true
+        },
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 13800306,
+          "pct": 37.75,
+          "seats": 211,
+          "change": -28
+        },
+        {
+          "name": "Alliance for Mexico (PRD-led)",
+          "party": "prd",
+          "votes": 6990143,
+          "pct": 19.12,
+          "seats": 65,
+          "change": -67
+        },
+        {
+          "name": "Social Democracy",
+          "party": "ds",
+          "votes": 703532,
+          "pct": 1.92,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Center Party of Mexico",
+          "party": "pcd",
+          "votes": 430812,
+          "pct": 1.18,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 304067,
+          "pct": 0.83,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). The table gives coalition results only, so the Alliance for Change (PAN-led) is shown under PAN and the Alliance for Mexico (PRD-led) under PRD, votes and seats alike. Others: PARM and non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-2000",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2000-07-02",
+      "totalSeats": 128,
+      "turnout": 63.85,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and IFES",
+        "url": "https://en.wikipedia.org/wiki/2000_Mexican_general_election",
+        "revid": 1376785492
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 13755787,
+          "pct": 37.51,
+          "seats": 60,
+          "change": -16,
+          "winner": true
+        },
+        {
+          "name": "Alliance for Change (PAN-led)",
+          "party": "pan",
+          "votes": 14339963,
+          "pct": 39.1,
+          "seats": 51,
+          "change": 17
+        },
+        {
+          "name": "Alliance for Mexico (PRD-led)",
+          "party": "prd",
+          "votes": 7072994,
+          "pct": 19.29,
+          "seats": 17,
+          "change": 2
+        },
+        {
+          "name": "Social Democracy",
+          "party": "ds",
+          "votes": 676388,
+          "pct": 1.84,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Center Party of Mexico",
+          "party": "pcd",
+          "votes": 523569,
+          "pct": 1.43,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 307001,
+          "pct": 0.84,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "All 128 seats were elected; seats won. Votes and shares are the party-list vote; seats are district plus list seats (totals column). The table gives coalition results only, so the Alliance for Change (PAN-led) is shown under PAN and the Alliance for Mexico (PRD-led) under PRD, votes and seats alike. Others: PARM and non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-chamber-2003",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2003-07-06",
+      "totalSeats": 500,
+      "turnout": 41.32,
+      "source": {
+        "name": "Wikipedia, citing Nohlen (2005) and the Federal Electoral Institute (IFE)",
+        "url": "https://en.wikipedia.org/wiki/2003_Mexican_legislative_election",
+        "revid": 1375191718
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party (incl. Alliance for All)",
+          "party": "pri",
+          "votes": 9833856,
+          "pct": 38.06,
+          "seats": 224,
+          "change": 16,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 8219649,
+          "pct": 31.81,
+          "seats": 151,
+          "change": -56
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 4707009,
+          "pct": 18.22,
+          "seats": 97,
+          "change": 44
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 1068721,
+          "pct": 4.14,
+          "seats": 17,
+          "change": 0
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 642290,
+          "pct": 2.49,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Convergence for Democracy",
+          "party": "mc",
+          "votes": 605156,
+          "pct": 2.34,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 763016,
+          "pct": 2.95,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). The PRI row adds the Alliance for All coalition's 3,637,685 votes (a partial PRI–PVEM alliance in about 100 districts, per the article) to the PRI's own 6,196,171, since the table does not split them; its share is recomputed from votes. Seats are by party. Others: México Posible, Social Alliance, Citizen Force, Mexican Liberal Party, Party of the Nationalist Society and non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-president-2006",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2006-07-02",
+      "turnout": 58.55,
+      "source": {
+        "name": "Wikipedia, citing IFES",
+        "url": "https://en.wikipedia.org/wiki/2006_Mexican_general_election",
+        "revid": 1374404132
+      },
+      "candidates": [
+        {
+          "name": "Felipe Calderón",
+          "party": "pan",
+          "votes": 15000284,
+          "pct": 36.69,
+          "winner": true
+        },
+        {
+          "name": "Andrés Manuel López Obrador",
+          "party": "prd",
+          "votes": 14756350,
+          "pct": 36.09
+        },
+        {
+          "name": "Roberto Madrazo",
+          "party": "pri",
+          "votes": 9301441,
+          "pct": 22.75
+        },
+        {
+          "name": "Patricia Mercado",
+          "party": "psd",
+          "votes": 1128850,
+          "pct": 2.76
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 699793,
+          "pct": 1.71
+        }
+      ],
+      "regionWinners": {
+        "AGU": "pan",
+        "BCN": "pan",
+        "BCS": "prd",
+        "CAM": "prd",
+        "CHP": "prd",
+        "CHH": "pan",
+        "COA": "pan",
+        "COL": "pan",
+        "DIF": "prd",
+        "DUR": "pan",
+        "GUA": "pan",
+        "GRO": "prd",
+        "HID": "prd",
+        "JAL": "pan",
+        "MEX": "prd",
+        "MIC": "prd",
+        "MOR": "prd",
+        "NAY": "prd",
+        "NLE": "pan",
+        "OAX": "prd",
+        "PUE": "pan",
+        "QUE": "pan",
+        "ROO": "prd",
+        "SLP": "pan",
+        "SIN": "pan",
+        "SON": "pan",
+        "TAB": "prd",
+        "TAM": "pan",
+        "TLA": "prd",
+        "VER": "prd",
+        "YUC": "pan",
+        "ZAC": "prd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2006_Mexican_general_election",
+      "notes": "Others: Roberto Campa (New Alliance, 401,804) and non-registered candidates (297,989). Region winners from the article's by-state table (IFE)."
+    },
+    {
+      "id": "mx-chamber-2006",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2006-07-02",
+      "totalSeats": 500,
+      "turnout": 58.05,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Institute (INE)",
+        "url": "https://en.wikipedia.org/wiki/2006_Mexican_general_election",
+        "revid": 1374404132
+      },
+      "candidates": [
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 13845121,
+          "pct": 34.27,
+          "seats": 206,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 12013364,
+          "pct": 29.74,
+          "seats": 126,
+          "change": null
+        },
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11676585,
+          "pct": 28.9,
+          "seats": 104,
+          "change": null
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": null,
+          "pct": null,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Labour Party",
+          "party": "pt",
+          "votes": null,
+          "pct": null,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Convergence",
+          "party": "mc",
+          "votes": null,
+          "pct": null,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1883476,
+          "pct": 4.66,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Social Democratic and Peasant Alternative Party",
+          "party": "psd",
+          "votes": 850989,
+          "pct": 2.11,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 128825,
+          "pct": 0.32,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Coalition votes are not split by party: the Coalition for the Good of All's votes are on the PRD row and the Alliance for Mexico's on the PRI row, while PT, Convergence and PVEM show seats only. The table has no seat changes. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-2006",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2006-07-02",
+      "totalSeats": 128,
+      "turnout": 58.48,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Institute (INE)",
+        "url": "https://en.wikipedia.org/wiki/2006_Mexican_general_election",
+        "revid": 1374404132
+      },
+      "candidates": [
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 14035503,
+          "pct": 34.47,
+          "seats": 52,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11681395,
+          "pct": 28.69,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 12397008,
+          "pct": 30.45,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Convergence",
+          "party": "mc",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Labour Party",
+          "party": "pt",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1688198,
+          "pct": 4.15,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Democratic and Peasant Alternative Party",
+          "party": "psd",
+          "votes": 795730,
+          "pct": 1.95,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 119422,
+          "pct": 0.29,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "All 128 seats were elected; seats won. Votes and shares are the party-list vote; seats are district plus list seats (totals column). Coalition votes are not split by party: the Coalition for the Good of All's votes are on the PRD row and the Alliance for Mexico's on the PRI row, while Convergence, PVEM and PT show seats only. The table has no seat changes. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-chamber-2009",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2009-07-05",
+      "totalSeats": 500,
+      "turnout": 44.76,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Institute (INE)",
+        "url": "https://en.wikipedia.org/wiki/2009_Mexican_legislative_election",
+        "revid": 1273967652
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 12809365,
+          "pct": 39.05,
+          "seats": 237,
+          "change": 133,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 9714181,
+          "pct": 29.61,
+          "seats": 143,
+          "change": -63
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 4228627,
+          "pct": 12.89,
+          "seats": 71,
+          "change": -55
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 2326016,
+          "pct": 7.09,
+          "seats": 21,
+          "change": 2
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 1268125,
+          "pct": 3.87,
+          "seats": 13,
+          "change": -3
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1186876,
+          "pct": 3.62,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Convergence",
+          "party": "mc",
+          "votes": 854347,
+          "pct": 2.6,
+          "seats": 6,
+          "change": -9
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 358482,
+          "pct": 1.09,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 56816,
+          "pct": 0.17,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). The Primero México and Salvemos México coalitions had constituency votes only. Others: non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-president-2012",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2012-07-01",
+      "turnout": 63.08,
+      "source": {
+        "name": "Wikipedia, citing the Diario Oficial de la Federación",
+        "url": "https://en.wikipedia.org/wiki/2012_Mexican_general_election",
+        "revid": 1371061971
+      },
+      "candidates": [
+        {
+          "name": "Enrique Peña Nieto",
+          "party": "pri",
+          "votes": 19158592,
+          "pct": 39.17,
+          "winner": true
+        },
+        {
+          "name": "Andrés Manuel López Obrador",
+          "party": "prd",
+          "votes": 15848827,
+          "pct": 32.41
+        },
+        {
+          "name": "Josefina Vázquez Mota",
+          "party": "pan",
+          "votes": 12732630,
+          "pct": 26.03
+        },
+        {
+          "name": "Gabriel Quadri de la Torre",
+          "party": "panal",
+          "votes": 1146085,
+          "pct": 2.34
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 20625,
+          "pct": 0.04
+        }
+      ],
+      "notes": "Votes are coalition totals: Peña Nieto (Commitment to Mexico: PRI 16,354,938, PVEM 2,803,654) and López Obrador (Progressive Movement: PRD 11,122,251, PT 2,597,905, MC 2,128,671). Others: non-registered candidates. No region winners: the article hides its by-state table because it does not add up."
+    },
+    {
+      "id": "mx-chamber-2012",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2012-07-01",
+      "totalSeats": 500,
+      "turnout": 63,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2012_Mexican_general_election",
+        "revid": 1371061971
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 15960086,
+          "pct": 33.57,
+          "seats": 207,
+          "change": -30,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 12960875,
+          "pct": 27.26,
+          "seats": 114,
+          "change": -29
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 9194637,
+          "pct": 19.34,
+          "seats": 100,
+          "change": 29
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 3054718,
+          "pct": 6.42,
+          "seats": 34,
+          "change": 13
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 2294459,
+          "pct": 4.83,
+          "seats": 19,
+          "change": 6
+        },
+        {
+          "name": "Citizens' Movement",
+          "party": "mc",
+          "votes": 2000524,
+          "pct": 4.21,
+          "seats": 16,
+          "change": 10
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 2041608,
+          "pct": 4.29,
+          "seats": 10,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 41556,
+          "pct": 0.09,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others: non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-senate-2012",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2012-07-01",
+      "totalSeats": 128,
+      "turnout": 63.31,
+      "source": {
+        "name": "Wikipedia, citing Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2012_Mexican_general_election",
+        "revid": 1371061971
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 15673351,
+          "pct": 33,
+          "seats": 52,
+          "change": 19,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 13237212,
+          "pct": 27.87,
+          "seats": 38,
+          "change": -14
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 9351005,
+          "pct": 19.69,
+          "seats": 22,
+          "change": -4
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 2880080,
+          "pct": 6.06,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 2336826,
+          "pct": 4.92,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Citizens' Movement",
+          "party": "mc",
+          "votes": 2024528,
+          "pct": 4.26,
+          "seats": 2,
+          "change": -4
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1854678,
+          "pct": 3.91,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 131067,
+          "pct": 0.28,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "All 128 seats were elected; seats won. Votes and shares are the party-list vote; seats are district plus list seats (totals column). Others: non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-chamber-2015",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2015-06-07",
+      "totalSeats": 500,
+      "turnout": 47.72,
+      "source": {
+        "name": "Wikipedia, citing the Diario Oficial de la Federación and Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2015_Mexican_legislative_election",
+        "revid": 1372681724
+      },
+      "candidates": [
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 11636957,
+          "pct": 30.65,
+          "seats": 203,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 8377535,
+          "pct": 22.07,
+          "seats": 109,
+          "change": -5
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 4335321,
+          "pct": 11.42,
+          "seats": 55,
+          "change": -45
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 2757170,
+          "pct": 7.26,
+          "seats": 47,
+          "change": 13
+        },
+        {
+          "name": "Morena",
+          "party": "morena",
+          "votes": 3345712,
+          "pct": 8.81,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Citizens' Movement",
+          "party": "mc",
+          "votes": 2431063,
+          "pct": 6.4,
+          "seats": 25,
+          "change": 9
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1486626,
+          "pct": 3.92,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Social Encounter Party",
+          "party": "pes",
+          "votes": 1325032,
+          "pct": 3.49,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 1134101,
+          "pct": 2.99,
+          "seats": 6,
+          "change": -13
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 225029,
+          "pct": 0.59,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 856716,
+          "pct": 2.26,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 52371,
+          "pct": 0.14,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). One independent won a district seat. Others: non-registered candidates. Turnout is the list vote's."
+    },
+    {
+      "id": "mx-president-2018",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2018-07-01",
+      "turnout": 63.43,
+      "source": {
+        "name": "Wikipedia, citing the National Electoral Institute (INE)",
+        "url": "https://en.wikipedia.org/wiki/2018_Mexican_general_election",
+        "revid": 1375344701
+      },
+      "candidates": [
+        {
+          "name": "Andrés Manuel López Obrador",
+          "party": "morena",
+          "votes": 30113483,
+          "pct": 54.71,
+          "winner": true
+        },
+        {
+          "name": "Ricardo Anaya",
+          "party": "pan",
+          "votes": 12610120,
+          "pct": 22.91
+        },
+        {
+          "name": "José Antonio Meade",
+          "party": "pri",
+          "votes": 9289853,
+          "pct": 16.88
+        },
+        {
+          "name": "Jaime Rodríguez Calderón",
+          "party": "ind",
+          "votes": 2961732,
+          "pct": 5.38
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 64725,
+          "pct": 0.12
+        }
+      ],
+      "regionWinners": {
+        "AGU": "morena",
+        "BCN": "morena",
+        "BCS": "morena",
+        "CAM": "morena",
+        "COA": "morena",
+        "COL": "morena",
+        "CHP": "morena",
+        "CHH": "morena",
+        "DIF": "morena",
+        "DUR": "morena",
+        "GUA": "pan",
+        "GRO": "morena",
+        "HID": "morena",
+        "JAL": "morena",
+        "MEX": "morena",
+        "MIC": "morena",
+        "MOR": "morena",
+        "NAY": "morena",
+        "NLE": "morena",
+        "OAX": "morena",
+        "PUE": "morena",
+        "QUE": "morena",
+        "ROO": "morena",
+        "SLP": "morena",
+        "SIN": "morena",
+        "SON": "morena",
+        "TAB": "morena",
+        "TAM": "morena",
+        "TLA": "morena",
+        "VER": "morena",
+        "YUC": "morena",
+        "ZAC": "morena"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2018_Mexican_general_election",
+      "notes": "Votes are coalition totals: López Obrador (Juntos Haremos Historia: Morena, PT, PES), Anaya (Por México al Frente: PAN, PRD, MC), Meade (Todos por México: PRI, PVEM, PANAL). Rodríguez Calderón ran as an independent. Others: Margarita Zavala (independent who withdrew, 32,743) and non-registered candidates (31,982). Region winners from the article's by-state table."
+    },
+    {
+      "id": "mx-chamber-2018",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2018-07-01",
+      "totalSeats": 500,
+      "source": {
+        "name": "Wikipedia, citing the Diario Oficial de la Federación and Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2018_Mexican_general_election",
+        "revid": 1375344701
+      },
+      "candidates": [
+        {
+          "name": "Morena",
+          "party": "morena",
+          "votes": 20968859,
+          "pct": 38.8,
+          "seats": 191,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 10093012,
+          "pct": 18.68,
+          "seats": 81,
+          "change": null
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 2210988,
+          "pct": 4.09,
+          "seats": 61,
+          "change": null
+        },
+        {
+          "name": "Social Encounter Party",
+          "party": "pes",
+          "votes": 1353499,
+          "pct": 2.5,
+          "seats": 56,
+          "change": null
+        },
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 9307233,
+          "pct": 17.22,
+          "seats": 45,
+          "change": null
+        },
+        {
+          "name": "Citizens' Movement",
+          "party": "mc",
+          "votes": 2484185,
+          "pct": 4.6,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 2967452,
+          "pct": 5.49,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 2694654,
+          "pct": 4.99,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1390882,
+          "pct": 2.57,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 538964,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 32938,
+          "pct": 0.06,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Parties ran in three coalitions; seats are by party. Independents' share rounds to 1.00% in the table, so they are listed. The table has no seat changes and no electorate, so turnout is omitted."
+    },
+    {
+      "id": "mx-senate-2018",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2018-07-01",
+      "totalSeats": 128,
+      "source": {
+        "name": "Wikipedia, citing the Diario Oficial de la Federación and Election Resources on the Internet",
+        "url": "https://en.wikipedia.org/wiki/2018_Mexican_general_election",
+        "revid": 1375344701
+      },
+      "candidates": [
+        {
+          "name": "Morena",
+          "party": "morena",
+          "votes": 21256238,
+          "pct": 39.12,
+          "seats": 55,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 9969069,
+          "pct": 18.35,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 9011312,
+          "pct": 16.59,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 2982826,
+          "pct": 5.49,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Social Encounter Party",
+          "party": "pes",
+          "votes": 1320283,
+          "pct": 2.43,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Citizens' Movement",
+          "party": "mc",
+          "votes": 2654085,
+          "pct": 4.89,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 2527710,
+          "pct": 4.65,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 2164088,
+          "pct": 3.98,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "New Alliance Party",
+          "party": "panal",
+          "votes": 1306792,
+          "pct": 2.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1105624,
+          "pct": 2.04,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 31812,
+          "pct": 0.06,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "All 128 seats were elected; seats won. Votes and shares are the party-list vote; seats are district plus list seats (totals column). Parties ran in three coalitions; seats are by party. The table has no seat changes and no electorate, so turnout is omitted."
+    },
+    {
+      "id": "mx-chamber-2021",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2021-06-06",
+      "totalSeats": 500,
+      "turnout": 52.7,
+      "source": {
+        "name": "Wikipedia, citing the Diario Oficial de la Federación and the National Electoral Institute (INE)",
+        "url": "https://en.wikipedia.org/wiki/2021_Mexican_legislative_election",
+        "revid": 1375998794
+      },
+      "candidates": [
+        {
+          "name": "Morena",
+          "party": "morena",
+          "votes": 16756189,
+          "pct": 35.3,
+          "seats": 198,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "National Action Party",
+          "party": "pan",
+          "votes": 8967785,
+          "pct": 18.89,
+          "seats": 114,
+          "change": 33
+        },
+        {
+          "name": "Institutional Revolutionary Party",
+          "party": "pri",
+          "votes": 8715191,
+          "pct": 18.36,
+          "seats": 70,
+          "change": 25
+        },
+        {
+          "name": "Ecologist Green Party of Mexico",
+          "party": "pvem",
+          "votes": 2670677,
+          "pct": 5.63,
+          "seats": 43,
+          "change": 27
+        },
+        {
+          "name": "Labor Party",
+          "party": "pt",
+          "votes": 1594635,
+          "pct": 3.36,
+          "seats": 37,
+          "change": -24
+        },
+        {
+          "name": "Citizens' Movement",
+          "party": "mc",
+          "votes": 3449804,
+          "pct": 7.27,
+          "seats": 23,
+          "change": -4
+        },
+        {
+          "name": "Party of the Democratic Revolution",
+          "party": "prd",
+          "votes": 1792348,
+          "pct": 3.78,
+          "seats": 15,
+          "change": -6
+        },
+        {
+          "name": "Solidarity Encounter Party",
+          "party": "pes2020",
+          "votes": 1352388,
+          "pct": 2.85,
+          "seats": 0,
+          "change": -56
+        },
+        {
+          "name": "Force for Mexico",
+          "party": "fxm",
+          "votes": 1216780,
+          "pct": 2.56,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Progressive Social Networks",
+          "party": "rsp",
+          "votes": 868444,
+          "pct": 1.83,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 86236,
+          "pct": 0.18,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes and shares are the party-list vote; seats are district plus list seats (totals column). Turnout of 52.7% as stated in the article; the table has no electorate. Solidarity Encounter Party's −56 is the table's change against the 2018 Social Encounter Party. Others: independents and non-registered candidates."
+    }
+  ]
+}

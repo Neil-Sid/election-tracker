@@ -1,0 +1,2356 @@
+{
+  "code": "CA",
+  "parties": {
+    "pc": {
+      "name": "Progressive Conservative",
+      "color": "#9999FF",
+      "article": "Progressive Conservative Party of Canada"
+    },
+    "ccf": {
+      "name": "Co-operative Commonwealth Federation",
+      "color": "#EEDDAA",
+      "article": "Co-operative Commonwealth Federation"
+    },
+    "sc": {
+      "name": "Social Credit",
+      "color": "#90EE90",
+      "article": "Social Credit Party of Canada"
+    },
+    "rc": {
+      "name": "Ralliement créditiste",
+      "color": "#228B22",
+      "article": "Ralliement créditiste"
+    },
+    "ue": {
+      "name": "Union of Electors",
+      "color": "#00A86B",
+      "article": "Union of Electors"
+    },
+    "ref": {
+      "name": "Reform",
+      "color": "#3CB371",
+      "article": "Reform Party of Canada"
+    },
+    "ca": {
+      "name": "Canadian Alliance",
+      "color": "#6B8E23",
+      "article": "Canadian Alliance"
+    },
+    "liblab": {
+      "name": "Liberal–Labour",
+      "color": "#EA6D6A",
+      "article": "Liberal-Labour (Canada)"
+    },
+    "libprog": {
+      "name": "Liberal–Progressive",
+      "color": "#66CC00",
+      "article": "Liberal-Progressive"
+    },
+    "lpp": {
+      "name": "Labor–Progressive",
+      "color": "#A0522D",
+      "article": "Labor-Progressive Party"
+    },
+    "rhino": {
+      "name": "Rhinoceros",
+      "color": "#DA70D6",
+      "article": "Rhinoceros Party of Canada (1963–1993)"
+    },
+    "natl": {
+      "name": "National Party",
+      "color": "#DAA520",
+      "article": "National Party of Canada"
+    },
+    "ppc": {
+      "name": "People's Party",
+      "color": "#6F5D9A",
+      "article": "People's Party of Canada"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "ca-house-1949",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1949-06-27",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 262,
+      "turnout": 73.8,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1949_Canadian_federal_election",
+        "revid": 1366509410
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 2874813,
+          "pct": 49.15,
+          "seats": 191,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 1734261,
+          "pct": 29.65,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Co-operative Commonwealth Federation",
+          "party": "ccf",
+          "votes": 784770,
+          "pct": 13.42,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 135217,
+          "pct": 2.31,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 163027,
+          "pct": 2.79,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Liberal–Labour",
+          "party": "liblab",
+          "votes": 11730,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Liberal–Progressive",
+          "party": "libprog",
+          "votes": 9192,
+          "pct": 0.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Union of Electors",
+          "party": "ue",
+          "votes": 86087,
+          "pct": 1.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 50054,
+          "pct": 0.86,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (4 seats), Independent Liberal (1 seat), Independent PC (0 seats), Independent Social Credit (0 seats) rows. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time. The table has one combined column for the territories (1 seat, Liberal), so YT and NT are listed as voting without a winner.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "lpc",
+        "AB": "sc",
+        "SK": "lpc",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1949_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1953",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1953-08-10",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 265,
+      "turnout": 67.5,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1953_Canadian_federal_election",
+        "revid": 1366509298
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 2731633,
+          "pct": 48.43,
+          "seats": 169,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 1749579,
+          "pct": 31.02,
+          "seats": 51,
+          "change": null
+        },
+        {
+          "name": "Co-operative Commonwealth Federation",
+          "party": "ccf",
+          "votes": 636310,
+          "pct": 11.28,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 304553,
+          "pct": 5.4,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 129022,
+          "pct": 2.29,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Liberal–Labour",
+          "party": "liblab",
+          "votes": 11380,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Liberal–Progressive",
+          "party": "libprog",
+          "votes": 8958,
+          "pct": 0.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Labor–Progressive",
+          "party": "lpp",
+          "votes": 59622,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 9881,
+          "pct": 0.18,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (3 seats), Independent Liberal (2 seats), Independent Progressive Conservative (0 seats), Independent Social Credit (0 seats) rows. The table notes that the Liberal–Labour MP sat with the Liberal caucus. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "lpc",
+        "AB": "sc",
+        "SK": "ccf",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NT": "lpc",
+        "YT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1953_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1957",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1957-06-10",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 265,
+      "turnout": 74.1,
+      "source": {
+        "name": "Wikipedia, citing Meisel, The Canadian General Election of 1957 (University of Toronto Press, 1962)",
+        "url": "https://en.wikipedia.org/wiki/1957_Canadian_federal_election",
+        "revid": 1370749021
+      },
+      "candidates": [
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2572926,
+          "pct": 38.93,
+          "seats": 112,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 2702573,
+          "pct": 40.89,
+          "seats": 105,
+          "change": null
+        },
+        {
+          "name": "Co-operative Commonwealth Federation",
+          "party": "ccf",
+          "votes": 707659,
+          "pct": 10.71,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 437049,
+          "pct": 6.61,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 188510,
+          "pct": 2.85,
+          "seats": 4,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. The table lumps every party other than the four largest into one \"Other\" row (66 candidates, 188,510 votes, 4 seats), shown here as Others; a note under the table says those 4 seats were 2 Independents, 1 Independent Liberal and 1 Independent PC, and that one Liberal–Labour candidate was elected and sat with the Liberal caucus. The table's percentages are shares of all ballots including 74,710 rejected ballots, so pct is recomputed here from the votes over the five party rows (6,608,717); those rows add up to 2,737 more than the table's total minus rejected ballots (6,605,980). Turnout is the article's figure (74.1% of eligible voters). Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: BC (PC 7 seats, 32.5% vs CCF 7 seats, 22.6%); NB (PC 5 seats, 48.1% vs Liberal 5 seats, 47.5%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "pc",
+        "AB": "sc",
+        "SK": "ccf",
+        "MB": "pc",
+        "ON": "pc",
+        "QC": "lpc",
+        "NB": "pc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "NT": "lpc",
+        "YT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1957_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1958",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1958-03-31",
+      "note": "Voting age 21, Indigenous vote restricted",
+      "totalSeats": 265,
+      "turnout": 79.4,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1958_Canadian_federal_election",
+        "revid": 1366509068
+      },
+      "candidates": [
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 3908633,
+          "pct": 53.66,
+          "seats": 208,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 2432953,
+          "pct": 33.4,
+          "seats": 48,
+          "change": null
+        },
+        {
+          "name": "Co-operative Commonwealth Federation",
+          "party": "ccf",
+          "votes": 692668,
+          "pct": 9.51,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Liberal–Labour",
+          "party": "liblab",
+          "votes": 11956,
+          "pct": 0.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 188356,
+          "pct": 2.59,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 28845,
+          "pct": 0.4,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21056,
+          "pct": 0.29,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (0 seats), Independent Liberal (0 seats), Independent PC (0 seats), Independent SC (0 seats), Independent Conservative (0 seats) rows, listed because together they had held 5 seats after the previous election. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "pc",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "pc",
+        "QC": "pc",
+        "NB": "pc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "YT": "pc",
+        "NT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1958_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1962",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1962-06-18",
+      "note": "Voting age 21",
+      "totalSeats": 265,
+      "turnout": 79,
+      "source": {
+        "name": "Wikipedia, citing the Government of Canada open data set History of the Federal Electoral Ridings, 1867–2010",
+        "url": "https://en.wikipedia.org/wiki/1962_Canadian_federal_election",
+        "revid": 1369630394
+      },
+      "candidates": [
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2865542,
+          "pct": 37.22,
+          "seats": 116,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 2846589,
+          "pct": 36.97,
+          "seats": 99,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 894931,
+          "pct": 11.62,
+          "seats": 30,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1044754,
+          "pct": 13.57,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Liberal–Labour",
+          "party": "liblab",
+          "votes": 15412,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 32727,
+          "pct": 0.43,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. The table's results include the Stormont riding, whose vote was delayed to 16 July 1962 after the death of the Liberal candidate. Its party rows add up to 7,699,955 votes, 54 more than its Total row (7,699,901); Others' share uses the Total row. The NDP's and the Communists' changes in the table are against the CCF and the Labor–Progressive Party. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ndp",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "NT": "lpc",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1962_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1963",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1963-04-08",
+      "note": "Voting age 21",
+      "totalSeats": 265,
+      "turnout": 79.2,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1963_Canadian_federal_election",
+        "revid": 1375672112
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 3276996,
+          "pct": 41.48,
+          "seats": 128,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2591613,
+          "pct": 32.8,
+          "seats": 95,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 940703,
+          "pct": 11.91,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1044701,
+          "pct": 13.22,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Liberal–Labour",
+          "party": "liblab",
+          "votes": 16794,
+          "pct": 0.21,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 30112,
+          "pct": 0.38,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: PE (PC 2 seats, 52.0% vs Liberal 2 seats, 46.4%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ndp",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "YT": "pc",
+        "NT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1963_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1965",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1965-11-08",
+      "note": "Voting age 21",
+      "totalSeats": 265,
+      "turnout": 74.8,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1965_Canadian_federal_election",
+        "revid": 1350750106
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 3099521,
+          "pct": 40.18,
+          "seats": 131,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2500113,
+          "pct": 32.41,
+          "seats": 97,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1381658,
+          "pct": 17.91,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Ralliement créditiste",
+          "party": "rc",
+          "votes": 359258,
+          "pct": 4.66,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 282454,
+          "pct": 3.66,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 82886,
+          "pct": 1.07,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7448,
+          "pct": 0.1,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (1 seat), Independent PC (1 seat), Independent Liberal (0 seats), Independent Social Credit (0 seats), Independent Conservative (0 seats) rows. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ndp",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "YT": "pc",
+        "NT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1965_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1968",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1968-06-25",
+      "note": "Voting age 21",
+      "totalSeats": 264,
+      "turnout": 75.7,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1968_Canadian_federal_election",
+        "revid": 1368760885
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 3686801,
+          "pct": 45.37,
+          "seats": 154,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2554397,
+          "pct": 31.43,
+          "seats": 72,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1378263,
+          "pct": 16.96,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Ralliement créditiste",
+          "party": "rc",
+          "votes": 360404,
+          "pct": 4.43,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 56722,
+          "pct": 0.7,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Liberal–Labour",
+          "party": "liblab",
+          "votes": 10144,
+          "pct": 0.12,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 68742,
+          "pct": 0.85,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 11295,
+          "pct": 0.14,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (1 seat), Independent Liberal (0 seats), Independent PC (0 seats), Independent Conservative (0 seats) rows. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: MB (Liberal 5 seats, 41.5% vs PC 5 seats, 31.4%); NB (PC 5 seats, 49.7% vs Liberal 5 seats, 44.4%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "lpc",
+        "AB": "pc",
+        "SK": "ndp",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "pc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "pc",
+        "NT": "lpc",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1968_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1972",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1972-10-30",
+      "totalSeats": 264,
+      "turnout": 76.7,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1972_Canadian_federal_election",
+        "revid": 1342578892
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 3717804,
+          "pct": 38.42,
+          "seats": 109,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 3388980,
+          "pct": 35.02,
+          "seats": 107,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1725719,
+          "pct": 17.83,
+          "seats": 31,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 730759,
+          "pct": 7.55,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 80623,
+          "pct": 0.83,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 33578,
+          "pct": 0.35,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (1 seat), No affiliation (1 seat) rows. The table notes that the Independent seat was Roch LaSalle (elected in 1968 as a Progressive Conservative) and the no-affiliation seat was the Speaker, Lucien Lamoureux; the Social Credit row includes the former Ralliement créditiste. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: NB (PC 5 seats, 46.8% vs Liberal 5 seats, 43.1%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ndp",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "pc",
+        "QC": "lpc",
+        "NB": "pc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "pc",
+        "NT": "ndp",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1972_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1974",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1974-07-08",
+      "totalSeats": 264,
+      "turnout": 71,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1974_Canadian_federal_election",
+        "revid": 1342578986
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4102853,
+          "pct": 43.15,
+          "seats": 141,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 3371319,
+          "pct": 35.46,
+          "seats": 95,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1467748,
+          "pct": 15.44,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 481231,
+          "pct": 5.06,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 39296,
+          "pct": 0.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 45485,
+          "pct": 0.48,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (1 seat), No affiliation (0 seats) rows. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "pc",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "NT": "ndp",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1974_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1979",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1979-05-22",
+      "totalSeats": 282,
+      "turnout": 75.7,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1979_Canadian_federal_election",
+        "revid": 1354347576
+      },
+      "candidates": [
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 4111606,
+          "pct": 35.89,
+          "seats": 136,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4595319,
+          "pct": 40.11,
+          "seats": 114,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2048988,
+          "pct": 17.88,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 527604,
+          "pct": 4.61,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 173491,
+          "pct": 1.51,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time. The Northwest Territories' 2 seats were split PC 1, NDP 1; the territory then included today's Nunavut, so NT is listed as voting without a winner.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "pc",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "pc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "lpc",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1979_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1980",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1980-02-18",
+      "totalSeats": 282,
+      "turnout": 69.3,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1980_Canadian_federal_election",
+        "revid": 1359121884
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4855425,
+          "pct": 44.34,
+          "seats": 147,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 3552994,
+          "pct": 32.45,
+          "seats": 103,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2165087,
+          "pct": 19.77,
+          "seats": 32,
+          "change": null
+        },
+        {
+          "name": "Social Credit",
+          "party": "sc",
+          "votes": 185486,
+          "pct": 1.7,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Rhinoceros",
+          "party": "rhino",
+          "votes": 110597,
+          "pct": 1.01,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 79947,
+          "pct": 0.73,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: SK (PC 7 seats, 38.9% vs NDP 7 seats, 36.3%); PE (Liberal 2 seats, 46.8% vs PC 2 seats, 46.3%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time. The Northwest Territories' 2 seats were split PC 1, NDP 1; the territory then included today's Nunavut, so NT is listed as voting without a winner.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "pc",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "ndp",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "pc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1980_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1984",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1984-09-04",
+      "totalSeats": 282,
+      "turnout": 75.3,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/1984_Canadian_federal_election",
+        "revid": 1365895400
+      },
+      "candidates": [
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 6278818,
+          "pct": 50.03,
+          "seats": 211,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 3516486,
+          "pct": 28.02,
+          "seats": 40,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2359915,
+          "pct": 18.81,
+          "seats": 30,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 61365,
+          "pct": 0.49,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 332278,
+          "pct": 2.65,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's No affiliation (1 seat), Independent (0 seats) rows. The no-affiliation seat was Tony Roman, elected in York North as a \"coalition candidate\" (table note). Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "pc",
+        "AB": "pc",
+        "SK": "pc",
+        "MB": "pc",
+        "ON": "pc",
+        "QC": "pc",
+        "NB": "pc",
+        "NS": "pc",
+        "PE": "pc",
+        "NL": "pc",
+        "NT": "pc",
+        "YT": "pc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1984_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1988",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1988-11-21",
+      "totalSeats": 295,
+      "turnout": 75.3,
+      "source": {
+        "name": "Wikipedia (the results table has no inline citation)",
+        "url": "https://en.wikipedia.org/wiki/1988_Canadian_federal_election",
+        "revid": 1371960513
+      },
+      "candidates": [
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 5667543,
+          "pct": 43.02,
+          "seats": 169,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4205072,
+          "pct": 31.92,
+          "seats": 83,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2685263,
+          "pct": 20.38,
+          "seats": 43,
+          "change": null
+        },
+        {
+          "name": "Reform",
+          "party": "ref",
+          "votes": 275767,
+          "pct": 2.09,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 341849,
+          "pct": 2.59,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: NB (Liberal 5 seats, 45.4% vs PC 5 seats, 40.4%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ndp",
+        "AB": "pc",
+        "SK": "ndp",
+        "MB": "pc",
+        "ON": "pc",
+        "QC": "pc",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NT": "lpc",
+        "YT": "ndp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1988_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1993",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1993-10-25",
+      "totalSeats": 295,
+      "turnout": 69.6,
+      "source": {
+        "name": "Wikipedia, citing the Government of Canada Canadian Elections Database",
+        "url": "https://en.wikipedia.org/wiki/1993_Canadian_federal_election",
+        "revid": 1368760822
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 5647952,
+          "pct": 41.24,
+          "seats": 177,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1846024,
+          "pct": 13.52,
+          "seats": 54,
+          "change": null
+        },
+        {
+          "name": "Reform",
+          "party": "ref",
+          "votes": 2559245,
+          "pct": 18.69,
+          "seats": 52,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 939575,
+          "pct": 6.88,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2186422,
+          "pct": 16.04,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 109393,
+          "pct": 0.8,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Party",
+          "party": "natl",
+          "votes": 187251,
+          "pct": 1.38,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 191809,
+          "pct": 1.4,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Independents combines the table's Independent (1 seat), No affiliation (0 seats) rows. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: SK (Liberal 5 seats, 32.1% vs NDP 5 seats, 26.6%). Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ref",
+        "AB": "ref",
+        "SK": "lpc",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "bq",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NT": "lpc",
+        "YT": "ndp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1993_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-1997",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1997-06-02",
+      "totalSeats": 301,
+      "turnout": 67,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/1997_Canadian_federal_election",
+        "revid": 1349460852
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4994277,
+          "pct": 38.46,
+          "seats": 155,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Reform",
+          "party": "ref",
+          "votes": 2513080,
+          "pct": 19.35,
+          "seats": 60,
+          "change": null
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1385821,
+          "pct": 10.67,
+          "seats": 44,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1434509,
+          "pct": 11.05,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 2446705,
+          "pct": 18.84,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 60759,
+          "pct": 0.47,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 150723,
+          "pct": 1.16,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table. Nunavut was part of the Northwest Territories until 1999, so it is left out and NT stands for the whole Northwest Territories of the time.",
+      "voted": [
+        "ON",
+        "QC",
+        "BC",
+        "AB",
+        "MB",
+        "SK",
+        "NS",
+        "NB",
+        "NL",
+        "PE",
+        "NT",
+        "YT"
+      ],
+      "regionWinners": {
+        "BC": "ref",
+        "AB": "ref",
+        "SK": "ref",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "bq",
+        "NB": "pc",
+        "NS": "ndp",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NT": "lpc",
+        "YT": "ndp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1997_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2000",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2000-11-27",
+      "totalSeats": 301,
+      "turnout": 64.1,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada and the Library of Parliament (History of Federal Ridings since 1867)",
+        "url": "https://en.wikipedia.org/wiki/2000_Canadian_federal_election",
+        "revid": 1369130787
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 5252031,
+          "pct": 40.85,
+          "seats": 172,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Canadian Alliance",
+          "party": "ca",
+          "votes": 3276929,
+          "pct": 25.49,
+          "seats": 66,
+          "change": null
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1377727,
+          "pct": 10.72,
+          "seats": 38,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 1093868,
+          "pct": 8.51,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Progressive Conservative",
+          "party": "pc",
+          "votes": 1566998,
+          "pct": 12.19,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 290220,
+          "pct": 2.26,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: NS (Liberal 4 seats, 36.5% vs PC 4 seats, 29.1%).",
+      "regionWinners": {
+        "BC": "ca",
+        "AB": "ca",
+        "SK": "ca",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "bq",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NU": "lpc",
+        "NT": "lpc",
+        "YT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2000_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2004",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2004-06-28",
+      "totalSeats": 308,
+      "turnout": 60.91,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/2004_Canadian_federal_election",
+        "revid": 1378787947
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4982220,
+          "pct": 36.73,
+          "seats": 135,
+          "change": -37,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 4019498,
+          "pct": 29.63,
+          "seats": 99,
+          "change": 21
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1680109,
+          "pct": 12.39,
+          "seats": 54,
+          "change": 16
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2127403,
+          "pct": 15.68,
+          "seats": 19,
+          "change": 6
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 64864,
+          "pct": 0.48,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 582247,
+          "pct": 4.29,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 108361,
+          "pct": 0.8,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table compares the new Conservative Party's seats with the combined Canadian Alliance and Progressive Conservative total of 2000. Region winners: most seats in each province and territory, from the article's results-by-province table.",
+      "regionWinners": {
+        "BC": "cpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "cpc",
+        "ON": "lpc",
+        "QC": "bq",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NU": "lpc",
+        "NT": "lpc",
+        "YT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2004_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2006",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2006-01-23",
+      "totalSeats": 308,
+      "turnout": 64.67,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/2006_Canadian_federal_election",
+        "revid": 1378782798
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 5374071,
+          "pct": 36.27,
+          "seats": 124,
+          "change": 25,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 4479415,
+          "pct": 30.23,
+          "seats": 103,
+          "change": -32
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1553201,
+          "pct": 10.48,
+          "seats": 51,
+          "change": -3
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2589597,
+          "pct": 17.48,
+          "seats": 29,
+          "change": 10
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 81860,
+          "pct": 0.55,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 664068,
+          "pct": 4.48,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 74947,
+          "pct": 0.51,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Region winners: most seats in each province and territory, from the article's results-by-province table.",
+      "regionWinners": {
+        "BC": "cpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "cpc",
+        "ON": "lpc",
+        "QC": "bq",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NU": "lpc",
+        "NT": "ndp",
+        "YT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2006_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2008",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2008-10-14",
+      "totalSeats": 308,
+      "turnout": 58.83,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/2008_Canadian_federal_election",
+        "revid": 1378785323
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 5209069,
+          "pct": 37.65,
+          "seats": 143,
+          "change": 19,
+          "winner": true
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 3633185,
+          "pct": 26.26,
+          "seats": 77,
+          "change": -26
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1379991,
+          "pct": 9.98,
+          "seats": 49,
+          "change": -2
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2515288,
+          "pct": 18.18,
+          "seats": 37,
+          "change": 8
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 94844,
+          "pct": 0.69,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 937613,
+          "pct": 6.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 64304,
+          "pct": 0.46,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Region winners: most seats in each province and territory, from the article's results-by-province table.",
+      "regionWinners": {
+        "BC": "cpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "cpc",
+        "ON": "cpc",
+        "QC": "bq",
+        "NB": "cpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "NU": "cpc",
+        "NT": "ndp",
+        "YT": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2008_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2011",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2011-05-02",
+      "totalSeats": 308,
+      "turnout": 61.1,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/2011_Canadian_federal_election",
+        "revid": 1378790978
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 5835270,
+          "pct": 39.63,
+          "seats": 166,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 4512411,
+          "pct": 30.65,
+          "seats": 103,
+          "change": null
+        },
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 2783076,
+          "pct": 18.9,
+          "seats": 34,
+          "change": null
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 891425,
+          "pct": 6.05,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 572095,
+          "pct": 3.89,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 129703,
+          "pct": 0.88,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table; seat ties are broken by the province's popular vote in the same table: NS (Conservative 4 seats, 36.7% vs Liberal 4 seats, 28.9%).",
+      "regionWinners": {
+        "BC": "cpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "cpc",
+        "ON": "cpc",
+        "QC": "ndp",
+        "NB": "cpc",
+        "NS": "cpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "YT": "cpc",
+        "NT": "ndp",
+        "NU": "cpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2011_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2015",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2015-10-19",
+      "totalSeats": 338,
+      "turnout": 68.3,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/2015_Canadian_federal_election",
+        "revid": 1373295637
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 6942937,
+          "pct": 39.47,
+          "seats": 184,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 5613633,
+          "pct": 31.91,
+          "seats": 99,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 3469368,
+          "pct": 19.72,
+          "seats": 44,
+          "change": null
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 821144,
+          "pct": 4.67,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 602933,
+          "pct": 3.43,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 141453,
+          "pct": 0.8,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table.",
+      "regionWinners": {
+        "BC": "lpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "lpc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "YT": "lpc",
+        "NT": "lpc",
+        "NU": "lpc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2015_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2019",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2019-10-21",
+      "totalSeats": 338,
+      "turnout": 67.03,
+      "source": {
+        "name": "Wikipedia, citing Elections Canada",
+        "url": "https://en.wikipedia.org/wiki/2019_Canadian_federal_election",
+        "revid": 1376932003
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 6018728,
+          "pct": 33.12,
+          "seats": 157,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 6239227,
+          "pct": 34.34,
+          "seats": 121,
+          "change": null
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1387030,
+          "pct": 7.63,
+          "seats": 32,
+          "change": null
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 2903722,
+          "pct": 15.98,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 1189607,
+          "pct": 6.55,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 74291,
+          "pct": 0.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "People's Party",
+          "party": "ppc",
+          "votes": 294092,
+          "pct": 1.62,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 64183,
+          "pct": 0.35,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is null: the results table gives only the percentage change in seats. Region winners: most seats in each province and territory, from the article's results-by-province table.",
+      "regionWinners": {
+        "BC": "cpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "cpc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "YT": "lpc",
+        "NT": "lpc",
+        "NU": "ndp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2019_Canadian_federal_election"
+    },
+    {
+      "id": "ca-house-2021",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2021-09-20",
+      "totalSeats": 338,
+      "turnout": 62.89,
+      "source": {
+        "name": "Wikipedia, citing the House of Commons and Elections Canada (validated and judicial recount results)",
+        "url": "https://en.wikipedia.org/wiki/2021_Canadian_federal_election",
+        "revid": 1370497040
+      },
+      "candidates": [
+        {
+          "name": "Liberal",
+          "party": "lpc",
+          "votes": 5556629,
+          "pct": 32.62,
+          "seats": 160,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "cpc",
+          "votes": 5747410,
+          "pct": 33.74,
+          "seats": 119,
+          "change": -2
+        },
+        {
+          "name": "Bloc Québécois",
+          "party": "bq",
+          "votes": 1301615,
+          "pct": 7.64,
+          "seats": 32,
+          "change": 0
+        },
+        {
+          "name": "New Democratic",
+          "party": "ndp",
+          "votes": 3036348,
+          "pct": 17.82,
+          "seats": 25,
+          "change": 1
+        },
+        {
+          "name": "Green",
+          "party": "gpc",
+          "votes": 396988,
+          "pct": 2.33,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "People's Party",
+          "party": "ppc",
+          "votes": 840993,
+          "pct": 4.94,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 154260,
+          "pct": 0.91,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Turnout is the results table's figure (17,209,811 ballots of 27,366,297 electors); the infobox gives 62.3%. Region winners: most seats in each province and territory, from the article's results-by-province table.",
+      "regionWinners": {
+        "BC": "lpc",
+        "AB": "cpc",
+        "SK": "cpc",
+        "MB": "cpc",
+        "ON": "lpc",
+        "QC": "lpc",
+        "NB": "lpc",
+        "NS": "lpc",
+        "PE": "lpc",
+        "NL": "lpc",
+        "YT": "lpc",
+        "NT": "lpc",
+        "NU": "ndp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2021_Canadian_federal_election"
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "atlasId": "840",
+      "marker": [
+        -98.5,
+        39.5
+      ],
+      "view": {
+        "center": [
+          -97,
+          39
+        ],
+        "span": 22
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "districtTerm": [
+        "district",
+        "districts"
+      ],
+      "history": true
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "atlasId": "124",
+      "marker": [
+        -98,
+        58
+      ],
+      "view": {
+        "center": [
+          -97,
+          58
+        ],
+        "span": 24
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "districtTerm": [
+        "riding",
+        "ridings"
+      ],
+      "history": true
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "atlasId": "076",
+      "marker": [
+        -52,
+        -11
+      ],
+      "view": {
+        "center": [
+          -53,
+          -14
+        ],
+        "span": 20
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "history": true
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "atlasId": "032",
+      "marker": [
+        -65,
+        -36
+      ],
+      "view": {
+        "center": [
+          -64,
+          -39
+        ],
+        "span": 17
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "atlasId": "826",
+      "marker": [
+        -1.8,
+        53.5
+      ],
+      "view": {
+        "center": [
+          -3,
+          54.8
+        ],
+        "span": 5.6
+      },
+      "regionTerm": [
+        "nation",
+        "nations"
+      ],
+      "districtTerm": [
+        "constituency",
+        "constituencies"
+      ],
+      "history": true
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "atlasId": "724",
+      "marker": [
+        -3.6,
+        40.2
+      ],
+      "view": {
+        "center": [
+          -3.6,
+          40.2
+        ],
+        "span": 5.2
+      },
+      "regionTerm": [
+        "community",
+        "communities"
+      ],
+      "history": true
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "atlasId": "250",
+      "marker": [
+        2.5,
+        46.8
+      ],
+      "view": {
+        "center": [
+          2.4,
+          46.6
+        ],
+        "span": 5.4
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "districtTerm": [
+        "constituency",
+        "constituencies"
+      ],
+      "history": true
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "atlasId": "276",
+      "marker": [
+        10.4,
+        51.2
+      ],
+      "view": {
+        "center": [
+          10.4,
+          51.2
+        ],
+        "span": 4.4
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "districtTerm": [
+        "constituency",
+        "constituencies"
+      ],
+      "history": true
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "atlasId": "036",
+      "marker": [
+        134,
+        -25.5
+      ],
+      "view": {
+        "center": [
+          134,
+          -27.5
+        ],
+        "span": 20
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "districtTerm": [
+        "division",
+        "divisions"
+      ],
+      "history": true
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "atlasId": "356",
+      "marker": [
+        79,
+        22
+      ],
+      "view": {
+        "center": [
+          80,
+          22.5
+        ],
+        "span": 15
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "districtTerm": [
+        "constituency",
+        "constituencies"
+      ],
+      "history": true
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "atlasId": "392",
+      "marker": [
+        138,
+        36.5
+      ],
+      "view": {
+        "center": [
+          137.5,
+          37.5
+        ],
+        "span": 10.5
+      },
+      "regionTerm": [
+        "prefecture",
+        "prefectures"
+      ],
+      "districtTerm": [
+        "district",
+        "districts"
+      ],
+      "history": true
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "atlasId": "484",
+      "marker": [
+        -102,
+        23.5
+      ],
+      "view": {
+        "center": [
+          -102,
+          23.5
+        ],
+        "span": 14
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "history": true
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "atlasId": "380",
+      "marker": [
+        12.5,
+        42.5
+      ],
+      "view": {
+        "center": [
+          12.5,
+          41.9
+        ],
+        "span": 6.4
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "atlasId": "410",
+      "marker": [
+        127.8,
+        36.4
+      ],
+      "view": {
+        "center": [
+          127.8,
+          36.2
+        ],
+        "span": 3.4
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "atlasId": "360",
+      "marker": [
+        117,
+        -2.5
+      ],
+      "view": {
+        "center": [
+          118,
+          -2.5
+        ],
+        "span": 24
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "atlasId": "710",
+      "marker": [
+        25,
+        -29
+      ],
+      "view": {
+        "center": [
+          25,
+          -29
+        ],
+        "span": 9
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "atlasId": "792",
+      "marker": [
+        35,
+        39
+      ],
+      "view": {
+        "center": [
+          35.2,
+          39
+        ],
+        "span": 9.5
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "atlasId": "616",
+      "marker": [
+        19.4,
+        52
+      ],
+      "view": {
+        "center": [
+          19.4,
+          52
+        ],
+        "span": 4.6
+      },
+      "regionTerm": [
+        "voivodeship",
+        "voivodeships"
+      ],
+      "history": true
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "atlasId": "528",
+      "marker": [
+        5.5,
+        52.2
+      ],
+      "view": {
+        "center": [
+          5.4,
+          52.2
+        ],
+        "span": 1.9
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "atlasId": "040",
+      "marker": [
+        14.4,
+        47.6
+      ],
+      "view": {
+        "center": [
+          13.3,
+          47.6
+        ],
+        "span": 2.6
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "history": true
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "atlasId": "620",
+      "marker": [
+        -8.2,
+        39.6
+      ],
+      "view": {
+        "center": [
+          -8.1,
+          39.6
+        ],
+        "span": 3.3
+      },
+      "regionTerm": [
+        "district",
+        "districts"
+      ],
+      "history": true
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "atlasId": "752",
+      "marker": [
+        16,
+        62.5
+      ],
+      "view": {
+        "center": [
+          17,
+          62.6
+        ],
+        "span": 7.6
+      },
+      "regionTerm": [
+        "county",
+        "counties"
+      ],
+      "history": true
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "atlasId": "372",
+      "marker": [
+        -8,
+        53.2
+      ],
+      "view": {
+        "center": [
+          -8,
+          53.4
+        ],
+        "span": 2.6
+      },
+      "regionTerm": [
+        "constituency",
+        "constituencies"
+      ],
+      "history": true
+    }
+  ]
+}

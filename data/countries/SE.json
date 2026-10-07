@@ -1,0 +1,322 @@
+{
+  "code": "SE",
+  "name": "Sweden",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Riksdag (349)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 7770000,
+    "offices": {
+      "Riksdag": "349 seats: 310 shared out in 29 constituencies and 39 adjustment seats that make the result proportional nationally. Parties need 4% nationally or 12% in a constituency. Elections are every four years."
+    }
+  },
+  "parties": {
+    "s": {
+      "name": "Social Democrats",
+      "color": "#E8112D"
+    },
+    "sd": {
+      "name": "Sweden Democrats",
+      "color": "#DDDD00"
+    },
+    "m": {
+      "name": "Moderates",
+      "color": "#52BDEC"
+    },
+    "v": {
+      "name": "Left Party",
+      "color": "#8B0000"
+    },
+    "c": {
+      "name": "Centre Party",
+      "color": "#009933"
+    },
+    "kd": {
+      "name": "Christian Democrats",
+      "color": "#000077"
+    },
+    "mp": {
+      "name": "Green Party",
+      "color": "#83CF39"
+    },
+    "l": {
+      "name": "Liberals",
+      "color": "#006AB3"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "se-riksdag-2026",
+      "office": "Riksdag",
+      "kind": "legislative",
+      "date": "2026-09-13",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 84.9,
+      "cite": {
+        "name": "the Election Authority",
+        "url": "https://en.wikipedia.org/wiki/2026_Swedish_general_election"
+      },
+      "system": "349 seats, open-list proportional with a 4% threshold",
+      "totalSeats": 349,
+      "majority": 175,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Social Democrats",
+          "party": "s",
+          "pct": 28.03,
+          "seats": 99,
+          "votes": 1895989,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Moderates",
+          "party": "m",
+          "pct": 19.86,
+          "seats": 70,
+          "votes": 1343448,
+          "change": 2
+        },
+        {
+          "name": "Sweden Democrats",
+          "party": "sd",
+          "pct": 17.5,
+          "seats": 62,
+          "votes": 1183248,
+          "change": -11
+        },
+        {
+          "name": "Left Party",
+          "party": "v",
+          "pct": 8.41,
+          "seats": 30,
+          "votes": 568781,
+          "change": 6
+        },
+        {
+          "name": "Centre Party",
+          "party": "c",
+          "pct": 7.04,
+          "seats": 25,
+          "votes": 475780,
+          "change": 1
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "pct": 6.17,
+          "seats": 22,
+          "votes": 417490,
+          "change": 3
+        },
+        {
+          "name": "Green Party",
+          "party": "mp",
+          "pct": 6.13,
+          "seats": 22,
+          "votes": 414307,
+          "change": 4
+        },
+        {
+          "name": "Liberals",
+          "party": "l",
+          "pct": 5.34,
+          "seats": 19,
+          "votes": 361187,
+          "change": 3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 1.52,
+          "seats": 0,
+          "votes": 102729,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Blekinge","abbr":"K","winner":"s","margin":27.6,"turnout":85.5,"votes":322697,"results":[{"party":"s","pct":48.5,"votes":156508},{"party":"sd","pct":20.9,"votes":67444},{"party":"m","pct":12.5,"votes":40337},{"party":"c","pct":10,"votes":32270},{"party":"v","pct":8.1,"votes":26138}]},
+        {"name":"Dalarna","abbr":"W","winner":"s","margin":5.8,"turnout":85.6,"votes":384142,"results":[{"party":"s","pct":31.8,"votes":122157},{"party":"sd","pct":26,"votes":99877},{"party":"m","pct":18.3,"votes":70298},{"party":"v","pct":12.2,"votes":46865},{"party":"c","pct":11.6,"votes":44560}]},
+        {"name":"Gävleborg","abbr":"X","winner":"s","margin":2.6,"turnout":82.2,"votes":362703,"results":[{"party":"s","pct":29.5,"votes":106997},{"party":"sd","pct":26.9,"votes":97567},{"party":"m","pct":19.7,"votes":71452},{"party":"c","pct":12.9,"votes":46789},{"party":"v","pct":11.1,"votes":40260}]},
+        {"name":"Gotland","abbr":"I","winner":"m","margin":2.8,"turnout":88,"votes":259962,"results":[{"party":"m","pct":33,"votes":85787},{"party":"s","pct":30.2,"votes":78509},{"party":"c","pct":13,"votes":33795},{"party":"sd","pct":12.5,"votes":32495},{"party":"v","pct":11.4,"votes":29636}]},
+        {"name":"Halland","abbr":"N","winner":"s","margin":17.1,"turnout":87.3,"votes":353573,"results":[{"party":"s","pct":39.6,"votes":140015},{"party":"m","pct":22.5,"votes":79554},{"party":"sd","pct":22.5,"votes":79554},{"party":"v","pct":11.9,"votes":42075},{"party":"c","pct":3.5,"votes":12375}]},
+        {"name":"Jämtland","abbr":"Z","winner":"sd","margin":11.8,"turnout":79,"votes":346924,"results":[{"party":"sd","pct":35,"votes":121423},{"party":"s","pct":23.2,"votes":80486},{"party":"m","pct":21.7,"votes":75283},{"party":"v","pct":13.3,"votes":46141},{"party":"c","pct":6.9,"votes":23938}]},
+        {"name":"Jönköping","abbr":"F","winner":"sd","margin":3,"turnout":87.7,"votes":384326,"results":[{"party":"sd","pct":35,"votes":134514},{"party":"s","pct":32,"votes":122984},{"party":"m","pct":16.6,"votes":63798},{"party":"v","pct":9.7,"votes":37280},{"party":"c","pct":6.7,"votes":25750}]},
+        {"name":"Kalmar","abbr":"H","winner":"s","margin":0.2,"turnout":78.5,"votes":367807,"results":[{"party":"s","pct":28.9,"votes":106296},{"party":"m","pct":28.7,"votes":105561},{"party":"sd","pct":27.8,"votes":102250},{"party":"v","pct":9,"votes":33103},{"party":"c","pct":5.6,"votes":20597}]},
+        {"name":"Kronoberg","abbr":"G","winner":"s","margin":13.2,"turnout":91.3,"votes":289694,"results":[{"party":"s","pct":40.2,"votes":116457},{"party":"m","pct":27,"votes":78217},{"party":"sd","pct":11.4,"votes":33025},{"party":"c","pct":11.3,"votes":32735},{"party":"v","pct":10.1,"votes":29259}]},
+        {"name":"Norrbotten","abbr":"BD","winner":"s","margin":7.1,"turnout":86.2,"votes":382125,"results":[{"party":"s","pct":36.7,"votes":140240},{"party":"m","pct":29.6,"votes":113109},{"party":"v","pct":11.9,"votes":45473},{"party":"sd","pct":11.6,"votes":44327},{"party":"c","pct":10.1,"votes":38595}]},
+        {"name":"Örebro","abbr":"T","winner":"s","margin":0.8,"turnout":90.1,"votes":326038,"results":[{"party":"s","pct":25.7,"votes":83792},{"party":"m","pct":24.9,"votes":81183},{"party":"sd","pct":20.3,"votes":66186},{"party":"v","pct":15.1,"votes":49232},{"party":"c","pct":14,"votes":45645}]},
+        {"name":"Östergötland","abbr":"E","winner":"s","margin":14.1,"turnout":84.9,"votes":323082,"results":[{"party":"s","pct":42,"votes":135694},{"party":"m","pct":27.9,"votes":90140},{"party":"sd","pct":19,"votes":61386},{"party":"v","pct":6,"votes":19385},{"party":"c","pct":4.9,"votes":15831}]},
+        {"name":"Skåne","abbr":"M","winner":"m","margin":4.7,"turnout":90.6,"votes":348635,"results":[{"party":"m","pct":37.3,"votes":130041},{"party":"s","pct":32.6,"votes":113655},{"party":"sd","pct":13.6,"votes":47414},{"party":"c","pct":10.8,"votes":37653},{"party":"v","pct":5.7,"votes":19872}]},
+        {"name":"Södermanland","abbr":"D","winner":"s","margin":12.6,"turnout":85.3,"votes":298915,"results":[{"party":"s","pct":37.1,"votes":110897},{"party":"m","pct":24.5,"votes":73234},{"party":"sd","pct":19.7,"votes":58886},{"party":"v","pct":12.7,"votes":37962},{"party":"c","pct":5.9,"votes":17636}]},
+        {"name":"Stockholm","abbr":"AB","winner":"m","margin":5.9,"turnout":90,"votes":371645,"results":[{"party":"m","pct":31.1,"votes":115582},{"party":"s","pct":25.2,"votes":93655},{"party":"sd","pct":23,"votes":85478},{"party":"v","pct":14,"votes":52030},{"party":"c","pct":6.8,"votes":25272}]},
+        {"name":"Uppsala","abbr":"C","winner":"s","margin":31.5,"turnout":78.5,"votes":319697,"results":[{"party":"s","pct":49.8,"votes":159209},{"party":"m","pct":18.3,"votes":58505},{"party":"sd","pct":14.3,"votes":45717},{"party":"c","pct":11.3,"votes":36126},{"party":"v","pct":6.3,"votes":20141}]},
+        {"name":"Värmland","abbr":"S","winner":"s","margin":2.5,"turnout":83.7,"votes":383312,"results":[{"party":"s","pct":33.9,"votes":129943},{"party":"m","pct":31.4,"votes":120360},{"party":"sd","pct":18.6,"votes":71296},{"party":"c","pct":9,"votes":34498},{"party":"v","pct":7.1,"votes":27215}]},
+        {"name":"Västerbotten","abbr":"AC","winner":"s","margin":7.7,"turnout":80.8,"votes":366408,"results":[{"party":"s","pct":31.7,"votes":116151},{"party":"sd","pct":24,"votes":87938},{"party":"m","pct":20.6,"votes":75480},{"party":"v","pct":12.3,"votes":45068},{"party":"c","pct":11.3,"votes":41404}]},
+        {"name":"Västernorrland","abbr":"Y","winner":"m","margin":5.3,"turnout":79.4,"votes":272982,"results":[{"party":"m","pct":35.5,"votes":96909},{"party":"s","pct":30.2,"votes":82441},{"party":"v","pct":14.4,"votes":39309},{"party":"sd","pct":13.4,"votes":36580},{"party":"c","pct":6.4,"votes":17471}]},
+        {"name":"Västmanland","abbr":"U","winner":"s","margin":2.4,"turnout":87.7,"votes":300380,"results":[{"party":"s","pct":30.8,"votes":92517},{"party":"m","pct":28.4,"votes":85308},{"party":"sd","pct":19,"votes":57072},{"party":"v","pct":12.1,"votes":36346},{"party":"c","pct":9.8,"votes":29437}]},
+        {"name":"Västra Götaland","abbr":"O","winner":"s","margin":24.7,"turnout":84.8,"votes":262446,"results":[{"party":"s","pct":47.6,"votes":124924},{"party":"m","pct":22.9,"votes":60100},{"party":"v","pct":12.2,"votes":32018},{"party":"sd","pct":11.1,"votes":29132},{"party":"c","pct":6.1,"votes":16009}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "Riksdag",
+      "date": "2030-09-08",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "s",
+          "points": [
+            ["2026-03-16",28.3],
+            ["2026-03-23",28.8],
+            ["2026-03-30",28.7],
+            ["2026-04-06",29.4],
+            ["2026-04-13",29.9],
+            ["2026-04-20",30.7],
+            ["2026-04-27",31.4],
+            ["2026-05-04",31.2],
+            ["2026-05-11",30.8],
+            ["2026-05-18",30.7],
+            ["2026-05-25",30.4],
+            ["2026-06-01",31.3],
+            ["2026-06-08",32],
+            ["2026-06-15",32.1],
+            ["2026-06-22",31.5],
+            ["2026-06-29",31.1],
+            ["2026-07-06",31.5],
+            ["2026-07-13",32],
+            ["2026-07-20",32.7],
+            ["2026-07-27",32.4],
+            ["2026-08-03",31.5],
+            ["2026-08-10",30.8],
+            ["2026-08-17",30.3],
+            ["2026-08-24",30.1],
+            ["2026-08-31",30.6],
+            ["2026-09-07",31.6],
+            ["2026-09-14",32.2],
+            ["2026-09-21",31.9],
+            ["2026-09-28",31],
+            ["2026-10-05",30.5]
+          ]
+        },
+        {
+          "party": "m",
+          "points": [
+            ["2026-03-16",19.5],
+            ["2026-03-23",20],
+            ["2026-03-30",20.5],
+            ["2026-04-06",19.3],
+            ["2026-04-13",18.4],
+            ["2026-04-20",18],
+            ["2026-04-27",18],
+            ["2026-05-04",18.5],
+            ["2026-05-11",17.6],
+            ["2026-05-18",17.4],
+            ["2026-05-25",16.5],
+            ["2026-06-01",17.1],
+            ["2026-06-08",18],
+            ["2026-06-15",18.3],
+            ["2026-06-22",18.3],
+            ["2026-06-29",18.3],
+            ["2026-07-06",18.2],
+            ["2026-07-13",17.9],
+            ["2026-07-20",17.5],
+            ["2026-07-27",17.6],
+            ["2026-08-03",18.2],
+            ["2026-08-10",18],
+            ["2026-08-17",17.9],
+            ["2026-08-24",18.6],
+            ["2026-08-31",17.9],
+            ["2026-09-07",18.5],
+            ["2026-09-14",17.4],
+            ["2026-09-21",17.1],
+            ["2026-09-28",17.4],
+            ["2026-10-05",17]
+          ]
+        },
+        {
+          "party": "sd",
+          "points": [
+            ["2026-03-16",18.7],
+            ["2026-03-23",18.7],
+            ["2026-03-30",19.2],
+            ["2026-04-06",20.3],
+            ["2026-04-13",19.4],
+            ["2026-04-20",19.6],
+            ["2026-04-27",18.9],
+            ["2026-05-04",19.1],
+            ["2026-05-11",18.5],
+            ["2026-05-18",19.1],
+            ["2026-05-25",19.9],
+            ["2026-06-01",19.5],
+            ["2026-06-08",19.7],
+            ["2026-06-15",20.6],
+            ["2026-06-22",20.1],
+            ["2026-06-29",20.1],
+            ["2026-07-06",20.5],
+            ["2026-07-13",21],
+            ["2026-07-20",20.2],
+            ["2026-07-27",21.1],
+            ["2026-08-03",20.8],
+            ["2026-08-10",21.4],
+            ["2026-08-17",22],
+            ["2026-08-24",22],
+            ["2026-08-31",21.1],
+            ["2026-09-07",20.8],
+            ["2026-09-14",20.5],
+            ["2026-09-21",19.7],
+            ["2026-09-28",19.7],
+            ["2026-10-05",19.1]
+          ]
+        },
+        {
+          "party": "v",
+          "points": [
+            ["2026-03-16",8.6],
+            ["2026-03-23",8.3],
+            ["2026-03-30",8.1],
+            ["2026-04-06",8.5],
+            ["2026-04-13",8.5],
+            ["2026-04-20",7.4],
+            ["2026-04-27",7.6],
+            ["2026-05-04",7.5],
+            ["2026-05-11",7],
+            ["2026-05-18",7.2],
+            ["2026-05-25",7.7],
+            ["2026-06-01",8.2],
+            ["2026-06-08",8.7],
+            ["2026-06-15",8.5],
+            ["2026-06-22",7.7],
+            ["2026-06-29",7.8],
+            ["2026-07-06",7.1],
+            ["2026-07-13",6.5],
+            ["2026-07-20",5.7],
+            ["2026-07-27",6],
+            ["2026-08-03",5.6],
+            ["2026-08-10",6],
+            ["2026-08-17",6.4],
+            ["2026-08-24",7.2],
+            ["2026-08-31",7.7],
+            ["2026-09-07",7.1],
+            ["2026-09-14",7.8],
+            ["2026-09-21",7.6],
+            ["2026-09-28",8.3],
+            ["2026-10-05",8.1]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3026 @@
+{
+  "code": "NL",
+  "parties": {
+    "kvp": {
+      "name": "Catholic People's Party",
+      "color": "#F0CB47",
+      "article": "Catholic People's Party"
+    },
+    "pvda": {
+      "name": "Labour Party",
+      "color": "#DF111A",
+      "article": "Labour Party (Netherlands)"
+    },
+    "arp": {
+      "name": "Anti-Revolutionary Party",
+      "color": "#008F90",
+      "article": "Anti-Revolutionary Party"
+    },
+    "chu": {
+      "name": "Christian Historical Union",
+      "color": "#004F50",
+      "article": "Christian Historical Union"
+    },
+    "cpn": {
+      "name": "Communist Party of the Netherlands",
+      "color": "#BB5555",
+      "article": "Communist Party of the Netherlands"
+    },
+    "knp": {
+      "name": "Catholic National Party",
+      "color": "#47B26B",
+      "article": "Catholic National Party"
+    },
+    "psp": {
+      "name": "Pacifist Socialist Party",
+      "color": "#FF3366",
+      "article": "Pacifist Socialist Party"
+    },
+    "bp": {
+      "name": "Farmers' Party",
+      "color": "#7AA300",
+      "article": "Farmers' Party (Netherlands)"
+    },
+    "gpv": {
+      "name": "Reformed Political League",
+      "color": "#6CBFD9",
+      "article": "Reformed Political League"
+    },
+    "ds70": {
+      "name": "Democratic Socialists '70",
+      "color": "#A21756",
+      "article": "Democratic Socialists '70"
+    },
+    "ppr": {
+      "name": "Political Party of Radicals",
+      "color": "#15803C",
+      "article": "Political Party of Radicals"
+    },
+    "nmp": {
+      "name": "New Middle Party",
+      "color": "#0033EE",
+      "article": "New Middle Party"
+    },
+    "rkpn": {
+      "name": "Roman Catholic Party of the Netherlands",
+      "color": "#0033BB",
+      "article": "Roman Catholic Party of the Netherlands"
+    },
+    "rpf": {
+      "name": "Reformatory Political Federation",
+      "color": "#2E5BA8",
+      "article": "Reformatory Political Federation"
+    },
+    "cp": {
+      "name": "Centre Party",
+      "color": "#FF0000",
+      "article": "Centre Party (Netherlands)"
+    },
+    "evp": {
+      "name": "Evangelical People's Party",
+      "color": "#800080",
+      "article": "Evangelical People's Party (Netherlands)"
+    },
+    "gl": {
+      "name": "GroenLinks",
+      "color": "#3CB371",
+      "article": "GroenLinks"
+    },
+    "cd": {
+      "name": "Centre Democrats",
+      "color": "#7F663D",
+      "article": "Centre Democrats (Netherlands)"
+    },
+    "aov": {
+      "name": "General Elderly Alliance",
+      "color": "#972C95",
+      "article": "General Elderly Alliance"
+    },
+    "u55": {
+      "name": "Union 55+",
+      "color": "#C373B1",
+      "article": "Union 55+"
+    },
+    "lpf": {
+      "name": "Pim Fortuyn List",
+      "color": "#FCE11F",
+      "article": "Pim Fortuyn List"
+    },
+    "ln": {
+      "name": "Livable Netherlands",
+      "color": "#FFB000",
+      "article": "Livable Netherlands"
+    },
+    "bij1": {
+      "name": "BIJ1",
+      "color": "#FDFD00",
+      "article": "BIJ1"
+    }
+  },
+  "elections": [
+    {
+      "id": "nl-house-1948",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1948-07-07",
+      "note": "House of 100 seats",
+      "totalSeats": 100,
+      "turnout": 93.67,
+      "source": {
+        "name": "Wikipedia, citing Nederlandse verkiezingsuitslagen",
+        "url": "https://en.wikipedia.org/wiki/1948_Dutch_general_election",
+        "revid": 1363760367
+      },
+      "candidates": [
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1531154,
+          "pct": 31.04,
+          "seats": 32,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1263058,
+          "pct": 25.6,
+          "seats": 27,
+          "change": -2
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 651612,
+          "pct": 13.21,
+          "seats": 13,
+          "change": 0
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 453226,
+          "pct": 9.19,
+          "seats": 9,
+          "change": 1
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 391925,
+          "pct": 7.95,
+          "seats": 8,
+          "change": 2
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 382001,
+          "pct": 7.74,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 116937,
+          "pct": 2.37,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Catholic National Party",
+          "party": "knp",
+          "votes": 62376,
+          "pct": 1.26,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 80670,
+          "pct": 1.64,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for Catholic National Party (stored as null). Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "kvp",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "kvp",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1948_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1952",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1952-06-25",
+      "note": "House of 100 seats",
+      "totalSeats": 100,
+      "turnout": 94.98,
+      "source": {
+        "name": "Wikipedia, citing Statistics Netherlands (CBS) and Nederlandse verkiezingsuitslagen",
+        "url": "https://en.wikipedia.org/wiki/1952_Dutch_general_election",
+        "revid": 1363770120
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1545867,
+          "pct": 28.97,
+          "seats": 30,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1529508,
+          "pct": 28.67,
+          "seats": 30,
+          "change": -2
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 603329,
+          "pct": 11.31,
+          "seats": 12,
+          "change": -1
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 476195,
+          "pct": 8.92,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 471040,
+          "pct": 8.83,
+          "seats": 9,
+          "change": 1
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 328621,
+          "pct": 6.16,
+          "seats": 6,
+          "change": -2
+        },
+        {
+          "name": "Catholic National Party",
+          "party": "knp",
+          "votes": 144520,
+          "pct": 2.71,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 129081,
+          "pct": 2.42,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 107584,
+          "pct": 2.02,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "kvp",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "pvda",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1952_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1956",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1956-06-13",
+      "note": "House of 100 seats",
+      "totalSeats": 100,
+      "turnout": 95.5,
+      "source": {
+        "name": "Wikipedia, citing Statistics Netherlands (CBS) and Nohlen & Stöver",
+        "url": "https://en.wikipedia.org/wiki/1956_Dutch_general_election",
+        "revid": 1363778022
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1872209,
+          "pct": 32.69,
+          "seats": 34,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1815130,
+          "pct": 31.69,
+          "seats": 33,
+          "change": 3
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 567535,
+          "pct": 9.91,
+          "seats": 10,
+          "change": -2
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 502530,
+          "pct": 8.77,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 482915,
+          "pct": 8.43,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 272054,
+          "pct": 4.75,
+          "seats": 4,
+          "change": -2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 129517,
+          "pct": 2.26,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 85669,
+          "pct": 1.5,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "kvp",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "pvda",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1956_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1959",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1959-03-12",
+      "totalSeats": 150,
+      "turnout": 95.57,
+      "source": {
+        "name": "Wikipedia, citing Statistics Netherlands (CBS) and Nohlen & Stöver",
+        "url": "https://en.wikipedia.org/wiki/1959_Dutch_general_election",
+        "revid": 1363778112
+      },
+      "candidates": [
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1895914,
+          "pct": 31.6,
+          "seats": 49,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1821285,
+          "pct": 30.36,
+          "seats": 48,
+          "change": -2
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 732658,
+          "pct": 12.21,
+          "seats": 19,
+          "change": 6
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 563091,
+          "pct": 9.39,
+          "seats": 14,
+          "change": -1
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 486429,
+          "pct": 8.11,
+          "seats": 12,
+          "change": -1
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 144542,
+          "pct": 2.41,
+          "seats": 3,
+          "change": -4
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 129678,
+          "pct": 2.16,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 110499,
+          "pct": 1.84,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 115435,
+          "pct": 1.92,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for Pacifist Socialist Party (stored as null). Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "kvp",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "pvda",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1959_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1963",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1963-05-15",
+      "totalSeats": 150,
+      "turnout": 95.13,
+      "source": {
+        "name": "Wikipedia, citing Statistics Netherlands (CBS) and Nohlen & Stöver",
+        "url": "https://en.wikipedia.org/wiki/1963_Dutch_general_election",
+        "revid": 1368926436
+      },
+      "candidates": [
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1995352,
+          "pct": 31.88,
+          "seats": 50,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1753084,
+          "pct": 28.01,
+          "seats": 43,
+          "change": -5
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 643839,
+          "pct": 10.29,
+          "seats": 16,
+          "change": -3
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 545836,
+          "pct": 8.72,
+          "seats": 13,
+          "change": -1
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 536801,
+          "pct": 8.58,
+          "seats": 13,
+          "change": 1
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 189373,
+          "pct": 3.03,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 173325,
+          "pct": 2.77,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 143818,
+          "pct": 2.3,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Farmers' Party",
+          "party": "bp",
+          "votes": 133231,
+          "pct": 2.13,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 46324,
+          "pct": 0.74,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 97538,
+          "pct": 1.56,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "kvp",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "kvp",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1963_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1967",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1967-02-15",
+      "totalSeats": 150,
+      "turnout": 95,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1967_Dutch_general_election",
+        "revid": 1368931089
+      },
+      "candidates": [
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1822939,
+          "pct": 26.5,
+          "seats": 42,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1620447,
+          "pct": 23.55,
+          "seats": 37,
+          "change": -6
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 738229,
+          "pct": 10.73,
+          "seats": 17,
+          "change": 1
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 681203,
+          "pct": 9.9,
+          "seats": 15,
+          "change": 2
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 560467,
+          "pct": 8.15,
+          "seats": 12,
+          "change": -1
+        },
+        {
+          "name": "Farmers' Party",
+          "party": "bp",
+          "votes": 328186,
+          "pct": 4.77,
+          "seats": 7,
+          "change": 4
+        },
+        {
+          "name": "Democrats 1966",
+          "party": "d66",
+          "votes": 307859,
+          "pct": 4.48,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 248330,
+          "pct": 3.61,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 197217,
+          "pct": 2.87,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 138119,
+          "pct": 2.01,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 59218,
+          "pct": 0.86,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 177299,
+          "pct": 2.58,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Turnout is the table's 95.00% (votes cast over registered voters); the infobox gives 94.9%. Seat change is \"New\" in the table for Democrats 1966 (stored as null). Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "kvp",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "kvp",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1967_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1971",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1971-04-28",
+      "totalSeats": 150,
+      "turnout": 79.12,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1971_Dutch_general_election",
+        "revid": 1373239954
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1554733,
+          "pct": 24.6,
+          "seats": 39,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1380365,
+          "pct": 21.84,
+          "seats": 35,
+          "change": -7
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 653606,
+          "pct": 10.34,
+          "seats": 16,
+          "change": -1
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 542874,
+          "pct": 8.59,
+          "seats": 13,
+          "change": -2
+        },
+        {
+          "name": "Democrats 1966",
+          "party": "d66",
+          "votes": 428150,
+          "pct": 6.77,
+          "seats": 11,
+          "change": 4
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 399164,
+          "pct": 6.32,
+          "seats": 10,
+          "change": -2
+        },
+        {
+          "name": "Democratic Socialists '70",
+          "party": "ds70",
+          "votes": 336788,
+          "pct": 5.33,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 246594,
+          "pct": 3.9,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 148221,
+          "pct": 2.35,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Political Party of Radicals",
+          "party": "ppr",
+          "votes": 116065,
+          "pct": 1.84,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 101797,
+          "pct": 1.61,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "New Middle Party",
+          "party": "nmp",
+          "votes": 95653,
+          "pct": 1.51,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 90752,
+          "pct": 1.44,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Farmers' Party",
+          "party": "bp",
+          "votes": 69678,
+          "pct": 1.1,
+          "seats": 1,
+          "change": -6
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 155572,
+          "pct": 2.46,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for Democratic Socialists '70, Political Party of Radicals, New Middle Party (stored as null). Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "pvda",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "pvda",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1971_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1972",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1972-11-29",
+      "totalSeats": 150,
+      "turnout": 83.51,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1972_Dutch_general_election",
+        "revid": 1368930805
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2021454,
+          "pct": 27.34,
+          "seats": 43,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Catholic People's Party",
+          "party": "kvp",
+          "votes": 1305401,
+          "pct": 17.65,
+          "seats": 27,
+          "change": -8
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1068375,
+          "pct": 14.45,
+          "seats": 22,
+          "change": 6
+        },
+        {
+          "name": "Anti-Revolutionary Party",
+          "party": "arp",
+          "votes": 653609,
+          "pct": 8.84,
+          "seats": 14,
+          "change": -1
+        },
+        {
+          "name": "Political Party of Radicals",
+          "party": "ppr",
+          "votes": 354829,
+          "pct": 4.8,
+          "seats": 7,
+          "change": 5
+        },
+        {
+          "name": "Christian Historical Union",
+          "party": "chu",
+          "votes": 354463,
+          "pct": 4.79,
+          "seats": 7,
+          "change": -3
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 330398,
+          "pct": 4.47,
+          "seats": 7,
+          "change": 1
+        },
+        {
+          "name": "Democrats 1966",
+          "party": "d66",
+          "votes": 307048,
+          "pct": 4.15,
+          "seats": 6,
+          "change": -5
+        },
+        {
+          "name": "Democratic Socialists '70",
+          "party": "ds70",
+          "votes": 304714,
+          "pct": 4.12,
+          "seats": 6,
+          "change": -2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 163114,
+          "pct": 2.21,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Farmers' Party",
+          "party": "bp",
+          "votes": 143239,
+          "pct": 1.94,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 131236,
+          "pct": 1.77,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 111262,
+          "pct": 1.5,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Roman Catholic Party of the Netherlands",
+          "party": "rkpn",
+          "votes": 67658,
+          "pct": 0.92,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 77245,
+          "pct": 1.04,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for Roman Catholic Party of the Netherlands (stored as null). Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "pvda",
+        "GR": "pvda",
+        "LI": "kvp",
+        "NB": "kvp",
+        "NH": "pvda",
+        "OV": "pvda",
+        "ZH": "pvda",
+        "UT": "pvda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1972_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1977",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1977-05-25",
+      "totalSeats": 150,
+      "turnout": 88.08,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1977_Dutch_general_election",
+        "revid": 1368930611
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2813793,
+          "pct": 33.83,
+          "seats": 53,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 2652278,
+          "pct": 31.89,
+          "seats": 49,
+          "change": 1
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1492689,
+          "pct": 17.95,
+          "seats": 28,
+          "change": 6
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 452423,
+          "pct": 5.44,
+          "seats": 8,
+          "change": 2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 177010,
+          "pct": 2.13,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Political Party of Radicals",
+          "party": "ppr",
+          "votes": 140910,
+          "pct": 1.69,
+          "seats": 3,
+          "change": -4
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 143481,
+          "pct": 1.73,
+          "seats": 2,
+          "change": -5
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 79421,
+          "pct": 0.95,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 77972,
+          "pct": 0.94,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Farmers' Party",
+          "party": "bp",
+          "votes": 69914,
+          "pct": 0.84,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Democratic Socialists '70",
+          "party": "ds70",
+          "votes": 59487,
+          "pct": 0.72,
+          "seats": 1,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 158234,
+          "pct": 1.9,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "cda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "pvda",
+        "UT": "cda",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1977_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1981",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1981-05-26",
+      "totalSeats": 150,
+      "turnout": 87.03,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1981_Dutch_general_election",
+        "revid": 1368930465
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 2677259,
+          "pct": 30.81,
+          "seats": 48,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2458452,
+          "pct": 28.29,
+          "seats": 44,
+          "change": -9
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1505311,
+          "pct": 17.32,
+          "seats": 26,
+          "change": -2
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 961121,
+          "pct": 11.06,
+          "seats": 17,
+          "change": 9
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 184422,
+          "pct": 2.12,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 178292,
+          "pct": 2.05,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 171324,
+          "pct": 1.97,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Political Party of Radicals",
+          "party": "ppr",
+          "votes": 171042,
+          "pct": 1.97,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Reformatory Political Federation",
+          "party": "rpf",
+          "votes": 108364,
+          "pct": 1.25,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 70878,
+          "pct": 0.82,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 204372,
+          "pct": 2.35,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table). In Friesland the by-province table shows CDA and PvdA tied at 33.2% and bolds PvdA as the winner.",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "pvda",
+        "UT": "cda",
+        "ZE": "cda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1981_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1982",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1982-09-08",
+      "totalSeats": 150,
+      "turnout": 80.98,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1982_Dutch_general_election",
+        "revid": 1368930394
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2503517,
+          "pct": 30.4,
+          "seats": 47,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 2420441,
+          "pct": 29.39,
+          "seats": 45,
+          "change": -3
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1900763,
+          "pct": 23.08,
+          "seats": 36,
+          "change": 10
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 351278,
+          "pct": 4.26,
+          "seats": 6,
+          "change": -11
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 187547,
+          "pct": 2.28,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 156636,
+          "pct": 1.9,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Communist Party of the Netherlands",
+          "party": "cpn",
+          "votes": 147753,
+          "pct": 1.79,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Political Party of Radicals",
+          "party": "ppr",
+          "votes": 136446,
+          "pct": 1.66,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Reformatory Political Federation",
+          "party": "rpf",
+          "votes": 124235,
+          "pct": 1.51,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Centre Party",
+          "party": "cp",
+          "votes": 68423,
+          "pct": 0.83,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 67163,
+          "pct": 0.82,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Evangelical People's Party",
+          "party": "evp",
+          "votes": 56466,
+          "pct": 0.69,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 115848,
+          "pct": 1.41,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Province winners leave out the by-province table's \"Southern IJsselmeer Polders\" row, which is not the province of Flevoland (first listed in the 1986 table).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FR": "pvda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "pvda",
+        "UT": "vvd",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1982_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1986",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1986-05-21",
+      "totalSeats": 150,
+      "turnout": 85.76,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1986_Dutch_general_election",
+        "revid": 1272687064
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 3172918,
+          "pct": 34.59,
+          "seats": 54,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 3051678,
+          "pct": 33.27,
+          "seats": 52,
+          "change": 5
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1596991,
+          "pct": 17.41,
+          "seats": 27,
+          "change": -9
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 562466,
+          "pct": 6.13,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 159740,
+          "pct": 1.74,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Political Party of Radicals",
+          "party": "ppr",
+          "votes": 115203,
+          "pct": 1.26,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Pacifist Socialist Party",
+          "party": "psp",
+          "votes": 110182,
+          "pct": 1.2,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 88381,
+          "pct": 0.96,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Reformatory Political Federation",
+          "party": "rpf",
+          "votes": 83582,
+          "pct": 0.91,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 231018,
+          "pct": 2.52,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "pvda",
+        "FR": "pvda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "pvda",
+        "UT": "cda",
+        "ZE": "cda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1986_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1989",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1989-09-06",
+      "totalSeats": 150,
+      "turnout": 80.27,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1989_Dutch_general_election",
+        "revid": 1313076815
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 3135056,
+          "pct": 35.32,
+          "seats": 54,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2832739,
+          "pct": 31.91,
+          "seats": 49,
+          "change": -3
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1290427,
+          "pct": 14.54,
+          "seats": 22,
+          "change": -5
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 700538,
+          "pct": 7.89,
+          "seats": 12,
+          "change": 3
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 361324,
+          "pct": 4.07,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 165918,
+          "pct": 1.87,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 109458,
+          "pct": 1.23,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Reformatory Political Federation",
+          "party": "rpf",
+          "votes": 85081,
+          "pct": 0.96,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Centre Democrats",
+          "party": "cd",
+          "votes": 81337,
+          "pct": 0.92,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 114636,
+          "pct": 1.29,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "pvda",
+        "FR": "pvda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "pvda",
+        "UT": "cda",
+        "ZE": "cda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1989_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1994",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1994-05-03",
+      "totalSeats": 150,
+      "turnout": 78.75,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1994_Dutch_general_election",
+        "revid": 1367360613
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2153135,
+          "pct": 23.97,
+          "seats": 37,
+          "change": -12,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 1996418,
+          "pct": 22.23,
+          "seats": 34,
+          "change": -20
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1792401,
+          "pct": 19.96,
+          "seats": 31,
+          "change": 9
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 1391202,
+          "pct": 15.49,
+          "seats": 24,
+          "change": 12
+        },
+        {
+          "name": "General Elderly Alliance",
+          "party": "aov",
+          "votes": 326401,
+          "pct": 3.63,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 311399,
+          "pct": 3.47,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Centre Democrats",
+          "party": "cd",
+          "votes": 220734,
+          "pct": 2.46,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Reformatory Political Federation",
+          "party": "rpf",
+          "votes": 158705,
+          "pct": 1.77,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 155251,
+          "pct": 1.73,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 119158,
+          "pct": 1.33,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 118768,
+          "pct": 1.32,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Union 55+",
+          "party": "u55",
+          "votes": 78147,
+          "pct": 0.87,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 159837,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for General Elderly Alliance, Union 55+ (stored as null).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "vvd",
+        "FR": "pvda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "vvd",
+        "UT": "vvd",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1994_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-1998",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1998-05-06",
+      "totalSeats": 150,
+      "turnout": 73.35,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/1998_Dutch_general_election",
+        "revid": 1288555888
+      },
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2494555,
+          "pct": 28.98,
+          "seats": 45,
+          "change": 8,
+          "winner": true
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 2124971,
+          "pct": 24.69,
+          "seats": 38,
+          "change": 7
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 1581053,
+          "pct": 18.37,
+          "seats": 29,
+          "change": -5
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 773497,
+          "pct": 8.99,
+          "seats": 14,
+          "change": -10
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 625968,
+          "pct": 7.27,
+          "seats": 11,
+          "change": 6
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 303703,
+          "pct": 3.53,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Reformatory Political Federation",
+          "party": "rpf",
+          "votes": 174593,
+          "pct": 2.03,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 153583,
+          "pct": 1.78,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Reformed Political League",
+          "party": "gpv",
+          "votes": 108724,
+          "pct": 1.26,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "General Elderly Alliance–Union 55+",
+          "party": "aov",
+          "votes": 45994,
+          "pct": 0.53,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 221146,
+          "pct": 2.57,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The General Elderly Alliance–Union 55+ joint list is filed under the General Elderly Alliance key (it links there); it lost all 7 seats the two parties won in 1994.",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "vvd",
+        "FR": "pvda",
+        "GE": "pvda",
+        "GR": "pvda",
+        "LI": "pvda",
+        "NB": "pvda",
+        "NH": "vvd",
+        "OV": "pvda",
+        "ZH": "vvd",
+        "UT": "vvd",
+        "ZE": "pvda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1998_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2002",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2002-05-15",
+      "totalSeats": 150,
+      "turnout": 79.06,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2002_Dutch_general_election",
+        "revid": 1378631322
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 2653723,
+          "pct": 27.93,
+          "seats": 43,
+          "change": 14,
+          "winner": true
+        },
+        {
+          "name": "Pim Fortuyn List",
+          "party": "lpf",
+          "votes": 1614801,
+          "pct": 17,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1466722,
+          "pct": 15.44,
+          "seats": 24,
+          "change": -14
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1436023,
+          "pct": 15.11,
+          "seats": 23,
+          "change": -22
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 660692,
+          "pct": 6.95,
+          "seats": 10,
+          "change": -1
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 560447,
+          "pct": 5.9,
+          "seats": 9,
+          "change": 4
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 484317,
+          "pct": 5.1,
+          "seats": 7,
+          "change": -7
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 240953,
+          "pct": 2.54,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 163562,
+          "pct": 1.72,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Livable Netherlands",
+          "party": "ln",
+          "votes": 153055,
+          "pct": 1.61,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 66857,
+          "pct": 0.7,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for Pim Fortuyn List, Livable Netherlands (stored as null).",
+      "regionWinners": {
+        "DR": "cda",
+        "FL": "cda",
+        "FR": "cda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "cda",
+        "OV": "cda",
+        "ZH": "cda",
+        "UT": "cda",
+        "ZE": "cda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2002_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2003",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2003-01-22",
+      "totalSeats": 150,
+      "turnout": 80.04,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2003_Dutch_general_election",
+        "revid": 1361492833
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 2763480,
+          "pct": 28.62,
+          "seats": 44,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2631363,
+          "pct": 27.26,
+          "seats": 42,
+          "change": 19
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1728707,
+          "pct": 17.91,
+          "seats": 28,
+          "change": 4
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 609723,
+          "pct": 6.32,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Pim Fortuyn List",
+          "party": "lpf",
+          "votes": 549975,
+          "pct": 5.7,
+          "seats": 8,
+          "change": -18
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 495802,
+          "pct": 5.14,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 393333,
+          "pct": 4.07,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 204694,
+          "pct": 2.12,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 150305,
+          "pct": 1.56,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 127093,
+          "pct": 1.32,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "pvda",
+        "FR": "pvda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "pvda",
+        "UT": "cda",
+        "ZE": "cda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2003_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2006",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2006-11-22",
+      "totalSeats": 150,
+      "turnout": 80.35,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2006_Dutch_general_election",
+        "revid": 1368702457
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 2608573,
+          "pct": 26.51,
+          "seats": 41,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2085077,
+          "pct": 21.19,
+          "seats": 33,
+          "change": -9
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 1630803,
+          "pct": 16.58,
+          "seats": 25,
+          "change": 16
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1443312,
+          "pct": 14.67,
+          "seats": 22,
+          "change": -6
+        },
+        {
+          "name": "Party for Freedom",
+          "party": "pvv",
+          "votes": 579490,
+          "pct": 5.89,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 453054,
+          "pct": 4.6,
+          "seats": 7,
+          "change": -1
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 390969,
+          "pct": 3.97,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 193232,
+          "pct": 1.96,
+          "seats": 3,
+          "change": -3
+        },
+        {
+          "name": "Party for the Animals",
+          "party": "pvdd",
+          "votes": 179988,
+          "pct": 1.83,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 153266,
+          "pct": 1.56,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "List 5 Fortuyn",
+          "party": "lpf",
+          "votes": 20956,
+          "pct": 0.21,
+          "seats": 0,
+          "change": -8
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 99963,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "\"List 5 Fortuyn\" links to the Pim Fortuyn List article and uses its key. Seat change is \"New\" in the table for Party for Freedom (stored as null).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "cda",
+        "FR": "cda",
+        "GE": "cda",
+        "GR": "pvda",
+        "LI": "cda",
+        "NB": "cda",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "cda",
+        "UT": "cda",
+        "ZE": "cda"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2006_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2010",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2010-06-09",
+      "totalSeats": 150,
+      "turnout": 75.4,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2010_Dutch_general_election",
+        "revid": 1374219251
+      },
+      "candidates": [
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1929575,
+          "pct": 20.49,
+          "seats": 31,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 1848805,
+          "pct": 19.63,
+          "seats": 30,
+          "change": -3
+        },
+        {
+          "name": "Party for Freedom",
+          "party": "pvv",
+          "votes": 1454493,
+          "pct": 15.45,
+          "seats": 24,
+          "change": 15
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 1281886,
+          "pct": 13.61,
+          "seats": 21,
+          "change": -20
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 924696,
+          "pct": 9.82,
+          "seats": 15,
+          "change": -10
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 654167,
+          "pct": 6.95,
+          "seats": 10,
+          "change": 7
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 628096,
+          "pct": 6.67,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 305094,
+          "pct": 3.24,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 163581,
+          "pct": 1.74,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Party for the Animals",
+          "party": "pvdd",
+          "votes": 122317,
+          "pct": 1.3,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 103291,
+          "pct": 1.1,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "vvd",
+        "FR": "pvda",
+        "GE": "vvd",
+        "GR": "pvda",
+        "LI": "pvv",
+        "NB": "vvd",
+        "NH": "pvda",
+        "OV": "cda",
+        "ZH": "vvd",
+        "UT": "vvd",
+        "ZE": "vvd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2012",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2012-09-12",
+      "totalSeats": 150,
+      "turnout": 74.57,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2012_Dutch_general_election",
+        "revid": 1374218799
+      },
+      "candidates": [
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 2504948,
+          "pct": 26.58,
+          "seats": 41,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 2340750,
+          "pct": 24.84,
+          "seats": 38,
+          "change": 8
+        },
+        {
+          "name": "Party for Freedom",
+          "party": "pvv",
+          "votes": 950263,
+          "pct": 10.08,
+          "seats": 15,
+          "change": -9
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 909853,
+          "pct": 9.65,
+          "seats": 15,
+          "change": 0
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 801620,
+          "pct": 8.51,
+          "seats": 13,
+          "change": -8
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 757091,
+          "pct": 8.03,
+          "seats": 12,
+          "change": 2
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 294586,
+          "pct": 3.13,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 219896,
+          "pct": 2.33,
+          "seats": 4,
+          "change": -6
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 196780,
+          "pct": 2.09,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Party for the Animals",
+          "party": "pvdd",
+          "votes": 182162,
+          "pct": 1.93,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "50PLUS",
+          "party": "p50",
+          "votes": 177631,
+          "pct": 1.88,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 88655,
+          "pct": 0.94,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for 50PLUS (stored as null).",
+      "regionWinners": {
+        "DR": "pvda",
+        "FL": "vvd",
+        "FR": "pvda",
+        "GE": "vvd",
+        "GR": "pvda",
+        "LI": "vvd",
+        "NB": "vvd",
+        "NH": "vvd",
+        "OV": "pvda",
+        "ZH": "vvd",
+        "UT": "vvd",
+        "ZE": "vvd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2012_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2017",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2017-03-15",
+      "totalSeats": 150,
+      "turnout": 81.93,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2017_Dutch_general_election",
+        "revid": 1374218419
+      },
+      "candidates": [
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 2238351,
+          "pct": 21.29,
+          "seats": 33,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Party for Freedom",
+          "party": "pvv",
+          "votes": 1372941,
+          "pct": 13.06,
+          "seats": 20,
+          "change": 5
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 1301796,
+          "pct": 12.38,
+          "seats": 19,
+          "change": 6
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 1285819,
+          "pct": 12.23,
+          "seats": 19,
+          "change": 7
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 959600,
+          "pct": 9.13,
+          "seats": 14,
+          "change": 10
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 955633,
+          "pct": 9.09,
+          "seats": 14,
+          "change": -1
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 599699,
+          "pct": 5.7,
+          "seats": 9,
+          "change": -29
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 356271,
+          "pct": 3.39,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Party for the Animals",
+          "party": "pvdd",
+          "votes": 335214,
+          "pct": 3.19,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "50PLUS",
+          "party": "p50",
+          "votes": 327131,
+          "pct": 3.11,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 218950,
+          "pct": 2.08,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "DENK",
+          "party": "denk",
+          "votes": 216147,
+          "pct": 2.06,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Forum for Democracy",
+          "party": "fvd",
+          "votes": 187162,
+          "pct": 1.78,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 161327,
+          "pct": 1.53,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat change is \"New\" in the table for DENK, Forum for Democracy (stored as null). In Groningen the by-province table shows VVD and SP tied at 13.9% and bolds SP as the winner.",
+      "regionWinners": {
+        "DR": "vvd",
+        "FL": "vvd",
+        "FR": "cda",
+        "GE": "vvd",
+        "GR": "sp",
+        "LI": "pvv",
+        "NB": "vvd",
+        "NH": "vvd",
+        "OV": "cda",
+        "ZH": "vvd",
+        "UT": "vvd",
+        "ZE": "vvd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2021",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2021-03-17",
+      "totalSeats": 150,
+      "turnout": 78.71,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2021_Dutch_general_election",
+        "revid": 1376479605
+      },
+      "candidates": [
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 2279130,
+          "pct": 21.87,
+          "seats": 34,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 1565861,
+          "pct": 15.02,
+          "seats": 24,
+          "change": 5
+        },
+        {
+          "name": "Party for Freedom",
+          "party": "pvv",
+          "votes": 1124482,
+          "pct": 10.79,
+          "seats": 17,
+          "change": -3
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 990601,
+          "pct": 9.5,
+          "seats": 15,
+          "change": -4
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 623371,
+          "pct": 5.98,
+          "seats": 9,
+          "change": -5
+        },
+        {
+          "name": "Labour Party",
+          "party": "pvda",
+          "votes": 597192,
+          "pct": 5.73,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "GroenLinks",
+          "party": "gl",
+          "votes": 537308,
+          "pct": 5.16,
+          "seats": 8,
+          "change": -6
+        },
+        {
+          "name": "Forum for Democracy",
+          "party": "fvd",
+          "votes": 523083,
+          "pct": 5.02,
+          "seats": 8,
+          "change": 6
+        },
+        {
+          "name": "Party for the Animals",
+          "party": "pvdd",
+          "votes": 399750,
+          "pct": 3.84,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 351275,
+          "pct": 3.37,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Volt Netherlands",
+          "party": "volt",
+          "votes": 252480,
+          "pct": 2.42,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "JA21",
+          "party": "ja21",
+          "votes": 246620,
+          "pct": 2.37,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 215249,
+          "pct": 2.07,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Denk",
+          "party": "denk",
+          "votes": 211237,
+          "pct": 2.03,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "50PLUS",
+          "party": "p50",
+          "votes": 106702,
+          "pct": 1.02,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Farmer–Citizen Movement",
+          "party": "bbb",
+          "votes": 104319,
+          "pct": 1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "BIJ1",
+          "party": "bij1",
+          "votes": 87238,
+          "pct": 0.84,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 206954,
+          "pct": 1.99,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Voting was held over 15–17 March 2021; the date is the last day. Seat change is \"New\" in the table for Volt Netherlands, JA21, Farmer–Citizen Movement (stored as null).",
+      "regionWinners": {
+        "DR": "vvd",
+        "FL": "vvd",
+        "FR": "vvd",
+        "GE": "vvd",
+        "GR": "d66",
+        "LI": "vvd",
+        "NB": "vvd",
+        "NH": "vvd",
+        "OV": "vvd",
+        "ZH": "vvd",
+        "UT": "vvd",
+        "ZE": "vvd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2021_Dutch_general_election#By_province"
+    },
+    {
+      "id": "nl-house-2023",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2023-11-22",
+      "totalSeats": 150,
+      "turnout": 77.75,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Council (Kiesraad)",
+        "url": "https://en.wikipedia.org/wiki/2023_Dutch_general_election",
+        "revid": 1376496204
+      },
+      "candidates": [
+        {
+          "name": "Party for Freedom",
+          "party": "pvv",
+          "votes": 2450878,
+          "pct": 23.49,
+          "seats": 37,
+          "change": 20,
+          "winner": true
+        },
+        {
+          "name": "GroenLinks–PvdA",
+          "party": "glpvda",
+          "votes": 1643073,
+          "pct": 15.75,
+          "seats": 25,
+          "change": 8
+        },
+        {
+          "name": "People's Party for Freedom and Democracy",
+          "party": "vvd",
+          "votes": 1589519,
+          "pct": 15.24,
+          "seats": 24,
+          "change": -10
+        },
+        {
+          "name": "New Social Contract",
+          "party": "nsc",
+          "votes": 1343287,
+          "pct": 12.88,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Democrats 66",
+          "party": "d66",
+          "votes": 656292,
+          "pct": 6.29,
+          "seats": 9,
+          "change": -15
+        },
+        {
+          "name": "Farmer–Citizen Movement",
+          "party": "bbb",
+          "votes": 485551,
+          "pct": 4.65,
+          "seats": 7,
+          "change": 6
+        },
+        {
+          "name": "Christian Democratic Appeal",
+          "party": "cda",
+          "votes": 345822,
+          "pct": 3.31,
+          "seats": 5,
+          "change": -10
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 328225,
+          "pct": 3.15,
+          "seats": 5,
+          "change": -4
+        },
+        {
+          "name": "Denk",
+          "party": "denk",
+          "votes": 246765,
+          "pct": 2.37,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Party for the Animals",
+          "party": "pvdd",
+          "votes": 235148,
+          "pct": 2.25,
+          "seats": 3,
+          "change": -3
+        },
+        {
+          "name": "Forum for Democracy",
+          "party": "fvd",
+          "votes": 232963,
+          "pct": 2.23,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "Reformed Political Party",
+          "party": "sgp",
+          "votes": 217270,
+          "pct": 2.08,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Christian Union",
+          "party": "cu",
+          "votes": 212532,
+          "pct": 2.04,
+          "seats": 3,
+          "change": -2
+        },
+        {
+          "name": "Volt Netherlands",
+          "party": "volt",
+          "votes": 178802,
+          "pct": 1.71,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "JA21",
+          "party": "ja21",
+          "votes": 71345,
+          "pct": 0.68,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 195254,
+          "pct": 1.87,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Shares are of valid votes; blank and invalid ballots are counted separately in the table. Seat change is \"New\" in the table for New Social Contract (stored as null).",
+      "regionWinners": {
+        "DR": "pvv",
+        "FL": "pvv",
+        "FR": "pvv",
+        "GE": "pvv",
+        "GR": "pvv",
+        "LI": "pvv",
+        "NB": "pvv",
+        "NH": "glpvda",
+        "OV": "pvv",
+        "ZH": "pvv",
+        "UT": "glpvda",
+        "ZE": "pvv"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2023_Dutch_general_election#By_province"
+    }
+  ]
+}

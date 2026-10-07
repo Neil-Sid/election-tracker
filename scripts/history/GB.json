@@ -1,0 +1,2270 @@
+{
+  "code": "GB",
+  "parties": {
+    "all": {
+      "name": "SDP–Liberal Alliance",
+      "color": "#EE7F2D",
+      "article": "SDP–Liberal Alliance"
+    },
+    "apni": {
+      "name": "Alliance Party (NI)",
+      "color": "#F9E79F",
+      "article": "Alliance Party of Northern Ireland"
+    },
+    "bnp": {
+      "name": "British National Party",
+      "color": "#2E3B74",
+      "article": "British National Party"
+    },
+    "dlab": {
+      "name": "Democratic Labour",
+      "color": "#A0522D",
+      "article": "Democratic Labour Party (UK, 1972)"
+    },
+    "ilab": {
+      "name": "Independent Labour",
+      "color": "#FFBBBB",
+      "article": "Independent Labour"
+    },
+    "ilib": {
+      "name": "Independent Liberal",
+      "color": "#FFFFAA",
+      "article": "Independent Liberal"
+    },
+    "inat": {
+      "name": "Independent Nationalist",
+      "color": "#CDFFAB",
+      "article": "Independent Nationalist"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93",
+      "article": "Independent politician"
+    },
+    "irep": {
+      "name": "Independent Republican",
+      "color": "#D1FFB2",
+      "article": "Independent Republican (Ireland)"
+    },
+    "irlab": {
+      "name": "Irish Labour",
+      "color": "#F08080",
+      "article": "Labour Party (Ireland)"
+    },
+    "iu": {
+      "name": "Independent Unionist",
+      "color": "#AADFFF",
+      "article": "Independent Unionist"
+    },
+    "khhc": {
+      "name": "Health Concern",
+      "color": "#FF69B4",
+      "article": "Independent Kidderminster Hospital and Health Concern"
+    },
+    "lib": {
+      "name": "Liberal",
+      "color": "#F4A11B",
+      "article": "Liberal Party (UK)"
+    },
+    "nat": {
+      "name": "Nationalist Party",
+      "color": "#32CD32",
+      "article": "Nationalist Party (Northern Ireland)"
+    },
+    "protu": {
+      "name": "Protestant Unionist Party",
+      "color": "#D46A4C",
+      "article": "Protestant Unionist Party"
+    },
+    "refp": {
+      "name": "Referendum Party",
+      "color": "#BF475C",
+      "article": "Referendum Party"
+    },
+    "respect": {
+      "name": "Respect",
+      "color": "#46801C",
+      "article": "Respect Party"
+    },
+    "rlp": {
+      "name": "Republican Labour Party",
+      "color": "#85DE59",
+      "article": "Republican Labour Party"
+    },
+    "sdlp": {
+      "name": "SDLP",
+      "color": "#8DC63F",
+      "article": "Social Democratic and Labour Party"
+    },
+    "spk": {
+      "name": "Speaker",
+      "color": "#000000",
+      "article": "Speaker of the House of Commons (United Kingdom)"
+    },
+    "ukip": {
+      "name": "UKIP",
+      "color": "#6D3177",
+      "article": "UK Independence Party"
+    },
+    "ukup": {
+      "name": "UK Unionist Party",
+      "color": "#660066",
+      "article": "UK Unionist Party"
+    },
+    "unity": {
+      "name": "Unity",
+      "color": "#808000",
+      "article": "Unity (Northern Ireland)"
+    },
+    "upup": {
+      "name": "Ulster Popular Unionist Party",
+      "color": "#FFDEAD",
+      "article": "Ulster Popular Unionist Party"
+    },
+    "uup": {
+      "name": "UUP",
+      "color": "#48A5EE",
+      "article": "Ulster Unionist Party"
+    },
+    "uuup": {
+      "name": "United Ulster Unionist Party",
+      "color": "#8E5BA8",
+      "article": "United Ulster Unionist Party"
+    },
+    "vup": {
+      "name": "Vanguard Unionist Progressive Party",
+      "color": "#8E5BA8",
+      "article": "Vanguard Unionist Progressive Party"
+    }
+  },
+  "elections": [
+    {
+      "id": "gb-commons-1950",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1950-02-23",
+      "note": "Voting age 21",
+      "totalSeats": 625,
+      "turnout": 83.9,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1950_United_Kingdom_general_election",
+        "revid": 1378881220
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 13266176,
+          "pct": 46.1,
+          "seats": 315,
+          "change": -78,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 12492404,
+          "pct": 43.4,
+          "seats": 298,
+          "change": 90
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 2621487,
+          "pct": 9.1,
+          "seats": 9,
+          "change": -3
+        },
+        {
+          "name": "Nationalist Party",
+          "party": "nat",
+          "votes": 65211,
+          "pct": 0.2,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Independent Liberal",
+          "party": "ilib",
+          "votes": 15066,
+          "pct": 0.1,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 53505,
+          "pct": 0.2,
+          "seats": 0,
+          "change": -8
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 257289,
+          "pct": 0.89,
+          "seats": 0,
+          "change": -15
+        }
+      ],
+      "notes": "Conservative is the table's \"Conservative (Total)\" row: the Conservatives with the Scottish Unionists and the Ulster Unionists (10 seats), plus the National Liberals (16 seats, 985,343 votes). Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. Seat changes are against the 1945 result; the table gives no separate gains and losses for Labour and the Conservatives because of the boundary changes. The party rows add up to 28,771,138 votes, 14 more than the table's total of 28,771,124, which is used for the Others share. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1950 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). England goes to the Conservatives with the National Liberals (253 seats to Labour's 251; the Conservatives alone had 243), following the national table's grouping. Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives.",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1950_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1951",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1951-10-25",
+      "note": "Voting age 21",
+      "totalSeats": 625,
+      "turnout": 82.6,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1951_United_Kingdom_general_election",
+        "revid": 1378881269
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13718199,
+          "pct": 48,
+          "seats": 321,
+          "change": 23,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 13948883,
+          "pct": 48.8,
+          "seats": 295,
+          "change": -20
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 730546,
+          "pct": 2.6,
+          "seats": 6,
+          "change": -3
+        },
+        {
+          "name": "Irish Labour",
+          "party": "irlab",
+          "votes": 33174,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independent Nationalist",
+          "party": "inat",
+          "votes": 33097,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Nationalist Party",
+          "party": "nat",
+          "votes": 32714,
+          "pct": 0.1,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 99981,
+          "pct": 0.35,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Conservative is the table's \"Conservative (Total)\" row: the Conservatives with the Scottish Unionists and the Ulster Unionists (9 seats), plus the National Liberals (19 seats, 1,058,138 votes). Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. The infobox gives slightly different totals for Labour (13,948,385) and the Conservatives (13,717,851); the table's figures are used because they add up to its total of 28,596,594. The full results table gives Irish Labour 0 seats (with a gain and net +1) and an Independent Republican 1 seat; the summary table and the transfers-of-seats table give the seat (Belfast West) to Irish Labour and none to an Independent Republican, so that is used. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1951 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives. In Scotland in 1951 the Unionists with the National Liberals and Labour both won 35 seats; the Unionists had more votes (1,349,298 to 1,330,244), so Scotland is given to them.",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "con",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1951_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1955",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1955-05-26",
+      "note": "Voting age 21",
+      "totalSeats": 630,
+      "turnout": 76.8,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1955_United_Kingdom_general_election",
+        "revid": 1378881320
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13310891,
+          "pct": 49.7,
+          "seats": 345,
+          "change": 24,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 12405254,
+          "pct": 46.4,
+          "seats": 277,
+          "change": -18
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 722402,
+          "pct": 2.7,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 152310,
+          "pct": 0.6,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 168872,
+          "pct": 0.63,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "Conservative is the table's \"Conservative (Total)\" row: the Conservatives with the Scottish Unionists and the Ulster Unionists (10 seats), plus the National Liberals (21 seats, 842,113 votes). Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. The full results table repeats Labour's 1951 figures (295 seats, 13,948,883 votes) and the Liberals' 1951 vote (730,546); Labour 277 seats and 12,405,254 votes and Liberal 722,402 votes are taken from the infobox and the summary table, which agree with the table's own seat share (44.0%), vote shares, net change and totals. Sinn Féin's 2 seats come from the summary table (the full table shows 1 with a net change of +2); with these corrections the seats add up to 630 and the votes to the table's total of 26,759,729. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1955 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). Scotland goes to the Unionists with the National Liberals (36 seats to Labour's 34; the Unionists alone had 30), following the national table's grouping. Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives.",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "con",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1955_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1959",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1959-10-08",
+      "note": "Voting age 21",
+      "totalSeats": 630,
+      "turnout": 78.7,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1959_United_Kingdom_general_election",
+        "revid": 1378381101
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13750875,
+          "pct": 49.4,
+          "seats": 365,
+          "change": 20,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 12216172,
+          "pct": 43.8,
+          "seats": 258,
+          "change": -19
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 1640760,
+          "pct": 5.9,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Independent Unionist",
+          "party": "iu",
+          "votes": 12163,
+          "pct": 0,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 242682,
+          "pct": 0.87,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Conservative is the table's \"Conservative (Total)\" row: the Conservatives with the Scottish Unionists and the Ulster Unionists (12 seats), plus the National Liberals (20 seats, 765,794 votes). Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. The full results table puts a 1 in the Fellowship Party's seat column although its seat share is blank and the summary table lists no Fellowship seat; it is read as 0, which makes the seats add up to 630. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1959 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives.",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1959_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1964",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1964-10-15",
+      "note": "Voting age 21",
+      "totalSeats": 630,
+      "turnout": 77.1,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1964_United_Kingdom_general_election",
+        "revid": 1378381029
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 12205808,
+          "pct": 44.1,
+          "seats": 317,
+          "change": 59,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 12002642,
+          "pct": 43.4,
+          "seats": 304,
+          "change": -61
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 3099283,
+          "pct": 11.2,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 349461,
+          "pct": 1.26,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Conservative is the table's \"Conservative (Total)\" row: the Conservatives with the Scottish Unionists and the Ulster Unionists (12 seats), plus the National Liberals (6 seats, 326,130 votes). Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. The party rows add up to 27,657,194 votes, 46 more than the table's total of 27,657,148 valid votes (41,073 blank and invalid votes are listed separately). The full results table shows 1 seat for both the Independent Unionists (who lost their only seat, net −1) and the Fellowship Party; neither is in the summary table, so both are read as 0, which makes the seats add up to 630. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1964 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives.",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1964_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1966",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1966-03-31",
+      "note": "Voting age 21",
+      "totalSeats": 630,
+      "turnout": 75.8,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1966_United_Kingdom_general_election",
+        "revid": 1378013745
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 13096629,
+          "pct": 48,
+          "seats": 364,
+          "change": 47,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 11418455,
+          "pct": 41.9,
+          "seats": 253,
+          "change": -51
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 2327457,
+          "pct": 8.5,
+          "seats": 12,
+          "change": 3
+        },
+        {
+          "name": "Republican Labour Party",
+          "party": "rlp",
+          "votes": 26292,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 395914,
+          "pct": 1.45,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Conservative is the table's \"Conservative (Total)\" row: the Conservatives with the Scottish Unionists and the Ulster Unionists (11 seats), plus the National Liberals (3 seats, 149,779 votes). Labour includes the Labour Co-operative MPs and the Speaker. The full results table puts a 1 in the Fellowship Party's seat column although it is not in the summary table and had no gains; it is read as 0, which makes the seats add up to 630. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1966 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives.",
+      "regionWinners": {
+        "ENG": "lab",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1966_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1970",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1970-06-18",
+      "totalSeats": 630,
+      "turnout": 72,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1970_United_Kingdom_general_election",
+        "revid": 1378181980
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13145123,
+          "pct": 46.4,
+          "seats": 330,
+          "change": 77,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 12208758,
+          "pct": 43.1,
+          "seats": 288,
+          "change": -76
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 2117035,
+          "pct": 7.5,
+          "seats": 6,
+          "change": -6
+        },
+        {
+          "name": "Unity",
+          "party": "unity",
+          "votes": 140930,
+          "pct": 0.5,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 306802,
+          "pct": 1.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Protestant Unionist Party",
+          "party": "protu",
+          "votes": 35303,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Republican Labour Party",
+          "party": "rlp",
+          "votes": 30649,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independent Labour",
+          "party": "ilab",
+          "votes": 16701,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 343537,
+          "pct": 1.21,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Conservative includes the Ulster Unionists (8 seats, 422,041 votes), as in the table. Labour includes the Labour Co-operative MPs and the Speaker. The table gives Labour −76 seats and the Independent Labour seat a change of 0, so the changes sum to −1; the infobox has Labour −75. The party rows add up to 28,344,838 votes, 40 more than the table's total of 28,344,798. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1970 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one). Northern Ireland's winner is the Ulster Unionist Party, which the national table counts with the Conservatives.",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1970_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1974-02",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1974-02-28",
+      "label": "February 1974",
+      "totalSeats": 635,
+      "turnout": 78.8,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/February_1974_United_Kingdom_general_election",
+        "revid": 1378881496
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 11645616,
+          "pct": 37.2,
+          "seats": 301,
+          "change": 20,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 11872180,
+          "pct": 37.9,
+          "seats": 297,
+          "change": -45
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 6059519,
+          "pct": 19.3,
+          "seats": 14,
+          "change": 8
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 633180,
+          "pct": 2,
+          "seats": 7,
+          "change": 6
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 232103,
+          "pct": 0.7,
+          "seats": 7,
+          "change": 7
+        },
+        {
+          "name": "Vanguard Unionist Progressive Party",
+          "party": "vup",
+          "votes": 75944,
+          "pct": 0.2,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 171374,
+          "pct": 0.5,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 160437,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 58656,
+          "pct": 0.2,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independent Labour",
+          "party": "ilab",
+          "votes": 22918,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Labour",
+          "party": "dlab",
+          "votes": 14780,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 393455,
+          "pct": 1.26,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "From this election the Ulster Unionists are counted separately from the Conservatives. Seat changes are against the article's notional 1970 results on the new boundaries, which still count the Ulster Unionists with the Conservatives (hence the UUP's +7). Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. Region winners are the party with most seats in each nation, from the infoboxes of the four \"February 1974 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/February_1974_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1974-10",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1974-10-10",
+      "label": "October 1974",
+      "totalSeats": 635,
+      "turnout": 72.8,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/October_1974_United_Kingdom_general_election",
+        "revid": 1378631154
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 11457079,
+          "pct": 39.3,
+          "seats": 319,
+          "change": 18,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 10462565,
+          "pct": 35.8,
+          "seats": 277,
+          "change": -20
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 5346704,
+          "pct": 18.3,
+          "seats": 13,
+          "change": -1
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 839617,
+          "pct": 2.9,
+          "seats": 11,
+          "change": 4
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 256065,
+          "pct": 0.9,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 166321,
+          "pct": 0.6,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Vanguard Unionist Progressive Party",
+          "party": "vup",
+          "votes": 92262,
+          "pct": 0.3,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 154193,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 59451,
+          "pct": 0.2,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independent Republican",
+          "party": "irep",
+          "votes": 32795,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 322052,
+          "pct": 1.1,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. Vanguard's share is 0.3% from the summary table (the full table says 0.2%, but 92,262 votes is 0.32%). Region winners are the party with most seats in each nation, from the infoboxes of the four \"October 1974 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "lab",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/October_1974_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1979",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1979-05-03",
+      "totalSeats": 635,
+      "turnout": 76,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1979_United_Kingdom_general_election",
+        "revid": 1378892013
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13697923,
+          "pct": 43.9,
+          "seats": 339,
+          "change": 62,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 11532218,
+          "pct": 36.9,
+          "seats": 269,
+          "change": -50
+        },
+        {
+          "name": "Liberal",
+          "party": "lib",
+          "votes": 4313804,
+          "pct": 13.8,
+          "seats": 11,
+          "change": -2
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 254578,
+          "pct": 0.8,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 70975,
+          "pct": 0.2,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 504259,
+          "pct": 1.6,
+          "seats": 2,
+          "change": -9
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 132544,
+          "pct": 0.4,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 126325,
+          "pct": 0.4,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "United Ulster Unionist Party",
+          "party": "uuup",
+          "votes": 39856,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independent Unionist",
+          "party": "iu",
+          "votes": 36989,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independent Republican",
+          "party": "irep",
+          "votes": 22398,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 487925,
+          "pct": 1.56,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "Labour includes the Labour Co-operative MPs and the Speaker. With those corrections the party rows add up to 31,219,794 votes, 1,568 fewer than the table's total of 31,221,362 valid votes, which is used for the Others share. The full results table repeats October 1974 vote figures for Labour (11,457,079) and the Liberals (5,346,704, 18.3%); Labour 11,532,218 and Liberal 4,313,804 (13.8%) are taken from the infobox and the summary table. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1979 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1979_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1983",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1983-06-09",
+      "totalSeats": 650,
+      "turnout": 72.7,
+      "source": {
+        "name": "Wikipedia, citing the UK Parliament's election results data and Rallings & Thrasher, British Electoral Facts",
+        "url": "https://en.wikipedia.org/wiki/1983_United_Kingdom_general_election",
+        "revid": 1378881741
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13012316,
+          "pct": 42.4,
+          "seats": 397,
+          "change": 38,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 8456934,
+          "pct": 27.6,
+          "seats": 209,
+          "change": -52
+        },
+        {
+          "name": "SDP–Liberal Alliance",
+          "party": "all",
+          "votes": 7780949,
+          "pct": 25.4,
+          "seats": 23,
+          "change": 14
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 259952,
+          "pct": 0.8,
+          "seats": 11,
+          "change": 2
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 152749,
+          "pct": 0.5,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 331975,
+          "pct": 1.1,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 125309,
+          "pct": 0.4,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 137012,
+          "pct": 0.4,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 102701,
+          "pct": 0.3,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Ulster Popular Unionist Party",
+          "party": "upup",
+          "votes": 22861,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 288379,
+          "pct": 0.94,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "notes": "SDP–Liberal Alliance is the table's total row for the Liberals (17 seats, 4,210,115 votes) and the Social Democrats (6 seats, 3,570,834 votes). Seat changes are against the article's notional 1979 results on the new boundaries. Labour includes the Labour Co-operative MPs. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1983 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1983_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1987",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1987-06-11",
+      "totalSeats": 650,
+      "turnout": 75.3,
+      "source": {
+        "name": "Wikipedia (the full results table has no inline citation; the summary table cites Rallings & Thrasher, British Electoral Facts)",
+        "url": "https://en.wikipedia.org/wiki/1987_United_Kingdom_general_election",
+        "revid": 1377821798
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13760583,
+          "pct": 42.3,
+          "seats": 376,
+          "change": -21,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 10029807,
+          "pct": 30.8,
+          "seats": 229,
+          "change": 20
+        },
+        {
+          "name": "SDP–Liberal Alliance",
+          "party": "all",
+          "votes": 7341633,
+          "pct": 22.6,
+          "seats": 22,
+          "change": -1
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 276230,
+          "pct": 0.8,
+          "seats": 9,
+          "change": -2
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 416473,
+          "pct": 1.3,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 154067,
+          "pct": 0.5,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 123599,
+          "pct": 0.4,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 85642,
+          "pct": 0.3,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 83389,
+          "pct": 0.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Ulster Popular Unionist Party",
+          "party": "upup",
+          "votes": 18420,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 221908,
+          "pct": 0.68,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "SDP–Liberal Alliance is one row in the table; the summary table splits it into the Liberals (17 seats, 4,173,450 votes) and the Social Democrats (5 seats, 3,168,183 votes). The table lists parties with more than 500 votes; the total of 32,529,578 votes cast is given under it and used for the Others share. Labour includes the Labour Co-operative MPs; the Conservative seats include the Speaker. The summary table gives the SDLP 154,087 votes rather than 154,067. The Conservative share is 42.3% from the summary table (the full table says 42.2%, but 13,760,583 of 32,529,578 is 42.30%). Region winners are the party with most seats in each nation, from the infoboxes of the four \"1987 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1987_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1992",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1992-04-09",
+      "totalSeats": 651,
+      "turnout": 77.7,
+      "source": {
+        "name": "Wikipedia, citing the House of Commons Information Office",
+        "url": "https://en.wikipedia.org/wiki/1992_United_Kingdom_general_election",
+        "revid": 1377420482
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 14094116,
+          "pct": 41.9,
+          "seats": 336,
+          "change": -41,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 11557062,
+          "pct": 34.4,
+          "seats": 271,
+          "change": 42
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 6027038,
+          "pct": 17.8,
+          "seats": 20,
+          "change": -2
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 270749,
+          "pct": 0.8,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 184445,
+          "pct": 0.5,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 156796,
+          "pct": 0.5,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 629552,
+          "pct": 1.9,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 103039,
+          "pct": 0.3,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Ulster Popular Unionist Party",
+          "party": "upup",
+          "votes": 19305,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 575575,
+          "pct": 1.71,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "The table lists parties with more than 500 votes; its rows add up to 33,617,677, 3,603 more than the 33,614,074 votes cast given under it, which is used for the Others share. The Liberal Democrats' 17.8% is the table's figure, though 6,027,038 votes is 17.9% of the total. The article's summary table (citing Rallings & Thrasher) has slightly different votes (Conservative 14,093,007, Labour 11,560,484, Liberal Democrats 5,999,606). The infobox gives the Conservative change as −40 (376 to 336); the table says −41. Plaid Cymru includes the Green/Plaid Cymru alliance, as the table says. Labour includes the Labour Co-operative MPs. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1992 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1992_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-1997",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "1997-05-01",
+      "totalSeats": 659,
+      "turnout": 71.3,
+      "source": {
+        "name": "Wikipedia, citing the House of Commons Information Office",
+        "url": "https://en.wikipedia.org/wiki/1997_United_Kingdom_general_election",
+        "revid": 1377424110
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 13518167,
+          "pct": 43.2,
+          "seats": 418,
+          "change": 145,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 9591085,
+          "pct": 30.7,
+          "seats": 165,
+          "change": -178
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 5242947,
+          "pct": 16.8,
+          "seats": 46,
+          "change": 28
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 258349,
+          "pct": 0.8,
+          "seats": 10,
+          "change": 1
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 621550,
+          "pct": 2,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 161030,
+          "pct": 0.5,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 190814,
+          "pct": 0.6,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 126921,
+          "pct": 0.4,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 107348,
+          "pct": 0.3,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 64482,
+          "pct": 0.2,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 23969,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "UK Unionist Party",
+          "party": "ukup",
+          "votes": 12817,
+          "pct": 0,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Referendum Party",
+          "party": "refp",
+          "votes": 811849,
+          "pct": 2.6,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 513611,
+          "pct": 1.64,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The table lists parties with more than 500 votes; its rows add up to 31,244,939 of the 31,286,284 votes cast, which is used for the Others share. Seat changes are against notional 1992 results on the new boundaries. The Speaker (Betty Boothroyd) is listed separately. The independent seat is Tatton. Labour includes the Labour Co-operative MPs. The summary table gives the Conservatives 9,600,943 votes rather than 9,591,085. Region winners are the party with most seats in each nation, from the infoboxes of the four \"1997 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "lab",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1997_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-2001",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2001-06-07",
+      "totalSeats": 659,
+      "turnout": 59.4,
+      "source": {
+        "name": "Wikipedia, citing the House of Commons Library",
+        "url": "https://en.wikipedia.org/wiki/2001_United_Kingdom_general_election",
+        "revid": 1377442877
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 10724953,
+          "pct": 40.7,
+          "seats": 412,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 8357615,
+          "pct": 31.7,
+          "seats": 166,
+          "change": 1
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 4814321,
+          "pct": 18.3,
+          "seats": 52,
+          "change": 6
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 216839,
+          "pct": 0.8,
+          "seats": 6,
+          "change": -4
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 464314,
+          "pct": 1.8,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 181999,
+          "pct": 0.7,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 195893,
+          "pct": 0.7,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 175933,
+          "pct": 0.7,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 169865,
+          "pct": 0.6,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Health Concern",
+          "party": "khhc",
+          "votes": 28487,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 16053,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "UKIP",
+          "party": "ukip",
+          "votes": 390563,
+          "pct": 1.5,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 623719,
+          "pct": 2.37,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "The table lists parties with more than 500 votes; its rows add up to 26,360,554 of the 26,367,383 votes cast, which is used for the Others share. The Speaker is listed separately. Labour includes the Labour Co-operative MPs. The Conservative share is 31.7% from the summary table and infobox (the full table says 31.6%, but 8,357,615 of 26,367,383 is 31.70%). Region winners are the party with most seats in each nation, from the infoboxes of the four \"2001 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "lab",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "uup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2001_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-2005",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2005-05-05",
+      "totalSeats": 646,
+      "turnout": 61.4,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2005_United_Kingdom_general_election",
+        "revid": 1368619528
+      },
+      "candidates": [
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 9552436,
+          "pct": 35.2,
+          "seats": 355,
+          "change": -47,
+          "winner": true
+        },
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 8784915,
+          "pct": 32.4,
+          "seats": 198,
+          "change": 33
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 5985454,
+          "pct": 22,
+          "seats": 62,
+          "change": 11
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 241856,
+          "pct": 0.9,
+          "seats": 9,
+          "change": 4
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 412267,
+          "pct": 1.5,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 174530,
+          "pct": 0.6,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 174838,
+          "pct": 0.6,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 125626,
+          "pct": 0.5,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 127414,
+          "pct": 0.5,
+          "seats": 1,
+          "change": -5
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 122416,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Respect",
+          "party": "respect",
+          "votes": 68094,
+          "pct": 0.3,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Health Concern",
+          "party": "khhc",
+          "votes": 18739,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 15153,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "UKIP",
+          "party": "ukip",
+          "votes": 605973,
+          "pct": 2.2,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 725704,
+          "pct": 2.67,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The full results table is transcluded from Template:2005 United Kingdom general election (revision 1318149285). It leaves out the smallest candidates; its rows add up to 27,135,415 of the 27,148,510 votes, which is used for the Others share. Seat changes are against notional 2001 results (Scotland went from 72 to 59 seats). The Speaker (Michael Martin) is listed separately; the independent seat is Blaenau Gwent. Labour includes the Labour Co-operative MPs. The Green Party of England and Wales (257,758 votes, 0.95%; the table rounds it to 1.0%) is under the 1% threshold and is in Others. Region winners are the party with most seats in each nation, from the infoboxes of the four \"2005 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "lab",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "dup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2005_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-2010",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2010-05-06",
+      "totalSeats": 650,
+      "turnout": 65.1,
+      "source": {
+        "name": "Wikipedia, citing BBC News",
+        "url": "https://en.wikipedia.org/wiki/2010_United_Kingdom_general_election",
+        "revid": 1375855956
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 10703754,
+          "pct": 36.1,
+          "seats": 306,
+          "change": 97,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 8609527,
+          "pct": 29,
+          "seats": 258,
+          "change": -91
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 6836824,
+          "pct": 23,
+          "seats": 57,
+          "change": -5
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 168216,
+          "pct": 0.6,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 491386,
+          "pct": 1.7,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 171942,
+          "pct": 0.6,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 165394,
+          "pct": 0.6,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 110970,
+          "pct": 0.4,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Green",
+          "party": "grn",
+          "votes": 265247,
+          "pct": 0.9,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 56527,
+          "pct": 0.19,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Alliance Party (NI)",
+          "party": "apni",
+          "votes": 42762,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 22860,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "UKIP",
+          "party": "ukip",
+          "votes": 919546,
+          "pct": 3.1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "British National Party",
+          "party": "bnp",
+          "votes": 564331,
+          "pct": 1.9,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 395421,
+          "pct": 1.33,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "notes": "The full results table is transcluded from Template:2010 United Kingdom parliamentary election (revision 1364478254). It itemises only four independents (Sylvia Hermon, who won North Down, Rodney Connor, Bob Spink and Esther Rantzen), merged here as Independents; other independents and the smallest parties are not listed, so the rows add up to 29,524,707, 162,897 fewer than the 29,687,604 total used for the shares. Seat changes are notional (new boundaries). The Speaker (John Bercow) is listed separately and is not in the Conservative total. Labour includes the Labour Co-operative MPs. Region winners are the party with most seats in each nation, from the infoboxes of the four \"2010 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "lab",
+        "WLS": "lab",
+        "NI": "dup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-2015",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2015-05-07",
+      "totalSeats": 650,
+      "turnout": 66.4,
+      "source": {
+        "name": "Wikipedia, citing BBC News and The Guardian",
+        "url": "https://en.wikipedia.org/wiki/2015_United_Kingdom_general_election",
+        "revid": 1378339994
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 11299609,
+          "pct": 36.8,
+          "seats": 330,
+          "change": 24,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 9347273,
+          "pct": 30.4,
+          "seats": 232,
+          "change": -26
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 1454436,
+          "pct": 4.7,
+          "seats": 56,
+          "change": 50
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 2415916,
+          "pct": 7.9,
+          "seats": 8,
+          "change": -49
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 184260,
+          "pct": 0.6,
+          "seats": 8,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 176232,
+          "pct": 0.6,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 181704,
+          "pct": 0.6,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 99809,
+          "pct": 0.3,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "UUP",
+          "party": "uup",
+          "votes": 114935,
+          "pct": 0.4,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "UKIP",
+          "party": "ukip",
+          "votes": 3881099,
+          "pct": 12.6,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Green",
+          "party": "grn",
+          "votes": 1111603,
+          "pct": 3.8,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 98711,
+          "pct": 0.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 34617,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 297995,
+          "pct": 0.97,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "The full results table is transcluded from Template:2015 United Kingdom parliamentary election (revision 1360414158); its rows add up to 30,698,199, 674 more than its total of 30,697,525. The table gives the Green Party of England and Wales 3.8%, though its 1,111,603 votes are 3.6% of the total; 3.8% matches the three Green parties together (with the Scottish Greens' 39,205 and the Northern Ireland Greens' 6,822). The Speaker (John Bercow) is listed separately and removed from the Conservative tally, as the table notes. Labour includes the Labour Co-operative MPs. Region winners are the party with most seats in each nation, from the infoboxes of the four \"2015 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "snp",
+        "WLS": "lab",
+        "NI": "dup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2015_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-2017",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2017-06-08",
+      "totalSeats": 650,
+      "turnout": 68.8,
+      "source": {
+        "name": "Wikipedia (the results table cites no source for the votes)",
+        "url": "https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election",
+        "revid": 1376182429
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13636684,
+          "pct": 42.3,
+          "seats": 317,
+          "change": -13,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 12877918,
+          "pct": 40,
+          "seats": 262,
+          "change": 30
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 977568,
+          "pct": 3,
+          "seats": 35,
+          "change": -21
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 2371861,
+          "pct": 7.4,
+          "seats": 12,
+          "change": 4
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 292316,
+          "pct": 0.9,
+          "seats": 10,
+          "change": 2
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 238915,
+          "pct": 0.7,
+          "seats": 7,
+          "change": 3
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 164466,
+          "pct": 0.5,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Green",
+          "party": "grn",
+          "votes": 512327,
+          "pct": 1.6,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 151471,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 34299,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "UKIP",
+          "party": "ukip",
+          "votes": 594068,
+          "pct": 1.8,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 352291,
+          "pct": 1.09,
+          "seats": 0,
+          "change": -5
+        }
+      ],
+      "notes": "The full results table is transcluded from Template:2017 United Kingdom parliamentary election (revision 1356207323). The Speaker (John Bercow) is listed separately and removed from the Conservative tally, as the table notes. Labour includes the Labour Co-operative MPs. Region winners are the party with most seats in each nation, from the infoboxes of the four \"2017 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "snp",
+        "WLS": "lab",
+        "NI": "dup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election_in_England"
+    },
+    {
+      "id": "gb-commons-2019",
+      "office": "House of Commons",
+      "kind": "legislative",
+      "date": "2019-12-12",
+      "totalSeats": 650,
+      "turnout": 67.3,
+      "source": {
+        "name": "Wikipedia, citing BBC News and the House of Commons Library",
+        "url": "https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election",
+        "revid": 1378298505
+      },
+      "candidates": [
+        {
+          "name": "Conservative",
+          "party": "con",
+          "votes": 13966454,
+          "pct": 43.63,
+          "seats": 365,
+          "change": 48,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 10269051,
+          "pct": 32.08,
+          "seats": 202,
+          "change": -60
+        },
+        {
+          "name": "SNP",
+          "party": "snp",
+          "votes": 1242380,
+          "pct": 3.88,
+          "seats": 48,
+          "change": 13
+        },
+        {
+          "name": "Liberal Democrats",
+          "party": "ld",
+          "votes": 3696419,
+          "pct": 11.55,
+          "seats": 11,
+          "change": -1
+        },
+        {
+          "name": "DUP",
+          "party": "dup",
+          "votes": 244128,
+          "pct": 0.76,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 181853,
+          "pct": 0.57,
+          "seats": 7,
+          "change": 0
+        },
+        {
+          "name": "Plaid Cymru",
+          "party": "pc",
+          "votes": 153265,
+          "pct": 0.48,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "SDLP",
+          "party": "sdlp",
+          "votes": 118737,
+          "pct": 0.37,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Green",
+          "party": "grn",
+          "votes": 835597,
+          "pct": 2.61,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Alliance Party (NI)",
+          "party": "apni",
+          "votes": 134115,
+          "pct": 0.42,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Speaker",
+          "party": "spk",
+          "votes": 26831,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Brexit Party",
+          "party": "ref",
+          "votes": 644257,
+          "pct": 2.01,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 501023,
+          "pct": 1.57,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "The full results table is transcluded from Template:2019 United Kingdom parliamentary election (revision 1356372676). The table shows n/a for the Brexit Party's seats and change; it won no seats (the other rows account for all 650). The Speaker (Lindsay Hoyle) is listed separately. Green is the Green Party of England and Wales only (the article gives 865,715 votes, 2.70%, for all three Green parties). Labour includes the Labour Co-operative MPs. Region winners are the party with most seats in each nation, from the infoboxes of the four \"2019 United Kingdom general election in England/Scotland/Wales/Northern Ireland\" articles (regionSource is the England one).",
+      "regionWinners": {
+        "ENG": "con",
+        "SCT": "snp",
+        "WLS": "lab",
+        "NI": "dup"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election_in_England"
+    }
+  ]
+}

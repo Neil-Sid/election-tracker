@@ -1,0 +1,242 @@
+{
+  "policy": "For now the tracker uses no API for race calls. It calls races itself from the counted results it holds: a region is called when it has finished counting, or when the leader's margin is larger than every vote left to count. Exit polls and media projections are never used. The authority below publishes each country's official results.",
+  "countries": {
+    "US": {
+      "name": "State and local election offices",
+      "short": "State election offices",
+      "url": "https://www.eac.gov/",
+      "role": "Official results and certification",
+      "access": "varies",
+      "note": "Each state counts and certifies its own results. Media race calls, including AP's, are not used.",
+      "boundaries": {
+        "name": "US Census Bureau, 119th Congress cartographic boundaries",
+        "licence": "Public domain",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html",
+        "note": "Boundaries in force for the 2024 election. Mid-decade redraws for 2026 are not included yet."
+      }
+    },
+    "CA": {
+      "name": "Elections Canada",
+      "short": "Elections Canada",
+      "url": "https://enr.elections.ca/",
+      "role": "Official results",
+      "access": "public",
+      "note": "Public results download refreshed through the night. Returning officers validate the count.",
+      "boundaries": {
+        "name": "Elections Canada, federal electoral districts (2023 Representation Order)",
+        "licence": "Open Government Licence – Canada",
+        "url": "https://www.elections.ca/"
+      }
+    },
+    "BR": {
+      "name": "Superior Electoral Court (TSE)",
+      "short": "TSE",
+      "url": "https://resultados.tse.jus.br/",
+      "role": "Official results and declarations",
+      "access": "public",
+      "note": "TSE publishes results as public JSON. Not connected for now."
+    },
+    "AR": {
+      "name": "Dirección Nacional Electoral (DINE)",
+      "short": "DINE",
+      "url": "https://www.argentina.gob.ar/dine/resultados-electorales",
+      "role": "Provisional count",
+      "access": "public",
+      "note": "The final count is the electoral courts' (Cámara Nacional Electoral)."
+    },
+    "GB": {
+      "name": "Returning officers' declarations",
+      "short": "Declarations",
+      "url": "https://pa.media/elections-data/",
+      "role": "Official declarations",
+      "access": "licensed",
+      "note": "Each seat is declared at its count. There is no official central feed; PA Media licenses the real-time data.",
+      "boundaries": {
+        "name": "Office for National Statistics, Westminster constituencies (July 2024)",
+        "licence": "Open Government Licence v3.0",
+        "url": "https://geoportal.statistics.gov.uk/",
+        "note": "Contains public sector information licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright and database right 2024."
+      }
+    },
+    "ES": {
+      "name": "Ministerio del Interior",
+      "short": "Interior Ministry",
+      "url": "https://infoelectoral.interior.gob.es/",
+      "role": "Provisional results",
+      "access": "public",
+      "note": "The Junta Electoral's scrutiny is the final official result."
+    },
+    "FR": {
+      "name": "Ministère de l'Intérieur",
+      "short": "Interior Ministry",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/",
+      "role": "Official results",
+      "access": "public",
+      "note": "Election-night estimations from pollsters are not used.",
+      "boundaries": {
+        "name": "Contours des circonscriptions législatives, data.gouv.fr",
+        "licence": "Licence Ouverte 2.0",
+        "url": "https://www.data.gouv.fr/fr/datasets/contours-geographiques-des-circonscriptions-legislatives/",
+        "note": "Built from Ministry of the Interior polling-station data. Shows the 539 metropolitan constituencies; overseas and expatriate seats are not drawn."
+      }
+    },
+    "DE": {
+      "name": "Die Bundeswahlleiterin",
+      "short": "Federal Returning Officer",
+      "url": "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/opendata.html",
+      "role": "Official results",
+      "access": "public",
+      "note": "Open XML and CSV published as each constituency finishes counting. TV projections are not used.",
+      "boundaries": {
+        "name": "Die Bundeswahlleiterin, Wahlkreise for the 2025 Bundestag",
+        "licence": "dl-de/by-2-0",
+        "url": "https://www.bundeswahlleiterin.de/",
+        "note": "© Die Bundeswahlleiterin, Wiesbaden 2024. © GeoBasis-DE / BKG 2024. Shows the 299 constituencies; the other seats are filled from party lists."
+      }
+    },
+    "AU": {
+      "name": "Australian Electoral Commission",
+      "short": "AEC",
+      "url": "https://www.aec.gov.au/media/mediafeed/",
+      "role": "Official results",
+      "access": "registration",
+      "note": "AEC media feed over FTP, updated every 90 seconds. Divisional Returning Officers declare each seat.",
+      "boundaries": {
+        "name": "Australian Bureau of Statistics, Commonwealth Electoral Divisions 2025",
+        "licence": "CC BY 4.0",
+        "url": "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/digital-boundary-files"
+      }
+    },
+    "IN": {
+      "name": "Election Commission of India",
+      "short": "ECI",
+      "url": "https://results.eci.gov.in/",
+      "role": "Official results",
+      "access": "public",
+      "note": "Returning officers declare each constituency. No public API.",
+      "boundaries": {
+        "name": "DataMeet, parliamentary constituencies",
+        "licence": "CC0",
+        "url": "https://github.com/datameet/maps",
+        "note": "Assam and Jammu and Kashmir show boundaries from before the 2023 delimitation."
+      }
+    },
+    "JP": {
+      "name": "Ministry of Internal Affairs and Communications",
+      "short": "MIC",
+      "url": "https://www.soumu.go.jp/senkyo/",
+      "role": "Official results",
+      "access": "none",
+      "note": "Prefectural election committees count. There is no official real-time feed; election-night calls are media projections and are not used.",
+      "boundaries": {
+        "name": "japan-choropleth, House of Representatives districts (2022)",
+        "licence": "Public domain source data",
+        "url": "https://www.npmjs.com/package/japan-choropleth",
+        "note": "Not an official government file; compiled from public-domain data. Shows the 289 single-member districts; the other seats are proportional."
+      }
+    },
+    "MX": {
+      "name": "Instituto Nacional Electoral (INE)",
+      "short": "INE",
+      "url": "https://www.ine.mx/voto-y-elecciones/resultados-electorales/",
+      "role": "Preliminary and official counts",
+      "access": "public",
+      "note": "PREP is preliminary; the district computations are official. The quick count is a statistical sample and is not used."
+    },
+    "IT": {
+      "name": "Ministero dell'Interno (Eligendo)",
+      "short": "Interior Ministry",
+      "url": "https://elezioni.interno.gov.it/",
+      "role": "Official results",
+      "access": "public",
+      "note": "No documented live API."
+    },
+    "KR": {
+      "name": "National Election Commission",
+      "short": "NEC",
+      "url": "https://info.nec.go.kr/",
+      "role": "Official results",
+      "access": "public",
+      "note": "NEC's open API is not real-time on election day."
+    },
+    "ID": {
+      "name": "General Elections Commission (KPU)",
+      "short": "KPU",
+      "url": "https://www.kpu.go.id/",
+      "role": "Official recapitulation",
+      "access": "public",
+      "note": "The Sirekap real count is unofficial and private quick counts are not used."
+    },
+    "ZA": {
+      "name": "Electoral Commission of South Africa (IEC)",
+      "short": "IEC",
+      "url": "https://results.elections.org.za/",
+      "role": "Official results",
+      "access": "registration",
+      "note": "The IEC offers a real-time results API to registered third parties."
+    },
+    "TR": {
+      "name": "Supreme Election Council (YSK)",
+      "short": "YSK",
+      "url": "https://www.ysk.gov.tr/",
+      "role": "Official results",
+      "access": "public",
+      "note": "Agencies relay figures on the night; only YSK announces results."
+    },
+    "PL": {
+      "name": "National Electoral Commission (PKW)",
+      "short": "PKW",
+      "url": "https://wybory.gov.pl/",
+      "role": "Official results",
+      "access": "public",
+      "note": "Exit polls are not used."
+    },
+    "NL": {
+      "name": "Kiesraad",
+      "short": "Kiesraad",
+      "url": "https://www.kiesraad.nl/",
+      "role": "Official results",
+      "access": "public",
+      "note": "The Kiesraad certifies weeks later. Election-night municipal tallies are gathered by ANP under licence."
+    },
+    "AT": {
+      "name": "Federal Ministry of the Interior",
+      "short": "Interior Ministry",
+      "url": "https://www.bmi.gv.at/",
+      "role": "Official results",
+      "access": "public",
+      "note": "Provisional results on election night; postal votes are added in the following days."
+    },
+    "PT": {
+      "name": "National Elections Commission (CNE)",
+      "short": "CNE",
+      "url": "https://www.cne.pt/",
+      "role": "Electoral authority",
+      "access": "public",
+      "note": "The Ministry of Internal Administration publishes provisional results on election night; the general count is official."
+    },
+    "SE": {
+      "name": "Swedish Election Authority (Valmyndigheten)",
+      "short": "Election Authority",
+      "url": "https://www.val.se/",
+      "role": "Official results",
+      "access": "public",
+      "note": "A preliminary count on election night; the final count by the county administrative boards follows within days."
+    },
+    "IE": {
+      "name": "Returning officers and the Electoral Commission",
+      "short": "Returning officers",
+      "url": "https://www.electoralcommission.ie/",
+      "role": "Official counts",
+      "access": "none",
+      "note": "Each constituency is counted separately by single transferable vote over one or more days; there is no official central live feed.",
+      "boundaries": {
+        "name": "Tailte Éireann, Dáil constituencies (2023 boundaries)",
+        "licence": "CC BY 4.0",
+        "url": "https://data.gov.ie/dataset/constituency-boundaries-ungeneralised-national-electoral-boundaries-2023",
+        "note": "© Tailte Éireann. The 43 constituencies used from the 2024 election, simplified for display."
+      }
+    }
+  },
+  "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."
+}

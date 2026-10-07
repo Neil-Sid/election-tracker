@@ -1,0 +1,3653 @@
+{
+  "code": "KR",
+  "parties": {
+    "lp": {
+      "name": "Liberal Party",
+      "color": "#254170",
+      "article": "Liberal Party (South Korea)"
+    },
+    "indcho": {
+      "name": "Cho Bong-am (independent)",
+      "color": "#E60026"
+    },
+    "dnp": {
+      "name": "Democratic Nationalist Party",
+      "color": "#9ACD32",
+      "article": "Democratic Nationalist Party (South Korea)"
+    },
+    "indshin": {
+      "name": "Shin Heung-u (independent)",
+      "color": "#FFCC33"
+    },
+    "prog56": {
+      "name": "Progressive Party (1956)",
+      "color": "#E60026",
+      "article": "Progressive Party (South Korea, 1956)"
+    },
+    "drp": {
+      "name": "Democratic Republican Party",
+      "color": "#835B38",
+      "article": "Democratic Republican Party (South Korea)"
+    },
+    "crp": {
+      "name": "Civil Rule Party",
+      "color": "#FFD700",
+      "article": "Civil Rule Party"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "rcp": {
+      "name": "Righteous Citizens Party",
+      "color": "#8E44AD"
+    },
+    "ndevp": {
+      "name": "New Development Party",
+      "color": "#E67E22"
+    },
+    "ndp": {
+      "name": "New Democratic Party",
+      "color": "#DC352A",
+      "article": "New Democratic Party (South Korea)"
+    },
+    "ukp": {
+      "name": "United Korea Party",
+      "color": "#312F2A",
+      "article": "United Korea Party (1962)"
+    },
+    "pp63": {
+      "name": "People's Party (1963)",
+      "color": "#C2C247",
+      "article": "People's Party (South Korea, 1963)"
+    },
+    "kip": {
+      "name": "Korea Independence Party",
+      "color": "#113DA6",
+      "article": "Korea Independence Party"
+    },
+    "djp": {
+      "name": "Democratic Justice Party",
+      "color": "#004C97",
+      "article": "Democratic Justice Party"
+    },
+    "rdp": {
+      "name": "Reunification Democratic Party",
+      "color": "#E60026",
+      "article": "Reunification Democratic Party"
+    },
+    "pdp": {
+      "name": "Peace Democratic Party",
+      "color": "#FADA5E",
+      "article": "Peace Democratic Party"
+    },
+    "ndrp": {
+      "name": "New Democratic Republican Party",
+      "color": "#59955E",
+      "article": "New Democratic Republican Party"
+    },
+    "nkp": {
+      "name": "New Korea Party",
+      "color": "#003990",
+      "article": "New Korea Party"
+    },
+    "dp91": {
+      "name": "Democratic Party (1991)",
+      "color": "#D82634",
+      "article": "Democratic Party (South Korea, 1991)"
+    },
+    "unp": {
+      "name": "Unification National Party",
+      "color": "#22B14D",
+      "article": "Unification National Party"
+    },
+    "nprp": {
+      "name": "New Political Reform Party",
+      "color": "#317873",
+      "article": "New Political Reform Party"
+    },
+    "ncnp": {
+      "name": "National Congress for New Politics",
+      "color": "#009A44",
+      "article": "National Congress for New Politics"
+    },
+    "lkp": {
+      "name": "Liberty Korea Party",
+      "color": "#C9151E",
+      "article": "Liberty Korea Party"
+    },
+    "nnp": {
+      "name": "New National Party",
+      "color": "#336C77",
+      "article": "New National Party (South Korea)"
+    },
+    "dlp": {
+      "name": "Democratic Labor Party",
+      "color": "#EE7700",
+      "article": "Democratic Labor Party (South Korea)"
+    },
+    "mdp": {
+      "name": "Millennium Democratic Party",
+      "color": "#00AA7B",
+      "article": "Democratic Party (South Korea, 2000)"
+    },
+    "gudnp": {
+      "name": "Grand Unified Democratic New Party",
+      "color": "#3CB371",
+      "article": "Grand Unified Democratic New Party"
+    },
+    "ckp": {
+      "name": "Creative Korea Party",
+      "color": "#8B4513",
+      "article": "Creative Korea Party"
+    },
+    "dup12": {
+      "name": "Democratic United Party",
+      "color": "#FAC71A",
+      "article": "Democratic Party (South Korea, 2013)"
+    },
+    "pp16": {
+      "name": "People Party (2016)",
+      "color": "#006241",
+      "article": "People Party (South Korea, 2016)"
+    },
+    "bareun": {
+      "name": "Bareun Party",
+      "color": "#08A3D9",
+      "article": "Bareun Party"
+    },
+    "jp": {
+      "name": "Justice Party",
+      "color": "#FFCC00",
+      "article": "Justice Party (South Korea)"
+    },
+    "na": {
+      "name": "National Association",
+      "color": "#1271B5",
+      "article": "National Association (South Korea)"
+    },
+    "kdp": {
+      "name": "Korea Democratic Party",
+      "color": "#008000",
+      "article": "Korea Democratic Party"
+    },
+    "kyp": {
+      "name": "Korea Youth Party",
+      "color": "#DA251D",
+      "article": "Korea Youth Party"
+    },
+    "knya": {
+      "name": "Korean National Youth Association",
+      "color": "#9370DB",
+      "article": "Korean National Youth Association"
+    },
+    "ff": {
+      "name": "Farmers Federation",
+      "color": "#666633",
+      "article": "Farmers Federation"
+    },
+    "tlf": {
+      "name": "Taehan Labour Federation",
+      "color": "#CC9933",
+      "article": "Taehan Labour Federation"
+    },
+    "knp": {
+      "name": "Korea Nationalist Party",
+      "color": "#800080",
+      "article": "Korea Nationalist Party"
+    },
+    "kftu": {
+      "name": "Korean Federation of Trade Unions",
+      "color": "#30D5C8",
+      "article": "Korean Federation of Trade Unions"
+    },
+    "ilmin": {
+      "name": "Ilmin Club",
+      "color": "#FFFF00",
+      "article": "Ilmin Club"
+    },
+    "sp48": {
+      "name": "Socialist Party (1948)",
+      "color": "#FF0000",
+      "article": "Socialist Party (South Korea, 1948)"
+    },
+    "nif": {
+      "name": "National Independence Federation",
+      "color": "#FF69B4",
+      "article": "National Independence Federation"
+    },
+    "dp55": {
+      "name": "Democratic Party (1955)",
+      "color": "#000080",
+      "article": "Democratic Party (South Korea, 1955)"
+    },
+    "up": {
+      "name": "Unification Party",
+      "color": "#008080",
+      "article": "Unification Party (South Korea)"
+    },
+    "smp": {
+      "name": "Socialist Mass Party",
+      "color": "#C0392B",
+      "article": "Socialist Mass Party (South Korea)"
+    },
+    "ksp": {
+      "name": "Korea Socialist Party",
+      "color": "#FF0080",
+      "article": "Korea Socialist Party (1960)"
+    },
+    "ldp63": {
+      "name": "Liberal Democratic Party",
+      "color": "#005848",
+      "article": "Liberal Democratic Party (South Korea)"
+    },
+    "cons63": {
+      "name": "Conservative Party (1963)",
+      "color": "#0087DC"
+    },
+    "awa": {
+      "name": "Autumn Wind Association",
+      "color": "#E91E63"
+    },
+    "npa63": {
+      "name": "New People's Association",
+      "color": "#2E8B57"
+    },
+    "mass": {
+      "name": "Mass Party",
+      "color": "#20B2AA",
+      "article": "Mass Party (South Korea)"
+    },
+    "dp67": {
+      "name": "Democratic Party (1967)",
+      "color": "#FAA50D",
+      "article": "Democratic Party (South Korea, 1967)"
+    },
+    "pp67": {
+      "name": "People's Party (1967)",
+      "color": "#FF69B4",
+      "article": "People's Party (South Korea, 1967)"
+    },
+    "jp67": {
+      "name": "Justice Party (1967)",
+      "color": "#350887"
+    },
+    "natp": {
+      "name": "National Party",
+      "color": "#4682B4",
+      "article": "National Party (South Korea)"
+    },
+    "appt": {
+      "name": "Presidential appointees",
+      "color": "#6A5ACD"
+    },
+    "dup": {
+      "name": "Democratic Unification Party",
+      "color": "#CC9933",
+      "article": "Democratic Unification Party (South Korea)"
+    },
+    "dkp": {
+      "name": "Democratic Korea Party",
+      "color": "#8B008B",
+      "article": "Democratic Korea Party"
+    },
+    "knp81": {
+      "name": "Korean National Party",
+      "color": "#498C00",
+      "article": "Korean National Party"
+    },
+    "crp81": {
+      "name": "Civil Rights Party",
+      "color": "#4CA459",
+      "article": "Civil Rights Party (South Korea)"
+    },
+    "npp81": {
+      "name": "New Politics Party",
+      "color": "#4697B2",
+      "article": "New Politics Party (South Korea)"
+    },
+    "dsp": {
+      "name": "Democratic Socialist Party",
+      "color": "#FF8000",
+      "article": "Democratic Socialist Party (South Korea)"
+    },
+    "dfp": {
+      "name": "Democratic Farmers' Party",
+      "color": "#A52A2A",
+      "article": "Democratic Farmer's Party"
+    },
+    "ppp81": {
+      "name": "Peaceful People Party",
+      "color": "#FF69B4",
+      "article": "Peaceful People Party"
+    },
+    "nkdp": {
+      "name": "New Korean Democratic Party",
+      "color": "#E6573B",
+      "article": "New Korean Democratic Party"
+    },
+    "nsp": {
+      "name": "New Socialist Party",
+      "color": "#FF4500",
+      "article": "New Socialist Party (South Korea)"
+    },
+    "ndp85": {
+      "name": "New Democratic Party (1985)",
+      "color": "#189868",
+      "article": "New Democratic Party (South Korea, 1985)"
+    },
+    "hdp": {
+      "name": "Hankyoreh Democratic Party",
+      "color": "#40E0D0",
+      "article": "Hankyoreh Democratic Party"
+    },
+    "popp": {
+      "name": "Popular Party",
+      "color": "#FFA500",
+      "article": "Popular Party (South Korea)"
+    },
+    "uld": {
+      "name": "United Liberal Democrats",
+      "color": "#4FA3D1",
+      "article": "United Liberal Democrats"
+    },
+    "dp95": {
+      "name": "United Democratic Party (1995)",
+      "color": "#8E44AD",
+      "article": "Democratic Party (South Korea, 1995)"
+    },
+    "dpp": {
+      "name": "Democratic People's Party",
+      "color": "#353F9C",
+      "article": "Democratic People's Party (South Korea)"
+    },
+    "nkph": {
+      "name": "New Korea Party of Hope",
+      "color": "#C71585",
+      "article": "New Korea Party of Hope"
+    },
+    "uri": {
+      "name": "Uri Party",
+      "color": "#FFD700",
+      "article": "Uri Party"
+    },
+    "ni21": {
+      "name": "National Integration 21",
+      "color": "#21317F"
+    },
+    "cp04": {
+      "name": "Christian Party (2004)",
+      "color": "#0966AF"
+    },
+    "udp": {
+      "name": "United Democratic Party (2008)",
+      "color": "#019E33",
+      "article": "Democratic Party (South Korea, 2008)"
+    },
+    "lfp": {
+      "name": "Liberty Forward Party",
+      "color": "#0067A5",
+      "article": "Advancement Unification Party"
+    },
+    "ppa": {
+      "name": "Pro-Park Alliance",
+      "color": "#BA55D3",
+      "article": "Future Hope Alliance"
+    },
+    "npp": {
+      "name": "New Progressive Party",
+      "color": "#FF1493",
+      "article": "New Progressive Party (South Korea)"
+    },
+    "cp": {
+      "name": "Christian Party",
+      "color": "#7B68EE",
+      "article": "Christian Party (South Korea)"
+    },
+    "pfu": {
+      "name": "Family Party for Peace and Unity",
+      "color": "#32CD32",
+      "article": "Family Party for Peace and Unity"
+    },
+    "upp": {
+      "name": "Unified Progressive Party",
+      "color": "#663399",
+      "article": "Unified Progressive Party"
+    },
+    "cldp": {
+      "name": "Christian Liberal Democratic Party",
+      "color": "#7B68EE",
+      "article": "Christian Liberal Democratic Party"
+    },
+    "lup": {
+      "name": "Liberal Unification Party",
+      "color": "#080B9E",
+      "article": "Liberal Unification Party"
+    },
+    "pp20": {
+      "name": "People Party (2020)",
+      "color": "#EA5504",
+      "article": "People Party (South Korea, 2020)"
+    },
+    "odp": {
+      "name": "Open Democratic Party",
+      "color": "#00BFFF",
+      "article": "Open Democratic Party (2020)"
+    },
+    "minsaeng": {
+      "name": "Minsaeng Party",
+      "color": "#00A85F",
+      "article": "Party for Democracy and Peace (2025)"
+    },
+    "prog": {
+      "name": "Progressive Party",
+      "color": "#7D3C98",
+      "article": "Progressive Party (South Korea, 2017)"
+    }
+  },
+  "elections": [
+    {
+      "id": "kr-president-1952",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1952-08-05",
+      "turnout": 88.09,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1952_South_Korean_presidential_election",
+        "revid": 1378245567
+      },
+      "candidates": [
+        {
+          "name": "Syngman Rhee",
+          "party": "lp",
+          "votes": 5238769,
+          "pct": 74.62,
+          "winner": true
+        },
+        {
+          "name": "Cho Bong-am",
+          "party": "indcho",
+          "votes": 797504,
+          "pct": 11.36
+        },
+        {
+          "name": "Yi Si-yeong",
+          "party": "dnp",
+          "votes": 764715,
+          "pct": 10.89
+        },
+        {
+          "name": "Shin Heung-u",
+          "party": "indshin",
+          "votes": 219696,
+          "pct": 3.13
+        }
+      ],
+      "notes": "Two independents won over 1% (Cho Bong-am and Shin Heung-u), so each has its own key. Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "lp",
+        "41": "lp",
+        "42": "lp",
+        "43": "lp",
+        "44": "lp",
+        "45": "lp",
+        "46": "lp",
+        "47": "lp",
+        "48": "lp",
+        "49": "lp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1952_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1956",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1956-05-15",
+      "turnout": 94.38,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1956_South_Korean_presidential_election",
+        "revid": 1378245571
+      },
+      "candidates": [
+        {
+          "name": "Syngman Rhee",
+          "party": "lp",
+          "votes": 5046437,
+          "pct": 69.99,
+          "winner": true
+        },
+        {
+          "name": "Cho Bong-am",
+          "party": "prog56",
+          "votes": 2163808,
+          "pct": 30.01
+        }
+      ],
+      "notes": "The article says the main opposition candidate, Shin Ik-hee, died before the election; invalid or blank ballots were 20.48% of votes cast. Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "lp",
+        "41": "lp",
+        "42": "lp",
+        "43": "lp",
+        "44": "lp",
+        "45": "lp",
+        "46": "lp",
+        "47": "lp",
+        "48": "lp",
+        "49": "lp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1956_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1963",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1963-10-15",
+      "turnout": 84.99,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1963_South_Korean_presidential_election",
+        "revid": 1373104291
+      },
+      "candidates": [
+        {
+          "name": "Park Chung Hee",
+          "party": "drp",
+          "votes": 4702640,
+          "pct": 46.65,
+          "winner": true
+        },
+        {
+          "name": "Yun Po-sun",
+          "party": "crp",
+          "votes": 4546614,
+          "pct": 45.1
+        },
+        {
+          "name": "Oh Jae-young",
+          "party": "ind",
+          "votes": 408664,
+          "pct": 4.05
+        },
+        {
+          "name": "Pyon Yong-tae",
+          "party": "rcp",
+          "votes": 224443,
+          "pct": 2.23
+        },
+        {
+          "name": "Jang I-seok",
+          "party": "ndevp",
+          "votes": 198837,
+          "pct": 1.97
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "crp",
+        "26": "drp",
+        "41": "crp",
+        "42": "crp",
+        "43": "crp",
+        "44": "crp",
+        "45": "drp",
+        "46": "drp",
+        "47": "drp",
+        "48": "drp",
+        "49": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1963_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1967",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1967-05-03",
+      "turnout": 83.57,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1967_South_Korean_presidential_election",
+        "revid": 1378245568
+      },
+      "candidates": [
+        {
+          "name": "Park Chung Hee",
+          "party": "drp",
+          "votes": 5688666,
+          "pct": 51.44,
+          "winner": true
+        },
+        {
+          "name": "Yun Posun",
+          "party": "ndp",
+          "votes": 4526541,
+          "pct": 40.93
+        },
+        {
+          "name": "Oh Jae-young",
+          "party": "ukp",
+          "votes": 264533,
+          "pct": 2.39
+        },
+        {
+          "name": "Kim Chun-yon",
+          "party": "pp63",
+          "votes": 248369,
+          "pct": 2.25
+        },
+        {
+          "name": "Chun Jin-han",
+          "party": "kip",
+          "votes": 232179,
+          "pct": 2.1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 98433,
+          "pct": 0.89
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ndp",
+        "26": "drp",
+        "41": "ndp",
+        "42": "drp",
+        "43": "drp",
+        "44": "ndp",
+        "45": "ndp",
+        "46": "ndp",
+        "47": "drp",
+        "48": "drp",
+        "49": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1967_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1971",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1971-04-27",
+      "turnout": 79.85,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1971_South_Korean_presidential_election",
+        "revid": 1378245573
+      },
+      "candidates": [
+        {
+          "name": "Park Chung Hee",
+          "party": "drp",
+          "votes": 6342828,
+          "pct": 53.2,
+          "winner": true
+        },
+        {
+          "name": "Kim Dae-jung",
+          "party": "ndp",
+          "votes": 5395900,
+          "pct": 45.26
+        },
+        {
+          "name": "Jin Bok-ki",
+          "party": "pp63",
+          "votes": 122914,
+          "pct": 1.03
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 61576,
+          "pct": 0.52
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ndp",
+        "26": "drp",
+        "41": "ndp",
+        "42": "drp",
+        "43": "drp",
+        "44": "drp",
+        "45": "ndp",
+        "46": "ndp",
+        "47": "drp",
+        "48": "drp",
+        "49": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1971_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1987",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1987-12-16",
+      "turnout": 89.15,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1987_South_Korean_presidential_election",
+        "revid": 1354384987
+      },
+      "candidates": [
+        {
+          "name": "Roh Tae-woo",
+          "party": "djp",
+          "votes": 8282738,
+          "pct": 36.64,
+          "winner": true
+        },
+        {
+          "name": "Kim Young-sam",
+          "party": "rdp",
+          "votes": 6337581,
+          "pct": 28.04
+        },
+        {
+          "name": "Kim Dae-jung",
+          "party": "pdp",
+          "votes": 6113375,
+          "pct": 27.05
+        },
+        {
+          "name": "Kim Jong-pil",
+          "party": "ndrp",
+          "votes": 1823067,
+          "pct": 8.07
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 46650,
+          "pct": 0.21
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "pdp",
+        "26": "rdp",
+        "27": "djp",
+        "28": "djp",
+        "29": "pdp",
+        "41": "djp",
+        "42": "djp",
+        "43": "djp",
+        "44": "ndrp",
+        "45": "pdp",
+        "46": "pdp",
+        "47": "djp",
+        "48": "rdp",
+        "49": "djp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1987_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1992",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1992-12-18",
+      "turnout": 81.89,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1992_South_Korean_presidential_election",
+        "revid": 1373241368
+      },
+      "candidates": [
+        {
+          "name": "Kim Young-sam",
+          "party": "nkp",
+          "votes": 9977332,
+          "pct": 41.96,
+          "winner": true
+        },
+        {
+          "name": "Kim Dae-jung",
+          "party": "dp91",
+          "votes": 8041284,
+          "pct": 33.82
+        },
+        {
+          "name": "Chung Ju-yung",
+          "party": "unp",
+          "votes": 3880067,
+          "pct": 16.32
+        },
+        {
+          "name": "Park Chan-jong",
+          "party": "nprp",
+          "votes": 1516047,
+          "pct": 6.38
+        },
+        {
+          "name": "Baek Gi-Wan",
+          "party": "ind",
+          "votes": 238648,
+          "pct": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 122031,
+          "pct": 0.51
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "dp91",
+        "26": "nkp",
+        "27": "nkp",
+        "28": "nkp",
+        "29": "dp91",
+        "30": "nkp",
+        "41": "nkp",
+        "42": "nkp",
+        "43": "nkp",
+        "44": "nkp",
+        "45": "dp91",
+        "46": "dp91",
+        "47": "nkp",
+        "48": "nkp",
+        "49": "nkp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1992_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-1997",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1997-12-18",
+      "turnout": 80.65,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1997_South_Korean_presidential_election",
+        "revid": 1373241298
+      },
+      "candidates": [
+        {
+          "name": "Kim Dae-jung",
+          "party": "ncnp",
+          "votes": 10326275,
+          "pct": 40.27,
+          "winner": true
+        },
+        {
+          "name": "Lee Hoi-chang",
+          "party": "lkp",
+          "votes": 9935718,
+          "pct": 38.75
+        },
+        {
+          "name": "Lee In-je",
+          "party": "nnp",
+          "votes": 4925591,
+          "pct": 19.21
+        },
+        {
+          "name": "Kwon Young-ghil",
+          "party": "dlp",
+          "votes": 306026,
+          "pct": 1.19
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 148828,
+          "pct": 0.58
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ncnp",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "ncnp",
+        "29": "ncnp",
+        "30": "ncnp",
+        "31": "lkp",
+        "41": "ncnp",
+        "42": "lkp",
+        "43": "ncnp",
+        "44": "ncnp",
+        "45": "ncnp",
+        "46": "ncnp",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "ncnp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1997_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-2002",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2002-12-19",
+      "turnout": 70.83,
+      "source": {
+        "name": "Wikipedia (the results table cites no source)",
+        "url": "https://en.wikipedia.org/wiki/2002_South_Korean_presidential_election",
+        "revid": 1368200123
+      },
+      "candidates": [
+        {
+          "name": "Roh Moo-hyun",
+          "party": "mdp",
+          "votes": 12014277,
+          "pct": 48.91,
+          "winner": true
+        },
+        {
+          "name": "Lee Hoi-chang",
+          "party": "lkp",
+          "votes": 11443297,
+          "pct": 46.59
+        },
+        {
+          "name": "Kwon Young-ghil",
+          "party": "dlp",
+          "votes": 957148,
+          "pct": 3.9
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 147194,
+          "pct": 0.6
+        }
+      ],
+      "notes": "Jang Se-dong (independent) is listed in the table without votes and is counted in Others with none. Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "mdp",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "mdp",
+        "29": "mdp",
+        "30": "mdp",
+        "31": "lkp",
+        "41": "mdp",
+        "42": "lkp",
+        "43": "mdp",
+        "44": "mdp",
+        "45": "mdp",
+        "46": "mdp",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "mdp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2002_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-2007",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2007-12-19",
+      "turnout": 63.03,
+      "source": {
+        "name": "Wikipedia, citing Park and Lee (koreascience.or.kr) and IFES",
+        "url": "https://en.wikipedia.org/wiki/2007_South_Korean_presidential_election",
+        "revid": 1375215106
+      },
+      "candidates": [
+        {
+          "name": "Lee Myung-bak",
+          "party": "lkp",
+          "votes": 11492389,
+          "pct": 48.67,
+          "winner": true
+        },
+        {
+          "name": "Chung Dong-young",
+          "party": "gudnp",
+          "votes": 6174681,
+          "pct": 26.15
+        },
+        {
+          "name": "Lee Hoi-chang",
+          "party": "ind",
+          "votes": 3559963,
+          "pct": 15.08
+        },
+        {
+          "name": "Moon Kook-hyun",
+          "party": "ckp",
+          "votes": 1375498,
+          "pct": 5.83
+        },
+        {
+          "name": "Kwon Young-ghil",
+          "party": "dlp",
+          "votes": 712121,
+          "pct": 3.02
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 298228,
+          "pct": 1.26
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table. Not yet separate units at this election: Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "lkp",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "lkp",
+        "29": "gudnp",
+        "30": "lkp",
+        "31": "lkp",
+        "41": "lkp",
+        "42": "lkp",
+        "43": "lkp",
+        "44": "lkp",
+        "45": "gudnp",
+        "46": "gudnp",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "lkp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2007_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-2012",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2012-12-19",
+      "turnout": 75.84,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission",
+        "url": "https://en.wikipedia.org/wiki/2012_South_Korean_presidential_election",
+        "revid": 1378798289
+      },
+      "candidates": [
+        {
+          "name": "Park Geun-hye",
+          "party": "lkp",
+          "votes": 15773128,
+          "pct": 51.56,
+          "winner": true
+        },
+        {
+          "name": "Moon Jae-in",
+          "party": "dup12",
+          "votes": 14692632,
+          "pct": 48.02
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 128861,
+          "pct": 0.42
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table.",
+      "regionWinners": {
+        "11": "dup12",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "lkp",
+        "29": "dup12",
+        "30": "lkp",
+        "31": "lkp",
+        "41": "lkp",
+        "42": "lkp",
+        "43": "lkp",
+        "44": "lkp",
+        "45": "dup12",
+        "46": "dup12",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "lkp",
+        "50": "lkp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2012_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-2017",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2017-05-09",
+      "turnout": 77.23,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission",
+        "url": "https://en.wikipedia.org/wiki/2017_South_Korean_presidential_election",
+        "revid": 1378795975
+      },
+      "candidates": [
+        {
+          "name": "Moon Jae-in",
+          "party": "dp",
+          "votes": 13423800,
+          "pct": 41.09,
+          "winner": true
+        },
+        {
+          "name": "Hong Joon-pyo",
+          "party": "lkp",
+          "votes": 7852849,
+          "pct": 24.04
+        },
+        {
+          "name": "Ahn Cheol-soo",
+          "party": "pp16",
+          "votes": 6998342,
+          "pct": 21.42
+        },
+        {
+          "name": "Yoo Seong-min",
+          "party": "bareun",
+          "votes": 2208771,
+          "pct": 6.76
+        },
+        {
+          "name": "Sim Sang-jung",
+          "party": "jp",
+          "votes": 2017458,
+          "pct": 6.17
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 170955,
+          "pct": 0.52
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table.",
+      "regionWinners": {
+        "11": "dp",
+        "26": "dp",
+        "27": "lkp",
+        "28": "dp",
+        "29": "dp",
+        "30": "dp",
+        "31": "dp",
+        "41": "dp",
+        "42": "dp",
+        "43": "dp",
+        "44": "dp",
+        "45": "dp",
+        "46": "dp",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "dp",
+        "50": "dp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-president-2022",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2022-03-09",
+      "turnout": 77.08,
+      "source": {
+        "name": "Wikipedia, citing a Naver election-results page",
+        "url": "https://en.wikipedia.org/wiki/2022_South_Korean_presidential_election",
+        "revid": 1378795053
+      },
+      "candidates": [
+        {
+          "name": "Yoon Suk Yeol",
+          "party": "ppp",
+          "votes": 16394815,
+          "pct": 48.56,
+          "winner": true
+        },
+        {
+          "name": "Lee Jae Myung",
+          "party": "dp",
+          "votes": 16147738,
+          "pct": 47.83
+        },
+        {
+          "name": "Sim Sang-jung",
+          "party": "jp",
+          "votes": 803358,
+          "pct": 2.38
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 414400,
+          "pct": 1.23
+        }
+      ],
+      "notes": "Region winners: the candidate with the most votes in each province or city, from the article's by-province table.",
+      "regionWinners": {
+        "11": "ppp",
+        "26": "ppp",
+        "27": "ppp",
+        "28": "dp",
+        "29": "dp",
+        "30": "ppp",
+        "31": "ppp",
+        "41": "dp",
+        "42": "ppp",
+        "43": "ppp",
+        "44": "ppp",
+        "45": "dp",
+        "46": "dp",
+        "47": "ppp",
+        "48": "ppp",
+        "49": "dp",
+        "50": "dp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2022_South_Korean_presidential_election"
+    },
+    {
+      "id": "kr-assembly-1948",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1948-05-10",
+      "note": "Constitutional Assembly",
+      "totalSeats": 200,
+      "turnout": 95.5,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1948_South_Korean_Constitutional_Assembly_election",
+        "revid": 1377991026
+      },
+      "candidates": [
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 2745483,
+          "pct": 40.47,
+          "seats": 85,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Association",
+          "party": "na",
+          "votes": 1755543,
+          "pct": 25.87,
+          "seats": 55,
+          "change": null
+        },
+        {
+          "name": "Korea Democratic Party",
+          "party": "kdp",
+          "votes": 916322,
+          "pct": 13.51,
+          "seats": 29,
+          "change": null
+        },
+        {
+          "name": "Korea Youth Party",
+          "party": "kyp",
+          "votes": 655653,
+          "pct": 9.66,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "National Youth Party",
+          "party": "knya",
+          "votes": 151043,
+          "pct": 2.23,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Farmers Federation",
+          "party": "ff",
+          "votes": 52512,
+          "pct": 0.77,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Taehan Labour Federation",
+          "party": "tlf",
+          "votes": 106629,
+          "pct": 1.57,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 401554,
+          "pct": 5.92,
+          "seats": 10,
+          "change": null
+        }
+      ],
+      "notes": "The party rows add up to 6,784,739 votes, 432,203 fewer than the 7,216,942 valid votes the table states; its footnote says the official results are inconsistent. pct is the table's share of the party total. Independents won the most seats (85, flagged as winner); the largest party was the National Association (55). The table's \"Other parties\" row (10 seats) is counted in Others. The table has no seat-change column. Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for North Gyeongsang (tie: National Association 11, Independents 11); Jeju (tie: National Association 1, Independents 1). Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "kdp",
+        "41": "ind",
+        "42": "na",
+        "43": "ind",
+        "44": "na",
+        "45": "ind",
+        "46": "kdp",
+        "48": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1948_South_Korean_Constitutional_Assembly_election"
+    },
+    {
+      "id": "kr-assembly-1950",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1950-05-30",
+      "totalSeats": 210,
+      "turnout": 91.91,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1950_South_Korean_legislative_election",
+        "revid": 1378245590
+      },
+      "candidates": [
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 4397287,
+          "pct": 62.93,
+          "seats": 126,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Nationalist Party",
+          "party": "dnp",
+          "votes": 683910,
+          "pct": 9.79,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "Korea Nationalist Party",
+          "party": "knp",
+          "votes": 677173,
+          "pct": 9.69,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "National Association",
+          "party": "na",
+          "votes": 473153,
+          "pct": 6.77,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Korea Youth Party",
+          "party": "kyp",
+          "votes": 227539,
+          "pct": 3.26,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Korean Federation of Trade Unions",
+          "party": "kftu",
+          "votes": 117939,
+          "pct": 1.69,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Ilmin Club",
+          "party": "ilmin",
+          "votes": 71239,
+          "pct": 1.02,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp48",
+          "votes": 89413,
+          "pct": 1.28,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Independence Federation",
+          "party": "nif",
+          "votes": 33464,
+          "pct": 0.48,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 215923,
+          "pct": 3.09,
+          "seats": 3,
+          "change": null
+        }
+      ],
+      "notes": "Independents won the most seats (126, flagged as winner); the largest parties were the Democratic Nationalist Party and the Korea Nationalist Party (24 each). The table's \"Other parties\" row (3 seats) is counted in Others. The table has no seat-change column. The by-province table cites the National Election Commission and its party seat totals differ from the national table: Democratic Nationalist Party 28 (24 nationally), Korea Nationalist Party 19 (24), National Association 13 (14), Korea Youth Party 9 (10), Independents 129 (126). Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ind",
+        "41": "ind",
+        "42": "ind",
+        "43": "ind",
+        "44": "ind",
+        "45": "ind",
+        "46": "ind",
+        "47": "ind",
+        "48": "ind",
+        "49": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1950_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1954",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1954-05-20",
+      "totalSeats": 203,
+      "turnout": 91.14,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1954_South_Korean_legislative_election",
+        "revid": 1378245678
+      },
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 2756061,
+          "pct": 36.79,
+          "seats": 114,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 3591617,
+          "pct": 47.94,
+          "seats": 68,
+          "change": -58
+        },
+        {
+          "name": "Democratic Nationalist Party",
+          "party": "dnp",
+          "votes": 593499,
+          "pct": 7.92,
+          "seats": 15,
+          "change": -9
+        },
+        {
+          "name": "National Association",
+          "party": "na",
+          "votes": 192109,
+          "pct": 2.56,
+          "seats": 3,
+          "change": -11
+        },
+        {
+          "name": "Korea Nationalist Party",
+          "party": "knp",
+          "votes": 72923,
+          "pct": 0.97,
+          "seats": 3,
+          "change": -21
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 286097,
+          "pct": 3.82,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. The table's \"Other parties\" row is counted in Others. The by-province table cites the National Election Commission and its party seat totals differ from the national table: Liberal Party 111 (114 nationally), Democratic Nationalist Party 16 (15), Korea Nationalist Party 2 (3), other parties 1 (0), Independents 70 (68). Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for North Jeolla (tie: Liberal Party 10, Independents 10); North Gyeongsang (tie: Liberal Party 15, Independents 15). Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ind",
+        "41": "lp",
+        "42": "lp",
+        "43": "lp",
+        "44": "lp",
+        "46": "lp",
+        "48": "lp",
+        "49": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1954_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1958",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1958-05-02",
+      "totalSeats": 233,
+      "turnout": 87.8,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1958_South_Korean_legislative_election",
+        "revid": 1269150402
+      },
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 3607092,
+          "pct": 42.07,
+          "seats": 126,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp55",
+          "votes": 2914049,
+          "pct": 33.99,
+          "seats": 79,
+          "change": 64
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1857707,
+          "pct": 21.67,
+          "seats": 27,
+          "change": -41
+        },
+        {
+          "name": "Unification Party",
+          "party": "up",
+          "votes": 53716,
+          "pct": 0.63,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 140728,
+          "pct": 1.64,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. The table's party rows add up to 8,573,292 votes against 8,576,757 valid votes stated; pct is the table's share of the party total. The \"Other parties\" row is counted in Others. Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for Jeju (tie: Liberal Party 1, Democratic Party (1955) 1, Independents 1). Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "dp55",
+        "41": "lp",
+        "42": "lp",
+        "43": "lp",
+        "44": "lp",
+        "45": "dp55",
+        "46": "lp",
+        "47": "lp",
+        "48": "lp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1958_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1960",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1960-06-29",
+      "note": "House of Representatives (lower house)",
+      "totalSeats": 233,
+      "turnout": 84.35,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1960_South_Korean_parliamentary_election",
+        "revid": 1316491214
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party",
+          "party": "dp55",
+          "votes": 3786401,
+          "pct": 41.71,
+          "seats": 175,
+          "change": 96,
+          "winner": true
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 4249180,
+          "pct": 46.81,
+          "seats": 49,
+          "change": 22
+        },
+        {
+          "name": "Socialist Mass Party",
+          "party": "smp",
+          "votes": 541021,
+          "pct": 5.96,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 249960,
+          "pct": 2.75,
+          "seats": 2,
+          "change": -124
+        },
+        {
+          "name": "Korea Socialist Party",
+          "party": "ksp",
+          "votes": 57965,
+          "pct": 0.64,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Unification Party",
+          "party": "up",
+          "votes": 17293,
+          "pct": 0.19,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 176015,
+          "pct": 1.94,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Election to the House of Representatives, the lower house of the bicameral National Assembly of the Second Republic. The table's \"Other parties\" row (1 seat) is counted in Others. Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for Jeju (tie: Democratic Party (1955) 1, Korea Socialist Party 1, Independents 1). Not yet separate units at this election: Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "dp55",
+        "41": "dp55",
+        "42": "dp55",
+        "43": "dp55",
+        "44": "dp55",
+        "45": "dp55",
+        "46": "dp55",
+        "47": "dp55",
+        "48": "dp55"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1960_South_Korean_parliamentary_election"
+    },
+    {
+      "id": "kr-assembly-1963",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1963-11-26",
+      "totalSeats": 175,
+      "turnout": 72.11,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1963_South_Korean_legislative_election",
+        "revid": 1378245668
+      },
+      "candidates": [
+        {
+          "name": "Democratic Republican Party",
+          "party": "drp",
+          "votes": 3112985,
+          "pct": 33.48,
+          "seats": 110,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Civil Rule Party",
+          "party": "crp",
+          "votes": 1870976,
+          "pct": 20.12,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp55",
+          "votes": 1264285,
+          "pct": 13.6,
+          "seats": 13,
+          "change": -162
+        },
+        {
+          "name": "Liberal Democratic Party",
+          "party": "ldp63",
+          "votes": 752026,
+          "pct": 8.09,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "People's Party",
+          "party": "pp63",
+          "votes": 822000,
+          "pct": 8.84,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Conservative Party",
+          "party": "cons63",
+          "votes": 278477,
+          "pct": 2.99,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 271820,
+          "pct": 2.92,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Righteous Citizens Party",
+          "party": "rcp",
+          "votes": 259960,
+          "pct": 2.8,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "New Development Party",
+          "party": "ndevp",
+          "votes": 189077,
+          "pct": 2.03,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Autumn Wind Association",
+          "party": "awa",
+          "votes": 183938,
+          "pct": 1.98,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "New People's Association",
+          "party": "npa63",
+          "votes": 165124,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Korea Independence Party",
+          "party": "kip",
+          "votes": 128162,
+          "pct": 1.38,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "crp",
+        "26": "drp",
+        "41": "drp",
+        "42": "drp",
+        "43": "drp",
+        "44": "drp",
+        "45": "drp",
+        "46": "drp",
+        "47": "drp",
+        "48": "drp",
+        "49": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1963_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1967",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1967-06-08",
+      "totalSeats": 175,
+      "turnout": 76.12,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1967_South_Korean_legislative_election",
+        "revid": 1378245669
+      },
+      "candidates": [
+        {
+          "name": "Democratic Republican Party",
+          "party": "drp",
+          "votes": 5494922,
+          "pct": 50.62,
+          "seats": 129,
+          "change": 19,
+          "winner": true
+        },
+        {
+          "name": "New Democratic Party",
+          "party": "ndp",
+          "votes": 3554224,
+          "pct": 32.74,
+          "seats": 45,
+          "change": -20
+        },
+        {
+          "name": "Mass Party",
+          "party": "mass",
+          "votes": 249561,
+          "pct": 2.3,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 393448,
+          "pct": 3.62,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp67",
+          "votes": 323203,
+          "pct": 2.98,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Korea Independence Party",
+          "party": "kip",
+          "votes": 240936,
+          "pct": 2.22,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "People's Party",
+          "party": "pp67",
+          "votes": 180324,
+          "pct": 1.66,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Justice Party",
+          "party": "jp67",
+          "votes": 142670,
+          "pct": 1.31,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 276720,
+          "pct": 2.55,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ndp",
+        "26": "ndp",
+        "41": "drp",
+        "42": "drp",
+        "43": "drp",
+        "44": "drp",
+        "45": "drp",
+        "46": "drp",
+        "47": "drp",
+        "48": "drp",
+        "49": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1967_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1971",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1971-05-25",
+      "totalSeats": 204,
+      "turnout": 73.22,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1971_South_Korean_legislative_election",
+        "revid": 1378245665
+      },
+      "candidates": [
+        {
+          "name": "Democratic Republican Party",
+          "party": "drp",
+          "votes": 5460581,
+          "pct": 48.77,
+          "seats": 113,
+          "change": -16,
+          "winner": true
+        },
+        {
+          "name": "New Democratic Party",
+          "party": "ndp",
+          "votes": 4969050,
+          "pct": 44.38,
+          "seats": 89,
+          "change": 44
+        },
+        {
+          "name": "National Party",
+          "party": "natp",
+          "votes": 454257,
+          "pct": 4.06,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "People's Party",
+          "party": "pp67",
+          "votes": 155277,
+          "pct": 1.39,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 156757,
+          "pct": 1.4,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for North Jeolla (tie: Democratic Republican Party 6, New Democratic Party 6); South Gyeongsang (tie: Democratic Republican Party 9, New Democratic Party 9). Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ndp",
+        "26": "ndp",
+        "41": "drp",
+        "42": "drp",
+        "43": "drp",
+        "44": "drp",
+        "46": "drp",
+        "47": "drp",
+        "49": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1971_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1973",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1973-02-27",
+      "note": "A third of seats appointed by the president",
+      "totalSeats": 219,
+      "turnout": 71.36,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1973_South_Korean_legislative_election",
+        "revid": 1378245660
+      },
+      "candidates": [
+        {
+          "name": "Democratic Republican Party",
+          "party": "drp",
+          "votes": 4251754,
+          "pct": 38.68,
+          "seats": 73,
+          "change": -40,
+          "winner": true
+        },
+        {
+          "name": "Presidential appointees",
+          "party": "appt",
+          "votes": null,
+          "pct": null,
+          "seats": 73,
+          "change": null
+        },
+        {
+          "name": "New Democratic Party",
+          "party": "ndp",
+          "votes": 3577300,
+          "pct": 32.55,
+          "seats": 52,
+          "change": -37
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 2048178,
+          "pct": 18.63,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Democratic Unification Party",
+          "party": "dup",
+          "votes": 1114204,
+          "pct": 10.14,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Two-thirds of the seats were elected in two-member constituencies; the table adds a row for the 73 presidential appointees (nominated by Park Chung Hee and confirmed by the National Conference for Unification), without votes. The Democratic Republican Party and the appointees both hold 73 seats; the party is flagged as winner. Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for Busan (tie: Democratic Republican Party 4, New Democratic Party 4); South Chungcheong (tie: Democratic Republican Party 6, New Democratic Party 6); North Jeolla (tie: Democratic Republican Party 4, New Democratic Party 4, Independents 4); Jeju (tie: Democratic Republican Party 1, Independents 1). Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ndp",
+        "41": "drp",
+        "42": "drp",
+        "43": "drp",
+        "46": "drp",
+        "47": "drp",
+        "48": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1973_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1978",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1978-12-12",
+      "note": "A third of seats appointed by the president",
+      "totalSeats": 231,
+      "turnout": 77.08,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1978_South_Korean_legislative_election",
+        "revid": 1378245661
+      },
+      "candidates": [
+        {
+          "name": "Presidential appointees",
+          "party": "appt",
+          "votes": null,
+          "pct": null,
+          "seats": 77,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Democratic Republican Party",
+          "party": "drp",
+          "votes": 4695995,
+          "pct": 31.7,
+          "seats": 68,
+          "change": -5
+        },
+        {
+          "name": "New Democratic Party",
+          "party": "ndp",
+          "votes": 4861204,
+          "pct": 32.82,
+          "seats": 61,
+          "change": 9
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 4160187,
+          "pct": 28.09,
+          "seats": 22,
+          "change": 3
+        },
+        {
+          "name": "Democratic Unification Party",
+          "party": "dup",
+          "votes": 1095057,
+          "pct": 7.39,
+          "seats": 3,
+          "change": 1
+        }
+      ],
+      "notes": "Two-thirds of the seats were elected in two-member constituencies; the table adds a row for the 77 presidential appointees (nominated by Park Chung Hee and confirmed by the National Conference for Unification), without votes. The appointees are the largest group, so they carry the winner flag; of the elected seats the Democratic Republican Party won the most (68) while the New Democratic Party won the most votes. Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for Jeju (tie: Democratic Republican Party 1, Independents 1). Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "ndp",
+        "26": "ndp",
+        "41": "drp",
+        "42": "drp",
+        "43": "ndp",
+        "44": "drp",
+        "45": "drp",
+        "46": "drp",
+        "47": "drp",
+        "48": "drp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1978_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1981",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1981-03-25",
+      "note": "Two-thirds of 92 national seats to the largest party",
+      "totalSeats": 276,
+      "turnout": 77.74,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1981_South_Korean_legislative_election",
+        "revid": 1378245655
+      },
+      "candidates": [
+        {
+          "name": "Democratic Justice Party",
+          "party": "djp",
+          "votes": 5776624,
+          "pct": 35.64,
+          "seats": 151,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Korea Party",
+          "party": "dkp",
+          "votes": 3495829,
+          "pct": 21.57,
+          "seats": 81,
+          "change": null
+        },
+        {
+          "name": "Korean National Party",
+          "party": "knp81",
+          "votes": 2147293,
+          "pct": 13.25,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1734224,
+          "pct": 10.7,
+          "seats": 11,
+          "change": -11
+        },
+        {
+          "name": "Civil Rights Party",
+          "party": "crp81",
+          "votes": 1088847,
+          "pct": 6.72,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "New Politics Party",
+          "party": "npp81",
+          "votes": 676921,
+          "pct": 4.18,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Democratic Socialist Party",
+          "party": "dsp",
+          "votes": 524361,
+          "pct": 3.24,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Democratic Farmer's Party",
+          "party": "dfp",
+          "votes": 227715,
+          "pct": 1.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Peaceful People Party",
+          "party": "ppp81",
+          "votes": 144000,
+          "pct": 0.89,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 391511,
+          "pct": 2.42,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. 184 seats were elected in two-member constituencies; the other 92 were shared among parties with five or more constituency seats, two-thirds of them to the largest party (per the article). Region winners: most constituency seats in each province or city, from the article's by-city/province table. In North Gyeongsang (22 vs 26), South Gyeongsang (24 vs 20) the party seats do not add up to the row's total, but the leader's margin is larger than the gap. No winner for North Chungcheong (party seats add up to 9, the row total is 8); North Jeolla (party seats add up to 13, the row total is 14). Not yet separate units at this election: Daegu, Incheon, Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "djp",
+        "26": "djp",
+        "41": "djp",
+        "42": "djp",
+        "44": "djp",
+        "46": "djp",
+        "47": "djp",
+        "48": "djp",
+        "49": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1981_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1985",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1985-02-12",
+      "note": "Two-thirds of 92 national seats to the largest party",
+      "totalSeats": 276,
+      "turnout": 84.57,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1985_South_Korean_legislative_election",
+        "revid": 1378245653
+      },
+      "candidates": [
+        {
+          "name": "Democratic Justice Party",
+          "party": "djp",
+          "votes": 7040811,
+          "pct": 35.25,
+          "seats": 148,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "New Korean Democratic Party",
+          "party": "nkdp",
+          "votes": 5843827,
+          "pct": 29.26,
+          "seats": 67,
+          "change": null
+        },
+        {
+          "name": "Democratic Korea Party",
+          "party": "dkp",
+          "votes": 3930966,
+          "pct": 19.68,
+          "seats": 35,
+          "change": -46
+        },
+        {
+          "name": "Korean National Party",
+          "party": "knp81",
+          "votes": 1828744,
+          "pct": 9.16,
+          "seats": 20,
+          "change": -5
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 650028,
+          "pct": 3.25,
+          "seats": 4,
+          "change": -7
+        },
+        {
+          "name": "New Socialist Party",
+          "party": "nsp",
+          "votes": 288863,
+          "pct": 1.45,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "New Democratic Party",
+          "party": "ndp85",
+          "votes": 112654,
+          "pct": 0.56,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 278750,
+          "pct": 1.4,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. 184 seats were elected in two-member constituencies; the other 92 were shared among parties with five or more constituency seats, two-thirds of them to the largest party (per the article). Region winners: most constituency seats in each province or city, from the article's by-city/province table. No winner for Daegu (tie: Democratic Justice Party 2, New Korean Democratic Party 2); Incheon (tie: Democratic Justice Party 2, New Korean Democratic Party 2); Jeju (tie: Democratic Justice Party 1, Independents 1). Not yet separate units at this election: Gwangju, Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "nkdp",
+        "26": "nkdp",
+        "41": "djp",
+        "42": "djp",
+        "43": "djp",
+        "44": "djp",
+        "45": "djp",
+        "46": "djp",
+        "47": "djp",
+        "48": "djp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1985_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1988",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1988-04-26",
+      "totalSeats": 299,
+      "turnout": 75.77,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1988_South_Korean_legislative_election",
+        "revid": 1375961874
+      },
+      "candidates": [
+        {
+          "name": "Democratic Justice Party",
+          "party": "djp",
+          "votes": 6670494,
+          "pct": 33.96,
+          "seats": 125,
+          "change": -23,
+          "winner": true
+        },
+        {
+          "name": "Peace Democratic Party",
+          "party": "pdp",
+          "votes": 3783279,
+          "pct": 19.26,
+          "seats": 70,
+          "change": null
+        },
+        {
+          "name": "Reunification Democratic Party",
+          "party": "rdp",
+          "votes": 4680175,
+          "pct": 23.83,
+          "seats": 59,
+          "change": null
+        },
+        {
+          "name": "New Democratic Republican Party",
+          "party": "ndrp",
+          "votes": 3062506,
+          "pct": 15.59,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 933161,
+          "pct": 4.75,
+          "seats": 9,
+          "change": 5
+        },
+        {
+          "name": "Hankyoreh Democratic Party",
+          "party": "hdp",
+          "votes": 251236,
+          "pct": 1.28,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Korean National Party",
+          "party": "knp81",
+          "votes": 65032,
+          "pct": 0.33,
+          "seats": 0,
+          "change": -20
+        },
+        {
+          "name": "New Korean Democratic Party",
+          "party": "nkdp",
+          "votes": 46877,
+          "pct": 0.24,
+          "seats": 0,
+          "change": -67
+        },
+        {
+          "name": "Democratic Korea Party",
+          "party": "dkp",
+          "votes": 32799,
+          "pct": 0.17,
+          "seats": 0,
+          "change": -35
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 116481,
+          "pct": 0.59,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. The Jeju row's total reads 21 but its party seats add up to 3, which is what the constituency total implies. Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Daejeon, Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "pdp",
+        "26": "rdp",
+        "27": "djp",
+        "28": "djp",
+        "29": "pdp",
+        "41": "djp",
+        "42": "djp",
+        "43": "djp",
+        "44": "ndrp",
+        "45": "pdp",
+        "46": "pdp",
+        "47": "djp",
+        "48": "djp",
+        "49": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1988_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1992",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1992-03-24",
+      "totalSeats": 299,
+      "turnout": 71.86,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1992_South_Korean_legislative_election",
+        "revid": 1375961963
+      },
+      "candidates": [
+        {
+          "name": "Democratic Liberal Party",
+          "party": "nkp",
+          "votes": 7923719,
+          "pct": 38.49,
+          "seats": 149,
+          "change": -70,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp91",
+          "votes": 6004577,
+          "pct": 29.17,
+          "seats": 97,
+          "change": 27
+        },
+        {
+          "name": "Unification National Party",
+          "party": "unp",
+          "votes": 3574419,
+          "pct": 17.37,
+          "seats": 31,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 2372005,
+          "pct": 11.52,
+          "seats": 21,
+          "change": 12
+        },
+        {
+          "name": "New Political Reform Party",
+          "party": "nprp",
+          "votes": 369044,
+          "pct": 1.79,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Popular Party",
+          "party": "popp",
+          "votes": 319041,
+          "pct": 1.55,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21007,
+          "pct": 0.1,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table; seat ties broken by the table's constituency vote share: Daejeon (Democratic Party (1991) 2 seats, 25.5% vs Independents 2 seats, 23.8%). In South Gyeongsang (24 vs 23) the party seats do not add up to the row's total, but the leader's margin is larger than the gap. Not yet separate units at this election: Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "dp91",
+        "26": "nkp",
+        "27": "nkp",
+        "28": "nkp",
+        "29": "dp91",
+        "30": "dp91",
+        "41": "nkp",
+        "42": "nkp",
+        "43": "nkp",
+        "44": "nkp",
+        "45": "dp91",
+        "46": "dp91",
+        "47": "nkp",
+        "48": "nkp",
+        "49": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1992_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-1996",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1996-04-11",
+      "totalSeats": 299,
+      "turnout": 63.91,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/1996_South_Korean_legislative_election",
+        "revid": 1378171889
+      },
+      "candidates": [
+        {
+          "name": "New Korea Party",
+          "party": "nkp",
+          "votes": 6783730,
+          "pct": 34.52,
+          "seats": 139,
+          "change": -10,
+          "winner": true
+        },
+        {
+          "name": "National Congress for New Politics",
+          "party": "ncnp",
+          "votes": 4971961,
+          "pct": 25.3,
+          "seats": 79,
+          "change": null
+        },
+        {
+          "name": "United Liberal Democrats",
+          "party": "uld",
+          "votes": 3178474,
+          "pct": 16.17,
+          "seats": 50,
+          "change": 18
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 2328785,
+          "pct": 11.85,
+          "seats": 16,
+          "change": -5
+        },
+        {
+          "name": "United Democratic Party",
+          "party": "dp95",
+          "votes": 2207695,
+          "pct": 11.23,
+          "seats": 15,
+          "change": -82
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 182428,
+          "pct": 0.93,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Ulsan, Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "nkp",
+        "26": "nkp",
+        "27": "uld",
+        "28": "nkp",
+        "29": "ncnp",
+        "30": "uld",
+        "41": "nkp",
+        "42": "nkp",
+        "43": "uld",
+        "44": "uld",
+        "45": "ncnp",
+        "46": "ncnp",
+        "47": "nkp",
+        "48": "nkp",
+        "49": "nkp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1996_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-2000",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2000-04-13",
+      "totalSeats": 273,
+      "turnout": 57.22,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz and Hartmann, Elections in Asia: A Data Handbook, Volume II (2001)",
+        "url": "https://en.wikipedia.org/wiki/2000_South_Korean_legislative_election",
+        "revid": 1364384351
+      },
+      "candidates": [
+        {
+          "name": "Grand National Party",
+          "party": "lkp",
+          "votes": 7365359,
+          "pct": 38.96,
+          "seats": 133,
+          "change": -21,
+          "winner": true
+        },
+        {
+          "name": "Millennium Democratic Party",
+          "party": "mdp",
+          "votes": 6780625,
+          "pct": 35.87,
+          "seats": 115,
+          "change": 36
+        },
+        {
+          "name": "United Liberal Democrats",
+          "party": "uld",
+          "votes": 1859331,
+          "pct": 9.84,
+          "seats": 17,
+          "change": -33
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1774211,
+          "pct": 9.39,
+          "seats": 5,
+          "change": -11
+        },
+        {
+          "name": "Democratic People's Party",
+          "party": "dpp",
+          "votes": 695423,
+          "pct": 3.68,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "New Korea Party of Hope",
+          "party": "nkph",
+          "votes": 77498,
+          "pct": 0.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Labor Party",
+          "party": "dlp",
+          "votes": 223261,
+          "pct": 1.18,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 129032,
+          "pct": 0.68,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "A null change means the table shows \"New\" or no figure. The Millennium Democratic Party and the United Liberal Democrats appear in the table inside an \"Alliance of DJP\" block; they are listed separately, as the table gives them. Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "mdp",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "mdp",
+        "29": "mdp",
+        "30": "uld",
+        "31": "lkp",
+        "41": "mdp",
+        "42": "mdp",
+        "43": "lkp",
+        "44": "uld",
+        "45": "mdp",
+        "46": "mdp",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "mdp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2000_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-2004",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2004-04-15",
+      "totalSeats": 299,
+      "turnout": 60.63,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission, IPU and CLEA",
+        "url": "https://en.wikipedia.org/wiki/2004_South_Korean_legislative_election",
+        "revid": 1373094611
+      },
+      "candidates": [
+        {
+          "name": "Uri Party",
+          "party": "uri",
+          "votes": 8145824,
+          "pct": 38.27,
+          "seats": 152,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Grand National Party",
+          "party": "lkp",
+          "votes": 7613660,
+          "pct": 35.77,
+          "seats": 121,
+          "change": -12
+        },
+        {
+          "name": "Democratic Labor Party",
+          "party": "dlp",
+          "votes": 2774061,
+          "pct": 13.03,
+          "seats": 10,
+          "change": 10
+        },
+        {
+          "name": "Millennium Democratic Party",
+          "party": "mdp",
+          "votes": 1510178,
+          "pct": 7.09,
+          "seats": 9,
+          "change": -106
+        },
+        {
+          "name": "United Liberal Democrats",
+          "party": "uld",
+          "votes": 600462,
+          "pct": 2.82,
+          "seats": 4,
+          "change": -13
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": -3
+        },
+        {
+          "name": "National Integration 21",
+          "party": "ni21",
+          "votes": 119746,
+          "pct": 0.56,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Christian Party",
+          "party": "cp04",
+          "votes": 228837,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 293216,
+          "pct": 1.38,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and pct are the party-list (proportional) vote; seats are total seats (constituency plus list). Independents cannot stand for list seats, so they have no list vote. A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table. Not yet separate units at this election: Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "uri",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "uri",
+        "29": "uri",
+        "30": "uri",
+        "31": "lkp",
+        "41": "uri",
+        "42": "lkp",
+        "43": "uri",
+        "44": "uri",
+        "45": "uri",
+        "46": "uri",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "uri"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2004_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-2008",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2008-04-09",
+      "totalSeats": 299,
+      "turnout": 46.08,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission, IPU and CLEA",
+        "url": "https://en.wikipedia.org/wiki/2008_South_Korean_legislative_election",
+        "revid": 1368680273
+      },
+      "candidates": [
+        {
+          "name": "Grand National Party",
+          "party": "lkp",
+          "votes": 6421727,
+          "pct": 37.48,
+          "seats": 153,
+          "change": 32,
+          "winner": true
+        },
+        {
+          "name": "United Democratic Party",
+          "party": "udp",
+          "votes": 4313645,
+          "pct": 25.18,
+          "seats": 81,
+          "change": -80
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 25,
+          "change": 23
+        },
+        {
+          "name": "Liberty Forward Party",
+          "party": "lfp",
+          "votes": 1173463,
+          "pct": 6.85,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Pro-Park Alliance",
+          "party": "ppa",
+          "votes": 2258750,
+          "pct": 13.18,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Democratic Labor Party",
+          "party": "dlp",
+          "votes": 973445,
+          "pct": 5.68,
+          "seats": 5,
+          "change": -5
+        },
+        {
+          "name": "Creative Korea Party",
+          "party": "ckp",
+          "votes": 651993,
+          "pct": 3.81,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "New Progressive Party",
+          "party": "npp",
+          "votes": 504466,
+          "pct": 2.94,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Christian Party",
+          "party": "cp",
+          "votes": 443775,
+          "pct": 2.59,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Party for Peaceful Unification and Family",
+          "party": "pfu",
+          "votes": 180857,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 209416,
+          "pct": 1.22,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and pct are the party-list (proportional) vote; seats are total seats (constituency plus list). Independents cannot stand for list seats, so they have no list vote. A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table; seat ties broken by the table's constituency vote share: Gangwon (Liberty Korea Party 3 seats, 44.8% vs Independents 3 seats, 16.8%). In Jeju (4 vs 3) the party seats do not add up to the row's total, but the leader's margin is larger than the gap. Not yet separate units at this election: Sejong.",
+      "voted": [
+        "11",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+      ],
+      "regionWinners": {
+        "11": "lkp",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "lkp",
+        "29": "udp",
+        "30": "lfp",
+        "31": "lkp",
+        "41": "lkp",
+        "42": "lkp",
+        "43": "udp",
+        "44": "lfp",
+        "45": "udp",
+        "46": "udp",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "udp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2008_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-2012",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2012-04-11",
+      "totalSeats": 300,
+      "turnout": 54.24,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission, IPU and CLEA",
+        "url": "https://en.wikipedia.org/wiki/2012_South_Korean_legislative_election",
+        "revid": 1374859702
+      },
+      "candidates": [
+        {
+          "name": "Saenuri Party",
+          "party": "lkp",
+          "votes": 9130651,
+          "pct": 42.8,
+          "seats": 152,
+          "change": -15,
+          "winner": true
+        },
+        {
+          "name": "Democratic United Party",
+          "party": "dup12",
+          "votes": 7777123,
+          "pct": 36.46,
+          "seats": 127,
+          "change": 46
+        },
+        {
+          "name": "Unified Progressive Party",
+          "party": "upp",
+          "votes": 2198405,
+          "pct": 10.31,
+          "seats": 13,
+          "change": 8
+        },
+        {
+          "name": "Liberty Forward Party",
+          "party": "lfp",
+          "votes": 690754,
+          "pct": 3.24,
+          "seats": 5,
+          "change": -13
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": -22
+        },
+        {
+          "name": "Christian Liberal Democratic Party",
+          "party": "cldp",
+          "votes": 257190,
+          "pct": 1.21,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "New Progressive Party",
+          "party": "npp",
+          "votes": 243065,
+          "pct": 1.14,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1034873,
+          "pct": 4.85,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and pct are the party-list (proportional) vote; seats are total seats (constituency plus list). Independents cannot stand for list seats, so they have no list vote. Region winners: most constituency seats in each province or city, from the article's by-city/province table; seat ties broken by the table's constituency vote share: Incheon (Liberty Korea Party 6 seats, 47.2% vs Democratic United Party 6 seats, 44.7%); Daejeon (Democratic United Party 3 seats, 36.8% vs Liberty Korea Party 3 seats, 35.3%).",
+      "regionWinners": {
+        "11": "dup12",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "lkp",
+        "29": "dup12",
+        "30": "dup12",
+        "31": "lkp",
+        "41": "dup12",
+        "42": "lkp",
+        "43": "lkp",
+        "44": "lkp",
+        "45": "dup12",
+        "46": "dup12",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "dup12",
+        "50": "dup12"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2012_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-2016",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2016-04-13",
+      "totalSeats": 300,
+      "turnout": 58.03,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission",
+        "url": "https://en.wikipedia.org/wiki/2016_South_Korean_legislative_election",
+        "revid": 1373333647
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party",
+          "party": "dp",
+          "votes": 6069744,
+          "pct": 25.55,
+          "seats": 123,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Saenuri Party",
+          "party": "lkp",
+          "votes": 7960272,
+          "pct": 33.5,
+          "seats": 122,
+          "change": -35
+        },
+        {
+          "name": "People Party",
+          "party": "pp16",
+          "votes": 6355572,
+          "pct": 26.75,
+          "seats": 38,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 11,
+          "change": 8
+        },
+        {
+          "name": "Justice Party",
+          "party": "jp",
+          "votes": 1719891,
+          "pct": 7.24,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Christian Liberal Party",
+          "party": "lup",
+          "votes": 626853,
+          "pct": 2.64,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1028645,
+          "pct": 4.33,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and pct are the party-list (proportional) vote; seats are total seats (constituency plus list). Independents cannot stand for list seats, so they have no list vote. A null change means the table shows \"New\" or no figure. Region winners: most constituency seats in each province or city, from the article's by-city/province table; seat ties broken by the table's constituency vote share: Ulsan (Liberty Korea Party 3 seats, 38.5% vs Independents 3 seats, 35.6%). In Gyeonggi (61 vs 60) the party seats do not add up to the row's total, but the leader's margin is larger than the gap.",
+      "regionWinners": {
+        "11": "dp",
+        "26": "lkp",
+        "27": "lkp",
+        "28": "dp",
+        "29": "pp16",
+        "30": "dp",
+        "31": "lkp",
+        "41": "dp",
+        "42": "lkp",
+        "43": "lkp",
+        "44": "lkp",
+        "45": "pp16",
+        "46": "pp16",
+        "47": "lkp",
+        "48": "lkp",
+        "49": "dp",
+        "50": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2016_South_Korean_legislative_election"
+    },
+    {
+      "id": "kr-assembly-2020",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2020-04-15",
+      "totalSeats": 300,
+      "turnout": 66.21,
+      "source": {
+        "name": "Wikipedia, citing the National Election Commission",
+        "url": "https://en.wikipedia.org/wiki/2020_South_Korean_legislative_election",
+        "revid": 1373101014
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party / Platform Party",
+          "party": "dp",
+          "votes": 9307112,
+          "pct": 33.36,
+          "seats": 180,
+          "change": 57,
+          "winner": true
+        },
+        {
+          "name": "United Future Party / Future Korea Party",
+          "party": "ppp",
+          "votes": 9441520,
+          "pct": 33.84,
+          "seats": 103,
+          "change": -19
+        },
+        {
+          "name": "Justice Party",
+          "party": "jp",
+          "votes": 2697956,
+          "pct": 9.67,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": -6
+        },
+        {
+          "name": "People Party",
+          "party": "pp20",
+          "votes": 1896719,
+          "pct": 6.8,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Open Democratic Party",
+          "party": "odp",
+          "votes": 1512763,
+          "pct": 5.42,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Minsaeng Party",
+          "party": "minsaeng",
+          "votes": 758778,
+          "pct": 2.72,
+          "seats": 0,
+          "change": -38
+        },
+        {
+          "name": "Christian Liberty Unification Party",
+          "party": "lup",
+          "votes": 513159,
+          "pct": 1.84,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Minjung Party",
+          "party": "prog",
+          "votes": 295612,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1476245,
+          "pct": 5.29,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Votes and pct are the party-list (proportional) vote; seats are total seats (constituency plus list). Independents cannot stand for list seats, so they have no list vote. A null change means the table shows \"New\" or no figure. The table combines the United Future Party with its satellite list party (Future Korea Party) and the Democratic Party with its satellite (Platform Party); votes are the satellites' list votes and seats are the combined totals. Region winners: most constituency seats in each province or city, from the article's by-city/province table.",
+      "regionWinners": {
+        "11": "dp",
+        "26": "ppp",
+        "27": "ppp",
+        "28": "dp",
+        "29": "dp",
+        "30": "dp",
+        "31": "ppp",
+        "41": "dp",
+        "42": "ppp",
+        "43": "dp",
+        "44": "dp",
+        "45": "dp",
+        "46": "dp",
+        "47": "ppp",
+        "48": "ppp",
+        "49": "dp",
+        "50": "dp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2020_South_Korean_legislative_election"
+    }
+  ]
+}

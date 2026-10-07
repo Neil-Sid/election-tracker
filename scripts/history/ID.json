@@ -1,0 +1,2033 @@
+{
+  "code": "ID",
+  "parties": {
+    "apt": {
+      "name": "Appointed members",
+      "color": "#4A4A52"
+    },
+    "pni": {
+      "name": "Indonesian National Party",
+      "color": "#D20000",
+      "article": "Indonesian National Party"
+    },
+    "masyumi": {
+      "name": "Masyumi Party",
+      "color": "#000000",
+      "article": "Masyumi Party"
+    },
+    "nu": {
+      "name": "Nahdlatul Ulama",
+      "color": "#017533",
+      "article": "Nahdlatul Ulama"
+    },
+    "pki": {
+      "name": "Communist Party of Indonesia",
+      "color": "#ED3237",
+      "article": "Communist Party of Indonesia"
+    },
+    "psii": {
+      "name": "Indonesian Islamic Union Party",
+      "color": "#4B3B2A",
+      "article": "Indonesian Islamic Union Party"
+    },
+    "parkindo": {
+      "name": "Indonesian Christian Party",
+      "color": "#799BCB",
+      "article": "Indonesian Christian Party"
+    },
+    "katolik": {
+      "name": "Catholic Party",
+      "color": "#800000",
+      "article": "Catholic Party (Indonesia)"
+    },
+    "psos": {
+      "name": "Socialist Party of Indonesia",
+      "color": "#FA0000",
+      "article": "Socialist Party of Indonesia"
+    },
+    "ipki": {
+      "name": "League of Supporters of Indonesian Independence",
+      "color": "#D1E231",
+      "article": "League of Supporters of Indonesian Independence"
+    },
+    "perti": {
+      "name": "Islamic Education Movement",
+      "color": "#005825",
+      "article": "Islamic Education Movement"
+    },
+    "prn": {
+      "name": "National People's Party",
+      "color": "#5C4D7D",
+      "article": "National People's Party (Indonesia)"
+    },
+    "buruh": {
+      "name": "Labour Party",
+      "color": "#C0392B",
+      "article": "Labour Party (Indonesia, 1949)"
+    },
+    "gpps": {
+      "name": "Movement to Defend the Pancasila",
+      "color": "#FFA500"
+    },
+    "pri": {
+      "name": "Indonesia People's Party",
+      "color": "#6A4C93"
+    },
+    "p3ri": {
+      "name": "Police Employee's Association of the Republic of Indonesia",
+      "color": "#D2691E"
+    },
+    "murba": {
+      "name": "Murba Party",
+      "color": "#FFE5E5",
+      "article": "Murba Party"
+    },
+    "baperki": {
+      "name": "Consultative Council for Indonesian Citizenship",
+      "color": "#800080",
+      "article": "Consultative Council for Indonesian Citizenship"
+    },
+    "pirw": {
+      "name": "Great Indonesia Unity Party (Wongsonegoro)",
+      "color": "#FFFF00",
+      "article": "Great Indonesia Unity Party"
+    },
+    "gind": {
+      "name": "Indonesian Movement",
+      "color": "#6D8B74"
+    },
+    "permai": {
+      "name": "Indonesian Marhaen People's Union",
+      "color": "#E07A5F",
+      "article": "Indonesian Marhaen People's Union"
+    },
+    "ppd": {
+      "name": "Dayak Unity Party",
+      "color": "#0093DD",
+      "article": "Dayak Unity Party"
+    },
+    "pirh": {
+      "name": "Great Indonesia Unity Party (Hazairin)",
+      "color": "#D4B000",
+      "article": "Great Indonesia Unity Party"
+    },
+    "ppti": {
+      "name": "Islamic Tharikah Unity Party",
+      "color": "#2E8B57",
+      "article": "Islamic Tharikah Unity Party"
+    },
+    "akui": {
+      "name": "Islamic Victory Force",
+      "color": "#3D5A80",
+      "article": "Islamic Victory Force"
+    },
+    "prd": {
+      "name": "Village People's Union",
+      "color": "#A47148",
+      "article": "Village People's Union"
+    },
+    "prim": {
+      "name": "Party of the People of Free Indonesia",
+      "color": "#B5838D",
+      "article": "Party of the People of Free Indonesia"
+    },
+    "acoma": {
+      "name": "Acoma Party",
+      "color": "#9B2226",
+      "article": "Acoma Party"
+    },
+    "soedjono": {
+      "name": "R. Soedjono Prawirosoedarso & Associates",
+      "color": "#A8DADC",
+      "article": "Soedjono Prawirosoedarso"
+    },
+    "golkar": {
+      "name": "Golkar",
+      "color": "#F2C200",
+      "article": "Golkar"
+    },
+    "parmusi": {
+      "name": "Parmusi",
+      "color": "#2A9D8F",
+      "article": "Parmusi"
+    },
+    "ppp": {
+      "name": "PPP",
+      "color": "#00A100",
+      "article": "United Development Party"
+    },
+    "pdi": {
+      "name": "Indonesian Democratic Party",
+      "color": "#8C1C13",
+      "article": "Indonesian Democratic Party"
+    },
+    "pdip": {
+      "name": "PDI-P",
+      "color": "#E3001B",
+      "article": "Indonesian Democratic Party of Struggle"
+    },
+    "pkb": {
+      "name": "PKB",
+      "color": "#00843D",
+      "article": "National Awakening Party"
+    },
+    "pan": {
+      "name": "PAN",
+      "color": "#0F67B1",
+      "article": "National Mandate Party"
+    },
+    "pbb": {
+      "name": "Crescent Star Party",
+      "color": "#005825",
+      "article": "Crescent Star Party (Indonesia)"
+    },
+    "pks": {
+      "name": "PKS",
+      "color": "#FF6600",
+      "article": "Prosperous Justice Party"
+    },
+    "pkpi": {
+      "name": "Indonesian Justice and Unity Party",
+      "color": "#B23A48",
+      "article": "Indonesian Justice and Unity Party"
+    },
+    "ppnui": {
+      "name": "Indonesian Nahdlatul Community Party",
+      "color": "#1E6539",
+      "article": "Indonesian Nahdlatul Community Party"
+    },
+    "pper": {
+      "name": "United Party",
+      "color": "#7CB518"
+    },
+    "pdkb": {
+      "name": "Love the Nation Democratic Party",
+      "color": "#990AC9"
+    },
+    "pdr": {
+      "name": "People's Sovereignty Party",
+      "color": "#DF3A03",
+      "article": "People's Sovereignty Party"
+    },
+    "pnifm": {
+      "name": "Indonesian National Party – Marhaenist Front",
+      "color": "#FF9B73",
+      "article": "Indonesian National Party – Marhaenist Front"
+    },
+    "pbi": {
+      "name": "Indonesian Unity in Diversity Party",
+      "color": "#FFFF25"
+    },
+    "pnimm": {
+      "name": "Indonesian National Party – Marhaen Masses",
+      "color": "#F24439",
+      "article": "Indonesian National Party – Marhaen Masses"
+    },
+    "pku": {
+      "name": "Community Awakening Party",
+      "color": "#349F4C"
+    },
+    "pkd": {
+      "name": "Catholic Democratic Party",
+      "color": "#4A90A4",
+      "article": "Indonesian Democratic Party of Devotion"
+    },
+    "demokrat": {
+      "name": "Demokrat",
+      "color": "#4E9BD5",
+      "article": "Democratic Party (Indonesia)"
+    },
+    "pbr": {
+      "name": "Reform Star Party",
+      "color": "#BCDA00",
+      "article": "Reform Star Party"
+    },
+    "pds": {
+      "name": "Prosperous Peace Party",
+      "color": "#893BFF",
+      "article": "Prosperous Peace Party"
+    },
+    "pkpb": {
+      "name": "Concern for the Nation Functional Party",
+      "color": "#014133",
+      "article": "Concern for the Nation Functional Party"
+    },
+    "ppdk": {
+      "name": "Democratic Nationhood Party",
+      "color": "#5E8C31",
+      "article": "Democratic Nationhood Party"
+    },
+    "pnbk": {
+      "name": "Indonesian National Populist Fortress Party",
+      "color": "#85011F",
+      "article": "Indonesian National Populist Fortress Party"
+    },
+    "pnim": {
+      "name": "Indonesian National Party Marhaenism",
+      "color": "#A50005",
+      "article": "Indonesian National Party Marhaenism"
+    },
+    "pelopor": {
+      "name": "Pioneers' Party",
+      "color": "#FA0437",
+      "article": "Pioneers' Party"
+    },
+    "ppdi": {
+      "name": "Indonesian Democratic Vanguard Party",
+      "color": "#E76F51",
+      "article": "Indonesian Democratic Vanguard Party"
+    },
+    "gerindra": {
+      "name": "Gerindra",
+      "color": "#7D2027",
+      "article": "Gerindra Party"
+    },
+    "hanura": {
+      "name": "Hanura",
+      "color": "#F4A261",
+      "article": "People's Conscience Party"
+    },
+    "pknu": {
+      "name": "Ulema National Awakening Party",
+      "color": "#4F772D",
+      "article": "Ulema National Awakening Party"
+    },
+    "pprn": {
+      "name": "National People's Concern Party",
+      "color": "#9A6324",
+      "article": "National People's Concern Party"
+    },
+    "nasdem": {
+      "name": "NasDem",
+      "color": "#1E3A8A",
+      "article": "NasDem Party"
+    },
+    "perindo": {
+      "name": "Perindo",
+      "color": "#2F318B",
+      "article": "Perindo Party"
+    },
+    "berkarya": {
+      "name": "Berkarya Party",
+      "color": "#8D6E63",
+      "article": "Berkarya Party"
+    },
+    "psi": {
+      "name": "PSI",
+      "color": "#E6212A",
+      "article": "Indonesian Solidarity Party"
+    }
+  },
+  "elections": [
+    {
+      "id": "id-dpr-1955",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1955-09-29",
+      "totalSeats": 257,
+      "turnout": 91.54,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission",
+        "url": "https://en.wikipedia.org/wiki/1955_Indonesian_legislative_election",
+        "revid": 1360593689
+      },
+      "candidates": [
+        {
+          "name": "Indonesian National Party",
+          "party": "pni",
+          "votes": 8434653,
+          "pct": 22.32,
+          "seats": 57,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Masyumi Party",
+          "party": "masyumi",
+          "votes": 7903886,
+          "pct": 20.92,
+          "seats": 57,
+          "change": null
+        },
+        {
+          "name": "Nahdlatul Ulama",
+          "party": "nu",
+          "votes": 6955141,
+          "pct": 18.41,
+          "seats": 45,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Indonesia",
+          "party": "pki",
+          "votes": 6176914,
+          "pct": 16.35,
+          "seats": 39,
+          "change": null
+        },
+        {
+          "name": "Indonesian Islamic Union Party",
+          "party": "psii",
+          "votes": 1091160,
+          "pct": 2.89,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Indonesian Christian Party",
+          "party": "parkindo",
+          "votes": 1003325,
+          "pct": 2.66,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Catholic Party",
+          "party": "katolik",
+          "votes": 770740,
+          "pct": 2.04,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Socialist Party of Indonesia",
+          "party": "psos",
+          "votes": 753191,
+          "pct": 1.99,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "League of Supporters of Indonesian Independence",
+          "party": "ipki",
+          "votes": 541306,
+          "pct": 1.43,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Islamic Education Movement",
+          "party": "perti",
+          "votes": 483014,
+          "pct": 1.28,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "National People's Party",
+          "party": "prn",
+          "votes": 242125,
+          "pct": 0.64,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Labour Party",
+          "party": "buruh",
+          "votes": 224167,
+          "pct": 0.59,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Movement to Defend the Pancasila",
+          "party": "gpps",
+          "votes": 219985,
+          "pct": 0.58,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indonesia People's Party",
+          "party": "pri",
+          "votes": 206261,
+          "pct": 0.55,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Police Employee's Association of the Republic of Indonesia",
+          "party": "p3ri",
+          "votes": 200419,
+          "pct": 0.53,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Murba Party",
+          "party": "murba",
+          "votes": 199588,
+          "pct": 0.53,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Consultative Council for Indonesian Citizenship",
+          "party": "baperki",
+          "votes": 178887,
+          "pct": 0.47,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Great Indonesia Unity Party–Wongsonegoro",
+          "party": "pirw",
+          "votes": 178481,
+          "pct": 0.47,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian Movement",
+          "party": "gind",
+          "votes": 154792,
+          "pct": 0.41,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian Marhaen People's Union",
+          "party": "permai",
+          "votes": 149287,
+          "pct": 0.4,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Dayak Unity Party",
+          "party": "ppd",
+          "votes": 146054,
+          "pct": 0.39,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Great Indonesia Unity Party–Hazairin",
+          "party": "pirh",
+          "votes": 114644,
+          "pct": 0.3,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Islamic Tharikah Unity Party",
+          "party": "ppti",
+          "votes": 85131,
+          "pct": 0.23,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Islamic Victory Force",
+          "party": "akui",
+          "votes": 81454,
+          "pct": 0.22,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Village People's Union",
+          "party": "prd",
+          "votes": 77919,
+          "pct": 0.21,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Party of the People of Free Indonesia",
+          "party": "prim",
+          "votes": 72523,
+          "pct": 0.19,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Acoma Party",
+          "party": "acoma",
+          "votes": 64514,
+          "pct": 0.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "R. Soejono Prawirosoedarso & Associates",
+          "party": "soedjono",
+          "votes": 53305,
+          "pct": 0.14,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1022433,
+          "pct": 2.71,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First election, so no seat changes. PNI and Masyumi both won 57 seats; PNI is flagged as the winner on votes. \"Other parties and independents\" is a single row in the source table (2.71%, no seats) and is the Others row here."
+    },
+    {
+      "id": "id-dpr-1971",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1971-07-03",
+      "note": "New Order: restricted parties, appointed members",
+      "totalSeats": 460,
+      "source": {
+        "name": "Wikipedia, citing Cribb & Kahin (2004) and Nohlen et al. (2001)",
+        "url": "https://en.wikipedia.org/wiki/1971_Indonesian_legislative_election",
+        "revid": 1373348485
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 34348673,
+          "pct": 62.8,
+          "seats": 236,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Nahdlatul Ulama",
+          "party": "nu",
+          "votes": 10213650,
+          "pct": 18.67,
+          "seats": 58,
+          "change": null
+        },
+        {
+          "name": "Parmusi",
+          "party": "parmusi",
+          "votes": 2930746,
+          "pct": 5.36,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "Indonesian National Party",
+          "party": "pni",
+          "votes": 3793266,
+          "pct": 6.93,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Indonesian Islamic Union Party",
+          "party": "psii",
+          "votes": 1308237,
+          "pct": 2.39,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Indonesian Christian Party",
+          "party": "parkindo",
+          "votes": 733359,
+          "pct": 1.34,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Catholic Party",
+          "party": "katolik",
+          "votes": 603740,
+          "pct": 1.1,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Islamic Education Movement",
+          "party": "perti",
+          "votes": 381309,
+          "pct": 0.7,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 100,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 386529,
+          "pct": 0.71,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "360 seats were elected and 100 appointed. The source table has Elected, Appointed and Total columns and puts all 100 appointed seats in Golkar's total (336); here Golkar has its 236 elected seats and the 100 appointed seats are a separate row. Turnout omitted: the article gives the electorate but no figure for votes cast. No seat-change column."
+    },
+    {
+      "id": "id-dpr-1977",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1977-05-02",
+      "note": "New Order: restricted parties, appointed members",
+      "totalSeats": 460,
+      "turnout": 90.93,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU) and Sudibjo",
+        "url": "https://en.wikipedia.org/wiki/1977_Indonesian_legislative_election",
+        "revid": 1373348579
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 39750096,
+          "pct": 62.11,
+          "seats": 232,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 18743491,
+          "pct": 29.29,
+          "seats": 99,
+          "change": null
+        },
+        {
+          "name": "Indonesian Democratic Party",
+          "party": "pdi",
+          "votes": 5504757,
+          "pct": 8.6,
+          "seats": 29,
+          "change": null
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 100,
+          "change": null
+        }
+      ],
+      "notes": "360 seats were elected and 100 appointed. The source table puts all 100 appointed seats in Golkar's total (332); the article says they were appointed Golkar representatives, 75 of them from the armed forces (ABRI). Here Golkar has its 232 elected seats and the appointed seats are a separate row. No seat-change column."
+    },
+    {
+      "id": "id-dpr-1982",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1982-05-04",
+      "note": "New Order: restricted parties, appointed members",
+      "totalSeats": 460,
+      "source": {
+        "name": "Wikipedia, citing Sulastri and Sudibjo",
+        "url": "https://en.wikipedia.org/wiki/1982_Indonesian_legislative_election",
+        "revid": 1373348621
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 48334724,
+          "pct": 64.34,
+          "seats": 242,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 20871880,
+          "pct": 27.78,
+          "seats": 94,
+          "change": -5
+        },
+        {
+          "name": "Indonesian Democratic Party",
+          "party": "pdi",
+          "votes": 5919702,
+          "pct": 7.88,
+          "seats": 24,
+          "change": -5
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 100,
+          "change": 0
+        }
+      ],
+      "notes": "360 seats were elected; the source table adds 100 appointed members (total 460). Turnout omitted: the article gives the electorate but no figure for votes cast."
+    },
+    {
+      "id": "id-dpr-1987",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1987-04-23",
+      "note": "New Order: restricted parties, appointed members",
+      "totalSeats": 500,
+      "turnout": 91.38,
+      "source": {
+        "name": "Wikipedia, citing Nohlen et al.",
+        "url": "https://en.wikipedia.org/wiki/1987_Indonesian_legislative_election",
+        "revid": 1373348659
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 62783680,
+          "pct": 73.11,
+          "seats": 299,
+          "change": 57,
+          "winner": true
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 13701428,
+          "pct": 15.96,
+          "seats": 61,
+          "change": -33
+        },
+        {
+          "name": "Indonesian Democratic Party",
+          "party": "pdi",
+          "votes": 9384708,
+          "pct": 10.93,
+          "seats": 40,
+          "change": 16
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 100,
+          "change": 0
+        }
+      ],
+      "notes": "400 seats were elected; the source table adds 100 appointed members of the armed forces (ABRI), total 500."
+    },
+    {
+      "id": "id-dpr-1992",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1992-06-09",
+      "note": "New Order: restricted parties, appointed members",
+      "totalSeats": 500,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU) and the IPU",
+        "url": "https://en.wikipedia.org/wiki/1992_Indonesian_legislative_election",
+        "revid": 1373348698
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 66599331,
+          "pct": 68.1,
+          "seats": 282,
+          "change": -17,
+          "winner": true
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 16624647,
+          "pct": 17,
+          "seats": 62,
+          "change": 1
+        },
+        {
+          "name": "Indonesian Democratic Party",
+          "party": "pdi",
+          "votes": 14565556,
+          "pct": 14.89,
+          "seats": 56,
+          "change": 16
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 100,
+          "change": 0
+        }
+      ],
+      "notes": "400 seats were elected; the source table adds 100 appointed members of the armed forces (ABRI), total 500. Turnout omitted: the article gives the electorate but no figure for votes cast. Region winners (most votes) only for provinces whose borders match today's map; provinces later split (Riau, South Sumatra, West Java, North Sulawesi, South Sulawesi, Maluku, Irian Jaya) are left out.",
+      "regionWinners": {
+        "AC": "golkar",
+        "SU": "golkar",
+        "SB": "golkar",
+        "JA": "golkar",
+        "BE": "golkar",
+        "LA": "golkar",
+        "JK": "golkar",
+        "JT": "golkar",
+        "YO": "golkar",
+        "JI": "golkar",
+        "KB": "golkar",
+        "KT": "golkar",
+        "KI": "golkar",
+        "KS": "golkar",
+        "BA": "golkar",
+        "NB": "golkar",
+        "NT": "golkar",
+        "ST": "golkar",
+        "SG": "golkar"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1992_Indonesian_legislative_election"
+    },
+    {
+      "id": "id-dpr-1997",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1997-05-29",
+      "note": "New Order: restricted parties, appointed members",
+      "totalSeats": 500,
+      "source": {
+        "name": "Wikipedia, citing Nohlen et al.",
+        "url": "https://en.wikipedia.org/wiki/1997_Indonesian_legislative_election",
+        "revid": 1377385152
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 84187907,
+          "pct": 74.51,
+          "seats": 325,
+          "change": 43,
+          "winner": true
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 25340028,
+          "pct": 22.43,
+          "seats": 89,
+          "change": 27
+        },
+        {
+          "name": "Indonesian Democratic Party",
+          "party": "pdi",
+          "votes": 3463225,
+          "pct": 3.07,
+          "seats": 11,
+          "change": -45
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 75,
+          "change": -25
+        }
+      ],
+      "notes": "425 seats were elected; the source table adds 75 appointed members, total 500. Turnout omitted: the article gives the electorate but no figure for votes cast. Region winners (most votes) only for provinces whose borders match today's map; provinces later split (Riau, South Sumatra, West Java, North Sulawesi, South Sulawesi, Maluku, Irian Jaya) are left out.",
+      "regionWinners": {
+        "AC": "golkar",
+        "SU": "golkar",
+        "SB": "golkar",
+        "JA": "golkar",
+        "BE": "golkar",
+        "LA": "golkar",
+        "JK": "golkar",
+        "JT": "golkar",
+        "YO": "golkar",
+        "JI": "golkar",
+        "BA": "golkar",
+        "NB": "golkar",
+        "NT": "golkar",
+        "KB": "golkar",
+        "KT": "golkar",
+        "KS": "golkar",
+        "KI": "golkar",
+        "ST": "golkar",
+        "SG": "golkar"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1997_Indonesian_legislative_election"
+    },
+    {
+      "id": "id-dpr-1999",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "1999-06-07",
+      "note": "Includes 38 seats reserved for the armed forces",
+      "totalSeats": 500,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of Information and the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/1999_Indonesian_legislative_election",
+        "revid": 1373348831
+      },
+      "candidates": [
+        {
+          "name": "Indonesian Democratic Party of Struggle",
+          "party": "pdip",
+          "votes": 35689073,
+          "pct": 33.74,
+          "seats": 153,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 23741749,
+          "pct": 22.44,
+          "seats": 120,
+          "change": -205
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 11329905,
+          "pct": 10.71,
+          "seats": 58,
+          "change": -31
+        },
+        {
+          "name": "National Awakening Party",
+          "party": "pkb",
+          "votes": 13336982,
+          "pct": 12.61,
+          "seats": 51,
+          "change": null
+        },
+        {
+          "name": "National Mandate Party",
+          "party": "pan",
+          "votes": 7528956,
+          "pct": 7.12,
+          "seats": 34,
+          "change": null
+        },
+        {
+          "name": "Crescent Star Party",
+          "party": "pbb",
+          "votes": 2049708,
+          "pct": 1.94,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Justice Party",
+          "party": "pks",
+          "votes": 1436565,
+          "pct": 1.36,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Nahdlatul Ummat Party",
+          "party": "ppnui",
+          "votes": 679179,
+          "pct": 0.64,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Love the Nation Democratic Party",
+          "party": "pdkb",
+          "votes": 550846,
+          "pct": 0.52,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Indonesian Justice and Unity Party",
+          "party": "pkpi",
+          "votes": 1065686,
+          "pct": 1.01,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Indonesian Democratic Party",
+          "party": "pdi",
+          "votes": 655052,
+          "pct": 0.62,
+          "seats": 2,
+          "change": -9
+        },
+        {
+          "name": "United Party",
+          "party": "pper",
+          "votes": 551028,
+          "pct": 0.52,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian Masyumi Islamic Political Party",
+          "party": "masyumi",
+          "votes": 456718,
+          "pct": 0.43,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "People's Sovereignty Party",
+          "party": "pdr",
+          "votes": 427854,
+          "pct": 0.4,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian Islamic Union Party",
+          "party": "psii",
+          "votes": 375920,
+          "pct": 0.36,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian National Party – Marhaenist Front",
+          "party": "pnifm",
+          "votes": 365176,
+          "pct": 0.35,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian Unity in Diversity Party",
+          "party": "pbi",
+          "votes": 364291,
+          "pct": 0.34,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indonesian National Party – Marhaen Masses",
+          "party": "pnimm",
+          "votes": 345720,
+          "pct": 0.33,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "League of Supporters of Indonesian Independence",
+          "party": "ipki",
+          "votes": 328564,
+          "pct": 0.31,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Community Awakening Party",
+          "party": "pku",
+          "votes": 300064,
+          "pct": 0.28,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Catholic Democratic Party",
+          "party": "pkd",
+          "votes": 216675,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Appointed members",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 38,
+          "change": -37
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3990950,
+          "pct": 3.77,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "462 seats were elected; 38 more were reserved for the armed forces, listed in the source table as appointed members (total 500). The Justice Party row links to the Prosperous Justice Party article and uses the pks key. The Indonesian Democratic Party (PDI) is the pre-1999 party, separate from PDI-P. Parties marked \"New\" have a null change. Turnout omitted: the article gives none."
+    },
+    {
+      "id": "id-dpr-2004",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2004-04-05",
+      "totalSeats": 550,
+      "turnout": 84.07,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/2004_Indonesian_legislative_election",
+        "revid": 1368446062
+      },
+      "candidates": [
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 24480757,
+          "pct": 21.58,
+          "seats": 128,
+          "change": 8,
+          "winner": true
+        },
+        {
+          "name": "Indonesian Democratic Party of Struggle",
+          "party": "pdip",
+          "votes": 21026629,
+          "pct": 18.53,
+          "seats": 109,
+          "change": -44
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 9248764,
+          "pct": 8.15,
+          "seats": 58,
+          "change": 0
+        },
+        {
+          "name": "Democratic Party",
+          "party": "demokrat",
+          "votes": 8455225,
+          "pct": 7.45,
+          "seats": 55,
+          "change": null
+        },
+        {
+          "name": "National Mandate Party",
+          "party": "pan",
+          "votes": 7303324,
+          "pct": 6.44,
+          "seats": 53,
+          "change": 19
+        },
+        {
+          "name": "National Awakening Party",
+          "party": "pkb",
+          "votes": 11989564,
+          "pct": 10.57,
+          "seats": 52,
+          "change": 1
+        },
+        {
+          "name": "Prosperous Justice Party",
+          "party": "pks",
+          "votes": 8325020,
+          "pct": 7.34,
+          "seats": 45,
+          "change": 38
+        },
+        {
+          "name": "Reform Star Party",
+          "party": "pbr",
+          "votes": 2764998,
+          "pct": 2.44,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Prosperous Peace Party",
+          "party": "pds",
+          "votes": 2414254,
+          "pct": 2.13,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Crescent Star Party",
+          "party": "pbb",
+          "votes": 2970487,
+          "pct": 2.62,
+          "seats": 11,
+          "change": -2
+        },
+        {
+          "name": "United Democratic Nationhood Party",
+          "party": "ppdk",
+          "votes": 1313654,
+          "pct": 1.16,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Pioneers' Party",
+          "party": "pelopor",
+          "votes": 878932,
+          "pct": 0.77,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Concern for the Nation Functional Party",
+          "party": "pkpb",
+          "votes": 2399290,
+          "pct": 2.11,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Indonesian Justice and Unity Party",
+          "party": "pkpi",
+          "votes": 1424240,
+          "pct": 1.26,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Indonesian National Party Marhaenism",
+          "party": "pnim",
+          "votes": 923159,
+          "pct": 0.81,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Indonesian Democratic Vanguard Party",
+          "party": "ppdi",
+          "votes": 855811,
+          "pct": 0.75,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Freedom Bull National Party",
+          "party": "pnbk",
+          "votes": 1230455,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Indonesian Nahdlatul Community Party",
+          "party": "ppnui",
+          "votes": 895610,
+          "pct": 0.79,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 4562241,
+          "pct": 4.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Parties marked \"New\" have a null change."
+    },
+    {
+      "id": "id-dpr-2009",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2009-04-09",
+      "totalSeats": 560,
+      "turnout": 70.99,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/2009_Indonesian_legislative_election",
+        "revid": 1369519006
+      },
+      "candidates": [
+        {
+          "name": "Democratic Party",
+          "party": "demokrat",
+          "votes": 21655295,
+          "pct": 20.81,
+          "seats": 148,
+          "change": 93,
+          "winner": true
+        },
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 15031497,
+          "pct": 14.45,
+          "seats": 106,
+          "change": -22
+        },
+        {
+          "name": "Indonesian Democratic Party of Struggle",
+          "party": "pdip",
+          "votes": 14576388,
+          "pct": 14.01,
+          "seats": 94,
+          "change": -15
+        },
+        {
+          "name": "Prosperous Justice Party",
+          "party": "pks",
+          "votes": 8204946,
+          "pct": 7.89,
+          "seats": 57,
+          "change": 12
+        },
+        {
+          "name": "National Mandate Party",
+          "party": "pan",
+          "votes": 6273462,
+          "pct": 6.03,
+          "seats": 46,
+          "change": -7
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 5544332,
+          "pct": 5.33,
+          "seats": 38,
+          "change": -20
+        },
+        {
+          "name": "National Awakening Party",
+          "party": "pkb",
+          "votes": 5146302,
+          "pct": 4.95,
+          "seats": 28,
+          "change": -24
+        },
+        {
+          "name": "Gerindra Party",
+          "party": "gerindra",
+          "votes": 4642795,
+          "pct": 4.46,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "People's Conscience Party",
+          "party": "hanura",
+          "votes": 3925620,
+          "pct": 3.77,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Crescent Star Party",
+          "party": "pbb",
+          "votes": 1864642,
+          "pct": 1.79,
+          "seats": 0,
+          "change": -11
+        },
+        {
+          "name": "Ulema National Awakening Party",
+          "party": "pknu",
+          "votes": 1527509,
+          "pct": 1.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Prosperous Peace Party",
+          "party": "pds",
+          "votes": 1522032,
+          "pct": 1.46,
+          "seats": 0,
+          "change": -13
+        },
+        {
+          "name": "Concern for the Nation Functional Party",
+          "party": "pkpb",
+          "votes": 1461375,
+          "pct": 1.4,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Reform Star Party",
+          "party": "pbr",
+          "votes": 1264150,
+          "pct": 1.21,
+          "seats": 0,
+          "change": -14
+        },
+        {
+          "name": "National People's Concern Party",
+          "party": "pprn",
+          "votes": 1260950,
+          "pct": 1.21,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 10146823,
+          "pct": 9.75,
+          "seats": 0,
+          "change": -10
+        }
+      ],
+      "notes": "Parties marked \"New\" have a null change."
+    },
+    {
+      "id": "id-dpr-2014",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2014-04-09",
+      "totalSeats": 560,
+      "turnout": 74.53,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/2014_Indonesian_legislative_election",
+        "revid": 1369116608
+      },
+      "candidates": [
+        {
+          "name": "Indonesian Democratic Party of Struggle",
+          "party": "pdip",
+          "votes": 23681233,
+          "pct": 18.95,
+          "seats": 109,
+          "change": 15,
+          "winner": true
+        },
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 18432216,
+          "pct": 14.75,
+          "seats": 91,
+          "change": -15
+        },
+        {
+          "name": "Gerindra Party",
+          "party": "gerindra",
+          "votes": 14760090,
+          "pct": 11.81,
+          "seats": 73,
+          "change": 47
+        },
+        {
+          "name": "Democratic Party",
+          "party": "demokrat",
+          "votes": 12728950,
+          "pct": 10.18,
+          "seats": 61,
+          "change": -87
+        },
+        {
+          "name": "National Mandate Party",
+          "party": "pan",
+          "votes": 9481395,
+          "pct": 7.59,
+          "seats": 49,
+          "change": 3
+        },
+        {
+          "name": "National Awakening Party",
+          "party": "pkb",
+          "votes": 11299017,
+          "pct": 9.04,
+          "seats": 47,
+          "change": 19
+        },
+        {
+          "name": "Prosperous Justice Party",
+          "party": "pks",
+          "votes": 8480158,
+          "pct": 6.79,
+          "seats": 40,
+          "change": -17
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 8157522,
+          "pct": 6.53,
+          "seats": 39,
+          "change": 1
+        },
+        {
+          "name": "NasDem Party",
+          "party": "nasdem",
+          "votes": 8402894,
+          "pct": 6.72,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "People's Conscience Party",
+          "party": "hanura",
+          "votes": 6590804,
+          "pct": 5.27,
+          "seats": 16,
+          "change": -1
+        },
+        {
+          "name": "Crescent Star Party",
+          "party": "pbb",
+          "votes": 1826057,
+          "pct": 1.46,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1143138,
+          "pct": 0.91,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "NasDem was new (null change)."
+    },
+    {
+      "id": "id-dpr-2019",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2019-04-17",
+      "totalSeats": 575,
+      "turnout": 81.69,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/2019_Indonesian_general_election",
+        "revid": 1374756622
+      },
+      "candidates": [
+        {
+          "name": "Indonesian Democratic Party of Struggle",
+          "party": "pdip",
+          "votes": 27053961,
+          "pct": 19.33,
+          "seats": 128,
+          "change": 19,
+          "winner": true
+        },
+        {
+          "name": "Golkar",
+          "party": "golkar",
+          "votes": 17229789,
+          "pct": 12.31,
+          "seats": 85,
+          "change": -6
+        },
+        {
+          "name": "Gerindra Party",
+          "party": "gerindra",
+          "votes": 17594839,
+          "pct": 12.57,
+          "seats": 78,
+          "change": 5
+        },
+        {
+          "name": "NasDem Party",
+          "party": "nasdem",
+          "votes": 12661792,
+          "pct": 9.05,
+          "seats": 59,
+          "change": 24
+        },
+        {
+          "name": "National Awakening Party",
+          "party": "pkb",
+          "votes": 13570097,
+          "pct": 9.69,
+          "seats": 58,
+          "change": 11
+        },
+        {
+          "name": "Democratic Party",
+          "party": "demokrat",
+          "votes": 10876507,
+          "pct": 7.77,
+          "seats": 54,
+          "change": -7
+        },
+        {
+          "name": "Prosperous Justice Party",
+          "party": "pks",
+          "votes": 11493663,
+          "pct": 8.21,
+          "seats": 50,
+          "change": 10
+        },
+        {
+          "name": "National Mandate Party",
+          "party": "pan",
+          "votes": 9572623,
+          "pct": 6.84,
+          "seats": 44,
+          "change": -5
+        },
+        {
+          "name": "United Development Party",
+          "party": "ppp",
+          "votes": 6323147,
+          "pct": 4.52,
+          "seats": 19,
+          "change": -20
+        },
+        {
+          "name": "Perindo Party",
+          "party": "perindo",
+          "votes": 3738320,
+          "pct": 2.67,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Berkarya Party",
+          "party": "berkarya",
+          "votes": 2929495,
+          "pct": 2.09,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Indonesian Solidarity Party",
+          "party": "psi",
+          "votes": 2650361,
+          "pct": 1.89,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "People's Conscience Party",
+          "party": "hanura",
+          "votes": 2161507,
+          "pct": 1.54,
+          "seats": 0,
+          "change": -16
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2115159,
+          "pct": 1.51,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Held with the presidential election; source is the \"2019 Indonesian general election\" article. Parties marked \"New\" have a null change."
+    },
+    {
+      "id": "id-president-2004",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2004-07-05",
+      "turnout": 75.24,
+      "source": {
+        "name": "Wikipedia, citing IFES",
+        "url": "https://en.wikipedia.org/wiki/2004_Indonesian_presidential_election",
+        "revid": 1365790326
+      },
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2004-07-05",
+          "candidates": [
+            {
+              "name": "Susilo Bambang Yudhoyono",
+              "party": "demokrat",
+              "votes": 39838184,
+              "pct": 33.57
+            },
+            {
+              "name": "Megawati Sukarnoputri",
+              "party": "pdip",
+              "votes": 31569104,
+              "pct": 26.61
+            },
+            {
+              "name": "Wiranto",
+              "party": "golkar",
+              "votes": 26286788,
+              "pct": 22.15
+            },
+            {
+              "name": "Amien Rais",
+              "party": "pan",
+              "votes": 17392931,
+              "pct": 14.66
+            },
+            {
+              "name": "Hamzah Haz",
+              "party": "ppp",
+              "votes": 3569861,
+              "pct": 3.01
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2004-09-20",
+          "candidates": [
+            {
+              "name": "Susilo Bambang Yudhoyono",
+              "party": "demokrat",
+              "votes": 69266350,
+              "pct": 60.62,
+              "winner": true
+            },
+            {
+              "name": "Megawati Sukarnoputri",
+              "party": "pdip",
+              "votes": 44990704,
+              "pct": 39.38
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Susilo Bambang Yudhoyono",
+          "party": "demokrat",
+          "votes": 69266350,
+          "pct": 60.62,
+          "winner": true
+        },
+        {
+          "name": "Megawati Sukarnoputri",
+          "party": "pdip",
+          "votes": 44990704,
+          "pct": 39.38
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 78.23%). Region winners are from the run-off by-province table; South Sulawesi is left out because it still included West Sulawesi.",
+      "regionWinners": {
+        "AC": "demokrat",
+        "SU": "demokrat",
+        "SB": "demokrat",
+        "SS": "demokrat",
+        "RI": "demokrat",
+        "BE": "demokrat",
+        "LA": "demokrat",
+        "BB": "demokrat",
+        "KR": "demokrat",
+        "JA": "demokrat",
+        "JK": "demokrat",
+        "JB": "demokrat",
+        "JT": "demokrat",
+        "YO": "demokrat",
+        "JI": "demokrat",
+        "BT": "demokrat",
+        "BA": "pdip",
+        "NB": "demokrat",
+        "NT": "pdip",
+        "KB": "pdip",
+        "KT": "demokrat",
+        "KS": "demokrat",
+        "KI": "demokrat",
+        "SA": "demokrat",
+        "ST": "demokrat",
+        "SG": "demokrat",
+        "GO": "demokrat",
+        "MA": "pdip",
+        "MU": "demokrat",
+        "PA": "demokrat",
+        "PB": "demokrat"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2004_Indonesian_presidential_election"
+    },
+    {
+      "id": "id-president-2009",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2009-07-08",
+      "turnout": 72.57,
+      "source": {
+        "name": "Wikipedia, citing IFES and Statistics Indonesia (BPS)",
+        "url": "https://en.wikipedia.org/wiki/2009_Indonesian_presidential_election",
+        "revid": 1337242889
+      },
+      "candidates": [
+        {
+          "name": "Susilo Bambang Yudhoyono",
+          "party": "demokrat",
+          "votes": 73874562,
+          "pct": 60.8,
+          "winner": true
+        },
+        {
+          "name": "Megawati Sukarnoputri",
+          "party": "pdip",
+          "votes": 32548105,
+          "pct": 26.79
+        },
+        {
+          "name": "Jusuf Kalla",
+          "party": "golkar",
+          "votes": 15081814,
+          "pct": 12.41
+        }
+      ],
+      "notes": "Region winners from the article's by-province table.",
+      "regionWinners": {
+        "AC": "demokrat",
+        "SU": "demokrat",
+        "SB": "demokrat",
+        "RI": "demokrat",
+        "KR": "demokrat",
+        "BB": "demokrat",
+        "JA": "demokrat",
+        "SS": "demokrat",
+        "BE": "demokrat",
+        "LA": "demokrat",
+        "JK": "demokrat",
+        "JB": "demokrat",
+        "JT": "demokrat",
+        "YO": "demokrat",
+        "JI": "demokrat",
+        "BT": "demokrat",
+        "BA": "pdip",
+        "NB": "demokrat",
+        "NT": "demokrat",
+        "KB": "demokrat",
+        "KT": "demokrat",
+        "KS": "demokrat",
+        "KI": "demokrat",
+        "SA": "demokrat",
+        "ST": "demokrat",
+        "SN": "golkar",
+        "SG": "golkar",
+        "SR": "demokrat",
+        "GO": "golkar",
+        "MU": "golkar",
+        "MA": "demokrat",
+        "PA": "demokrat",
+        "PB": "demokrat"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2009_Indonesian_presidential_election"
+    },
+    {
+      "id": "id-president-2014",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2014-07-09",
+      "turnout": 69.58,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/2014_Indonesian_presidential_election",
+        "revid": 1376032834
+      },
+      "candidates": [
+        {
+          "name": "Joko Widodo",
+          "party": "pdip",
+          "votes": 70997833,
+          "pct": 53.15,
+          "winner": true
+        },
+        {
+          "name": "Prabowo Subianto",
+          "party": "gerindra",
+          "votes": 62576444,
+          "pct": 46.85
+        }
+      ],
+      "notes": "Region winners from the article's by-province table (East Kalimantan includes North Kalimantan).",
+      "regionWinners": {
+        "AC": "gerindra",
+        "SU": "pdip",
+        "SB": "gerindra",
+        "RI": "gerindra",
+        "JA": "pdip",
+        "SS": "gerindra",
+        "BE": "pdip",
+        "LA": "pdip",
+        "BB": "pdip",
+        "KR": "pdip",
+        "BT": "gerindra",
+        "JK": "pdip",
+        "JB": "gerindra",
+        "JT": "pdip",
+        "YO": "pdip",
+        "JI": "pdip",
+        "KB": "pdip",
+        "KT": "pdip",
+        "KS": "gerindra",
+        "KI": "pdip",
+        "BA": "pdip",
+        "NB": "gerindra",
+        "NT": "pdip",
+        "SA": "pdip",
+        "GO": "gerindra",
+        "ST": "pdip",
+        "SG": "pdip",
+        "SR": "pdip",
+        "SN": "pdip",
+        "MA": "pdip",
+        "MU": "gerindra",
+        "PA": "pdip",
+        "PB": "pdip"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2014_Indonesian_presidential_election"
+    },
+    {
+      "id": "id-president-2019",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2019-04-17",
+      "turnout": 81.97,
+      "source": {
+        "name": "Wikipedia, citing the General Elections Commission (KPU)",
+        "url": "https://en.wikipedia.org/wiki/2019_Indonesian_general_election",
+        "revid": 1374756622
+      },
+      "candidates": [
+        {
+          "name": "Joko Widodo",
+          "party": "pdip",
+          "votes": 85607362,
+          "pct": 55.5,
+          "winner": true
+        },
+        {
+          "name": "Prabowo Subianto",
+          "party": "gerindra",
+          "votes": 68650239,
+          "pct": 44.5
+        }
+      ],
+      "notes": "Held with the legislative election; source is the \"2019 Indonesian general election\" article. Region winners from the article's by-province table; East Kalimantan is left out because North Kalimantan is listed separately.",
+      "regionWinners": {
+        "AC": "gerindra",
+        "SU": "pdip",
+        "SB": "gerindra",
+        "RI": "gerindra",
+        "JA": "gerindra",
+        "SS": "gerindra",
+        "BE": "gerindra",
+        "LA": "pdip",
+        "BB": "pdip",
+        "KR": "pdip",
+        "BT": "gerindra",
+        "JK": "pdip",
+        "JB": "gerindra",
+        "JT": "pdip",
+        "YO": "pdip",
+        "JI": "pdip",
+        "KB": "pdip",
+        "KT": "pdip",
+        "KS": "gerindra",
+        "BA": "pdip",
+        "NB": "gerindra",
+        "NT": "pdip",
+        "SA": "pdip",
+        "GO": "pdip",
+        "ST": "pdip",
+        "SG": "gerindra",
+        "SR": "pdip",
+        "SN": "gerindra",
+        "MA": "pdip",
+        "MU": "gerindra",
+        "PA": "pdip",
+        "PB": "pdip"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2019_Indonesian_general_election"
+    }
+  ]
+}

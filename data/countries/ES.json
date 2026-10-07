@@ -1,0 +1,673 @@
+{
+  "code": "ES",
+  "name": "Spain",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Parliamentary constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "President of the Government",
+    "legislature": "Cortes Generales: Congress of Deputies (350) and Senate (265)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 37500000,
+    "offices": {
+      "Congress of Deputies": "350 deputies elected by closed-list proportional representation in each province, using the D’Hondt method with a 3% threshold. Congress invests the head of government.",
+      "Senate": "208 senators are elected directly, mostly four per province with open voting for individual candidates. Regional parliaments appoint the rest."
+    }
+  },
+  "parties": {
+    "pp": {
+      "name": "People's Party",
+      "color": "#1A6FB5"
+    },
+    "psoe": {
+      "name": "PSOE",
+      "color": "#E30613"
+    },
+    "vox": {
+      "name": "Vox",
+      "color": "#63BE21"
+    },
+    "sumar": {
+      "name": "Sumar",
+      "color": "#E51C55"
+    },
+    "erc": {
+      "name": "ERC",
+      "color": "#FFB232"
+    },
+    "junts": {
+      "name": "Junts",
+      "color": "#00C3B2"
+    },
+    "bildu": {
+      "name": "EH Bildu",
+      "color": "#6EBF4A"
+    },
+    "pnv": {
+      "name": "PNV",
+      "color": "#008A3E"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "upn": {
+      "name": "Navarrese People's Union",
+      "color": "#00599B"
+    },
+    "cc": {
+      "name": "Canarian Coalition",
+      "color": "#FFD700"
+    },
+    "bng": {
+      "name": "Galician Nationalist Bloc",
+      "color": "#ADCFEF"
+    },
+    "pacte": {
+      "name": "Pacte Progressista",
+      "color": "#EC407A"
+    },
+    "ahi": {
+      "name": "Independent Herrenian Group",
+      "color": "#29AA4D"
+    },
+    "cs": {
+      "name": "Citizens",
+      "color": "#EB6109"
+    },
+    "asg": {
+      "name": "Gomera Socialist Group",
+      "color": "#B61414"
+    }
+  },
+  "elections": [
+    {
+      "id": "es-congress-2023",
+      "office": "Congress of Deputies",
+      "kind": "legislative",
+      "date": "2023-07-23",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 66.59,
+      "system": "350 seats, proportional by province",
+      "totalSeats": 350,
+      "majority": 176,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "People's Party (PP)",
+          "party": "pp",
+          "votes": 8160837,
+          "pct": 33.06,
+          "seats": 137,
+          "change": 48,
+          "winner": true
+        },
+        {
+          "name": "Spanish Socialist Workers' Party (PSOE)",
+          "party": "psoe",
+          "votes": 7821718,
+          "pct": 31.68,
+          "seats": 121,
+          "change": 1
+        },
+        {
+          "name": "Vox (Vox)",
+          "party": "vox",
+          "votes": 3057000,
+          "pct": 12.38,
+          "seats": 33,
+          "change": -19
+        },
+        {
+          "name": "Unite (Sumar)",
+          "party": "sumar",
+          "votes": 3044996,
+          "pct": 12.33,
+          "seats": 31,
+          "change": -7
+        },
+        {
+          "name": "Republican Left of Catalonia (ERC)",
+          "party": "erc",
+          "votes": 466020,
+          "pct": 1.89,
+          "seats": 7,
+          "change": -6
+        },
+        {
+          "name": "Together for Catalonia (Junts)",
+          "party": "junts",
+          "votes": 395429,
+          "pct": 1.6,
+          "seats": 7,
+          "change": 3
+        },
+        {
+          "name": "Basque Country Gather (EH Bildu)",
+          "party": "bildu",
+          "votes": 335129,
+          "pct": 1.36,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Basque Nationalist Party (EAJ/PNV)",
+          "party": "pnv",
+          "votes": 277289,
+          "pct": 1.12,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Galician Nationalist Bloc (BNG)",
+          "party": "bng",
+          "votes": 153995,
+          "pct": 0.62,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Canarian Coalition (CCa)",
+          "party": "cc",
+          "votes": 116363,
+          "pct": 0.47,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Navarrese People's Union (UPN)",
+          "party": "upn",
+          "votes": 52188,
+          "pct": 0.21,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Citizens–Party of the Citizenry (Cs)",
+          "party": "cs",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": -10
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 807123,
+          "pct": 3.27,
+          "seats": 0,
+          "change": -9
+        }
+      ],
+      "regions": [
+        {"name":"Andalusia","abbr":"AN","seats":61,"winner":"pp","margin":2.2,"turnout":61,"votes":4610935,"results":[{"party":"pp","pct":40.1,"votes":1848985,"seats":25},{"party":"psoe","pct":37.9,"votes":1747544,"seats":21},{"party":"sumar","pct":10,"votes":461094,"seats":6},{"party":"vox","pct":8.6,"votes":396540,"seats":9},{"party":"oth","pct":3.3,"votes":152161,"seats":0}]},
+        {"name":"Catalonia","abbr":"CT","seats":48,"winner":"psoe","margin":1,"turnout":60.9,"votes":2836308,"results":[{"party":"psoe","pct":23.2,"votes":656895,"seats":19},{"party":"pp","pct":22.2,"votes":629316,"seats":6},{"party":"erc","pct":17.1,"votes":486403,"seats":7},{"party":"vox","pct":14.4,"votes":408679,"seats":2},{"party":"junts","pct":11.6,"seats":7,"votes":329074},{"party":"sumar","pct":11.5,"votes":325940,"seats":7}]},
+        {"name":"Madrid","abbr":"MD","seats":37,"winner":"pp","margin":22,"turnout":67.2,"votes":2759545,"results":[{"party":"pp","pct":42.7,"votes":1178326,"seats":16},{"party":"vox","pct":20.7,"votes":571226,"seats":5},{"party":"psoe","pct":18.7,"votes":516035,"seats":10},{"party":"sumar","pct":13.5,"votes":372539,"seats":6},{"party":"oth","pct":4.4,"votes":121420,"seats":0}]},
+        {"name":"Valencia","abbr":"VC","seats":33,"winner":"pp","margin":1.5,"turnout":63.7,"votes":2210071,"results":[{"party":"pp","pct":38.8,"votes":857508,"seats":13},{"party":"psoe","pct":37.3,"votes":824356,"seats":11},{"party":"sumar","pct":12.5,"votes":276259,"seats":4},{"party":"vox","pct":6.7,"votes":148075,"seats":5},{"party":"oth","pct":4.7,"votes":103873,"seats":0}]},
+        {"name":"Galicia","abbr":"GA","seats":23,"winner":"pp","margin":28.1,"turnout":65.7,"votes":1829115,"results":[{"party":"pp","pct":44.9,"votes":821273,"seats":13},{"party":"vox","pct":16.8,"votes":307291,"seats":0},{"party":"psoe","pct":16.7,"votes":305462,"seats":7},{"party":"bng","pct":11.7,"votes":214006,"seats":1},{"party":"sumar","pct":9.9,"votes":181082,"seats":2}]},
+        {"name":"Castile and León","abbr":"CL","seats":31,"winner":"pp","margin":26.6,"turnout":62.4,"votes":1946298,"results":[{"party":"pp","pct":48.4,"votes":942008,"seats":18},{"party":"psoe","pct":21.8,"votes":424293,"seats":12},{"party":"vox","pct":18.8,"votes":365904,"seats":1},{"party":"sumar","pct":8.3,"votes":161543,"seats":0},{"party":"oth","pct":2.7,"votes":52550,"seats":0}]},
+        {"name":"Basque Country","abbr":"PV","seats":18,"winner":"psoe","margin":3.1,"turnout":62.4,"votes":1471119,"results":[{"party":"psoe","pct":32.1,"votes":472159,"seats":5},{"party":"pp","pct":29,"votes":427325,"seats":2},{"party":"bildu","pct":13.1,"votes":193347,"seats":5},{"party":"vox","pct":11.9,"votes":175133,"seats":0},{"party":"pnv","pct":9,"votes":133101,"seats":5},{"party":"sumar","pct":4.8,"seats":1,"votes":70053}]},
+        {"name":"Castilla–La Mancha","abbr":"CM","seats":21,"winner":"pp","margin":25.9,"turnout":63.7,"votes":1230254,"results":[{"party":"pp","pct":49.3,"votes":606515,"seats":10},{"party":"psoe","pct":23.4,"votes":287879,"seats":8},{"party":"vox","pct":13.5,"votes":166084,"seats":3},{"party":"sumar","pct":11.6,"votes":142709,"seats":0},{"party":"oth","pct":2.2,"votes":27066,"seats":0}]},
+        {"name":"Canary Islands","abbr":"CN","seats":15,"winner":"psoe","margin":10.1,"turnout":61.5,"votes":1198412,"results":[{"party":"psoe","pct":42.4,"votes":508127,"seats":6},{"party":"pp","pct":32.3,"votes":387087,"seats":6},{"party":"vox","pct":12,"votes":143809,"seats":1},{"party":"sumar","pct":7.2,"votes":86286,"seats":1},{"party":"cc","pct":6.1,"votes":73103,"seats":1}]},
+        {"name":"Aragon","abbr":"AR","seats":13,"winner":"pp","margin":1.8,"turnout":71.1,"votes":1063838,"results":[{"party":"pp","pct":39.9,"votes":424471,"seats":7},{"party":"psoe","pct":38.1,"votes":405322,"seats":4},{"party":"sumar","pct":14.3,"votes":152129,"seats":1},{"party":"vox","pct":5.7,"votes":60639,"seats":1},{"party":"oth","pct":2,"votes":21277,"seats":0}]},
+        {"name":"Murcia","abbr":"MC","seats":10,"winner":"pp","margin":17.5,"turnout":65.3,"votes":601197,"results":[{"party":"pp","pct":45,"votes":270539,"seats":4},{"party":"psoe","pct":27.5,"votes":165329,"seats":3},{"party":"vox","pct":14.2,"votes":85370,"seats":2},{"party":"sumar","pct":8.3,"votes":49899,"seats":1},{"party":"oth","pct":5,"votes":30060,"seats":0}]},
+        {"name":"Balearic Islands","abbr":"IB","seats":8,"winner":"pp","margin":12.7,"turnout":71.6,"votes":491198,"results":[{"party":"pp","pct":43.3,"votes":212689,"seats":3},{"party":"psoe","pct":30.6,"votes":150307,"seats":3},{"party":"sumar","pct":16.8,"votes":82521,"seats":1},{"party":"vox","pct":6.7,"votes":32910,"seats":1},{"party":"oth","pct":2.7,"votes":13262,"seats":0}]},
+        {"name":"Extremadura","abbr":"EX","seats":9,"winner":"psoe","margin":2.5,"turnout":67.6,"votes":584503,"results":[{"party":"psoe","pct":38.7,"votes":226203,"seats":4},{"party":"pp","pct":36.2,"votes":211590,"seats":4},{"party":"vox","pct":13.2,"votes":77154,"seats":1},{"party":"sumar","pct":10,"votes":58450,"seats":0},{"party":"oth","pct":2,"votes":11690,"seats":0}]},
+        {"name":"Asturias","abbr":"AS","seats":7,"winner":"pp","margin":5.9,"turnout":63.2,"votes":527173,"results":[{"party":"pp","pct":42,"votes":221413,"seats":3},{"party":"psoe","pct":36.1,"votes":190309,"seats":2},{"party":"vox","pct":10.7,"votes":56408,"seats":1},{"party":"sumar","pct":8.3,"votes":43755,"seats":1},{"party":"oth","pct":3,"votes":15815,"seats":0}]},
+        {"name":"Navarre","abbr":"NC","seats":5,"winner":"psoe","margin":15.7,"turnout":70.4,"votes":351943,"results":[{"party":"psoe","pct":32.6,"votes":114829,"seats":2},{"party":"bildu","pct":16.9,"votes":59651,"seats":1},{"party":"pp","pct":15.8,"votes":55774,"seats":1},{"party":"upn","pct":15.3,"seats":1,"votes":53686},{"party":"vox","pct":9.9,"votes":34896,"seats":0},{"party":"sumar","pct":9.4,"votes":33107,"seats":0}]},
+        {"name":"Cantabria","abbr":"CB","seats":5,"winner":"pp","margin":4.2,"turnout":63.9,"votes":312788,"results":[{"party":"pp","pct":40,"votes":125115,"seats":2},{"party":"psoe","pct":35.8,"votes":111978,"seats":2},{"party":"sumar","pct":13.4,"votes":41914,"seats":0},{"party":"vox","pct":8.2,"votes":25649,"seats":1},{"party":"oth","pct":2.7,"votes":8445,"seats":0}]},
+        {"name":"La Rioja","abbr":"RI","seats":4,"winner":"pp","margin":22.1,"turnout":63.4,"votes":298347,"results":[{"party":"pp","pct":44.4,"votes":132466,"seats":2},{"party":"psoe","pct":22.3,"votes":66531,"seats":2},{"party":"vox","pct":16.7,"votes":49824,"seats":0},{"party":"sumar","pct":14.2,"votes":42365,"seats":0},{"party":"oth","pct":2.4,"votes":7160,"seats":0}]},
+        {"name":"Ceuta and Melilla","abbr":"CE","seats":2,"winner":"pp","margin":4,"turnout":66.9,"votes":162003,"results":[{"party":"pp","pct":40.6,"votes":65773,"seats":2},{"party":"psoe","pct":36.6,"votes":59293,"seats":0},{"party":"sumar","pct":10.2,"votes":16524,"seats":0},{"party":"vox","pct":9.4,"votes":15228,"seats":0},{"party":"oth","pct":3.2,"votes":5184,"seats":0}]}
+      ],
+      "cite": {
+        "name": "the Ministry of the Interior and the Official State Gazette",
+        "url": "https://en.wikipedia.org/wiki/2023_Spanish_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/Results_of_the_2023_Spanish_Congress_election"
+    },
+    {
+      "id": "es-senate-2023",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2023-07-23",
+      "status": "final",
+      "reporting": 100,
+      "system": "208 directly elected seats",
+      "totalSeats": 208,
+      "majority": 105,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "People's Party (PP)",
+          "party": "pp",
+          "votes": 23536366,
+          "pct": 34.54,
+          "seats": 120,
+          "change": 37,
+          "winner": true
+        },
+        {
+          "name": "Spanish Socialist Workers' Party (PSOE)",
+          "party": "psoe",
+          "votes": 21970469,
+          "pct": 32.24,
+          "seats": 72,
+          "change": -20
+        },
+        {
+          "name": "Basque Country Gather (EH Bildu–Independentzia Ezkerretik)",
+          "party": "bildu",
+          "votes": 1009097,
+          "pct": 1.48,
+          "seats": 4,
+          "change": 3
+        },
+        {
+          "name": "Basque Nationalist Party (EAJ/PNV)",
+          "party": "pnv",
+          "votes": 859968,
+          "pct": 1.26,
+          "seats": 4,
+          "change": -5
+        },
+        {
+          "name": "Republican Left of Catalonia (ERC–Esquerres per la Independència)",
+          "party": "erc",
+          "votes": 1836731,
+          "pct": 2.7,
+          "seats": 3,
+          "change": -8
+        },
+        {
+          "name": "Together for Catalonia (Junts)",
+          "party": "junts",
+          "votes": 1251626,
+          "pct": 1.84,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Navarrese People's Union (UPN)",
+          "party": "upn",
+          "votes": 188577,
+          "pct": 0.28,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Ibiza and Formentera in the Senate (PSOE–SMR–EU–Ara Eivissa)",
+          "party": "pacte",
+          "votes": 26389,
+          "pct": 0.04,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Gomera Socialist Group (ASG)",
+          "party": "asg",
+          "votes": 3996,
+          "pct": 0.01,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independent Herrenian Group (AHI)",
+          "party": "ahi",
+          "votes": 2189,
+          "pct": 0,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Unite (Sumar)",
+          "party": "sumar",
+          "votes": 7551985,
+          "pct": 11.08,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Vox (Vox)",
+          "party": "vox",
+          "votes": 7249087,
+          "pct": 10.64,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2665528,
+          "pct": 3.91,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "regions": [
+        {"name":"Andalusia","abbr":"AN","seats":32,"winner":"pp","margin":5.5,"turnout":69.2,"votes":10918654,"results":[{"party":"pp","pct":39.8,"votes":4345624,"seats":20},{"party":"psoe","pct":34.3,"votes":3745098,"seats":12},{"party":"sumar","pct":13.5,"votes":1474018,"seats":0},{"party":"vox","pct":8.8,"votes":960842,"seats":0},{"party":"oth","pct":3.6,"votes":393072,"seats":0}],"contested":true},
+        {"name":"Catalonia","abbr":"CT","seats":16,"winner":"psoe","margin":3.1,"turnout":71.4,"votes":5150953,"results":[{"party":"psoe","pct":27.5,"votes":1416512,"seats":6},{"party":"erc","pct":24.4,"votes":1256833,"seats":3},{"party":"pp","pct":23.2,"votes":1195021,"seats":6},{"party":"junts","pct":18,"votes":927172,"seats":1},{"party":"sumar","pct":6.9,"votes":355416,"seats":0}],"contested":true},
+        {"name":"Madrid","abbr":"MD","seats":4,"winner":"pp","margin":2.6,"turnout":59.8,"votes":1194655,"results":[{"party":"pp","pct":43.1,"votes":514896,"seats":2},{"party":"psoe","pct":40.5,"votes":483835,"seats":2},{"party":"sumar","pct":6.6,"votes":78847,"seats":0},{"party":"vox","pct":5.6,"votes":66901,"seats":0},{"party":"oth","pct":4.2,"votes":50176,"seats":0}],"contested":true},
+        {"name":"Valencia","abbr":"VC","seats":12,"winner":"pp","margin":18.8,"turnout":59.6,"votes":4246570,"results":[{"party":"pp","pct":44.7,"votes":1898217,"seats":8},{"party":"psoe","pct":25.9,"votes":1099862,"seats":4},{"party":"vox","pct":15.8,"votes":670958,"seats":0},{"party":"sumar","pct":10,"votes":424657,"seats":0},{"party":"oth","pct":3.6,"votes":152877,"seats":0}],"contested":true},
+        {"name":"Galicia","abbr":"GA","seats":16,"winner":"pp","margin":7.5,"turnout":63.9,"votes":4878779,"results":[{"party":"pp","pct":40.5,"votes":1975905,"seats":10},{"party":"psoe","pct":33,"votes":1609997,"seats":6},{"party":"sumar","pct":15.3,"votes":746453,"seats":0},{"party":"vox","pct":7.7,"votes":375666,"seats":0},{"party":"oth","pct":3.5,"votes":170757,"seats":0}],"contested":true},
+        {"name":"Castile and León","abbr":"CL","seats":36,"winner":"pp","margin":21.5,"turnout":66.9,"votes":10691339,"results":[{"party":"pp","pct":46,"votes":4918016,"seats":26},{"party":"psoe","pct":24.5,"votes":2619378,"seats":10},{"party":"sumar","pct":16.7,"votes":1785454,"seats":0},{"party":"vox","pct":10.4,"votes":1111899,"seats":0},{"party":"oth","pct":2.4,"votes":256592,"seats":0}],"contested":true},
+        {"name":"Basque Country","abbr":"PV","seats":12,"winner":"pnv","margin":5.3,"turnout":64.8,"votes":4310059,"results":[{"party":"pnv","pct":35.6,"votes":1534381,"seats":4},{"party":"psoe","pct":30.3,"votes":1305948,"seats":3},{"party":"pp","pct":19.4,"votes":836151,"seats":2},{"party":"bildu","pct":8.4,"votes":362045,"seats":3},{"party":"sumar","pct":6.4,"votes":275844,"seats":0}],"contested":true},
+        {"name":"Castilla–La Mancha","abbr":"CM","seats":20,"winner":"pp","margin":5.8,"turnout":59.7,"votes":6031779,"results":[{"party":"pp","pct":40.5,"votes":2442870,"seats":12},{"party":"psoe","pct":34.7,"votes":2093027,"seats":8},{"party":"vox","pct":11.8,"votes":711750,"seats":0},{"party":"sumar","pct":10.3,"votes":621273,"seats":0},{"party":"oth","pct":2.7,"votes":162858,"seats":0}],"contested":true},
+        {"name":"Canary Islands","abbr":"CN","seats":11,"winner":"pp","margin":4.2,"turnout":71.8,"votes":2937448,"results":[{"party":"psoe","pct":36.6,"votes":1075381,"seats":4},{"party":"pp","pct":32.4,"votes":951687,"seats":5},{"party":"vox","pct":8.8,"votes":257486,"seats":0},{"party":"asg","pct":7,"seats":1,"votes":206539},{"party":"ahi","pct":7,"seats":1,"votes":206539},{"party":"sumar","pct":4.8,"votes":141365,"seats":0},{"party":"oth","pct":3.4,"votes":98450,"seats":0}],"contested":true},
+        {"name":"Aragon","abbr":"AR","seats":12,"winner":"pp","margin":2.4,"turnout":69.7,"votes":3965046,"results":[{"party":"pp","pct":39.1,"votes":1550333,"seats":7},{"party":"psoe","pct":36.7,"votes":1455172,"seats":5},{"party":"vox","pct":12,"votes":475806,"seats":0},{"party":"sumar","pct":6.5,"votes":257728,"seats":0},{"party":"oth","pct":5.8,"votes":229973,"seats":0}],"contested":true},
+        {"name":"Murcia","abbr":"MC","seats":4,"winner":"pp","margin":10.5,"turnout":72.3,"votes":1195070,"results":[{"party":"pp","pct":43.8,"votes":523441,"seats":3},{"party":"psoe","pct":33.3,"votes":397958,"seats":1},{"party":"vox","pct":10.7,"votes":127872,"seats":0},{"party":"sumar","pct":9.9,"votes":118312,"seats":0},{"party":"oth","pct":2.2,"votes":26292,"seats":0}],"contested":true},
+        {"name":"Balearic Islands","abbr":"IB","seats":5,"winner":"pp","margin":7.9,"turnout":73.2,"votes":1427059,"results":[{"party":"pp","pct":37.9,"votes":540589,"seats":3},{"party":"psoe","pct":30,"votes":428118,"seats":1},{"party":"pacte","pct":15.3,"seats":1,"votes":217687},{"party":"vox","pct":7.4,"votes":105215,"seats":0},{"party":"sumar","pct":6.1,"votes":87075,"seats":0},{"party":"oth","pct":3.4,"votes":48375,"seats":0}],"contested":true},
+        {"name":"Extremadura","abbr":"EX","seats":8,"winner":"pp","margin":30.1,"turnout":69.9,"votes":2350849,"results":[{"party":"pp","pct":49.1,"votes":1154267,"seats":6},{"party":"psoe","pct":19,"votes":446661,"seats":2},{"party":"sumar","pct":15.9,"votes":373785,"seats":0},{"party":"vox","pct":11.6,"votes":272698,"seats":0},{"party":"oth","pct":4.4,"votes":103437,"seats":0}],"contested":true},
+        {"name":"Asturias","abbr":"AS","seats":4,"winner":"psoe","margin":14.3,"turnout":59.7,"votes":1164500,"results":[{"party":"psoe","pct":47,"votes":547315,"seats":2},{"party":"pp","pct":32.7,"votes":380792,"seats":2},{"party":"sumar","pct":11.1,"votes":129260,"seats":0},{"party":"vox","pct":5.3,"votes":61719,"seats":0},{"party":"oth","pct":3.9,"votes":45416,"seats":0}],"contested":true},
+        {"name":"Navarre","abbr":"NC","seats":4,"winner":"psoe","margin":6.4,"turnout":71.5,"votes":1403316,"results":[{"party":"psoe","pct":36.6,"votes":513614,"seats":1},{"party":"pp","pct":30.2,"votes":423801,"seats":1},{"party":"upn","pct":15,"votes":210497,"seats":1},{"party":"bildu","pct":11.8,"votes":165591,"seats":1},{"party":"sumar","pct":6.4,"votes":89812,"seats":0}],"contested":true},
+        {"name":"Cantabria","abbr":"CB","seats":4,"winner":"pp","margin":1,"turnout":71.1,"votes":1543051,"results":[{"party":"pp","pct":39.2,"votes":604876,"seats":2},{"party":"psoe","pct":38.2,"votes":589445,"seats":2},{"party":"sumar","pct":10.7,"votes":165106,"seats":0},{"party":"vox","pct":8.7,"votes":134245,"seats":0},{"party":"oth","pct":3.3,"votes":50921,"seats":0}],"contested":true},
+        {"name":"La Rioja","abbr":"RI","seats":4,"winner":"pp","margin":1.8,"turnout":72.9,"votes":1564448,"results":[{"party":"pp","pct":37,"votes":578846,"seats":2},{"party":"psoe","pct":35.2,"votes":550686,"seats":2},{"party":"sumar","pct":12.9,"votes":201814,"seats":0},{"party":"vox","pct":10.3,"votes":161138,"seats":0},{"party":"oth","pct":4.7,"votes":73529,"seats":0}],"contested":true},
+        {"name":"Ceuta and Melilla","abbr":"CE","seats":4,"winner":"pp","margin":5.5,"turnout":70.1,"votes":1202591,"results":[{"party":"pp","pct":42.9,"votes":515912,"seats":3},{"party":"psoe","pct":37.4,"votes":449769,"seats":1},{"party":"sumar","pct":8.8,"votes":105828,"seats":0},{"party":"vox","pct":7.1,"votes":85384,"seats":0},{"party":"oth","pct":3.9,"votes":46901,"seats":0}],"contested":true}
+      ],
+      "turnout": 66.33,
+      "cite": {
+        "name": "the Ministry of the Interior and the Official State Gazette",
+        "url": "https://en.wikipedia.org/wiki/2023_Spanish_general_election"
+      }
+    }
+  ],
+  "polls": [
+    {
+      "office": "Congress of Deputies",
+      "date": "2027-08-22",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pp",
+          "points": [
+            ["2026-03-16",33.1],
+            ["2026-03-23",32.4],
+            ["2026-03-30",32.1],
+            ["2026-04-06",31.4],
+            ["2026-04-13",32.5],
+            ["2026-04-20",33.1],
+            ["2026-04-27",33.2],
+            ["2026-05-04",32.6],
+            ["2026-05-11",32.5],
+            ["2026-05-18",32.2],
+            ["2026-05-25",32.8],
+            ["2026-06-01",32.6],
+            ["2026-06-08",33.5],
+            ["2026-06-15",33.4],
+            ["2026-06-22",32.9],
+            ["2026-06-29",33.5],
+            ["2026-07-06",32.8],
+            ["2026-07-13",32.8],
+            ["2026-07-20",33.2],
+            ["2026-07-27",33.7],
+            ["2026-08-03",33.2],
+            ["2026-08-10",32.6],
+            ["2026-08-17",31.9],
+            ["2026-08-24",32.9],
+            ["2026-08-31",32.7],
+            ["2026-09-07",33.6],
+            ["2026-09-14",33.9],
+            ["2026-09-21",33.2],
+            ["2026-09-28",34.1],
+            ["2026-10-05",33.4]
+          ]
+        },
+        {
+          "party": "psoe",
+          "points": [
+            ["2026-03-16",31.6],
+            ["2026-03-23",30.7],
+            ["2026-03-30",31.1],
+            ["2026-04-06",31.7],
+            ["2026-04-13",32.1],
+            ["2026-04-20",31.8],
+            ["2026-04-27",32.3],
+            ["2026-05-04",31.7],
+            ["2026-05-11",31.8],
+            ["2026-05-18",30.8],
+            ["2026-05-25",31.4],
+            ["2026-06-01",32],
+            ["2026-06-08",32.6],
+            ["2026-06-15",31.7],
+            ["2026-06-22",31.3],
+            ["2026-06-29",31.3],
+            ["2026-07-06",31],
+            ["2026-07-13",31.6],
+            ["2026-07-20",31.4],
+            ["2026-07-27",31.2],
+            ["2026-08-03",31.7],
+            ["2026-08-10",31.2],
+            ["2026-08-17",31.9],
+            ["2026-08-24",31],
+            ["2026-08-31",31.3],
+            ["2026-09-07",30.9],
+            ["2026-09-14",31],
+            ["2026-09-21",30.8],
+            ["2026-09-28",31.1],
+            ["2026-10-05",31.7]
+          ]
+        },
+        {
+          "party": "vox",
+          "points": [
+            ["2026-03-16",11.7],
+            ["2026-03-23",11.9],
+            ["2026-03-30",12.6],
+            ["2026-04-06",11.6],
+            ["2026-04-13",11.8],
+            ["2026-04-20",12],
+            ["2026-04-27",12.6],
+            ["2026-05-04",12.9],
+            ["2026-05-11",12.6],
+            ["2026-05-18",13.2],
+            ["2026-05-25",13.6],
+            ["2026-06-01",13.2],
+            ["2026-06-08",13.1],
+            ["2026-06-15",12.3],
+            ["2026-06-22",12.5],
+            ["2026-06-29",12.9],
+            ["2026-07-06",13.5],
+            ["2026-07-13",13.2],
+            ["2026-07-20",12.6],
+            ["2026-07-27",12.1],
+            ["2026-08-03",11.9],
+            ["2026-08-10",11.9],
+            ["2026-08-17",12.1],
+            ["2026-08-24",11.6],
+            ["2026-08-31",11.4],
+            ["2026-09-07",11.4],
+            ["2026-09-14",10.5],
+            ["2026-09-21",11.3],
+            ["2026-09-28",12.1],
+            ["2026-10-05",11.5]
+          ]
+        },
+        {
+          "party": "sumar",
+          "points": [
+            ["2026-03-16",13.3],
+            ["2026-03-23",14.3],
+            ["2026-03-30",14.5],
+            ["2026-04-06",13.6],
+            ["2026-04-13",14.5],
+            ["2026-04-20",14.4],
+            ["2026-04-27",14.1],
+            ["2026-05-04",13.5],
+            ["2026-05-11",12.7],
+            ["2026-05-18",13],
+            ["2026-05-25",13.5],
+            ["2026-06-01",12.8],
+            ["2026-06-08",12.1],
+            ["2026-06-15",12.6],
+            ["2026-06-22",12],
+            ["2026-06-29",12.2],
+            ["2026-07-06",13.1],
+            ["2026-07-13",13.7],
+            ["2026-07-20",13.1],
+            ["2026-07-27",13.7],
+            ["2026-08-03",13.4],
+            ["2026-08-10",13.6],
+            ["2026-08-17",13.3],
+            ["2026-08-24",13],
+            ["2026-08-31",12.2],
+            ["2026-09-07",12],
+            ["2026-09-14",11.5],
+            ["2026-09-21",12.2],
+            ["2026-09-28",13],
+            ["2026-10-05",13.1]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Senate",
+      "date": "2027-08-22",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pp",
+          "points": [
+            ["2026-03-16",33.4],
+            ["2026-03-23",33.6],
+            ["2026-03-30",34],
+            ["2026-04-06",34.5],
+            ["2026-04-13",33.7],
+            ["2026-04-20",32.7],
+            ["2026-04-27",32.4],
+            ["2026-05-04",31.3],
+            ["2026-05-11",30.7],
+            ["2026-05-18",30],
+            ["2026-05-25",29.3],
+            ["2026-06-01",30],
+            ["2026-06-08",30.3],
+            ["2026-06-15",31],
+            ["2026-06-22",30.8],
+            ["2026-06-29",31.1],
+            ["2026-07-06",30.6],
+            ["2026-07-13",30.2],
+            ["2026-07-20",29.4],
+            ["2026-07-27",29.4],
+            ["2026-08-03",29],
+            ["2026-08-10",28.6],
+            ["2026-08-17",28.5],
+            ["2026-08-24",28.6],
+            ["2026-08-31",28.5],
+            ["2026-09-07",29.4],
+            ["2026-09-14",30],
+            ["2026-09-21",30.1],
+            ["2026-09-28",29.9],
+            ["2026-10-05",30.8]
+          ]
+        },
+        {
+          "party": "psoe",
+          "points": [
+            ["2026-03-16",32.8],
+            ["2026-03-23",32.9],
+            ["2026-03-30",33.9],
+            ["2026-04-06",34.2],
+            ["2026-04-13",34.7],
+            ["2026-04-20",33.8],
+            ["2026-04-27",33.2],
+            ["2026-05-04",33.5],
+            ["2026-05-11",33.4],
+            ["2026-05-18",32.5],
+            ["2026-05-25",33.1],
+            ["2026-06-01",33.8],
+            ["2026-06-08",32.9],
+            ["2026-06-15",33],
+            ["2026-06-22",32.7],
+            ["2026-06-29",33.6],
+            ["2026-07-06",33.4],
+            ["2026-07-13",34.2],
+            ["2026-07-20",33.7],
+            ["2026-07-27",32.9],
+            ["2026-08-03",33.3],
+            ["2026-08-10",33.4],
+            ["2026-08-17",34.2],
+            ["2026-08-24",33.8],
+            ["2026-08-31",33.3],
+            ["2026-09-07",33.8],
+            ["2026-09-14",34.6],
+            ["2026-09-21",33.6],
+            ["2026-09-28",34.3],
+            ["2026-10-05",35]
+          ]
+        },
+        {
+          "party": "sumar",
+          "points": [
+            ["2026-03-16",10.7],
+            ["2026-03-23",10.5],
+            ["2026-03-30",10.6],
+            ["2026-04-06",11.4],
+            ["2026-04-13",10.5],
+            ["2026-04-20",10.9],
+            ["2026-04-27",11.8],
+            ["2026-05-04",10.9],
+            ["2026-05-11",10.9],
+            ["2026-05-18",10.8],
+            ["2026-05-25",11.8],
+            ["2026-06-01",11.6],
+            ["2026-06-08",11.1],
+            ["2026-06-15",11.7],
+            ["2026-06-22",11.9],
+            ["2026-06-29",11.2],
+            ["2026-07-06",11.1],
+            ["2026-07-13",10.8],
+            ["2026-07-20",11],
+            ["2026-07-27",11.6],
+            ["2026-08-03",11.8],
+            ["2026-08-10",11.6],
+            ["2026-08-17",11.8],
+            ["2026-08-24",11.5],
+            ["2026-08-31",10.8],
+            ["2026-09-07",10.7],
+            ["2026-09-14",11.3],
+            ["2026-09-21",12.1],
+            ["2026-09-28",12.8],
+            ["2026-10-05",11.8]
+          ]
+        },
+        {
+          "party": "vox",
+          "points": [
+            ["2026-03-16",10.2],
+            ["2026-03-23",10.8],
+            ["2026-03-30",11.5],
+            ["2026-04-06",11.4],
+            ["2026-04-13",12.1],
+            ["2026-04-20",11.8],
+            ["2026-04-27",12.8],
+            ["2026-05-04",12.1],
+            ["2026-05-11",12.9],
+            ["2026-05-18",13.4],
+            ["2026-05-25",14.3],
+            ["2026-06-01",14.8],
+            ["2026-06-08",13.9],
+            ["2026-06-15",13.7],
+            ["2026-06-22",13.7],
+            ["2026-06-29",13.9],
+            ["2026-07-06",14.8],
+            ["2026-07-13",14],
+            ["2026-07-20",13.4],
+            ["2026-07-27",12.6],
+            ["2026-08-03",13.3],
+            ["2026-08-10",13.7],
+            ["2026-08-17",14],
+            ["2026-08-24",14.9],
+            ["2026-08-31",15.6],
+            ["2026-09-07",15.6],
+            ["2026-09-14",14.6],
+            ["2026-09-21",15.3],
+            ["2026-09-28",15.5],
+            ["2026-10-05",15.9]
+          ]
+        }
+      ]
+    }
+  ]
+}

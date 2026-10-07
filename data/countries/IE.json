@@ -1,0 +1,577 @@
+{
+  "code": "IE",
+  "name": "Ireland",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Taoiseach",
+    "legislature": "Oireachtas: Dáil Éireann (174) and Seanad Éireann (60)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 3600000,
+    "offices": {
+      "Dáil Éireann": "174 TDs elected by single transferable vote in 43 constituencies of three to five seats. Elections are held at least every five years.",
+      "President": "Elected directly for seven years by instant-runoff voting, for at most two terms."
+    }
+  },
+  "parties": {
+    "ff": {
+      "name": "Fianna Fáil",
+      "color": "#66BB66"
+    },
+    "fg": {
+      "name": "Fine Gael",
+      "color": "#6699FF"
+    },
+    "sf": {
+      "name": "Sinn Féin",
+      "color": "#326760"
+    },
+    "lab": {
+      "name": "Labour",
+      "color": "#CC0000"
+    },
+    "sd": {
+      "name": "Social Democrats",
+      "color": "#752F8B"
+    },
+    "aontu": {
+      "name": "Aontú",
+      "color": "#44532A"
+    },
+    "ii": {
+      "name": "Independent Ireland",
+      "color": "#4FB0C6"
+    },
+    "pbp": {
+      "name": "People Before Profit–Solidarity",
+      "color": "#8E2420"
+    },
+    "grn": {
+      "name": "Green Party",
+      "color": "#99CC33"
+    },
+    "redress": {
+      "name": "100% Redress",
+      "color": "#A0522D"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "ie-dail-2024",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "2024-11-29",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 59.7,
+      "cite": {
+        "name": "the official count",
+        "url": "https://en.wikipedia.org/wiki/2024_Irish_general_election"
+      },
+      "system": "174 seats, single transferable vote in 43 constituencies",
+      "totalSeats": 174,
+      "majority": 88,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "pct": 21.86,
+          "seats": 48,
+          "votes": 481414,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "pct": 19.01,
+          "seats": 39,
+          "votes": 418627,
+          "change": 2
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "pct": 20.8,
+          "seats": 38,
+          "votes": 458134,
+          "change": 3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "pct": 13.2,
+          "seats": 16,
+          "votes": 290748,
+          "change": -3
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "pct": 4.65,
+          "seats": 11,
+          "votes": 102457,
+          "change": 5
+        },
+        {
+          "name": "Social Democrats",
+          "party": "sd",
+          "pct": 4.81,
+          "seats": 11,
+          "votes": 106028,
+          "change": 5
+        },
+        {
+          "name": "Independent Ireland",
+          "party": "ii",
+          "pct": 3.55,
+          "seats": 4,
+          "votes": 78276,
+          "change": 4
+        },
+        {
+          "name": "People Before Profit–Solidarity",
+          "party": "pbp",
+          "pct": 2.84,
+          "seats": 3,
+          "votes": 62481,
+          "change": -2
+        },
+        {
+          "name": "Aontú",
+          "party": "aontu",
+          "pct": 3.91,
+          "seats": 2,
+          "votes": 86134,
+          "change": 1
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "pct": 3.04,
+          "seats": 1,
+          "votes": 66911,
+          "change": -11
+        },
+        {
+          "name": "100% Redress",
+          "party": "redress",
+          "pct": 0.31,
+          "seats": 1,
+          "votes": 6862,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 2.02,
+          "seats": 0,
+          "votes": 44381,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Carlow-Kilkenny","abbr":"carlow-kilkenny","seats":5,"winner":"sf","margin":0.9,"turnout":63.2,"votes":58049,"results":[{"party":"sf","pct":25.6,"votes":14861,"seats":1},{"party":"fg","pct":24.7,"votes":14338,"seats":1},{"party":"ind","pct":23.7,"votes":13758,"seats":1},{"party":"ff","pct":17.3,"votes":10042,"seats":1},{"party":"sd","pct":8.7,"votes":5050,"seats":1}]},
+        {"name":"Cavan-Monaghan","abbr":"cavan-monaghan","seats":5,"winner":"ff","margin":1.2,"turnout":56.5,"votes":74840,"results":[{"party":"ff","pct":30.1,"votes":22527,"seats":2},{"party":"fg","pct":28.9,"votes":21629,"seats":1},{"party":"sf","pct":20.1,"votes":15043,"seats":1},{"party":"ind","pct":13.9,"votes":10403,"seats":0},{"party":"sd","pct":6.9,"votes":5164,"seats":1}]},
+        {"name":"Clare","abbr":"clare","seats":4,"winner":"ff","margin":8.4,"turnout":62.3,"votes":55001,"results":[{"party":"ff","pct":30.6,"votes":16830,"seats":1},{"party":"fg","pct":22.2,"votes":12210,"seats":1},{"party":"ind","pct":20.9,"votes":11495,"seats":1},{"party":"sf","pct":20.6,"votes":11330,"seats":1},{"party":"sd","pct":5.6,"votes":3080,"seats":0}]},
+        {"name":"Cork East","abbr":"cork-east","seats":4,"winner":"ff","margin":2,"turnout":63.5,"votes":56138,"results":[{"party":"ff","pct":26.9,"votes":15101,"seats":1},{"party":"sf","pct":24.9,"votes":13978,"seats":1},{"party":"fg","pct":23.5,"votes":13192,"seats":1},{"party":"ind","pct":17.2,"votes":9656,"seats":0},{"party":"sd","pct":7.5,"votes":4210,"seats":1}]},
+        {"name":"Cork North-Central","abbr":"cork-north-central","seats":5,"winner":"fg","margin":5.9,"turnout":65.7,"votes":63455,"results":[{"party":"fg","pct":29.8,"votes":18910,"seats":1},{"party":"ind","pct":23.9,"votes":15166,"seats":1},{"party":"sf","pct":20.3,"votes":12881,"seats":1},{"party":"ff","pct":18.6,"votes":11803,"seats":1},{"party":"sd","pct":7.4,"votes":4696,"seats":1}]},
+        {"name":"Cork North-West","abbr":"cork-north-west","seats":3,"winner":"fg","margin":3.1,"turnout":63.8,"votes":33038,"results":[{"party":"fg","pct":27.4,"votes":9052,"seats":1},{"party":"ff","pct":24.3,"votes":8028,"seats":1},{"party":"sf","pct":23.6,"votes":7797,"seats":1},{"party":"ind","pct":18.6,"votes":6145,"seats":0},{"party":"sd","pct":6,"votes":1982,"seats":0}]},
+        {"name":"Cork South-Central","abbr":"cork-south-central","seats":5,"winner":"ff","margin":7.6,"turnout":56.2,"votes":54583,"results":[{"party":"ff","pct":30.2,"votes":16500,"seats":2},{"party":"sf","pct":22.6,"votes":12340,"seats":1},{"party":"fg","pct":16,"votes":8735,"seats":1},{"party":"lab","pct":15.2,"seats":1,"votes":8319},{"party":"ind","pct":10.8,"votes":5916,"seats":0},{"party":"sd","pct":5.1,"votes":2773,"seats":0}]},
+        {"name":"Cork South-West","abbr":"cork-south-west","seats":3,"winner":"sf","margin":3.1,"turnout":60.7,"votes":37870,"results":[{"party":"sf","pct":26.2,"votes":9904,"seats":1},{"party":"pbp","pct":23.1,"seats":1,"votes":8739},{"party":"ff","pct":15.2,"votes":5768,"seats":1},{"party":"fg","pct":14.9,"votes":5651,"seats":0},{"party":"ind","pct":14.2,"votes":5360,"seats":0},{"party":"sd","pct":6.5,"votes":2447,"seats":0}]},
+        {"name":"Donegal","abbr":"donegal","seats":5,"winner":"fg","margin":1.1,"turnout":64.7,"votes":71094,"results":[{"party":"fg","pct":25.7,"votes":18271,"seats":1},{"party":"sf","pct":24.6,"votes":17489,"seats":1},{"party":"ff","pct":19.8,"votes":14077,"seats":1},{"party":"ind","pct":19.4,"votes":13792,"seats":1},{"party":"redress","pct":10.4,"votes":7394,"seats":1}]},
+        {"name":"Dublin Bay North","abbr":"dublin-bay-north","seats":5,"winner":"ff","margin":9.1,"turnout":54.7,"votes":62333,"results":[{"party":"ff","pct":32.6,"votes":20321,"seats":2},{"party":"fg","pct":23.5,"votes":14648,"seats":1},{"party":"sf","pct":17.7,"votes":11033,"seats":1},{"party":"ind","pct":17.5,"votes":10908,"seats":1},{"party":"sd","pct":8.7,"votes":5423,"seats":0}]},
+        {"name":"Dublin Bay South","abbr":"dublin-bay-south","seats":4,"winner":"fg","margin":17.2,"turnout":62.9,"votes":44061,"results":[{"party":"fg","pct":38.7,"votes":17052,"seats":1},{"party":"ind","pct":21.5,"votes":9473,"seats":1},{"party":"ff","pct":17,"votes":7490,"seats":1},{"party":"sf","pct":14.7,"votes":6477,"seats":0},{"party":"sd","pct":8.1,"votes":3569,"seats":1}]},
+        {"name":"Dublin Central","abbr":"dublin-central","seats":4,"winner":"ff","margin":12.2,"turnout":65.4,"votes":53788,"results":[{"party":"ff","pct":33.4,"votes":17965,"seats":1},{"party":"sf","pct":21.2,"votes":11403,"seats":1},{"party":"ind","pct":20.5,"votes":11027,"seats":1},{"party":"fg","pct":17.6,"votes":9467,"seats":1},{"party":"sd","pct":7.3,"votes":3927,"seats":0}]},
+        {"name":"Dublin Fingal East","abbr":"dublin-fingal-east","seats":3,"winner":"ff","margin":4,"turnout":53.1,"votes":44602,"results":[{"party":"ff","pct":27.2,"votes":12145,"seats":1},{"party":"sf","pct":23.2,"votes":10327,"seats":1},{"party":"aontu","pct":23.1,"seats":1,"votes":10293},{"party":"fg","pct":11.4,"votes":5078,"seats":0},{"party":"ind","pct":8.9,"votes":3980,"seats":0},{"party":"sd","pct":6.2,"votes":2779,"seats":0}]},
+        {"name":"Dublin Fingal West","abbr":"dublin-fingal-west","seats":3,"winner":"sf","margin":8.7,"turnout":66.1,"votes":36819,"results":[{"party":"sf","pct":31.8,"votes":11708,"seats":1},{"party":"fg","pct":23.1,"votes":8505,"seats":1},{"party":"ind","pct":21.7,"votes":7990,"seats":0},{"party":"ff","pct":15.9,"votes":5854,"seats":1},{"party":"sd","pct":7.5,"votes":2761,"seats":0}]},
+        {"name":"Dublin Mid-West","abbr":"dublin-mid-west","seats":5,"winner":"ff","margin":9.6,"turnout":58.5,"votes":58952,"results":[{"party":"ff","pct":33.1,"votes":19513,"seats":2},{"party":"fg","pct":23.5,"votes":13854,"seats":1},{"party":"sf","pct":22.9,"votes":13500,"seats":1},{"party":"ind","pct":13.8,"votes":8135,"seats":0},{"party":"sd","pct":6.8,"votes":4009,"seats":1}]},
+        {"name":"Dublin North-West","abbr":"dublin-north-west","seats":3,"winner":"sf","margin":3.3,"turnout":59.8,"votes":40016,"results":[{"party":"sf","pct":26.4,"votes":10558,"seats":1},{"party":"ii","pct":23.1,"seats":1,"votes":9234},{"party":"ff","pct":19.7,"votes":7880,"seats":1},{"party":"fg","pct":17.1,"votes":6834,"seats":0},{"party":"ind","pct":11,"votes":4402,"seats":0},{"party":"sd","pct":2.8,"votes":1108,"seats":0}]},
+        {"name":"Dublin Rathdown","abbr":"dublin-rathdown","seats":4,"winner":"sf","margin":1.6,"turnout":55.2,"votes":54076,"results":[{"party":"sf","pct":24.5,"votes":13249,"seats":1},{"party":"ff","pct":22.9,"votes":12383,"seats":1},{"party":"ind","pct":21.8,"votes":11789,"seats":1},{"party":"fg","pct":20.3,"votes":10977,"seats":1},{"party":"sd","pct":10.4,"votes":5624,"seats":0}]},
+        {"name":"Dublin South-Central","abbr":"dublin-south-central","seats":4,"winner":"sf","margin":1.5,"turnout":54.8,"votes":48694,"results":[{"party":"sf","pct":26.7,"votes":13001,"seats":1},{"party":"ind","pct":25.2,"votes":12271,"seats":1},{"party":"fg","pct":20.7,"votes":10080,"seats":1},{"party":"ff","pct":17.7,"votes":8619,"seats":1},{"party":"sd","pct":9.7,"votes":4723,"seats":0}]},
+        {"name":"Dublin South-West","abbr":"dublin-south-west","seats":5,"winner":"ff","margin":0.1,"turnout":66,"votes":75775,"results":[{"party":"ff","pct":22.7,"votes":17210,"seats":1},{"party":"fg","pct":22.6,"votes":17146,"seats":1},{"party":"sf","pct":19.7,"votes":14898,"seats":1},{"party":"ind","pct":15.4,"votes":11687,"seats":1},{"party":"lab","pct":15.3,"seats":1,"votes":11559},{"party":"sd","pct":4.3,"votes":3275,"seats":0}]},
+        {"name":"Dublin West","abbr":"dublin-west","seats":5,"winner":"fg","margin":3.5,"turnout":65.1,"votes":69545,"results":[{"party":"fg","pct":26.2,"votes":18211,"seats":1},{"party":"sf","pct":22.7,"votes":15795,"seats":1},{"party":"ff","pct":15.9,"votes":11080,"seats":1},{"party":"ind","pct":15.8,"votes":11021,"seats":1},{"party":"lab","pct":15.3,"seats":1,"votes":10609},{"party":"sd","pct":4.1,"votes":2829,"seats":0}]},
+        {"name":"Dún Laoghaire","abbr":"dun-laoghaire","seats":4,"winner":"fg","margin":1.4,"turnout":61.9,"votes":54798,"results":[{"party":"fg","pct":24.5,"votes":13431,"seats":1},{"party":"ff","pct":23.1,"votes":12670,"seats":1},{"party":"lab","pct":18.4,"seats":1,"votes":10073},{"party":"ind","pct":16.9,"votes":9267,"seats":1},{"party":"sf","pct":11.7,"votes":6402,"seats":0},{"party":"sd","pct":5.4,"votes":2955,"seats":0}]},
+        {"name":"Galway East","abbr":"galway-east","seats":4,"winner":"fg","margin":4.8,"turnout":63.4,"votes":43856,"results":[{"party":"fg","pct":24.6,"votes":10776,"seats":1},{"party":"sf","pct":19.8,"votes":8664,"seats":1},{"party":"lab","pct":18.4,"seats":1,"votes":8055},{"party":"ff","pct":17.2,"votes":7554,"seats":1},{"party":"ind","pct":14.9,"votes":6552,"seats":0},{"party":"sd","pct":5.1,"votes":2255,"seats":0}]},
+        {"name":"Galway West","abbr":"galway-west","seats":5,"winner":"fg","margin":23,"turnout":63.9,"votes":70018,"results":[{"party":"fg","pct":41.5,"votes":29057,"seats":2},{"party":"ff","pct":18.5,"votes":12953,"seats":1},{"party":"ind","pct":16.6,"votes":11623,"seats":0},{"party":"sf","pct":13.9,"votes":9733,"seats":1},{"party":"sd","pct":9.5,"votes":6652,"seats":1}]},
+        {"name":"Kerry","abbr":"kerry","seats":5,"winner":"sf","margin":2.9,"turnout":61.6,"votes":59809,"results":[{"party":"sf","pct":25,"votes":14965,"seats":1},{"party":"ff","pct":22.1,"votes":13240,"seats":1},{"party":"fg","pct":17.6,"votes":10552,"seats":1},{"party":"ind","pct":16.1,"votes":9638,"seats":1},{"party":"lab","pct":15.3,"seats":1,"votes":9131},{"party":"sd","pct":3.8,"votes":2283,"seats":0}]},
+        {"name":"Kildare North","abbr":"kildare-north","seats":5,"winner":"sf","margin":0.5,"turnout":54.7,"votes":64665,"results":[{"party":"sf","pct":25.2,"votes":16290,"seats":1},{"party":"fg","pct":24.7,"votes":15961,"seats":1},{"party":"ff","pct":19.8,"votes":12779,"seats":1},{"party":"lab","pct":15.3,"seats":1,"votes":9873},{"party":"ind","pct":8.3,"votes":5375,"seats":0},{"party":"sd","pct":6.8,"votes":4388,"seats":1}]},
+        {"name":"Kildare South","abbr":"kildare-south","seats":4,"winner":"fg","margin":5.2,"turnout":63.9,"votes":46468,"results":[{"party":"fg","pct":31.1,"votes":14452,"seats":1},{"party":"sf","pct":25.9,"votes":12035,"seats":1},{"party":"ind","pct":21.3,"votes":9898,"seats":1},{"party":"ff","pct":18.6,"votes":8643,"seats":1},{"party":"sd","pct":3.1,"votes":1441,"seats":0}]},
+        {"name":"Laois","abbr":"laois","seats":3,"winner":"ii","margin":1.1,"turnout":57.3,"votes":41041,"results":[{"party":"ii","pct":24.2,"votes":9913,"seats":2},{"party":"grn","pct":23.1,"seats":1,"votes":9471},{"party":"sf","pct":15.1,"votes":6188,"seats":0},{"party":"ff","pct":12.9,"votes":5304,"seats":0},{"party":"ind","pct":11.6,"votes":4767,"seats":0},{"party":"fg","pct":10.3,"votes":4230,"seats":0},{"party":"sd","pct":2.8,"votes":1168,"seats":0}]},
+        {"name":"Limerick City","abbr":"limerick-city","seats":4,"winner":"fg","margin":0.4,"turnout":64.8,"votes":42392,"results":[{"party":"fg","pct":25.7,"votes":10901,"seats":1},{"party":"sf","pct":25.3,"votes":10728,"seats":1},{"party":"lab","pct":18.4,"seats":1,"votes":7786},{"party":"ff","pct":13.9,"votes":5883,"seats":1},{"party":"ind","pct":11.8,"votes":4983,"seats":0},{"party":"sd","pct":5,"votes":2111,"seats":0}]},
+        {"name":"Limerick County","abbr":"limerick-county","seats":3,"winner":"sf","margin":6.5,"turnout":65.6,"votes":45264,"results":[{"party":"sf","pct":29.4,"votes":13308,"seats":1},{"party":"ff","pct":22.9,"votes":10365,"seats":1},{"party":"fg","pct":20,"votes":9053,"seats":0},{"party":"ind","pct":18.4,"votes":8329,"seats":0},{"party":"sd","pct":9.3,"votes":4210,"seats":1}]},
+        {"name":"Longford-Westmeath","abbr":"longford-westmeath","seats":5,"winner":"sf","margin":0.2,"turnout":55.5,"votes":59314,"results":[{"party":"sf","pct":29.1,"votes":17277,"seats":2},{"party":"fg","pct":28.9,"votes":17126,"seats":1},{"party":"lab","pct":15.2,"seats":1,"votes":9040},{"party":"ff","pct":13.9,"votes":8237,"seats":1},{"party":"ind","pct":7.9,"votes":4671,"seats":0},{"party":"sd","pct":5,"votes":2963,"seats":0}]},
+        {"name":"Louth","abbr":"louth","seats":5,"winner":"ff","margin":0.1,"turnout":53.3,"votes":52516,"results":[{"party":"ff","pct":23.1,"votes":12150,"seats":2},{"party":"fg","pct":23,"votes":12061,"seats":1},{"party":"sf","pct":21.2,"votes":11126,"seats":1},{"party":"lab","pct":15.3,"seats":1,"votes":8011},{"party":"ind","pct":13,"votes":6809,"seats":0},{"party":"sd","pct":4.5,"votes":2359,"seats":0}]},
+        {"name":"Mayo","abbr":"mayo","seats":5,"winner":"ff","margin":15.3,"turnout":63.6,"votes":52695,"results":[{"party":"ff","pct":38.6,"votes":20340,"seats":2},{"party":"sf","pct":23.3,"votes":12278,"seats":1},{"party":"fg","pct":15.8,"votes":8326,"seats":1},{"party":"ind","pct":13.4,"votes":7061,"seats":0},{"party":"sd","pct":8.9,"votes":4690,"seats":1}]},
+        {"name":"Meath East","abbr":"meath-east","seats":4,"winner":"fg","margin":5,"turnout":53.9,"votes":54816,"results":[{"party":"fg","pct":28.6,"votes":15694,"seats":1},{"party":"ff","pct":23.6,"votes":12922,"seats":1},{"party":"lab","pct":18.4,"seats":1,"votes":10060},{"party":"sf","pct":13.5,"votes":7422,"seats":1},{"party":"ind","pct":12.7,"votes":6975,"seats":0},{"party":"sd","pct":3.2,"votes":1744,"seats":0}]},
+        {"name":"Meath West","abbr":"meath-west","seats":3,"winner":"ff","margin":9.2,"turnout":55,"votes":43113,"results":[{"party":"ff","pct":35.3,"votes":15219,"seats":1},{"party":"sf","pct":26.1,"votes":11252,"seats":1},{"party":"fg","pct":25.8,"votes":11123,"seats":1},{"party":"ind","pct":9.6,"votes":4139,"seats":0},{"party":"sd","pct":3.3,"votes":1423,"seats":0}]},
+        {"name":"Offaly","abbr":"offaly","seats":3,"winner":"fg","margin":4.6,"turnout":53.1,"votes":30540,"results":[{"party":"fg","pct":28.6,"votes":8734,"seats":1},{"party":"ff","pct":24,"votes":7330,"seats":1},{"party":"sf","pct":22,"votes":6719,"seats":1},{"party":"sd","pct":12.8,"votes":3909,"seats":0},{"party":"ind","pct":12.6,"votes":3848,"seats":0}]},
+        {"name":"Roscommon-Galway","abbr":"roscommon-galway","seats":3,"winner":"ff","margin":6.5,"turnout":61.3,"votes":40062,"results":[{"party":"ff","pct":30.2,"votes":12099,"seats":1},{"party":"fg","pct":23.7,"votes":9495,"seats":1},{"party":"sf","pct":23.3,"votes":9334,"seats":1},{"party":"ind","pct":17.6,"votes":7051,"seats":0},{"party":"sd","pct":5.2,"votes":2083,"seats":0}]},
+        {"name":"Sligo-Leitrim","abbr":"sligo-leitrim","seats":4,"winner":"sf","margin":5.4,"turnout":62.1,"votes":48762,"results":[{"party":"sf","pct":26,"votes":12688,"seats":1},{"party":"fg","pct":20.6,"votes":10023,"seats":1},{"party":"ff","pct":18.8,"votes":9188,"seats":1},{"party":"pbp","pct":18.4,"seats":1,"votes":8949},{"party":"ind","pct":11.6,"votes":5648,"seats":0},{"party":"sd","pct":4.6,"votes":2267,"seats":0}]},
+        {"name":"Tipperary North","abbr":"tipperary-north","seats":3,"winner":"ff","margin":1,"turnout":55.7,"votes":36172,"results":[{"party":"ff","pct":24.1,"votes":8709,"seats":1},{"party":"ii","pct":23.1,"seats":1,"votes":8347},{"party":"fg","pct":22.8,"votes":8236,"seats":1},{"party":"ind","pct":14.2,"votes":5148,"seats":0},{"party":"sf","pct":13.4,"votes":4841,"seats":0},{"party":"sd","pct":2.5,"votes":890,"seats":0}]},
+        {"name":"Tipperary South","abbr":"tipperary-south","seats":3,"winner":"fg","margin":0.7,"turnout":58.7,"votes":40046,"results":[{"party":"fg","pct":24.4,"votes":9788,"seats":1},{"party":"ff","pct":23.7,"votes":9481,"seats":1},{"party":"aontu","pct":23.1,"seats":1,"votes":9234},{"party":"sf","pct":16.1,"votes":6433,"seats":0},{"party":"ind","pct":8,"votes":3201,"seats":0},{"party":"sd","pct":4.8,"votes":1908,"seats":0}]},
+        {"name":"Waterford","abbr":"waterford","seats":4,"winner":"fg","margin":0.5,"turnout":64,"votes":51779,"results":[{"party":"fg","pct":27.1,"votes":14045,"seats":1},{"party":"ff","pct":26.6,"votes":13791,"seats":1},{"party":"pbp","pct":18.4,"seats":1,"votes":9518},{"party":"sf","pct":18.3,"votes":9476,"seats":1},{"party":"ind","pct":6.7,"votes":3469,"seats":0},{"party":"sd","pct":2.9,"votes":1481,"seats":0}]},
+        {"name":"Wexford","abbr":"wexford","seats":4,"winner":"sf","margin":7.5,"turnout":65.1,"votes":44680,"results":[{"party":"sf","pct":30.6,"votes":13672,"seats":1},{"party":"ff","pct":23.1,"votes":10321,"seats":1},{"party":"fg","pct":23.1,"votes":10321,"seats":1},{"party":"ind","pct":19,"votes":8489,"seats":1},{"party":"sd","pct":4.1,"votes":1832,"seats":0}]},
+        {"name":"Wicklow","abbr":"wicklow","seats":4,"winner":"fg","margin":9.3,"turnout":58,"votes":47653,"results":[{"party":"fg","pct":31.4,"votes":14963,"seats":1},{"party":"ff","pct":22.1,"votes":10531,"seats":1},{"party":"ind","pct":21.1,"votes":10055,"seats":1},{"party":"sf","pct":18,"votes":8578,"seats":1},{"party":"sd","pct":7.4,"votes":3526,"seats":0}]},
+        {"name":"Wicklow-Wexford","abbr":"wicklow-wexford","seats":3,"winner":"sf","margin":3,"turnout":55.4,"votes":37204,"results":[{"party":"sf","pct":30.4,"votes":11310,"seats":1},{"party":"ff","pct":27.4,"votes":10194,"seats":1},{"party":"fg","pct":20.3,"votes":7552,"seats":0},{"party":"ind","pct":12.4,"votes":4613,"seats":0},{"party":"sd","pct":9.5,"votes":3534,"seats":1}]}
+      ]
+    },
+    {
+      "id": "ie-president-2025",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2025-10-24",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 45.8,
+      "cite": {
+        "name": "the official count",
+        "url": "https://en.wikipedia.org/wiki/2025_Irish_presidential_election"
+      },
+      "system": "Instant-runoff vote, seven-year term",
+      "candidates": [
+        {
+          "name": "Catherine Connolly",
+          "party": "ind",
+          "pct": 63.36,
+          "seats": null,
+          "votes": 914143,
+          "winner": true
+        },
+        {
+          "name": "Heather Humphreys",
+          "party": "fg",
+          "pct": 29.46,
+          "seats": null,
+          "votes": 424987
+        },
+        {
+          "name": "Jim Gavin",
+          "party": "ff",
+          "pct": 7.18,
+          "seats": null,
+          "votes": 103568
+        }
+      ],
+      "regions": [
+        {"name":"Carlow-Kilkenny","abbr":"carlow-kilkenny","winner":"ind","margin":48,"turnout":52.5,"votes":39389,"results":[{"party":"ind","pct":71.7,"votes":28242},{"party":"fg","pct":23.7,"votes":9335},{"party":"ff","pct":4.7,"votes":1851}]},
+        {"name":"Cavan-Monaghan","abbr":"cavan-monaghan","winner":"ind","margin":30.5,"turnout":44.6,"votes":31139,"results":[{"party":"ind","pct":61.1,"votes":19026},{"party":"fg","pct":30.6,"votes":9529},{"party":"ff","pct":8.3,"votes":2585}]},
+        {"name":"Clare","abbr":"clare","winner":"ind","margin":29.6,"turnout":42,"votes":32006,"results":[{"party":"ind","pct":59.6,"votes":19076},{"party":"fg","pct":30,"votes":9602},{"party":"ff","pct":10.4,"votes":3329}]},
+        {"name":"Cork East","abbr":"cork-east","winner":"ind","margin":47.4,"turnout":48.5,"votes":34184,"results":[{"party":"ind","pct":70.7,"votes":24168},{"party":"fg","pct":23.3,"votes":7965},{"party":"ff","pct":6,"votes":2051}]},
+        {"name":"Cork North-Central","abbr":"cork-north-central","winner":"ind","margin":62.6,"turnout":47,"votes":30609,"results":[{"party":"ind","pct":78.1,"votes":23906},{"party":"fg","pct":15.5,"votes":4744},{"party":"ff","pct":6.4,"votes":1959}]},
+        {"name":"Cork North-West","abbr":"cork-north-west","winner":"ind","margin":14.1,"turnout":48.5,"votes":35970,"results":[{"party":"ind","pct":51.9,"votes":18668},{"party":"fg","pct":37.8,"votes":13597},{"party":"ff","pct":10.3,"votes":3705}]},
+        {"name":"Cork South-Central","abbr":"cork-south-central","winner":"ind","margin":35.2,"turnout":47.9,"votes":39959,"results":[{"party":"ind","pct":65.4,"votes":26133},{"party":"fg","pct":30.2,"votes":12068},{"party":"ff","pct":4.4,"votes":1758}]},
+        {"name":"Cork South-West","abbr":"cork-south-west","winner":"ind","margin":37.7,"turnout":50.5,"votes":36908,"results":[{"party":"ind","pct":66.6,"votes":24581},{"party":"fg","pct":28.9,"votes":10666},{"party":"ff","pct":4.6,"votes":1698}]},
+        {"name":"Donegal","abbr":"donegal","winner":"ind","margin":44.2,"turnout":46.9,"votes":36167,"results":[{"party":"ind","pct":68.8,"votes":24883},{"party":"fg","pct":24.6,"votes":8897},{"party":"ff","pct":6.6,"votes":2387}]},
+        {"name":"Dublin Bay North","abbr":"dublin-bay-north","winner":"ind","margin":37.1,"turnout":44,"votes":31173,"results":[{"party":"ind","pct":60.9,"votes":18984},{"party":"fg","pct":23.8,"votes":7419},{"party":"ff","pct":15.3,"votes":4769}]},
+        {"name":"Dublin Bay South","abbr":"dublin-bay-south","winner":"ind","margin":30.7,"turnout":45.2,"votes":39220,"results":[{"party":"ind","pct":63.2,"votes":24787},{"party":"fg","pct":32.5,"votes":12747},{"party":"ff","pct":4.3,"votes":1686}]},
+        {"name":"Dublin Central","abbr":"dublin-central","winner":"ind","margin":44.8,"turnout":41.9,"votes":36095,"results":[{"party":"ind","pct":70.3,"votes":25375},{"party":"fg","pct":25.5,"votes":9204},{"party":"ff","pct":4.1,"votes":1480}]},
+        {"name":"Dublin Fingal East","abbr":"dublin-fingal-east","winner":"ind","margin":54,"turnout":48.5,"votes":38161,"results":[{"party":"ind","pct":73,"votes":27858},{"party":"fg","pct":19,"votes":7251},{"party":"ff","pct":8,"votes":3053}]},
+        {"name":"Dublin Fingal West","abbr":"dublin-fingal-west","winner":"ind","margin":35.2,"turnout":41.1,"votes":38934,"results":[{"party":"ind","pct":63.7,"votes":24801},{"party":"fg","pct":28.5,"votes":11096},{"party":"ff","pct":7.8,"votes":3037}]},
+        {"name":"Dublin Mid-West","abbr":"dublin-mid-west","winner":"ind","margin":15.6,"turnout":44.6,"votes":36869,"results":[{"party":"ind","pct":55.9,"votes":20610},{"party":"fg","pct":40.3,"votes":14858},{"party":"ff","pct":3.8,"votes":1401}]},
+        {"name":"Dublin North-West","abbr":"dublin-north-west","winner":"ind","margin":54.2,"turnout":40.6,"votes":31929,"results":[{"party":"ind","pct":72.4,"votes":23117},{"party":"fg","pct":18.2,"votes":5811},{"party":"ff","pct":9.3,"votes":2969}]},
+        {"name":"Dublin Rathdown","abbr":"dublin-rathdown","winner":"ind","margin":50.7,"turnout":46.2,"votes":32202,"results":[{"party":"ind","pct":70.6,"votes":22735},{"party":"fg","pct":19.9,"votes":6408},{"party":"ff","pct":9.5,"votes":3059}]},
+        {"name":"Dublin South-Central","abbr":"dublin-south-central","winner":"ind","margin":31.5,"turnout":47.6,"votes":27959,"results":[{"party":"ind","pct":61,"votes":17055},{"party":"fg","pct":29.5,"votes":8248},{"party":"ff","pct":9.6,"votes":2684}]},
+        {"name":"Dublin South-West","abbr":"dublin-south-west","winner":"ind","margin":52.3,"turnout":40.7,"votes":32428,"results":[{"party":"ind","pct":72.7,"votes":23575},{"party":"fg","pct":20.4,"votes":6615},{"party":"ff","pct":6.9,"votes":2238}]},
+        {"name":"Dublin West","abbr":"dublin-west","winner":"ind","margin":53.3,"turnout":41.8,"votes":27158,"results":[{"party":"ind","pct":72,"votes":19554},{"party":"fg","pct":18.7,"votes":5079},{"party":"ff","pct":9.4,"votes":2553}]},
+        {"name":"Dún Laoghaire","abbr":"dun-laoghaire","winner":"ind","margin":22.8,"turnout":49.8,"votes":32678,"results":[{"party":"ind","pct":58.1,"votes":18986},{"party":"fg","pct":35.3,"votes":11535},{"party":"ff","pct":6.6,"votes":2157}]},
+        {"name":"Galway East","abbr":"galway-east","winner":"ind","margin":17.9,"turnout":41.3,"votes":38357,"results":[{"party":"ind","pct":55.8,"votes":21403},{"party":"fg","pct":37.9,"votes":14537},{"party":"ff","pct":6.3,"votes":2416}]},
+        {"name":"Galway West","abbr":"galway-west","winner":"ind","margin":36.3,"turnout":42.1,"votes":39247,"results":[{"party":"ind","pct":61.4,"votes":24098},{"party":"fg","pct":25.1,"votes":9851},{"party":"ff","pct":13.5,"votes":5298}]},
+        {"name":"Kerry","abbr":"kerry","winner":"ind","margin":34.4,"turnout":41.4,"votes":30150,"results":[{"party":"ind","pct":65.1,"votes":19628},{"party":"fg","pct":30.7,"votes":9256},{"party":"ff","pct":4.3,"votes":1296}]},
+        {"name":"Kildare North","abbr":"kildare-north","winner":"ind","margin":46.2,"turnout":46.7,"votes":36707,"results":[{"party":"ind","pct":69.4,"votes":25475},{"party":"fg","pct":23.2,"votes":8516},{"party":"ff","pct":7.4,"votes":2716}]},
+        {"name":"Kildare South","abbr":"kildare-south","winner":"ind","margin":46.7,"turnout":46.1,"votes":35074,"results":[{"party":"ind","pct":71.3,"votes":25008},{"party":"fg","pct":24.6,"votes":8628},{"party":"ff","pct":4.1,"votes":1438}]},
+        {"name":"Laois","abbr":"laois","winner":"ind","margin":38.3,"turnout":51,"votes":32841,"results":[{"party":"ind","pct":65.2,"votes":21412},{"party":"fg","pct":26.9,"votes":8834},{"party":"ff","pct":7.9,"votes":2594}]},
+        {"name":"Limerick City","abbr":"limerick-city","winner":"ind","margin":30.9,"turnout":49.7,"votes":31294,"results":[{"party":"ind","pct":61.6,"votes":19277},{"party":"fg","pct":30.7,"votes":9607},{"party":"ff","pct":7.7,"votes":2410}]},
+        {"name":"Limerick County","abbr":"limerick-county","winner":"ind","margin":13.2,"turnout":44.3,"votes":30734,"results":[{"party":"ind","pct":53.5,"votes":16443},{"party":"fg","pct":40.3,"votes":12386},{"party":"ff","pct":6.2,"votes":1906}]},
+        {"name":"Longford-Westmeath","abbr":"longford-westmeath","winner":"ind","margin":40.6,"turnout":44.5,"votes":38830,"results":[{"party":"ind","pct":66.1,"votes":25667},{"party":"fg","pct":25.5,"votes":9902},{"party":"ff","pct":8.4,"votes":3262}]},
+        {"name":"Louth","abbr":"louth","winner":"ind","margin":40.6,"turnout":50,"votes":30501,"results":[{"party":"ind","pct":68.1,"votes":20771},{"party":"fg","pct":27.5,"votes":8388},{"party":"ff","pct":4.3,"votes":1312}]},
+        {"name":"Mayo","abbr":"mayo","winner":"ind","margin":3.6,"turnout":48.3,"votes":29093,"results":[{"party":"ind","pct":45,"votes":13092},{"party":"fg","pct":41.4,"votes":12045},{"party":"ff","pct":13.6,"votes":3957}]},
+        {"name":"Meath East","abbr":"meath-east","winner":"ind","margin":3.9,"turnout":50.9,"votes":36338,"results":[{"party":"ind","pct":46.6,"votes":16934},{"party":"fg","pct":42.7,"votes":15516},{"party":"ff","pct":10.7,"votes":3888}]},
+        {"name":"Meath West","abbr":"meath-west","winner":"ind","margin":22.9,"turnout":47.5,"votes":32032,"results":[{"party":"ind","pct":57.7,"votes":18482},{"party":"fg","pct":34.8,"votes":11147},{"party":"ff","pct":7.5,"votes":2402}]},
+        {"name":"Offaly","abbr":"offaly","winner":"ind","margin":43.9,"turnout":40.3,"votes":29207,"results":[{"party":"ind","pct":69.3,"votes":20240},{"party":"fg","pct":25.4,"votes":7419},{"party":"ff","pct":5.2,"votes":1519}]},
+        {"name":"Roscommon-Galway","abbr":"roscommon-galway","winner":"ind","margin":59,"turnout":52,"votes":38959,"results":[{"party":"ind","pct":76.3,"votes":29726},{"party":"fg","pct":17.3,"votes":6740},{"party":"ff","pct":6.4,"votes":2493}]},
+        {"name":"Sligo-Leitrim","abbr":"sligo-leitrim","winner":"ind","margin":20.4,"turnout":47.9,"votes":36333,"results":[{"party":"ind","pct":53.8,"votes":19547},{"party":"fg","pct":33.4,"votes":12135},{"party":"ff","pct":12.8,"votes":4651}]},
+        {"name":"Tipperary North","abbr":"tipperary-north","winner":"ind","margin":42,"turnout":47.5,"votes":38385,"results":[{"party":"ind","pct":66.8,"votes":25641},{"party":"fg","pct":24.8,"votes":9519},{"party":"ff","pct":8.4,"votes":3224}]},
+        {"name":"Tipperary South","abbr":"tipperary-south","winner":"ind","margin":36.9,"turnout":44.6,"votes":28065,"results":[{"party":"ind","pct":66.5,"votes":18663},{"party":"fg","pct":29.6,"votes":8307},{"party":"ff","pct":3.9,"votes":1095}]},
+        {"name":"Waterford","abbr":"waterford","winner":"ind","margin":23.9,"turnout":39.2,"votes":38259,"results":[{"party":"ind","pct":57.8,"votes":22114},{"party":"fg","pct":33.9,"votes":12970},{"party":"ff","pct":8.3,"votes":3175}]},
+        {"name":"Wexford","abbr":"wexford","winner":"ind","margin":46.2,"turnout":49.5,"votes":27978,"results":[{"party":"ind","pct":70.3,"votes":19669},{"party":"fg","pct":24.1,"votes":6743},{"party":"ff","pct":5.6,"votes":1567}]},
+        {"name":"Wicklow","abbr":"wicklow","winner":"ind","margin":55.6,"turnout":50.5,"votes":38028,"results":[{"party":"ind","pct":74.7,"votes":28407},{"party":"fg","pct":19.1,"votes":7263},{"party":"ff","pct":6.2,"votes":2358}]},
+        {"name":"Wicklow-Wexford","abbr":"wicklow-wexford","winner":"ind","margin":33,"turnout":43.4,"votes":26968,"results":[{"party":"ind","pct":62.6,"votes":16882},{"party":"fg","pct":29.6,"votes":7983},{"party":"ff","pct":7.8,"votes":2104}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "Dáil Éireann",
+      "date": "2029-11-30",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "ff",
+          "points": [
+            ["2026-03-16",22.1],
+            ["2026-03-23",22.7],
+            ["2026-03-30",23.2],
+            ["2026-04-06",22.7],
+            ["2026-04-13",23.4],
+            ["2026-04-20",22.8],
+            ["2026-04-27",22.1],
+            ["2026-05-04",21],
+            ["2026-05-11",20.6],
+            ["2026-05-18",19.9],
+            ["2026-05-25",19.8],
+            ["2026-06-01",19.9],
+            ["2026-06-08",20.6],
+            ["2026-06-15",21.4],
+            ["2026-06-22",21.7],
+            ["2026-06-29",21.6],
+            ["2026-07-06",21.4],
+            ["2026-07-13",20.6],
+            ["2026-07-20",20.8],
+            ["2026-07-27",20.6],
+            ["2026-08-03",21.2],
+            ["2026-08-10",20.4],
+            ["2026-08-17",19.8],
+            ["2026-08-24",19.6],
+            ["2026-08-31",19.8],
+            ["2026-09-07",19.4],
+            ["2026-09-14",19.8],
+            ["2026-09-21",20.3],
+            ["2026-09-28",20.3],
+            ["2026-10-05",21.1]
+          ]
+        },
+        {
+          "party": "fg",
+          "points": [
+            ["2026-03-16",21.2],
+            ["2026-03-23",20.9],
+            ["2026-03-30",21.7],
+            ["2026-04-06",20.9],
+            ["2026-04-13",20.3],
+            ["2026-04-20",19.4],
+            ["2026-04-27",19.9],
+            ["2026-05-04",19.4],
+            ["2026-05-11",18.7],
+            ["2026-05-18",18.3],
+            ["2026-05-25",19],
+            ["2026-06-01",18.5],
+            ["2026-06-08",19.3],
+            ["2026-06-15",20],
+            ["2026-06-22",20.9],
+            ["2026-06-29",20.1],
+            ["2026-07-06",20.1],
+            ["2026-07-13",20.2],
+            ["2026-07-20",20.2],
+            ["2026-07-27",21],
+            ["2026-08-03",21.1],
+            ["2026-08-10",21.2],
+            ["2026-08-17",20.3],
+            ["2026-08-24",21.1],
+            ["2026-08-31",20.4],
+            ["2026-09-07",20.3],
+            ["2026-09-14",20],
+            ["2026-09-21",20.6],
+            ["2026-09-28",20.7],
+            ["2026-10-05",21]
+          ]
+        },
+        {
+          "party": "sf",
+          "points": [
+            ["2026-03-16",19.3],
+            ["2026-03-23",19.1],
+            ["2026-03-30",19.9],
+            ["2026-04-06",19],
+            ["2026-04-13",19.2],
+            ["2026-04-20",19.8],
+            ["2026-04-27",19.7],
+            ["2026-05-04",20.4],
+            ["2026-05-11",20.4],
+            ["2026-05-18",20.6],
+            ["2026-05-25",20.1],
+            ["2026-06-01",19.4],
+            ["2026-06-08",19.6],
+            ["2026-06-15",19.9],
+            ["2026-06-22",20],
+            ["2026-06-29",19.6],
+            ["2026-07-06",19.2],
+            ["2026-07-13",19.6],
+            ["2026-07-20",19.4],
+            ["2026-07-27",19.4],
+            ["2026-08-03",20.2],
+            ["2026-08-10",19.9],
+            ["2026-08-17",20.2],
+            ["2026-08-24",20.5],
+            ["2026-08-31",20.3],
+            ["2026-09-07",19.5],
+            ["2026-09-14",19.2],
+            ["2026-09-21",19.4],
+            ["2026-09-28",19.6],
+            ["2026-10-05",20.5]
+          ]
+        },
+        {
+          "party": "ind",
+          "points": [
+            ["2026-03-16",13.8],
+            ["2026-03-23",13.1],
+            ["2026-03-30",13.8],
+            ["2026-04-06",13.9],
+            ["2026-04-13",14.6],
+            ["2026-04-20",14.1],
+            ["2026-04-27",13.5],
+            ["2026-05-04",14.1],
+            ["2026-05-11",14.2],
+            ["2026-05-18",13.7],
+            ["2026-05-25",14.4],
+            ["2026-06-01",14.9],
+            ["2026-06-08",13.9],
+            ["2026-06-15",14],
+            ["2026-06-22",14.3],
+            ["2026-06-29",13.5],
+            ["2026-07-06",14.1],
+            ["2026-07-13",14.3],
+            ["2026-07-20",14],
+            ["2026-07-27",14.5],
+            ["2026-08-03",14.5],
+            ["2026-08-10",15.2],
+            ["2026-08-17",15.7],
+            ["2026-08-24",15.5],
+            ["2026-08-31",15.5],
+            ["2026-09-07",15.7],
+            ["2026-09-14",15.2],
+            ["2026-09-21",15],
+            ["2026-09-28",14.2],
+            ["2026-10-05",13.6]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "President",
+      "date": "2032-10-28",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "ind",
+          "points": [
+            ["2026-03-16",63.1],
+            ["2026-03-23",62.5],
+            ["2026-03-30",61.7],
+            ["2026-04-06",61],
+            ["2026-04-13",61.5],
+            ["2026-04-20",61.8],
+            ["2026-04-27",61.2],
+            ["2026-05-04",60.5],
+            ["2026-05-11",60.2],
+            ["2026-05-18",61.3],
+            ["2026-05-25",62],
+            ["2026-06-01",61.1],
+            ["2026-06-08",61.9],
+            ["2026-06-15",61.6],
+            ["2026-06-22",61.6],
+            ["2026-06-29",61.3],
+            ["2026-07-06",61.4],
+            ["2026-07-13",62.1],
+            ["2026-07-20",62.2],
+            ["2026-07-27",62.8],
+            ["2026-08-03",62.2],
+            ["2026-08-10",61.5],
+            ["2026-08-17",62],
+            ["2026-08-24",61.4],
+            ["2026-08-31",61.6],
+            ["2026-09-07",61.8],
+            ["2026-09-14",61.9],
+            ["2026-09-21",62.6],
+            ["2026-09-28",62.8],
+            ["2026-10-05",61.9]
+          ]
+        },
+        {
+          "party": "fg",
+          "points": [
+            ["2026-03-16",29.7],
+            ["2026-03-23",30],
+            ["2026-03-30",31],
+            ["2026-04-06",30.6],
+            ["2026-04-13",30.6],
+            ["2026-04-20",30],
+            ["2026-04-27",30.4],
+            ["2026-05-04",29.9],
+            ["2026-05-11",30.4],
+            ["2026-05-18",30.6],
+            ["2026-05-25",30.6],
+            ["2026-06-01",31.2],
+            ["2026-06-08",32.1],
+            ["2026-06-15",31.5],
+            ["2026-06-22",31.3],
+            ["2026-06-29",31.3],
+            ["2026-07-06",30.5],
+            ["2026-07-13",30.5],
+            ["2026-07-20",31.1],
+            ["2026-07-27",31.4],
+            ["2026-08-03",31.8],
+            ["2026-08-10",32.1],
+            ["2026-08-17",33],
+            ["2026-08-24",33.3],
+            ["2026-08-31",34],
+            ["2026-09-07",33.2],
+            ["2026-09-14",32.9],
+            ["2026-09-21",32.3],
+            ["2026-09-28",31.6],
+            ["2026-10-05",30.9]
+          ]
+        },
+        {
+          "party": "ff",
+          "points": [
+            ["2026-03-16",7],
+            ["2026-03-23",7.9],
+            ["2026-03-30",9],
+            ["2026-04-06",8.4],
+            ["2026-04-13",8],
+            ["2026-04-20",9.2],
+            ["2026-04-27",9.2],
+            ["2026-05-04",9.7],
+            ["2026-05-11",9.3],
+            ["2026-05-18",8.6],
+            ["2026-05-25",8],
+            ["2026-06-01",8.2],
+            ["2026-06-08",8.1],
+            ["2026-06-15",8.1],
+            ["2026-06-22",8.4],
+            ["2026-06-29",8.6],
+            ["2026-07-06",9.1],
+            ["2026-07-13",8.5],
+            ["2026-07-20",8.2],
+            ["2026-07-27",7.9],
+            ["2026-08-03",8.7],
+            ["2026-08-10",9],
+            ["2026-08-17",9.6],
+            ["2026-08-24",9.3],
+            ["2026-08-31",9],
+            ["2026-09-07",8.3],
+            ["2026-09-14",7.9],
+            ["2026-09-21",7.7],
+            ["2026-09-28",8.2],
+            ["2026-10-05",9]
+          ]
+        }
+      ]
+    }
+  ]
+}

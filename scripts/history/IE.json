@@ -1,0 +1,2162 @@
+{
+  "code": "IE",
+  "parties": {
+    "cnp": {
+      "name": "Clann na Poblachta",
+      "color": "#BBE549",
+      "article": "Clann na Poblachta"
+    },
+    "cnt": {
+      "name": "Clann na Talmhan",
+      "color": "#BDB76B",
+      "article": "Clann na Talmhan"
+    },
+    "dl": {
+      "name": "Democratic Left",
+      "color": "#C700C7",
+      "article": "Democratic Left (Ireland)"
+    },
+    "dsp": {
+      "name": "Democratic Socialist Party",
+      "color": "#FF0099",
+      "article": "Democratic Socialist Party (Ireland)"
+    },
+    "i4c": {
+      "name": "Independents 4 Change",
+      "color": "#FFC0CB",
+      "article": "Independents 4 Change"
+    },
+    "ia": {
+      "name": "Independent Alliance",
+      "color": "#CCCCFF",
+      "article": "Independent Alliance (Ireland)"
+    },
+    "indcasey": {
+      "name": "Peter Casey (independent)",
+      "color": "#B5651D",
+      "article": "Peter Casey"
+    },
+    "inddavis": {
+      "name": "Mary Davis (independent)",
+      "color": "#E07A9B",
+      "article": "Mary Davis (activist)"
+    },
+    "indduffy": {
+      "name": "Gavin Duffy (independent)",
+      "color": "#6B8E23",
+      "article": "Gavin Duffy"
+    },
+    "indfreeman": {
+      "name": "Joan Freeman (independent)",
+      "color": "#C77CA0",
+      "article": "Joan Freeman (politician)"
+    },
+    "indgallagher": {
+      "name": "Seán Gallagher (independent)",
+      "color": "#5A7D9A",
+      "article": "Seán Gallagher"
+    },
+    "indhiggins": {
+      "name": "Michael D. Higgins (independent)",
+      "color": "#7A7A7A",
+      "article": "Michael D. Higgins"
+    },
+    "indnally": {
+      "name": "Derek Nally (independent)",
+      "color": "#9C8F6E"
+    },
+    "indnorris": {
+      "name": "David Norris (independent)",
+      "color": "#A05195",
+      "article": "David Norris (politician)"
+    },
+    "indscallon": {
+      "name": "Dana Rosemary Scallon (independent)",
+      "color": "#D4A017",
+      "article": "Dana Rosemary Scallon"
+    },
+    "mra": {
+      "name": "Monetary Reform",
+      "color": "#B8860B",
+      "article": "Irish Monetary Reform Association"
+    },
+    "natp": {
+      "name": "National Party (1995)",
+      "color": "#8A8AE0",
+      "article": "National Party (Ireland, 1995)"
+    },
+    "nlp": {
+      "name": "National Labour Party",
+      "color": "#FF7F50",
+      "article": "National Labour Party (Ireland)"
+    },
+    "npd": {
+      "name": "National Progressive Democrats",
+      "color": "#FA8072",
+      "article": "National Progressive Democrats"
+    },
+    "pbpa": {
+      "name": "People Before Profit",
+      "color": "#E2007A",
+      "article": "People Before Profit"
+    },
+    "pd": {
+      "name": "Progressive Democrats",
+      "color": "#1251A2",
+      "article": "Progressive Democrats"
+    },
+    "renua": {
+      "name": "Renua",
+      "color": "#FFA500",
+      "article": "Renua"
+    },
+    "slp": {
+      "name": "Socialist Labour Party",
+      "color": "#E8743B",
+      "article": "Socialist Labour Party (Ireland)"
+    },
+    "sp": {
+      "name": "Socialist Party",
+      "color": "#F36D21",
+      "article": "Socialist Party (Ireland)"
+    },
+    "wp": {
+      "name": "Workers' Party",
+      "color": "#930C1A",
+      "article": "Workers' Party (Ireland)"
+    },
+    "wua": {
+      "name": "Workers and Unemployed Action",
+      "color": "#B5651D",
+      "article": "Workers and Unemployed Action"
+    }
+  },
+  "elections": [
+    {
+      "id": "ie-dail-1948",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1948-02-04",
+      "note": "Voting age 21",
+      "totalSeats": 147,
+      "turnout": 74.2,
+      "source": {
+        "name": "Wikipedia, citing ElectionsIreland.org, ARK and Nohlen & Stöver, Elections in Europe",
+        "url": "https://en.wikipedia.org/wiki/1948_Irish_general_election",
+        "revid": 1374481140
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 553914,
+          "pct": 41.9,
+          "seats": 68,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 262393,
+          "pct": 19.8,
+          "seats": 31,
+          "change": 1
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 115073,
+          "pct": 8.7,
+          "seats": 14,
+          "change": 6
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 94271,
+          "pct": 7.12,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Clann na Poblachta",
+          "party": "cnp",
+          "votes": 174823,
+          "pct": 13.2,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Clann na Talmhan",
+          "party": "cnt",
+          "votes": 73813,
+          "pct": 5.6,
+          "seats": 7,
+          "change": -2
+        },
+        {
+          "name": "National Labour Party",
+          "party": "nlp",
+          "votes": 34015,
+          "pct": 2.6,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Monetary Reform",
+          "party": "mra",
+          "votes": 14369,
+          "pct": 1.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 322,
+          "pct": 0.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The party rows add up to 1,322,993 first-preference votes, 450 fewer than the table's total poll (1,336,628) less spoilt votes (13,185); the Others share is worked out on 1,323,443. Seats include the outgoing Ceann Comhairle, Frank Fahy (FF), returned automatically. The independents' share is 7.12% from the article's vote bar chart; the table says 7.2%, which does not match its 94,271 votes."
+    },
+    {
+      "id": "ie-dail-1951",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1951-05-30",
+      "note": "Voting age 21",
+      "totalSeats": 147,
+      "turnout": 75.7,
+      "source": {
+        "name": "Wikipedia, citing ElectionsIreland.org, ARK and Nohlen & Stöver, Elections in Europe",
+        "url": "https://en.wikipedia.org/wiki/1951_Irish_general_election",
+        "revid": 1376813710
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 616212,
+          "pct": 46.3,
+          "seats": 69,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 349922,
+          "pct": 25.8,
+          "seats": 40,
+          "change": 9
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 151828,
+          "pct": 11.4,
+          "seats": 16,
+          "change": -3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 127234,
+          "pct": 9.6,
+          "seats": 14,
+          "change": 3
+        },
+        {
+          "name": "Clann na Talmhan",
+          "party": "cnt",
+          "votes": 38872,
+          "pct": 2.9,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Clann na Poblachta",
+          "party": "cnp",
+          "votes": 54210,
+          "pct": 4.1,
+          "seats": 2,
+          "change": -8
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 295,
+          "pct": 0.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Labour's seat and vote changes are against Labour and National Labour combined in 1948, which had reunited, as the table notes. The table's shares (also in the infobox and bar chart) do not match its votes, which add up exactly to its total: Fianna Fáil 616,212 votes is 46.0% (table 46.3%), Fine Gael 349,922 is 26.1% (25.8%), Labour 151,828 is 11.3% (11.4%) and independents 127,234 are 9.5% (9.6%). The table's shares are kept. Turnout is the results table's 75.7% (the infobox says 75.3%). Seats include the outgoing Ceann Comhairle, Frank Fahy (FF), returned automatically."
+    },
+    {
+      "id": "ie-dail-1954",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1954-05-18",
+      "note": "Voting age 21",
+      "totalSeats": 147,
+      "turnout": 76.5,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1954_Irish_general_election",
+        "revid": 1376813734
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 578960,
+          "pct": 43.4,
+          "seats": 65,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 427031,
+          "pct": 32,
+          "seats": 50,
+          "change": 10
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 161034,
+          "pct": 12.1,
+          "seats": 19,
+          "change": 2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 70937,
+          "pct": 5.3,
+          "seats": 5,
+          "change": -9
+        },
+        {
+          "name": "Clann na Talmhan",
+          "party": "cnt",
+          "votes": 51069,
+          "pct": 3.8,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Clann na Poblachta",
+          "party": "cnp",
+          "votes": 41249,
+          "pct": 3.1,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 4832,
+          "pct": 0.36,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Patrick Hogan (Lab), returned automatically."
+    },
+    {
+      "id": "ie-dail-1957",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1957-03-05",
+      "note": "Voting age 21",
+      "totalSeats": 147,
+      "turnout": 71.3,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1957_Irish_general_election",
+        "revid": 1376813787
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 592994,
+          "pct": 48.3,
+          "seats": 78,
+          "change": 13,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 326699,
+          "pct": 26.6,
+          "seats": 40,
+          "change": -10
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 111747,
+          "pct": 9.1,
+          "seats": 12,
+          "change": -7
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 72492,
+          "pct": 5.9,
+          "seats": 9,
+          "change": 4
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 65640,
+          "pct": 5.3,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Clann na Talmhan",
+          "party": "cnt",
+          "votes": 28905,
+          "pct": 2.4,
+          "seats": 3,
+          "change": -2
+        },
+        {
+          "name": "Clann na Poblachta",
+          "party": "cnp",
+          "votes": 20632,
+          "pct": 1.7,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7910,
+          "pct": 0.64,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Patrick Hogan (Lab), returned automatically."
+    },
+    {
+      "id": "ie-dail-1961",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1961-10-04",
+      "note": "Voting age 21",
+      "totalSeats": 144,
+      "turnout": 70.6,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1961_Irish_general_election",
+        "revid": 1377517009
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 512073,
+          "pct": 43.8,
+          "seats": 70,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 374099,
+          "pct": 32,
+          "seats": 47,
+          "change": 7
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 136111,
+          "pct": 11.6,
+          "seats": 16,
+          "change": 4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 65963,
+          "pct": 5.6,
+          "seats": 6,
+          "change": -3
+        },
+        {
+          "name": "Clann na Talmhan",
+          "party": "cnt",
+          "votes": 17693,
+          "pct": 1.5,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "National Progressive Democrats",
+          "party": "npd",
+          "votes": 11490,
+          "pct": 1,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Clann na Poblachta",
+          "party": "cnp",
+          "votes": 13170,
+          "pct": 1.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 36396,
+          "pct": 3.1,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1409,
+          "pct": 0.12,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Patrick Hogan (Lab), returned automatically."
+    },
+    {
+      "id": "ie-dail-1965",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1965-04-07",
+      "note": "Voting age 21",
+      "totalSeats": 144,
+      "turnout": 75.1,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1965_Irish_general_election",
+        "revid": 1370023788
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 597414,
+          "pct": 47.7,
+          "seats": 72,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 427081,
+          "pct": 34.1,
+          "seats": 47,
+          "change": 0
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 192740,
+          "pct": 15.4,
+          "seats": 22,
+          "change": 6
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 26277,
+          "pct": 2.1,
+          "seats": 2,
+          "change": -4
+        },
+        {
+          "name": "Clann na Poblachta",
+          "party": "cnp",
+          "votes": 9427,
+          "pct": 0.8,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 183,
+          "pct": 0.01,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Patrick Hogan (Lab), returned automatically."
+    },
+    {
+      "id": "ie-dail-1969",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1969-06-18",
+      "note": "Voting age 21",
+      "totalSeats": 144,
+      "turnout": 76.9,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1969_Irish_general_election",
+        "revid": 1370023655
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 602234,
+          "pct": 45.7,
+          "seats": 75,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 449749,
+          "pct": 34.1,
+          "seats": 50,
+          "change": 3
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 224498,
+          "pct": 17,
+          "seats": 18,
+          "change": -4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 42230,
+          "pct": 3.2,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 242,
+          "pct": 0.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Cormac Breslin (FF), returned automatically."
+    },
+    {
+      "id": "ie-dail-1973",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1973-02-28",
+      "totalSeats": 144,
+      "turnout": 76.6,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1973_Irish_general_election",
+        "revid": 1370023407
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 624528,
+          "pct": 46.2,
+          "seats": 69,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 473781,
+          "pct": 35.1,
+          "seats": 54,
+          "change": 4
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 184656,
+          "pct": 13.7,
+          "seats": 19,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 39419,
+          "pct": 2.9,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Official Sinn Féin",
+          "party": "wp",
+          "votes": 15366,
+          "pct": 1.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 12787,
+          "pct": 0.95,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Cormac Breslin (FF), returned automatically."
+    },
+    {
+      "id": "ie-dail-1977",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1977-06-16",
+      "totalSeats": 148,
+      "turnout": 76.3,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1977_Irish_general_election",
+        "revid": 1370023084
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 811615,
+          "pct": 50.6,
+          "seats": 84,
+          "change": 15,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 488767,
+          "pct": 30.5,
+          "seats": 43,
+          "change": -11
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 186410,
+          "pct": 11.6,
+          "seats": 17,
+          "change": -2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 87527,
+          "pct": 5.5,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Sinn Féin The Workers' Party",
+          "party": "wp",
+          "votes": 27209,
+          "pct": 1.7,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1499,
+          "pct": 0.09,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (13,824 votes, 1 seat) and the Community group in Dublin (9,427 votes), as the article notes. Seats include the outgoing Ceann Comhairle, Seán Treacy (Lab), returned automatically."
+    },
+    {
+      "id": "ie-dail-1981",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1981-06-11",
+      "totalSeats": 166,
+      "turnout": 76.2,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1981_Irish_general_election",
+        "revid": 1370022869
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 777616,
+          "pct": 45.3,
+          "seats": 78,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 626376,
+          "pct": 36.5,
+          "seats": 65,
+          "change": 22
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 169990,
+          "pct": 9.9,
+          "seats": 15,
+          "change": -2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 106632,
+          "pct": 6.2,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Sinn Féin The Workers' Party",
+          "party": "wp",
+          "votes": 29561,
+          "pct": 1.7,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Socialist Labour Party",
+          "party": "slp",
+          "votes": 7107,
+          "pct": 0.4,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 929,
+          "pct": 0.05,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Anti H-Block (42,803 votes, 2 seats) and Independent Fianna Fáil (13,546 votes, 1 seat), as the article notes. Seats include the outgoing Ceann Comhairle, Pádraig Faulkner (FF), returned automatically."
+    },
+    {
+      "id": "ie-dail-1982-02",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1982-02-18",
+      "label": "February 1982",
+      "totalSeats": 166,
+      "turnout": 73.8,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/February_1982_Irish_general_election",
+        "revid": 1370022538
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 786951,
+          "pct": 47.3,
+          "seats": 81,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 621088,
+          "pct": 37.3,
+          "seats": 63,
+          "change": -2
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 151875,
+          "pct": 9.1,
+          "seats": 15,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 46059,
+          "pct": 2.8,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin The Workers' Party",
+          "party": "wp",
+          "votes": 38088,
+          "pct": 2.3,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 16894,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3178,
+          "pct": 0.19,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (11,732 votes, 1 seat), as the article notes. Seats include the outgoing Ceann Comhairle, John O'Connell (Ind), returned automatically."
+    },
+    {
+      "id": "ie-dail-1982-11",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1982-11-24",
+      "label": "November 1982",
+      "totalSeats": 166,
+      "turnout": 72.9,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/November_1982_Irish_general_election",
+        "revid": 1370022326
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 763313,
+          "pct": 45.2,
+          "seats": 75,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 662284,
+          "pct": 39.2,
+          "seats": 70,
+          "change": 7
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 158115,
+          "pct": 9.4,
+          "seats": 16,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 38735,
+          "pct": 2.3,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Workers' Party",
+          "party": "wp",
+          "votes": 54888,
+          "pct": 3.3,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 11385,
+          "pct": 0.67,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (7,997 votes, 1 seat), as the article notes. Seats include the outgoing Ceann Comhairle, John O'Connell (Ind), returned automatically."
+    },
+    {
+      "id": "ie-dail-1987",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1987-02-17",
+      "totalSeats": 166,
+      "turnout": 73.3,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1987_Irish_general_election",
+        "revid": 1370022012
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 784547,
+          "pct": 44.1,
+          "seats": 81,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 481127,
+          "pct": 27.1,
+          "seats": 51,
+          "change": -19
+        },
+        {
+          "name": "Progressive Democrats",
+          "party": "pd",
+          "votes": 210583,
+          "pct": 11.8,
+          "seats": 14,
+          "change": 14
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 114551,
+          "pct": 6.4,
+          "seats": 12,
+          "change": -4
+        },
+        {
+          "name": "Workers' Party",
+          "party": "wp",
+          "votes": 67273,
+          "pct": 3.8,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 70843,
+          "pct": 4,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Democratic Socialist Party",
+          "party": "dsp",
+          "votes": 7424,
+          "pct": 0.4,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 32933,
+          "pct": 1.9,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7884,
+          "pct": 0.44,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (7,720 votes, 1 seat) and the Tax Reform League (3,832 votes), as the article notes. Seats include the outgoing Ceann Comhairle, Thomas J. Fitzpatrick (FG), returned automatically."
+    },
+    {
+      "id": "ie-dail-1989",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1989-06-15",
+      "totalSeats": 166,
+      "turnout": 68.5,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1989_Irish_general_election",
+        "revid": 1370021734
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 731472,
+          "pct": 44.1,
+          "seats": 77,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 485307,
+          "pct": 29.3,
+          "seats": 55,
+          "change": 4
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 156989,
+          "pct": 9.5,
+          "seats": 15,
+          "change": 3
+        },
+        {
+          "name": "Workers' Party",
+          "party": "wp",
+          "votes": 82263,
+          "pct": 5,
+          "seats": 7,
+          "change": 3
+        },
+        {
+          "name": "Progressive Democrats",
+          "party": "pd",
+          "votes": 91013,
+          "pct": 5.5,
+          "seats": 6,
+          "change": -8
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 54761,
+          "pct": 3.3,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 24827,
+          "pct": 1.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democratic Socialist Party",
+          "party": "dsp",
+          "votes": 9836,
+          "pct": 0.6,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 20003,
+          "pct": 1.2,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 342,
+          "pct": 0.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (6,961 votes, 1 seat), Army Wives (6,966 votes) and Gay candidates (517 votes), as the article notes. Seats include the outgoing Ceann Comhairle, Seán Treacy (Ind), returned automatically."
+    },
+    {
+      "id": "ie-dail-1992",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1992-11-25",
+      "totalSeats": 166,
+      "turnout": 68.5,
+      "source": {
+        "name": "Wikipedia, citing the official Election Results and Transfer of Votes (Stationery Office)",
+        "url": "https://en.wikipedia.org/wiki/1992_Irish_general_election",
+        "revid": 1370021165
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 674650,
+          "pct": 39.1,
+          "seats": 68,
+          "change": -9,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 422106,
+          "pct": 24.5,
+          "seats": 45,
+          "change": -10
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 333013,
+          "pct": 19.3,
+          "seats": 33,
+          "change": 18
+        },
+        {
+          "name": "Progressive Democrats",
+          "party": "pd",
+          "votes": 80787,
+          "pct": 4.7,
+          "seats": 10,
+          "change": 4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 99487,
+          "pct": 5.8,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Democratic Left",
+          "party": "dl",
+          "votes": 47945,
+          "pct": 2.8,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 24110,
+          "pct": 1.4,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 27809,
+          "pct": 1.6,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Workers' Party",
+          "party": "wp",
+          "votes": 11533,
+          "pct": 0.7,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3413,
+          "pct": 0.2,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (5,248 votes, 1 seat), as the article notes. Seats include the outgoing Ceann Comhairle, Seán Treacy (Ind), returned automatically."
+    },
+    {
+      "id": "ie-dail-1997",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "1997-06-06",
+      "totalSeats": 166,
+      "turnout": 65.9,
+      "source": {
+        "name": "Wikipedia, citing the Houses of the Oireachtas election results",
+        "url": "https://en.wikipedia.org/wiki/1997_Irish_general_election",
+        "revid": 1370021336
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 703682,
+          "pct": 39.3,
+          "seats": 77,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 499936,
+          "pct": 27.9,
+          "seats": 54,
+          "change": 9
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 186044,
+          "pct": 10.4,
+          "seats": 17,
+          "change": -16
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 123102,
+          "pct": 6.88,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Progressive Democrats",
+          "party": "pd",
+          "votes": 83765,
+          "pct": 4.7,
+          "seats": 4,
+          "change": -6
+        },
+        {
+          "name": "Democratic Left",
+          "party": "dl",
+          "votes": 44901,
+          "pct": 2.5,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 49323,
+          "pct": 2.8,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 45614,
+          "pct": 2.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 12445,
+          "pct": 0.7,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Party (1995)",
+          "party": "natp",
+          "votes": 19077,
+          "pct": 1.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21096,
+          "pct": 1.18,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Fianna Fáil (11,607 votes, 1 seat); the outgoing Ceann Comhairle retired at this election, as the article notes. The independents' share is 6.88% from the article's vote bar chart; the table says 7.9%, which does not match its 123,102 votes."
+    },
+    {
+      "id": "ie-dail-2002",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "2002-05-17",
+      "totalSeats": 166,
+      "turnout": 62.6,
+      "source": {
+        "name": "Wikipedia, citing the Houses of the Oireachtas election results",
+        "url": "https://en.wikipedia.org/wiki/2002_Irish_general_election",
+        "revid": 1370020782
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 770748,
+          "pct": 41.5,
+          "seats": 81,
+          "change": 8,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 417619,
+          "pct": 22.5,
+          "seats": 31,
+          "change": -23
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 200130,
+          "pct": 10.8,
+          "seats": 21,
+          "change": 4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 176305,
+          "pct": 9.5,
+          "seats": 13,
+          "change": 7
+        },
+        {
+          "name": "Progressive Democrats",
+          "party": "pd",
+          "votes": 73628,
+          "pct": 4,
+          "seats": 8,
+          "change": 4
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 71470,
+          "pct": 3.8,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 121020,
+          "pct": 6.5,
+          "seats": 5,
+          "change": 4
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 14896,
+          "pct": 0.8,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 12086,
+          "pct": 0.65,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Independents include Independent Health Alliance candidates (12,296 votes, 1 seat) and Independent Fianna Fáil (6,124 votes, 1 seat), as the article notes. Seats include the outgoing Ceann Comhairle, Séamus Pattison (Lab), returned automatically."
+    },
+    {
+      "id": "ie-dail-2007",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "2007-05-24",
+      "totalSeats": 166,
+      "turnout": 67,
+      "source": {
+        "name": "Wikipedia, citing the Houses of the Oireachtas election results",
+        "url": "https://en.wikipedia.org/wiki/2007_Irish_general_election",
+        "revid": 1375209604
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 858565,
+          "pct": 41.56,
+          "seats": 78,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 564428,
+          "pct": 27.32,
+          "seats": 51,
+          "change": 20
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 209175,
+          "pct": 10.13,
+          "seats": 20,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 96936,
+          "pct": 4.69,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 106429,
+          "pct": 5.15,
+          "seats": 5,
+          "change": -8
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 143410,
+          "pct": 6.94,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Progressive Democrats",
+          "party": "pd",
+          "votes": 56396,
+          "pct": 2.73,
+          "seats": 2,
+          "change": -6
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 30471,
+          "pct": 1.48,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Seats include the outgoing Ceann Comhairle, Rory O'Hanlon (FF), returned automatically."
+    },
+    {
+      "id": "ie-dail-2011",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "2011-02-25",
+      "totalSeats": 166,
+      "turnout": 69.9,
+      "source": {
+        "name": "Wikipedia, citing the Houses of the Oireachtas",
+        "url": "https://en.wikipedia.org/wiki/2011_Irish_general_election",
+        "revid": 1371051076
+      },
+      "candidates": [
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 801628,
+          "pct": 36.1,
+          "seats": 76,
+          "change": 25,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 431796,
+          "pct": 19.5,
+          "seats": 37,
+          "change": 17
+        },
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 387358,
+          "pct": 17.5,
+          "seats": 20,
+          "change": -58
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 269703,
+          "pct": 12.1,
+          "seats": 14,
+          "change": 9
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 220661,
+          "pct": 9.9,
+          "seats": 14,
+          "change": 10
+        },
+        {
+          "name": "Socialist Party",
+          "party": "sp",
+          "votes": 26770,
+          "pct": 1.2,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "People Before Profit",
+          "party": "pbpa",
+          "votes": 21551,
+          "pct": 1,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Workers and Unemployed Action",
+          "party": "wua",
+          "votes": 8818,
+          "pct": 0.4,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 41039,
+          "pct": 1.8,
+          "seats": 0,
+          "change": -6
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 11035,
+          "pct": 0.5,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Socialist Party, People Before Profit and Workers and Unemployed Action stood together as the United Left Alliance; the table lists them separately. Turnout is from the table caption. Seats include the outgoing Ceann Comhairle, Séamus Kirk, returned automatically."
+    },
+    {
+      "id": "ie-dail-2016",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "2016-02-26",
+      "totalSeats": 158,
+      "turnout": 65.1,
+      "source": {
+        "name": "Wikipedia, citing the Houses of the Oireachtas, RTÉ and The Irish Times",
+        "url": "https://en.wikipedia.org/wiki/2016_Irish_general_election",
+        "revid": 1373622720
+      },
+      "candidates": [
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 544230,
+          "pct": 25.5,
+          "seats": 50,
+          "change": -26,
+          "winner": true
+        },
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 519353,
+          "pct": 24.3,
+          "seats": 44,
+          "change": 25
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 295313,
+          "pct": 13.8,
+          "seats": 23,
+          "change": 9
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 249285,
+          "pct": 11.7,
+          "seats": 13,
+          "change": -1
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 140893,
+          "pct": 6.6,
+          "seats": 7,
+          "change": -30
+        },
+        {
+          "name": "Independent Alliance",
+          "party": "ia",
+          "votes": 88930,
+          "pct": 4.2,
+          "seats": 6,
+          "change": 6
+        },
+        {
+          "name": "Anti-Austerity Alliance–People Before Profit",
+          "party": "pbp",
+          "votes": 84168,
+          "pct": 3.9,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Independents 4 Change",
+          "party": "i4c",
+          "votes": 31365,
+          "pct": 1.5,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Social Democrats",
+          "party": "sd",
+          "votes": 64094,
+          "pct": 3,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 57997,
+          "pct": 2.7,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Renua",
+          "party": "renua",
+          "votes": 46552,
+          "pct": 2.2,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 14299,
+          "pct": 0.67,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The table's total row says 2,151,293 votes, but its party rows add up to 2,136,479, which is what its shares are based on, so that sum is used for the Others share. The Independent Alliance is a separate row in the table and is kept apart from the other independents. Turnout is from the infobox; the table gives no turnout. Seats include the outgoing Ceann Comhairle, Seán Barrett (FG), returned automatically."
+    },
+    {
+      "id": "ie-dail-2020",
+      "office": "Dáil Éireann",
+      "kind": "legislative",
+      "date": "2020-02-08",
+      "totalSeats": 160,
+      "turnout": 62.71,
+      "source": {
+        "name": "Wikipedia, citing the Houses of the Oireachtas",
+        "url": "https://en.wikipedia.org/wiki/2020_Irish_general_election",
+        "revid": 1371051136
+      },
+      "candidates": [
+        {
+          "name": "Fianna Fáil",
+          "party": "ff",
+          "votes": 484315,
+          "pct": 22.18,
+          "seats": 38,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Sinn Féin",
+          "party": "sf",
+          "votes": 535573,
+          "pct": 24.53,
+          "seats": 37,
+          "change": 14
+        },
+        {
+          "name": "Fine Gael",
+          "party": "fg",
+          "votes": 455568,
+          "pct": 20.86,
+          "seats": 35,
+          "change": -15
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 266353,
+          "pct": 12.2,
+          "seats": 19,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "grn",
+          "votes": 155695,
+          "pct": 7.13,
+          "seats": 12,
+          "change": 10
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 95582,
+          "pct": 4.38,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Social Democrats",
+          "party": "sd",
+          "votes": 63397,
+          "pct": 2.9,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "Solidarity–People Before Profit",
+          "party": "pbp",
+          "votes": 57420,
+          "pct": 2.63,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Aontú",
+          "party": "aontu",
+          "votes": 41575,
+          "pct": 1.9,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Independents 4 Change",
+          "party": "i4c",
+          "votes": 8421,
+          "pct": 0.39,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 19590,
+          "pct": 0.9,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Solidarity–People Before Profit is the table's total row for the alliance (People Before Profit, Solidarity and RISE). Seats include the outgoing Ceann Comhairle, Seán Ó Fearghaíl (FF), returned automatically."
+    },
+    {
+      "id": "ie-president-1959",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1959-06-17",
+      "note": "Voting age 21",
+      "turnout": 58.37,
+      "source": {
+        "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
+        "url": "https://en.wikipedia.org/wiki/1959_Irish_presidential_election",
+        "revid": 1369817335
+      },
+      "candidates": [
+        {
+          "name": "Éamon de Valera",
+          "party": "ff",
+          "votes": 538003,
+          "pct": 56.3,
+          "winner": true
+        },
+        {
+          "name": "Seán Mac Eoin",
+          "party": "fg",
+          "votes": 417536,
+          "pct": 43.7
+        }
+      ],
+      "notes": "Turnout is worked out from the table (979,628 votes cast, including 24,089 invalid, of 1,678,450 electors); shares are computed from the votes, which is how the results template displays them."
+    },
+    {
+      "id": "ie-president-1966",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1966-06-01",
+      "note": "Voting age 21",
+      "turnout": 65.35,
+      "source": {
+        "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
+        "url": "https://en.wikipedia.org/wiki/1966_Irish_presidential_election",
+        "revid": 1362013087
+      },
+      "candidates": [
+        {
+          "name": "Éamon de Valera",
+          "party": "ff",
+          "votes": 558861,
+          "pct": 50.48,
+          "winner": true
+        },
+        {
+          "name": "Tom O'Higgins",
+          "party": "fg",
+          "votes": 548144,
+          "pct": 49.52
+        }
+      ],
+      "notes": "Turnout is worked out from the table (1,116,915 votes cast, including 9,910 invalid, of 1,709,161 electors); shares are computed from the votes, which is how the results template displays them."
+    },
+    {
+      "id": "ie-president-1973",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1973-05-30",
+      "turnout": 62.22,
+      "source": {
+        "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
+        "url": "https://en.wikipedia.org/wiki/1973_Irish_presidential_election",
+        "revid": 1375255839
+      },
+      "candidates": [
+        {
+          "name": "Erskine H. Childers",
+          "party": "ff",
+          "votes": 635867,
+          "pct": 51.97,
+          "winner": true
+        },
+        {
+          "name": "Tom O'Higgins",
+          "party": "fg",
+          "votes": 587771,
+          "pct": 48.03
+        }
+      ],
+      "notes": "Turnout is worked out from the table (1,230,584 votes cast, including 6,946 invalid, of 1,977,817 electors); shares are computed from the votes, which is how the results template displays them."
+    },
+    {
+      "id": "ie-president-1990",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1990-11-07",
+      "turnout": 64.1,
+      "source": {
+        "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
+        "url": "https://en.wikipedia.org/wiki/1990_Irish_presidential_election",
+        "revid": 1346533201
+      },
+      "candidates": [
+        {
+          "name": "Brian Lenihan",
+          "party": "ff",
+          "votes": 694484,
+          "pct": 44.1
+        },
+        {
+          "name": "Mary Robinson",
+          "party": "lab",
+          "votes": 612265,
+          "pct": 38.9,
+          "winner": true
+        },
+        {
+          "name": "Austin Currie",
+          "party": "fg",
+          "votes": 267902,
+          "pct": 17
+        }
+      ],
+      "notes": "Votes and shares are first-count (first-preference) figures. Mary Robinson was elected on count 2, with 817,830 votes to Brian Lenihan's 731,273 (quota 787,326)."
+    },
+    {
+      "id": "ie-president-1997",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1997-10-30",
+      "turnout": 47.6,
+      "source": {
+        "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
+        "url": "https://en.wikipedia.org/wiki/1997_Irish_presidential_election",
+        "revid": 1357200761
+      },
+      "candidates": [
+        {
+          "name": "Mary McAleese",
+          "party": "ff",
+          "votes": 574424,
+          "pct": 45.2,
+          "winner": true
+        },
+        {
+          "name": "Mary Banotti",
+          "party": "fg",
+          "votes": 372002,
+          "pct": 29.3
+        },
+        {
+          "name": "Dana Rosemary Scallon",
+          "party": "indscallon",
+          "votes": 175458,
+          "pct": 13.8
+        },
+        {
+          "name": "Adi Roche",
+          "party": "lab",
+          "votes": 88423,
+          "pct": 6.9
+        },
+        {
+          "name": "Derek Nally",
+          "party": "indnally",
+          "votes": 59529,
+          "pct": 4.7
+        }
+      ],
+      "notes": "Votes and shares are first-count (first-preference) figures. Mary McAleese was elected on count 2, with 706,259 votes to Mary Banotti's 497,516 (quota 634,919)."
+    },
+    {
+      "id": "ie-president-2011",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2011-10-27",
+      "turnout": 56.1,
+      "source": {
+        "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
+        "url": "https://en.wikipedia.org/wiki/2011_Irish_presidential_election",
+        "revid": 1373790907
+      },
+      "candidates": [
+        {
+          "name": "Michael D. Higgins",
+          "party": "lab",
+          "votes": 701101,
+          "pct": 39.6,
+          "winner": true
+        },
+        {
+          "name": "Seán Gallagher",
+          "party": "indgallagher",
+          "votes": 504964,
+          "pct": 28.5
+        },
+        {
+          "name": "Martin McGuinness",
+          "party": "sf",
+          "votes": 243030,
+          "pct": 13.7
+        },
+        {
+          "name": "Gay Mitchell",
+          "party": "fg",
+          "votes": 113321,
+          "pct": 6.4
+        },
+        {
+          "name": "David Norris",
+          "party": "indnorris",
+          "votes": 109469,
+          "pct": 6.2
+        },
+        {
+          "name": "Dana Rosemary Scallon",
+          "party": "indscallon",
+          "votes": 51220,
+          "pct": 2.9
+        },
+        {
+          "name": "Mary Davis",
+          "party": "inddavis",
+          "votes": 48657,
+          "pct": 2.7
+        }
+      ],
+      "notes": "Votes and shares are first-count (first-preference) figures. Michael D. Higgins was elected on count 4, with 1,007,104 votes to Seán Gallagher's 628,114 (quota 885,882)."
+    },
+    {
+      "id": "ie-president-2018",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2018-10-26",
+      "turnout": 43.9,
+      "source": {
+        "name": "Wikipedia, citing the Department of Housing, Planning and Local Government (Presidential Election Results 1938–2018)",
+        "url": "https://en.wikipedia.org/wiki/2018_Irish_presidential_election",
+        "revid": 1373791253
+      },
+      "candidates": [
+        {
+          "name": "Michael D. Higgins",
+          "party": "indhiggins",
+          "votes": 822566,
+          "pct": 55.81,
+          "winner": true
+        },
+        {
+          "name": "Peter Casey",
+          "party": "indcasey",
+          "votes": 342727,
+          "pct": 23.25
+        },
+        {
+          "name": "Seán Gallagher",
+          "party": "indgallagher",
+          "votes": 94514,
+          "pct": 6.41
+        },
+        {
+          "name": "Liadh Ní Riada",
+          "party": "sf",
+          "votes": 93987,
+          "pct": 6.38
+        },
+        {
+          "name": "Joan Freeman",
+          "party": "indfreeman",
+          "votes": 87908,
+          "pct": 5.96
+        },
+        {
+          "name": "Gavin Duffy",
+          "party": "indduffy",
+          "votes": 32198,
+          "pct": 2.18
+        }
+      ],
+      "notes": "Votes and shares are first-count (first-preference) figures. Michael D. Higgins stood as an independent, nominating himself as the outgoing president; the other independents were nominated by county and city councils."
+    }
+  ]
+}

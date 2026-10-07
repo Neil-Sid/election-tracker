@@ -1,0 +1,4251 @@
+{
+ "code": "ES",
+ "parties": {
+  "ucd": {
+   "name": "Union of the Democratic Centre",
+   "color": "#A5C83C",
+   "article": "Union of the Democratic Centre (Spain)"
+  },
+  "pce": {
+   "name": "Communist Party of Spain",
+   "color": "#971324",
+   "article": "Communist Party of Spain"
+  },
+  "ap": {
+   "name": "People's Alliance",
+   "color": "#FFA519",
+   "article": "People's Alliance (Spain)"
+  },
+  "cd": {
+   "name": "Democratic Coalition",
+   "color": "#8E9629",
+   "article": "Democratic Coalition (Spain)"
+  },
+  "cp": {
+   "name": "People's Coalition",
+   "color": "#3282A8",
+   "article": "People's Coalition (Spain)"
+  },
+  "psp": {
+   "name": "People's Socialist Party–Socialist Unity",
+   "color": "#FF7979",
+   "article": "People's Socialist Party (Spain)"
+  },
+  "pdc": {
+   "name": "Democratic Pact for Catalonia",
+   "color": "#FFC400",
+   "article": "Democratic Pact for Catalonia"
+  },
+  "edcee": {
+   "name": "Christian Democratic Team of the Spanish State",
+   "color": "#E94E1B",
+   "article": "Christian Democratic Team of the Spanish State"
+  },
+  "ecfed": {
+   "name": "Left of Catalonia–Democratic Electoral Front",
+   "color": "#EFF24C",
+   "article": "Left of Catalonia–Democratic Electoral Front"
+  },
+  "ee": {
+   "name": "Basque Country Left",
+   "color": "#80DF20",
+   "article": "Euskadiko Ezkerra"
+  },
+  "caic": {
+   "name": "Centre Independent Aragonese Candidacy",
+   "color": "#FFCC66",
+   "article": "Centre Independent Aragonese Candidacy"
+  },
+  "cic": {
+   "name": "Centre Independent Candidacy",
+   "color": "#5C6BC0"
+  },
+  "entesa": {
+   "name": "Agreement of the Catalans",
+   "color": "#FFD901",
+   "article": "Agreement of the Catalans"
+  },
+  "sd": {
+   "name": "Democratic Senate",
+   "color": "#DB64DB",
+   "article": "Democratic Senate"
+  },
+  "fa": {
+   "name": "Autonomous Front",
+   "color": "#04AD0F",
+   "article": "Autonomous Front"
+  },
+  "psi": {
+   "name": "Independent Progressives and Socialists",
+   "color": "#FF6F9D"
+  },
+  "dic": {
+   "name": "Democracy and Catalonia",
+   "color": "#F6BA1B",
+   "article": "Democracy and Catalonia"
+  },
+  "cdg": {
+   "name": "Galician Democratic Candidacy",
+   "color": "#15EAEA",
+   "article": "Galician Democratic Candidacy"
+  },
+  "xirinacs": {
+   "name": "Xirinacs Electoral Group",
+   "color": "#9575CD"
+  },
+  "caud": {
+   "name": "Aragonese Candidacy of Democratic Unity",
+   "color": "#473C38"
+  },
+  "ids": {
+   "name": "Independents of Soria",
+   "color": "#8D6E63"
+  },
+  "am": {
+   "name": "Majorera Assembly",
+   "color": "#284BAF",
+   "article": "Majorera Assembly"
+  },
+  "asdci": {
+   "name": "Democratic Socialist Alliance",
+   "color": "#8E24AA",
+   "article": "Democratic Socialist Alliance (Spain)"
+  },
+  "ciu": {
+   "name": "Convergence and Union",
+   "color": "#18307B",
+   "article": "Convergence and Union"
+  },
+  "hb": {
+   "name": "Popular Unity (Herri Batasuna)",
+   "color": "#633000",
+   "article": "Herri Batasuna"
+  },
+  "pa": {
+   "name": "Andalusian Party",
+   "color": "#005931",
+   "article": "Andalusian Party"
+  },
+  "par": {
+   "name": "Aragonese Party",
+   "color": "#FFCC66",
+   "article": "Aragonese Party"
+  },
+  "upc": {
+   "name": "Canarian People's Union",
+   "color": "#BA0033",
+   "article": "Canarian People's Union"
+  },
+  "un": {
+   "name": "National Union",
+   "color": "#383CA8",
+   "article": "National Union (Spain)"
+  },
+  "upn": {
+   "name": "Navarrese People's Union",
+   "color": "#00599B",
+   "article": "Navarrese People's Union"
+  },
+  "pte": {
+   "name": "Party of Labour of Spain",
+   "color": "#B51818",
+   "article": "Party of Labour of Spain"
+  },
+  "adei": {
+   "name": "Group of Independent Electors",
+   "color": "#8D6E63"
+  },
+  "nacord": {
+   "name": "New Agreement",
+   "color": "#FFE647",
+   "article": "New Agreement"
+  },
+  "pelacord": {
+   "name": "For the Agreement",
+   "color": "#FC572D",
+   "article": "For the Agreement"
+  },
+  "psm": {
+   "name": "Menorcan Progressive Candidacy",
+   "color": "#F18E00",
+   "article": "Socialist Party of Menorca"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#5B6C7D"
+  },
+  "cds": {
+   "name": "Democratic and Social Centre",
+   "color": "#2BB3A0",
+   "article": "Democratic and Social Centre (Spain)"
+  },
+  "catsen": {
+   "name": "Catalonia in the Senate",
+   "color": "#FFD74D",
+   "article": "Catalonia in the Senate"
+  },
+  "reform": {
+   "name": "Reformists (PRD–CiU–CG)",
+   "color": "#333176",
+   "article": "Miquel Roca"
+  },
+  "iu": {
+   "name": "United Left",
+   "color": "#732021",
+   "article": "United Left (Spain)"
+  },
+  "muc": {
+   "name": "Communists' Unity Board",
+   "color": "#B51818",
+   "article": "Communists' Unity Board"
+  },
+  "aic": {
+   "name": "Canarian Independent Groups",
+   "color": "#000088",
+   "article": "Canarian Independent Groups"
+  },
+  "uv": {
+   "name": "Valencian Union",
+   "color": "#1F4473",
+   "article": "Valencian Union"
+  },
+  "ea": {
+   "name": "Basque Solidarity",
+   "color": "#77AC1C",
+   "article": "Eusko Alkartasuna"
+  },
+  "ruizmateos": {
+   "name": "Ruiz-Mateos Group",
+   "color": "#7E57C2",
+   "article": "Ruiz-Mateos Group"
+  },
+  "cc": {
+   "name": "Canarian Coalition",
+   "color": "#FFD700",
+   "article": "Canarian Coalition"
+  },
+  "bng": {
+   "name": "Galician Nationalist Bloc",
+   "color": "#ADCFEF",
+   "article": "Galician Nationalist Bloc"
+  },
+  "pil": {
+   "name": "Lanzarote Independents Party",
+   "color": "#31B404",
+   "article": "Lanzarote Independents Party"
+  },
+  "pacte": {
+   "name": "Pacte Progressista",
+   "color": "#EC407A",
+   "article": "Pacte Progressista"
+  },
+  "cha": {
+   "name": "Aragonese Union (CHA)",
+   "color": "#008A21",
+   "article": "Chunta Aragonesista"
+  },
+  "icv": {
+   "name": "Initiative for Catalonia Greens",
+   "color": "#4E9E41",
+   "article": "Initiative for Catalonia Greens"
+  },
+  "ecprog": {
+   "name": "Catalan Agreement of Progress",
+   "color": "#FA8005",
+   "article": "Catalan Agreement of Progress"
+  },
+  "nabai": {
+   "name": "Navarre Yes (Nafarroa Bai)",
+   "color": "#F75E42",
+   "article": "Nafarroa Bai"
+  },
+  "ahi": {
+   "name": "Independent Herrenian Group",
+   "color": "#29AA4D",
+   "article": "Independent Herrenian Group"
+  },
+  "ccpnc": {
+   "name": "Canarian Coalition–Canarian Nationalist Party",
+   "color": "#FFD700",
+   "article": "Agreement of Nationalist Unity"
+  },
+  "upyd": {
+   "name": "Union, Progress and Democracy",
+   "color": "#E9008C",
+   "article": "Union, Progress and Democracy"
+  },
+  "psoeexc": {
+   "name": "PSOE–Ibiza for Change",
+   "color": "#FF6633",
+   "article": "Socialist Party of the Balearic Islands"
+  },
+  "amaiur": {
+   "name": "Amaiur",
+   "color": "#087178",
+   "article": "Amaiur"
+  },
+  "gbai": {
+   "name": "Yes to the Future (Geroa Bai)",
+   "color": "#F75E42",
+   "article": "Geroa Bai"
+  },
+  "fac": {
+   "name": "Forum of Citizens",
+   "color": "#00BFA5",
+   "article": "Asturias Forum"
+  },
+  "compromis": {
+   "name": "Compromís",
+   "color": "#EC8953",
+   "article": "Coalició Compromís"
+  },
+  "ercsi": {
+   "name": "Republican Left of Catalonia–Catalonia Yes",
+   "color": "#FFB232",
+   "article": "Republican Left of Catalonia–Catalonia Yes"
+  },
+  "podemos": {
+   "name": "Podemos",
+   "color": "#5A205A",
+   "article": "Podemos (Spanish political party)"
+  },
+  "cs": {
+   "name": "Citizens",
+   "color": "#EB6109",
+   "article": "Citizens (Spanish political party)"
+  },
+  "dil": {
+   "name": "Democracy and Freedom",
+   "color": "#212765",
+   "article": "Democracy and Freedom"
+  },
+  "pacma": {
+   "name": "Animalist Party (PACMA)",
+   "color": "#8D6E63",
+   "article": "Animalist Party with the Environment"
+  },
+  "cambio": {
+   "name": "Change (Cambio/Aldaketa)",
+   "color": "#26A69A",
+   "article": "Cambio-Aldaketa"
+  },
+  "asg": {
+   "name": "Gomera Socialist Group",
+   "color": "#B61414",
+   "article": "Gomera Socialist Group"
+  },
+  "up": {
+   "name": "Unidas Podemos",
+   "color": "#7B4977",
+   "article": "Unidas Podemos"
+  },
+  "cdc": {
+   "name": "Democratic Convergence of Catalonia",
+   "color": "#232D7B",
+   "article": "Democratic Convergence of Catalonia"
+  },
+  "jxcat": {
+   "name": "Together for Catalonia (JxCat)",
+   "color": "#ED5975",
+   "article": "Together for Catalonia (2017)"
+  },
+  "ercsob": {
+   "name": "Republican Left of Catalonia–Sovereigntists",
+   "color": "#FFB232",
+   "article": "Republican Left of Catalonia–Sovereigntists"
+  },
+  "nasuma": {
+   "name": "Navarra Suma",
+   "color": "#819DA3",
+   "article": "Navarra Suma"
+  },
+  "prc": {
+   "name": "Regionalist Party of Cantabria",
+   "color": "#C2CE0C",
+   "article": "Regionalist Party of Cantabria"
+  },
+  "maspais": {
+   "name": "Más País",
+   "color": "#0FDEC4",
+   "article": "Más País"
+  },
+  "cup": {
+   "name": "Popular Unity Candidacy",
+   "color": "#AB47BC",
+   "article": "Popular Unity Candidacy"
+  },
+  "te": {
+   "name": "Teruel Existe",
+   "color": "#037252",
+   "article": "Teruel Existe"
+  }
+ },
+ "elections": [
+  {
+   "id": "es-congress-1977",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1977-06-15",
+   "totalSeats": 350,
+   "turnout": 78.83,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1977_Spanish_general_election",
+    "revid": 1372103981
+   },
+   "candidates": [
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": 6310391,
+     "pct": 34.44,
+     "seats": 165,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 5371866,
+     "pct": 29.32,
+     "seats": 118,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Spain (PCE)",
+     "party": "pce",
+     "votes": 1709890,
+     "pct": 9.33,
+     "seats": 20,
+     "change": null
+    },
+    {
+     "name": "People's Alliance (AP)",
+     "party": "ap",
+     "votes": 1526671,
+     "pct": 8.33,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Democratic Pact for Catalonia (PDC)",
+     "party": "pdc",
+     "votes": 514647,
+     "pct": 2.81,
+     "seats": 11,
+     "change": null
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 296193,
+     "pct": 1.62,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "People's Socialist Party–Socialist Unity (PSP–US)",
+     "party": "psp",
+     "votes": 828461,
+     "pct": 4.52,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Team of the Spanish State (EDCEE)",
+     "party": "edcee",
+     "votes": 417678,
+     "pct": 2.28,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Left of Catalonia–Democratic Electoral Front (EC–FED)",
+     "party": "ecfed",
+     "votes": 143954,
+     "pct": 0.79,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Basque Country Left–Navarrese Left Union (EE–UNAI)",
+     "party": "ee",
+     "votes": 85906,
+     "pct": 0.47,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Centre Independent Aragonese Candidacy (CAIC)",
+     "party": "caic",
+     "votes": 37183,
+     "pct": 0.2,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Centre Independent Candidacy (CIC)",
+     "party": "cic",
+     "votes": 29834,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1051659,
+     "pct": 5.74,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 46,248 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla). All seat changes are n/a in the source (first election).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "ucd",
+    "AS": "psoe",
+    "IB": "ucd",
+    "PV": "pnv",
+    "CN": "ucd",
+    "CB": "ucd",
+    "CL": "ucd",
+    "CM": "ucd",
+    "CT": "psoe",
+    "EX": "ucd",
+    "GA": "ucd",
+    "RI": "ucd",
+    "MD": "ucd",
+    "MC": "ucd",
+    "NC": "ucd",
+    "VC": "psoe",
+    "CE": "ucd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1977_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1977",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1977-06-15",
+   "totalSeats": 207,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1977_Spanish_general_election",
+    "revid": 1372103981
+   },
+   "candidates": [
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": 15472170,
+     "pct": 29.88,
+     "seats": 106,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 5714036,
+     "pct": 11.04,
+     "seats": 35,
+     "change": null
+    },
+    {
+     "name": "Democratic Senate (SD)",
+     "party": "sd",
+     "votes": 5444924,
+     "pct": 10.52,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Agreement of the Catalans (Entesa)",
+     "party": "entesa",
+     "votes": 4701586,
+     "pct": 9.08,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "Autonomous Front (FA)",
+     "party": "fa",
+     "votes": 1711591,
+     "pct": 3.31,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Independent Progressives and Socialists (PSI)",
+     "party": "psi",
+     "votes": 1594509,
+     "pct": 3.08,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Independents of Soria (IDS)",
+     "party": "ids",
+     "votes": 75080,
+     "pct": 0.15,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Galician Democratic Candidacy (CDG)",
+     "party": "cdg",
+     "votes": 602260,
+     "pct": 1.16,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Aragonese Candidacy of Democratic Unity (CAUD)",
+     "party": "caud",
+     "votes": 538538,
+     "pct": 1.04,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "People's Alliance (AP)",
+     "party": "ap",
+     "votes": 4749232,
+     "pct": 9.17,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "People's Socialist Party–Socialist Unity (PSP–US)",
+     "party": "psp",
+     "votes": 2616458,
+     "pct": 5.05,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Democracy and Catalonia (DiC)",
+     "party": "dic",
+     "votes": 1322341,
+     "pct": 2.55,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Xirinacs Electoral Group (AE Xirinacs)",
+     "party": "xirinacs",
+     "votes": 550678,
+     "pct": 1.06,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Centre Independent Aragonese Candidacy (CAIC)",
+     "party": "caic",
+     "votes": 311429,
+     "pct": 0.6,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Basque Country Left–Navarrese Left Union (EE–UNAI)",
+     "party": "ee",
+     "votes": 225324,
+     "pct": 0.44,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Majorera Assembly (AM)",
+     "party": "am",
+     "votes": 3182,
+     "pct": 0.01,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Spain (PCE)",
+     "party": "pce",
+     "votes": 1014272,
+     "pct": 1.96,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Team of the Spanish State (EDCEE)",
+     "party": "edcee",
+     "votes": 811519,
+     "pct": 1.57,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 761943,
+     "pct": 1.47,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Democratic Socialist Alliance (PSOEh–PSDE)",
+     "party": "asdci",
+     "votes": 609633,
+     "pct": 1.18,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2948556,
+     "pct": 5.69,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total. The source table gives no turnout for this Senate election. All seat changes are n/a in the source (first election). Independents is the sum of the table's independent candidacies."
+  },
+  {
+   "id": "es-congress-1979",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1979-03-01",
+   "totalSeats": 350,
+   "turnout": 68.04,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1979_Spanish_general_election",
+    "revid": 1370857412
+   },
+   "candidates": [
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": 6268593,
+     "pct": 34.84,
+     "seats": 168,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 5469813,
+     "pct": 30.4,
+     "seats": 121,
+     "change": -3
+    },
+    {
+     "name": "Communist Party of Spain (PCE)",
+     "party": "pce",
+     "votes": 1938487,
+     "pct": 10.77,
+     "seats": 23,
+     "change": 3
+    },
+    {
+     "name": "Democratic Coalition (CD)",
+     "party": "cd",
+     "votes": 1094438,
+     "pct": 6.08,
+     "seats": 9,
+     "change": -7
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 483353,
+     "pct": 2.69,
+     "seats": 8,
+     "change": -5
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 296597,
+     "pct": 1.65,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Socialist Party of Andalusia–Andalusian Party (PSA–PA)",
+     "party": "pa",
+     "votes": 325842,
+     "pct": 1.81,
+     "seats": 5,
+     "change": 5
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 172110,
+     "pct": 0.96,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "National Union (UN)",
+     "party": "un",
+     "votes": 378964,
+     "pct": 2.11,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Republican Left of Catalonia–National Front of Catalonia (ERC–FNC)",
+     "party": "erc",
+     "votes": 123452,
+     "pct": 0.69,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Basque Country Left (EE)",
+     "party": "ee",
+     "votes": 85677,
+     "pct": 0.48,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Canarian People's Union (UPC)",
+     "party": "upc",
+     "votes": 58953,
+     "pct": 0.33,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Regionalist Aragonese Party (PAR)",
+     "party": "par",
+     "votes": 38042,
+     "pct": 0.21,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Navarrese People's Union (UPN)",
+     "party": "upn",
+     "votes": 28248,
+     "pct": 0.16,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Party of Labour of Spain (PTE)",
+     "party": "pte",
+     "votes": 192798,
+     "pct": 1.07,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1035548,
+     "pct": 5.76,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 57,267 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "ucd",
+    "AS": "psoe",
+    "IB": "ucd",
+    "PV": "pnv",
+    "CN": "ucd",
+    "CB": "ucd",
+    "CL": "ucd",
+    "CM": "ucd",
+    "CT": "psoe",
+    "EX": "ucd",
+    "GA": "ucd",
+    "RI": "ucd",
+    "MD": "psoe",
+    "MC": "psoe",
+    "NC": "ucd",
+    "VC": "psoe",
+    "CE": "ucd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1979_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1979",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1979-03-01",
+   "totalSeats": 208,
+   "turnout": 67.43,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1979_Spanish_general_election",
+    "revid": 1370857412
+   },
+   "candidates": [
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": 16691333,
+     "pct": 33.23,
+     "seats": 119,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 12762128,
+     "pct": 25.41,
+     "seats": 60,
+     "change": -1
+    },
+    {
+     "name": "New Agreement (PSC–ERC)",
+     "party": "nacord",
+     "votes": 2708504,
+     "pct": 5.39,
+     "seats": 10,
+     "change": 2
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 843452,
+     "pct": 1.68,
+     "seats": 8,
+     "change": -2
+    },
+    {
+     "name": "Democratic Coalition (CD)",
+     "party": "cd",
+     "votes": 2897073,
+     "pct": 5.77,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Group of Independent Electors (ADEI)",
+     "party": "adei",
+     "votes": 63257,
+     "pct": 0.13,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "For the Agreement (PSUC–PTC)",
+     "party": "pelacord",
+     "votes": 1832941,
+     "pct": 3.65,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 1387176,
+     "pct": 2.76,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 465852,
+     "pct": 0.93,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 86347,
+     "pct": 0.17,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Menorcan Progressive Candidacy (PSM–PSOE–PCIB–PTI)",
+     "party": "psm",
+     "votes": 11745,
+     "pct": 0.02,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Communist Party of Spain (PCE)",
+     "party": "pce",
+     "votes": 4407905,
+     "pct": 8.78,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "National Union (UN)",
+     "party": "un",
+     "votes": 1089883,
+     "pct": 2.17,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Socialist Party of Andalusia–Andalusian Party (PSA–PA)",
+     "party": "pa",
+     "votes": 1026345,
+     "pct": 2.04,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3958577,
+     "pct": 7.88,
+     "seats": 0,
+     "change": -10
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 259,613 blank ballots. Independents is the sum of the table's independent candidacies."
+  },
+  {
+   "id": "es-congress-1982",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1982-10-28",
+   "totalSeats": 350,
+   "turnout": 79.97,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1982_Spanish_general_election",
+    "revid": 1370710738
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 10127392,
+     "pct": 48.11,
+     "seats": 202,
+     "change": 81,
+     "winner": true
+    },
+    {
+     "name": "People's Alliance–People's Democratic Party (AP–PDP)",
+     "party": "cp",
+     "votes": 5548107,
+     "pct": 26.36,
+     "seats": 107,
+     "change": 91
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 772726,
+     "pct": 3.67,
+     "seats": 12,
+     "change": 4
+    },
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": 1425093,
+     "pct": 6.77,
+     "seats": 11,
+     "change": -152
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 395656,
+     "pct": 1.88,
+     "seats": 8,
+     "change": 1
+    },
+    {
+     "name": "Communist Party of Spain (PCE)",
+     "party": "pce",
+     "votes": 865272,
+     "pct": 4.11,
+     "seats": 4,
+     "change": -19
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 604309,
+     "pct": 2.87,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 210601,
+     "pct": 1,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Republican Left of Catalonia (ERC)",
+     "party": "erc",
+     "votes": 138118,
+     "pct": 0.66,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Basque Country Left–Left for Socialism (EE)",
+     "party": "ee",
+     "votes": 100326,
+     "pct": 0.48,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Socialist Party of Andalusia–Andalusian Party (PSA–PA)",
+     "party": "pa",
+     "votes": 84474,
+     "pct": 0.4,
+     "seats": 0,
+     "change": -5
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 777964,
+     "pct": 3.7,
+     "seats": 0,
+     "change": -2
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 98,438 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "psoe",
+    "PV": "pnv",
+    "CN": "psoe",
+    "CB": "psoe",
+    "CL": "psoe",
+    "CM": "psoe",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "cp",
+    "RI": "psoe",
+    "MD": "psoe",
+    "MC": "psoe",
+    "NC": "psoe",
+    "VC": "psoe",
+    "CE": "psoe"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1982_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1982",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1982-10-28",
+   "totalSeats": 208,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1982_Spanish_general_election",
+    "revid": 1370710738
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 27954856,
+     "pct": 47.6,
+     "seats": 134,
+     "change": 66,
+     "winner": true
+    },
+    {
+     "name": "People's Alliance–People's Democratic Party (AP–PDP)",
+     "party": "cp",
+     "votes": 15084392,
+     "pct": 25.68,
+     "seats": 54,
+     "change": 49
+    },
+    {
+     "name": "Catalonia in the Senate (CiU–ERC)",
+     "party": "catsen",
+     "votes": 2503525,
+     "pct": 4.26,
+     "seats": 7,
+     "change": 4
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 1171730,
+     "pct": 2,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": 4017007,
+     "pct": 6.84,
+     "seats": 4,
+     "change": -113
+    },
+    {
+     "name": "Group of Independent Electors (ADEI)",
+     "party": "adei",
+     "votes": 17009,
+     "pct": 0.03,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Majorera Assembly (AM)",
+     "party": "am",
+     "votes": 6325,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Communist Party of Spain (PCE)",
+     "party": "pce",
+     "votes": 2687352,
+     "pct": 4.58,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 1748765,
+     "pct": 2.98,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 619873,
+     "pct": 1.06,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2922122,
+     "pct": 4.98,
+     "seats": 0,
+     "change": -2
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 171,830 blank ballots. The source table gives no turnout for this Senate election."
+  },
+  {
+   "id": "es-congress-1986",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1986-06-22",
+   "totalSeats": 350,
+   "turnout": 70.49,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1986_Spanish_general_election",
+    "revid": 1378818029
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 8901718,
+     "pct": 44.06,
+     "seats": 184,
+     "change": -18,
+     "winner": true
+    },
+    {
+     "name": "People's Coalition (AP–PDP–PL)",
+     "party": "cp",
+     "votes": 5247677,
+     "pct": 25.97,
+     "seats": 105,
+     "change": -2
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 1861912,
+     "pct": 9.22,
+     "seats": 19,
+     "change": 17
+    },
+    {
+     "name": "Reformists (PRD–CiU–CG)",
+     "party": "reform",
+     "votes": 1288768,
+     "pct": 6.38,
+     "seats": 19,
+     "change": 7
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 935504,
+     "pct": 4.63,
+     "seats": 7,
+     "change": 3
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 309610,
+     "pct": 1.53,
+     "seats": 6,
+     "change": -2
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 231722,
+     "pct": 1.15,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "Basque Country Left (EE)",
+     "party": "ee",
+     "votes": 107053,
+     "pct": 0.53,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Regionalist Aragonese Party (PAR)",
+     "party": "par",
+     "votes": 73004,
+     "pct": 0.36,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Canarian Independent Groups (AIC)",
+     "party": "aic",
+     "votes": 65664,
+     "pct": 0.33,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Valencian Union (UV)",
+     "party": "uv",
+     "votes": 64403,
+     "pct": 0.32,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Communists' Unity Board (MUC)",
+     "party": "muc",
+     "votes": 229695,
+     "pct": 1.14,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Union of the Democratic Centre (UCD)",
+     "party": "ucd",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": -11
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 886189,
+     "pct": 4.39,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 121,186 blank ballots. Ceuta (psoe) and Melilla (cp) had different winners, so CE is left out. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla). UCD is listed with no votes, as in the source table, to show its seat loss.",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "psoe",
+    "PV": "pnv",
+    "CN": "psoe",
+    "CB": "psoe",
+    "CL": "psoe",
+    "CM": "psoe",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "cp",
+    "RI": "psoe",
+    "MD": "psoe",
+    "MC": "psoe",
+    "NC": "psoe",
+    "VC": "psoe"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1986_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1986",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1986-06-22",
+   "totalSeats": 208,
+   "turnout": 70.32,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1986_Spanish_general_election",
+    "revid": 1378818029
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 24719863,
+     "pct": 44.52,
+     "seats": 124,
+     "change": -10,
+     "winner": true
+    },
+    {
+     "name": "People's Coalition (AP–PDP–PL)",
+     "party": "cp",
+     "votes": 14485103,
+     "pct": 26.09,
+     "seats": 63,
+     "change": 9
+    },
+    {
+     "name": "Reformists (PRD–CiU–CG)",
+     "party": "reform",
+     "votes": 3687520,
+     "pct": 6.64,
+     "seats": 8,
+     "change": 3
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 934198,
+     "pct": 1.68,
+     "seats": 7,
+     "change": 0
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 4537464,
+     "pct": 8.17,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 677204,
+     "pct": 1.22,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Canarian Independent Groups (AIC)",
+     "party": "aic",
+     "votes": 130173,
+     "pct": 0.23,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Majorera Assembly (AM)",
+     "party": "am",
+     "votes": 5604,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 2583230,
+     "pct": 4.65,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Communists' Unity Board (MUC)",
+     "party": "muc",
+     "votes": 651544,
+     "pct": 1.17,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3115425,
+     "pct": 5.61,
+     "seats": 0,
+     "change": -7
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 311,305 blank ballots."
+  },
+  {
+   "id": "es-congress-1989",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1989-10-29",
+   "totalSeats": 350,
+   "turnout": 69.74,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1989_Spanish_general_election",
+    "revid": 1378818033
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 8115568,
+     "pct": 39.6,
+     "seats": 175,
+     "change": -9,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 5285972,
+     "pct": 25.79,
+     "seats": 107,
+     "change": 2
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 1032243,
+     "pct": 5.04,
+     "seats": 18,
+     "change": 0
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 1858588,
+     "pct": 9.07,
+     "seats": 17,
+     "change": 10
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 1617716,
+     "pct": 7.89,
+     "seats": 14,
+     "change": -5
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 254681,
+     "pct": 1.24,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 217278,
+     "pct": 1.06,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Andalusian Party (PA)",
+     "party": "pa",
+     "votes": 212687,
+     "pct": 1.04,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Valencian Union (UV)",
+     "party": "uv",
+     "votes": 144924,
+     "pct": 0.71,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Basque Solidarity (EA)",
+     "party": "ea",
+     "votes": 136955,
+     "pct": 0.67,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Basque Country Left (EE)",
+     "party": "ee",
+     "votes": 105238,
+     "pct": 0.51,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Regionalist Aragonese Party (PAR)",
+     "party": "par",
+     "votes": 71733,
+     "pct": 0.35,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Canarian Independent Groups (AIC)",
+     "party": "aic",
+     "votes": 64767,
+     "pct": 0.32,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Ruiz-Mateos Group (Ruiz-Mateos)",
+     "party": "ruizmateos",
+     "votes": 219883,
+     "pct": 1.07,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1155449,
+     "pct": 5.64,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 141,795 blank ballots. Ceuta (psoe) and Melilla (pp) had different winners, so CE is left out. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla). Seats include the result of the re-run vote in Melilla on 25 March 1990, as in the source table (initial count: PSOE 176, PP 106).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "pp",
+    "PV": "pnv",
+    "CN": "psoe",
+    "CB": "psoe",
+    "CL": "pp",
+    "CM": "psoe",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "psoe",
+    "NC": "pp",
+    "VC": "psoe"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1989_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1989",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1989-10-29",
+   "totalSeats": 208,
+   "turnout": 69.87,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1989_Spanish_general_election",
+    "revid": 1378818033
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 22272484,
+     "pct": 40.14,
+     "seats": 107,
+     "change": -17,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 14459290,
+     "pct": 26.06,
+     "seats": 78,
+     "change": 15
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 2937029,
+     "pct": 5.29,
+     "seats": 10,
+     "change": 2
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 742058,
+     "pct": 1.34,
+     "seats": 4,
+     "change": -3
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 631299,
+     "pct": 1.14,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Canarian Independent Groups (AIC)",
+     "party": "aic",
+     "votes": 113524,
+     "pct": 0.2,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 4866930,
+     "pct": 8.77,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 4218268,
+     "pct": 7.6,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Majorera Assembly (AM)",
+     "party": "am",
+     "votes": 5268,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Independent Herrenian Group (AHI)",
+     "party": "ahi",
+     "votes": 1219,
+     "pct": 0,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Andalusian Party (PA)",
+     "party": "pa",
+     "votes": 638137,
+     "pct": 1.15,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4596276,
+     "pct": 8.28,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 334,118 blank ballots. Seats include the re-runs in Melilla (25 March 1990) and Ávila (7 October 1990), as in the source table (initial count: PSOE 109, PP 74, CDS 3)."
+  },
+  {
+   "id": "es-congress-1993",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1993-06-06",
+   "totalSeats": 350,
+   "turnout": 76.44,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1993_Spanish_general_election",
+    "revid": 1378818036
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 9150083,
+     "pct": 38.78,
+     "seats": 159,
+     "change": -18,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 8201463,
+     "pct": 34.76,
+     "seats": 141,
+     "change": 34
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 2253722,
+     "pct": 9.55,
+     "seats": 18,
+     "change": 1
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 1165783,
+     "pct": 4.94,
+     "seats": 17,
+     "change": -1
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 291448,
+     "pct": 1.24,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 207077,
+     "pct": 0.88,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 206876,
+     "pct": 0.88,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "Republican Left of Catalonia (ERC)",
+     "party": "erc",
+     "votes": 189632,
+     "pct": 0.8,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Aragonese Party (PAR)",
+     "party": "par",
+     "votes": 144544,
+     "pct": 0.61,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Basque Solidarity–Basque Left (EA–EuE)",
+     "party": "ea",
+     "votes": 129293,
+     "pct": 0.55,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Valencian Union (UV)",
+     "party": "uv",
+     "votes": 112341,
+     "pct": 0.48,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 414740,
+     "pct": 1.76,
+     "seats": 0,
+     "change": -14
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1124862,
+     "pct": 4.77,
+     "seats": 0,
+     "change": -2
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 188,679 blank ballots. Ceuta (pp) and Melilla (psoe) had different winners, so CE is left out. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "pp",
+    "PV": "psoe",
+    "CN": "pp",
+    "CB": "psoe",
+    "CL": "pp",
+    "CM": "psoe",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1993_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1993",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1993-06-06",
+   "totalSeats": 208,
+   "turnout": 76.49,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1993_Spanish_general_election",
+    "revid": 1378818036
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 25441605,
+     "pct": 39.02,
+     "seats": 96,
+     "change": -11,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 22467236,
+     "pct": 34.46,
+     "seats": 93,
+     "change": 15
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 3458419,
+     "pct": 5.3,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 396799,
+     "pct": 0.61,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 846605,
+     "pct": 1.3,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 599744,
+     "pct": 0.92,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 6172255,
+     "pct": 9.47,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Democratic and Social Centre (CDS)",
+     "party": "cds",
+     "votes": 1189877,
+     "pct": 1.82,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4630960,
+     "pct": 7.1,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 376,829 blank ballots."
+  },
+  {
+   "id": "es-congress-1996",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "1996-03-03",
+   "totalSeats": 350,
+   "turnout": 77.38,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1996_Spanish_general_election",
+    "revid": 1378818038
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 9716006,
+     "pct": 38.79,
+     "seats": 156,
+     "change": 14,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 9425678,
+     "pct": 37.63,
+     "seats": 141,
+     "change": -18
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 2639774,
+     "pct": 10.54,
+     "seats": 21,
+     "change": 3
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 1151633,
+     "pct": 4.6,
+     "seats": 16,
+     "change": -1
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 318951,
+     "pct": 1.27,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 220418,
+     "pct": 0.88,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 220147,
+     "pct": 0.88,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Popular Unity (HB)",
+     "party": "hb",
+     "votes": 181304,
+     "pct": 0.72,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Republican Left of Catalonia (ERC)",
+     "party": "erc",
+     "votes": 167641,
+     "pct": 0.67,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Basque Solidarity (EA)",
+     "party": "ea",
+     "votes": 115861,
+     "pct": 0.46,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Valencian Union (UV)",
+     "party": "uv",
+     "votes": 91575,
+     "pct": 0.37,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 797288,
+     "pct": 3.18,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 243,345 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "pp",
+    "AS": "pp",
+    "IB": "pp",
+    "PV": "pnv",
+    "CN": "pp",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_1996_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-1996",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1996-03-03",
+   "totalSeats": 208,
+   "turnout": 77.33,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/1996_Spanish_general_election",
+    "revid": 1378818038
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 26788282,
+     "pct": 39.04,
+     "seats": 112,
+     "change": 19,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 25865206,
+     "pct": 37.7,
+     "seats": 81,
+     "change": -15
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 3338737,
+     "pct": 4.87,
+     "seats": 8,
+     "change": -2
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 918692,
+     "pct": 1.34,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 388366,
+     "pct": 0.57,
+     "seats": 1,
+     "change": -4
+    },
+    {
+     "name": "Ibiza and Formentera in the Senate (PSOE–EU–ENE–ERC–EV–Eiv)",
+     "party": "pacte",
+     "votes": 21365,
+     "pct": 0.03,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Lanzarote Independents Party (PIL)",
+     "party": "pil",
+     "votes": 13161,
+     "pct": 0.02,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 6851023,
+     "pct": 9.99,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4427892,
+     "pct": 6.45,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 482,601 blank ballots."
+  },
+  {
+   "id": "es-congress-2000",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2000-03-12",
+   "totalSeats": 350,
+   "turnout": 68.71,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2000_Spanish_general_election",
+    "revid": 1373577952
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 10321178,
+     "pct": 44.52,
+     "seats": 183,
+     "change": 27,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party–Progressives (PSOE–p)",
+     "party": "psoe",
+     "votes": 7918752,
+     "pct": 34.16,
+     "seats": 125,
+     "change": -16
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 970421,
+     "pct": 4.19,
+     "seats": 15,
+     "change": -1
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 1263043,
+     "pct": 5.45,
+     "seats": 8,
+     "change": -11
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 353953,
+     "pct": 1.53,
+     "seats": 7,
+     "change": 2
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 248261,
+     "pct": 1.07,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 306268,
+     "pct": 1.32,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Andalusian Party (PA)",
+     "party": "pa",
+     "votes": 206255,
+     "pct": 0.89,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Republican Left of Catalonia (ERC)",
+     "party": "erc",
+     "votes": 194715,
+     "pct": 0.84,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Initiative for Catalonia–Greens (IC–V)",
+     "party": "icv",
+     "votes": 119290,
+     "pct": 0.51,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Basque Solidarity (EA)",
+     "party": "ea",
+     "votes": 100742,
+     "pct": 0.43,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Aragonese Union (CHA)",
+     "party": "cha",
+     "votes": 75356,
+     "pct": 0.33,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1103040,
+     "pct": 4.76,
+     "seats": 0,
+     "change": -3
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 366,823 blank ballots. The table's party votes plus blank ballots add up to 23,181,274, not the official total of 23,181,290; shares follow the table. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla). United Left excludes Initiative for Catalonia–Greens, listed separately.",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "pp",
+    "AS": "pp",
+    "IB": "pp",
+    "PV": "pnv",
+    "CN": "pp",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "psoe",
+    "EX": "pp",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2000_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2000",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2000-03-12",
+   "totalSeats": 208,
+   "turnout": 68.83,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2000_Spanish_general_election",
+    "revid": 1373577952
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 28097204,
+     "pct": 45.35,
+     "seats": 127,
+     "change": 15,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party–Progressives (PSOE–p)",
+     "party": "psoe",
+     "votes": 16323744,
+     "pct": 26.35,
+     "seats": 53,
+     "change": -20
+    },
+    {
+     "name": "Catalan Agreement of Progress (PSC–ERC–IC–V)",
+     "party": "ecprog",
+     "votes": 3718949,
+     "pct": 6,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 2809367,
+     "pct": 4.53,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 1022057,
+     "pct": 1.65,
+     "seats": 6,
+     "change": 2
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 438149,
+     "pct": 0.71,
+     "seats": 5,
+     "change": 4
+    },
+    {
+     "name": "Lanzarote Independents Party (PIL)",
+     "party": "pil",
+     "votes": 13528,
+     "pct": 0.02,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 4752113,
+     "pct": 7.67,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 887326,
+     "pct": 1.43,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3893205,
+     "pct": 6.28,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 642,682 blank ballots."
+  },
+  {
+   "id": "es-congress-2004",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2004-03-14",
+   "totalSeats": 350,
+   "turnout": 75.66,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2004_Spanish_general_election",
+    "revid": 1378818046
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 11026163,
+     "pct": 42.59,
+     "seats": 164,
+     "change": 39,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 9763144,
+     "pct": 37.71,
+     "seats": 148,
+     "change": -35
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 835471,
+     "pct": 3.23,
+     "seats": 10,
+     "change": -5
+    },
+    {
+     "name": "Republican Left of Catalonia (ERC)",
+     "party": "erc",
+     "votes": 652196,
+     "pct": 2.52,
+     "seats": 8,
+     "change": 7
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 420980,
+     "pct": 1.63,
+     "seats": 7,
+     "change": 0
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 1284081,
+     "pct": 4.96,
+     "seats": 5,
+     "change": -4
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 235221,
+     "pct": 0.91,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 208688,
+     "pct": 0.81,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Aragonese Union (CHA)",
+     "party": "cha",
+     "votes": 94252,
+     "pct": 0.36,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Basque Solidarity (EA)",
+     "party": "ea",
+     "votes": 80905,
+     "pct": 0.31,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Navarre Yes (NaBai)",
+     "party": "nabai",
+     "votes": 61045,
+     "pct": 0.24,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1229153,
+     "pct": 4.75,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 407,795 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "pp",
+    "IB": "pp",
+    "PV": "pnv",
+    "CN": "pp",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2004_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2004",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2004-03-14",
+   "totalSeats": 208,
+   "turnout": 75.75,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2004_Spanish_general_election",
+    "revid": 1378818046
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 26639965,
+     "pct": 37.92,
+     "seats": 102,
+     "change": -25,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 25666070,
+     "pct": 36.53,
+     "seats": 81,
+     "change": 28
+    },
+    {
+     "name": "Catalan Agreement of Progress (PSC–ERC–ICV–EUiA)",
+     "party": "ecprog",
+     "votes": 6087158,
+     "pct": 8.66,
+     "seats": 12,
+     "change": 4
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 1219623,
+     "pct": 1.74,
+     "seats": 6,
+     "change": 0
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 2670375,
+     "pct": 3.8,
+     "seats": 4,
+     "change": -4
+    },
+    {
+     "name": "Canarian Coalition (CC)",
+     "party": "cc",
+     "votes": 409246,
+     "pct": 0.58,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 2857366,
+     "pct": 4.07,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 750251,
+     "pct": 1.07,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3957981,
+     "pct": 5.63,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 679,816 blank ballots."
+  },
+  {
+   "id": "es-congress-2008",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2008-03-09",
+   "totalSeats": 350,
+   "turnout": 73.85,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2008_Spanish_general_election",
+    "revid": 1378818049
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 11289335,
+     "pct": 43.87,
+     "seats": 169,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 10278010,
+     "pct": 39.94,
+     "seats": 154,
+     "change": 6
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 779425,
+     "pct": 3.03,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 306128,
+     "pct": 1.19,
+     "seats": 6,
+     "change": -1
+    },
+    {
+     "name": "Republican Left of Catalonia (esquerra)",
+     "party": "erc",
+     "votes": 298139,
+     "pct": 1.16,
+     "seats": 3,
+     "change": -5
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 969946,
+     "pct": 3.77,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 212543,
+     "pct": 0.83,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CC–PNC)",
+     "party": "ccpnc",
+     "votes": 174629,
+     "pct": 0.68,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Union, Progress and Democracy (UPyD)",
+     "party": "upyd",
+     "votes": 306079,
+     "pct": 1.19,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Navarre Yes (NaBai)",
+     "party": "nabai",
+     "votes": 62398,
+     "pct": 0.24,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1058234,
+     "pct": 4.11,
+     "seats": 0,
+     "change": -2
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 286,182 blank ballots. The table's party votes plus blank ballots add up to 25,734,866, not the official total of 25,734,863; shares follow the table. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "psoe",
+    "PV": "psoe",
+    "CN": "psoe",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "psoe",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2008_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2008",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2008-03-09",
+   "totalSeats": 208,
+   "turnout": 74.49,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2008_Spanish_general_election",
+    "revid": 1378818049
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 28039592,
+     "pct": 40.2,
+     "seats": 101,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 25965221,
+     "pct": 37.22,
+     "seats": 86,
+     "change": 5
+    },
+    {
+     "name": "Catalan Agreement of Progress (PSC–ERC–ICV–EUiA)",
+     "party": "ecprog",
+     "votes": 5280590,
+     "pct": 7.57,
+     "seats": 12,
+     "change": 0
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 2437338,
+     "pct": 3.49,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 903072,
+     "pct": 1.29,
+     "seats": 2,
+     "change": -4
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CC–PNC)",
+     "party": "ccpnc",
+     "votes": 302729,
+     "pct": 0.43,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "PSOE–Ibiza for Change (PSOE–ExC)",
+     "party": "psoeexc",
+     "votes": 26513,
+     "pct": 0.04,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "PSOE–Left of Menorca–PSM–Greens (PSOE–EU–PSM–Verds)",
+     "party": "pacte",
+     "votes": 21023,
+     "pct": 0.03,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "United Left (IU)",
+     "party": "iu",
+     "votes": 2015249,
+     "pct": 2.89,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 726317,
+     "pct": 1.04,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4035672,
+     "pct": 5.79,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 524,750 blank ballots."
+  },
+  {
+   "id": "es-congress-2011",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2011-11-20",
+   "totalSeats": 350,
+   "turnout": 68.94,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2011_Spanish_general_election",
+    "revid": 1378818051
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 10866566,
+     "pct": 44.63,
+     "seats": 186,
+     "change": 32,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 7003511,
+     "pct": 28.76,
+     "seats": 110,
+     "change": -59
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 1015691,
+     "pct": 4.17,
+     "seats": 16,
+     "change": 6
+    },
+    {
+     "name": "United Left–The Greens: Plural Left (IU–LV)",
+     "party": "iu",
+     "votes": 1686040,
+     "pct": 6.92,
+     "seats": 11,
+     "change": 9
+    },
+    {
+     "name": "Amaiur (Amaiur)",
+     "party": "amaiur",
+     "votes": 334498,
+     "pct": 1.37,
+     "seats": 7,
+     "change": 7
+    },
+    {
+     "name": "Union, Progress and Democracy (UPyD)",
+     "party": "upyd",
+     "votes": 1143225,
+     "pct": 4.7,
+     "seats": 5,
+     "change": 4
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 324317,
+     "pct": 1.33,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Republican Left (esquerra)",
+     "party": "ercsi",
+     "votes": 256985,
+     "pct": 1.06,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 184037,
+     "pct": 0.76,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Canarian Coalition–New Canaries (CC–NC–PNC)",
+     "party": "ccpnc",
+     "votes": 143881,
+     "pct": 0.59,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Bloc–Initiative–Greens–Equo: Commitment Coalition (Compromís–Q)",
+     "party": "compromis",
+     "votes": 125306,
+     "pct": 0.51,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Forum of Citizens (FAC)",
+     "party": "fac",
+     "votes": 99473,
+     "pct": 0.41,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Yes to the Future (GBai)",
+     "party": "gbai",
+     "votes": 42415,
+     "pct": 0.17,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1122941,
+     "pct": 4.61,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 333,461 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "pp",
+    "AR": "pp",
+    "AS": "pp",
+    "IB": "pp",
+    "PV": "pnv",
+    "CN": "pp",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "ciu",
+    "EX": "pp",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2011_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2011",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2011-11-20",
+   "totalSeats": 208,
+   "turnout": 68.43,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2011_Spanish_general_election",
+    "revid": 1378818051
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 29363775,
+     "pct": 46.31,
+     "seats": 136,
+     "change": 35,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 16469470,
+     "pct": 25.97,
+     "seats": 48,
+     "change": -40
+    },
+    {
+     "name": "Convergence and Union (CiU)",
+     "party": "ciu",
+     "votes": 2590266,
+     "pct": 4.09,
+     "seats": 9,
+     "change": 5
+    },
+    {
+     "name": "Agreement for Catalonia Progress (PSC–ICV–EUiA)",
+     "party": "ecprog",
+     "votes": 2842651,
+     "pct": 4.48,
+     "seats": 7,
+     "change": -5
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 928724,
+     "pct": 1.46,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Amaiur (Amaiur)",
+     "party": "amaiur",
+     "votes": 953349,
+     "pct": 1.5,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "Canarian Coalition–New Canaries–Canarian Nationalist Party (CC–NC–PNC)",
+     "party": "ccpnc",
+     "votes": 264803,
+     "pct": 0.42,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Left–The Greens: Plural Left (IU–LV)",
+     "party": "iu",
+     "votes": 3234188,
+     "pct": 5.1,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Union, Progress and Democracy (UPyD)",
+     "party": "upyd",
+     "votes": 1060766,
+     "pct": 1.67,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Republican Left (esquerra)",
+     "party": "ercsi",
+     "votes": 665554,
+     "pct": 1.05,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 5034920,
+     "pct": 7.94,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 1,264,947 blank ballots."
+  },
+  {
+   "id": "es-congress-2015",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2015-12-20",
+   "totalSeats": 350,
+   "turnout": 69.67,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2015_Spanish_general_election",
+    "revid": 1378818052
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 7236965,
+     "pct": 28.71,
+     "seats": 123,
+     "change": -64,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 5545315,
+     "pct": 22,
+     "seats": 90,
+     "change": -20
+    },
+    {
+     "name": "We Can–In Common–Commitment–In Tide (Podemos)",
+     "party": "podemos",
+     "votes": 5212711,
+     "pct": 20.68,
+     "seats": 69,
+     "change": 65
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (C's)",
+     "party": "cs",
+     "votes": 3514528,
+     "pct": 13.94,
+     "seats": 40,
+     "change": 40
+    },
+    {
+     "name": "Republican Left of Catalonia–Catalonia Yes (ERC–CatSí)",
+     "party": "ercsi",
+     "votes": 604285,
+     "pct": 2.4,
+     "seats": 9,
+     "change": 6
+    },
+    {
+     "name": "Democracy and Freedom (DiL)",
+     "party": "dil",
+     "votes": 567253,
+     "pct": 2.25,
+     "seats": 8,
+     "change": -8
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 302316,
+     "pct": 1.2,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "United Left–Popular Unity in Common (IU–UPeC)",
+     "party": "iu",
+     "votes": 926783,
+     "pct": 3.68,
+     "seats": 2,
+     "change": -6
+    },
+    {
+     "name": "Basque Country Gather (EH Bildu)",
+     "party": "bildu",
+     "votes": 219125,
+     "pct": 0.87,
+     "seats": 2,
+     "change": -5
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CCa–PNC)",
+     "party": "ccpnc",
+     "votes": 81917,
+     "pct": 0.32,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Union, Progress and Democracy (UPyD)",
+     "party": "upyd",
+     "votes": 155153,
+     "pct": 0.62,
+     "seats": 0,
+     "change": -5
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 844962,
+     "pct": 3.35,
+     "seats": 0,
+     "change": -3
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 188,132 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla). The Podemos row is the table's total for Podemos and its regional alliances (In Common We Can, It is Time and In Tide).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "pp",
+    "AS": "pp",
+    "IB": "pp",
+    "PV": "podemos",
+    "CN": "pp",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "podemos",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2015_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2015",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2015-12-20",
+   "totalSeats": 208,
+   "turnout": 68.26,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2015_Spanish_general_election",
+    "revid": 1378818052
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 20105650,
+     "pct": 30.31,
+     "seats": 124,
+     "change": -12,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 14887751,
+     "pct": 22.44,
+     "seats": 47,
+     "change": -7
+    },
+    {
+     "name": "We Can–In Common–Commitment–In Tide (Podemos)",
+     "party": "podemos",
+     "votes": 12244416,
+     "pct": 18.46,
+     "seats": 16,
+     "change": 15
+    },
+    {
+     "name": "Republican Left–Catalonia Yes (ERC–CatSí)",
+     "party": "ercsi",
+     "votes": 1895501,
+     "pct": 2.86,
+     "seats": 6,
+     "change": 6
+    },
+    {
+     "name": "Democracy and Freedom (DiL)",
+     "party": "dil",
+     "votes": 1531259,
+     "pct": 2.31,
+     "seats": 6,
+     "change": -3
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 907267,
+     "pct": 1.37,
+     "seats": 6,
+     "change": 2
+    },
+    {
+     "name": "Change (Cambio/Aldaketa)",
+     "party": "cambio",
+     "votes": 282889,
+     "pct": 0.43,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CCa–PNC)",
+     "party": "ccpnc",
+     "votes": 156636,
+     "pct": 0.24,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Gomera Socialist Group (ASG)",
+     "party": "asg",
+     "votes": 4435,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (C's)",
+     "party": "cs",
+     "votes": 7417388,
+     "pct": 11.18,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "United Left–Popular Unity in Common (IU–UPeC)",
+     "party": "iu",
+     "votes": 2372637,
+     "pct": 3.58,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Animalist Party Against Mistreatment of Animals (PACMA)",
+     "party": "pacma",
+     "votes": 1036736,
+     "pct": 1.56,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3493836,
+     "pct": 5.27,
+     "seats": 0,
+     "change": -3
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 979,371 blank ballots. The Podemos row is the table's total for Podemos and its regional alliances."
+  },
+  {
+   "id": "es-congress-2016",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2016-06-26",
+   "totalSeats": 350,
+   "turnout": 66.48,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2016_Spanish_general_election",
+    "revid": 1378818053
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 7941236,
+     "pct": 33.01,
+     "seats": 137,
+     "change": 14,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 5443846,
+     "pct": 22.63,
+     "seats": 85,
+     "change": -5
+    },
+    {
+     "name": "United We Can (Unidos Podemos)",
+     "party": "up",
+     "votes": 5087538,
+     "pct": 21.15,
+     "seats": 71,
+     "change": 0
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (C's)",
+     "party": "cs",
+     "votes": 3141570,
+     "pct": 13.06,
+     "seats": 32,
+     "change": -8
+    },
+    {
+     "name": "Republican Left–Catalonia Yes (ERC–CatSí)",
+     "party": "ercsi",
+     "votes": 639652,
+     "pct": 2.66,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Democratic Convergence of Catalonia (CDC)",
+     "party": "cdc",
+     "votes": 483488,
+     "pct": 2.01,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 287014,
+     "pct": 1.19,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Basque Country Gather (EH Bildu)",
+     "party": "bildu",
+     "votes": 184713,
+     "pct": 0.77,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CCa–PNC)",
+     "party": "ccpnc",
+     "votes": 78253,
+     "pct": 0.33,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Animalist Party Against Mistreatment of Animals (PACMA)",
+     "party": "pacma",
+     "votes": 286702,
+     "pct": 1.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 479743,
+     "pct": 1.99,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 179,081 blank ballots. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "pp",
+    "AR": "pp",
+    "AS": "pp",
+    "IB": "pp",
+    "PV": "up",
+    "CN": "pp",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "pp",
+    "CT": "up",
+    "EX": "pp",
+    "GA": "pp",
+    "RI": "pp",
+    "MD": "pp",
+    "MC": "pp",
+    "NC": "pp",
+    "VC": "pp",
+    "CE": "pp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2016_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2016",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2016-06-26",
+   "totalSeats": 208,
+   "turnout": 65.71,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/2016_Spanish_general_election",
+    "revid": 1378818053
+   },
+   "candidates": [
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 22285969,
+     "pct": 34.22,
+     "seats": 130,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 15354929,
+     "pct": 23.58,
+     "seats": 43,
+     "change": -4
+    },
+    {
+     "name": "United We Can (Unidos Podemos)",
+     "party": "up",
+     "votes": 12786779,
+     "pct": 19.63,
+     "seats": 16,
+     "change": 0
+    },
+    {
+     "name": "Republican Left–Catalonia Yes (ERC–CatSí)",
+     "party": "ercsi",
+     "votes": 1943829,
+     "pct": 2.98,
+     "seats": 10,
+     "change": 4
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 885860,
+     "pct": 1.36,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Democratic Convergence of Catalonia (CDC)",
+     "party": "cdc",
+     "votes": 1421653,
+     "pct": 2.18,
+     "seats": 2,
+     "change": -4
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CCa–PNC)",
+     "party": "ccpnc",
+     "votes": 148970,
+     "pct": 0.23,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Gomera Socialist Group (ASG)",
+     "party": "asg",
+     "votes": 4340,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (C's)",
+     "party": "cs",
+     "votes": 6894853,
+     "pct": 10.59,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Animalist Party Against Mistreatment of Animals (PACMA)",
+     "party": "pacma",
+     "votes": 1213871,
+     "pct": 1.86,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2184183,
+     "pct": 3.35,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 565,563 blank ballots."
+  },
+  {
+   "id": "es-congress-2019-04",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2019-04-28",
+   "totalSeats": 350,
+   "turnout": 71.76,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/April_2019_Spanish_general_election",
+    "revid": 1378818057
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 7513142,
+     "pct": 28.67,
+     "seats": 123,
+     "change": 38,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 4373653,
+     "pct": 16.69,
+     "seats": 66,
+     "change": -69
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (Cs)",
+     "party": "cs",
+     "votes": 4155665,
+     "pct": 15.86,
+     "seats": 57,
+     "change": 25
+    },
+    {
+     "name": "United We Can (Unidas Podemos)",
+     "party": "up",
+     "votes": 3751145,
+     "pct": 14.32,
+     "seats": 42,
+     "change": -29
+    },
+    {
+     "name": "Vox (Vox)",
+     "party": "vox",
+     "votes": 2688092,
+     "pct": 10.26,
+     "seats": 24,
+     "change": 24
+    },
+    {
+     "name": "Republican Left of Catalonia–Sovereigntists (ERC–Sobiranistes)",
+     "party": "ercsob",
+     "votes": 1024628,
+     "pct": 3.91,
+     "seats": 15,
+     "change": 6
+    },
+    {
+     "name": "Together for Catalonia–Together (JxCat–Junts)",
+     "party": "jxcat",
+     "votes": 500787,
+     "pct": 1.91,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 395884,
+     "pct": 1.51,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "Basque Country Gather (EH Bildu)",
+     "party": "bildu",
+     "votes": 259647,
+     "pct": 0.99,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Canarian Coalition–Canarian Nationalist Party (CCa–PNC)",
+     "party": "ccpnc",
+     "votes": 137664,
+     "pct": 0.53,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Sum Navarre (NA+)",
+     "party": "nasuma",
+     "votes": 107619,
+     "pct": 0.41,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Commitment: Bloc–Initiative–Greens Equo (Compromís 2019)",
+     "party": "compromis",
+     "votes": 173821,
+     "pct": 0.66,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Regionalist Party of Cantabria (PRC)",
+     "party": "prc",
+     "votes": 52266,
+     "pct": 0.2,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Animalist Party Against Mistreatment of Animals (PACMA)",
+     "party": "pacma",
+     "votes": 328299,
+     "pct": 1.25,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 739059,
+     "pct": 2.82,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 199,836 blank ballots. Ceuta (psoe) and Melilla (pp) had different winners, so CE is left out. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla). PP and Cs figures exclude Navarre, where Navarra Suma is listed separately (source footnote).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "psoe",
+    "PV": "pnv",
+    "CN": "psoe",
+    "CB": "psoe",
+    "CL": "psoe",
+    "CM": "psoe",
+    "CT": "ercsob",
+    "EX": "psoe",
+    "GA": "psoe",
+    "RI": "psoe",
+    "MD": "psoe",
+    "MC": "psoe",
+    "NC": "nasuma",
+    "VC": "psoe"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_April_2019_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2019-04",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2019-04-28",
+   "totalSeats": 208,
+   "turnout": 71.32,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/April_2019_Spanish_general_election",
+    "revid": 1378818057
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 21058377,
+     "pct": 29.33,
+     "seats": 123,
+     "change": 80,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 13757395,
+     "pct": 19.16,
+     "seats": 54,
+     "change": -73
+    },
+    {
+     "name": "Republican Left of Catalonia–Sovereigntists (ERC–Sobiranistes)",
+     "party": "ercsob",
+     "votes": 3154967,
+     "pct": 4.39,
+     "seats": 11,
+     "change": 1
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 1184641,
+     "pct": 1.65,
+     "seats": 9,
+     "change": 4
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (Cs)",
+     "party": "cs",
+     "votes": 10665627,
+     "pct": 14.85,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Sum Navarre (NA+)",
+     "party": "nasuma",
+     "votes": 325305,
+     "pct": 0.45,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Together for Catalonia–Together (JxCat–Junts)",
+     "party": "jxcat",
+     "votes": 1527788,
+     "pct": 2.13,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Basque Country Gather (EH Bildu)",
+     "party": "bildu",
+     "votes": 647201,
+     "pct": 0.9,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Gomera Socialist Group (ASG)",
+     "party": "asg",
+     "votes": 5611,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United We Can (Unidas Podemos)",
+     "party": "up",
+     "votes": 9171853,
+     "pct": 12.77,
+     "seats": 0,
+     "change": -15
+    },
+    {
+     "name": "Vox (Vox)",
+     "party": "vox",
+     "votes": 5998649,
+     "pct": 8.35,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Animalist Party Against Mistreatment of Animals (PACMA)",
+     "party": "pacma",
+     "votes": 1322370,
+     "pct": 1.84,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2980391,
+     "pct": 4.15,
+     "seats": 0,
+     "change": -2
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 439,543 blank ballots. PP, Cs and EH Bildu figures exclude Navarre (source footnote)."
+  },
+  {
+   "id": "es-congress-2019-11",
+   "office": "Congress of Deputies",
+   "kind": "legislative",
+   "date": "2019-11-10",
+   "totalSeats": 350,
+   "turnout": 66.23,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/November_2019_Spanish_general_election",
+    "revid": 1378695875
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 6792199,
+     "pct": 28,
+     "seats": 120,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 5047040,
+     "pct": 20.81,
+     "seats": 89,
+     "change": 23
+    },
+    {
+     "name": "Vox (Vox)",
+     "party": "vox",
+     "votes": 3656979,
+     "pct": 15.08,
+     "seats": 52,
+     "change": 28
+    },
+    {
+     "name": "United We Can (Unidas Podemos)",
+     "party": "up",
+     "votes": 3119364,
+     "pct": 12.86,
+     "seats": 35,
+     "change": -7
+    },
+    {
+     "name": "Republican Left of Catalonia–Sovereigntists (ERC–Sobiranistes)",
+     "party": "ercsob",
+     "votes": 880734,
+     "pct": 3.63,
+     "seats": 13,
+     "change": -2
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (Cs)",
+     "party": "cs",
+     "votes": 1650318,
+     "pct": 6.8,
+     "seats": 10,
+     "change": -47
+    },
+    {
+     "name": "Together for Catalonia–Together (JxCat–Junts)",
+     "party": "jxcat",
+     "votes": 530225,
+     "pct": 2.19,
+     "seats": 8,
+     "change": 1
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 379002,
+     "pct": 1.56,
+     "seats": 6,
+     "change": 0
+    },
+    {
+     "name": "Basque Country Gather (EH Bildu)",
+     "party": "bildu",
+     "votes": 277621,
+     "pct": 1.14,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "More Country (Más País)",
+     "party": "maspais",
+     "votes": 582306,
+     "pct": 2.4,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Popular Unity Candidacy–For Rupture (CUP–PR)",
+     "party": "cup",
+     "votes": 246971,
+     "pct": 1.02,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Canarian Coalition–New Canaries (CCa–PNC–NC)",
+     "party": "ccpnc",
+     "votes": 124289,
+     "pct": 0.51,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Sum Navarre (NA+)",
+     "party": "nasuma",
+     "votes": 99078,
+     "pct": 0.41,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Galician Nationalist Bloc (BNG)",
+     "party": "bng",
+     "votes": 120456,
+     "pct": 0.5,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Regionalist Party of Cantabria (PRC)",
+     "party": "prc",
+     "votes": 68830,
+     "pct": 0.28,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Teruel Exists (¡TE!)",
+     "party": "te",
+     "votes": 19761,
+     "pct": 0.08,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 663055,
+     "pct": 2.73,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are of valid votes, which in Spain include blank ballots; Others includes the 217,227 blank ballots. Ceuta (vox) and Melilla (pp) had different winners, so CE is left out. Region winners are the parties with the most votes in each autonomous community (CE needs the same winner in Ceuta and Melilla).",
+   "regionWinners": {
+    "AN": "psoe",
+    "AR": "psoe",
+    "AS": "psoe",
+    "IB": "psoe",
+    "PV": "pnv",
+    "CN": "psoe",
+    "CB": "pp",
+    "CL": "pp",
+    "CM": "psoe",
+    "CT": "ercsob",
+    "EX": "psoe",
+    "GA": "pp",
+    "RI": "psoe",
+    "MD": "psoe",
+    "MC": "vox",
+    "NC": "nasuma",
+    "VC": "psoe"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_November_2019_Spanish_Congress_election"
+  },
+  {
+   "id": "es-senate-2019-11",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2019-11-10",
+   "totalSeats": 208,
+   "turnout": 65.91,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and the Official State Gazette",
+    "url": "https://en.wikipedia.org/wiki/November_2019_Spanish_general_election",
+    "revid": 1378695875
+   },
+   "candidates": [
+    {
+     "name": "Spanish Socialist Workers' Party (PSOE)",
+     "party": "psoe",
+     "votes": 19481846,
+     "pct": 30.62,
+     "seats": 93,
+     "change": -30,
+     "winner": true
+    },
+    {
+     "name": "People's Party (PP)",
+     "party": "pp",
+     "votes": 17074301,
+     "pct": 26.84,
+     "seats": 83,
+     "change": 29
+    },
+    {
+     "name": "Republican Left of Catalonia–Sovereigntists (ERC–Sobiranistes)",
+     "party": "ercsob",
+     "votes": 3054285,
+     "pct": 4.8,
+     "seats": 11,
+     "change": 0
+    },
+    {
+     "name": "Basque Nationalist Party (EAJ/PNV)",
+     "party": "pnv",
+     "votes": 1152440,
+     "pct": 1.81,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Together for Catalonia–Together (JxCat–Junts)",
+     "party": "jxcat",
+     "votes": 1689482,
+     "pct": 2.66,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Sum Navarre (NA+)",
+     "party": "nasuma",
+     "votes": 309357,
+     "pct": 0.49,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Vox (Vox)",
+     "party": "vox",
+     "votes": 3229631,
+     "pct": 5.08,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Teruel Exists (¡TE!)",
+     "party": "te",
+     "votes": 57340,
+     "pct": 0.09,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Basque Country Gather (EH Bildu)",
+     "party": "bildu",
+     "votes": 842993,
+     "pct": 1.33,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Gomera Socialist Group (ASG)",
+     "party": "asg",
+     "votes": 3628,
+     "pct": 0.01,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United We Can (Unidas Podemos)",
+     "party": "up",
+     "votes": 7884444,
+     "pct": 12.39,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Citizens–Party of the Citizenry (Cs)",
+     "party": "cs",
+     "votes": 4951350,
+     "pct": 7.78,
+     "seats": 0,
+     "change": -4
+    },
+    {
+     "name": "Animalist Party Against Mistreatment of Animals (PACMA)",
+     "party": "pacma",
+     "votes": 977844,
+     "pct": 1.54,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "More Country (Más País)",
+     "party": "maspais",
+     "votes": 960287,
+     "pct": 1.51,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1950079,
+     "pct": 3.07,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Directly elected seats only. Votes are the source table's totals of the votes cast for each party's Senate candidates (voters could back up to three candidates in most provinces), and shares are of that total; Others includes the 451,449 blank ballots."
+  }
+ ]
+}

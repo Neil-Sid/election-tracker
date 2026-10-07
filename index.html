@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Election Tracker</title>
+<meta name="description" content="A globe of national elections in 23 countries: official results, maps by state and district, and every national election since 1948.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none' stroke='%230071e3' stroke-width='1.6'%3E%3Ccircle cx='10' cy='10' r='8'/%3E%3Cellipse cx='10' cy='10' rx='3.4' ry='8'/%3E%3Cpath d='M2.2 10h15.6'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a href="#/" class="brand">
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10" cy="10" r="8"/><ellipse cx="10" cy="10" rx="3.4" ry="8"/><path d="M2.2 10h15.6"/></svg>
+    Election Tracker
+  </a>
+  <div class="top-right">
+    <nav class="live-nav" aria-label="Live elections"></nav>
+    <span class="today"></span>
+  </div>
+</header>
+<div class="shell">
+  <main id="panel" class="panel"></main>
+  <div class="globe-pane">
+    <canvas class="globe" role="img" aria-label="Interactive globe. Drag to rotate, scroll to zoom."></canvas>
+    <div class="markers" aria-hidden="true"></div>
+    <div class="tooltip" hidden></div>
+    <p class="globe-hint">Drag to spin · Scroll to zoom</p>
+    <div class="globe-legend"></div>
+    <div class="globe-controls">
+      <button class="icon-btn" data-zoom="in" aria-label="Zoom in"><svg viewBox="0 0 16 16"><path d="M8 3v10M3 8h10"/></svg></button>
+      <button class="icon-btn" data-zoom="out" aria-label="Zoom out"><svg viewBox="0 0 16 16"><path d="M3 8h10"/></svg></button>
+      <button class="icon-btn" data-reset aria-label="Reset view"><svg viewBox="0 0 16 16"><circle cx="8" cy="8" r="5"/><path d="M8 1.5v3M8 11.5v3M1.5 8h3M11.5 8h3"/></svg></button>
+    </div>
+  </div>
+</div>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

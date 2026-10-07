@@ -1,0 +1,3330 @@
+{
+  "code": "FR",
+  "parties": {
+    "rpf": {
+      "name": "Rally of the French People",
+      "color": "#25038E",
+      "article": "Rally of the French People"
+    },
+    "sfio": {
+      "name": "French Section of the Workers' International",
+      "color": "#E8608A",
+      "article": "French Section of the Workers' International"
+    },
+    "cnip": {
+      "name": "National Centre of Independents and Peasants",
+      "color": "#26C4EC",
+      "article": "National Centre of Independents and Peasants"
+    },
+    "mrp": {
+      "name": "Popular Republican Movement",
+      "color": "#00CCCC",
+      "article": "Popular Republican Movement"
+    },
+    "rgr": {
+      "name": "Rally of Republican Lefts",
+      "color": "#FFBF00",
+      "article": "Rally of Republican Lefts"
+    },
+    "udca": {
+      "name": "Union for the Defense of Tradesmen and Artisans",
+      "color": "#704214",
+      "article": "Union for the Defense of Tradesmen and Artisans"
+    },
+    "cnrs": {
+      "name": "National Centre of Social Republicans",
+      "color": "#00008B",
+      "article": "National Centre of Social Republicans"
+    },
+    "unr": {
+      "name": "Union for the New Republic",
+      "color": "#0000C8",
+      "article": "Union for the New Republic"
+    },
+    "rad": {
+      "name": "Radical Party",
+      "color": "#E0B0FF",
+      "article": "Radical Party (France)"
+    },
+    "ri": {
+      "name": "Independent Republicans",
+      "color": "#002654",
+      "article": "Independent Republicans"
+    },
+    "psu": {
+      "name": "Unified Socialist Party",
+      "color": "#E7471E",
+      "article": "Unified Socialist Party (France)"
+    },
+    "udr": {
+      "name": "Union of Democrats for the Republic",
+      "color": "#0000C8",
+      "article": "Union of Democrats for the Republic"
+    },
+    "fgds": {
+      "name": "Federation of the Democratic and Socialist Left",
+      "color": "#E75480",
+      "article": "Federation of the Democratic and Socialist Left"
+    },
+    "cd": {
+      "name": "Democratic Centre",
+      "color": "#00CCCC",
+      "article": "Democratic Centre (France)"
+    },
+    "pdm": {
+      "name": "Progress and Modern Democracy",
+      "color": "#00CCCC",
+      "article": "Progress and Modern Democracy"
+    },
+    "urp": {
+      "name": "Union of Republicans for Progress",
+      "color": "#0000C8"
+    },
+    "mr": {
+      "name": "Reformist Movement",
+      "color": "#7FFFD4",
+      "article": "Reformist Movement (France)"
+    },
+    "majp": {
+      "name": "Presidential majority",
+      "color": "#4F86C6"
+    },
+    "prg": {
+      "name": "Radical Party of the Left",
+      "color": "#E9C46A",
+      "article": "Radical Party of the Left"
+    },
+    "rpr": {
+      "name": "Rally for the Republic",
+      "color": "#2A63C9",
+      "article": "Rally for the Republic"
+    },
+    "udf": {
+      "name": "Union for French Democracy",
+      "color": "#00CCCC",
+      "article": "Union for French Democracy"
+    },
+    "eco": {
+      "name": "Ecologists",
+      "color": "#8FBC8F"
+    },
+    "div": {
+      "name": "Miscellaneous",
+      "color": "#7F7F7F"
+    },
+    "dxd": {
+      "name": "Far right",
+      "color": "#404040"
+    },
+    "verts": {
+      "name": "The Greens",
+      "color": "#00C000",
+      "article": "The Greens (France)"
+    },
+    "ge": {
+      "name": "Ecology Generation",
+      "color": "#69B95A",
+      "article": "Ecology Generation"
+    },
+    "ump": {
+      "name": "Union for a Popular Movement",
+      "color": "#2A7BD9",
+      "article": "Union for a Popular Movement"
+    },
+    "cpnt": {
+      "name": "Hunting, Fishing, Nature and Traditions",
+      "color": "#8B6C42",
+      "article": "Rurality Movement"
+    },
+    "lcr": {
+      "name": "Revolutionary Communist League",
+      "color": "#9B1B30",
+      "article": "Revolutionary Communist League (France)"
+    },
+    "mrc": {
+      "name": "Citizen and Republican Movement",
+      "color": "#F07D3C",
+      "article": "Citizen and Republican Movement"
+    },
+    "mnr": {
+      "name": "National Republican Movement",
+      "color": "#404040",
+      "article": "National Republican Movement"
+    },
+    "mpf": {
+      "name": "Movement for France",
+      "color": "#7A6CEA",
+      "article": "Movement for France"
+    },
+    "dl": {
+      "name": "Liberal Democracy",
+      "color": "#004B8C",
+      "article": "Liberal Democracy (France)"
+    },
+    "rpfie": {
+      "name": "Rally for France",
+      "color": "#6F7FBF",
+      "article": "Rally for France"
+    },
+    "nc": {
+      "name": "New Centre",
+      "color": "#6F97CF",
+      "article": "The Centrists"
+    },
+    "modem": {
+      "name": "Democratic Movement",
+      "color": "#EF5327",
+      "article": "Democratic Movement (France)"
+    },
+    "fdg": {
+      "name": "Left Front",
+      "color": "#8E1F2F",
+      "article": "Left Front (France)"
+    },
+    "ac": {
+      "name": "Centrist Alliance",
+      "color": "#8E6BBF",
+      "article": "Centrist Alliance"
+    },
+    "lrem": {
+      "name": "La République En Marche!",
+      "color": "#FFEB00",
+      "article": "La République En Marche!"
+    },
+    "udi": {
+      "name": "Union of Democrats and Independents",
+      "color": "#48CAE4",
+      "article": "Union of Democrats and Independents"
+    },
+    "nupes": {
+      "name": "New Ecological and Social People's Union",
+      "color": "#BB1840",
+      "article": "New Ecological and Social People's Union"
+    },
+    "udc": {
+      "name": "Union of the Right and Centre",
+      "color": "#71BBDE",
+      "article": "Union of the Right and Centre"
+    },
+    "dsv": {
+      "name": "Sovereignist right",
+      "color": "#0087CD",
+      "article": "Sovereign Right (French politics)"
+    },
+    "ug": {
+      "name": "Union of the Left",
+      "color": "#E07BB0"
+    },
+    "ctv": {
+      "name": "Tixier-Vignancour Committees",
+      "color": "#404040",
+      "article": "Tixier-Vignancour Committees"
+    },
+    "ple": {
+      "name": "European Liberal Party",
+      "color": "#ADC1FD",
+      "article": "European Liberal Party"
+    },
+    "cap21": {
+      "name": "Cap21",
+      "color": "#9DB55C",
+      "article": "Cap21"
+    },
+    "frs": {
+      "name": "Forum of Social Republicans",
+      "color": "#003B5C",
+      "article": "VIA, the Way of the People"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#D2691E"
+    }
+  },
+  "elections": [
+    {
+      "id": "fr-assembly-1951",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1951-06-17",
+      "note": "Fourth Republic, list PR with apparentements; source table covers 544 of 625 seats",
+      "totalSeats": 544,
+      "turnout": 80.19,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1951_French_legislative_election",
+        "revid": 1354885361
+      },
+      "candidates": [
+        {
+          "name": "Rally of the French People",
+          "party": "rpf",
+          "votes": 4125492,
+          "pct": 21.57,
+          "seats": 107,
+          "change": 102,
+          "winner": true
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 5056605,
+          "pct": 26.43,
+          "seats": 97,
+          "change": -69
+        },
+        {
+          "name": "French Section of the Workers' International",
+          "party": "sfio",
+          "votes": 2744842,
+          "pct": 14.35,
+          "seats": 94,
+          "change": -40
+        },
+        {
+          "name": "Conservatives (CNIP–UNIR–RGRIF)",
+          "party": "cnip",
+          "votes": 2656995,
+          "pct": 13.89,
+          "seats": 87,
+          "change": 14
+        },
+        {
+          "name": "Popular Republican Movement",
+          "party": "mrp",
+          "votes": 2369788,
+          "pct": 12.39,
+          "seats": 82,
+          "change": -57
+        },
+        {
+          "name": "Rally of Republican Lefts",
+          "party": "rgr",
+          "votes": 1887583,
+          "pct": 9.87,
+          "seats": 77,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 125739,
+          "pct": 0.66,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The results table accounts for 544 seats; the infobox gives 625 for the whole Assembly, and the article links the elections in Algeria and the overseas territories as separate articles. The table also lists 161,960 \"incomplete ballots\" that count towards the valid-vote total behind its percentages; they are not a party and are left out of the rows, so shares add up to 99.15%. The CNIP row is the table's \"Conservatives (CNIP–UNIR–RGRIF)\". RGR shows \"New\" in the change column (stored as null)."
+    },
+    {
+      "id": "fr-assembly-1956",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1956-01-02",
+      "note": "Fourth Republic, list PR with apparentements",
+      "totalSeats": 544,
+      "turnout": 81.98,
+      "source": {
+        "name": "Wikipedia, citing Mackie & Rose (1982)",
+        "url": "https://en.wikipedia.org/wiki/1956_French_legislative_election",
+        "revid": 1376907595
+      },
+      "candidates": [
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 5514403,
+          "pct": 25.89,
+          "seats": 147,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Moderates",
+          "party": "cnip",
+          "votes": 3259782,
+          "pct": 15.3,
+          "seats": 95,
+          "change": null
+        },
+        {
+          "name": "French Section of the Workers' International",
+          "party": "sfio",
+          "votes": 3247431,
+          "pct": 15.25,
+          "seats": 88,
+          "change": null
+        },
+        {
+          "name": "Radical Party–UDSR (Republican Front and non-Front lists)",
+          "party": "rgr",
+          "votes": 3227394,
+          "pct": 15.15,
+          "seats": 73,
+          "change": null
+        },
+        {
+          "name": "Popular Republican Movement",
+          "party": "mrp",
+          "votes": 2366321,
+          "pct": 11.11,
+          "seats": 71,
+          "change": null
+        },
+        {
+          "name": "Union for the Defense of Tradesmen and Artisans",
+          "party": "udca",
+          "votes": 2483813,
+          "pct": 11.66,
+          "seats": 51,
+          "change": null
+        },
+        {
+          "name": "National Centre of Social Republicans (non-Front and Front lists)",
+          "party": "cnrs",
+          "votes": 842351,
+          "pct": 3.95,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 98600,
+          "pct": 0.46,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Far-right",
+          "party": "dxd",
+          "votes": 260749,
+          "pct": 1.22,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seat total is the 544 in the table (the infobox also says 544). The table gives one shared seat figure for the Radical–UDSR Republican Front lists and the non-Front Radical–RGR–UDSR lists (73), and for the two National Centre of Social Republicans rows (16), so each pair is merged here with summed votes and a share recomputed from votes. \"Moderates\" (CNIP and allies) is filed under the CNIP key. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1958",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1958-11-23",
+      "note": "Results for metropolitan France only",
+      "totalSeats": 466,
+      "turnout": 77.1,
+      "source": {
+        "name": "Wikipedia, citing Macridis & Brown (1960)",
+        "url": "https://en.wikipedia.org/wiki/1958_French_legislative_election",
+        "revid": 1284669451
+      },
+      "candidates": [
+        {
+          "name": "Union for the New Republic and Gaullists",
+          "party": "unr",
+          "votes": 3603958,
+          "pct": 17.58,
+          "seats": 189,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Centre of Independents and Peasants and Moderates",
+          "party": "cnip",
+          "votes": 4092600,
+          "pct": 19.97,
+          "seats": 132,
+          "change": null
+        },
+        {
+          "name": "Popular Republican Movement and Christian Democrats",
+          "party": "mrp",
+          "votes": 2387788,
+          "pct": 11.65,
+          "seats": 57,
+          "change": null
+        },
+        {
+          "name": "French Section of the Workers' International",
+          "party": "sfio",
+          "votes": 3167354,
+          "pct": 15.45,
+          "seats": 40,
+          "change": null
+        },
+        {
+          "name": "Radical Party, Dissidents and Republican Centre",
+          "party": "rad",
+          "votes": 2695287,
+          "pct": 13.15,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 3882204,
+          "pct": 18.94,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Far-right",
+          "party": "dxd",
+          "votes": 669518,
+          "pct": 3.27,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The article gives results for metropolitan France only, from Macridis & Brown, which it flags as unofficial and partly reconstructed. Its seat column sums to 466; the infobox gives 576 seats for the whole Assembly. The table has no invalid-vote, electorate or change figures; turnout (77.1%, first round) is from the infobox."
+    },
+    {
+      "id": "fr-assembly-1962",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1962-11-18",
+      "note": "Source table covers 465 of 482 seats",
+      "totalSeats": 465,
+      "turnout": 68.73,
+      "source": {
+        "name": "Wikipedia, citing Quid",
+        "url": "https://en.wikipedia.org/wiki/1962_French_legislative_election",
+        "revid": 1361450004
+      },
+      "candidates": [
+        {
+          "name": "Union for the New Republic–Democratic Union of Labour",
+          "party": "unr",
+          "votes": 5855744,
+          "pct": 31.94,
+          "seats": 229,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "French Section of the Workers' International",
+          "party": "sfio",
+          "votes": 2298729,
+          "pct": 12.54,
+          "seats": 65,
+          "change": null
+        },
+        {
+          "name": "Radical Party & miscellaneous left",
+          "party": "rad",
+          "votes": 1429649,
+          "pct": 7.8,
+          "seats": 42,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 4003553,
+          "pct": 21.84,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Popular Republican Movement",
+          "party": "mrp",
+          "votes": 1665695,
+          "pct": 9.09,
+          "seats": 36,
+          "change": null
+        },
+        {
+          "name": "National Centre of Independents and Peasants",
+          "party": "cnip",
+          "votes": 1404177,
+          "pct": 7.66,
+          "seats": 28,
+          "change": null
+        },
+        {
+          "name": "Independent Republicans",
+          "party": "ri",
+          "votes": 1089348,
+          "pct": 5.94,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Unified Socialist Party & far-left",
+          "party": "psu",
+          "votes": 427467,
+          "pct": 2.33,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 159429,
+          "pct": 0.87,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The results table accounts for 465 seats; the parliamentary-groups table in the same article totals 482. Its \"Others\" row has 2 seats and no votes, so the Others row here holds those 2 seats plus the far right's 159,429 votes. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1967",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1967-03-05",
+      "totalSeats": 487,
+      "turnout": 80.9,
+      "source": {
+        "name": "Wikipedia, citing Quid and the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1967_French_legislative_election",
+        "revid": 1352085173
+      },
+      "candidates": [
+        {
+          "name": "Union for the Defence of the Republic–Independent Republicans",
+          "party": "udr",
+          "votes": 8453512,
+          "pct": 37.75,
+          "seats": 240,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Federation of the Democratic and Socialist Left",
+          "party": "fgds",
+          "votes": 4207166,
+          "pct": 18.79,
+          "seats": 118,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 5029808,
+          "pct": 22.46,
+          "seats": 73,
+          "change": null
+        },
+        {
+          "name": "Democratic Centre",
+          "party": "cd",
+          "votes": 2864272,
+          "pct": 12.79,
+          "seats": 42,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 1136191,
+          "pct": 5.07,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Unified Socialist Party and far-left",
+          "party": "psu",
+          "votes": 506592,
+          "pct": 2.26,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 194776,
+          "pct": 0.87,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1968",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1968-06-23",
+      "totalSeats": 487,
+      "turnout": 79.95,
+      "source": {
+        "name": "Wikipedia, citing Quid and the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1968_French_legislative_election",
+        "revid": 1376219310
+      },
+      "candidates": [
+        {
+          "name": "Union for the Defence of the Republic–Independent Republicans",
+          "party": "udr",
+          "votes": 9667532,
+          "pct": 43.65,
+          "seats": 359,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Federation of the Democratic and Socialist Left",
+          "party": "fgds",
+          "votes": 3660250,
+          "pct": 16.53,
+          "seats": 57,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 4434832,
+          "pct": 20.02,
+          "seats": 34,
+          "change": null
+        },
+        {
+          "name": "Progress and Modern Democracy",
+          "party": "pdm",
+          "votes": 2289489,
+          "pct": 10.34,
+          "seats": 28,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 917758,
+          "pct": 4.14,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Unified Socialist Party and far-left",
+          "party": "psu",
+          "votes": 873581,
+          "pct": 3.94,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 303413,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1973",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1973-03-04",
+      "totalSeats": 490,
+      "turnout": 81.22,
+      "source": {
+        "name": "Wikipedia, citing Quid and the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1973_French_legislative_election",
+        "revid": 1352084824
+      },
+      "candidates": [
+        {
+          "name": "Union of Republicans for Progress",
+          "party": "urp",
+          "votes": 8242661,
+          "pct": 34.76,
+          "seats": 262,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party–MGRS",
+          "party": "ps",
+          "votes": 4899965,
+          "pct": 20.66,
+          "seats": 101,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 5063981,
+          "pct": 21.35,
+          "seats": 73,
+          "change": null
+        },
+        {
+          "name": "Reformist Movement",
+          "party": "mr",
+          "votes": 2967481,
+          "pct": 12.51,
+          "seats": 32,
+          "change": null
+        },
+        {
+          "name": "Presidential majority",
+          "party": "majp",
+          "votes": 779259,
+          "pct": 3.29,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Unified Socialist Party and far-left",
+          "party": "psu",
+          "votes": 781976,
+          "pct": 3.3,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 299938,
+          "pct": 1.26,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 679684,
+          "pct": 2.87,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table's seat column sums to 490, one fewer than the 491 seats in the infobox; 490 is used so the rows add up. \"Presidential majority\" (links to miscellaneous right in the table) is kept apart from the separate miscellaneous-right row. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1978",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1978-03-12",
+      "totalSeats": 491,
+      "turnout": 82.78,
+      "source": {
+        "name": "Wikipedia, citing Roi et Président, the Inter-Parliamentary Union and Quid",
+        "url": "https://en.wikipedia.org/wiki/1978_French_legislative_election",
+        "revid": 1352084580
+      },
+      "candidates": [
+        {
+          "name": "Rally for the Republic",
+          "party": "rpr",
+          "votes": 6462462,
+          "pct": 22.63,
+          "seats": 150,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Union for French Democracy",
+          "party": "udf",
+          "votes": 6128849,
+          "pct": 21.46,
+          "seats": 124,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 6451151,
+          "pct": 22.59,
+          "seats": 104,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 5870402,
+          "pct": 20.55,
+          "seats": 86,
+          "change": null
+        },
+        {
+          "name": "Presidential majority",
+          "party": "majp",
+          "votes": 684985,
+          "pct": 2.4,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Radical Movement of the Left",
+          "party": "prg",
+          "votes": 603932,
+          "pct": 2.11,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 793274,
+          "pct": 2.78,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Far-left",
+          "party": "dxg",
+          "votes": 953088,
+          "pct": 3.34,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Ecologists",
+          "party": "eco",
+          "votes": 612100,
+          "pct": 2.14,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table's first-round turnout cell is blank because of a formatting glitch in the electorate figure; turnout is computed from that figure in the wikitext (35,204,152) and the table's 29,141,979 votes cast (the infobox rounds it to 82.8%). The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1981",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1981-06-14",
+      "totalSeats": 491,
+      "turnout": 70.35,
+      "source": {
+        "name": "Wikipedia, citing the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1981_French_legislative_election",
+        "revid": 1352084308
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 9432362,
+          "pct": 37.52,
+          "seats": 269,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Rally for the Republic",
+          "party": "rpr",
+          "votes": 5231269,
+          "pct": 20.81,
+          "seats": 85,
+          "change": null
+        },
+        {
+          "name": "Union for French Democracy",
+          "party": "udf",
+          "votes": 4827437,
+          "pct": 19.2,
+          "seats": 61,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 4065540,
+          "pct": 16.17,
+          "seats": 44,
+          "change": null
+        },
+        {
+          "name": "Movement of Left Radicals",
+          "party": "prg",
+          "votes": null,
+          "pct": null,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 704788,
+          "pct": 2.8,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 183010,
+          "pct": 0.73,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Far-left",
+          "party": "dxg",
+          "votes": 334674,
+          "pct": 1.33,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Ecologists",
+          "party": "eco",
+          "votes": 271688,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 90422,
+          "pct": 0.36,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table gives one combined vote figure for the Socialist Party and the Movement of Left Radicals (9,432,362, 37.52%), shown on the Socialist row; the MRG row keeps its own 14 seats with no separate votes. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1986",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1986-03-16",
+      "note": "Party-list proportional representation",
+      "totalSeats": 577,
+      "turnout": 78.12,
+      "source": {
+        "name": "Wikipedia, citing the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1986_French_legislative_election",
+        "revid": 1360741579
+      },
+      "candidates": [
+        {
+          "name": "Union of the Opposition for Renewal (RPR–UDF)",
+          "party": "udc",
+          "votes": 11492450,
+          "pct": 40.97,
+          "seats": 277,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 8705163,
+          "pct": 31.04,
+          "seats": 207,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 2740972,
+          "pct": 9.77,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 2705336,
+          "pct": 9.65,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 1096511,
+          "pct": 3.91,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 290059,
+          "pct": 1.03,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Movement of Left Radicals",
+          "party": "prg",
+          "votes": 107754,
+          "pct": 0.38,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Union of the Left",
+          "party": "ug",
+          "votes": 56044,
+          "pct": 0.2,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Far-left",
+          "party": "dxg",
+          "votes": 427753,
+          "pct": 1.53,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Ecologists",
+          "party": "eco",
+          "votes": 340138,
+          "pct": 1.21,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 85379,
+          "pct": 0.3,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Held under party-list PR. The RPR–UDF opposition is one row using the table's alliance total (joint RPR–UDF lists 6,017,207 votes and 147 seats, RPR-only lists 3,145,171 and 77, UDF-only lists 2,330,072 and 53). The table's seat column sums to 577; the infobox says 573. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1988",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1988-06-05",
+      "totalSeats": 577,
+      "turnout": 65.74,
+      "source": {
+        "name": "Wikipedia, citing the Inter-Parliamentary Union",
+        "url": "https://en.wikipedia.org/wiki/1988_French_legislative_election",
+        "revid": 1352083988
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 8493702,
+          "pct": 34.76,
+          "seats": 262,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Union for French Democracy",
+          "party": "udf",
+          "votes": 4519459,
+          "pct": 18.5,
+          "seats": 130,
+          "change": null
+        },
+        {
+          "name": "Rally for the Republic",
+          "party": "rpr",
+          "votes": 4687047,
+          "pct": 19.18,
+          "seats": 128,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 2765761,
+          "pct": 11.32,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 697272,
+          "pct": 2.85,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Movement of Left Radicals",
+          "party": "prg",
+          "votes": 279316,
+          "pct": 1.14,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 403690,
+          "pct": 1.65,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 2359528,
+          "pct": 9.66,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 226320,
+          "pct": 0.93,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. Others includes the table's 2 \"French Polynesian seats\", which have no party or votes. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1993",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1993-03-21",
+      "totalSeats": 577,
+      "turnout": 68.93,
+      "source": {
+        "name": "Wikipedia, citing the Inter-Parliamentary Union and the National Assembly",
+        "url": "https://en.wikipedia.org/wiki/1993_French_legislative_election",
+        "revid": 1360742154
+      },
+      "candidates": [
+        {
+          "name": "Rally for the Republic",
+          "party": "rpr",
+          "votes": 5188196,
+          "pct": 20.39,
+          "seats": 247,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Union for French Democracy",
+          "party": "udf",
+          "votes": 4855274,
+          "pct": 19.08,
+          "seats": 213,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 4476716,
+          "pct": 17.6,
+          "seats": 54,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 1199887,
+          "pct": 4.72,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 2336254,
+          "pct": 9.18,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 457193,
+          "pct": 1.8,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Movement of Radicals of the Left",
+          "party": "prg",
+          "votes": 228758,
+          "pct": 0.9,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 3159477,
+          "pct": 12.42,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "The Greens",
+          "party": "verts",
+          "votes": 1022749,
+          "pct": 4.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 957711,
+          "pct": 3.76,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Ecology Generation",
+          "party": "ge",
+          "votes": 921925,
+          "pct": 3.62,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Far-left",
+          "party": "dxg",
+          "votes": 451804,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 186459,
+          "pct": 0.73,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-1997",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1997-05-25",
+      "totalSeats": 577,
+      "turnout": 67.92,
+      "source": {
+        "name": "Wikipedia, citing the National Assembly",
+        "url": "https://en.wikipedia.org/wiki/1997_French_legislative_election",
+        "revid": 1358277466
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 5961612,
+          "pct": 23.53,
+          "seats": 255,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Rally for the Republic",
+          "party": "rpr",
+          "votes": 3977964,
+          "pct": 15.7,
+          "seats": 139,
+          "change": null
+        },
+        {
+          "name": "Union for French Democracy",
+          "party": "udf",
+          "votes": 3601279,
+          "pct": 14.21,
+          "seats": 112,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 2519281,
+          "pct": 9.94,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Radical-Socialist Party",
+          "party": "prg",
+          "votes": 366067,
+          "pct": 1.44,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 708605,
+          "pct": 2.8,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "The Greens",
+          "party": "verts",
+          "votes": 1726018,
+          "pct": 6.81,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 351503,
+          "pct": 1.39,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 1671626,
+          "pct": 6.6,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 3785383,
+          "pct": 14.94,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Far-left",
+          "party": "dxg",
+          "votes": 638710,
+          "pct": 2.52,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 26438,
+          "pct": 0.1,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-2002",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2002-06-09",
+      "totalSeats": 577,
+      "turnout": 64.42,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior and the National Assembly",
+        "url": "https://en.wikipedia.org/wiki/2002_French_legislative_election",
+        "revid": 1360742791
+      },
+      "candidates": [
+        {
+          "name": "Union for a Popular Movement",
+          "party": "ump",
+          "votes": 8408023,
+          "pct": 33.3,
+          "seats": 357,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 6086599,
+          "pct": 24.11,
+          "seats": 140,
+          "change": null
+        },
+        {
+          "name": "Union for French Democracy",
+          "party": "udf",
+          "votes": 1226462,
+          "pct": 4.86,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 1216178,
+          "pct": 4.82,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 921973,
+          "pct": 3.65,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Radical Party of the Left",
+          "party": "prg",
+          "votes": 388891,
+          "pct": 1.54,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 275553,
+          "pct": 1.09,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "The Greens",
+          "party": "verts",
+          "votes": 1138222,
+          "pct": 4.51,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Liberal Democracy",
+          "party": "dl",
+          "votes": 104767,
+          "pct": 0.41,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Rally for France",
+          "party": "rpfie",
+          "votes": 94222,
+          "pct": 0.37,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Movement for France",
+          "party": "mpf",
+          "votes": 202831,
+          "pct": 0.8,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 194946,
+          "pct": 0.77,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Regionalists and separatists",
+          "party": "reg",
+          "votes": 66240,
+          "pct": 0.26,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 2862960,
+          "pct": 11.34,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Hunting, Fishing, Nature, Traditions",
+          "party": "cpnt",
+          "votes": 422448,
+          "pct": 1.67,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Communist League",
+          "party": "lcr",
+          "votes": 320467,
+          "pct": 1.27,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Lutte Ouvrière",
+          "party": "lo",
+          "votes": 301984,
+          "pct": 1.2,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Republican Pole",
+          "party": "mrc",
+          "votes": 299897,
+          "pct": 1.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Ecologists",
+          "party": "eco",
+          "votes": 295899,
+          "pct": 1.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National Republican Movement",
+          "party": "mnr",
+          "votes": 276376,
+          "pct": 1.09,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 141107,
+          "pct": 0.56,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-2007",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2007-06-10",
+      "totalSeats": 577,
+      "turnout": 60.42,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2007_French_legislative_election",
+        "revid": 1375214358
+      },
+      "candidates": [
+        {
+          "name": "Union for a Popular Movement",
+          "party": "ump",
+          "votes": 10289737,
+          "pct": 39.54,
+          "seats": 313,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 6436520,
+          "pct": 24.73,
+          "seats": 186,
+          "change": null
+        },
+        {
+          "name": "Presidential majority",
+          "party": "majp",
+          "votes": 616440,
+          "pct": 2.37,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 1115663,
+          "pct": 4.29,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 513407,
+          "pct": 1.97,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 641842,
+          "pct": 2.47,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Radical Party of the Left",
+          "party": "prg",
+          "votes": 343565,
+          "pct": 1.32,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "The Greens",
+          "party": "verts",
+          "votes": 845977,
+          "pct": 3.25,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "UDF–Democratic Movement",
+          "party": "udf",
+          "votes": 1981107,
+          "pct": 7.61,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Movement for France",
+          "party": "mpf",
+          "votes": 312581,
+          "pct": 1.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 267760,
+          "pct": 1.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Regionalists and separatists",
+          "party": "reg",
+          "votes": 133473,
+          "pct": 0.51,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 1116136,
+          "pct": 4.29,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous far-left",
+          "party": "dxg",
+          "votes": 888250,
+          "pct": 3.41,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 524007,
+          "pct": 2.01,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. \"Presidential majority\" is mostly New Centre, which won 20 of its 22 seats (table footnote). The UDF–Democratic Movement row links to the UDF article and is filed under the UDF key. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-2012",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2012-06-10",
+      "totalSeats": 577,
+      "turnout": 57.22,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2012_French_legislative_election",
+        "revid": 1371025085
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 7618326,
+          "pct": 29.35,
+          "seats": 280,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Union for a Popular Movement",
+          "party": "ump",
+          "votes": 7037268,
+          "pct": 27.12,
+          "seats": 194,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 881555,
+          "pct": 3.4,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Europe Ecology – The Greens",
+          "party": "eelv",
+          "votes": 1418264,
+          "pct": 5.46,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 910034,
+          "pct": 3.51,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "New Centre",
+          "party": "nc",
+          "votes": 569897,
+          "pct": 2.2,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Radical Party of the Left",
+          "party": "prg",
+          "votes": 428898,
+          "pct": 1.65,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Left Front",
+          "party": "fdg",
+          "votes": 1793192,
+          "pct": 6.91,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Radical Party",
+          "party": "rad",
+          "votes": 321124,
+          "pct": 1.24,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 3528663,
+          "pct": 13.6,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Centre for France",
+          "party": "modem",
+          "votes": 458098,
+          "pct": 1.77,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Centrist Alliance",
+          "party": "ac",
+          "votes": 156026,
+          "pct": 0.6,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Regionalists and separatists",
+          "party": "reg",
+          "votes": 145809,
+          "pct": 0.56,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Far-right",
+          "party": "dxd",
+          "votes": 49499,
+          "pct": 0.19,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 636206,
+          "pct": 2.45,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. \"Centre for France\" links to the Democratic Movement (MoDem) article. The table has no seat-change column."
+    },
+    {
+      "id": "fr-assembly-2017",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2017-06-11",
+      "totalSeats": 577,
+      "turnout": 48.7,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2017_French_legislative_election",
+        "revid": 1373728401
+      },
+      "candidates": [
+        {
+          "name": "La République En Marche!",
+          "party": "lrem",
+          "votes": 6391269,
+          "pct": 28.21,
+          "seats": 308,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "The Republicans",
+          "party": "lr",
+          "votes": 3573427,
+          "pct": 15.77,
+          "seats": 112,
+          "change": -82
+        },
+        {
+          "name": "Democratic Movement",
+          "party": "modem",
+          "votes": 932227,
+          "pct": 4.12,
+          "seats": 42,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 1685677,
+          "pct": 7.44,
+          "seats": 30,
+          "change": -250
+        },
+        {
+          "name": "Union of Democrats and Independents",
+          "party": "udi",
+          "votes": 687225,
+          "pct": 3.03,
+          "seats": 18,
+          "change": -10
+        },
+        {
+          "name": "La France Insoumise",
+          "party": "lfi",
+          "votes": 2497622,
+          "pct": 11.03,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 362281,
+          "pct": 1.6,
+          "seats": 12,
+          "change": -10
+        },
+        {
+          "name": "French Communist Party",
+          "party": "pcf",
+          "votes": 615487,
+          "pct": 2.72,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "National Front",
+          "party": "rn",
+          "votes": 2990454,
+          "pct": 13.2,
+          "seats": 8,
+          "change": 6
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 625345,
+          "pct": 2.76,
+          "seats": 6,
+          "change": -9
+        },
+        {
+          "name": "Regionalists",
+          "party": "reg",
+          "votes": 204049,
+          "pct": 0.9,
+          "seats": 5,
+          "change": 3
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 500309,
+          "pct": 2.21,
+          "seats": 3,
+          "change": -10
+        },
+        {
+          "name": "Radical Party of the Left",
+          "party": "prg",
+          "votes": 106311,
+          "pct": 0.47,
+          "seats": 3,
+          "change": -9
+        },
+        {
+          "name": "Ecologists",
+          "party": "eco",
+          "votes": 973527,
+          "pct": 4.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Debout la France",
+          "party": "dlf",
+          "votes": 265420,
+          "pct": 1.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Far-right",
+          "party": "dxd",
+          "votes": 68320,
+          "pct": 0.3,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 175214,
+          "pct": 0.77,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. Parties are listed individually; the table also groups them as presidential majority (LREM and MoDem, 350 seats), parliamentary right and parliamentary left. Shares are of votes for candidates (blank and invalid ballots are counted separately). The Ecologists' seat was won by EELV (table footnote). Seat changes marked \"New\" are stored as null."
+    },
+    {
+      "id": "fr-assembly-2022",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2022-06-12",
+      "totalSeats": 577,
+      "turnout": 47.51,
+      "source": {
+        "name": "Wikipedia, citing the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2022_French_legislative_election",
+        "revid": 1374207926
+      },
+      "candidates": [
+        {
+          "name": "Ensemble",
+          "party": "ens",
+          "votes": 5857364,
+          "pct": 25.75,
+          "seats": 245,
+          "change": -105,
+          "winner": true
+        },
+        {
+          "name": "New Ecological and Social People's Union",
+          "party": "nupes",
+          "votes": 5836079,
+          "pct": 25.66,
+          "seats": 131,
+          "change": 74
+        },
+        {
+          "name": "National Rally",
+          "party": "rn",
+          "votes": 4248537,
+          "pct": 18.68,
+          "seats": 89,
+          "change": 81
+        },
+        {
+          "name": "Union of the Right and Centre",
+          "party": "udc",
+          "votes": 2568502,
+          "pct": 11.29,
+          "seats": 64,
+          "change": -66
+        },
+        {
+          "name": "Miscellaneous left",
+          "party": "dvg",
+          "votes": 713574,
+          "pct": 3.14,
+          "seats": 21,
+          "change": 9
+        },
+        {
+          "name": "Miscellaneous right",
+          "party": "dvd",
+          "votes": 530782,
+          "pct": 2.33,
+          "seats": 10,
+          "change": 4
+        },
+        {
+          "name": "Regionalists",
+          "party": "reg",
+          "votes": 291384,
+          "pct": 1.28,
+          "seats": 10,
+          "change": 5
+        },
+        {
+          "name": "Miscellaneous centre",
+          "party": "dvc",
+          "votes": 283612,
+          "pct": 1.25,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Sovereignist right",
+          "party": "dsv",
+          "votes": 249603,
+          "pct": 1.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Miscellaneous",
+          "party": "div",
+          "votes": 192624,
+          "pct": 0.85,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Radical Party of the Left",
+          "party": "prg",
+          "votes": 126689,
+          "pct": 0.56,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Reconquête",
+          "party": "rec",
+          "votes": 964775,
+          "pct": 4.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Ecologists",
+          "party": "eco",
+          "votes": 608314,
+          "pct": 2.67,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Miscellaneous far-left",
+          "party": "dxg",
+          "votes": 266412,
+          "pct": 1.17,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6457,
+          "pct": 0.03,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "First-round votes and shares; seats are totals after both rounds. Rows follow the table, which lists the Ensemble, NUPES and UDC alliances rather than their member parties. Shares are of votes for candidates (blank and invalid ballots are counted separately). Reconquête's change is \"New\" in the table (stored as null)."
+    },
+    {
+      "id": "fr-president-1965",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1965-12-05",
+      "turnout": 84.32,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/1965_French_presidential_election",
+        "revid": 1373965991
+      },
+      "candidates": [
+        {
+          "name": "Charles de Gaulle",
+          "party": "unr",
+          "votes": 13083699,
+          "pct": 55.2,
+          "winner": true
+        },
+        {
+          "name": "François Mitterrand",
+          "party": "fgds",
+          "votes": 10619735,
+          "pct": 44.8
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1965-12-05",
+          "candidates": [
+            {
+              "name": "Charles de Gaulle",
+              "party": "unr",
+              "votes": 10828521,
+              "pct": 44.65
+            },
+            {
+              "name": "François Mitterrand",
+              "party": "fgds",
+              "votes": 7694005,
+              "pct": 31.72
+            },
+            {
+              "name": "Jean Lecanuet",
+              "party": "mrp",
+              "votes": 3777120,
+              "pct": 15.57
+            },
+            {
+              "name": "Jean-Louis Tixier-Vignancour",
+              "party": "ctv",
+              "votes": 1260208,
+              "pct": 5.2
+            },
+            {
+              "name": "Pierre Marcilhacy",
+              "party": "ple",
+              "votes": 415017,
+              "pct": 1.71
+            },
+            {
+              "name": "Marcel Barbu",
+              "party": "dvg",
+              "votes": 279685,
+              "pct": 1.15
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1965-12-19",
+          "candidates": [
+            {
+              "name": "Charles de Gaulle",
+              "party": "unr",
+              "votes": 13083699,
+              "pct": 55.2,
+              "winner": true
+            },
+            {
+              "name": "François Mitterrand",
+              "party": "fgds",
+              "votes": 10619735,
+              "pct": 44.8
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 84.75%)."
+    },
+    {
+      "id": "fr-president-1969",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1969-06-01",
+      "turnout": 68.85,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/1969_French_presidential_election",
+        "revid": 1373965962
+      },
+      "candidates": [
+        {
+          "name": "Georges Pompidou",
+          "party": "udr",
+          "votes": 11064371,
+          "pct": 58.21,
+          "winner": true
+        },
+        {
+          "name": "Alain Poher",
+          "party": "cd",
+          "votes": 7943118,
+          "pct": 41.79
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1969-06-01",
+          "candidates": [
+            {
+              "name": "Georges Pompidou",
+              "party": "udr",
+              "votes": 10051783,
+              "pct": 44.47
+            },
+            {
+              "name": "Alain Poher",
+              "party": "cd",
+              "votes": 5268613,
+              "pct": 23.31
+            },
+            {
+              "name": "Jacques Duclos",
+              "party": "pcf",
+              "votes": 4808285,
+              "pct": 21.27
+            },
+            {
+              "name": "Gaston Defferre",
+              "party": "sfio",
+              "votes": 1133222,
+              "pct": 5.01
+            },
+            {
+              "name": "Michel Rocard",
+              "party": "psu",
+              "votes": 816470,
+              "pct": 3.61
+            },
+            {
+              "name": "Louis Ducatel",
+              "party": "dvg",
+              "votes": 286447,
+              "pct": 1.27
+            },
+            {
+              "name": "Alain Krivine",
+              "party": "lcr",
+              "votes": 239104,
+              "pct": 1.06
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1969-06-15",
+          "candidates": [
+            {
+              "name": "Georges Pompidou",
+              "party": "udr",
+              "votes": 11064371,
+              "pct": 58.21,
+              "winner": true
+            },
+            {
+              "name": "Alain Poher",
+              "party": "cd",
+              "votes": 7943118,
+              "pct": 41.79
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 77.59%)."
+    },
+    {
+      "id": "fr-president-1974",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1974-05-05",
+      "turnout": 87.33,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/1974_French_presidential_election",
+        "revid": 1373965886
+      },
+      "candidates": [
+        {
+          "name": "Valéry Giscard d'Estaing",
+          "party": "ri",
+          "votes": 13396203,
+          "pct": 50.81,
+          "winner": true
+        },
+        {
+          "name": "François Mitterrand",
+          "party": "ps",
+          "votes": 12971604,
+          "pct": 49.19
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1974-05-05",
+          "candidates": [
+            {
+              "name": "François Mitterrand",
+              "party": "ps",
+              "votes": 11044373,
+              "pct": 43.25
+            },
+            {
+              "name": "Valéry Giscard d'Estaing",
+              "party": "ri",
+              "votes": 8326774,
+              "pct": 32.6
+            },
+            {
+              "name": "Jacques Chaban-Delmas",
+              "party": "udr",
+              "votes": 3857728,
+              "pct": 15.11
+            },
+            {
+              "name": "Jean Royer",
+              "party": "dvd",
+              "votes": 810540,
+              "pct": 3.17
+            },
+            {
+              "name": "Arlette Laguiller",
+              "party": "lo",
+              "votes": 595247,
+              "pct": 2.33
+            },
+            {
+              "name": "René Dumont",
+              "party": "eco",
+              "votes": 337800,
+              "pct": 1.32
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 566174,
+              "pct": 2.22
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1974-05-19",
+          "candidates": [
+            {
+              "name": "Valéry Giscard d'Estaing",
+              "party": "ri",
+              "votes": 13396203,
+              "pct": 50.81,
+              "winner": true
+            },
+            {
+              "name": "François Mitterrand",
+              "party": "ps",
+              "votes": 12971604,
+              "pct": 49.19
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 84.23%). First-round Others: Jean-Marie Le Pen, Émile Muller, Alain Krivine, Bertrand Renouvin, Jean-Claude Sebag, Guy Héraud. Jean Royer (an independent right-wing conservative in the table) is filed under miscellaneous right and René Dumont (an independent environmentalist) under ecologists."
+    },
+    {
+      "id": "fr-president-1981",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1981-04-26",
+      "turnout": 85.85,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/1981_French_presidential_election",
+        "revid": 1373965797
+      },
+      "candidates": [
+        {
+          "name": "François Mitterrand",
+          "party": "ps",
+          "votes": 15708262,
+          "pct": 51.76,
+          "winner": true
+        },
+        {
+          "name": "Valéry Giscard d'Estaing",
+          "party": "udf",
+          "votes": 14642306,
+          "pct": 48.24
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1981-04-26",
+          "candidates": [
+            {
+              "name": "Valéry Giscard d'Estaing",
+              "party": "udf",
+              "votes": 8222432,
+              "pct": 28.32
+            },
+            {
+              "name": "François Mitterrand",
+              "party": "ps",
+              "votes": 7505960,
+              "pct": 25.85
+            },
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 5225848,
+              "pct": 18
+            },
+            {
+              "name": "Georges Marchais",
+              "party": "pcf",
+              "votes": 4456922,
+              "pct": 15.35
+            },
+            {
+              "name": "Brice Lalonde",
+              "party": "eco",
+              "votes": 1126254,
+              "pct": 3.88
+            },
+            {
+              "name": "Arlette Laguiller",
+              "party": "lo",
+              "votes": 668057,
+              "pct": 2.3
+            },
+            {
+              "name": "Michel Crépeau",
+              "party": "prg",
+              "votes": 642847,
+              "pct": 2.21
+            },
+            {
+              "name": "Michel Debré",
+              "party": "rpr",
+              "votes": 481821,
+              "pct": 1.66
+            },
+            {
+              "name": "Marie-France Garaud",
+              "party": "rpr",
+              "votes": 386623,
+              "pct": 1.33
+            },
+            {
+              "name": "Huguette Bouchardeau",
+              "party": "psu",
+              "votes": 321353,
+              "pct": 1.11
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1981-05-10",
+          "candidates": [
+            {
+              "name": "François Mitterrand",
+              "party": "ps",
+              "votes": 15708262,
+              "pct": 51.76,
+              "winner": true
+            },
+            {
+              "name": "Valéry Giscard d'Estaing",
+              "party": "udf",
+              "votes": 14642306,
+              "pct": 48.24
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 81.09%). Michel Debré and Marie-France Garaud are listed in the table as \"Rally for the Republic (splinter)\" and use the RPR key. Brice Lalonde (Political Ecology Movement) is filed under ecologists."
+    },
+    {
+      "id": "fr-president-1988",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1988-04-24",
+      "turnout": 84.06,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/1988_French_presidential_election",
+        "revid": 1373965787
+      },
+      "candidates": [
+        {
+          "name": "François Mitterrand",
+          "party": "ps",
+          "votes": 16704279,
+          "pct": 54.02,
+          "winner": true
+        },
+        {
+          "name": "Jacques Chirac",
+          "party": "rpr",
+          "votes": 14218970,
+          "pct": 45.98
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1988-04-24",
+          "candidates": [
+            {
+              "name": "François Mitterrand",
+              "party": "ps",
+              "votes": 10367220,
+              "pct": 34.1
+            },
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 6063514,
+              "pct": 19.94
+            },
+            {
+              "name": "Raymond Barre",
+              "party": "udf",
+              "votes": 5031849,
+              "pct": 16.55
+            },
+            {
+              "name": "Jean-Marie Le Pen",
+              "party": "rn",
+              "votes": 4375894,
+              "pct": 14.39
+            },
+            {
+              "name": "André Lajoinie",
+              "party": "pcf",
+              "votes": 2055995,
+              "pct": 6.76
+            },
+            {
+              "name": "Antoine Waechter",
+              "party": "verts",
+              "votes": 1149642,
+              "pct": 3.78
+            },
+            {
+              "name": "Pierre Juquin",
+              "party": "ind",
+              "votes": 639084,
+              "pct": 2.1
+            },
+            {
+              "name": "Arlette Laguiller",
+              "party": "lo",
+              "votes": 606017,
+              "pct": 1.99
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 116823,
+              "pct": 0.38
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1988-05-08",
+          "candidates": [
+            {
+              "name": "François Mitterrand",
+              "party": "ps",
+              "votes": 16704279,
+              "pct": 54.02,
+              "winner": true
+            },
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 14218970,
+              "pct": 45.98
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 81.38%). First-round Others: Pierre Boussel. Pierre Juquin ran as an independent communist (Independents key)."
+    },
+    {
+      "id": "fr-president-1995",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1995-04-23",
+      "turnout": 79.66,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/1995_French_presidential_election",
+        "revid": 1373965776
+      },
+      "candidates": [
+        {
+          "name": "Jacques Chirac",
+          "party": "rpr",
+          "votes": 15763027,
+          "pct": 52.64,
+          "winner": true
+        },
+        {
+          "name": "Lionel Jospin",
+          "party": "ps",
+          "votes": 14180644,
+          "pct": 47.36
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1995-04-23",
+          "candidates": [
+            {
+              "name": "Lionel Jospin",
+              "party": "ps",
+              "votes": 7097786,
+              "pct": 23.3
+            },
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 6348375,
+              "pct": 20.84
+            },
+            {
+              "name": "Édouard Balladur",
+              "party": "rpr",
+              "votes": 5658796,
+              "pct": 18.58
+            },
+            {
+              "name": "Jean-Marie Le Pen",
+              "party": "rn",
+              "votes": 4570838,
+              "pct": 15
+            },
+            {
+              "name": "Robert Hue",
+              "party": "pcf",
+              "votes": 2632460,
+              "pct": 8.64
+            },
+            {
+              "name": "Arlette Laguiller",
+              "party": "lo",
+              "votes": 1615552,
+              "pct": 5.3
+            },
+            {
+              "name": "Philippe de Villiers",
+              "party": "mpf",
+              "votes": 1443186,
+              "pct": 4.74
+            },
+            {
+              "name": "Dominique Voynet",
+              "party": "verts",
+              "votes": 1010681,
+              "pct": 3.32
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 84959,
+              "pct": 0.28
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1995-05-07",
+          "candidates": [
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 15763027,
+              "pct": 52.64,
+              "winner": true
+            },
+            {
+              "name": "Lionel Jospin",
+              "party": "ps",
+              "votes": 14180644,
+              "pct": 47.36
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "IDF": "rpr",
+        "CVL": "rpr",
+        "PDL": "rpr",
+        "BRE": "rpr",
+        "PAC": "rpr",
+        "COR": "rpr"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1995_French_presidential_election",
+      "notes": "Turnout is the run-off's (first round 78.38%). First-round Others: Jacques Cheminade. Region winners are from the article's run-off table by pre-2016 region and cover only the regions that match today's map (IDF, CVL, PDL, BRE, PAC, COR)."
+    },
+    {
+      "id": "fr-president-2002",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2002-04-21",
+      "turnout": 79.71,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/2002_French_presidential_election",
+        "revid": 1373965757
+      },
+      "candidates": [
+        {
+          "name": "Jacques Chirac",
+          "party": "rpr",
+          "votes": 25537956,
+          "pct": 82.21,
+          "winner": true
+        },
+        {
+          "name": "Jean-Marie Le Pen",
+          "party": "rn",
+          "votes": 5525032,
+          "pct": 17.79
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2002-04-21",
+          "candidates": [
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 5665855,
+              "pct": 19.88
+            },
+            {
+              "name": "Jean-Marie Le Pen",
+              "party": "rn",
+              "votes": 4804713,
+              "pct": 16.86
+            },
+            {
+              "name": "Lionel Jospin",
+              "party": "ps",
+              "votes": 4610113,
+              "pct": 16.18
+            },
+            {
+              "name": "François Bayrou",
+              "party": "udf",
+              "votes": 1949170,
+              "pct": 6.84
+            },
+            {
+              "name": "Arlette Laguiller",
+              "party": "lo",
+              "votes": 1630045,
+              "pct": 5.72
+            },
+            {
+              "name": "Jean-Pierre Chevènement",
+              "party": "mrc",
+              "votes": 1518528,
+              "pct": 5.33
+            },
+            {
+              "name": "Noël Mamère",
+              "party": "verts",
+              "votes": 1495724,
+              "pct": 5.25
+            },
+            {
+              "name": "Olivier Besancenot",
+              "party": "lcr",
+              "votes": 1210562,
+              "pct": 4.25
+            },
+            {
+              "name": "Jean Saint-Josse",
+              "party": "cpnt",
+              "votes": 1204689,
+              "pct": 4.23
+            },
+            {
+              "name": "Alain Madelin",
+              "party": "dl",
+              "votes": 1113484,
+              "pct": 3.91
+            },
+            {
+              "name": "Robert Hue",
+              "party": "pcf",
+              "votes": 960480,
+              "pct": 3.37
+            },
+            {
+              "name": "Bruno Mégret",
+              "party": "mnr",
+              "votes": 667026,
+              "pct": 2.34
+            },
+            {
+              "name": "Christiane Taubira",
+              "party": "prg",
+              "votes": 660447,
+              "pct": 2.32
+            },
+            {
+              "name": "Corinne Lepage",
+              "party": "cap21",
+              "votes": 535837,
+              "pct": 1.88
+            },
+            {
+              "name": "Christine Boutin",
+              "party": "frs",
+              "votes": 339112,
+              "pct": 1.19
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 132686,
+              "pct": 0.47
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2002-05-05",
+          "candidates": [
+            {
+              "name": "Jacques Chirac",
+              "party": "rpr",
+              "votes": 25537956,
+              "pct": 82.21,
+              "winner": true
+            },
+            {
+              "name": "Jean-Marie Le Pen",
+              "party": "rn",
+              "votes": 5525032,
+              "pct": 17.79
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "IDF": "rpr",
+        "CVL": "rpr",
+        "PDL": "rpr",
+        "BRE": "rpr",
+        "PAC": "rpr",
+        "COR": "rpr"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2002_French_presidential_election",
+      "notes": "Turnout is the run-off's (first round 71.6%). First-round Others: Daniel Gluckstein. Region winners are from the article's run-off table by pre-2016 region and cover only the regions that match today's map (IDF, CVL, PDL, BRE, PAC, COR)."
+    },
+    {
+      "id": "fr-president-2007",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2007-04-22",
+      "turnout": 83.97,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/2007_French_presidential_election",
+        "revid": 1375209150
+      },
+      "candidates": [
+        {
+          "name": "Nicolas Sarkozy",
+          "party": "ump",
+          "votes": 18983138,
+          "pct": 53.06,
+          "winner": true
+        },
+        {
+          "name": "Ségolène Royal",
+          "party": "ps",
+          "votes": 16790440,
+          "pct": 46.94
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2007-04-22",
+          "candidates": [
+            {
+              "name": "Nicolas Sarkozy",
+              "party": "ump",
+              "votes": 11448663,
+              "pct": 31.18
+            },
+            {
+              "name": "Ségolène Royal",
+              "party": "ps",
+              "votes": 9500112,
+              "pct": 25.87
+            },
+            {
+              "name": "François Bayrou",
+              "party": "udf",
+              "votes": 6820119,
+              "pct": 18.57
+            },
+            {
+              "name": "Jean-Marie Le Pen",
+              "party": "rn",
+              "votes": 3834530,
+              "pct": 10.44
+            },
+            {
+              "name": "Olivier Besancenot",
+              "party": "lcr",
+              "votes": 1498581,
+              "pct": 4.08
+            },
+            {
+              "name": "Philippe de Villiers",
+              "party": "mpf",
+              "votes": 818407,
+              "pct": 2.23
+            },
+            {
+              "name": "Marie-George Buffet",
+              "party": "pcf",
+              "votes": 707268,
+              "pct": 1.93
+            },
+            {
+              "name": "Dominique Voynet",
+              "party": "verts",
+              "votes": 576666,
+              "pct": 1.57
+            },
+            {
+              "name": "Arlette Laguiller",
+              "party": "lo",
+              "votes": 487857,
+              "pct": 1.33
+            },
+            {
+              "name": "José Bové",
+              "party": "dvg",
+              "votes": 483008,
+              "pct": 1.32
+            },
+            {
+              "name": "Frédéric Nihous",
+              "party": "cpnt",
+              "votes": 420645,
+              "pct": 1.15
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 123540,
+              "pct": 0.34
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2007-05-06",
+          "candidates": [
+            {
+              "name": "Nicolas Sarkozy",
+              "party": "ump",
+              "votes": 18983138,
+              "pct": 53.06,
+              "winner": true
+            },
+            {
+              "name": "Ségolène Royal",
+              "party": "ps",
+              "votes": 16790440,
+              "pct": 46.94
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "IDF": "ump",
+        "CVL": "ump",
+        "PDL": "ump",
+        "BRE": "ps",
+        "PAC": "ump",
+        "COR": "ump"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2007_French_presidential_election",
+      "notes": "Turnout is the run-off's (first round 83.77%). First-round Others: Gérard Schivardi. José Bové (miscellaneous left/environmentalist in the table) is filed under miscellaneous left. Region winners are from the article's run-off table by pre-2016 region and cover only the regions that match today's map (IDF, CVL, PDL, BRE, PAC, COR)."
+    },
+    {
+      "id": "fr-president-2012",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2012-04-22",
+      "turnout": 80.35,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/2012_French_presidential_election",
+        "revid": 1373610521
+      },
+      "candidates": [
+        {
+          "name": "François Hollande",
+          "party": "ps",
+          "votes": 18000668,
+          "pct": 51.64,
+          "winner": true
+        },
+        {
+          "name": "Nicolas Sarkozy",
+          "party": "ump",
+          "votes": 16860685,
+          "pct": 48.36
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2012-04-22",
+          "candidates": [
+            {
+              "name": "François Hollande",
+              "party": "ps",
+              "votes": 10272705,
+              "pct": 28.63
+            },
+            {
+              "name": "Nicolas Sarkozy",
+              "party": "ump",
+              "votes": 9753629,
+              "pct": 27.18
+            },
+            {
+              "name": "Marine Le Pen",
+              "party": "rn",
+              "votes": 6421426,
+              "pct": 17.9
+            },
+            {
+              "name": "Jean-Luc Mélenchon",
+              "party": "fdg",
+              "votes": 3984822,
+              "pct": 11.1
+            },
+            {
+              "name": "François Bayrou",
+              "party": "modem",
+              "votes": 3275122,
+              "pct": 9.13
+            },
+            {
+              "name": "Eva Joly",
+              "party": "eelv",
+              "votes": 828345,
+              "pct": 2.31
+            },
+            {
+              "name": "Nicolas Dupont-Aignan",
+              "party": "dlf",
+              "votes": 643907,
+              "pct": 1.79
+            },
+            {
+              "name": "Philippe Poutou",
+              "party": "npa",
+              "votes": 411160,
+              "pct": 1.15
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 292093,
+              "pct": 0.81
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2012-05-06",
+          "candidates": [
+            {
+              "name": "François Hollande",
+              "party": "ps",
+              "votes": 18000668,
+              "pct": 51.64,
+              "winner": true
+            },
+            {
+              "name": "Nicolas Sarkozy",
+              "party": "ump",
+              "votes": 16860685,
+              "pct": 48.36
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "BRE": "ps",
+        "CVL": "ump",
+        "COR": "ump",
+        "IDF": "ps",
+        "PDL": "ps",
+        "PAC": "ump"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2012_French_presidential_election",
+      "notes": "Turnout is the run-off's (first round 79.48%). First-round Others: Nathalie Arthaud, Jacques Cheminade. Region winners are from the article's run-off table by pre-2016 region and cover only the regions that match today's map (BRE, CVL, COR, IDF, PDL, PAC)."
+    },
+    {
+      "id": "fr-president-2017",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2017-04-23",
+      "turnout": 74.56,
+      "source": {
+        "name": "Wikipedia, citing the Constitutional Council",
+        "url": "https://en.wikipedia.org/wiki/2017_French_presidential_election",
+        "revid": 1373728512
+      },
+      "candidates": [
+        {
+          "name": "Emmanuel Macron",
+          "party": "lrem",
+          "votes": 20743128,
+          "pct": 66.1,
+          "winner": true
+        },
+        {
+          "name": "Marine Le Pen",
+          "party": "rn",
+          "votes": 10638475,
+          "pct": 33.9
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2017-04-23",
+          "candidates": [
+            {
+              "name": "Emmanuel Macron",
+              "party": "lrem",
+              "votes": 8656346,
+              "pct": 24.01
+            },
+            {
+              "name": "Marine Le Pen",
+              "party": "rn",
+              "votes": 7678491,
+              "pct": 21.3
+            },
+            {
+              "name": "François Fillon",
+              "party": "lr",
+              "votes": 7212995,
+              "pct": 20.01
+            },
+            {
+              "name": "Jean-Luc Mélenchon",
+              "party": "lfi",
+              "votes": 7059951,
+              "pct": 19.58
+            },
+            {
+              "name": "Benoît Hamon",
+              "party": "ps",
+              "votes": 2291288,
+              "pct": 6.36
+            },
+            {
+              "name": "Nicolas Dupont-Aignan",
+              "party": "dlf",
+              "votes": 1695000,
+              "pct": 4.7
+            },
+            {
+              "name": "Jean Lassalle",
+              "party": "res",
+              "votes": 435301,
+              "pct": 1.21
+            },
+            {
+              "name": "Philippe Poutou",
+              "party": "npa",
+              "votes": 394505,
+              "pct": 1.09
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 630517,
+              "pct": 1.75
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2017-05-07",
+          "candidates": [
+            {
+              "name": "Emmanuel Macron",
+              "party": "lrem",
+              "votes": 20743128,
+              "pct": 66.1,
+              "winner": true
+            },
+            {
+              "name": "Marine Le Pen",
+              "party": "rn",
+              "votes": 10638475,
+              "pct": 33.9
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "ARA": "lrem",
+        "BFC": "lrem",
+        "BRE": "lrem",
+        "CVL": "lrem",
+        "COR": "lrem",
+        "GES": "lrem",
+        "HDF": "lrem",
+        "IDF": "lrem",
+        "NOR": "lrem",
+        "NAQ": "lrem",
+        "OCC": "lrem",
+        "PDL": "lrem",
+        "PAC": "lrem"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_French_presidential_election",
+      "notes": "Turnout is the run-off's (first round 77.77%). First-round Others: François Asselineau, Nathalie Arthaud, Jacques Cheminade. Region winners are from the article's run-off table by region."
+    }
+  ]
+}

@@ -1,0 +1,1774 @@
+{
+  "code": "ZA",
+  "parties": {
+    "up": {
+      "name": "United Party",
+      "color": "#318CE7",
+      "article": "United Party (South Africa)"
+    },
+    "rnp": {
+      "name": "Reunited National Party",
+      "color": "#FF9933",
+      "article": "Reunited National Party"
+    },
+    "ap": {
+      "name": "Afrikaner Party",
+      "color": "#007090",
+      "article": "Afrikaner Party"
+    },
+    "lab": {
+      "name": "Labour Party",
+      "color": "#FF0000",
+      "article": "Labour Party (South Africa)"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "natrep": {
+      "name": "Native Representatives",
+      "color": "#6B4F3A"
+    },
+    "np": {
+      "name": "National Party",
+      "color": "#E65100",
+      "article": "National Party (South Africa)"
+    },
+    "unswp": {
+      "name": "United National South West Party",
+      "color": "#7FB3D5",
+      "article": "United National South West Party"
+    },
+    "colrep": {
+      "name": "Coloured Representatives",
+      "color": "#A1887F"
+    },
+    "pp": {
+      "name": "Progressive Party",
+      "color": "#005BA6",
+      "article": "Progressive Party (South Africa)"
+    },
+    "nun": {
+      "name": "National Union",
+      "color": "#5218FA",
+      "article": "National Union (South Africa)"
+    },
+    "cwp": {
+      "name": "Conservative Workers' Party",
+      "color": "#8D6E63"
+    },
+    "hnp": {
+      "name": "Herstigte Nasionale Party",
+      "color": "#FF1600",
+      "article": "Herstigte Nasionale Party"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "pfp": {
+      "name": "Progressive Federal Party",
+      "color": "#005BA6",
+      "article": "Progressive Federal Party"
+    },
+    "nrp": {
+      "name": "New Republic Party",
+      "color": "#FDB813",
+      "article": "New Republic Party (South Africa)"
+    },
+    "sap": {
+      "name": "South African Party",
+      "color": "#2E86AB",
+      "article": "South African Party (1977)"
+    },
+    "ncp": {
+      "name": "National Conservative Party",
+      "color": "#B8860B"
+    },
+    "apt": {
+      "name": "Appointed members",
+      "color": "#4A4A52"
+    },
+    "indel": {
+      "name": "Indirectly elected members",
+      "color": "#78787F"
+    },
+    "cp": {
+      "name": "Conservative Party",
+      "color": "#FFD700",
+      "article": "Conservative Party (South Africa)"
+    },
+    "dp": {
+      "name": "Democratic Party",
+      "color": "#6699CC",
+      "article": "Democratic Party (South Africa)"
+    },
+    "anc": {
+      "name": "African National Congress",
+      "color": "#007A3D",
+      "article": "African National Congress"
+    },
+    "ifp": {
+      "name": "Inkatha Freedom Party",
+      "color": "#E1A400",
+      "article": "Inkatha Freedom Party"
+    },
+    "ffp": {
+      "name": "Freedom Front Plus",
+      "color": "#F28C28",
+      "article": "Freedom Front Plus"
+    },
+    "pac": {
+      "name": "Pan Africanist Congress",
+      "color": "#008718",
+      "article": "Pan Africanist Congress of Azania"
+    },
+    "acdp": {
+      "name": "African Christian Democratic Party",
+      "color": "#BA0C2F",
+      "article": "African Christian Democratic Party"
+    },
+    "udm": {
+      "name": "United Democratic Movement",
+      "color": "#FFB300",
+      "article": "United Democratic Movement"
+    },
+    "ucdp": {
+      "name": "United Christian Democratic Party",
+      "color": "#77A32E",
+      "article": "United Christian Democratic Party"
+    },
+    "fa": {
+      "name": "Federal Alliance",
+      "color": "#1B75BC",
+      "article": "Federal Alliance (South Africa)"
+    },
+    "mf": {
+      "name": "Minority Front",
+      "color": "#EC1D25",
+      "article": "Minority Front"
+    },
+    "aeb": {
+      "name": "Afrikaner Eenheidsbeweging",
+      "color": "#004577",
+      "article": "Afrikaner Eenheidsbeweging"
+    },
+    "azapo": {
+      "name": "Azanian People's Organisation",
+      "color": "#6D4C41",
+      "article": "Azanian People's Organisation"
+    },
+    "da": {
+      "name": "Democratic Alliance",
+      "color": "#005BA6",
+      "article": "Democratic Alliance (South Africa)"
+    },
+    "idem": {
+      "name": "Independent Democrats",
+      "color": "#F7B267",
+      "article": "Independent Democrats"
+    },
+    "cope": {
+      "name": "Congress of the People",
+      "color": "#FFE066",
+      "article": "Congress of the People (South African political party)"
+    },
+    "apc": {
+      "name": "African People's Convention",
+      "color": "#9C27B0",
+      "article": "African People's Convention"
+    },
+    "eff": {
+      "name": "Economic Freedom Fighters",
+      "color": "#C8102E",
+      "article": "Economic Freedom Fighters"
+    },
+    "nfp": {
+      "name": "National Freedom Party",
+      "color": "#F48FB1",
+      "article": "National Freedom Party"
+    },
+    "aic": {
+      "name": "African Independent Congress",
+      "color": "#FFB543",
+      "article": "African Independent Congress"
+    },
+    "agang": {
+      "name": "Agang South Africa",
+      "color": "#26A69A",
+      "article": "Agang South Africa"
+    },
+    "atm": {
+      "name": "African Transformation Movement",
+      "color": "#00ADEE",
+      "article": "African Transformation Movement"
+    },
+    "good": {
+      "name": "GOOD",
+      "color": "#F36900",
+      "article": "Good (political party)"
+    },
+    "aljamaah": {
+      "name": "Al Jama-ah",
+      "color": "#1C9069",
+      "article": "Al Jama-ah"
+    }
+  },
+  "elections": [
+    {
+      "id": "za-assembly-1948",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1948-05-26",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 153,
+      "turnout": 80.25,
+      "source": {
+        "name": "Wikipedia, citing the African Elections Database",
+        "url": "https://en.wikipedia.org/wiki/1948_South_African_general_election",
+        "revid": 1378384552
+      },
+      "candidates": [
+        {
+          "name": "Herenigde Nasionale Party",
+          "party": "rnp",
+          "votes": 401834,
+          "pct": 37.7,
+          "seats": 70,
+          "change": 27,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 524230,
+          "pct": 49.18,
+          "seats": 65,
+          "change": -24
+        },
+        {
+          "name": "Afrikaner Party",
+          "party": "ap",
+          "votes": 41885,
+          "pct": 3.93,
+          "seats": 9,
+          "change": 9
+        },
+        {
+          "name": "Labour Party",
+          "party": "lab",
+          "votes": 27360,
+          "pct": 2.57,
+          "seats": 6,
+          "change": -3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 70662,
+          "pct": 6.63,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Native Representative Members",
+          "party": "natrep",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. 150 general-roll seats plus 3 Native Representative members (white MPs representing black voters in the Cape, elected separately), as listed in the source table (total 153). Herenigde Nasionale Party is Malan's Reunited National Party (1940–1951), not the later Herstigte Nasionale Party."
+    },
+    {
+      "id": "za-assembly-1953",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1953-04-15",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 159,
+      "turnout": 87.95,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and the African Elections Database",
+        "url": "https://en.wikipedia.org/wiki/1953_South_African_general_election",
+        "revid": 1363125152
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 598718,
+          "pct": 49.48,
+          "seats": 94,
+          "change": 15,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 576474,
+          "pct": 47.65,
+          "seats": 57,
+          "change": -8
+        },
+        {
+          "name": "Labour Party",
+          "party": "lab",
+          "votes": 34730,
+          "pct": 2.87,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Native Representative Members",
+          "party": "natrep",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. 156 general-roll seats plus 3 Native Representative members (elected separately), as listed in the source table (total 159)."
+    },
+    {
+      "id": "za-assembly-1958",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1958-04-16",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 163,
+      "turnout": 74.42,
+      "source": {
+        "name": "Wikipedia, citing Potgieter's Standard Encyclopaedia of Southern Africa",
+        "url": "https://en.wikipedia.org/wiki/1958_South_African_general_election",
+        "revid": 1364334048
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 642006,
+          "pct": 55.54,
+          "seats": 103,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 492080,
+          "pct": 42.57,
+          "seats": 53,
+          "change": -4
+        },
+        {
+          "name": "United National South West Party",
+          "party": "unswp",
+          "votes": 11568,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Labour Party",
+          "party": "lab",
+          "votes": 2670,
+          "pct": 0.23,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Native Representative Members",
+          "party": "natrep",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Coloured Representative Members",
+          "party": "colrep",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7679,
+          "pct": 0.66,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. The article says 24 seats were uncontested, all won by the United Party. 156 general-roll seats plus 4 Coloured Representative members (first elected on 3 April 1958 for Coloured voters in the Cape) and 3 Native Representative members, as listed in the source table (total 163)."
+    },
+    {
+      "id": "za-assembly-1961",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1961-10-18",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 160,
+      "turnout": 44.29,
+      "source": {
+        "name": "Wikipedia, citing Potgieter's Standard Encyclopaedia of Southern Africa",
+        "url": "https://en.wikipedia.org/wiki/1961_South_African_general_election",
+        "revid": 1371597700
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 370395,
+          "pct": 46.44,
+          "seats": 105,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 281361,
+          "pct": 35.28,
+          "seats": 49,
+          "change": -4
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 69045,
+          "pct": 8.66,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Union",
+          "party": "nun",
+          "votes": 50279,
+          "pct": 6.3,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Conservative Workers' Party",
+          "party": "cwp",
+          "votes": 8554,
+          "pct": 1.07,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Coloured Representative Members",
+          "party": "colrep",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 17927,
+          "pct": 2.25,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. The article says 70 seats were uncontested (50 National Party, 20 United Party). 156 general-roll seats plus 4 Coloured Representative members, as listed in the source table (total 160). Turnout is computed from the table's electorate and votes cast; the infobox gives 44.55%."
+    },
+    {
+      "id": "za-assembly-1966",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1966-03-30",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 170,
+      "turnout": 68.88,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and the Standard Encyclopaedia of Southern Africa",
+        "url": "https://en.wikipedia.org/wiki/1966_South_African_general_election",
+        "revid": 1371597827
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 759331,
+          "pct": 58.31,
+          "seats": 126,
+          "change": 21,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 476815,
+          "pct": 36.62,
+          "seats": 39,
+          "change": -10
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 39717,
+          "pct": 3.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Coloured Representative Members",
+          "party": "colrep",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 26288,
+          "pct": 2.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. The article says 18 candidates were returned unopposed (17 National Party, 1 United Party). 166 general-roll seats plus 4 Coloured Representative members, as listed in the source table (total 170). Turnout is computed from the table's electorate and votes cast; the infobox gives 68.48%."
+    },
+    {
+      "id": "za-assembly-1970",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1970-04-22",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 166,
+      "turnout": 69.76,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and the Standard Encyclopaedia of Southern Africa",
+        "url": "https://en.wikipedia.org/wiki/1970_South_African_general_election",
+        "revid": 1371597858
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 822034,
+          "pct": 54.89,
+          "seats": 117,
+          "change": -9,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 553280,
+          "pct": 36.94,
+          "seats": 47,
+          "change": 8
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 51742,
+          "pct": 3.45,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Herstigte Nasionale Party",
+          "party": "hnp",
+          "votes": 53735,
+          "pct": 3.59,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 16861,
+          "pct": 1.13,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. The article says 11 members were elected unopposed. Voting in one constituency did not take place; the table lists it as vacant (the National Party won the later by-election)."
+    },
+    {
+      "id": "za-assembly-1974",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1974-04-24",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 171,
+      "turnout": 51.87,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and the Official Yearbook of South Africa",
+        "url": "https://en.wikipedia.org/wiki/1974_South_African_general_election",
+        "revid": 1371597861
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 638424,
+          "pct": 56.14,
+          "seats": 122,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "United Party",
+          "party": "up",
+          "votes": 363478,
+          "pct": 31.96,
+          "seats": 41,
+          "change": -6
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pp",
+          "votes": 72479,
+          "pct": 6.37,
+          "seats": 6,
+          "change": 5
+        },
+        {
+          "name": "Herstigte Nasionale Party",
+          "party": "hnp",
+          "votes": 44717,
+          "pct": 3.93,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 18053,
+          "pct": 1.59,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. The article says 46 seats were won unopposed (32 National Party, 14 United Party). 169 of the 171 seats were filled at this election; the table lists 2 as vacant. The table's own \"Others\" row is part of Others here."
+    },
+    {
+      "id": "za-assembly-1977",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1977-11-30",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 165,
+      "turnout": 48.52,
+      "source": {
+        "name": "Wikipedia, citing the Official Yearbook of South Africa",
+        "url": "https://en.wikipedia.org/wiki/1977_South_African_general_election",
+        "revid": 1371597866
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 685035,
+          "pct": 65.34,
+          "seats": 134,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Progressive Federal Party",
+          "party": "pfp",
+          "votes": 177705,
+          "pct": 16.95,
+          "seats": 17,
+          "change": 11
+        },
+        {
+          "name": "New Republic Party",
+          "party": "nrp",
+          "votes": 127335,
+          "pct": 12.15,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "South African Party",
+          "party": "sap",
+          "votes": 17915,
+          "pct": 1.71,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Herstigte Nasionale Party",
+          "party": "hnp",
+          "votes": 34159,
+          "pct": 3.26,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6271,
+          "pct": 0.6,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. One seat (Springs) was left vacant after the death of the National Party candidate, as listed in the table; the NP won the later by-election."
+    },
+    {
+      "id": "za-assembly-1981",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1981-04-29",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 177,
+      "turnout": 59.9,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and Nohlen et al.",
+        "url": "https://en.wikipedia.org/wiki/1981_South_African_general_election",
+        "revid": 1371597878
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 778371,
+          "pct": 57.66,
+          "seats": 131,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Progressive Federal Party",
+          "party": "pfp",
+          "votes": 265297,
+          "pct": 19.65,
+          "seats": 26,
+          "change": 9
+        },
+        {
+          "name": "New Republic Party",
+          "party": "nrp",
+          "votes": 93603,
+          "pct": 6.93,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Herstigte Nasionale Party",
+          "party": "hnp",
+          "votes": 191249,
+          "pct": 14.17,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "National Conservative Party",
+          "party": "ncp",
+          "votes": 19149,
+          "pct": 1.42,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Presidential appointees",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Indirectly-elected members",
+          "party": "indel",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2264,
+          "pct": 0.17,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. 165 seats were elected; the source table adds 4 presidential appointees and 8 indirectly elected members (total 177), with no party breakdown."
+    },
+    {
+      "id": "za-assembly-1987",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1987-05-06",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 178,
+      "turnout": 67.84,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and Nohlen et al.",
+        "url": "https://en.wikipedia.org/wiki/1987_South_African_general_election",
+        "revid": 1366887922
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 1075505,
+          "pct": 52.7,
+          "seats": 123,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Conservative Party",
+          "party": "cp",
+          "votes": 547559,
+          "pct": 26.83,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Progressive Federal Party",
+          "party": "pfp",
+          "votes": 288574,
+          "pct": 14.14,
+          "seats": 19,
+          "change": -7
+        },
+        {
+          "name": "New Republic Party",
+          "party": "nrp",
+          "votes": 40494,
+          "pct": 1.98,
+          "seats": 1,
+          "change": -7
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 27149,
+          "pct": 1.33,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Herstigte Nasionale Party",
+          "party": "hnp",
+          "votes": 61456,
+          "pct": 3.01,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Presidential appointees",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Indirectly-elected members",
+          "party": "indel",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": 0
+        }
+      ],
+      "notes": "Votes cover contested seats only. Tricameral parliament: House of Assembly (white) results only. 166 seats were elected; the source table adds 4 presidential appointees and 8 indirectly elected members (total 178). The article says 10 of those 12 went to the National Party and 1 each to the Conservative Party and the PFP."
+    },
+    {
+      "id": "za-assembly-1989",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1989-09-06",
+      "note": "House of Assembly, white voters only",
+      "totalSeats": 178,
+      "turnout": 69.48,
+      "source": {
+        "name": "Wikipedia, citing the Government Gazette of South Africa and Nohlen et al.",
+        "url": "https://en.wikipedia.org/wiki/1989_South_African_general_election",
+        "revid": 1367138044
+      },
+      "candidates": [
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 1039704,
+          "pct": 48.19,
+          "seats": 94,
+          "change": -29,
+          "winner": true
+        },
+        {
+          "name": "Conservative Party",
+          "party": "cp",
+          "votes": 680131,
+          "pct": 31.52,
+          "seats": 39,
+          "change": 17
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp",
+          "votes": 431444,
+          "pct": 20,
+          "seats": 33,
+          "change": 13
+        },
+        {
+          "name": "Presidential appointees",
+          "party": "apt",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Indirectly-elected members",
+          "party": "indel",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6314,
+          "pct": 0.29,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Votes cover contested seats only. The article says two Democratic Party seats were uncontested. Tricameral parliament: House of Assembly (white) results only; the House of Representatives and House of Delegates elections the same day are not included. 166 seats were elected; the source table adds 4 presidential appointees and 8 indirectly elected members (total 178). The article says 9 of those 12 went to the National Party, 2 to the Conservative Party and 1 to the Democratic Party."
+    },
+    {
+      "id": "za-assembly-1994",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1994-04-29",
+      "totalSeats": 400,
+      "source": {
+        "name": "Wikipedia, citing the African Elections Database",
+        "url": "https://en.wikipedia.org/wiki/1994_South_African_general_election",
+        "revid": 1375901580
+      },
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "votes": 12237655,
+          "pct": 62.65,
+          "seats": 252,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Party",
+          "party": "np",
+          "votes": 3983690,
+          "pct": 20.39,
+          "seats": 82,
+          "change": null
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "votes": 2058294,
+          "pct": 10.54,
+          "seats": 43,
+          "change": null
+        },
+        {
+          "name": "Freedom Front",
+          "party": "ffp",
+          "votes": 424555,
+          "pct": 2.17,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp",
+          "votes": 338426,
+          "pct": 1.73,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "votes": 243478,
+          "pct": 1.25,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "votes": 88104,
+          "pct": 0.45,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 159296,
+          "pct": 0.82,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Polling ran from 26 to 29 April 1994. First election under universal suffrage, so no seat changes. Turnout omitted: the article gives none. Freedom Front is the forerunner of Freedom Front Plus (same article). Region winners: party with the most National Assembly votes in each province, from the nine provincial National Assembly constituency articles.",
+      "regionWinners": {
+        "EC": "anc",
+        "FS": "anc",
+        "GT": "anc",
+        "NL": "ifp",
+        "LP": "anc",
+        "MP": "anc",
+        "NW": "anc",
+        "NC": "anc",
+        "WC": "np"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:National_Assembly_of_South_Africa_constituencies"
+    },
+    {
+      "id": "za-assembly-1999",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "1999-06-02",
+      "totalSeats": 400,
+      "turnout": 89.3,
+      "source": {
+        "name": "Wikipedia, citing Election Resources",
+        "url": "https://en.wikipedia.org/wiki/1999_South_African_general_election",
+        "revid": 1376311555
+      },
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "votes": 10601330,
+          "pct": 66.35,
+          "seats": 266,
+          "change": 14,
+          "winner": true
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp",
+          "votes": 1527337,
+          "pct": 9.56,
+          "seats": 38,
+          "change": 31
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "votes": 1371477,
+          "pct": 8.58,
+          "seats": 34,
+          "change": -9
+        },
+        {
+          "name": "New National Party",
+          "party": "np",
+          "votes": 1098215,
+          "pct": 6.87,
+          "seats": 28,
+          "change": -54
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "votes": 546790,
+          "pct": 3.42,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "votes": 228975,
+          "pct": 1.43,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "Freedom Front",
+          "party": "ffp",
+          "votes": 127217,
+          "pct": 0.8,
+          "seats": 3,
+          "change": -6
+        },
+        {
+          "name": "United Christian Democratic Party",
+          "party": "ucdp",
+          "votes": 125280,
+          "pct": 0.78,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "votes": 113125,
+          "pct": 0.71,
+          "seats": 3,
+          "change": -2
+        },
+        {
+          "name": "Federal Alliance",
+          "party": "fa",
+          "votes": 86704,
+          "pct": 0.54,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Minority Front",
+          "party": "mf",
+          "votes": 48277,
+          "pct": 0.3,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Afrikaner Eenheidsbeweging",
+          "party": "aeb",
+          "votes": 46292,
+          "pct": 0.29,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Azanian People's Organisation",
+          "party": "azapo",
+          "votes": 27257,
+          "pct": 0.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 28866,
+          "pct": 0.18,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "National ballot. The New National Party uses the np key: Wikipedia says the National Party renamed itself in 1997. The Democratic Party (dp) is kept separate from the Democratic Alliance. Parties marked \"New\" have a null change. Region winners: party with the most National Assembly votes in each province, from the nine provincial National Assembly constituency articles.",
+      "regionWinners": {
+        "EC": "anc",
+        "FS": "anc",
+        "GT": "anc",
+        "NL": "ifp",
+        "LP": "anc",
+        "MP": "anc",
+        "NW": "anc",
+        "NC": "anc",
+        "WC": "anc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:National_Assembly_of_South_Africa_constituencies"
+    },
+    {
+      "id": "za-assembly-2004",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2004-04-14",
+      "totalSeats": 400,
+      "turnout": 76.73,
+      "source": {
+        "name": "Wikipedia, citing Election Resources",
+        "url": "https://en.wikipedia.org/wiki/2004_South_African_general_election",
+        "revid": 1376311843
+      },
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "votes": 10880915,
+          "pct": 69.69,
+          "seats": 279,
+          "change": 13,
+          "winner": true
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "da",
+          "votes": 1931201,
+          "pct": 12.37,
+          "seats": 50,
+          "change": 12
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "votes": 1088664,
+          "pct": 6.97,
+          "seats": 28,
+          "change": -6
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "votes": 355717,
+          "pct": 2.28,
+          "seats": 9,
+          "change": -5
+        },
+        {
+          "name": "Independent Democrats",
+          "party": "idem",
+          "votes": 269765,
+          "pct": 1.73,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "New National Party",
+          "party": "np",
+          "votes": 257824,
+          "pct": 1.65,
+          "seats": 7,
+          "change": -21
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "votes": 250272,
+          "pct": 1.6,
+          "seats": 7,
+          "change": 1
+        },
+        {
+          "name": "Freedom Front Plus",
+          "party": "ffp",
+          "votes": 139465,
+          "pct": 0.89,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "United Christian Democratic Party",
+          "party": "ucdp",
+          "votes": 117792,
+          "pct": 0.75,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "votes": 113512,
+          "pct": 0.73,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Minority Front",
+          "party": "mf",
+          "votes": 55267,
+          "pct": 0.35,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Azanian People's Organisation",
+          "party": "azapo",
+          "votes": 39116,
+          "pct": 0.25,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 113161,
+          "pct": 0.72,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "National ballot. The New National Party uses the np key (renamed National Party). Parties marked \"New\" have a null change. Turnout is computed from the table's electorate and votes cast; the infobox gives 76.70%. Region winners: party with the most National Assembly votes in each province, from the nine provincial National Assembly constituency articles.",
+      "regionWinners": {
+        "EC": "anc",
+        "FS": "anc",
+        "GT": "anc",
+        "NL": "anc",
+        "LP": "anc",
+        "MP": "anc",
+        "NW": "anc",
+        "NC": "anc",
+        "WC": "anc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:National_Assembly_of_South_Africa_constituencies"
+    },
+    {
+      "id": "za-assembly-2009",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2009-04-22",
+      "totalSeats": 400,
+      "turnout": 77.3,
+      "source": {
+        "name": "Wikipedia, citing Election Resources",
+        "url": "https://en.wikipedia.org/wiki/2009_South_African_general_election",
+        "revid": 1376530721
+      },
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "votes": 11650748,
+          "pct": 65.9,
+          "seats": 264,
+          "change": -15,
+          "winner": true
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "da",
+          "votes": 2945829,
+          "pct": 16.66,
+          "seats": 67,
+          "change": 17
+        },
+        {
+          "name": "Congress of the People",
+          "party": "cope",
+          "votes": 1311027,
+          "pct": 7.42,
+          "seats": 30,
+          "change": null
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "votes": 804260,
+          "pct": 4.55,
+          "seats": 18,
+          "change": -10
+        },
+        {
+          "name": "Independent Democrats",
+          "party": "idem",
+          "votes": 162915,
+          "pct": 0.92,
+          "seats": 4,
+          "change": -3
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "votes": 149680,
+          "pct": 0.85,
+          "seats": 4,
+          "change": -5
+        },
+        {
+          "name": "Freedom Front Plus",
+          "party": "ffp",
+          "votes": 146796,
+          "pct": 0.83,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "votes": 142658,
+          "pct": 0.81,
+          "seats": 3,
+          "change": -4
+        },
+        {
+          "name": "United Christian Democratic Party",
+          "party": "ucdp",
+          "votes": 66086,
+          "pct": 0.37,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "votes": 48530,
+          "pct": 0.27,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Minority Front",
+          "party": "mf",
+          "votes": 43474,
+          "pct": 0.25,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Azanian People's Organisation",
+          "party": "azapo",
+          "votes": 38245,
+          "pct": 0.22,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "African People's Convention",
+          "party": "apc",
+          "votes": 35867,
+          "pct": 0.2,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 134614,
+          "pct": 0.76,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "National ballot. Parties marked \"New\" have a null change. Region winners: party with the most National Assembly votes in each province, from the nine provincial National Assembly constituency articles.",
+      "regionWinners": {
+        "EC": "anc",
+        "FS": "anc",
+        "GT": "anc",
+        "NL": "anc",
+        "LP": "anc",
+        "MP": "anc",
+        "NW": "anc",
+        "NC": "anc",
+        "WC": "da"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:National_Assembly_of_South_Africa_constituencies"
+    },
+    {
+      "id": "za-assembly-2014",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2014-05-07",
+      "totalSeats": 400,
+      "turnout": 73.48,
+      "source": {
+        "name": "Wikipedia, citing Election Resources",
+        "url": "https://en.wikipedia.org/wiki/2014_South_African_general_election",
+        "revid": 1375903240
+      },
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "votes": 11436921,
+          "pct": 62.15,
+          "seats": 249,
+          "change": -15,
+          "winner": true
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "da",
+          "votes": 4091584,
+          "pct": 22.23,
+          "seats": 89,
+          "change": 18
+        },
+        {
+          "name": "Economic Freedom Fighters",
+          "party": "eff",
+          "votes": 1169259,
+          "pct": 6.35,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "votes": 441854,
+          "pct": 2.4,
+          "seats": 10,
+          "change": -8
+        },
+        {
+          "name": "National Freedom Party",
+          "party": "nfp",
+          "votes": 288742,
+          "pct": 1.57,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "votes": 184636,
+          "pct": 1,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Freedom Front Plus",
+          "party": "ffp",
+          "votes": 165715,
+          "pct": 0.9,
+          "seats": 4,
+          "change": 0
+        },
+        {
+          "name": "Congress of the People",
+          "party": "cope",
+          "votes": 123235,
+          "pct": 0.67,
+          "seats": 3,
+          "change": -27
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "votes": 104039,
+          "pct": 0.57,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "African Independent Congress",
+          "party": "aic",
+          "votes": 97642,
+          "pct": 0.53,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Agang South Africa",
+          "party": "agang",
+          "votes": 52350,
+          "pct": 0.28,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "votes": 37784,
+          "pct": 0.21,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "African People's Convention",
+          "party": "apc",
+          "votes": 30676,
+          "pct": 0.17,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 178060,
+          "pct": 0.97,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "notes": "National ballot. Parties marked \"New\" have a null change. Region winners: party with the most National Assembly votes in each province, from the nine provincial National Assembly constituency articles.",
+      "regionWinners": {
+        "EC": "anc",
+        "FS": "anc",
+        "GT": "anc",
+        "NL": "anc",
+        "LP": "anc",
+        "MP": "anc",
+        "NW": "anc",
+        "NC": "anc",
+        "WC": "da"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:National_Assembly_of_South_Africa_constituencies"
+    },
+    {
+      "id": "za-assembly-2019",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2019-05-08",
+      "totalSeats": 400,
+      "turnout": 66.05,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Commission of South Africa",
+        "url": "https://en.wikipedia.org/wiki/2019_South_African_general_election",
+        "revid": 1375903515
+      },
+      "candidates": [
+        {
+          "name": "African National Congress",
+          "party": "anc",
+          "votes": 10026475,
+          "pct": 57.5,
+          "seats": 230,
+          "change": -19,
+          "winner": true
+        },
+        {
+          "name": "Democratic Alliance",
+          "party": "da",
+          "votes": 3622531,
+          "pct": 20.77,
+          "seats": 84,
+          "change": -5
+        },
+        {
+          "name": "Economic Freedom Fighters",
+          "party": "eff",
+          "votes": 1882480,
+          "pct": 10.8,
+          "seats": 44,
+          "change": 19
+        },
+        {
+          "name": "Inkatha Freedom Party",
+          "party": "ifp",
+          "votes": 588839,
+          "pct": 3.38,
+          "seats": 14,
+          "change": 4
+        },
+        {
+          "name": "Freedom Front Plus",
+          "party": "ffp",
+          "votes": 414864,
+          "pct": 2.38,
+          "seats": 10,
+          "change": 6
+        },
+        {
+          "name": "African Christian Democratic Party",
+          "party": "acdp",
+          "votes": 146262,
+          "pct": 0.84,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "votes": 78030,
+          "pct": 0.45,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "African Transformation Movement",
+          "party": "atm",
+          "votes": 76830,
+          "pct": 0.44,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Good",
+          "party": "good",
+          "votes": 70408,
+          "pct": 0.4,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Freedom Party",
+          "party": "nfp",
+          "votes": 61220,
+          "pct": 0.35,
+          "seats": 2,
+          "change": -4
+        },
+        {
+          "name": "African Independent Congress",
+          "party": "aic",
+          "votes": 48107,
+          "pct": 0.28,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Congress of the People",
+          "party": "cope",
+          "votes": 47461,
+          "pct": 0.27,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Pan Africanist Congress",
+          "party": "pac",
+          "votes": 32677,
+          "pct": 0.19,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Al Jama-ah",
+          "party": "aljamaah",
+          "votes": 31468,
+          "pct": 0.18,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 309727,
+          "pct": 1.78,
+          "seats": 0,
+          "change": -3
+        }
+      ],
+      "notes": "National ballot. Parties marked \"New\" have a null change. Region winners: party with the most National Assembly votes in each province, from the nine provincial National Assembly constituency articles.",
+      "regionWinners": {
+        "EC": "anc",
+        "FS": "anc",
+        "GT": "anc",
+        "NL": "anc",
+        "LP": "anc",
+        "MP": "anc",
+        "NW": "anc",
+        "NC": "anc",
+        "WC": "da"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/Category:National_Assembly_of_South_Africa_constituencies"
+    }
+  ]
+}

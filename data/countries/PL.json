@@ -1,0 +1,902 @@
+{
+  "code": "PL",
+  "name": "Poland",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary semi-presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Parliament: Sejm (460) and Senate (100)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 29500000,
+    "offices": {
+      "President": "Elected for five years over two rounds if nobody wins a majority in the first.",
+      "Sejm": "460 seats from 41 districts by open-list proportional representation with a 5% threshold.",
+      "Senate": "100 single-member districts elected by first past the post on the same day as the Sejm."
+    }
+  },
+  "parties": {
+    "pis": {
+      "name": "Law and Justice",
+      "color": "#263778"
+    },
+    "ko": {
+      "name": "Civic Coalition",
+      "color": "#F68F2D"
+    },
+    "td": {
+      "name": "Third Way",
+      "color": "#B5C72E"
+    },
+    "lewica": {
+      "name": "The Left",
+      "color": "#D40000"
+    },
+    "konf": {
+      "name": "Confederation",
+      "color": "#A0743E"
+    },
+    "kkp": {
+      "name": "Confederation of the Polish Crown",
+      "color": "#5B3A29"
+    },
+    "razem": {
+      "name": "Together",
+      "color": "#870F57"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "bs": {
+      "name": "Nonpartisan Local Government Activists",
+      "color": "#8B008B"
+    },
+    "jjp": {
+      "name": "There is One Poland",
+      "color": "#0054A5"
+    },
+    "spind": {
+      "name": "Independents (Senate Pact)",
+      "color": "#6CA0DC"
+    },
+    "stanowski": {
+      "name": "Independent",
+      "color": "#6B6B6B"
+    },
+    "senyszyn": {
+      "name": "Independent (SLD)",
+      "color": "#E75480"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "pl-president-2025",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2025-06-01",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 71.63,
+      "cite": {
+        "name": "the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election#By_voivodeship,_abroad_and_ships",
+      "system": "Two-round popular vote, five-year term",
+      "candidates": [
+        {
+          "name": "Karol Nawrocki",
+          "party": "pis",
+          "pct": 50.89,
+          "seats": null,
+          "votes": 10606877,
+          "winner": true
+        },
+        {
+          "name": "Rafał Trzaskowski",
+          "party": "ko",
+          "pct": 49.11,
+          "seats": null,
+          "votes": 10237286
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2025-05-18",
+          "candidates": [
+            {
+              "name": "Rafał Trzaskowski",
+              "party": "ko",
+              "pct": 31.36,
+              "seats": null,
+              "votes": 6147797
+            },
+            {
+              "name": "Karol Nawrocki",
+              "party": "pis",
+              "pct": 29.54,
+              "seats": null,
+              "votes": 5790804
+            },
+            {
+              "name": "Sławomir Mentzen",
+              "party": "konf",
+              "pct": 14.81,
+              "seats": null,
+              "votes": 2902448
+            },
+            {
+              "name": "Grzegorz Braun",
+              "party": "kkp",
+              "pct": 6.34,
+              "seats": null,
+              "votes": 1242917
+            },
+            {
+              "name": "Szymon Hołownia",
+              "party": "td",
+              "pct": 4.99,
+              "seats": null,
+              "votes": 978901
+            },
+            {
+              "name": "Adrian Zandberg",
+              "party": "razem",
+              "pct": 4.86,
+              "seats": null,
+              "votes": 952832
+            },
+            {
+              "name": "Magdalena Biejat",
+              "party": "lewica",
+              "pct": 4.23,
+              "seats": null,
+              "votes": 829361
+            },
+            {
+              "name": "Krzysztof Stanowski",
+              "party": "stanowski",
+              "pct": 1.24,
+              "seats": null,
+              "votes": 243479
+            },
+            {
+              "name": "Joanna Senyszyn",
+              "party": "senyszyn",
+              "pct": 1.09,
+              "seats": null,
+              "votes": 214198
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "pct": 1.54,
+              "seats": null,
+              "votes": 301047
+            }
+          ],
+          "regions": [
+            {"name":"Greater Poland","abbr":"WP","winner":"pis","margin":24.6,"turnout":76.1,"votes":990847,"results":[{"party":"pis","pct":46.5,"votes":460744},{"party":"ko","pct":21.9,"votes":216995},{"party":"konf","pct":18.4,"votes":182316},{"party":"td","pct":6.9,"votes":68368},{"party":"kkp","pct":6.3,"votes":62423}]},
+            {"name":"Kuyavian-Pomeranian","abbr":"KP","winner":"ko","margin":17.1,"turnout":65.4,"votes":1063820,"results":[{"party":"ko","pct":42.5,"votes":452124},{"party":"pis","pct":25.4,"votes":270210},{"party":"konf","pct":24.2,"votes":257444},{"party":"kkp","pct":4.6,"votes":48936},{"party":"td","pct":3.3,"votes":35106}]},
+            {"name":"Lesser Poland","abbr":"MA","winner":"pis","margin":7.9,"turnout":66.5,"votes":1394317,"results":[{"party":"pis","pct":37.9,"votes":528446},{"party":"ko","pct":30,"votes":418295},{"party":"konf","pct":19.9,"votes":277469},{"party":"td","pct":7,"votes":97602},{"party":"kkp","pct":5.1,"votes":71110}]},
+            {"name":"Łódź","abbr":"LD","winner":"pis","margin":13.9,"turnout":76.4,"votes":1076827,"results":[{"party":"pis","pct":37.5,"votes":403810},{"party":"ko","pct":23.6,"votes":254131},{"party":"konf","pct":17.6,"votes":189522},{"party":"kkp","pct":11.8,"votes":127066},{"party":"td","pct":9.5,"votes":102299}]},
+            {"name":"Lower Silesian","abbr":"DS","winner":"pis","margin":5.8,"turnout":66,"votes":1428546,"results":[{"party":"pis","pct":38.9,"votes":555704},{"party":"ko","pct":33.1,"votes":472849},{"party":"konf","pct":17.8,"votes":254281},{"party":"td","pct":5.4,"votes":77141},{"party":"kkp","pct":4.8,"votes":68570}]},
+            {"name":"Lublin","abbr":"LU","winner":"ko","margin":24.4,"turnout":70,"votes":1404218,"results":[{"party":"ko","pct":46.1,"votes":647344},{"party":"pis","pct":21.7,"votes":304715},{"party":"konf","pct":14.4,"votes":202207},{"party":"kkp","pct":10.2,"votes":143230},{"party":"td","pct":7.7,"votes":108125}]},
+            {"name":"Lubusz","abbr":"LB","winner":"pis","margin":3.4,"turnout":77.1,"votes":1086238,"results":[{"party":"pis","pct":37,"votes":401908},{"party":"ko","pct":33.6,"votes":364976},{"party":"konf","pct":16.2,"votes":175971},{"party":"kkp","pct":6.8,"votes":73864},{"party":"td","pct":6.3,"votes":68433}]},
+            {"name":"Masovian","abbr":"MZ","winner":"pis","margin":9.8,"turnout":65.8,"votes":1398642,"results":[{"party":"pis","pct":39.1,"votes":546869},{"party":"ko","pct":29.3,"votes":409802},{"party":"konf","pct":17.2,"votes":240566},{"party":"kkp","pct":9.2,"votes":128675},{"party":"td","pct":5.2,"votes":72729}]},
+            {"name":"Opole","abbr":"OP","winner":"pis","margin":9.4,"turnout":66,"votes":1098356,"results":[{"party":"pis","pct":36.7,"votes":403097},{"party":"ko","pct":27.3,"votes":299851},{"party":"konf","pct":22.9,"votes":251524},{"party":"td","pct":7.8,"votes":85672},{"party":"kkp","pct":5.3,"votes":58213}]},
+            {"name":"Podlachian","abbr":"PD","winner":"pis","margin":11.6,"turnout":74.1,"votes":1021531,"results":[{"party":"pis","pct":37.2,"votes":380010},{"party":"ko","pct":25.6,"votes":261512},{"party":"konf","pct":22.5,"votes":229844},{"party":"kkp","pct":9.5,"votes":97045},{"party":"td","pct":5.2,"votes":53120}]},
+            {"name":"Pomeranian","abbr":"PM","winner":"ko","margin":25.8,"turnout":76.2,"votes":1177048,"results":[{"party":"ko","pct":46.8,"votes":550858},{"party":"pis","pct":21,"votes":247180},{"party":"konf","pct":15.7,"votes":184797},{"party":"kkp","pct":11.8,"votes":138892},{"party":"td","pct":4.6,"votes":54144}]},
+            {"name":"Silesian","abbr":"SL","winner":"ko","margin":31.3,"turnout":66.1,"votes":1164183,"results":[{"party":"ko","pct":55.1,"votes":641465},{"party":"pis","pct":23.8,"votes":277076},{"party":"konf","pct":13.2,"votes":153672},{"party":"kkp","pct":4.4,"votes":51224},{"party":"td","pct":3.5,"votes":40746}]},
+            {"name":"Subcarpathian","abbr":"PK","winner":"ko","margin":20.6,"turnout":74.3,"votes":1403274,"results":[{"party":"ko","pct":44.4,"votes":623054},{"party":"konf","pct":23.8,"votes":333979},{"party":"pis","pct":19.7,"votes":276445},{"party":"td","pct":6.2,"votes":87003},{"party":"kkp","pct":5.8,"votes":81390}]},
+            {"name":"Świętokrzyskie","abbr":"SK","winner":"pis","margin":17.1,"turnout":68.9,"votes":1175857,"results":[{"party":"pis","pct":44,"votes":517377},{"party":"ko","pct":26.9,"votes":316306},{"party":"konf","pct":17.3,"votes":203423},{"party":"kkp","pct":7.5,"votes":88189},{"party":"td","pct":4.4,"votes":51738}]},
+            {"name":"Warmian-Masurian","abbr":"WN","winner":"ko","margin":14,"turnout":72.1,"votes":1166730,"results":[{"party":"ko","pct":41.8,"votes":487693},{"party":"pis","pct":27.8,"votes":324351},{"party":"konf","pct":18,"votes":210011},{"party":"kkp","pct":6.2,"votes":72337},{"party":"td","pct":6.1,"votes":71171}]},
+            {"name":"West Pomeranian","abbr":"ZP","winner":"ko","margin":10.6,"turnout":77.7,"votes":1436642,"results":[{"party":"ko","pct":43,"votes":617756},{"party":"pis","pct":32.4,"votes":465472},{"party":"konf","pct":12.5,"votes":179580},{"party":"kkp","pct":6,"votes":86199},{"party":"td","pct":6,"votes":86199}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2025-06-01",
+          "candidates": [
+            {
+              "name": "Karol Nawrocki",
+              "party": "pis",
+              "pct": 50.89,
+              "seats": null,
+              "votes": 10606877,
+              "winner": true
+            },
+            {
+              "name": "Rafał Trzaskowski",
+              "party": "ko",
+              "pct": 49.11,
+              "seats": null,
+              "votes": 10237286
+            }
+          ],
+          "regions": [
+            {"name":"Greater Poland","abbr":"WP","winner":"ko","margin":3.8,"turnout":69.8,"votes":1140570,"results":[{"party":"ko","pct":51.9,"votes":591956},{"party":"pis","pct":48.1,"votes":548614}]},
+            {"name":"Kuyavian-Pomeranian","abbr":"KP","winner":"ko","margin":12.8,"turnout":77.5,"votes":1052588,"results":[{"party":"ko","pct":56.4,"votes":593660},{"party":"pis","pct":43.6,"votes":458928}]},
+            {"name":"Lesser Poland","abbr":"MA","winner":"pis","margin":2.8,"turnout":71.8,"votes":1152535,"results":[{"party":"pis","pct":51.4,"votes":592403},{"party":"ko","pct":48.6,"votes":560132}]},
+            {"name":"Łódź","abbr":"LD","winner":"pis","margin":10,"turnout":70.7,"votes":1066336,"results":[{"party":"pis","pct":55,"votes":586485},{"party":"ko","pct":45,"votes":479851}]},
+            {"name":"Lower Silesian","abbr":"DS","winner":"ko","margin":9.8,"turnout":65.7,"votes":1197765,"results":[{"party":"ko","pct":54.9,"votes":657573},{"party":"pis","pct":45.1,"votes":540192}]},
+            {"name":"Lublin","abbr":"LU","winner":"pis","margin":0.6,"turnout":75.2,"votes":1391945,"results":[{"party":"pis","pct":50.3,"votes":700148},{"party":"ko","pct":49.7,"votes":691797}]},
+            {"name":"Lubusz","abbr":"LB","winner":"ko","margin":34.8,"turnout":76,"votes":1074968,"results":[{"party":"ko","pct":67.4,"votes":724528},{"party":"pis","pct":32.6,"votes":350440}]},
+            {"name":"Masovian","abbr":"MZ","winner":"ko","margin":16.4,"turnout":77.6,"votes":1288028,"results":[{"party":"ko","pct":58.2,"votes":749632},{"party":"pis","pct":41.8,"votes":538396}]},
+            {"name":"Opole","abbr":"OP","winner":"ko","margin":21.8,"turnout":67.1,"votes":1191582,"results":[{"party":"ko","pct":60.9,"votes":725673},{"party":"pis","pct":39.1,"votes":465909}]},
+            {"name":"Podlachian","abbr":"PD","winner":"pis","margin":9.6,"turnout":77.4,"votes":1205576,"results":[{"party":"pis","pct":54.8,"votes":660656},{"party":"ko","pct":45.2,"votes":544920}]},
+            {"name":"Pomeranian","abbr":"PM","winner":"ko","margin":15,"turnout":67.9,"votes":1483339,"results":[{"party":"ko","pct":57.5,"votes":852920},{"party":"pis","pct":42.5,"votes":630419}]},
+            {"name":"Silesian","abbr":"SL","winner":"ko","margin":37.8,"turnout":65.6,"votes":1086406,"results":[{"party":"ko","pct":68.9,"votes":748534},{"party":"pis","pct":31.1,"votes":337872}]},
+            {"name":"Subcarpathian","abbr":"PK","winner":"pis","margin":0.8,"turnout":78.3,"votes":1266060,"results":[{"party":"pis","pct":50.4,"votes":638094},{"party":"ko","pct":49.6,"votes":627966}]},
+            {"name":"Świętokrzyskie","abbr":"SK","winner":"pis","margin":23,"turnout":76.7,"votes":1091049,"results":[{"party":"pis","pct":61.5,"votes":670995},{"party":"ko","pct":38.5,"votes":420054}]},
+            {"name":"Warmian-Masurian","abbr":"WN","winner":"ko","margin":1.8,"turnout":77.4,"votes":1281304,"results":[{"party":"ko","pct":50.9,"votes":652184},{"party":"pis","pct":49.1,"votes":629120}]},
+            {"name":"West Pomeranian","abbr":"ZP","winner":"ko","margin":11,"turnout":73.3,"votes":1341866,"results":[{"party":"ko","pct":55.5,"votes":744736},{"party":"pis","pct":44.5,"votes":597130}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pl-sejm-2023",
+      "office": "Sejm",
+      "kind": "legislative",
+      "date": "2023-10-15",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 74.38,
+      "cite": {
+        "name": "the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election"
+      },
+      "system": "460 seats, open-list proportional with D’Hondt",
+      "totalSeats": 460,
+      "majority": 231,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "United Right",
+          "party": "pis",
+          "pct": 35.38,
+          "seats": 194,
+          "votes": 7640854,
+          "change": -41,
+          "winner": true
+        },
+        {
+          "name": "Civic Coalition",
+          "party": "ko",
+          "pct": 30.7,
+          "seats": 157,
+          "votes": 6629402,
+          "change": 23
+        },
+        {
+          "name": "Third Way",
+          "party": "td",
+          "pct": 14.4,
+          "seats": 65,
+          "votes": 3110670,
+          "change": 35
+        },
+        {
+          "name": "The Left",
+          "party": "lewica",
+          "pct": 8.61,
+          "seats": 26,
+          "votes": 1859018,
+          "change": -23
+        },
+        {
+          "name": "Confederation Liberty and Independence",
+          "party": "konf",
+          "pct": 7.16,
+          "seats": 18,
+          "votes": 1547364,
+          "change": 7
+        },
+        {
+          "name": "Nonpartisan Local Government Activists",
+          "party": "bs",
+          "pct": 1.86,
+          "seats": 0,
+          "votes": 401054,
+          "change": 0
+        },
+        {
+          "name": "There is One Poland",
+          "party": "jjp",
+          "pct": 1.63,
+          "seats": 0,
+          "votes": 351099
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 0.26,
+          "seats": 0,
+          "votes": 57213,
+          "change": -1
+        }
+      ],
+      "regions": [
+        {"name":"Greater Poland","abbr":"WP","winner":"ko","margin":2.3,"turnout":78.3,"votes":1417916,"results":[{"party":"ko","pct":38.4,"votes":544480},{"party":"pis","pct":36.1,"votes":511868},{"party":"td","pct":11.5,"votes":163060},{"party":"lewica","pct":9.9,"votes":140374},{"party":"konf","pct":4.1,"votes":58135}]},
+        {"name":"Kuyavian-Pomeranian","abbr":"KP","winner":"ko","margin":3.7,"turnout":79.9,"votes":1619053,"results":[{"party":"ko","pct":36.9,"votes":597431},{"party":"pis","pct":33.2,"votes":537526},{"party":"td","pct":18,"votes":291430},{"party":"lewica","pct":8.5,"votes":137620},{"party":"konf","pct":3.4,"votes":55048}]},
+        {"name":"Lesser Poland","abbr":"MA","winner":"pis","margin":3.2,"turnout":71.7,"votes":1281425,"results":[{"party":"pis","pct":39.3,"votes":503600},{"party":"ko","pct":36.1,"votes":462594},{"party":"lewica","pct":9.6,"votes":123017},{"party":"konf","pct":7.8,"votes":99951},{"party":"td","pct":7.2,"votes":92263}]},
+        {"name":"Łódź","abbr":"LD","winner":"pis","margin":11.5,"turnout":75.6,"votes":1149712,"results":[{"party":"pis","pct":45,"votes":517370},{"party":"ko","pct":33.5,"votes":385154},{"party":"td","pct":10.8,"votes":124169},{"party":"konf","pct":5.7,"votes":65534},{"party":"lewica","pct":5.1,"votes":58635}]},
+        {"name":"Lower Silesian","abbr":"DS","winner":"ko","margin":2.7,"turnout":78.9,"votes":1572059,"results":[{"party":"ko","pct":30.1,"votes":473190},{"party":"td","pct":27.4,"votes":430744},{"party":"pis","pct":26.1,"votes":410307},{"party":"konf","pct":9.2,"votes":144629},{"party":"lewica","pct":7.2,"votes":113188}]},
+        {"name":"Lublin","abbr":"LU","winner":"pis","margin":8.2,"turnout":68.3,"votes":1199511,"results":[{"party":"pis","pct":39,"votes":467809},{"party":"ko","pct":30.8,"votes":369449},{"party":"td","pct":18.1,"votes":217111},{"party":"lewica","pct":8.7,"votes":104357},{"party":"konf","pct":3.4,"votes":40783}]},
+        {"name":"Lubusz","abbr":"LB","winner":"ko","margin":2.9,"turnout":69,"votes":1588190,"results":[{"party":"ko","pct":39.5,"votes":627335},{"party":"pis","pct":36.6,"votes":581278},{"party":"td","pct":14.8,"votes":235052},{"party":"konf","pct":5.1,"votes":80998},{"party":"lewica","pct":3.9,"votes":61939}]},
+        {"name":"Masovian","abbr":"MZ","winner":"pis","margin":0.8,"turnout":72.9,"votes":1531504,"results":[{"party":"pis","pct":31.9,"votes":488550},{"party":"ko","pct":31.1,"votes":476298},{"party":"td","pct":20.4,"votes":312427},{"party":"lewica","pct":11.7,"votes":179186},{"party":"konf","pct":4.8,"votes":73512}]},
+        {"name":"Opole","abbr":"OP","winner":"ko","margin":17,"turnout":77.4,"votes":1361058,"results":[{"party":"ko","pct":43.4,"votes":590699},{"party":"pis","pct":26.4,"votes":359319},{"party":"td","pct":17.8,"votes":242268},{"party":"konf","pct":7.1,"votes":96635},{"party":"lewica","pct":5.4,"votes":73497}]},
+        {"name":"Podlachian","abbr":"PD","winner":"pis","margin":8.5,"turnout":81,"votes":1543784,"results":[{"party":"pis","pct":37.8,"votes":583550},{"party":"ko","pct":29.3,"votes":452329},{"party":"td","pct":18.7,"votes":288688},{"party":"konf","pct":7.2,"votes":111152},{"party":"lewica","pct":7,"votes":108065}]},
+        {"name":"Pomeranian","abbr":"PM","winner":"ko","margin":3.6,"turnout":67.5,"votes":1497560,"results":[{"party":"ko","pct":39.1,"votes":585546},{"party":"pis","pct":35.5,"votes":531634},{"party":"td","pct":11,"votes":164732},{"party":"lewica","pct":8.4,"votes":125795},{"party":"konf","pct":6,"votes":89854}]},
+        {"name":"Silesian","abbr":"SL","winner":"pis","margin":5.7,"turnout":72.4,"votes":1500109,"results":[{"party":"pis","pct":34.2,"votes":513037},{"party":"ko","pct":28.5,"votes":427531},{"party":"td","pct":17.5,"votes":262519},{"party":"lewica","pct":14.9,"votes":223516},{"party":"konf","pct":5,"votes":75005}]},
+        {"name":"Subcarpathian","abbr":"PK","winner":"pis","margin":16.5,"turnout":78.3,"votes":1275035,"results":[{"party":"pis","pct":42.1,"votes":536790},{"party":"ko","pct":25.6,"votes":326409},{"party":"td","pct":16.4,"votes":209106},{"party":"lewica","pct":8.5,"votes":108378},{"party":"konf","pct":7.6,"votes":96903}]},
+        {"name":"Świętokrzyskie","abbr":"SK","winner":"pis","margin":0.1,"turnout":72.6,"votes":1565560,"results":[{"party":"pis","pct":35,"votes":547946},{"party":"ko","pct":34.9,"votes":546380},{"party":"td","pct":11.6,"votes":181605},{"party":"lewica","pct":11.1,"votes":173777},{"party":"konf","pct":7.4,"votes":115851}]},
+        {"name":"Warmian-Masurian","abbr":"WN","winner":"ko","margin":6.4,"turnout":79.9,"votes":1616674,"results":[{"party":"ko","pct":39.3,"votes":635353},{"party":"pis","pct":32.9,"votes":531886},{"party":"td","pct":14.4,"votes":232801},{"party":"lewica","pct":9.6,"votes":155201},{"party":"konf","pct":3.9,"votes":63050}]},
+        {"name":"West Pomeranian","abbr":"ZP","winner":"ko","margin":7.6,"turnout":79,"votes":1429781,"results":[{"party":"ko","pct":41.9,"votes":599078},{"party":"pis","pct":34.3,"votes":490415},{"party":"td","pct":9.7,"votes":138689},{"party":"konf","pct":7.4,"votes":105804},{"party":"lewica","pct":6.7,"votes":95795}]}
+      ]
+    },
+    {
+      "id": "pl-senate-2023",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2023-10-15",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 74.31,
+      "cite": {
+        "name": "the National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election"
+      },
+      "system": "100 single-member districts, first past the post",
+      "totalSeats": 100,
+      "majority": 51,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "Civic Coalition",
+          "party": "ko",
+          "pct": 28.91,
+          "seats": 41,
+          "votes": 6187295,
+          "change": -2,
+          "winner": true
+        },
+        {
+          "name": "Law and Justice",
+          "party": "pis",
+          "pct": 34.81,
+          "seats": 34,
+          "votes": 7449875,
+          "change": -14
+        },
+        {
+          "name": "Third Way",
+          "party": "td",
+          "pct": 11.5,
+          "seats": 11,
+          "votes": 2462360,
+          "change": 8
+        },
+        {
+          "name": "The Left",
+          "party": "lewica",
+          "pct": 5.29,
+          "seats": 9,
+          "votes": 1131639,
+          "change": 7
+        },
+        {
+          "name": "Independents",
+          "party": "spind",
+          "pct": 2.68,
+          "seats": 4,
+          "votes": 573060
+        },
+        {
+          "name": "Independents and other committees with a single candidate",
+          "party": "ind",
+          "pct": 2.53,
+          "seats": 1,
+          "votes": 540974,
+          "change": -3
+        },
+        {
+          "name": "Confederation Liberty and Independence",
+          "party": "konf",
+          "pct": 6.75,
+          "seats": 0,
+          "votes": 1443836,
+          "change": 0
+        },
+        {
+          "name": "Nonpartisan Local Government Activists",
+          "party": "bs",
+          "pct": 4.91,
+          "seats": 0,
+          "votes": 1049919,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "pct": 2.64,
+          "seats": 0,
+          "votes": 564040,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Greater Poland","abbr":"WP","winner":"pis","margin":27.3,"turnout":78.6,"votes":1393378,"results":[{"party":"pis","pct":47.6,"votes":663248},{"party":"ko","pct":20.3,"votes":282856},{"party":"td","pct":17.5,"votes":243841},{"party":"konf","pct":10.5,"votes":146305},{"party":"lewica","pct":4.1,"votes":57128}]},
+        {"name":"Kuyavian-Pomeranian","abbr":"KP","winner":"pis","margin":3,"turnout":74.6,"votes":1396265,"results":[{"party":"pis","pct":34.7,"votes":484504},{"party":"ko","pct":31.7,"votes":442616},{"party":"konf","pct":14.8,"votes":206647},{"party":"td","pct":11.5,"votes":160570},{"party":"lewica","pct":7.3,"votes":101927}]},
+        {"name":"Lesser Poland","abbr":"MA","winner":"pis","margin":27.9,"turnout":78.3,"votes":1418529,"results":[{"party":"pis","pct":51.3,"votes":727705},{"party":"ko","pct":23.4,"votes":331936},{"party":"konf","pct":10.1,"votes":143271},{"party":"td","pct":9.8,"votes":139016},{"party":"lewica","pct":5.4,"votes":76601}]},
+        {"name":"Łódź","abbr":"LD","winner":"pis","margin":10.3,"turnout":79.1,"votes":1406759,"results":[{"party":"pis","pct":40.3,"votes":566924},{"party":"ko","pct":30,"votes":422028},{"party":"konf","pct":11.5,"votes":161777},{"party":"td","pct":9.4,"votes":132235},{"party":"lewica","pct":8.9,"votes":125202}]},
+        {"name":"Lower Silesian","abbr":"DS","winner":"pis","margin":9.4,"turnout":77.8,"votes":1074575,"results":[{"party":"pis","pct":42.1,"votes":452396},{"party":"ko","pct":32.7,"votes":351386},{"party":"konf","pct":9.5,"votes":102085},{"party":"lewica","pct":8,"votes":85966},{"party":"td","pct":7.8,"votes":83817}]},
+        {"name":"Lublin","abbr":"LU","winner":"pis","margin":9.1,"turnout":79.4,"votes":1305712,"results":[{"party":"pis","pct":42.2,"votes":551010},{"party":"ko","pct":33.1,"votes":432191},{"party":"td","pct":15.2,"votes":198468},{"party":"konf","pct":5.7,"votes":74426},{"party":"lewica","pct":3.8,"votes":49617}]},
+        {"name":"Lubusz","abbr":"LB","winner":"ko","margin":24.5,"turnout":78.8,"votes":1570956,"results":[{"party":"ko","pct":47.8,"votes":750917},{"party":"pis","pct":23.3,"votes":366033},{"party":"td","pct":14.4,"votes":226218},{"party":"konf","pct":10.4,"votes":163379},{"party":"lewica","pct":4.1,"votes":64409}]},
+        {"name":"Masovian","abbr":"MZ","winner":"pis","margin":7.3,"turnout":78,"votes":1324640,"results":[{"party":"pis","pct":36.8,"votes":487468},{"party":"ko","pct":29.5,"votes":390769},{"party":"td","pct":16.1,"votes":213267},{"party":"konf","pct":11.1,"votes":147035},{"party":"lewica","pct":6.6,"votes":87426}]},
+        {"name":"Opole","abbr":"OP","winner":"pis","margin":1,"turnout":67.5,"votes":1478059,"results":[{"party":"pis","pct":35.6,"votes":526189},{"party":"ko","pct":34.6,"votes":511408},{"party":"td","pct":16.3,"votes":240924},{"party":"konf","pct":8.1,"votes":119723},{"party":"lewica","pct":5.3,"votes":78337}]},
+        {"name":"Podlachian","abbr":"PD","winner":"pis","margin":32.4,"turnout":79.3,"votes":1084418,"results":[{"party":"pis","pct":55.3,"votes":599683},{"party":"ko","pct":22.9,"votes":248332},{"party":"td","pct":11.4,"votes":123624},{"party":"konf","pct":6.8,"votes":73740},{"party":"lewica","pct":3.6,"votes":39039}]},
+        {"name":"Pomeranian","abbr":"PM","winner":"pis","margin":28.1,"turnout":79.2,"votes":1531377,"results":[{"party":"pis","pct":47.5,"votes":727404},{"party":"ko","pct":19.4,"votes":297087},{"party":"td","pct":19,"votes":290962},{"party":"konf","pct":9.5,"votes":145481},{"party":"lewica","pct":4.5,"votes":68912}]},
+        {"name":"Silesian","abbr":"SL","winner":"pis","margin":11.3,"turnout":71.3,"votes":1279382,"results":[{"party":"pis","pct":39.9,"votes":510473},{"party":"ko","pct":28.6,"votes":365903},{"party":"td","pct":22.3,"votes":285302},{"party":"konf","pct":4.9,"votes":62690},{"party":"lewica","pct":4.3,"votes":55013}]},
+        {"name":"Subcarpathian","abbr":"PK","winner":"pis","margin":5.7,"turnout":81.3,"votes":1391380,"results":[{"party":"pis","pct":36.5,"votes":507854},{"party":"ko","pct":30.8,"votes":428545},{"party":"td","pct":18.6,"votes":258797},{"party":"konf","pct":8.2,"votes":114093},{"party":"lewica","pct":5.8,"votes":80700}]},
+        {"name":"Świętokrzyskie","abbr":"SK","winner":"ko","margin":7,"turnout":70.4,"votes":1501253,"results":[{"party":"ko","pct":39.4,"votes":591494},{"party":"pis","pct":32.4,"votes":486406},{"party":"td","pct":14.6,"votes":219183},{"party":"konf","pct":10.1,"votes":151627},{"party":"lewica","pct":3.5,"votes":52544}]},
+        {"name":"Warmian-Masurian","abbr":"WN","winner":"pis","margin":23.4,"turnout":71,"votes":1464124,"results":[{"party":"pis","pct":52.1,"votes":762809},{"party":"ko","pct":28.7,"votes":420204},{"party":"td","pct":10.5,"votes":153733},{"party":"lewica","pct":4.8,"votes":70278},{"party":"konf","pct":3.9,"votes":57101}]},
+        {"name":"West Pomeranian","abbr":"ZP","winner":"ko","margin":21.4,"turnout":68.2,"votes":1481438,"results":[{"party":"ko","pct":46.9,"votes":694794},{"party":"pis","pct":25.5,"votes":377767},{"party":"td","pct":11,"votes":162958},{"party":"lewica","pct":8.7,"votes":128885},{"party":"konf","pct":7.8,"votes":115552}]}
+      ]
+    }
+  ],
+  "polls": [
+    {
+      "office": "Sejm",
+      "date": "2027-10-10",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pis",
+          "points": [
+            ["2026-03-16",35.2],
+            ["2026-03-23",35.9],
+            ["2026-03-30",35.8],
+            ["2026-04-06",36.8],
+            ["2026-04-13",36.8],
+            ["2026-04-20",36.9],
+            ["2026-04-27",37.9],
+            ["2026-05-04",38.5],
+            ["2026-05-11",39.2],
+            ["2026-05-18",38.8],
+            ["2026-05-25",38.4],
+            ["2026-06-01",37.9],
+            ["2026-06-08",38],
+            ["2026-06-15",38.6],
+            ["2026-06-22",39.4],
+            ["2026-06-29",38.6],
+            ["2026-07-06",38.3],
+            ["2026-07-13",38.4],
+            ["2026-07-20",39.1],
+            ["2026-07-27",39.7],
+            ["2026-08-03",39.9],
+            ["2026-08-10",40.6],
+            ["2026-08-17",40.9],
+            ["2026-08-24",39.9],
+            ["2026-08-31",39.5],
+            ["2026-09-07",39.6],
+            ["2026-09-14",39.1],
+            ["2026-09-21",38.8],
+            ["2026-09-28",38.4],
+            ["2026-10-05",37.6]
+          ]
+        },
+        {
+          "party": "ko",
+          "points": [
+            ["2026-03-16",31.5],
+            ["2026-03-23",31.8],
+            ["2026-03-30",31],
+            ["2026-04-06",31.7],
+            ["2026-04-13",31.4],
+            ["2026-04-20",30.6],
+            ["2026-04-27",30.4],
+            ["2026-05-04",30.3],
+            ["2026-05-11",29.9],
+            ["2026-05-18",30.5],
+            ["2026-05-25",30.5],
+            ["2026-06-01",29.9],
+            ["2026-06-08",29.2],
+            ["2026-06-15",28.7],
+            ["2026-06-22",28.3],
+            ["2026-06-29",27.9],
+            ["2026-07-06",28.9],
+            ["2026-07-13",28.5],
+            ["2026-07-20",28.4],
+            ["2026-07-27",28],
+            ["2026-08-03",27.8],
+            ["2026-08-10",27.3],
+            ["2026-08-17",27.7],
+            ["2026-08-24",28.8],
+            ["2026-08-31",28.5],
+            ["2026-09-07",28.3],
+            ["2026-09-14",27.8],
+            ["2026-09-21",27.8],
+            ["2026-09-28",27.5],
+            ["2026-10-05",27.9]
+          ]
+        },
+        {
+          "party": "td",
+          "points": [
+            ["2026-03-16",14.7],
+            ["2026-03-23",14.7],
+            ["2026-03-30",14.3],
+            ["2026-04-06",14.9],
+            ["2026-04-13",15.4],
+            ["2026-04-20",15.7],
+            ["2026-04-27",15.2],
+            ["2026-05-04",15.9],
+            ["2026-05-11",16.7],
+            ["2026-05-18",17.1],
+            ["2026-05-25",16.9],
+            ["2026-06-01",17],
+            ["2026-06-08",16.5],
+            ["2026-06-15",16.3],
+            ["2026-06-22",16.2],
+            ["2026-06-29",15.7],
+            ["2026-07-06",16.3],
+            ["2026-07-13",15.4],
+            ["2026-07-20",15],
+            ["2026-07-27",15.7],
+            ["2026-08-03",16.5],
+            ["2026-08-10",17.1],
+            ["2026-08-17",16.1],
+            ["2026-08-24",15.7],
+            ["2026-08-31",15.2],
+            ["2026-09-07",14.5],
+            ["2026-09-14",14.6],
+            ["2026-09-21",14.3],
+            ["2026-09-28",15.1],
+            ["2026-10-05",15.9]
+          ]
+        },
+        {
+          "party": "lewica",
+          "points": [
+            ["2026-03-16",8.7],
+            ["2026-03-23",8.5],
+            ["2026-03-30",9.1],
+            ["2026-04-06",9],
+            ["2026-04-13",9.2],
+            ["2026-04-20",8.9],
+            ["2026-04-27",9.6],
+            ["2026-05-04",8.8],
+            ["2026-05-11",8.5],
+            ["2026-05-18",7.9],
+            ["2026-05-25",8.6],
+            ["2026-06-01",9.4],
+            ["2026-06-08",8.8],
+            ["2026-06-15",8.9],
+            ["2026-06-22",8.6],
+            ["2026-06-29",8.9],
+            ["2026-07-06",9.7],
+            ["2026-07-13",8.8],
+            ["2026-07-20",8.1],
+            ["2026-07-27",7.5],
+            ["2026-08-03",8.1],
+            ["2026-08-10",7.9],
+            ["2026-08-17",8],
+            ["2026-08-24",8.7],
+            ["2026-08-31",9.4],
+            ["2026-09-07",10],
+            ["2026-09-14",10.5],
+            ["2026-09-21",10.1],
+            ["2026-09-28",10.4],
+            ["2026-10-05",9.6]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Senate",
+      "date": "2027-10-10",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "pis",
+          "points": [
+            ["2026-03-16",34.8],
+            ["2026-03-23",35.1],
+            ["2026-03-30",35.4],
+            ["2026-04-06",34.6],
+            ["2026-04-13",35.2],
+            ["2026-04-20",34],
+            ["2026-04-27",33.7],
+            ["2026-05-04",32.8],
+            ["2026-05-11",33.3],
+            ["2026-05-18",32.9],
+            ["2026-05-25",32.2],
+            ["2026-06-01",33],
+            ["2026-06-08",33],
+            ["2026-06-15",32.5],
+            ["2026-06-22",33.2],
+            ["2026-06-29",33.5],
+            ["2026-07-06",34],
+            ["2026-07-13",33.6],
+            ["2026-07-20",32.8],
+            ["2026-07-27",32.7],
+            ["2026-08-03",31.9],
+            ["2026-08-10",32.1],
+            ["2026-08-17",32.3],
+            ["2026-08-24",31.5],
+            ["2026-08-31",32.4],
+            ["2026-09-07",32.1],
+            ["2026-09-14",33],
+            ["2026-09-21",33.4],
+            ["2026-09-28",32.5],
+            ["2026-10-05",32.3]
+          ]
+        },
+        {
+          "party": "ko",
+          "points": [
+            ["2026-03-16",28.6],
+            ["2026-03-23",27.8],
+            ["2026-03-30",28],
+            ["2026-04-06",27.5],
+            ["2026-04-13",26.6],
+            ["2026-04-20",27],
+            ["2026-04-27",27.2],
+            ["2026-05-04",26.6],
+            ["2026-05-11",26.8],
+            ["2026-05-18",26.8],
+            ["2026-05-25",27.7],
+            ["2026-06-01",27.7],
+            ["2026-06-08",27.3],
+            ["2026-06-15",27.1],
+            ["2026-06-22",28.1],
+            ["2026-06-29",28.6],
+            ["2026-07-06",28.8],
+            ["2026-07-13",28.7],
+            ["2026-07-20",28.4],
+            ["2026-07-27",28.7],
+            ["2026-08-03",27.8],
+            ["2026-08-10",27.8],
+            ["2026-08-17",28.5],
+            ["2026-08-24",28.2],
+            ["2026-08-31",28.4],
+            ["2026-09-07",28],
+            ["2026-09-14",28.8],
+            ["2026-09-21",29.3],
+            ["2026-09-28",28.2],
+            ["2026-10-05",28.8]
+          ]
+        },
+        {
+          "party": "td",
+          "points": [
+            ["2026-03-16",10.8],
+            ["2026-03-23",10.5],
+            ["2026-03-30",10.9],
+            ["2026-04-06",11.1],
+            ["2026-04-13",10.3],
+            ["2026-04-20",9.9],
+            ["2026-04-27",9.8],
+            ["2026-05-04",10],
+            ["2026-05-11",10.3],
+            ["2026-05-18",9.8],
+            ["2026-05-25",10.4],
+            ["2026-06-01",9.5],
+            ["2026-06-08",9.9],
+            ["2026-06-15",10.5],
+            ["2026-06-22",10.1],
+            ["2026-06-29",9.1],
+            ["2026-07-06",8.2],
+            ["2026-07-13",8.8],
+            ["2026-07-20",8.4],
+            ["2026-07-27",8.1],
+            ["2026-08-03",8.4],
+            ["2026-08-10",8.4],
+            ["2026-08-17",7.8],
+            ["2026-08-24",7.6],
+            ["2026-08-31",7.3],
+            ["2026-09-07",6.9],
+            ["2026-09-14",6.1],
+            ["2026-09-21",6.5],
+            ["2026-09-28",7.1],
+            ["2026-10-05",6.4]
+          ]
+        },
+        {
+          "party": "konf",
+          "points": [
+            ["2026-03-16",7.2],
+            ["2026-03-23",7],
+            ["2026-03-30",7.3],
+            ["2026-04-06",7.6],
+            ["2026-04-13",7.6],
+            ["2026-04-20",6.6],
+            ["2026-04-27",5.9],
+            ["2026-05-04",5.6],
+            ["2026-05-11",5.7],
+            ["2026-05-18",5.9],
+            ["2026-05-25",5.4],
+            ["2026-06-01",4.6],
+            ["2026-06-08",4.5],
+            ["2026-06-15",4.3],
+            ["2026-06-22",4.8],
+            ["2026-06-29",5],
+            ["2026-07-06",5.2],
+            ["2026-07-13",5.8],
+            ["2026-07-20",6.2],
+            ["2026-07-27",5.7],
+            ["2026-08-03",6.4],
+            ["2026-08-10",6],
+            ["2026-08-17",5.5],
+            ["2026-08-24",5.9],
+            ["2026-08-31",5.7],
+            ["2026-09-07",6.4],
+            ["2026-09-14",6.4],
+            ["2026-09-21",6.4],
+            ["2026-09-28",6.7],
+            ["2026-10-05",6.6]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "President",
+      "date": "2030-05-12",
+      "note": null,
+      "tentative": true,
+      "series": [
+        {
+          "party": "ko",
+          "points": [
+            ["2026-03-16",30.9],
+            ["2026-03-23",31.1],
+            ["2026-03-30",31.7],
+            ["2026-04-06",31.3],
+            ["2026-04-13",31],
+            ["2026-04-20",29.9],
+            ["2026-04-27",30.2],
+            ["2026-05-04",30.8],
+            ["2026-05-11",31.2],
+            ["2026-05-18",30.7],
+            ["2026-05-25",29.9],
+            ["2026-06-01",30.1],
+            ["2026-06-08",30.3],
+            ["2026-06-15",30.1],
+            ["2026-06-22",29.8],
+            ["2026-06-29",29.2],
+            ["2026-07-06",29.4],
+            ["2026-07-13",28.7],
+            ["2026-07-20",29.6],
+            ["2026-07-27",29.4],
+            ["2026-08-03",30],
+            ["2026-08-10",30.7],
+            ["2026-08-17",30.7],
+            ["2026-08-24",30.8],
+            ["2026-08-31",29.7],
+            ["2026-09-07",29.1],
+            ["2026-09-14",28.7],
+            ["2026-09-21",28.3],
+            ["2026-09-28",28.7],
+            ["2026-10-05",29.3]
+          ]
+        },
+        {
+          "party": "pis",
+          "points": [
+            ["2026-03-16",28.4],
+            ["2026-03-23",27.4],
+            ["2026-03-30",27.1],
+            ["2026-04-06",27.6],
+            ["2026-04-13",26.7],
+            ["2026-04-20",25.8],
+            ["2026-04-27",25.4],
+            ["2026-05-04",26.3],
+            ["2026-05-11",25.8],
+            ["2026-05-18",26.4],
+            ["2026-05-25",27.2],
+            ["2026-06-01",27.9],
+            ["2026-06-08",28.4],
+            ["2026-06-15",28],
+            ["2026-06-22",26.9],
+            ["2026-06-29",26.2],
+            ["2026-07-06",26.6],
+            ["2026-07-13",26.9],
+            ["2026-07-20",26.4],
+            ["2026-07-27",26.9],
+            ["2026-08-03",26.2],
+            ["2026-08-10",26],
+            ["2026-08-17",26.6],
+            ["2026-08-24",26.1],
+            ["2026-08-31",26.2],
+            ["2026-09-07",26.6],
+            ["2026-09-14",26.9],
+            ["2026-09-21",27.1],
+            ["2026-09-28",26.2],
+            ["2026-10-05",26]
+          ]
+        },
+        {
+          "party": "konf",
+          "points": [
+            ["2026-03-16",15.6],
+            ["2026-03-23",16.3],
+            ["2026-03-30",16.2],
+            ["2026-04-06",15.7],
+            ["2026-04-13",16.3],
+            ["2026-04-20",16.3],
+            ["2026-04-27",16.8],
+            ["2026-05-04",16.6],
+            ["2026-05-11",16.5],
+            ["2026-05-18",16],
+            ["2026-05-25",15.7],
+            ["2026-06-01",16.2],
+            ["2026-06-08",16.6],
+            ["2026-06-15",17.1],
+            ["2026-06-22",16.4],
+            ["2026-06-29",16.3],
+            ["2026-07-06",15.9],
+            ["2026-07-13",16.3],
+            ["2026-07-20",16.7],
+            ["2026-07-27",15.9],
+            ["2026-08-03",16.5],
+            ["2026-08-10",15.7],
+            ["2026-08-17",15.4],
+            ["2026-08-24",14.9],
+            ["2026-08-31",14.5],
+            ["2026-09-07",14.4],
+            ["2026-09-14",14.3],
+            ["2026-09-21",15],
+            ["2026-09-28",15.6],
+            ["2026-10-05",15.3]
+          ]
+        },
+        {
+          "party": "kkp",
+          "points": [
+            ["2026-03-16",6.9],
+            ["2026-03-23",7.1],
+            ["2026-03-30",6.5],
+            ["2026-04-06",5.8],
+            ["2026-04-13",5.4],
+            ["2026-04-20",4.6],
+            ["2026-04-27",3.9],
+            ["2026-05-04",3.5],
+            ["2026-05-11",3.5],
+            ["2026-05-18",3.2],
+            ["2026-05-25",4.3],
+            ["2026-06-01",5],
+            ["2026-06-08",4.4],
+            ["2026-06-15",3.7],
+            ["2026-06-22",4.5],
+            ["2026-06-29",4.1],
+            ["2026-07-06",5.2],
+            ["2026-07-13",5.3],
+            ["2026-07-20",6.2],
+            ["2026-07-27",5.8],
+            ["2026-08-03",5.6],
+            ["2026-08-10",6.3],
+            ["2026-08-17",7],
+            ["2026-08-24",6],
+            ["2026-08-31",5.8],
+            ["2026-09-07",4.9],
+            ["2026-09-14",4.6],
+            ["2026-09-21",5],
+            ["2026-09-28",4.7],
+            ["2026-10-05",5.6]
+          ]
+        }
+      ]
+    }
+  ]
+}

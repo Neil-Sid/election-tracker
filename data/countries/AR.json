@@ -1,0 +1,880 @@
+{
+  "code": "AR",
+  "name": "Argentina",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Federal presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "National Congress: Chamber of Deputies (257) and Senate (72)",
+    "votingAge": 16,
+    "compulsory": true,
+    "registered": 35800000,
+    "offices": {
+      "President": "Elected for four years. A candidate wins outright with 45% of the vote, or 40% and a ten-point lead. Otherwise the top two go to a run-off.",
+      "Senate": "Three senators per province and the capital, serving six-year terms. A third of provinces vote every two years. The list with the most votes takes two seats and the runner-up takes one.",
+      "Chamber of Deputies": "Half of the 257 seats are renewed every two years, by D’Hondt proportional representation in each province."
+    }
+  },
+  "parties": {
+    "oth": {
+      "name": "Others",
+      "color": "#C7C7CC"
+    },
+    "lla": {
+      "name": "La Libertad Avanza",
+      "color": "#6A3D9A"
+    },
+    "up": {
+      "name": "Unión por la Patria",
+      "color": "#3F8FD2"
+    },
+    "jxc": {
+      "name": "Juntos por el Cambio",
+      "color": "#E8B923"
+    },
+    "hnp": {
+      "name": "Hacemos por Nuestro País",
+      "color": "#2E8B57"
+    },
+    "fit": {
+      "name": "Frente de Izquierda",
+      "color": "#D62828"
+    },
+    "ucr": {
+      "name": "Unión Cívica Radical",
+      "color": "#D9534F"
+    },
+    "pro": {
+      "name": "PRO",
+      "color": "#F4C542"
+    },
+    "prov": {
+      "name": "Provincial parties",
+      "color": "#8E8E93"
+    },
+    "pu": {
+      "name": "United Provinces",
+      "color": "#FF682C"
+    },
+    "innov": {
+      "name": "Innovación Federal",
+      "color": "#294593"
+    },
+    "pfc": {
+      "name": "Propuesta Federal para el Cambio",
+      "color": "#AF1180"
+    },
+    "defcba": {
+      "name": "Defendamos Córdoba",
+      "color": "#98142B"
+    },
+    "psj": {
+      "name": "Por San Juan",
+      "color": "#D6D015"
+    }
+  },
+  "elections": [
+    {
+      "id": "ar-president-2023",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2023-11-19",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 76.32,
+      "system": "Two-round popular vote",
+      "candidates": [
+        {
+          "name": "Javier Milei",
+          "party": "lla",
+          "votes": 14554560,
+          "pct": 55.65,
+          "winner": true
+        },
+        {
+          "name": "Sergio Massa",
+          "party": "up",
+          "votes": 11598720,
+          "pct": 44.35
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2023-10-22",
+          "candidates": [
+            {
+              "name": "Sergio Massa",
+              "party": "up",
+              "votes": 9853492,
+              "pct": 36.78
+            },
+            {
+              "name": "Javier Milei",
+              "party": "lla",
+              "votes": 8034990,
+              "pct": 29.99
+            },
+            {
+              "name": "Patricia Bullrich",
+              "party": "jxc",
+              "votes": 6379023,
+              "pct": 23.81
+            },
+            {
+              "name": "Juan Schiaretti",
+              "party": "hnp",
+              "votes": 1802068,
+              "pct": 6.73
+            },
+            {
+              "name": "Myriam Bregman",
+              "party": "fit",
+              "votes": 722061,
+              "pct": 2.7
+            }
+          ],
+          "regions": [
+            {"name":"Buenos Aires","abbr":"BA","winner":"up","margin":3,"turnout":69.8,"votes":1220836,"results":[{"party":"up","pct":38.9,"votes":474905},{"party":"jxc","pct":35.9,"votes":438280},{"party":"lla","pct":17,"votes":207542},{"party":"hnp","pct":4.6,"votes":56158},{"party":"fit","pct":3.6,"votes":43950}]},
+            {"name":"Ciudad de Buenos Aires","abbr":"CABA","winner":"up","margin":1,"turnout":80.8,"votes":1124625,"results":[{"party":"up","pct":32.4,"votes":364379},{"party":"lla","pct":31.4,"votes":353132},{"party":"jxc","pct":24.5,"votes":275533},{"party":"hnp","pct":9.6,"votes":107964},{"party":"fit","pct":2.1,"votes":23617}]},
+            {"name":"Catamarca","abbr":"CT","winner":"lla","margin":8.5,"turnout":77.3,"votes":1103893,"results":[{"party":"lla","pct":38.6,"votes":426103},{"party":"jxc","pct":30.1,"votes":332272},{"party":"up","pct":20.4,"votes":225194},{"party":"hnp","pct":7.2,"votes":79480},{"party":"fit","pct":3.6,"votes":39740}]},
+            {"name":"Chaco","abbr":"CC","winner":"up","margin":10.4,"turnout":76.3,"votes":905662,"results":[{"party":"up","pct":45.4,"votes":411171},{"party":"lla","pct":35,"votes":316982},{"party":"jxc","pct":11.6,"votes":105057},{"party":"hnp","pct":5.6,"votes":50717},{"party":"fit","pct":2.3,"votes":20830}]},
+            {"name":"Chubut","abbr":"CH","winner":"up","margin":11.5,"turnout":79,"votes":1319471,"results":[{"party":"up","pct":42.3,"votes":558136},{"party":"lla","pct":30.8,"votes":406397},{"party":"jxc","pct":20.9,"votes":275769},{"party":"hnp","pct":4.3,"votes":56737},{"party":"fit","pct":1.7,"votes":22431}]},
+            {"name":"Córdoba","abbr":"CB","winner":"lla","margin":4.5,"turnout":79.1,"votes":1142439,"results":[{"party":"lla","pct":34.2,"votes":390714},{"party":"up","pct":29.7,"votes":339304},{"party":"jxc","pct":24.4,"votes":278755},{"party":"hnp","pct":7.8,"votes":89110},{"party":"fit","pct":3.9,"votes":44555}]},
+            {"name":"Corrientes","abbr":"CN","winner":"up","margin":12.1,"turnout":78.3,"votes":968483,"results":[{"party":"up","pct":38.2,"votes":369961},{"party":"lla","pct":26.1,"votes":252774},{"party":"jxc","pct":25.2,"votes":244058},{"party":"hnp","pct":7.7,"votes":74573},{"party":"fit","pct":2.7,"votes":26149}]},
+            {"name":"Entre Ríos","abbr":"ER","winner":"up","margin":6.6,"turnout":79.1,"votes":896128,"results":[{"party":"up","pct":41.6,"votes":372789},{"party":"lla","pct":35,"votes":313645},{"party":"jxc","pct":17.6,"votes":157719},{"party":"hnp","pct":4.5,"votes":40326},{"party":"fit","pct":1.3,"votes":11650}]},
+            {"name":"Formosa","abbr":"FM","winner":"up","margin":6.8,"turnout":81.8,"votes":896738,"results":[{"party":"up","pct":40,"votes":358695},{"party":"lla","pct":33.2,"votes":297717},{"party":"jxc","pct":20.1,"votes":180244},{"party":"hnp","pct":5,"votes":44837},{"party":"fit","pct":1.6,"votes":14348}]},
+            {"name":"Jujuy","abbr":"JY","winner":"jxc","margin":4.1,"turnout":70.1,"votes":1176152,"results":[{"party":"jxc","pct":34.5,"votes":405772},{"party":"lla","pct":30.4,"votes":357550},{"party":"up","pct":27.8,"votes":326970},{"party":"hnp","pct":4.6,"votes":54103},{"party":"fit","pct":2.7,"votes":31756}]},
+            {"name":"La Pampa","abbr":"LP","winner":"up","margin":2.5,"turnout":81.2,"votes":1239083,"results":[{"party":"up","pct":40.3,"votes":499350},{"party":"lla","pct":37.8,"votes":468373},{"party":"jxc","pct":14,"votes":173472},{"party":"hnp","pct":6.4,"votes":79301},{"party":"fit","pct":1.5,"votes":18586}]},
+            {"name":"La Rioja","abbr":"LR","winner":"lla","margin":0.5,"turnout":73,"votes":970555,"results":[{"party":"lla","pct":32,"votes":310578},{"party":"up","pct":31.5,"votes":305725},{"party":"jxc","pct":26.3,"votes":255256},{"party":"hnp","pct":8.4,"votes":81527},{"party":"fit","pct":1.8,"votes":17470}]},
+            {"name":"Mendoza","abbr":"MZ","winner":"up","margin":10,"turnout":81.9,"votes":1246256,"results":[{"party":"up","pct":39.3,"votes":489779},{"party":"jxc","pct":29.3,"votes":365153},{"party":"lla","pct":21.5,"votes":267945},{"party":"hnp","pct":8.1,"votes":100947},{"party":"fit","pct":1.7,"votes":21186}]},
+            {"name":"Misiones","abbr":"MN","winner":"up","margin":27.7,"turnout":77.9,"votes":1141820,"results":[{"party":"up","pct":48.3,"votes":551499},{"party":"lla","pct":20.6,"votes":235215},{"party":"jxc","pct":19.8,"votes":226080},{"party":"hnp","pct":8.6,"votes":98197},{"party":"fit","pct":2.7,"votes":30829}]},
+            {"name":"Neuquén","abbr":"NQ","winner":"lla","margin":20.8,"turnout":80.7,"votes":1232210,"results":[{"party":"lla","pct":44.2,"votes":544637},{"party":"up","pct":23.4,"votes":288337},{"party":"jxc","pct":20.8,"votes":256300},{"party":"hnp","pct":10.2,"votes":125685},{"party":"fit","pct":1.5,"votes":18483}]},
+            {"name":"Río Negro","abbr":"RN","winner":"up","margin":1.4,"turnout":82.5,"votes":964561,"results":[{"party":"up","pct":31.9,"votes":307695},{"party":"jxc","pct":30.5,"votes":294191},{"party":"lla","pct":28.4,"votes":273935},{"party":"hnp","pct":7.2,"votes":69448},{"party":"fit","pct":2,"votes":19291}]},
+            {"name":"Salta","abbr":"SA","winner":"up","margin":11.8,"turnout":81.1,"votes":919235,"results":[{"party":"up","pct":42.2,"votes":387917},{"party":"jxc","pct":30.4,"votes":279447},{"party":"lla","pct":17.9,"votes":164543},{"party":"hnp","pct":7.8,"votes":71700},{"party":"fit","pct":1.7,"votes":15627}]},
+            {"name":"San Juan","abbr":"SJ","winner":"jxc","margin":2.8,"turnout":77,"votes":1095253,"results":[{"party":"jxc","pct":35,"votes":383339},{"party":"lla","pct":32.2,"votes":352671},{"party":"up","pct":22,"votes":240956},{"party":"hnp","pct":6.5,"votes":71191},{"party":"fit","pct":4.3,"votes":47096}]},
+            {"name":"San Luis","abbr":"SL","winner":"up","margin":9.4,"turnout":81,"votes":1027082,"results":[{"party":"up","pct":39.5,"votes":405697},{"party":"lla","pct":30.1,"votes":309152},{"party":"jxc","pct":22.3,"votes":229039},{"party":"hnp","pct":5.3,"votes":54435},{"party":"fit","pct":2.8,"votes":28758}]},
+            {"name":"Santa Cruz","abbr":"SC","winner":"up","margin":15.8,"turnout":80.3,"votes":1099065,"results":[{"party":"up","pct":43.1,"votes":473697},{"party":"jxc","pct":27.3,"votes":300045},{"party":"lla","pct":20.8,"votes":228606},{"party":"hnp","pct":6.8,"votes":74736},{"party":"fit","pct":2,"votes":21981}]},
+            {"name":"Santa Fe","abbr":"SF","winner":"lla","margin":0.3,"turnout":81.7,"votes":1268507,"results":[{"party":"lla","pct":35.9,"votes":455394},{"party":"up","pct":35.6,"votes":451588},{"party":"jxc","pct":20.9,"votes":265118},{"party":"hnp","pct":5.5,"votes":69768},{"party":"fit","pct":2.1,"votes":26639}]},
+            {"name":"Santiago del Estero","abbr":"SE","winner":"up","margin":20.4,"turnout":79.8,"votes":1067237,"results":[{"party":"up","pct":46.2,"votes":493063},{"party":"lla","pct":25.8,"votes":275347},{"party":"jxc","pct":18.8,"votes":200641},{"party":"hnp","pct":8,"votes":85379},{"party":"fit","pct":1.2,"votes":12807}]},
+            {"name":"Tierra del Fuego","abbr":"TF","winner":"up","margin":20,"turnout":82,"votes":1246980,"results":[{"party":"up","pct":44,"votes":548671},{"party":"jxc","pct":24,"votes":299275},{"party":"lla","pct":23.8,"votes":296781},{"party":"hnp","pct":5.5,"votes":68584},{"party":"fit","pct":2.7,"votes":33668}]},
+            {"name":"Tucumán","abbr":"TM","winner":"lla","margin":2.1,"turnout":70.5,"votes":969248,"results":[{"party":"lla","pct":33.5,"votes":324698},{"party":"up","pct":31.4,"votes":304344},{"party":"jxc","pct":26.1,"votes":252974},{"party":"hnp","pct":6.2,"votes":60093},{"party":"fit","pct":2.7,"votes":26170}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2023-11-19",
+          "candidates": [
+            {
+              "name": "Javier Milei",
+              "party": "lla",
+              "votes": 14554560,
+              "pct": 55.65,
+              "winner": true
+            },
+            {
+              "name": "Sergio Massa",
+              "party": "up",
+              "votes": 11598720,
+              "pct": 44.35
+            }
+          ],
+          "regions": [
+            {"name":"Buenos Aires","abbr":"BA","winner":"up","margin":18.6,"turnout":73.3,"votes":1097450,"results":[{"party":"up","pct":59.3,"votes":650788},{"party":"lla","pct":40.7,"votes":446662}]},
+            {"name":"Ciudad de Buenos Aires","abbr":"CABA","winner":"lla","margin":9,"turnout":70.8,"votes":1155076,"results":[{"party":"lla","pct":54.5,"votes":629516},{"party":"up","pct":45.5,"votes":525560}]},
+            {"name":"Catamarca","abbr":"CT","winner":"lla","margin":25.2,"turnout":72.4,"votes":1232080,"results":[{"party":"lla","pct":62.6,"votes":771282},{"party":"up","pct":37.4,"votes":460798}]},
+            {"name":"Chaco","abbr":"CC","winner":"up","margin":14,"turnout":71.2,"votes":904017,"results":[{"party":"up","pct":57,"votes":515290},{"party":"lla","pct":43,"votes":388727}]},
+            {"name":"Chubut","abbr":"CH","winner":"lla","margin":1.8,"turnout":76.9,"votes":1304418,"results":[{"party":"lla","pct":50.9,"votes":663949},{"party":"up","pct":49.1,"votes":640469}]},
+            {"name":"Córdoba","abbr":"CB","winner":"lla","margin":43.6,"turnout":78,"votes":881393,"results":[{"party":"lla","pct":71.8,"votes":632840},{"party":"up","pct":28.2,"votes":248553}]},
+            {"name":"Corrientes","abbr":"CN","winner":"lla","margin":18,"turnout":80.7,"votes":1146582,"results":[{"party":"lla","pct":59,"votes":676483},{"party":"up","pct":41,"votes":470099}]},
+            {"name":"Entre Ríos","abbr":"ER","winner":"lla","margin":44.8,"turnout":76.9,"votes":961447,"results":[{"party":"lla","pct":72.4,"votes":696088},{"party":"up","pct":27.6,"votes":265359}]},
+            {"name":"Formosa","abbr":"FM","winner":"up","margin":0.2,"turnout":80.3,"votes":949904,"results":[{"party":"up","pct":50.1,"votes":475902},{"party":"lla","pct":49.9,"votes":474002}]},
+            {"name":"Jujuy","abbr":"JY","winner":"lla","margin":10.8,"turnout":73,"votes":902839,"results":[{"party":"lla","pct":55.4,"votes":500173},{"party":"up","pct":44.6,"votes":402666}]},
+            {"name":"La Pampa","abbr":"LP","winner":"lla","margin":39.2,"turnout":78.2,"votes":1123871,"results":[{"party":"lla","pct":69.6,"votes":782214},{"party":"up","pct":30.4,"votes":341657}]},
+            {"name":"La Rioja","abbr":"LR","winner":"lla","margin":5,"turnout":73,"votes":1244652,"results":[{"party":"lla","pct":52.5,"votes":653442},{"party":"up","pct":47.5,"votes":591210}]},
+            {"name":"Mendoza","abbr":"MZ","winner":"lla","margin":9.2,"turnout":73.7,"votes":872177,"results":[{"party":"lla","pct":54.6,"votes":476209},{"party":"up","pct":45.4,"votes":395968}]},
+            {"name":"Misiones","abbr":"MN","winner":"lla","margin":1.8,"turnout":76.1,"votes":1032558,"results":[{"party":"lla","pct":50.9,"votes":525572},{"party":"up","pct":49.1,"votes":506986}]},
+            {"name":"Neuquén","abbr":"NQ","winner":"lla","margin":31.6,"turnout":77.2,"votes":1218198,"results":[{"party":"lla","pct":65.8,"votes":801574},{"party":"up","pct":34.2,"votes":416624}]},
+            {"name":"Río Negro","abbr":"RN","winner":"lla","margin":10.2,"turnout":72.8,"votes":1030817,"results":[{"party":"lla","pct":55.1,"votes":567980},{"party":"up","pct":44.9,"votes":462837}]},
+            {"name":"Salta","abbr":"SA","winner":"lla","margin":44.6,"turnout":72.7,"votes":1260801,"results":[{"party":"lla","pct":72.3,"votes":911559},{"party":"up","pct":27.7,"votes":349242}]},
+            {"name":"San Juan","abbr":"SJ","winner":"lla","margin":13.8,"turnout":71.4,"votes":884526,"results":[{"party":"lla","pct":56.9,"votes":503295},{"party":"up","pct":43.1,"votes":381231}]},
+            {"name":"San Luis","abbr":"SL","winner":"lla","margin":23.6,"turnout":80.6,"votes":1122930,"results":[{"party":"lla","pct":61.8,"votes":693971},{"party":"up","pct":38.2,"votes":428959}]},
+            {"name":"Santa Cruz","abbr":"SC","winner":"lla","margin":9.4,"turnout":71.3,"votes":1119259,"results":[{"party":"lla","pct":54.7,"votes":612235},{"party":"up","pct":45.3,"votes":507024}]},
+            {"name":"Santa Fe","abbr":"SF","winner":"lla","margin":14.6,"turnout":81.9,"votes":1064009,"results":[{"party":"lla","pct":57.3,"votes":609677},{"party":"up","pct":42.7,"votes":454332}]},
+            {"name":"Santiago del Estero","abbr":"SE","winner":"up","margin":9,"turnout":82.2,"votes":914492,"results":[{"party":"up","pct":54.5,"votes":498398},{"party":"lla","pct":45.5,"votes":416094}]},
+            {"name":"Tierra del Fuego","abbr":"TF","winner":"lla","margin":4.8,"turnout":78.4,"votes":884778,"results":[{"party":"lla","pct":52.4,"votes":463624},{"party":"up","pct":47.6,"votes":421154}]},
+            {"name":"Tucumán","abbr":"TM","winner":"lla","margin":8.2,"turnout":75.5,"votes":928172,"results":[{"party":"lla","pct":54.1,"votes":502141},{"party":"up","pct":45.9,"votes":426031}]}
+          ]
+        }
+      ],
+      "cite": {
+        "name": "the national electoral roll and the National Electoral Chamber",
+        "url": "https://en.wikipedia.org/wiki/2023_Argentine_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Argentine_general_election"
+    },
+    {
+      "id": "ar-senate-2025",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2025-10-26",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 68.05,
+      "system": "72 seats · 24 contested",
+      "totalSeats": 24,
+      "majority": 13,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "La Libertad Avanza",
+          "party": "lla",
+          "votes": 2221163,
+          "pct": 42.01,
+          "seats": 13,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Homeland Force",
+          "party": "up",
+          "votes": 1939113,
+          "pct": 36.68,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Innovación Federal",
+          "party": "innov",
+          "votes": 424511,
+          "pct": 8.03,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Workers' Left Front",
+          "party": "fit",
+          "votes": 174941,
+          "pct": 3.31,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "United Provinces",
+          "party": "pu",
+          "votes": 151306,
+          "pct": 2.86,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 375898,
+          "pct": 7.11,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Buenos Aires","abbr":"BA","contested":false,"winner":null},
+        {"name":"Ciudad de Buenos Aires","abbr":"CABA","winner":"lla","margin":17.1,"turnout":62.1,"votes":176579,"results":[{"party":"lla","pct":53.2,"votes":93940},{"party":"up","pct":36.1,"votes":63745},{"party":"oth","pct":3.9,"votes":6887},{"party":"pu","pct":3.9,"votes":6887},{"party":"fit","pct":2.9,"votes":5121}],"contested":true},
+        {"name":"Catamarca","abbr":"CT","contested":false,"winner":null},
+        {"name":"Chaco","abbr":"CC","winner":"lla","margin":8.2,"turnout":73.4,"votes":186979,"results":[{"party":"lla","pct":49,"votes":91620},{"party":"up","pct":40.8,"votes":76287},{"party":"oth","pct":5.4,"votes":10097},{"party":"fit","pct":3.4,"votes":6357},{"party":"pu","pct":1.5,"votes":2805}],"contested":true},
+        {"name":"Chubut","abbr":"CH","contested":false,"winner":null},
+        {"name":"Córdoba","abbr":"CB","contested":false,"winner":null},
+        {"name":"Corrientes","abbr":"CN","contested":false,"winner":null},
+        {"name":"Entre Ríos","abbr":"ER","winner":"lla","margin":4.2,"turnout":72.3,"votes":219430,"results":[{"party":"lla","pct":45.9,"votes":100718},{"party":"up","pct":41.7,"votes":91502},{"party":"pu","pct":4.5,"votes":9874},{"party":"oth","pct":4.1,"votes":8997},{"party":"fit","pct":3.8,"votes":8338}],"contested":true},
+        {"name":"Formosa","abbr":"FM","contested":false,"winner":null},
+        {"name":"Jujuy","abbr":"JY","contested":false,"winner":null},
+        {"name":"La Pampa","abbr":"LP","contested":false,"winner":null},
+        {"name":"La Rioja","abbr":"LR","contested":false,"winner":null},
+        {"name":"Mendoza","abbr":"MZ","contested":false,"winner":null},
+        {"name":"Misiones","abbr":"MN","contested":false,"winner":null},
+        {"name":"Neuquén","abbr":"NQ","winner":"lla","margin":1,"turnout":65.9,"votes":220501,"results":[{"party":"lla","pct":38.1,"votes":84011},{"party":"innov","pct":37.1,"votes":81806},{"party":"up","pct":18.1,"votes":39911},{"party":"oth","pct":4.9,"votes":10805},{"party":"fit","pct":1.7,"votes":3749}],"contested":true},
+        {"name":"Río Negro","abbr":"RN","winner":"up","margin":6.8,"turnout":63.6,"votes":250348,"results":[{"party":"up","pct":40.2,"votes":100640},{"party":"lla","pct":33.4,"votes":83616},{"party":"innov","pct":17.5,"votes":43811},{"party":"oth","pct":5.9,"votes":14771},{"party":"fit","pct":3.1,"votes":7761}],"contested":true},
+        {"name":"Salta","abbr":"SA","winner":"lla","margin":14,"turnout":69.8,"votes":254178,"results":[{"party":"lla","pct":41.8,"votes":106246},{"party":"innov","pct":27.8,"votes":70661},{"party":"up","pct":24.1,"votes":61257},{"party":"oth","pct":4.4,"votes":11184},{"party":"fit","pct":1.8,"votes":4575}],"contested":true},
+        {"name":"San Juan","abbr":"SJ","contested":false,"winner":null},
+        {"name":"San Luis","abbr":"SL","contested":false,"winner":null},
+        {"name":"Santa Cruz","abbr":"SC","contested":false,"winner":null},
+        {"name":"Santa Fe","abbr":"SF","contested":false,"winner":null},
+        {"name":"Santiago del Estero","abbr":"SE","winner":"up","margin":21,"turnout":64.8,"votes":194644,"results":[{"party":"up","pct":56.9,"votes":110752},{"party":"lla","pct":35.9,"votes":69877},{"party":"fit","pct":3,"votes":5839},{"party":"oth","pct":2.9,"votes":5645},{"party":"pu","pct":1.2,"votes":2336}],"contested":true},
+        {"name":"Tierra del Fuego","abbr":"TF","winner":"lla","margin":9.3,"turnout":68.7,"votes":177107,"results":[{"party":"lla","pct":48.3,"votes":85543},{"party":"up","pct":39,"votes":69072},{"party":"oth","pct":5.8,"votes":10272},{"party":"pu","pct":3.8,"votes":6730},{"party":"fit","pct":3.1,"votes":5490}],"contested":true},
+        {"name":"Tucumán","abbr":"TM","contested":false,"winner":null}
+      ],
+      "chamberSize": 72,
+      "cite": {
+        "name": "the national electoral roll and the National Electoral Chamber",
+        "url": "https://en.wikipedia.org/wiki/2025_Argentine_legislative_election"
+      },
+      "statesFrom": "https://es.wikipedia.org/wiki/Elecciones_legislativas_de_Argentina_de_2025"
+    },
+    {
+      "id": "ar-chamber-2025",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2025-10-26",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 67.26,
+      "system": "257 seats · 127 contested, proportional by province",
+      "totalSeats": 127,
+      "majority": 64,
+      "seatLabel": "Seats",
+      "candidates": [
+        {
+          "name": "La Libertad Avanza",
+          "party": "lla",
+          "votes": 9437860,
+          "pct": 40.66,
+          "seats": 64,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Homeland Force",
+          "party": "up",
+          "votes": 7844530,
+          "pct": 33.79,
+          "seats": 47,
+          "change": null
+        },
+        {
+          "name": "United Provinces",
+          "party": "pu",
+          "votes": 1900623,
+          "pct": 8.19,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Workers' Left Front",
+          "party": "fit",
+          "votes": 904434,
+          "pct": 3.9,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Innovación Federal",
+          "party": "innov",
+          "votes": 619159,
+          "pct": 2.67,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Defendamos Córdoba",
+          "party": "defcba",
+          "votes": 170837,
+          "pct": 0.74,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Por San Juan",
+          "party": "psj",
+          "votes": 133432,
+          "pct": 0.57,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Propuesta Federal para el Cambio",
+          "party": "pfc",
+          "votes": 246246,
+          "pct": 1.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1955494,
+          "pct": 8.42,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Buenos Aires","abbr":"BA","winner":"lla","margin":28.9,"turnout":69.9,"votes":883967,"results":[{"party":"lla","pct":55.9,"votes":494138},{"party":"up","pct":27,"votes":238671},{"party":"oth","pct":6.6,"votes":58342},{"party":"pu","pct":5.8,"votes":51270},{"party":"fit","pct":4.7,"votes":41546}]},
+        {"name":"Ciudad de Buenos Aires","abbr":"CABA","winner":"lla","margin":9.5,"turnout":71.6,"votes":1087256,"results":[{"party":"lla","pct":45.5,"votes":494701},{"party":"up","pct":36,"votes":391412},{"party":"oth","pct":8.7,"votes":94591},{"party":"pu","pct":6.1,"votes":66323},{"party":"fit","pct":3.7,"votes":40228}]},
+        {"name":"Catamarca","abbr":"CT","winner":"up","margin":9.7,"turnout":72.4,"votes":806905,"results":[{"party":"up","pct":48.2,"votes":388928},{"party":"lla","pct":38.5,"votes":310658},{"party":"oth","pct":4.9,"votes":39538},{"party":"pu","pct":4.6,"votes":37118},{"party":"fit","pct":3.8,"votes":30662}]},
+        {"name":"Chaco","abbr":"CC","winner":"lla","margin":7.1,"turnout":72.1,"votes":1124299,"results":[{"party":"lla","pct":46.2,"votes":519426},{"party":"up","pct":39.1,"votes":439601},{"party":"oth","pct":6.9,"votes":77577},{"party":"pu","pct":4.7,"votes":52842},{"party":"fit","pct":3.1,"votes":34853}]},
+        {"name":"Chubut","abbr":"CH","winner":"lla","margin":8.9,"turnout":70.8,"votes":984004,"results":[{"party":"lla","pct":44.4,"votes":436898},{"party":"up","pct":35.5,"votes":349321},{"party":"oth","pct":8.6,"votes":84624},{"party":"pu","pct":8,"votes":78720},{"party":"fit","pct":3.6,"votes":35424}]},
+        {"name":"Córdoba","abbr":"CB","winner":"lla","margin":6.7,"turnout":73.8,"votes":836296,"results":[{"party":"lla","pct":42,"votes":351244},{"party":"up","pct":35.3,"votes":295212},{"party":"defcba","pct":15.6,"votes":130462},{"party":"pu","pct":3.7,"votes":30943},{"party":"oth","pct":3.3,"votes":27598}]},
+        {"name":"Corrientes","abbr":"CN","winner":"pu","margin":19.4,"turnout":61.2,"votes":1036302,"results":[{"party":"pu","pct":48.6,"votes":503643},{"party":"lla","pct":29.2,"votes":302600},{"party":"up","pct":17.8,"votes":184462},{"party":"oth","pct":2.8,"votes":29016},{"party":"fit","pct":1.6,"votes":16581}]},
+        {"name":"Entre Ríos","abbr":"ER","winner":"lla","margin":0.6,"turnout":70.1,"votes":997293,"results":[{"party":"lla","pct":35.7,"votes":356034},{"party":"up","pct":35.1,"votes":350050},{"party":"pu","pct":12.9,"votes":128651},{"party":"oth","pct":10.8,"votes":107708},{"party":"fit","pct":5.5,"votes":54851}]},
+        {"name":"Formosa","abbr":"FM","winner":"up","margin":1.2,"turnout":72.3,"votes":1151091,"results":[{"party":"up","pct":39.4,"votes":453530},{"party":"lla","pct":38.2,"votes":439717},{"party":"oth","pct":12.6,"votes":145037},{"party":"pu","pct":6.2,"votes":71368},{"party":"fit","pct":3.6,"votes":41439}]},
+        {"name":"Jujuy","abbr":"JY","winner":"lla","margin":12.4,"turnout":62.8,"votes":780285,"results":[{"party":"lla","pct":45.1,"votes":351909},{"party":"up","pct":32.7,"votes":255153},{"party":"oth","pct":13.9,"votes":108460},{"party":"pu","pct":5.4,"votes":42135},{"party":"fit","pct":2.9,"votes":22628}]},
+        {"name":"La Pampa","abbr":"LP","winner":"up","margin":2.2,"turnout":61.4,"votes":1154752,"results":[{"party":"up","pct":40.6,"votes":468829},{"party":"lla","pct":38.4,"votes":443425},{"party":"pu","pct":9.3,"votes":107392},{"party":"oth","pct":6.7,"votes":77368},{"party":"fit","pct":5,"votes":57738}]},
+        {"name":"La Rioja","abbr":"LR","winner":"up","margin":11.9,"turnout":65.3,"votes":806105,"results":[{"party":"up","pct":49.3,"votes":397410},{"party":"lla","pct":37.4,"votes":301483},{"party":"pu","pct":6.3,"votes":50785},{"party":"oth","pct":4.1,"votes":33050},{"party":"fit","pct":2.9,"votes":23377}]},
+        {"name":"Mendoza","abbr":"MZ","winner":"lla","margin":2.8,"turnout":63.9,"votes":1073670,"results":[{"party":"lla","pct":43.5,"votes":467046},{"party":"up","pct":40.7,"votes":436984},{"party":"pu","pct":6.3,"votes":67641},{"party":"oth","pct":5.3,"votes":56905},{"party":"fit","pct":4.2,"votes":45094}]},
+        {"name":"Misiones","abbr":"MN","winner":"lla","margin":12.2,"turnout":64.1,"votes":806047,"results":[{"party":"lla","pct":44.5,"votes":358691},{"party":"up","pct":32.3,"votes":260353},{"party":"innov","pct":13.3,"votes":107204},{"party":"oth","pct":6.7,"votes":54005},{"party":"pu","pct":3.3,"votes":26600}]},
+        {"name":"Neuquén","abbr":"NQ","winner":"lla","margin":14.9,"turnout":60.3,"votes":919957,"results":[{"party":"lla","pct":41.6,"votes":382702},{"party":"up","pct":26.7,"votes":245629},{"party":"innov","pct":13.5,"votes":124194},{"party":"oth","pct":12.6,"votes":115915},{"party":"pu","pct":5.6,"votes":51518}]},
+        {"name":"Río Negro","abbr":"RN","winner":"lla","margin":0.2,"turnout":72.8,"votes":783950,"results":[{"party":"lla","pct":33.5,"votes":262623},{"party":"up","pct":33.3,"votes":261055},{"party":"innov","pct":17.3,"votes":135623},{"party":"oth","pct":10.9,"votes":85451},{"party":"pu","pct":5,"votes":39198}]},
+        {"name":"Salta","abbr":"SA","winner":"lla","margin":3.1,"turnout":72.4,"votes":1160428,"results":[{"party":"lla","pct":39.2,"votes":454888},{"party":"up","pct":36.1,"votes":418915},{"party":"pu","pct":8.7,"votes":100957},{"party":"innov","pct":8.2,"votes":95155},{"party":"oth","pct":7.9,"votes":91674}]},
+        {"name":"San Juan","abbr":"SJ","winner":"up","margin":1.7,"turnout":69.9,"votes":904841,"results":[{"party":"up","pct":41.7,"votes":377319},{"party":"lla","pct":40,"votes":361936},{"party":"psj","pct":7.6,"votes":68768},{"party":"pu","pct":5.8,"votes":52481},{"party":"oth","pct":4.9,"votes":44337}]},
+        {"name":"San Luis","abbr":"SL","winner":"lla","margin":21.8,"turnout":61.1,"votes":933898,"results":[{"party":"lla","pct":49,"votes":457610},{"party":"up","pct":27.2,"votes":254020},{"party":"oth","pct":11,"votes":102729},{"party":"pu","pct":7.5,"votes":70042},{"party":"fit","pct":5.2,"votes":48563}]},
+        {"name":"Santa Cruz","abbr":"SC","winner":"up","margin":22.4,"turnout":61,"votes":1085912,"results":[{"party":"up","pct":54.7,"votes":593994},{"party":"lla","pct":32.3,"votes":350750},{"party":"oth","pct":4.8,"votes":52124},{"party":"pu","pct":4.5,"votes":48866},{"party":"fit","pct":3.7,"votes":40179}]},
+        {"name":"Santa Fe","abbr":"SF","winner":"lla","margin":3.3,"turnout":61.7,"votes":1011243,"results":[{"party":"lla","pct":42,"votes":424722},{"party":"up","pct":38.7,"votes":391351},{"party":"pu","pct":8.8,"votes":88989},{"party":"oth","pct":6.1,"votes":61686},{"party":"fit","pct":4.4,"votes":44495}]},
+        {"name":"Santiago del Estero","abbr":"SE","winner":"up","margin":13.9,"turnout":65,"votes":904601,"results":[{"party":"up","pct":46.3,"votes":418830},{"party":"lla","pct":32.4,"votes":293091},{"party":"oth","pct":10.5,"votes":94983},{"party":"pu","pct":6.2,"votes":56085},{"party":"fit","pct":4.6,"votes":41612}]},
+        {"name":"Tierra del Fuego","abbr":"TF","winner":"lla","margin":0.5,"turnout":65.8,"votes":1011002,"results":[{"party":"lla","pct":39.7,"votes":401368},{"party":"up","pct":39.2,"votes":396313},{"party":"oth","pct":9.5,"votes":96045},{"party":"pu","pct":7.8,"votes":78858},{"party":"fit","pct":3.8,"votes":38418}]},
+        {"name":"Tucumán","abbr":"TM","winner":"up","margin":6.3,"turnout":73.3,"votes":1019549,"results":[{"party":"up","pct":44.8,"votes":456758},{"party":"lla","pct":38.5,"votes":392526},{"party":"oth","pct":7,"votes":71368},{"party":"fit","pct":5.1,"votes":51997},{"party":"pu","pct":4.6,"votes":46899}]}
+      ],
+      "chamberSize": 257,
+      "cite": {
+        "name": "the national electoral roll and the National Electoral Chamber",
+        "url": "https://en.wikipedia.org/wiki/2025_Argentine_legislative_election"
+      },
+      "statesFrom": "https://es.wikipedia.org/wiki/Elecciones_legislativas_de_Argentina_de_2025"
+    }
+  ],
+  "polls": [
+    {
+      "office": "President",
+      "date": "2027-10-24",
+      "note": null,
+      "tentative": false,
+      "series": [
+        {
+          "party": "up",
+          "points": [
+            ["2026-03-16",36.6],
+            ["2026-03-23",37.4],
+            ["2026-03-30",37.5],
+            ["2026-04-06",37.7],
+            ["2026-04-13",37],
+            ["2026-04-20",36.7],
+            ["2026-04-27",36.5],
+            ["2026-05-04",36.1],
+            ["2026-05-11",36.8],
+            ["2026-05-18",37.6],
+            ["2026-05-25",38.5],
+            ["2026-06-01",39.1],
+            ["2026-06-08",39.3],
+            ["2026-06-15",39.8],
+            ["2026-06-22",38.7],
+            ["2026-06-29",39],
+            ["2026-07-06",38.2],
+            ["2026-07-13",38.4],
+            ["2026-07-20",38.2],
+            ["2026-07-27",37.7],
+            ["2026-08-03",37.4],
+            ["2026-08-10",37.7],
+            ["2026-08-17",38.4],
+            ["2026-08-24",38.3],
+            ["2026-08-31",38.4],
+            ["2026-09-07",39],
+            ["2026-09-14",38.6],
+            ["2026-09-21",38.6],
+            ["2026-09-28",38.1],
+            ["2026-10-05",38.9]
+          ]
+        },
+        {
+          "party": "lla",
+          "points": [
+            ["2026-03-16",29.6],
+            ["2026-03-23",30.5],
+            ["2026-03-30",30.6],
+            ["2026-04-06",31.3],
+            ["2026-04-13",30.4],
+            ["2026-04-20",31.3],
+            ["2026-04-27",32.1],
+            ["2026-05-04",31.3],
+            ["2026-05-11",30.7],
+            ["2026-05-18",31.3],
+            ["2026-05-25",31.4],
+            ["2026-06-01",30.7],
+            ["2026-06-08",31],
+            ["2026-06-15",31.1],
+            ["2026-06-22",32],
+            ["2026-06-29",31.2],
+            ["2026-07-06",31.4],
+            ["2026-07-13",30.9],
+            ["2026-07-20",30.8],
+            ["2026-07-27",31.4],
+            ["2026-08-03",31.9],
+            ["2026-08-10",31.8],
+            ["2026-08-17",32.5],
+            ["2026-08-24",31.6],
+            ["2026-08-31",32.3],
+            ["2026-09-07",32.1],
+            ["2026-09-14",31.3],
+            ["2026-09-21",31.9],
+            ["2026-09-28",31],
+            ["2026-10-05",30.4]
+          ]
+        },
+        {
+          "party": "jxc",
+          "points": [
+            ["2026-03-16",23.5],
+            ["2026-03-23",24.3],
+            ["2026-03-30",24.8],
+            ["2026-04-06",24.8],
+            ["2026-04-13",25.6],
+            ["2026-04-20",25.9],
+            ["2026-04-27",25.8],
+            ["2026-05-04",25.4],
+            ["2026-05-11",24.8],
+            ["2026-05-18",25],
+            ["2026-05-25",25.7],
+            ["2026-06-01",24.9],
+            ["2026-06-08",25.7],
+            ["2026-06-15",25.3],
+            ["2026-06-22",25.2],
+            ["2026-06-29",25.1],
+            ["2026-07-06",24.6],
+            ["2026-07-13",25.4],
+            ["2026-07-20",25.9],
+            ["2026-07-27",26.4],
+            ["2026-08-03",25.8],
+            ["2026-08-10",26.4],
+            ["2026-08-17",27.1],
+            ["2026-08-24",27.4],
+            ["2026-08-31",27.8],
+            ["2026-09-07",27.6],
+            ["2026-09-14",27.1],
+            ["2026-09-21",27.4],
+            ["2026-09-28",27.5],
+            ["2026-10-05",26.6]
+          ]
+        },
+        {
+          "party": "hnp",
+          "points": [
+            ["2026-03-16",7.1],
+            ["2026-03-23",6.2],
+            ["2026-03-30",5.1],
+            ["2026-04-06",4.2],
+            ["2026-04-13",3.4],
+            ["2026-04-20",4.1],
+            ["2026-04-27",4.2],
+            ["2026-05-04",4.7],
+            ["2026-05-11",5.1],
+            ["2026-05-18",5.1],
+            ["2026-05-25",4.8],
+            ["2026-06-01",4.6],
+            ["2026-06-08",5.4],
+            ["2026-06-15",5.1],
+            ["2026-06-22",4.8],
+            ["2026-06-29",5.5],
+            ["2026-07-06",5.2],
+            ["2026-07-13",4.5],
+            ["2026-07-20",4.8],
+            ["2026-07-27",4.4],
+            ["2026-08-03",4.4],
+            ["2026-08-10",3.8],
+            ["2026-08-17",3.8],
+            ["2026-08-24",4.2],
+            ["2026-08-31",4.4],
+            ["2026-09-07",4.2],
+            ["2026-09-14",5],
+            ["2026-09-21",4],
+            ["2026-09-28",3.9],
+            ["2026-10-05",3.9]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Senate",
+      "date": "2027-10-24",
+      "note": null,
+      "tentative": false,
+      "series": [
+        {
+          "party": "lla",
+          "points": [
+            ["2026-03-16",41],
+            ["2026-03-23",40.2],
+            ["2026-03-30",40],
+            ["2026-04-06",39.2],
+            ["2026-04-13",39.1],
+            ["2026-04-20",38.3],
+            ["2026-04-27",38.5],
+            ["2026-05-04",39.5],
+            ["2026-05-11",39.4],
+            ["2026-05-18",38.7],
+            ["2026-05-25",37.9],
+            ["2026-06-01",38.7],
+            ["2026-06-08",38.5],
+            ["2026-06-15",38.5],
+            ["2026-06-22",38.4],
+            ["2026-06-29",39],
+            ["2026-07-06",38.5],
+            ["2026-07-13",39.5],
+            ["2026-07-20",40.2],
+            ["2026-07-27",40],
+            ["2026-08-03",39.1],
+            ["2026-08-10",38.3],
+            ["2026-08-17",38.2],
+            ["2026-08-24",38.1],
+            ["2026-08-31",38],
+            ["2026-09-07",39],
+            ["2026-09-14",38.4],
+            ["2026-09-21",38.1],
+            ["2026-09-28",37.6],
+            ["2026-10-05",37.7]
+          ]
+        },
+        {
+          "party": "up",
+          "points": [
+            ["2026-03-16",35.8],
+            ["2026-03-23",35.2],
+            ["2026-03-30",34.9],
+            ["2026-04-06",34.1],
+            ["2026-04-13",34],
+            ["2026-04-20",33.4],
+            ["2026-04-27",33.3],
+            ["2026-05-04",34],
+            ["2026-05-11",33.3],
+            ["2026-05-18",32.6],
+            ["2026-05-25",32.9],
+            ["2026-06-01",33.5],
+            ["2026-06-08",32.8],
+            ["2026-06-15",32.2],
+            ["2026-06-22",32.2],
+            ["2026-06-29",31.8],
+            ["2026-07-06",32.8],
+            ["2026-07-13",33.6],
+            ["2026-07-20",33.1],
+            ["2026-07-27",33],
+            ["2026-08-03",33.1],
+            ["2026-08-10",33.9],
+            ["2026-08-17",33],
+            ["2026-08-24",32.2],
+            ["2026-08-31",31.5],
+            ["2026-09-07",31.8],
+            ["2026-09-14",32.5],
+            ["2026-09-21",32.7],
+            ["2026-09-28",32.4],
+            ["2026-10-05",31.8]
+          ]
+        },
+        {
+          "party": "innov",
+          "points": [
+            ["2026-03-16",7.3],
+            ["2026-03-23",7.8],
+            ["2026-03-30",8.1],
+            ["2026-04-06",8.7],
+            ["2026-04-13",8.3],
+            ["2026-04-20",8.8],
+            ["2026-04-27",9],
+            ["2026-05-04",8.8],
+            ["2026-05-11",9.2],
+            ["2026-05-18",8.8],
+            ["2026-05-25",8.8],
+            ["2026-06-01",8.8],
+            ["2026-06-08",8.8],
+            ["2026-06-15",8.7],
+            ["2026-06-22",8.3],
+            ["2026-06-29",8.6],
+            ["2026-07-06",8.5],
+            ["2026-07-13",7.7],
+            ["2026-07-20",7.8],
+            ["2026-07-27",7.4],
+            ["2026-08-03",8.4],
+            ["2026-08-10",9.1],
+            ["2026-08-17",9.4],
+            ["2026-08-24",10.1],
+            ["2026-08-31",9.2],
+            ["2026-09-07",9.7],
+            ["2026-09-14",10.4],
+            ["2026-09-21",9.6],
+            ["2026-09-28",10.3],
+            ["2026-10-05",9.5]
+          ]
+        },
+        {
+          "party": "oth",
+          "points": [
+            ["2026-03-16",6.8],
+            ["2026-03-23",6.6],
+            ["2026-03-30",6.2],
+            ["2026-04-06",5.2],
+            ["2026-04-13",4.1],
+            ["2026-04-20",3.6],
+            ["2026-04-27",2.7],
+            ["2026-05-04",2.5],
+            ["2026-05-11",2.9],
+            ["2026-05-18",2.2],
+            ["2026-05-25",2.8],
+            ["2026-06-01",2.5],
+            ["2026-06-08",2.6],
+            ["2026-06-15",3.5],
+            ["2026-06-22",3],
+            ["2026-06-29",2.6],
+            ["2026-07-06",2],
+            ["2026-07-13",2.7],
+            ["2026-07-20",2],
+            ["2026-07-27",2.6],
+            ["2026-08-03",3.2],
+            ["2026-08-10",3.4],
+            ["2026-08-17",4],
+            ["2026-08-24",4.7],
+            ["2026-08-31",5],
+            ["2026-09-07",4.4],
+            ["2026-09-14",3.8],
+            ["2026-09-21",4.1],
+            ["2026-09-28",3.5],
+            ["2026-10-05",4.3]
+          ]
+        }
+      ]
+    },
+    {
+      "office": "Chamber of Deputies",
+      "date": "2027-10-24",
+      "note": null,
+      "tentative": false,
+      "series": [
+        {
+          "party": "lla",
+          "points": [
+            ["2026-03-16",41.6],
+            ["2026-03-23",42],
+            ["2026-03-30",41.1],
+            ["2026-04-06",41],
+            ["2026-04-13",41.5],
+            ["2026-04-20",41.5],
+            ["2026-04-27",41.9],
+            ["2026-05-04",41.1],
+            ["2026-05-11",40.9],
+            ["2026-05-18",40.2],
+            ["2026-05-25",40.9],
+            ["2026-06-01",40.1],
+            ["2026-06-08",40.4],
+            ["2026-06-15",40.1],
+            ["2026-06-22",39.5],
+            ["2026-06-29",39.5],
+            ["2026-07-06",39.2],
+            ["2026-07-13",39.2],
+            ["2026-07-20",39.6],
+            ["2026-07-27",39.6],
+            ["2026-08-03",40.2],
+            ["2026-08-10",41.3],
+            ["2026-08-17",41.3],
+            ["2026-08-24",40.6],
+            ["2026-08-31",41.5],
+            ["2026-09-07",40.9],
+            ["2026-09-14",40.4],
+            ["2026-09-21",41.1],
+            ["2026-09-28",41.8],
+            ["2026-10-05",41.1]
+          ]
+        },
+        {
+          "party": "up",
+          "points": [
+            ["2026-03-16",33.8],
+            ["2026-03-23",33.4],
+            ["2026-03-30",33.6],
+            ["2026-04-06",33.3],
+            ["2026-04-13",33.1],
+            ["2026-04-20",32.7],
+            ["2026-04-27",33],
+            ["2026-05-04",32.6],
+            ["2026-05-11",31.6],
+            ["2026-05-18",30.7],
+            ["2026-05-25",30.3],
+            ["2026-06-01",29.4],
+            ["2026-06-08",28.9],
+            ["2026-06-15",29.5],
+            ["2026-06-22",28.7],
+            ["2026-06-29",28],
+            ["2026-07-06",28.8],
+            ["2026-07-13",28.8],
+            ["2026-07-20",29.4],
+            ["2026-07-27",29.4],
+            ["2026-08-03",29.9],
+            ["2026-08-10",30],
+            ["2026-08-17",29.1],
+            ["2026-08-24",28.7],
+            ["2026-08-31",28],
+            ["2026-09-07",28.6],
+            ["2026-09-14",29.2],
+            ["2026-09-21",29.4],
+            ["2026-09-28",28.9],
+            ["2026-10-05",29.2]
+          ]
+        },
+        {
+          "party": "oth",
+          "points": [
+            ["2026-03-16",7.7],
+            ["2026-03-23",7.2],
+            ["2026-03-30",6.9],
+            ["2026-04-06",8],
+            ["2026-04-13",8.7],
+            ["2026-04-20",8.6],
+            ["2026-04-27",9.1],
+            ["2026-05-04",8.9],
+            ["2026-05-11",8.7],
+            ["2026-05-18",7.9],
+            ["2026-05-25",8.2],
+            ["2026-06-01",8.5],
+            ["2026-06-08",8.3],
+            ["2026-06-15",9],
+            ["2026-06-22",9.4],
+            ["2026-06-29",9.1],
+            ["2026-07-06",9.7],
+            ["2026-07-13",10.4],
+            ["2026-07-20",9.6],
+            ["2026-07-27",9.8],
+            ["2026-08-03",9.3],
+            ["2026-08-10",8.9],
+            ["2026-08-17",8.6],
+            ["2026-08-24",9],
+            ["2026-08-31",8.7],
+            ["2026-09-07",8.6],
+            ["2026-09-14",9.5],
+            ["2026-09-21",9.4],
+            ["2026-09-28",10.3],
+            ["2026-10-05",10.7]
+          ]
+        },
+        {
+          "party": "pu",
+          "points": [
+            ["2026-03-16",8.9],
+            ["2026-03-23",9.6],
+            ["2026-03-30",9.5],
+            ["2026-04-06",9],
+            ["2026-04-13",9.3],
+            ["2026-04-20",8.4],
+            ["2026-04-27",7.6],
+            ["2026-05-04",7.6],
+            ["2026-05-11",8.2],
+            ["2026-05-18",8.9],
+            ["2026-05-25",8],
+            ["2026-06-01",8.5],
+            ["2026-06-08",8.8],
+            ["2026-06-15",8.7],
+            ["2026-06-22",8.7],
+            ["2026-06-29",8.8],
+            ["2026-07-06",8],
+            ["2026-07-13",8.2],
+            ["2026-07-20",8.8],
+            ["2026-07-27",8.9],
+            ["2026-08-03",8.9],
+            ["2026-08-10",8.1],
+            ["2026-08-17",7.9],
+            ["2026-08-24",7.5],
+            ["2026-08-31",7.4],
+            ["2026-09-07",6.8],
+            ["2026-09-14",7.6],
+            ["2026-09-21",7.8],
+            ["2026-09-28",7],
+            ["2026-10-05",8.1]
+          ]
+        }
+      ]
+    }
+  ]
+}

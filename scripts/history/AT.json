@@ -1,0 +1,2454 @@
+{
+  "code": "AT",
+  "parties": {
+    "vdu": {
+      "name": "Federation of Independents",
+      "color": "#0056A2",
+      "article": "Federation of Independents"
+    },
+    "dfp": {
+      "name": "Democratic Progressive Party",
+      "color": "#FFE500",
+      "article": "Democratic Progressive Party (Austria)"
+    },
+    "vgo": {
+      "name": "United Greens of Austria",
+      "color": "#2E8B57"
+    },
+    "alo": {
+      "name": "Alternative List Austria",
+      "color": "#9ACD32"
+    },
+    "lif": {
+      "name": "Liberal Forum",
+      "color": "#FFDC00",
+      "article": "Liberal Forum"
+    },
+    "nein": {
+      "name": "No – Civic Action Group against the Sale of Austria",
+      "color": "#8B4513"
+    },
+    "du": {
+      "name": "The Independents",
+      "color": "#C0C0C0",
+      "article": "The Independents (Austria)"
+    },
+    "bzo": {
+      "name": "Alliance for the Future of Austria",
+      "color": "#F29400",
+      "article": "Alliance for the Future of Austria"
+    },
+    "hpm": {
+      "name": "Hans-Peter Martin's List",
+      "color": "#F5D62A",
+      "article": "Hans-Peter Martin's List"
+    },
+    "fritz": {
+      "name": "Citizens' Forum Austria",
+      "color": "#A0522D",
+      "article": "Citizens' Forum Austria"
+    },
+    "ts": {
+      "name": "Team Stronach",
+      "color": "#E5CC00",
+      "article": "Team Stronach"
+    },
+    "pilz": {
+      "name": "JETZT",
+      "color": "#ADADAD",
+      "article": "JETZT (party)"
+    },
+    "ovpfpo": {
+      "name": "ÖVP–FPÖ",
+      "color": "#3B6E8F"
+    },
+    "kimmel": {
+      "name": "Independent",
+      "color": "#7F7F7F"
+    },
+    "spoovp": {
+      "name": "SPÖ–ÖVP",
+      "color": "#C06C84"
+    },
+    "ndp": {
+      "name": "National Democratic Party",
+      "color": "#995908",
+      "article": "National Democratic Party (Austria)"
+    },
+    "waldheim": {
+      "name": "Independent (ÖVP)",
+      "color": "#4BA3AE"
+    },
+    "klestil": {
+      "name": "Independent (ÖVP)",
+      "color": "#3E8E99"
+    },
+    "knoll": {
+      "name": "Independent (Greens)",
+      "color": "#6B8E23"
+    },
+    "nowak": {
+      "name": "Independent",
+      "color": "#8B7D6B"
+    },
+    "fischer": {
+      "name": "Independent (SPÖ)",
+      "color": "#D9534F"
+    },
+    "cpo": {
+      "name": "Christian Party of Austria",
+      "color": "#FAD41B",
+      "article": "Christian Party of Austria"
+    },
+    "griss": {
+      "name": "Independent",
+      "color": "#9F86C0"
+    },
+    "lugner": {
+      "name": "Independent",
+      "color": "#C0C0C0"
+    }
+  },
+  "elections": [
+    {
+      "id": "at-national-council-1949",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1949-10-09",
+      "totalSeats": 165,
+      "turnout": 96.78,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1949_Austrian_legislative_election",
+        "revid": 1378246543
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1846581,
+          "pct": 44.03,
+          "seats": 77,
+          "change": -8,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 1623524,
+          "pct": 38.71,
+          "seats": 67,
+          "change": -9
+        },
+        {
+          "name": "Electoral Party of Independents",
+          "party": "vdu",
+          "votes": 489273,
+          "pct": 11.67,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Austria and Left Socialists",
+          "party": "kpo",
+          "votes": 213066,
+          "pct": 5.08,
+          "seats": 5,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21289,
+          "pct": 0.51,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "About 500,000 registered former Nazis, who were barred from voting in 1945, regained the vote at this election (per the article).",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1949_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1953",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1953-02-22",
+      "totalSeats": 165,
+      "turnout": 95.83,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1953_Austrian_legislative_election",
+        "revid": 1378246542
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1781777,
+          "pct": 41.26,
+          "seats": 74,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 1818517,
+          "pct": 42.11,
+          "seats": 73,
+          "change": 6
+        },
+        {
+          "name": "Electoral Party of Independents",
+          "party": "vdu",
+          "votes": 472866,
+          "pct": 10.95,
+          "seats": 14,
+          "change": -2
+        },
+        {
+          "name": "Austrian People's Opposition",
+          "party": "kpo",
+          "votes": 228159,
+          "pct": 5.28,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 17369,
+          "pct": 0.4,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1953_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1956",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1956-05-13",
+      "totalSeats": 165,
+      "turnout": 95.95,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1956_Austrian_legislative_election",
+        "revid": 1272663959
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1999986,
+          "pct": 45.96,
+          "seats": 82,
+          "change": 8,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 1873295,
+          "pct": 43.05,
+          "seats": 74,
+          "change": 1
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 283749,
+          "pct": 6.52,
+          "seats": 6,
+          "change": -8
+        },
+        {
+          "name": "Communists and Left Socialists",
+          "party": "kpo",
+          "votes": 192438,
+          "pct": 4.42,
+          "seats": 3,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2440,
+          "pct": 0.06,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1956_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1959",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1959-05-10",
+      "totalSeats": 165,
+      "turnout": 94.21,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1959_Austrian_legislative_election",
+        "revid": 1292061469
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1928043,
+          "pct": 44.19,
+          "seats": 79,
+          "change": -3,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 1953935,
+          "pct": 44.79,
+          "seats": 78,
+          "change": 4
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 336110,
+          "pct": 7.7,
+          "seats": 8,
+          "change": 2
+        },
+        {
+          "name": "Communists and Left Socialists",
+          "party": "kpo",
+          "votes": 142578,
+          "pct": 3.27,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2190,
+          "pct": 0.05,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1959_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1962",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1962-11-18",
+      "totalSeats": 165,
+      "turnout": 93.77,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1962_Austrian_legislative_election",
+        "revid": 1273425463
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 2024501,
+          "pct": 45.43,
+          "seats": 81,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 1960685,
+          "pct": 44,
+          "seats": 76,
+          "change": -2
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 313895,
+          "pct": 7.04,
+          "seats": 8,
+          "change": 0
+        },
+        {
+          "name": "Communists and Left Socialists",
+          "party": "kpo",
+          "votes": 135520,
+          "pct": 3.04,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 21530,
+          "pct": 0.48,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1962_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1966",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1966-03-06",
+      "totalSeats": 165,
+      "turnout": 93.8,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1966_Austrian_legislative_election",
+        "revid": 1307398470
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 2191109,
+          "pct": 48.35,
+          "seats": 85,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 1928985,
+          "pct": 42.56,
+          "seats": 74,
+          "change": -2
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 242570,
+          "pct": 5.35,
+          "seats": 6,
+          "change": -2
+        },
+        {
+          "name": "Democratic Progressive Party",
+          "party": "dfp",
+          "votes": 148528,
+          "pct": 3.28,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 20693,
+          "pct": 0.46,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1966_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1970",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1970-03-01",
+      "totalSeats": 165,
+      "turnout": 91.78,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1970_Austrian_legislative_election",
+        "revid": 1361780788
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 2221981,
+          "pct": 48.42,
+          "seats": 81,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 2051012,
+          "pct": 44.69,
+          "seats": 78,
+          "change": -7
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 253425,
+          "pct": 5.52,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 62543,
+          "pct": 1.36,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "ovp",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1970_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1971",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1971-10-10",
+      "totalSeats": 183,
+      "turnout": 92.44,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1971_Austrian_legislative_election",
+        "revid": 1369602934
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 2280168,
+          "pct": 50.04,
+          "seats": 93,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1964713,
+          "pct": 43.11,
+          "seats": 80,
+          "change": 2
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 248473,
+          "pct": 5.45,
+          "seats": 10,
+          "change": 4
+        },
+        {
+          "name": "Communist Party of Austria",
+          "party": "kpo",
+          "votes": 61762,
+          "pct": 1.36,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1874,
+          "pct": 0.04,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The National Council grew from 165 to 183 seats at this election.",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "spo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1971_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1975",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1975-10-05",
+      "totalSeats": 183,
+      "turnout": 92.9,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1975_Austrian_legislative_election",
+        "revid": 1335726688
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 2326201,
+          "pct": 50.42,
+          "seats": 93,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1981291,
+          "pct": 42.95,
+          "seats": 80,
+          "change": 0
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 249444,
+          "pct": 5.41,
+          "seats": 10,
+          "change": 0
+        },
+        {
+          "name": "Communist Party of Austria",
+          "party": "kpo",
+          "votes": 55032,
+          "pct": 1.19,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1464,
+          "pct": 0.03,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "spo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1975_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1979",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1979-05-06",
+      "totalSeats": 183,
+      "turnout": 92.24,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1979_Austrian_legislative_election",
+        "revid": 1287439188
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 2413226,
+          "pct": 51.03,
+          "seats": 95,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1981739,
+          "pct": 41.9,
+          "seats": 77,
+          "change": -3
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 286743,
+          "pct": 6.06,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 47543,
+          "pct": 1.01,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "spo",
+        "4": "spo",
+        "5": "spo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1979_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1983",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1983-04-24",
+      "totalSeats": 183,
+      "turnout": 92.59,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1983_Austrian_legislative_election",
+        "revid": 1292038485
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 2312529,
+          "pct": 47.65,
+          "seats": 90,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 2097808,
+          "pct": 43.22,
+          "seats": 81,
+          "change": 4
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 241789,
+          "pct": 4.98,
+          "seats": 12,
+          "change": 1
+        },
+        {
+          "name": "United Greens of Austria",
+          "party": "vgo",
+          "votes": 93798,
+          "pct": 1.93,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Alternative List Austria",
+          "party": "alo",
+          "votes": 65816,
+          "pct": 1.36,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 41677,
+          "pct": 0.86,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "ovp",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1983_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1986",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1986-11-23",
+      "totalSeats": 183,
+      "turnout": 90.46,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1986_Austrian_legislative_election",
+        "revid": 1291889237
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 2092024,
+          "pct": 43.12,
+          "seats": 80,
+          "change": -10,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 2003663,
+          "pct": 41.29,
+          "seats": 77,
+          "change": -4
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 472205,
+          "pct": 9.73,
+          "seats": 18,
+          "change": 6
+        },
+        {
+          "name": "Green Alternative–Freda Meissner-Blau List",
+          "party": "gru",
+          "votes": 234028,
+          "pct": 4.82,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 50268,
+          "pct": 1.04,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "ovp",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1986_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1990",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1990-10-07",
+      "totalSeats": 183,
+      "turnout": 86.14,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1990_Austrian_legislative_election",
+        "revid": 1287370798
+      },
+      "candidates": [
+        {
+          "name": "Socialist Party of Austria",
+          "party": "spo",
+          "votes": 2012787,
+          "pct": 42.78,
+          "seats": 80,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1508600,
+          "pct": 32.06,
+          "seats": 60,
+          "change": -17
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 782648,
+          "pct": 16.63,
+          "seats": 33,
+          "change": 15
+        },
+        {
+          "name": "Green Alternative–Freda Meissner-Blau List",
+          "party": "gru",
+          "votes": 225084,
+          "pct": 4.78,
+          "seats": 10,
+          "change": 2
+        },
+        {
+          "name": "United Greens of Austria",
+          "party": "vgo",
+          "votes": 92277,
+          "pct": 1.96,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 83498,
+          "pct": 1.77,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "spo",
+        "4": "spo",
+        "5": "spo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1990_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1994",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1994-10-09",
+      "totalSeats": 183,
+      "turnout": 81.94,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1994_Austrian_legislative_election",
+        "revid": 1273431918
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1617804,
+          "pct": 34.92,
+          "seats": 65,
+          "change": -15,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1281846,
+          "pct": 27.67,
+          "seats": 52,
+          "change": -8
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 1042332,
+          "pct": 22.5,
+          "seats": 42,
+          "change": 9
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 338538,
+          "pct": 7.31,
+          "seats": 13,
+          "change": 3
+        },
+        {
+          "name": "Liberal Forum",
+          "party": "lif",
+          "votes": 276580,
+          "pct": 5.97,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 76014,
+          "pct": 1.64,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "spo",
+        "4": "spo",
+        "5": "spo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1994_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1995",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1995-12-17",
+      "totalSeats": 183,
+      "turnout": 85.98,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1995_Austrian_legislative_election",
+        "revid": 1304350967
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1843474,
+          "pct": 38.06,
+          "seats": 71,
+          "change": 6,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1370510,
+          "pct": 28.29,
+          "seats": 52,
+          "change": 0
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 1060377,
+          "pct": 21.89,
+          "seats": 41,
+          "change": -1
+        },
+        {
+          "name": "Liberal Forum",
+          "party": "lif",
+          "votes": 267026,
+          "pct": 5.51,
+          "seats": 10,
+          "change": -1
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 233208,
+          "pct": 4.81,
+          "seats": 9,
+          "change": -4
+        },
+        {
+          "name": "No – Civic Action Group against the Sale of Austria",
+          "party": "nein",
+          "votes": 53176,
+          "pct": 1.1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 16402,
+          "pct": 0.34,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "spo",
+        "4": "spo",
+        "5": "spo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1995_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-1999",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1999-10-03",
+      "totalSeats": 183,
+      "turnout": 80.42,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1999_Austrian_legislative_election",
+        "revid": 1287438181
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1532448,
+          "pct": 33.15,
+          "seats": 65,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 1244087,
+          "pct": 26.91,
+          "seats": 52,
+          "change": 11
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1243672,
+          "pct": 26.91,
+          "seats": 52,
+          "change": 0
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 342260,
+          "pct": 7.4,
+          "seats": 14,
+          "change": 5
+        },
+        {
+          "name": "Liberal Forum",
+          "party": "lif",
+          "votes": 168612,
+          "pct": 3.65,
+          "seats": 0,
+          "change": -10
+        },
+        {
+          "name": "The Independents",
+          "party": "du",
+          "votes": 46943,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 44332,
+          "pct": 0.96,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "fpo",
+        "3": "spo",
+        "4": "spo",
+        "5": "fpo",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1999_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-2002",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2002-11-24",
+      "totalSeats": 183,
+      "turnout": 84.27,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2002_Austrian_legislative_election",
+        "revid": 1361912725
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 2076833,
+          "pct": 42.3,
+          "seats": 79,
+          "change": 27,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1792499,
+          "pct": 36.51,
+          "seats": 69,
+          "change": 4
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 491328,
+          "pct": 10.01,
+          "seats": 18,
+          "change": -34
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 464980,
+          "pct": 9.47,
+          "seats": 17,
+          "change": 3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 84005,
+          "pct": 1.71,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2002_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-2006",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2006-10-01",
+      "totalSeats": 183,
+      "turnout": 78.49,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2006_Austrian_legislative_election",
+        "revid": 1368722235
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1663986,
+          "pct": 35.34,
+          "seats": 68,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1616493,
+          "pct": 34.33,
+          "seats": 66,
+          "change": -13
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 520130,
+          "pct": 11.05,
+          "seats": 21,
+          "change": 4
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 519598,
+          "pct": 11.04,
+          "seats": 21,
+          "change": 3
+        },
+        {
+          "name": "Alliance for the Future of Austria",
+          "party": "bzo",
+          "votes": 193539,
+          "pct": 4.11,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Hans-Peter Martin's List",
+          "party": "hpm",
+          "votes": 131688,
+          "pct": 2.8,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Austria",
+          "party": "kpo",
+          "votes": 47578,
+          "pct": 1.01,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 15269,
+          "pct": 0.32,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2006_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-2008",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2008-09-28",
+      "totalSeats": 183,
+      "turnout": 78.81,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2008_Austrian_legislative_election",
+        "revid": 1369130066
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1430206,
+          "pct": 29.26,
+          "seats": 57,
+          "change": -11,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1269656,
+          "pct": 25.98,
+          "seats": 51,
+          "change": -15
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 857029,
+          "pct": 17.54,
+          "seats": 34,
+          "change": 13
+        },
+        {
+          "name": "Alliance for the Future of Austria",
+          "party": "bzo",
+          "votes": 522933,
+          "pct": 10.7,
+          "seats": 21,
+          "change": 14
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 509936,
+          "pct": 10.43,
+          "seats": 20,
+          "change": -1
+        },
+        {
+          "name": "Liberal Forum",
+          "party": "lif",
+          "votes": 102249,
+          "pct": 2.09,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Fritz Dinkhauser List – Citizens' Forum Tyrol",
+          "party": "fritz",
+          "votes": 86194,
+          "pct": 1.76,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 109106,
+          "pct": 2.23,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-national-council-2013",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2013-09-29",
+      "totalSeats": 183,
+      "turnout": 74.91,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2013_Austrian_legislative_election",
+        "revid": 1369094764
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1258605,
+          "pct": 26.82,
+          "seats": 52,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1125876,
+          "pct": 23.99,
+          "seats": 47,
+          "change": -4
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 962313,
+          "pct": 20.51,
+          "seats": 40,
+          "change": 6
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 582657,
+          "pct": 12.42,
+          "seats": 24,
+          "change": 4
+        },
+        {
+          "name": "Team Stronach",
+          "party": "ts",
+          "votes": 268679,
+          "pct": 5.73,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "NEOS",
+          "party": "neos",
+          "votes": 232946,
+          "pct": 4.96,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Future of Austria",
+          "party": "bzo",
+          "votes": 165746,
+          "pct": 3.53,
+          "seats": 0,
+          "change": -21
+        },
+        {
+          "name": "Communist Party of Austria",
+          "party": "kpo",
+          "votes": 48175,
+          "pct": 1.03,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 47910,
+          "pct": 1.02,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "spo",
+        "3": "ovp",
+        "4": "spo",
+        "5": "ovp",
+        "6": "fpo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2013_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-2017",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2017-10-15",
+      "totalSeats": 183,
+      "turnout": 80,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2017_Austrian_legislative_election",
+        "revid": 1374859662
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1595526,
+          "pct": 31.47,
+          "seats": 62,
+          "change": 15,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1361746,
+          "pct": 26.86,
+          "seats": 52,
+          "change": 0
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 1316442,
+          "pct": 25.97,
+          "seats": 51,
+          "change": 11
+        },
+        {
+          "name": "NEOS",
+          "party": "neos",
+          "votes": 268518,
+          "pct": 5.3,
+          "seats": 10,
+          "change": 1
+        },
+        {
+          "name": "Peter Pilz List",
+          "party": "pilz",
+          "votes": 223543,
+          "pct": 4.41,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 192638,
+          "pct": 3.8,
+          "seats": 0,
+          "change": -24
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 111516,
+          "pct": 2.2,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "fpo",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_Austrian_legislative_election#Results_by_state"
+    },
+    {
+      "id": "at-national-council-2019",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2019-09-29",
+      "totalSeats": 183,
+      "turnout": 75.59,
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2019_Austrian_legislative_election",
+        "revid": 1374632009
+      },
+      "candidates": [
+        {
+          "name": "Austrian People's Party",
+          "party": "ovp",
+          "votes": 1789417,
+          "pct": 37.46,
+          "seats": 71,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party of Austria",
+          "party": "spo",
+          "votes": 1011868,
+          "pct": 21.18,
+          "seats": 40,
+          "change": -12
+        },
+        {
+          "name": "Freedom Party of Austria",
+          "party": "fpo",
+          "votes": 772666,
+          "pct": 16.17,
+          "seats": 31,
+          "change": -20
+        },
+        {
+          "name": "The Greens",
+          "party": "gru",
+          "votes": 664055,
+          "pct": 13.9,
+          "seats": 26,
+          "change": 26
+        },
+        {
+          "name": "NEOS",
+          "party": "neos",
+          "votes": 387124,
+          "pct": 8.1,
+          "seats": 15,
+          "change": 5
+        },
+        {
+          "name": "JETZT – Pilz List",
+          "party": "pilz",
+          "votes": 89169,
+          "pct": 1.87,
+          "seats": 0,
+          "change": -8
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 62947,
+          "pct": 1.32,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "ovp",
+        "2": "ovp",
+        "3": "ovp",
+        "4": "ovp",
+        "5": "ovp",
+        "6": "ovp",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2019_Austrian_legislative_election#Vote_share"
+    },
+    {
+      "id": "at-president-1951",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1951-05-06",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1951_Austrian_presidential_election",
+        "revid": 1378246541
+      },
+      "turnout": 96.89,
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1951-05-06",
+          "candidates": [
+            {
+              "name": "Heinrich Gleißner",
+              "party": "ovp",
+              "votes": 1725451,
+              "pct": 40.14
+            },
+            {
+              "name": "Theodor Körner",
+              "party": "spo",
+              "votes": 1682881,
+              "pct": 39.15
+            },
+            {
+              "name": "Burghard Breitner",
+              "party": "vdu",
+              "votes": 662501,
+              "pct": 15.41
+            },
+            {
+              "name": "Gottlieb Fiala",
+              "party": "kpo",
+              "votes": 219969,
+              "pct": 5.12
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 7545,
+              "pct": 0.18
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1951-05-27",
+          "candidates": [
+            {
+              "name": "Theodor Körner",
+              "party": "spo",
+              "votes": 2178631,
+              "pct": 52.06,
+              "winner": true
+            },
+            {
+              "name": "Heinrich Gleißner",
+              "party": "ovp",
+              "votes": 2006322,
+              "pct": 47.94
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Theodor Körner",
+          "party": "spo",
+          "votes": 2178631,
+          "pct": 52.06,
+          "winner": true
+        },
+        {
+          "name": "Heinrich Gleißner",
+          "party": "ovp",
+          "votes": 2006322,
+          "pct": 47.94
+        }
+      ],
+      "notes": "Turnout is for the run-off; first-round turnout was 96.83%."
+    },
+    {
+      "id": "at-president-1957",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1957-05-05",
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1957_Austrian_presidential_election",
+        "revid": 1348374698
+      },
+      "turnout": 97.16,
+      "candidates": [
+        {
+          "name": "Adolf Schärf",
+          "party": "spo",
+          "votes": 2258255,
+          "pct": 51.12,
+          "winner": true
+        },
+        {
+          "name": "Wolfgang Denk",
+          "party": "ovpfpo",
+          "votes": 2159604,
+          "pct": 48.88
+        }
+      ],
+      "notes": "Wolfgang Denk was the joint candidate of the ÖVP and FPÖ."
+    },
+    {
+      "id": "at-president-1963",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1963-04-28",
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1963_Austrian_presidential_election",
+        "revid": 1348374712
+      },
+      "turnout": 95.59,
+      "candidates": [
+        {
+          "name": "Adolf Schärf",
+          "party": "spo",
+          "votes": 2473349,
+          "pct": 55.41,
+          "winner": true
+        },
+        {
+          "name": "Julius Raab",
+          "party": "ovp",
+          "votes": 1814125,
+          "pct": 40.64
+        },
+        {
+          "name": "Josef Kimmel",
+          "party": "kimmel",
+          "votes": 176646,
+          "pct": 3.96
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-president-1965",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1965-05-23",
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1965_Austrian_presidential_election",
+        "revid": 1272668759
+      },
+      "turnout": 95.99,
+      "candidates": [
+        {
+          "name": "Franz Jonas",
+          "party": "spo",
+          "votes": 2324436,
+          "pct": 50.69,
+          "winner": true
+        },
+        {
+          "name": "Alfons Gorbach",
+          "party": "ovp",
+          "votes": 2260888,
+          "pct": 49.31
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-president-1971",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1971-04-25",
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1971_Austrian_presidential_election",
+        "revid": 1348630452
+      },
+      "turnout": 95.29,
+      "candidates": [
+        {
+          "name": "Franz Jonas",
+          "party": "spo",
+          "votes": 2487239,
+          "pct": 52.78,
+          "winner": true
+        },
+        {
+          "name": "Kurt Waldheim",
+          "party": "ovp",
+          "votes": 2224809,
+          "pct": 47.22
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-president-1974",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1974-06-23",
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1974_Austrian_presidential_election",
+        "revid": 1370172961
+      },
+      "turnout": 94.06,
+      "candidates": [
+        {
+          "name": "Rudolf Kirchschläger",
+          "party": "spo",
+          "votes": 2392367,
+          "pct": 51.66,
+          "winner": true
+        },
+        {
+          "name": "Alois Lugger",
+          "party": "ovp",
+          "votes": 2238470,
+          "pct": 48.34
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "at-president-1980",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1980-05-18",
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+        "url": "https://en.wikipedia.org/wiki/1980_Austrian_presidential_election",
+        "revid": 1370172992
+      },
+      "turnout": 91.63,
+      "candidates": [
+        {
+          "name": "Rudolf Kirchschläger",
+          "party": "spoovp",
+          "votes": 3538748,
+          "pct": 79.87,
+          "winner": true
+        },
+        {
+          "name": "Willfried Gredler",
+          "party": "fpo",
+          "votes": 751400,
+          "pct": 16.96
+        },
+        {
+          "name": "Norbert Burger",
+          "party": "ndp",
+          "votes": 140741,
+          "pct": 3.18
+        }
+      ],
+      "notes": "Rudolf Kirchschläger was backed by both the SPÖ and the ÖVP."
+    },
+    {
+      "id": "at-president-1986",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1986-05-04",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1986_Austrian_presidential_election",
+        "revid": 1370163546
+      },
+      "turnout": 87.29,
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1986-05-04",
+          "candidates": [
+            {
+              "name": "Kurt Waldheim",
+              "party": "waldheim",
+              "votes": 2343463,
+              "pct": 49.65
+            },
+            {
+              "name": "Kurt Steyrer",
+              "party": "spo",
+              "votes": 2061104,
+              "pct": 43.67
+            },
+            {
+              "name": "Freda Meissner-Blau",
+              "party": "gru",
+              "votes": 259689,
+              "pct": 5.5
+            },
+            {
+              "name": "Otto Scrinzi",
+              "party": "fpo",
+              "votes": 55724,
+              "pct": 1.18
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1986-06-08",
+          "candidates": [
+            {
+              "name": "Kurt Waldheim",
+              "party": "waldheim",
+              "votes": 2464787,
+              "pct": 53.91,
+              "winner": true
+            },
+            {
+              "name": "Kurt Steyrer",
+              "party": "spo",
+              "votes": 2107023,
+              "pct": 46.09
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Kurt Waldheim",
+          "party": "waldheim",
+          "votes": 2464787,
+          "pct": 53.91,
+          "winner": true
+        },
+        {
+          "name": "Kurt Steyrer",
+          "party": "spo",
+          "votes": 2107023,
+          "pct": 46.09
+        }
+      ],
+      "notes": "Turnout is for the run-off; first-round turnout was 89.48%."
+    },
+    {
+      "id": "at-president-1992",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1992-04-26",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1992_Austrian_presidential_election",
+        "revid": 1370162210
+      },
+      "turnout": 80.91,
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1992-04-26",
+          "candidates": [
+            {
+              "name": "Rudolf Streicher",
+              "party": "spo",
+              "votes": 1888599,
+              "pct": 40.66
+            },
+            {
+              "name": "Thomas Klestil",
+              "party": "klestil",
+              "votes": 1728234,
+              "pct": 37.2
+            },
+            {
+              "name": "Heide Schmidt",
+              "party": "fpo",
+              "votes": 761390,
+              "pct": 16.39
+            },
+            {
+              "name": "Robert Jungk",
+              "party": "gru",
+              "votes": 266954,
+              "pct": 5.75
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1992-05-24",
+          "candidates": [
+            {
+              "name": "Thomas Klestil",
+              "party": "klestil",
+              "votes": 2528006,
+              "pct": 56.89,
+              "winner": true
+            },
+            {
+              "name": "Rudolf Streicher",
+              "party": "spo",
+              "votes": 1915380,
+              "pct": 43.11
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Thomas Klestil",
+          "party": "klestil",
+          "votes": 2528006,
+          "pct": 56.89,
+          "winner": true
+        },
+        {
+          "name": "Rudolf Streicher",
+          "party": "spo",
+          "votes": 1915380,
+          "pct": 43.11
+        }
+      ],
+      "notes": "Turnout is for the run-off; first-round turnout was 84.36%.",
+      "regionWinners": {
+        "1": "klestil",
+        "2": "klestil",
+        "3": "klestil",
+        "4": "klestil",
+        "5": "klestil",
+        "6": "klestil",
+        "7": "klestil",
+        "8": "klestil",
+        "9": "klestil"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1992_Austrian_presidential_election#Second_round"
+    },
+    {
+      "id": "at-president-1998",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1998-04-19",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/1998_Austrian_presidential_election",
+        "revid": 1370162608
+      },
+      "turnout": 74.4,
+      "candidates": [
+        {
+          "name": "Thomas Klestil",
+          "party": "klestil",
+          "votes": 2644034,
+          "pct": 63.42,
+          "winner": true
+        },
+        {
+          "name": "Gertraud Knoll",
+          "party": "knoll",
+          "votes": 566551,
+          "pct": 13.59
+        },
+        {
+          "name": "Heide Schmidt",
+          "party": "lif",
+          "votes": 464625,
+          "pct": 11.14
+        },
+        {
+          "name": "Richard Lugner",
+          "party": "du",
+          "votes": 413066,
+          "pct": 9.91
+        },
+        {
+          "name": "Karl Walter Nowak",
+          "party": "nowak",
+          "votes": 81043,
+          "pct": 1.94
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "klestil",
+        "2": "klestil",
+        "3": "klestil",
+        "4": "klestil",
+        "5": "klestil",
+        "6": "klestil",
+        "7": "klestil",
+        "8": "klestil",
+        "9": "klestil"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1998_Austrian_presidential_election#By_state"
+    },
+    {
+      "id": "at-president-2004",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2004-04-25",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2004_Austrian_presidential_election",
+        "revid": 1370163011
+      },
+      "turnout": 71.6,
+      "candidates": [
+        {
+          "name": "Heinz Fischer",
+          "party": "spo",
+          "votes": 2166690,
+          "pct": 52.39,
+          "winner": true
+        },
+        {
+          "name": "Benita Ferrero-Waldner",
+          "party": "ovp",
+          "votes": 1969326,
+          "pct": 47.61
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "spo",
+        "2": "ovp",
+        "3": "spo",
+        "4": "spo",
+        "5": "ovp",
+        "6": "spo",
+        "7": "ovp",
+        "8": "ovp",
+        "9": "spo"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2004_Austrian_presidential_election#By_state"
+    },
+    {
+      "id": "at-president-2010",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2010-04-25",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2010_Austrian_presidential_election",
+        "revid": 1370175881
+      },
+      "turnout": 53.57,
+      "candidates": [
+        {
+          "name": "Heinz Fischer",
+          "party": "fischer",
+          "votes": 2508373,
+          "pct": 79.33,
+          "winner": true
+        },
+        {
+          "name": "Barbara Rosenkranz",
+          "party": "fpo",
+          "votes": 481923,
+          "pct": 15.24
+        },
+        {
+          "name": "Rudolf Gehring",
+          "party": "cpo",
+          "votes": 171668,
+          "pct": 5.43
+        }
+      ],
+      "notes": "",
+      "regionWinners": {
+        "1": "fischer",
+        "2": "fischer",
+        "3": "fischer",
+        "4": "fischer",
+        "5": "fischer",
+        "6": "fischer",
+        "7": "fischer",
+        "8": "fischer",
+        "9": "fischer"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_Austrian_presidential_election#By_state"
+    },
+    {
+      "id": "at-president-2016",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2016-04-24",
+      "source": {
+        "name": "Wikipedia, citing the Federal Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/2016_Austrian_presidential_election",
+        "revid": 1378531548
+      },
+      "turnout": 74.21,
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2016-04-24",
+          "candidates": [
+            {
+              "name": "Norbert Hofer",
+              "party": "fpo",
+              "votes": 1499971,
+              "pct": 35.05
+            },
+            {
+              "name": "Alexander Van der Bellen",
+              "party": "ind",
+              "votes": 913218,
+              "pct": 21.34
+            },
+            {
+              "name": "Irmgard Griss",
+              "party": "griss",
+              "votes": 810641,
+              "pct": 18.94
+            },
+            {
+              "name": "Rudolf Hundstorfer",
+              "party": "spo",
+              "votes": 482790,
+              "pct": 11.28
+            },
+            {
+              "name": "Andreas Khol",
+              "party": "ovp",
+              "votes": 475767,
+              "pct": 11.12
+            },
+            {
+              "name": "Richard Lugner",
+              "party": "lugner",
+              "votes": 96783,
+              "pct": 2.26
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2016-12-04",
+          "candidates": [
+            {
+              "name": "Alexander Van der Bellen",
+              "party": "ind",
+              "votes": 2472892,
+              "pct": 53.79,
+              "winner": true
+            },
+            {
+              "name": "Norbert Hofer",
+              "party": "fpo",
+              "votes": 2124661,
+              "pct": 46.21
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Alexander Van der Bellen",
+          "party": "ind",
+          "votes": 2472892,
+          "pct": 53.79,
+          "winner": true
+        },
+        {
+          "name": "Norbert Hofer",
+          "party": "fpo",
+          "votes": 2124661,
+          "pct": 46.21
+        }
+      ],
+      "notes": "The run-off of 22 May 2016 was annulled by the Constitutional Court and re-run on 4 December 2016; the Run-off round here is the December re-run. Turnout is for the run-off; first-round turnout was 68.5%.",
+      "regionWinners": {
+        "1": "fpo",
+        "2": "fpo",
+        "3": "ind",
+        "4": "ind",
+        "5": "ind",
+        "6": "fpo",
+        "7": "ind",
+        "8": "ind",
+        "9": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2016_Austrian_presidential_election#Second_round_re-run_results_by_state,_district_and_municipality"
+    }
+  ]
+}

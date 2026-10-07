@@ -1,0 +1,1699 @@
+{
+  "code": "TR",
+  "parties": {
+    "dp": {
+      "name": "Democrat Party (1946–60)",
+      "color": "#CD42B2",
+      "article": "Democrat Party (Turkey, 1946–1960)"
+    },
+    "mp1948": {
+      "name": "Nation Party (1948)",
+      "color": "#808000",
+      "article": "Nation Party (Turkey, 1948)"
+    },
+    "cmp": {
+      "name": "Republican Nation Party",
+      "color": "#6B8E23",
+      "article": "Republican Nation Party"
+    },
+    "hurriyet": {
+      "name": "Liberty Party",
+      "color": "#C1F711",
+      "article": "Liberty Party (Turkey)"
+    },
+    "ap": {
+      "name": "Justice Party",
+      "color": "#D360BC",
+      "article": "Justice Party (Turkey)"
+    },
+    "ckmp": {
+      "name": "Republican Villagers Nation Party",
+      "color": "#556B2F",
+      "article": "Republican Villagers Nation Party"
+    },
+    "ytp1961": {
+      "name": "New Turkey Party (1961)",
+      "color": "#00B0F0",
+      "article": "New Turkey Party (1961)"
+    },
+    "mp1962": {
+      "name": "Nation Party (1962)",
+      "color": "#191970",
+      "article": "Nation Party (Turkey, 1962)"
+    },
+    "tip1961": {
+      "name": "Workers' Party of Turkey (1961)",
+      "color": "#DAA520",
+      "article": "Workers' Party of Turkey (1961)"
+    },
+    "cgp": {
+      "name": "Republican Reliance Party",
+      "color": "#FF4500",
+      "article": "Republican Reliance Party"
+    },
+    "bp": {
+      "name": "Unity Party",
+      "color": "#2F4F4F",
+      "article": "Unity Party (Turkey)"
+    },
+    "dp1970": {
+      "name": "Democratic Party (1970)",
+      "color": "#FFA500",
+      "article": "Democratic Party (Turkey, 1970)"
+    },
+    "msp": {
+      "name": "National Salvation Party",
+      "color": "#FF2E84",
+      "article": "National Salvation Party"
+    },
+    "anap": {
+      "name": "Motherland Party",
+      "color": "#F2CA30",
+      "article": "Motherland Party (Turkey)"
+    },
+    "hp": {
+      "name": "Populist Party",
+      "color": "#D40000",
+      "article": "Populist Party (Turkey)"
+    },
+    "mdp": {
+      "name": "Nationalist Democracy Party",
+      "color": "#000000",
+      "article": "Nationalist Democracy Party"
+    },
+    "shp": {
+      "name": "Social Democratic Populist Party",
+      "color": "#DD0000",
+      "article": "Social Democratic Populist Party (Turkey)"
+    },
+    "dyp": {
+      "name": "True Path Party",
+      "color": "#CD42B2",
+      "article": "True Path Party"
+    },
+    "dsp": {
+      "name": "Democratic Left Party",
+      "color": "#02CDFF",
+      "article": "Democratic Left Party (Turkey)"
+    },
+    "rp": {
+      "name": "Welfare Party",
+      "color": "#FF2E84",
+      "article": "Welfare Party"
+    },
+    "mcp": {
+      "name": "Nationalist Task Party",
+      "color": "#4B5320",
+      "article": "Nationalist Task Party"
+    },
+    "fp": {
+      "name": "Virtue Party",
+      "color": "#FF2E84",
+      "article": "Virtue Party"
+    },
+    "bbp": {
+      "name": "Great Unity Party",
+      "color": "#CC5252",
+      "article": "Great Unity Party"
+    },
+    "gp": {
+      "name": "Young Party",
+      "color": "#9A9A9A",
+      "article": "Young Party"
+    },
+    "sp": {
+      "name": "Felicity Party",
+      "color": "#FF2E84",
+      "article": "Felicity Party"
+    },
+    "ytp2002": {
+      "name": "New Turkey Party (2002)",
+      "color": "#1E90FF",
+      "article": "New Turkey Party (2002)"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    }
+  },
+  "elections": [
+    {
+      "id": "tr-assembly-1950",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1950-05-14",
+      "totalSeats": 487,
+      "turnout": 89.31,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/1950_Turkish_general_election",
+        "revid": 1356123351
+      },
+      "candidates": [
+        {
+          "name": "Democrat Party",
+          "party": "dp",
+          "votes": 4391694,
+          "pct": 55.22,
+          "seats": 416,
+          "change": 352,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 3148626,
+          "pct": 39.59,
+          "seats": 69,
+          "change": -326
+        },
+        {
+          "name": "Nation Party",
+          "party": "mp1948",
+          "votes": 368537,
+          "pct": 4.63,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 44537,
+          "pct": 0.56,
+          "seats": 1,
+          "change": -5
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tr-assembly-1954",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1954-05-02",
+      "totalSeats": 541,
+      "turnout": 88.6,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/1954_Turkish_general_election",
+        "revid": 1351958471
+      },
+      "candidates": [
+        {
+          "name": "Democrat Party",
+          "party": "dp",
+          "votes": 5313659,
+          "pct": 58.42,
+          "seats": 503,
+          "change": 87,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 3193471,
+          "pct": 35.11,
+          "seats": 31,
+          "change": -38
+        },
+        {
+          "name": "Republican Nation Party",
+          "party": "cmp",
+          "votes": 480249,
+          "pct": 5.28,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 56393,
+          "pct": 0.62,
+          "seats": 2,
+          "change": -6
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 51845,
+          "pct": 0.57,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The results table gives no turnout; 88.6% is from the infobox, which cites the Turkish Statistical Institute."
+    },
+    {
+      "id": "tr-assembly-1957",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1957-10-27",
+      "totalSeats": 610,
+      "turnout": 76.6,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/1957_Turkish_general_election",
+        "revid": 1351954149
+      },
+      "candidates": [
+        {
+          "name": "Democrat Party",
+          "party": "dp",
+          "votes": 4497811,
+          "pct": 48.62,
+          "seats": 424,
+          "change": -79,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 3825267,
+          "pct": 41.35,
+          "seats": 178,
+          "change": 147
+        },
+        {
+          "name": "Republican Nation Party",
+          "party": "cmp",
+          "votes": 604087,
+          "pct": 6.53,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Liberty Party",
+          "party": "hurriyet",
+          "votes": 321471,
+          "pct": 3.48,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2313,
+          "pct": 0.03,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "The results table gives no turnout; 76.6% is from the infobox, which cites the Turkish Statistical Institute."
+    },
+    {
+      "id": "tr-assembly-1961",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1961-10-15",
+      "note": "National Assembly (lower house)",
+      "totalSeats": 450,
+      "turnout": 81.41,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/1961_Turkish_general_election",
+        "revid": 1351924841
+      },
+      "candidates": [
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 3724752,
+          "pct": 36.73,
+          "seats": 173,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Justice Party",
+          "party": "ap",
+          "votes": 3527435,
+          "pct": 34.78,
+          "seats": 158,
+          "change": null
+        },
+        {
+          "name": "New Turkey Party",
+          "party": "ytp1961",
+          "votes": 1391934,
+          "pct": 13.73,
+          "seats": 65,
+          "change": null
+        },
+        {
+          "name": "Republican Villagers Nation Party",
+          "party": "ckmp",
+          "votes": 1415390,
+          "pct": 13.96,
+          "seats": 54,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 81732,
+          "pct": 0.81,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "notes": "Parliament was bicameral from 1961 to 1980; this is the National Assembly. The table's party votes add up to 10,141,243, while its valid-vote line says 10,138,035; shares are the table's."
+    },
+    {
+      "id": "tr-assembly-1965",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1965-10-10",
+      "note": "National Assembly (lower house)",
+      "totalSeats": 450,
+      "turnout": 71.26,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1965_Turkish_general_election",
+        "revid": 1351922412
+      },
+      "candidates": [
+        {
+          "name": "Justice Party",
+          "party": "ap",
+          "votes": 4921235,
+          "pct": 52.87,
+          "seats": 240,
+          "change": 82,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 2675785,
+          "pct": 28.75,
+          "seats": 134,
+          "change": -39
+        },
+        {
+          "name": "Nation Party",
+          "party": "mp1962",
+          "votes": 582704,
+          "pct": 6.26,
+          "seats": 31,
+          "change": null
+        },
+        {
+          "name": "New Turkey Party",
+          "party": "ytp1961",
+          "votes": 346514,
+          "pct": 3.72,
+          "seats": 19,
+          "change": -46
+        },
+        {
+          "name": "Workers' Party",
+          "party": "tip1961",
+          "votes": 276101,
+          "pct": 2.97,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Republican Villagers Nation Party",
+          "party": "ckmp",
+          "votes": 208696,
+          "pct": 2.24,
+          "seats": 11,
+          "change": -43
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 296528,
+          "pct": 3.19,
+          "seats": 1,
+          "change": 1
+        }
+      ],
+      "notes": "Parliament was bicameral from 1961 to 1980; this is the National Assembly."
+    },
+    {
+      "id": "tr-assembly-1969",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1969-10-12",
+      "note": "National Assembly (lower house)",
+      "totalSeats": 450,
+      "turnout": 64.35,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1969_Turkish_general_election",
+        "revid": 1351800512
+      },
+      "candidates": [
+        {
+          "name": "Justice Party",
+          "party": "ap",
+          "votes": 4229712,
+          "pct": 46.53,
+          "seats": 256,
+          "change": 16,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 2487006,
+          "pct": 27.36,
+          "seats": 143,
+          "change": 9
+        },
+        {
+          "name": "Reliance Party",
+          "party": "cgp",
+          "votes": 597818,
+          "pct": 6.58,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 511023,
+          "pct": 5.62,
+          "seats": 13,
+          "change": 12
+        },
+        {
+          "name": "Unity Party",
+          "party": "bp",
+          "votes": 254695,
+          "pct": 2.8,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Nation Party",
+          "party": "mp1962",
+          "votes": 292961,
+          "pct": 3.22,
+          "seats": 6,
+          "change": -25
+        },
+        {
+          "name": "New Turkey Party",
+          "party": "ytp1961",
+          "votes": 197929,
+          "pct": 2.18,
+          "seats": 6,
+          "change": -13
+        },
+        {
+          "name": "Workers' Party",
+          "party": "tip1961",
+          "votes": 243631,
+          "pct": 2.68,
+          "seats": 2,
+          "change": -12
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 275091,
+          "pct": 3.03,
+          "seats": 1,
+          "change": -10
+        }
+      ],
+      "notes": "Parliament was bicameral from 1961 to 1980; this is the National Assembly. The Reliance Party row links to the Republican Reliance Party article (cgp key)."
+    },
+    {
+      "id": "tr-assembly-1973",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1973-10-14",
+      "note": "National Assembly (lower house)",
+      "totalSeats": 450,
+      "turnout": 66.82,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1973_Turkish_general_election",
+        "revid": 1325487200
+      },
+      "candidates": [
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 3570583,
+          "pct": 33.3,
+          "seats": 185,
+          "change": 42,
+          "winner": true
+        },
+        {
+          "name": "Justice Party",
+          "party": "ap",
+          "votes": 3197897,
+          "pct": 29.82,
+          "seats": 149,
+          "change": -107
+        },
+        {
+          "name": "National Salvation Party",
+          "party": "msp",
+          "votes": 1265771,
+          "pct": 11.8,
+          "seats": 48,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp1970",
+          "votes": 1275502,
+          "pct": 11.89,
+          "seats": 45,
+          "change": null
+        },
+        {
+          "name": "Republican Reliance Party",
+          "party": "cgp",
+          "votes": 564343,
+          "pct": 5.26,
+          "seats": 13,
+          "change": -2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 303218,
+          "pct": 2.83,
+          "seats": 6,
+          "change": -7
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 362208,
+          "pct": 3.38,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Unity Party",
+          "party": "bp",
+          "votes": 121759,
+          "pct": 1.14,
+          "seats": 1,
+          "change": -7
+        },
+        {
+          "name": "Nation Party",
+          "party": "mp1962",
+          "votes": 62377,
+          "pct": 0.58,
+          "seats": 0,
+          "change": -6
+        }
+      ],
+      "notes": "Parliament was bicameral from 1961 to 1980; this is the National Assembly."
+    },
+    {
+      "id": "tr-assembly-1977",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1977-06-05",
+      "note": "National Assembly (lower house)",
+      "totalSeats": 450,
+      "turnout": 72.42,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1977_Turkish_general_election",
+        "revid": 1325487017
+      },
+      "candidates": [
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 6136171,
+          "pct": 41.38,
+          "seats": 213,
+          "change": 28,
+          "winner": true
+        },
+        {
+          "name": "Justice Party",
+          "party": "ap",
+          "votes": 5468202,
+          "pct": 36.88,
+          "seats": 189,
+          "change": 40
+        },
+        {
+          "name": "National Salvation Party",
+          "party": "msp",
+          "votes": 1269918,
+          "pct": 8.56,
+          "seats": 24,
+          "change": -24
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 951544,
+          "pct": 6.42,
+          "seats": 16,
+          "change": 13
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 370035,
+          "pct": 2.5,
+          "seats": 4,
+          "change": -2
+        },
+        {
+          "name": "Republican Reliance Party",
+          "party": "cgp",
+          "votes": 277713,
+          "pct": 1.87,
+          "seats": 3,
+          "change": -10
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp1970",
+          "votes": 274484,
+          "pct": 1.85,
+          "seats": 1,
+          "change": -44
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 79105,
+          "pct": 0.53,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Parliament was bicameral from 1961 to 1980; this is the National Assembly."
+    },
+    {
+      "id": "tr-assembly-1983",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1983-11-06",
+      "totalSeats": 399,
+      "turnout": 92.27,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1983_Turkish_general_election",
+        "revid": 1292724039
+      },
+      "candidates": [
+        {
+          "name": "Motherland Party",
+          "party": "anap",
+          "votes": 7833148,
+          "pct": 45.14,
+          "seats": 211,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Populist Party",
+          "party": "hp",
+          "votes": 5285804,
+          "pct": 30.46,
+          "seats": 117,
+          "change": null
+        },
+        {
+          "name": "Nationalist Democracy Party",
+          "party": "mdp",
+          "votes": 4036970,
+          "pct": 23.27,
+          "seats": 71,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 195588,
+          "pct": 1.13,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The infobox says 400 seats; the article explains that ANAP could not take one seat it won in Bingöl because of a registration error, so the chamber had 399 MPs, which is the table total used here."
+    },
+    {
+      "id": "tr-assembly-1987",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1987-11-29",
+      "totalSeats": 450,
+      "turnout": 93.28,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1987_Turkish_general_election",
+        "revid": 1305401796
+      },
+      "candidates": [
+        {
+          "name": "Motherland Party",
+          "party": "anap",
+          "votes": 8704335,
+          "pct": 36.31,
+          "seats": 292,
+          "change": 81,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Populist Party",
+          "party": "shp",
+          "votes": 5931000,
+          "pct": 24.74,
+          "seats": 99,
+          "change": null
+        },
+        {
+          "name": "True Path Party",
+          "party": "dyp",
+          "votes": 4587062,
+          "pct": 19.14,
+          "seats": 59,
+          "change": null
+        },
+        {
+          "name": "Democratic Left Party",
+          "party": "dsp",
+          "votes": 2044576,
+          "pct": 8.53,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Welfare Party",
+          "party": "rp",
+          "votes": 1717425,
+          "pct": 7.16,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Nationalist Task Party",
+          "party": "mcp",
+          "votes": 701538,
+          "pct": 2.93,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 285693,
+          "pct": 1.19,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "tr-assembly-1991",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1991-10-20",
+      "totalSeats": 450,
+      "turnout": 83.92,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1991_Turkish_general_election",
+        "revid": 1346365598
+      },
+      "candidates": [
+        {
+          "name": "True Path Party",
+          "party": "dyp",
+          "votes": 6600726,
+          "pct": 27.03,
+          "seats": 178,
+          "change": 119,
+          "winner": true
+        },
+        {
+          "name": "Motherland Party",
+          "party": "anap",
+          "votes": 5862623,
+          "pct": 24.01,
+          "seats": 115,
+          "change": -177
+        },
+        {
+          "name": "Social Democratic Populist Party",
+          "party": "shp",
+          "votes": 5066571,
+          "pct": 20.75,
+          "seats": 88,
+          "change": -11
+        },
+        {
+          "name": "Welfare Party",
+          "party": "rp",
+          "votes": 4121355,
+          "pct": 16.88,
+          "seats": 62,
+          "change": 62
+        },
+        {
+          "name": "Democratic Left Party",
+          "party": "dsp",
+          "votes": 2624301,
+          "pct": 10.75,
+          "seats": 7,
+          "change": 7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 141090,
+          "pct": 0.58,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Per the article, the Welfare Party ran in an alliance with the Nationalist Task Party and the Reformist Democracy Party, and the pro-Kurdish HEP ran on the Social Democratic Populist Party list; the table shows only the lead parties."
+    },
+    {
+      "id": "tr-assembly-1995",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1995-12-24",
+      "totalSeats": 550,
+      "turnout": 85.2,
+      "source": {
+        "name": "Wikipedia, citing Nohlen, Grotz & Hartmann (2001), Elections in Asia",
+        "url": "https://en.wikipedia.org/wiki/1995_Turkish_general_election",
+        "revid": 1266408656
+      },
+      "candidates": [
+        {
+          "name": "Welfare Party",
+          "party": "rp",
+          "votes": 6012450,
+          "pct": 21.38,
+          "seats": 158,
+          "change": 96,
+          "winner": true
+        },
+        {
+          "name": "True Path Party",
+          "party": "dyp",
+          "votes": 5396009,
+          "pct": 19.18,
+          "seats": 135,
+          "change": -43
+        },
+        {
+          "name": "Motherland Party",
+          "party": "anap",
+          "votes": 5527288,
+          "pct": 19.65,
+          "seats": 132,
+          "change": 17
+        },
+        {
+          "name": "Democratic Left Party",
+          "party": "dsp",
+          "votes": 4118025,
+          "pct": 14.64,
+          "seats": 76,
+          "change": 69
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 3011076,
+          "pct": 10.71,
+          "seats": 49,
+          "change": null
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 2301343,
+          "pct": 8.18,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "People's Democracy Party",
+          "party": "dem",
+          "votes": 1171623,
+          "pct": 4.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 589179,
+          "pct": 2.09,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The People's Democracy Party (HADEP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    },
+    {
+      "id": "tr-assembly-1999",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "1999-04-18",
+      "totalSeats": 550,
+      "turnout": 87.09,
+      "source": {
+        "name": "Wikipedia, citing the BBC Turkish Service",
+        "url": "https://en.wikipedia.org/wiki/1999_Turkish_general_election",
+        "revid": 1344052760
+      },
+      "candidates": [
+        {
+          "name": "Democratic Left Party",
+          "party": "dsp",
+          "votes": 6919670,
+          "pct": 22.19,
+          "seats": 136,
+          "change": 60,
+          "winner": true
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 5606583,
+          "pct": 17.98,
+          "seats": 129,
+          "change": 129
+        },
+        {
+          "name": "Virtue Party",
+          "party": "fp",
+          "votes": 4805381,
+          "pct": 15.41,
+          "seats": 111,
+          "change": -47
+        },
+        {
+          "name": "Motherland Party",
+          "party": "anap",
+          "votes": 4122929,
+          "pct": 13.22,
+          "seats": 86,
+          "change": -46
+        },
+        {
+          "name": "True Path Party",
+          "party": "dyp",
+          "votes": 3745417,
+          "pct": 12.01,
+          "seats": 85,
+          "change": -50
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 270265,
+          "pct": 0.87,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 2716094,
+          "pct": 8.71,
+          "seats": 0,
+          "change": -49
+        },
+        {
+          "name": "People's Democracy Party",
+          "party": "dem",
+          "votes": 1482196,
+          "pct": 4.75,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Great Unity Party",
+          "party": "bbp",
+          "votes": 456353,
+          "pct": 1.46,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1059608,
+          "pct": 3.4,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The People's Democracy Party (HADEP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    },
+    {
+      "id": "tr-assembly-2002",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "2002-11-03",
+      "totalSeats": 550,
+      "turnout": 79.14,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/2002_Turkish_general_election",
+        "revid": 1324874433
+      },
+      "candidates": [
+        {
+          "name": "Justice and Development Party",
+          "party": "akp",
+          "votes": 10808229,
+          "pct": 34.28,
+          "seats": 363,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 6113352,
+          "pct": 19.39,
+          "seats": 178,
+          "change": 178
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 314251,
+          "pct": 1,
+          "seats": 9,
+          "change": 6
+        },
+        {
+          "name": "True Path Party",
+          "party": "dyp",
+          "votes": 3008942,
+          "pct": 9.54,
+          "seats": 0,
+          "change": -85
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 2635787,
+          "pct": 8.36,
+          "seats": 0,
+          "change": -129
+        },
+        {
+          "name": "Young Party",
+          "party": "gp",
+          "votes": 2285598,
+          "pct": 7.25,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic People's Party",
+          "party": "dem",
+          "votes": 1960660,
+          "pct": 6.22,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Motherland Party",
+          "party": "anap",
+          "votes": 1618465,
+          "pct": 5.13,
+          "seats": 0,
+          "change": -86
+        },
+        {
+          "name": "Felicity Party",
+          "party": "sp",
+          "votes": 785489,
+          "pct": 2.49,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Left Party",
+          "party": "dsp",
+          "votes": 384009,
+          "pct": 1.22,
+          "seats": 0,
+          "change": -136
+        },
+        {
+          "name": "New Turkey Party",
+          "party": "ytp2002",
+          "votes": 363869,
+          "pct": 1.15,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Great Unity Party",
+          "party": "bbp",
+          "votes": 322093,
+          "pct": 1.02,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 928039,
+          "pct": 2.94,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Democratic People's Party (DEHAP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    },
+    {
+      "id": "tr-assembly-2007",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "2007-07-22",
+      "totalSeats": 550,
+      "turnout": 84.25,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/2007_Turkish_general_election",
+        "revid": 1376368752
+      },
+      "candidates": [
+        {
+          "name": "Justice and Development Party",
+          "party": "akp",
+          "votes": 16327291,
+          "pct": 46.58,
+          "seats": 341,
+          "change": -22,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 7317808,
+          "pct": 20.88,
+          "seats": 112,
+          "change": -66
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 5001869,
+          "pct": 14.27,
+          "seats": 71,
+          "change": 71
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1835486,
+          "pct": 5.24,
+          "seats": 26,
+          "change": 17
+        },
+        {
+          "name": "Democrat Party",
+          "party": "dyp",
+          "votes": 1898873,
+          "pct": 5.42,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Young Party",
+          "party": "gp",
+          "votes": 1064871,
+          "pct": 3.04,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Felicity Party",
+          "party": "sp",
+          "votes": 820289,
+          "pct": 2.34,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 783204,
+          "pct": 2.23,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Per the article's composition table, the 26 independents include 20 Democratic Society Party (DTP) members, and the CHP's 112 seats include 13 Democratic Left Party members elected on its lists. The Democrat Party is the renamed True Path Party (its article says it was founded as the DYP in 1983), so it uses the dyp key."
+    },
+    {
+      "id": "tr-assembly-2011",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "2011-06-12",
+      "totalSeats": 550,
+      "turnout": 83.16,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/2011_Turkish_general_election",
+        "revid": 1370709453
+      },
+      "candidates": [
+        {
+          "name": "Justice and Development Party",
+          "party": "akp",
+          "votes": 21399082,
+          "pct": 49.83,
+          "seats": 327,
+          "change": -14,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 11155972,
+          "pct": 25.98,
+          "seats": 135,
+          "change": 23
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 5585513,
+          "pct": 13.01,
+          "seats": 53,
+          "change": -18
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 2819917,
+          "pct": 6.57,
+          "seats": 35,
+          "change": 8
+        },
+        {
+          "name": "Felicity Party",
+          "party": "sp",
+          "votes": 543454,
+          "pct": 1.27,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1437825,
+          "pct": 3.35,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Per the article, all 35 independents were backed by the pro-Kurdish BDP's Labour, Democracy and Freedom Bloc."
+    },
+    {
+      "id": "tr-assembly-2015-06",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "2015-06-07",
+      "label": "June 2015",
+      "totalSeats": 550,
+      "turnout": 83.92,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/June_2015_Turkish_general_election",
+        "revid": 1376937034
+      },
+      "candidates": [
+        {
+          "name": "Justice and Development Party",
+          "party": "akp",
+          "votes": 18867411,
+          "pct": 40.87,
+          "seats": 258,
+          "change": -69,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 11518139,
+          "pct": 24.95,
+          "seats": 132,
+          "change": -3
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 7520006,
+          "pct": 16.29,
+          "seats": 80,
+          "change": 27
+        },
+        {
+          "name": "Peoples' Democratic Party",
+          "party": "dem",
+          "votes": 6058489,
+          "pct": 13.12,
+          "seats": 80,
+          "change": 80
+        },
+        {
+          "name": "Felicity Party",
+          "party": "sp",
+          "votes": 949178,
+          "pct": 2.06,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 488226,
+          "pct": 1.06,
+          "seats": 0,
+          "change": -35
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 761794,
+          "pct": 1.65,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Peoples' Democratic Party (HDP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    },
+    {
+      "id": "tr-assembly-2015-11",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "2015-11-01",
+      "label": "November 2015",
+      "totalSeats": 550,
+      "turnout": 85.23,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/November_2015_Turkish_general_election",
+        "revid": 1376865213
+      },
+      "candidates": [
+        {
+          "name": "Justice and Development Party",
+          "party": "akp",
+          "votes": 23681926,
+          "pct": 49.5,
+          "seats": 317,
+          "change": 59,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 12111812,
+          "pct": 25.32,
+          "seats": 134,
+          "change": 2
+        },
+        {
+          "name": "Peoples' Democratic Party",
+          "party": "dem",
+          "votes": 5148085,
+          "pct": 10.76,
+          "seats": 59,
+          "change": -21
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 5694136,
+          "pct": 11.9,
+          "seats": 40,
+          "change": -40
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1204272,
+          "pct": 2.52,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Peoples' Democratic Party (HDP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    },
+    {
+      "id": "tr-assembly-2018",
+      "office": "Grand National Assembly",
+      "kind": "legislative",
+      "date": "2018-06-24",
+      "totalSeats": 600,
+      "turnout": 86.22,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/2018_Turkish_parliamentary_election",
+        "revid": 1374332184
+      },
+      "candidates": [
+        {
+          "name": "Justice and Development Party",
+          "party": "akp",
+          "votes": 21338693,
+          "pct": 42.56,
+          "seats": 295,
+          "change": -22,
+          "winner": true
+        },
+        {
+          "name": "Republican People's Party",
+          "party": "chp",
+          "votes": 11354190,
+          "pct": 22.65,
+          "seats": 146,
+          "change": 12
+        },
+        {
+          "name": "People's Democratic Party",
+          "party": "dem",
+          "votes": 5867302,
+          "pct": 11.7,
+          "seats": 67,
+          "change": 8
+        },
+        {
+          "name": "Nationalist Movement Party",
+          "party": "mhp",
+          "votes": 5565331,
+          "pct": 11.1,
+          "seats": 49,
+          "change": 9
+        },
+        {
+          "name": "Good Party",
+          "party": "iyi",
+          "votes": 4993479,
+          "pct": 9.96,
+          "seats": 43,
+          "change": null
+        },
+        {
+          "name": "Felicity Party",
+          "party": "sp",
+          "votes": 672139,
+          "pct": 1.34,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 346041,
+          "pct": 0.69,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The table groups parties into the People's Alliance (AKP, MHP) and the Nation Alliance (CHP, İYİ, Felicity); rows here are parties. The Peoples' Democratic Party (HDP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    },
+    {
+      "id": "tr-president-2014",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2014-08-10",
+      "turnout": 74.13,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/2014_Turkish_presidential_election",
+        "revid": 1375631148
+      },
+      "candidates": [
+        {
+          "name": "Recep Tayyip Erdoğan",
+          "party": "akp",
+          "votes": 21000143,
+          "pct": 51.79,
+          "winner": true
+        },
+        {
+          "name": "Ekmeleddin İhsanoğlu",
+          "party": "ind",
+          "votes": 15587720,
+          "pct": 38.44
+        },
+        {
+          "name": "Selahattin Demirtaş",
+          "party": "dem",
+          "votes": 3958048,
+          "pct": 9.76
+        }
+      ],
+      "notes": "Decided in the first round. İhsanoğlu ran as an independent (ind key). The Peoples' Democratic Party (HDP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM). Region winners are from the article's results by province (shares only, all 81 provinces).",
+      "regionWinners": {
+        "10": "ind",
+        "11": "akp",
+        "12": "akp",
+        "13": "akp",
+        "14": "akp",
+        "15": "akp",
+        "16": "akp",
+        "17": "ind",
+        "18": "akp",
+        "19": "akp",
+        "20": "ind",
+        "21": "dem",
+        "22": "ind",
+        "23": "akp",
+        "24": "akp",
+        "25": "akp",
+        "26": "ind",
+        "27": "akp",
+        "28": "akp",
+        "29": "akp",
+        "30": "dem",
+        "31": "ind",
+        "32": "akp",
+        "33": "ind",
+        "34": "akp",
+        "35": "ind",
+        "36": "akp",
+        "37": "akp",
+        "38": "akp",
+        "39": "ind",
+        "40": "akp",
+        "41": "akp",
+        "42": "akp",
+        "43": "akp",
+        "44": "akp",
+        "45": "ind",
+        "46": "akp",
+        "47": "dem",
+        "48": "ind",
+        "49": "dem",
+        "50": "akp",
+        "51": "akp",
+        "52": "akp",
+        "53": "akp",
+        "54": "akp",
+        "55": "akp",
+        "56": "dem",
+        "57": "akp",
+        "58": "akp",
+        "59": "ind",
+        "60": "akp",
+        "61": "akp",
+        "62": "dem",
+        "63": "akp",
+        "64": "akp",
+        "65": "dem",
+        "66": "akp",
+        "67": "akp",
+        "68": "akp",
+        "69": "akp",
+        "70": "akp",
+        "71": "akp",
+        "72": "dem",
+        "73": "dem",
+        "74": "akp",
+        "75": "akp",
+        "76": "dem",
+        "77": "akp",
+        "78": "akp",
+        "79": "akp",
+        "80": "ind",
+        "81": "akp",
+        "01": "ind",
+        "02": "akp",
+        "03": "akp",
+        "04": "dem",
+        "05": "akp",
+        "06": "akp",
+        "07": "ind",
+        "08": "akp",
+        "09": "ind"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2014_Turkish_presidential_election"
+    },
+    {
+      "id": "tr-president-2018",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2018-06-24",
+      "turnout": 86.24,
+      "source": {
+        "name": "Wikipedia, citing the Supreme Election Council (YSK)",
+        "url": "https://en.wikipedia.org/wiki/2018_Turkish_presidential_election",
+        "revid": 1375631175
+      },
+      "candidates": [
+        {
+          "name": "Recep Tayyip Erdoğan",
+          "party": "akp",
+          "votes": 26330823,
+          "pct": 52.59,
+          "winner": true
+        },
+        {
+          "name": "Muharrem İnce",
+          "party": "chp",
+          "votes": 15340321,
+          "pct": 30.64
+        },
+        {
+          "name": "Selahattin Demirtaş",
+          "party": "dem",
+          "votes": 4205794,
+          "pct": 8.4
+        },
+        {
+          "name": "Meral Akşener",
+          "party": "iyi",
+          "votes": 3649030,
+          "pct": 7.29
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 542659,
+          "pct": 1.08
+        }
+      ],
+      "notes": "Decided in the first round. The Peoples' Democratic Party (HDP) is filed under the dem key: Wikipedia lists it in the predecessor chain of today's DEM Party (HADEP → DEHAP → DTP → BDP → HDP → DEM)."
+    }
+  ]
+}

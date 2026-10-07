@@ -1,0 +1,1923 @@
+{
+  "code": "DE",
+  "parties": {
+    "fdp": {
+      "name": "Free Democratic Party",
+      "color": "#FFED00",
+      "article": "Free Democratic Party (Germany)"
+    },
+    "kpd": {
+      "name": "Communist Party of Germany",
+      "color": "#8B0000",
+      "article": "Communist Party of Germany"
+    },
+    "bp": {
+      "name": "Bavaria Party",
+      "color": "#386ABC",
+      "article": "Bavaria Party"
+    },
+    "dp": {
+      "name": "German Party",
+      "color": "#66B67F",
+      "article": "German Party (1947)"
+    },
+    "zentrum": {
+      "name": "Centre Party",
+      "color": "#2E8B8B",
+      "article": "Centre Party (Germany, 1945)"
+    },
+    "wav": {
+      "name": "Economic Reconstruction Union",
+      "color": "#D5AC2F",
+      "article": "Economic Reconstruction Union"
+    },
+    "rechtsp": {
+      "name": "German Right Party",
+      "color": "#85553D",
+      "article": "Deutsche Rechtspartei"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC",
+      "article": "Independent politician"
+    },
+    "bhe": {
+      "name": "All-German Bloc/League of Expellees",
+      "color": "#C3C318",
+      "article": "All-German Bloc/League of Expellees and Deprived of Rights"
+    },
+    "gvp": {
+      "name": "All-German People's Party",
+      "color": "#FF7F00",
+      "article": "All-German People's Party"
+    },
+    "drp": {
+      "name": "German Reich Party",
+      "color": "#8B4726",
+      "article": "Deutsche Reichspartei"
+    },
+    "fvp": {
+      "name": "Free People's Party",
+      "color": "#C9A800",
+      "article": "Free People's Party (Germany)"
+    },
+    "gdp": {
+      "name": "All-German Party",
+      "color": "#B5A642"
+    },
+    "dfu": {
+      "name": "German Peace Union",
+      "color": "#8B1C62",
+      "article": "German Peace Union"
+    },
+    "npd": {
+      "name": "National Democratic Party",
+      "color": "#8B4726",
+      "article": "National Democratic Party of Germany"
+    },
+    "rep": {
+      "name": "The Republicans",
+      "color": "#0075BE",
+      "article": "The Republicans (Germany)"
+    },
+    "b90": {
+      "name": "Alliance 90",
+      "color": "#9ACD32",
+      "article": "Alliance 90"
+    },
+    "dsu": {
+      "name": "German Social Union",
+      "color": "#6495ED",
+      "article": "German Social Union (East Germany)"
+    },
+    "pds": {
+      "name": "Party of Democratic Socialism",
+      "color": "#A3195B",
+      "article": "Party of Democratic Socialism (Germany)"
+    },
+    "dvu": {
+      "name": "German People's Union",
+      "color": "#AA4422",
+      "article": "German People's Union"
+    },
+    "piraten": {
+      "name": "Pirate Party",
+      "color": "#FF820A",
+      "article": "Pirate Party Germany"
+    },
+    "fw": {
+      "name": "Free Voters",
+      "color": "#F7A800",
+      "article": "Free Voters"
+    },
+    "tierschutz": {
+      "name": "Human Environment Animal Protection Party",
+      "color": "#00545F",
+      "article": "Human Environment Animal Protection Party"
+    },
+    "diebasis": {
+      "name": "Grassroots Democratic Party",
+      "color": "#4AA79D",
+      "article": "Grassroots Democratic Party of Germany"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "de-bundestag-1949",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1949-08-14",
+      "totalSeats": 402,
+      "turnout": 78.49,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1949_West_German_federal_election",
+        "revid": 1374903753
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 7359084,
+          "pct": 31.01,
+          "seats": 139,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 6934975,
+          "pct": 29.22,
+          "seats": 131,
+          "change": null
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 2829920,
+          "pct": 11.92,
+          "seats": 52,
+          "change": null
+        },
+        {
+          "name": "Bavaria Party",
+          "party": "bp",
+          "votes": 986478,
+          "pct": 4.16,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "German Party",
+          "party": "dp",
+          "votes": 939934,
+          "pct": 3.96,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Germany",
+          "party": "kpd",
+          "votes": 1361706,
+          "pct": 5.74,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Economic Reconstruction Union",
+          "party": "wav",
+          "votes": 681888,
+          "pct": 2.87,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Centre Party",
+          "party": "zentrum",
+          "votes": 727505,
+          "pct": 3.07,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Deutsche Rechtspartei",
+          "party": "rechtsp",
+          "votes": 429031,
+          "pct": 1.81,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1141647,
+          "pct": 4.81,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "South Schleswig Voters' Association",
+          "party": "ssw",
+          "votes": 75388,
+          "pct": 0.32,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 264842,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB"
+      ],
+      "notes": "CDU/CSU combines the CDU (5,978,636 votes, 25.19%, 115 seats) and the CSU (1,380,448 votes, 5.82%, 24 seats). Single vote: each voter had one vote, counted for both constituency and list seats. Seats exclude the 8 non-voting West Berlin delegates (5 SPD, 2 CDU, 1 FDP), as in the table's footnote. The Saar Protectorate did not take part. No seat changes (first Bundestag). Turnout from the table's electorate and invalid votes. Only West Germany voted: the eleven western states of the time, three of which merged into Baden-Württemberg in 1952. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1953",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1953-09-06",
+      "totalSeats": 509,
+      "turnout": 85.99,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1953_West_German_federal_election",
+        "revid": 1326141141
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 12443981,
+          "pct": 45.17,
+          "seats": 249,
+          "change": 108,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 7944943,
+          "pct": 28.84,
+          "seats": 162,
+          "change": 26
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 2629163,
+          "pct": 9.54,
+          "seats": 53,
+          "change": 0
+        },
+        {
+          "name": "All-German Bloc/League of Expellees and Deprived of Rights",
+          "party": "bhe",
+          "votes": 1616953,
+          "pct": 5.87,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "German Party",
+          "party": "dp",
+          "votes": 896128,
+          "pct": 3.25,
+          "seats": 15,
+          "change": -2
+        },
+        {
+          "name": "Centre Party",
+          "party": "zentrum",
+          "votes": 217078,
+          "pct": 0.79,
+          "seats": 3,
+          "change": -7
+        },
+        {
+          "name": "Communist Party",
+          "party": "kpd",
+          "votes": 607860,
+          "pct": 2.21,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Bavaria Party",
+          "party": "bp",
+          "votes": 465641,
+          "pct": 1.69,
+          "seats": 0,
+          "change": -17
+        },
+        {
+          "name": "All-German People's Party",
+          "party": "gvp",
+          "votes": 318475,
+          "pct": 1.16,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Deutsche Reichspartei",
+          "party": "drp",
+          "votes": 295739,
+          "pct": 1.07,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 115311,
+          "pct": 0.42,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB"
+      ],
+      "notes": "CDU/CSU combines the CDU (10,016,594 votes, 36.36%, 197 seats, +80) and the CSU (2,427,387 votes, 8.81%, 52 seats, +28). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 487 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (CDU 6, SPD 11, FDP 5); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the nine western states (the Saarland joined in 1957). The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1957",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1957-09-15",
+      "totalSeats": 519,
+      "turnout": 87.77,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1957_West_German_federal_election",
+        "revid": 1369077460
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 15008399,
+          "pct": 50.19,
+          "seats": 277,
+          "change": 27,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 9495571,
+          "pct": 31.75,
+          "seats": 181,
+          "change": 19
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 2307135,
+          "pct": 7.71,
+          "seats": 43,
+          "change": -10
+        },
+        {
+          "name": "German Party",
+          "party": "dp",
+          "votes": 1007282,
+          "pct": 3.37,
+          "seats": 17,
+          "change": 2
+        },
+        {
+          "name": "Free German People's Party",
+          "party": "fvp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All-German Bloc/League of Expellees and Deprived of Rights",
+          "party": "bhe",
+          "votes": 1374066,
+          "pct": 4.59,
+          "seats": 0,
+          "change": -27
+        },
+        {
+          "name": "Deutsche Reichspartei",
+          "party": "drp",
+          "votes": 308564,
+          "pct": 1.03,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 404411,
+          "pct": 1.35,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (11,875,339 votes, 39.71%, 222 seats, +25) and the CSU (3,133,060 votes, 10.48%, 55 seats, +2). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 497 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (CDU 7, SPD 12, FDP 2, Free German People's Party 1); West Berlin had no direct vote. The +/- column is on the same basis. First federal election in the Saarland. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1961",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1961-09-17",
+      "totalSeats": 521,
+      "turnout": 87.74,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1961_West_German_federal_election",
+        "revid": 1355035310
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 14298372,
+          "pct": 45.32,
+          "seats": 251,
+          "change": -26,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 11427355,
+          "pct": 36.22,
+          "seats": 203,
+          "change": 22
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 4028766,
+          "pct": 12.77,
+          "seats": 67,
+          "change": 24
+        },
+        {
+          "name": "All-German Party",
+          "party": "gdp",
+          "votes": 870756,
+          "pct": 2.76,
+          "seats": 0,
+          "change": -18
+        },
+        {
+          "name": "German Peace Union",
+          "party": "dfu",
+          "votes": 609918,
+          "pct": 1.93,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 315734,
+          "pct": 1,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (11,283,901 votes, 35.76%, 201 seats, -21) and the CSU (3,014,471 votes, 9.55%, 50 seats, -5). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 499 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 13, CDU 9); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1965",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1965-09-19",
+      "totalSeats": 518,
+      "turnout": 86.77,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1965_West_German_federal_election",
+        "revid": 1345469876
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 15524068,
+          "pct": 47.59,
+          "seats": 251,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 12813186,
+          "pct": 39.28,
+          "seats": 217,
+          "change": 14
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 3096739,
+          "pct": 9.49,
+          "seats": 50,
+          "change": -17
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "npd",
+          "votes": 664193,
+          "pct": 2.04,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "German Peace Union",
+          "party": "dfu",
+          "votes": 434182,
+          "pct": 1.33,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 88074,
+          "pct": 0.27,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (12,387,562 votes, 37.97%, 202 seats, +1) and the CSU (3,136,506 votes, 9.62%, 49 seats, -1). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 496 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 15, CDU 6, FDP 1); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1969",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1969-09-28",
+      "totalSeats": 518,
+      "turnout": 86.67,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1969_West_German_federal_election",
+        "revid": 1326141122
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 15195187,
+          "pct": 46.09,
+          "seats": 250,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 14065716,
+          "pct": 42.67,
+          "seats": 237,
+          "change": 20
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 1903422,
+          "pct": 5.77,
+          "seats": 31,
+          "change": -19
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "npd",
+          "votes": 1422010,
+          "pct": 4.31,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 379689,
+          "pct": 1.15,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (12,079,535 votes, 36.64%, 201 seats, -1) and the CSU (3,115,652 votes, 9.45%, 49 seats, 0). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 496 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 13, CDU 8, FDP 1); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1972",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1972-11-19",
+      "totalSeats": 518,
+      "turnout": 91.11,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1972_West_German_federal_election",
+        "revid": 1368403808
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 17175169,
+          "pct": 45.85,
+          "seats": 242,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 16806020,
+          "pct": 44.86,
+          "seats": 234,
+          "change": -16
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 3129982,
+          "pct": 8.36,
+          "seats": 42,
+          "change": 11
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 348579,
+          "pct": 0.93,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (13,190,837 votes, 35.21%, 186 seats, -15) and the CSU (3,615,183 votes, 9.65%, 48 seats, -1). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 496 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 12, CDU 9, FDP 1); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1976",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1976-10-03",
+      "totalSeats": 518,
+      "turnout": 90.75,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1976_West_German_federal_election",
+        "revid": 1326141108
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 18394801,
+          "pct": 48.63,
+          "seats": 254,
+          "change": 20,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 16099019,
+          "pct": 42.56,
+          "seats": 224,
+          "change": -18
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 2995085,
+          "pct": 7.92,
+          "seats": 40,
+          "change": -2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 333595,
+          "pct": 0.88,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (14,367,302 votes, 37.99%, 201 seats, +15) and the CSU (4,027,499 votes, 10.65%, 53 seats, +5). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 496 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 10, CDU 11, FDP 1); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1980",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1980-10-05",
+      "totalSeats": 519,
+      "turnout": 88.57,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1980_West_German_federal_election",
+        "revid": 1326141102
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 16897659,
+          "pct": 44.54,
+          "seats": 237,
+          "change": -17,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 16260677,
+          "pct": 42.86,
+          "seats": 228,
+          "change": 4
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 4030999,
+          "pct": 10.62,
+          "seats": 54,
+          "change": 14
+        },
+        {
+          "name": "The Greens",
+          "party": "grn",
+          "votes": 569589,
+          "pct": 1.5,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 180057,
+          "pct": 0.47,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (12,989,200 votes, 34.24%, 185 seats, -16) and the CSU (3,908,459 votes, 10.3%, 52 seats, -1). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 497 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 10, CDU 11, FDP 1); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1983",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1983-03-06",
+      "totalSeats": 520,
+      "turnout": 89.09,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1983_West_German_federal_election",
+        "revid": 1326141096
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 18998545,
+          "pct": 48.79,
+          "seats": 255,
+          "change": 18,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 14865807,
+          "pct": 38.18,
+          "seats": 202,
+          "change": -26
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 2706942,
+          "pct": 6.95,
+          "seats": 35,
+          "change": -19
+        },
+        {
+          "name": "The Greens",
+          "party": "grn",
+          "votes": 2167431,
+          "pct": 5.57,
+          "seats": 28,
+          "change": 28
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 201962,
+          "pct": 0.52,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (14,857,680 votes, 38.15%, 202 seats, +17) and the CSU (4,140,865 votes, 10.63%, 53 seats, +1). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 498 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 9, CDU 11, FDP 1, Greens 1); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1987",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1987-01-25",
+      "totalSeats": 519,
+      "turnout": 84.33,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1987_West_German_federal_election",
+        "revid": 1350949616
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 16761572,
+          "pct": 44.26,
+          "seats": 234,
+          "change": -21,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 14025763,
+          "pct": 37.04,
+          "seats": 193,
+          "change": -9
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 3440911,
+          "pct": 9.09,
+          "seats": 48,
+          "change": 13
+        },
+        {
+          "name": "The Greens",
+          "party": "grn",
+          "votes": 3126256,
+          "pct": 8.26,
+          "seats": 44,
+          "change": 16
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 512817,
+          "pct": 1.35,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "voted": [
+        "NW",
+        "BY",
+        "BW",
+        "NI",
+        "HE",
+        "RP",
+        "SH",
+        "HH",
+        "HB",
+        "SL"
+      ],
+      "notes": "CDU/CSU combines the CDU (13,045,745 votes, 34.45%, 185 seats, -17) and the CSU (3,715,827 votes, 9.81%, 49 seats, -4). Votes and shares are second (party-list) votes; seats are total seats. Seats are the table's Total column: 497 elected plus 22 non-voting West Berlin members chosen by the Berlin legislature (SPD 7, CDU 11, FDP 2, Greens 2); West Berlin had no direct vote. The +/- column is on the same basis. Only West Germany voted: the ten western states. The article has seats by state but no list votes by state, so no region winners."
+    },
+    {
+      "id": "de-bundestag-1990",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1990-12-02",
+      "totalSeats": 662,
+      "turnout": 77.76,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1990_German_federal_election",
+        "revid": 1377862960
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 20358096,
+          "pct": 43.82,
+          "seats": 319,
+          "change": 14,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 15545366,
+          "pct": 33.46,
+          "seats": 239,
+          "change": 13
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 5123233,
+          "pct": 11.03,
+          "seats": 79,
+          "change": 22
+        },
+        {
+          "name": "Party of Democratic Socialism",
+          "party": "pds",
+          "votes": 1129578,
+          "pct": 2.43,
+          "seats": 17,
+          "change": -7
+        },
+        {
+          "name": "Alliance 90/Greens – Citizens' Movement (East)",
+          "party": "b90",
+          "votes": 559207,
+          "pct": 1.2,
+          "seats": 8,
+          "change": 1
+        },
+        {
+          "name": "The Greens (West)",
+          "party": "grn",
+          "votes": 1788200,
+          "pct": 3.85,
+          "seats": 0,
+          "change": -44
+        },
+        {
+          "name": "The Republicans",
+          "party": "rep",
+          "votes": 987269,
+          "pct": 2.13,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "German Social Union",
+          "party": "dsu",
+          "votes": 89008,
+          "pct": 0.19,
+          "seats": 0,
+          "change": -8
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 875815,
+          "pct": 1.89,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "cdu",
+        "BB": "cdu",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "cdu",
+        "NI": "cdu",
+        "MV": "cdu",
+        "NW": "spd",
+        "RP": "cdu",
+        "SL": "spd",
+        "SN": "cdu",
+        "ST": "cdu",
+        "SH": "cdu",
+        "TH": "cdu"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1990_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (17,055,116 votes, 36.71%, 268 seats, +12) and the CSU (3,302,980 votes, 7.11%, 51 seats, +2). Votes and shares are second (party-list) votes; seats are total seats. First election of reunified Germany. The +/- column compares with the Bundestag after East German members were co-opted in October 1990. For this election the 5% threshold applied separately in the West and East, so The Greens (West) won no seats while Alliance 90/Greens (East) won 8."
+    },
+    {
+      "id": "de-bundestag-1994",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1994-10-16",
+      "totalSeats": 672,
+      "turnout": 78.97,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1994_German_federal_election",
+        "revid": 1354695405
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 19517156,
+          "pct": 41.43,
+          "seats": 294,
+          "change": -25,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 17140354,
+          "pct": 36.39,
+          "seats": 252,
+          "change": 13
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 3424315,
+          "pct": 7.27,
+          "seats": 49,
+          "change": 41
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 3258407,
+          "pct": 6.92,
+          "seats": 47,
+          "change": -32
+        },
+        {
+          "name": "Party of Democratic Socialism",
+          "party": "pds",
+          "votes": 2066176,
+          "pct": 4.39,
+          "seats": 30,
+          "change": 13
+        },
+        {
+          "name": "The Republicans",
+          "party": "rep",
+          "votes": 875239,
+          "pct": 1.86,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 823527,
+          "pct": 1.75,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "spd",
+        "BB": "spd",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "cdu",
+        "MV": "cdu",
+        "NI": "cdu",
+        "NW": "spd",
+        "RP": "cdu",
+        "SL": "spd",
+        "SN": "cdu",
+        "ST": "cdu",
+        "SH": "cdu",
+        "TH": "cdu"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1994_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (16,089,960 votes, 34.16%, 244 seats, -24) and the CSU (3,427,196 votes, 7.28%, 50 seats, -1). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-1998",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "1998-09-27",
+      "totalSeats": 669,
+      "turnout": 82.2,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/1998_German_federal_election",
+        "revid": 1326140793
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 20181269,
+          "pct": 40.93,
+          "seats": 298,
+          "change": 46,
+          "winner": true
+        },
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 17329388,
+          "pct": 35.14,
+          "seats": 245,
+          "change": -49
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 3301624,
+          "pct": 6.7,
+          "seats": 47,
+          "change": -2
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 3080955,
+          "pct": 6.25,
+          "seats": 43,
+          "change": -4
+        },
+        {
+          "name": "Party of Democratic Socialism",
+          "party": "pds",
+          "votes": 2515454,
+          "pct": 5.1,
+          "seats": 36,
+          "change": 6
+        },
+        {
+          "name": "The Republicans",
+          "party": "rep",
+          "votes": 906383,
+          "pct": 1.84,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "German People's Union",
+          "party": "dvu",
+          "votes": 601192,
+          "pct": 1.22,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1392247,
+          "pct": 2.82,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "spd",
+        "BB": "spd",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "spd",
+        "MV": "spd",
+        "NI": "spd",
+        "NW": "spd",
+        "RP": "spd",
+        "SL": "spd",
+        "SN": "cdu",
+        "ST": "spd",
+        "SH": "spd",
+        "TH": "spd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1998_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (14,004,908 votes, 28.4%, 198 seats, -46) and the CSU (3,324,480 votes, 6.74%, 47 seats, -3). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-2002",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "2002-09-22",
+      "totalSeats": 603,
+      "turnout": 79.08,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/2002_German_federal_election",
+        "revid": 1378809500
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 18488668,
+          "pct": 38.52,
+          "seats": 251,
+          "change": -47,
+          "winner": true
+        },
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 18482641,
+          "pct": 38.51,
+          "seats": 248,
+          "change": 3
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 4110355,
+          "pct": 8.56,
+          "seats": 55,
+          "change": 8
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 3538815,
+          "pct": 7.37,
+          "seats": 47,
+          "change": 4
+        },
+        {
+          "name": "Party of Democratic Socialism",
+          "party": "pds",
+          "votes": 1916702,
+          "pct": 3.99,
+          "seats": 2,
+          "change": -34
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1459299,
+          "pct": 3.04,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "spd",
+        "BB": "spd",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "spd",
+        "MV": "spd",
+        "NI": "spd",
+        "NW": "spd",
+        "RP": "cdu",
+        "SL": "spd",
+        "SN": "cdu",
+        "ST": "spd",
+        "SH": "spd",
+        "TH": "spd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2002_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (14,167,561 votes, 29.52%, 190 seats, -8) and the CSU (4,315,080 votes, 8.99%, 58 seats, +11). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-2005",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "2005-09-18",
+      "totalSeats": 614,
+      "turnout": 77.65,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/2005_German_federal_election",
+        "revid": 1326140802
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 16631049,
+          "pct": 35.17,
+          "seats": 226,
+          "change": -22,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 16194665,
+          "pct": 34.25,
+          "seats": 222,
+          "change": -29
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 4648144,
+          "pct": 9.83,
+          "seats": 61,
+          "change": 14
+        },
+        {
+          "name": "The Left Party.PDS",
+          "party": "linke",
+          "votes": 4118194,
+          "pct": 8.71,
+          "seats": 54,
+          "change": 52
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 3838326,
+          "pct": 8.12,
+          "seats": 51,
+          "change": -4
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "npd",
+          "votes": 748568,
+          "pct": 1.58,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1109042,
+          "pct": 2.35,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "spd",
+        "BB": "spd",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "spd",
+        "MV": "spd",
+        "NI": "spd",
+        "NW": "spd",
+        "RP": "cdu",
+        "SL": "spd",
+        "SN": "cdu",
+        "ST": "spd",
+        "SH": "spd",
+        "TH": "spd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2005_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (13,136,740 votes, 27.78%, 180 seats, -10) and the CSU (3,494,309 votes, 7.39%, 46 seats, -12). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-2009",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "2009-09-27",
+      "totalSeats": 622,
+      "turnout": 70.78,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/2009_German_federal_election",
+        "revid": 1332035416
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 14658515,
+          "pct": 33.8,
+          "seats": 239,
+          "change": 13,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 9990488,
+          "pct": 23.03,
+          "seats": 146,
+          "change": -76
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 6316080,
+          "pct": 14.56,
+          "seats": 93,
+          "change": 32
+        },
+        {
+          "name": "The Left",
+          "party": "linke",
+          "votes": 5155933,
+          "pct": 11.89,
+          "seats": 76,
+          "change": 22
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 4643272,
+          "pct": 10.71,
+          "seats": 68,
+          "change": 17
+        },
+        {
+          "name": "Pirate Party Germany",
+          "party": "piraten",
+          "votes": 847870,
+          "pct": 1.95,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "npd",
+          "votes": 635525,
+          "pct": 1.47,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1123507,
+          "pct": 2.59,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "cdu",
+        "BB": "linke",
+        "HB": "spd",
+        "HH": "cdu",
+        "HE": "cdu",
+        "MV": "cdu",
+        "NI": "cdu",
+        "NW": "cdu",
+        "RP": "cdu",
+        "SL": "cdu",
+        "SN": "cdu",
+        "ST": "linke",
+        "SH": "cdu",
+        "TH": "cdu"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2009_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (11,828,277 votes, 27.27%, 194 seats, +14) and the CSU (2,830,238 votes, 6.53%, 45 seats, -1). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-2013",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "2013-09-22",
+      "totalSeats": 631,
+      "turnout": 71.53,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/2013_German_federal_election",
+        "revid": 1376201737
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 18165446,
+          "pct": 41.54,
+          "seats": 311,
+          "change": 72,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 11252215,
+          "pct": 25.73,
+          "seats": 193,
+          "change": 47
+        },
+        {
+          "name": "The Left",
+          "party": "linke",
+          "votes": 3755699,
+          "pct": 8.59,
+          "seats": 64,
+          "change": -12
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 3694057,
+          "pct": 8.45,
+          "seats": 63,
+          "change": -5
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 2083533,
+          "pct": 4.76,
+          "seats": 0,
+          "change": -93
+        },
+        {
+          "name": "Alternative for Germany",
+          "party": "afd",
+          "votes": 2056985,
+          "pct": 4.7,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Pirate Party Germany",
+          "party": "piraten",
+          "votes": 959177,
+          "pct": 2.19,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "npd",
+          "votes": 560828,
+          "pct": 1.28,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1198916,
+          "pct": 2.74,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "cdu",
+        "BB": "cdu",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "cdu",
+        "MV": "cdu",
+        "NI": "cdu",
+        "NW": "cdu",
+        "RP": "cdu",
+        "SL": "cdu",
+        "SN": "cdu",
+        "ST": "cdu",
+        "SH": "cdu",
+        "TH": "cdu"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2013_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (14,921,877 votes, 34.13%, 255 seats, +61) and the CSU (3,243,569 votes, 7.42%, 56 seats, +11). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-2017",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "2017-09-24",
+      "totalSeats": 709,
+      "turnout": 76.15,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/2017_German_federal_election",
+        "revid": 1373738222
+      },
+      "candidates": [
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 15317344,
+          "pct": 32.93,
+          "seats": 246,
+          "change": -75,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 9539381,
+          "pct": 20.51,
+          "seats": 153,
+          "change": -40
+        },
+        {
+          "name": "Alternative for Germany",
+          "party": "afd",
+          "votes": 5878115,
+          "pct": 12.64,
+          "seats": 94,
+          "change": 94
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 4999449,
+          "pct": 10.75,
+          "seats": 80,
+          "change": 80
+        },
+        {
+          "name": "The Left",
+          "party": "linke",
+          "votes": 4297270,
+          "pct": 9.24,
+          "seats": 69,
+          "change": 5
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 4158400,
+          "pct": 8.94,
+          "seats": 67,
+          "change": 4
+        },
+        {
+          "name": "Free Voters",
+          "party": "fw",
+          "votes": 463292,
+          "pct": 1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1862241,
+          "pct": 4,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "cdu",
+        "BB": "cdu",
+        "HB": "spd",
+        "HH": "cdu",
+        "HE": "cdu",
+        "MV": "cdu",
+        "NI": "cdu",
+        "NW": "cdu",
+        "RP": "cdu",
+        "SL": "cdu",
+        "SN": "afd",
+        "ST": "cdu",
+        "SH": "cdu",
+        "TH": "cdu"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (12,447,656 votes, 26.76%, 200 seats, -65) and the CSU (2,869,688 votes, 6.17%, 46 seats, -10). Votes and shares are second (party-list) votes; seats are total seats."
+    },
+    {
+      "id": "de-bundestag-2021",
+      "office": "Bundestag",
+      "kind": "legislative",
+      "date": "2021-09-26",
+      "totalSeats": 735,
+      "turnout": 76.35,
+      "source": {
+        "name": "Wikipedia, citing the Federal Returning Officer (Bundeswahlleiter)",
+        "url": "https://en.wikipedia.org/wiki/2021_German_federal_election",
+        "revid": 1347713549
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "spd",
+          "votes": 11901556,
+          "pct": 25.71,
+          "seats": 206,
+          "change": 53,
+          "winner": true
+        },
+        {
+          "name": "CDU/CSU",
+          "party": "cdu",
+          "votes": 11177746,
+          "pct": 24.14,
+          "seats": 197,
+          "change": -49
+        },
+        {
+          "name": "Alliance 90/The Greens",
+          "party": "grn",
+          "votes": 6814401,
+          "pct": 14.72,
+          "seats": 118,
+          "change": 51
+        },
+        {
+          "name": "Free Democratic Party",
+          "party": "fdp",
+          "votes": 5291010,
+          "pct": 11.43,
+          "seats": 91,
+          "change": 11
+        },
+        {
+          "name": "Alternative for Germany",
+          "party": "afd",
+          "votes": 4809228,
+          "pct": 10.39,
+          "seats": 83,
+          "change": -11
+        },
+        {
+          "name": "The Left",
+          "party": "linke",
+          "votes": 2255860,
+          "pct": 4.87,
+          "seats": 39,
+          "change": -30
+        },
+        {
+          "name": "South Schleswig Voters' Association",
+          "party": "ssw",
+          "votes": 55578,
+          "pct": 0.12,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Free Voters",
+          "party": "fw",
+          "votes": 1125666,
+          "pct": 2.43,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Human Environment Animal Protection Party",
+          "party": "tierschutz",
+          "votes": 673669,
+          "pct": 1.46,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Grassroots Democratic Party",
+          "party": "diebasis",
+          "votes": 630153,
+          "pct": 1.36,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1563471,
+          "pct": 3.38,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BW": "cdu",
+        "BY": "cdu",
+        "BE": "spd",
+        "BB": "spd",
+        "HB": "spd",
+        "HH": "spd",
+        "HE": "spd",
+        "NI": "spd",
+        "MV": "spd",
+        "NW": "spd",
+        "RP": "spd",
+        "SL": "spd",
+        "SN": "afd",
+        "ST": "spd",
+        "SH": "spd",
+        "TH": "afd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2021_German_federal_election#Results_by_state",
+      "notes": "CDU/CSU combines the CDU (8,774,919 votes, 18.95%, 152 seats, -48) and the CSU (2,402,827 votes, 5.19%, 45 seats, -1). Votes and shares are second (party-list) votes; seats are total seats. Figures reflect the February 2024 partial repeat election in Berlin, as the article states."
+    }
+  ]
+}
