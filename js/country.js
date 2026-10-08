@@ -183,8 +183,14 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const boundaries = ctx.sources?.countries?.[meta.code]?.boundaries;
     const credits = [boundaries && `Map: ${boundaries.name} (${boundaries.licence}).`, ctx.sources?.maps].filter(Boolean).join(' ');
     fineprint.textContent = (el.cite
-      ? `National results from ${el.cite.name}, via Wikipedia. ${el.statesFrom ? `Winners by ${term} are sourced; their shares are illustrative.` : `Results by ${term} are illustrative.`}${asOf}`
+      ? `National results from ${el.cite.name}, via Wikipedia. ${sourcedText(el)}${asOf}`
       : 'Sample data for layout. Results are not real.') + (credits ? ` ${credits}` : '');
+  }
+
+  function sourcedText(el) {
+    const s = el.statesSourced;
+    if (s) return `${s.n === 1 ? 'The winner' : 'Winners'} in ${s.n} of ${s.of} ${terms} ${s.n === 1 ? 'is' : 'are'} sourced; the other ${terms} and all shares are illustrative.`;
+    return el.statesFrom ? `Winners by ${term} are sourced; their shares are illustrative.` : `Results by ${term} are illustrative.`;
   }
 
   // One button per election of this office, oldest first, under a bar in the
@@ -359,7 +365,9 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const closest = called.filter(r => r.margin != null).sort((a, b) => a.margin - b.margin).slice(0, 5);
     const el = current();
     const illustrative = el.cite && !live && !sim
-      ? `<p class="note">${el.statesFrom
+      ? `<p class="note">${el.statesSourced
+        ? `Who won ${el.statesSourced.n} of the ${el.statesSourced.of} ${terms} is from <a href="${el.statesFrom}" target="_blank" rel="noopener">the source</a>; the other ${terms} and all shares are illustrative.`
+        : el.statesFrom
         ? `Who won each ${unit} is from <a href="${el.statesFrom}" target="_blank" rel="noopener">the source</a>; the shares are illustrative.`
         : `Results by ${unit} are illustrative.`}</p>`
       : '';

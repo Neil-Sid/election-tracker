@@ -182,7 +182,6 @@ for (const code of codes) {
         el.seatLabel ??= 'Seats';
       }
       el.cite = { name: source.name.replace(/^Wikipedia, citing /, ''), url: source.url };
-      if (regionWinners) el.statesFrom = regionSource;
       if (el.rounds?.length) {
         el.rounds = el.rounds.map((round, i) => ({
           ...round,
@@ -191,6 +190,13 @@ for (const code of codes) {
         el.candidates = el.rounds.at(-1).candidates;
       } else {
         el.regions = regionsFor(el, el, regionWinners, voted, rand);
+      }
+      if (regionWinners) {
+        el.statesFrom = regionSource;
+        // When only some regions have a sourced winner, the page says how many.
+        const voting = (el.rounds?.at(-1) ?? el).regions.filter(r => r.contested !== false);
+        const n = voting.filter(r => regionWinners[r.abbr]).length;
+        if (n < voting.length) el.statesSourced = { n, of: voting.length };
       }
       return el;
     })
