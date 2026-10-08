@@ -35,13 +35,13 @@ export function hemicycle(total, inner = 0.5) {
 
 // chamberSize is set when only part of the chamber was elected and the seats
 // shown are the seats won (Argentina's half renewals), so there is no majority.
-export function chamber({ cands, total, majority, chamberSize, seatLabel, party }) {
+export function chamber({ cands, total, majority, chamberSize, annulled, seatLabel, party }) {
   const { dots, r } = hemicycle(total);
   const fills = cands.flatMap(c => Array(Math.max(0, c.seats ?? 0)).fill(party(c.party).color));
   const circles = dots.map((d, i) =>
     `<circle cx="${d.x.toFixed(4)}" cy="${d.y.toFixed(4)}" r="${r.toFixed(4)}"${fills[i] ? ` fill="${fills[i]}"` : ' class="empty"'}/>`).join('');
   const lead = [...cands].sort((a, b) => (b.seats ?? 0) - (a.seats ?? 0))[0];
-  const short = chamberSize ? (lead.winner ? 'Most seats won' : 'Leading') : lead.seats >= majority ? 'Majority' : lead.winner ? 'Largest party' : 'Leading';
+  const short = annulled ? 'Annulled' : chamberSize ? (lead.winner ? 'Most seats won' : 'Leading') : lead.seats >= majority ? 'Majority' : lead.winner ? 'Largest party' : 'Leading';
   const caption = chamberSize
     ? `${fmtInt(total)} of ${fmtInt(chamberSize)} ${seatLabel.toLowerCase()} were up`
     : `${fmtInt(majority)} of ${fmtInt(total)} ${seatLabel.toLowerCase()} for a majority`;

@@ -339,6 +339,14 @@
       "url": "https://elections.fgov.be",
       "role": "Official results",
       "note": "Its elections directorate publishes the official results on resultatselection.belgium.be."
+    },
+    "RO": {
+      "access": "public",
+      "name": "Permanent Electoral Authority",
+      "short": "AEP",
+      "url": "https://prezenta.roaep.ro",
+      "role": "Official results",
+      "note": "Publishes turnout and the count on prezenta.roaep.ro as votes are counted; the Central Electoral Bureau (BEC) declares the final results."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

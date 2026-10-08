@@ -1,3841 +1,3841 @@
 {
- "code": "PE",
- "parties": {
-  "restau": {
-   "name": "Restoration Party",
-   "color": "#5D4E9A",
-   "article": "Restoration Party"
-  },
-  "odl": {
-   "name": "Odriist lists",
-   "color": "#E6C229"
-  },
-  "psp": {
-   "name": "Socialist Party of Peru",
-   "color": "#FF0000",
-   "article": "Socialist Party of Peru (1930)"
-  },
-  "mdp": {
-   "name": "Peruvian Democratic Movement (Pradists)",
-   "color": "#87CEEB",
-   "article": "Peruvian Democratic Movement"
-  },
-  "fdj": {
-   "name": "Democratic Youth Front",
-   "color": "#3A3A3A",
-   "article": "1956 Peruvian general election"
-  },
-  "undc": {
-   "name": "National Unity–Democratic Concordance",
-   "color": "#8C6D46"
-  },
-  "unif": {
-   "name": "National Unification",
-   "color": "#B5651D",
-   "article": "National Unification (Peru)"
-  },
-  "lgalvez": {
-   "name": "José Gálvez list",
-   "color": "#9C27B0"
-  },
-  "lguzman": {
-   "name": "Augusto Guzmán list",
-   "color": "#00897B"
-  },
-  "lalonso": {
-   "name": "Rodrigo Alonso list",
-   "color": "#7CB342"
-  },
-  "lgonzalez": {
-   "name": "Luis González list",
-   "color": "#F57C00"
-  },
-  "lsologuren": {
-   "name": "Wilson Sologuren list",
-   "color": "#5C6BC0"
-  },
-  "lportaro": {
-   "name": "Edgardo Portaro list",
-   "color": "#8D6E63"
-  },
-  "llozno": {
-   "name": "Juan Lozno list",
-   "color": "#81316D"
-  },
-  "adcuz": {
-   "name": "Cuzqueña Democratic Alliance",
-   "color": "#C0CA33",
-   "article": "Cuzqueña Democratic Alliance"
-  },
-  "feayac": {
-   "name": "Ayacuchano Electoral Front",
-   "color": "#EC407A",
-   "article": "Ayacuchano Electoral Front"
-  },
-  "uci": {
-   "name": "Independent Civic Union",
-   "color": "#78909C",
-   "article": "Independent Civic Union"
-  },
-  "pdc": {
-   "name": "Christian Democrat Party",
-   "color": "#00008B",
-   "article": "Christian Democratic Party (Peru)"
-  },
-  "apra": {
-   "name": "American Popular Revolutionary Alliance (APRA)",
-   "color": "#DF0101",
-   "article": "American Popular Revolutionary Alliance"
-  },
-  "ap": {
-   "name": "Popular Action",
-   "color": "#000000",
-   "article": "Popular Action (Peru)"
-  },
-  "uno": {
-   "name": "Odriist National Union",
-   "color": "#FFFF00",
-   "article": "Odriist National Union"
-  },
-  "fln": {
-   "name": "National Liberation Front",
-   "color": "#B71C1C",
-   "article": "National Liberation Front (Peru)"
-  },
-  "lspelucin": {
-   "name": "Alcides Spelucín list",
-   "color": "#6D4C41"
-  },
-  "ucuz": {
-   "name": "Cuzqueñista Union",
-   "color": "#AFB42B"
-  },
-  "chuanc": {
-   "name": "Huancavelicana Coalition",
-   "color": "#4DB6AC"
-  },
-  "mimoq": {
-   "name": "Moqueguano Independent Movement",
-   "color": "#BA68C8"
-  },
-  "upp62": {
-   "name": "Puneñista Parliamentary Union",
-   "color": "#FFB74D"
-  },
-  "upop": {
-   "name": "Popular Union",
-   "color": "#A1887F",
-   "article": "Popular Union (Peru)"
-  },
-  "iu": {
-   "name": "United Left",
-   "color": "#800000",
-   "article": "United Left (Peru)"
-  },
-  "ppc": {
-   "name": "Christian People's Party",
-   "color": "#14953B",
-   "article": "Christian People's Party (Peru)"
-  },
-  "prt": {
-   "name": "Workers' Revolutionary Party",
-   "color": "#A10000",
-   "article": "Workers' Revolutionary Party (Peru)"
-  },
-  "unir": {
-   "name": "Revolutionary Left Union",
-   "color": "#49B848",
-   "article": "Communism in Peru"
-  },
-  "udp": {
-   "name": "Popular Democratic Unity",
-   "color": "#DC143C",
-   "article": "Popular Democratic Unity"
-  },
-  "frenatraca": {
-   "name": "National Front of Workers and Peasants",
-   "color": "#FFD700",
-   "article": "List of political parties in Peru"
-  },
-  "focep": {
-   "name": "Worker Peasant Student and Popular Front",
-   "color": "#2828BD",
-   "article": "Worker Peasant Student and Popular Front"
-  },
-  "fdun": {
-   "name": "Democratic Front of National Unity",
-   "color": "#2828BD",
-   "article": "Democratic Front of National Unity"
-  },
-  "life": {
-   "name": "Former presidents (senators for life)",
-   "color": "#7D6B5D"
-  },
-  "fredemo": {
-   "name": "Democratic Front (FREDEMO)",
-   "color": "#50A7F7",
-   "article": "Democratic Front (Peru)"
-  },
-  "c90": {
-   "name": "Cambio 90",
-   "color": "#D45500",
-   "article": "Cambio 90"
-  },
-  "c90nm": {
-   "name": "Cambio 90–New Majority",
-   "color": "#D45500",
-   "article": "Cambio 90 – New Majority"
-  },
-  "is": {
-   "name": "Socialist Left",
-   "color": "#FF7F50",
-   "article": "Socialist Left (Peru)"
-  },
-  "frepap": {
-   "name": "Agricultural People's Front of Peru",
-   "color": "#00009B",
-   "article": "Agricultural People's Front of Peru"
-  },
-  "fim": {
-   "name": "Independent Moralizing Front",
-   "color": "#F08080",
-   "article": "Independent Moralizing Front"
-  },
-  "mrloreto": {
-   "name": "Loreto Regionalist Movement",
-   "color": "#005B00",
-   "article": "Loreto Regionalist Movement"
-  },
-  "ftacna": {
-   "name": "Tacneñista Front",
-   "color": "#BD2898",
-   "article": "Tacneñista Front"
-  },
-  "lipa": {
-   "name": "Popular Agreement Independent List",
-   "color": "#29AB87",
-   "article": "Popular Agreement Independent List"
-  },
-  "rn": {
-   "name": "Renewal Movement",
-   "color": "#0047AB",
-   "article": "National Renewal (Peru)"
-  },
-  "mdi": {
-   "name": "Democratic Left Movement",
-   "color": "#8B0000",
-   "article": "Democratic Left Movement (Peru)"
-  },
-  "cdem": {
-   "name": "Democratic Coordinator",
-   "color": "#80FF00",
-   "article": "Democratic Coordinator"
-  },
-  "sode": {
-   "name": "Solidarity and Democracy",
-   "color": "#52D8DD",
-   "article": "Solidarity and Democracy"
-  },
-  "mia": {
-   "name": "Independent Agrarian Movement",
-   "color": "#DAFF61",
-   "article": "Independent Agrarian Movement"
-  },
-  "upp": {
-   "name": "Union for Peru",
-   "color": "#D590D5",
-   "article": "Union for Peru"
-  },
-  "pp": {
-   "name": "Possible Peru",
-   "color": "#007244",
-   "article": "Possible Peru"
-  },
-  "obras": {
-   "name": "Civic Party OBRAS",
-   "color": "#006100",
-   "article": "Civic Party OBRAS"
-  },
-  "peru2000": {
-   "name": "Peru 2000",
-   "color": "#FF5800",
-   "article": "Peru 2000"
-  },
-  "somos": {
-   "name": "We Are Peru",
-   "color": "#813159",
-   "article": "We Are Peru"
-  },
-  "sn": {
-   "name": "National Solidarity",
-   "color": "#FFEE00",
-   "article": "National Solidarity (Peru)"
-  },
-  "avancemos": {
-   "name": "Avancemos",
-   "color": "#008000",
-   "article": "2000 Peruvian general election"
-  },
-  "un": {
-   "name": "National Unity",
-   "color": "#008000",
-   "article": "National Unity (Peru, 2000)"
-  },
-  "solpop": {
-   "name": "People's Solution",
-   "color": "#6082B6",
-   "article": "2001 Peruvian general election"
-  },
-  "tpv": {
-   "name": "All for Victory",
-   "color": "#FFCC33",
-   "article": "All for Victory"
-  },
-  "pais": {
-   "name": "Project Country",
-   "color": "#C2185B",
-   "article": "Project Country"
-  },
-  "renac": {
-   "name": "National United Renaissance",
-   "color": "#9F8170",
-   "article": "National United Resurgence"
-  },
-  "af": {
-   "name": "Alliance for the Future",
-   "color": "#FF7F00",
-   "article": "Alliance for the Future (Peru)"
-  },
-  "fc": {
-   "name": "Centre Front",
-   "color": "#DBDB57",
-   "article": "Centre Front"
-  },
-  "rnac": {
-   "name": "National Restoration",
-   "color": "#9370DB",
-   "article": "National Restoration (Peru)"
-  },
-  "app": {
-   "name": "Alliance for Progress",
-   "color": "#27569E",
-   "article": "Alliance for Progress (Peru)"
-  },
-  "fdem": {
-   "name": "Democratic Force",
-   "color": "#000000",
-   "article": "Democratic Force (Peru)"
-  },
-  "jn": {
-   "name": "National Justice",
-   "color": "#0000FF",
-   "article": "National Justice Party (Peru)"
-  },
-  "ps": {
-   "name": "Socialist Party",
-   "color": "#816D31",
-   "article": "Socialist Party (Peru)"
-  },
-  "mni": {
-   "name": "New Left Movement",
-   "color": "#B22222",
-   "article": "New Left Movement (Peru)"
-  },
-  "avp2000": {
-   "name": "Go on Country – Social Integration Party",
-   "color": "#81E49A",
-   "article": "Avanza País (Peru, 2000)"
-  },
-  "gp": {
-   "name": "Peru Wins",
-   "color": "#FF0000",
-   "article": "Peru Wins"
-  },
-  "fp": {
-   "name": "Popular Force",
-   "color": "#E9511B",
-   "article": "Popular Force"
-  },
-  "agc": {
-   "name": "Alliance for the Great Change",
-   "color": "#00B0F6",
-   "article": "Alliance for the Great Change"
-  },
-  "ppa": {
-   "name": "Possible Peru Alliance",
-   "color": "#007244",
-   "article": "Possible Peru Electoral Alliance"
-  },
-  "sna": {
-   "name": "National Solidarity Alliance",
-   "color": "#FFEE00",
-   "article": "National Solidarity Alliance"
-  },
-  "crp": {
-   "name": "Radical Change",
-   "color": "#0000F8",
-   "article": "Radical Change (Peru)"
-  },
-  "dd": {
-   "name": "Direct Democracy",
-   "color": "#E4E481",
-   "article": "Direct Democracy (Peru)"
-  },
-  "ppk": {
-   "name": "Peruvians for Change",
-   "color": "#E2007A",
-   "article": "Peruvians for Change"
-  },
-  "fa": {
-   "name": "Broad Front",
-   "color": "#49B848",
-   "article": "Broad Front (Peru)"
-  },
-  "app16": {
-   "name": "Alliance for the Progress of Peru",
-   "color": "#1E5BA8",
-   "article": "Alliance for the Progress of Peru"
-  },
-  "apop": {
-   "name": "Popular Alliance",
-   "color": "#FF0000",
-   "article": "Popular Alliance (Peru)"
-  },
-  "fesp": {
-   "name": "Hope Front",
-   "color": "#800080",
-   "article": "Hope Front (Peru)"
-  },
-  "podemos": {
-   "name": "Podemos Perú",
-   "color": "#E09540",
-   "article": "Podemos Perú"
-  },
-  "morado": {
-   "name": "Purple Party",
-   "color": "#7026AB",
-   "article": "Purple Party"
-  },
-  "jp": {
-   "name": "Together for Peru",
-   "color": "#60BC0F",
-   "article": "Together for Peru"
-  },
-  "pl": {
-   "name": "Free Peru",
-   "color": "#C00A0A",
-   "article": "Free Peru"
-  },
-  "avp": {
-   "name": "Avanza País",
-   "color": "#EF038B",
-   "article": "Avanza País (Peru, 2017)"
-  },
-  "pps": {
-   "name": "Peru Secure Homeland",
-   "color": "#FFA500",
-   "article": "Peru Secure Homeland"
-  },
-  "vamos": {
-   "name": "Let's Go Peru",
-   "color": "#FA8072",
-   "article": "Let's Go Peru"
-  },
-  "paccion": {
-   "name": "Peru Action",
-   "color": "#010974",
-   "article": "Peru Action"
-  },
-  "contigo": {
-   "name": "Contigo",
-   "color": "#57DBBA",
-   "article": "Contigo (political party)"
-  },
-  "rp": {
-   "name": "Popular Renewal",
-   "color": "#07769F",
-   "article": "Popular Renewal"
-  },
-  "vn": {
-   "name": "National Victory",
-   "color": "#EE204E",
-   "article": "National Victory"
-  },
-  "pnp": {
-   "name": "Peruvian Nationalist Party",
-   "color": "#57DBBA",
-   "article": "Peruvian Nationalist Party"
-  },
-  "ind": {
-   "name": "Independents",
-   "color": "#6E6E73"
-  },
-  "vac": {
-   "name": "Vacant",
-   "color": "#E5E5EA"
-  },
-  "oth": {
-   "name": "Others",
-   "color": "#B8B8BD"
-  }
- },
- "elections": [
-  {
-   "id": "pe-president-1950",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1950-07-02",
-   "note": "Single candidate, men only",
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
-    "revid": 1360598465
-   },
-   "candidates": [
-    {
-     "name": "Manuel A. Odría",
-     "party": "restau",
-     "votes": 550779,
-     "pct": 100,
-     "winner": true
+  "code": "PE",
+  "parties": {
+    "restau": {
+      "name": "Restoration Party",
+      "color": "#5D4E9A",
+      "article": "Restoration Party"
+    },
+    "odl": {
+      "name": "Odriist lists",
+      "color": "#E6C229"
+    },
+    "psp": {
+      "name": "Socialist Party of Peru",
+      "color": "#FF0000",
+      "article": "Socialist Party of Peru (1930)"
+    },
+    "mdp": {
+      "name": "Peruvian Democratic Movement (Pradists)",
+      "color": "#87CEEB",
+      "article": "Peruvian Democratic Movement"
+    },
+    "fdj": {
+      "name": "Democratic Youth Front",
+      "color": "#3A3A3A",
+      "article": "1956 Peruvian general election"
+    },
+    "undc": {
+      "name": "National Unity–Democratic Concordance",
+      "color": "#8C6D46"
+    },
+    "unif": {
+      "name": "National Unification",
+      "color": "#B5651D",
+      "article": "National Unification (Peru)"
+    },
+    "lgalvez": {
+      "name": "José Gálvez list",
+      "color": "#9C27B0"
+    },
+    "lguzman": {
+      "name": "Augusto Guzmán list",
+      "color": "#00897B"
+    },
+    "lalonso": {
+      "name": "Rodrigo Alonso list",
+      "color": "#7CB342"
+    },
+    "lgonzalez": {
+      "name": "Luis González list",
+      "color": "#F57C00"
+    },
+    "lsologuren": {
+      "name": "Wilson Sologuren list",
+      "color": "#5C6BC0"
+    },
+    "lportaro": {
+      "name": "Edgardo Portaro list",
+      "color": "#8D6E63"
+    },
+    "llozno": {
+      "name": "Juan Lozno list",
+      "color": "#81316D"
+    },
+    "adcuz": {
+      "name": "Cuzqueña Democratic Alliance",
+      "color": "#C0CA33",
+      "article": "Cuzqueña Democratic Alliance"
+    },
+    "feayac": {
+      "name": "Ayacuchano Electoral Front",
+      "color": "#EC407A",
+      "article": "Ayacuchano Electoral Front"
+    },
+    "uci": {
+      "name": "Independent Civic Union",
+      "color": "#78909C",
+      "article": "Independent Civic Union"
+    },
+    "pdc": {
+      "name": "Christian Democrat Party",
+      "color": "#00008B",
+      "article": "Christian Democratic Party (Peru)"
+    },
+    "apra": {
+      "name": "American Popular Revolutionary Alliance (APRA)",
+      "color": "#DF0101",
+      "article": "American Popular Revolutionary Alliance"
+    },
+    "ap": {
+      "name": "Popular Action",
+      "color": "#000000",
+      "article": "Popular Action (Peru)"
+    },
+    "uno": {
+      "name": "Odriist National Union",
+      "color": "#FFFF00",
+      "article": "Odriist National Union"
+    },
+    "fln": {
+      "name": "National Liberation Front",
+      "color": "#B71C1C",
+      "article": "National Liberation Front (Peru)"
+    },
+    "lspelucin": {
+      "name": "Alcides Spelucín list",
+      "color": "#6D4C41"
+    },
+    "ucuz": {
+      "name": "Cuzqueñista Union",
+      "color": "#AFB42B"
+    },
+    "chuanc": {
+      "name": "Huancavelicana Coalition",
+      "color": "#4DB6AC"
+    },
+    "mimoq": {
+      "name": "Moqueguano Independent Movement",
+      "color": "#BA68C8"
+    },
+    "upp62": {
+      "name": "Puneñista Parliamentary Union",
+      "color": "#FFB74D"
+    },
+    "upop": {
+      "name": "Popular Union",
+      "color": "#A1887F",
+      "article": "Popular Union (Peru)"
+    },
+    "iu": {
+      "name": "United Left",
+      "color": "#800000",
+      "article": "United Left (Peru)"
+    },
+    "ppc": {
+      "name": "Christian People's Party",
+      "color": "#14953B",
+      "article": "Christian People's Party (Peru)"
+    },
+    "prt": {
+      "name": "Workers' Revolutionary Party",
+      "color": "#A10000",
+      "article": "Workers' Revolutionary Party (Peru)"
+    },
+    "unir": {
+      "name": "Revolutionary Left Union",
+      "color": "#49B848",
+      "article": "Communism in Peru"
+    },
+    "udp": {
+      "name": "Popular Democratic Unity",
+      "color": "#DC143C",
+      "article": "Popular Democratic Unity"
+    },
+    "frenatraca": {
+      "name": "National Front of Workers and Peasants",
+      "color": "#FFD700",
+      "article": "List of political parties in Peru"
+    },
+    "focep": {
+      "name": "Worker Peasant Student and Popular Front",
+      "color": "#2828BD",
+      "article": "Worker Peasant Student and Popular Front"
+    },
+    "fdun": {
+      "name": "Democratic Front of National Unity",
+      "color": "#2828BD",
+      "article": "Democratic Front of National Unity"
+    },
+    "life": {
+      "name": "Former presidents (senators for life)",
+      "color": "#7D6B5D"
+    },
+    "fredemo": {
+      "name": "Democratic Front (FREDEMO)",
+      "color": "#50A7F7",
+      "article": "Democratic Front (Peru)"
+    },
+    "c90": {
+      "name": "Cambio 90",
+      "color": "#D45500",
+      "article": "Cambio 90"
+    },
+    "c90nm": {
+      "name": "Cambio 90–New Majority",
+      "color": "#D45500",
+      "article": "Cambio 90 – New Majority"
+    },
+    "is": {
+      "name": "Socialist Left",
+      "color": "#FF7F50",
+      "article": "Socialist Left (Peru)"
+    },
+    "frepap": {
+      "name": "Agricultural People's Front of Peru",
+      "color": "#00009B",
+      "article": "Agricultural People's Front of Peru"
+    },
+    "fim": {
+      "name": "Independent Moralizing Front",
+      "color": "#F08080",
+      "article": "Independent Moralizing Front"
+    },
+    "mrloreto": {
+      "name": "Loreto Regionalist Movement",
+      "color": "#005B00",
+      "article": "Loreto Regionalist Movement"
+    },
+    "ftacna": {
+      "name": "Tacneñista Front",
+      "color": "#BD2898",
+      "article": "Tacneñista Front"
+    },
+    "lipa": {
+      "name": "Popular Agreement Independent List",
+      "color": "#29AB87",
+      "article": "Popular Agreement Independent List"
+    },
+    "rn": {
+      "name": "Renewal Movement",
+      "color": "#0047AB",
+      "article": "National Renewal (Peru)"
+    },
+    "mdi": {
+      "name": "Democratic Left Movement",
+      "color": "#8B0000",
+      "article": "Democratic Left Movement (Peru)"
+    },
+    "cdem": {
+      "name": "Democratic Coordinator",
+      "color": "#80FF00",
+      "article": "Democratic Coordinator"
+    },
+    "sode": {
+      "name": "Solidarity and Democracy",
+      "color": "#52D8DD",
+      "article": "Solidarity and Democracy"
+    },
+    "mia": {
+      "name": "Independent Agrarian Movement",
+      "color": "#DAFF61",
+      "article": "Independent Agrarian Movement"
+    },
+    "upp": {
+      "name": "Union for Peru",
+      "color": "#D590D5",
+      "article": "Union for Peru"
+    },
+    "pp": {
+      "name": "Possible Peru",
+      "color": "#007244",
+      "article": "Possible Peru"
+    },
+    "obras": {
+      "name": "Civic Party OBRAS",
+      "color": "#006100",
+      "article": "Civic Party OBRAS"
+    },
+    "peru2000": {
+      "name": "Peru 2000",
+      "color": "#FF5800",
+      "article": "Peru 2000"
+    },
+    "somos": {
+      "name": "We Are Peru",
+      "color": "#813159",
+      "article": "We Are Peru"
+    },
+    "sn": {
+      "name": "National Solidarity",
+      "color": "#FFEE00",
+      "article": "National Solidarity (Peru)"
+    },
+    "avancemos": {
+      "name": "Avancemos",
+      "color": "#008000",
+      "article": "2000 Peruvian general election"
+    },
+    "un": {
+      "name": "National Unity",
+      "color": "#008000",
+      "article": "National Unity (Peru, 2000)"
+    },
+    "solpop": {
+      "name": "People's Solution",
+      "color": "#6082B6",
+      "article": "2001 Peruvian general election"
+    },
+    "tpv": {
+      "name": "All for Victory",
+      "color": "#FFCC33",
+      "article": "All for Victory"
+    },
+    "pais": {
+      "name": "Project Country",
+      "color": "#C2185B",
+      "article": "Project Country"
+    },
+    "renac": {
+      "name": "National United Renaissance",
+      "color": "#9F8170",
+      "article": "National United Resurgence"
+    },
+    "af": {
+      "name": "Alliance for the Future",
+      "color": "#FF7F00",
+      "article": "Alliance for the Future (Peru)"
+    },
+    "fc": {
+      "name": "Centre Front",
+      "color": "#DBDB57",
+      "article": "Centre Front"
+    },
+    "rnac": {
+      "name": "National Restoration",
+      "color": "#9370DB",
+      "article": "National Restoration (Peru)"
+    },
+    "app": {
+      "name": "Alliance for Progress",
+      "color": "#27569E",
+      "article": "Alliance for Progress (Peru)"
+    },
+    "fdem": {
+      "name": "Democratic Force",
+      "color": "#000000",
+      "article": "Democratic Force (Peru)"
+    },
+    "jn": {
+      "name": "National Justice",
+      "color": "#0000FF",
+      "article": "National Justice Party (Peru)"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#816D31",
+      "article": "Socialist Party (Peru)"
+    },
+    "mni": {
+      "name": "New Left Movement",
+      "color": "#B22222",
+      "article": "New Left Movement (Peru)"
+    },
+    "avp2000": {
+      "name": "Go on Country – Social Integration Party",
+      "color": "#81E49A",
+      "article": "Avanza País (Peru, 2000)"
+    },
+    "gp": {
+      "name": "Peru Wins",
+      "color": "#FF0000",
+      "article": "Peru Wins"
+    },
+    "fp": {
+      "name": "Popular Force",
+      "color": "#E9511B",
+      "article": "Popular Force"
+    },
+    "agc": {
+      "name": "Alliance for the Great Change",
+      "color": "#00B0F6",
+      "article": "Alliance for the Great Change"
+    },
+    "ppa": {
+      "name": "Possible Peru Alliance",
+      "color": "#007244",
+      "article": "Possible Peru Electoral Alliance"
+    },
+    "sna": {
+      "name": "National Solidarity Alliance",
+      "color": "#FFEE00",
+      "article": "National Solidarity Alliance"
+    },
+    "crp": {
+      "name": "Radical Change",
+      "color": "#0000F8",
+      "article": "Radical Change (Peru)"
+    },
+    "dd": {
+      "name": "Direct Democracy",
+      "color": "#E4E481",
+      "article": "Direct Democracy (Peru)"
+    },
+    "ppk": {
+      "name": "Peruvians for Change",
+      "color": "#E2007A",
+      "article": "Peruvians for Change"
+    },
+    "fa": {
+      "name": "Broad Front",
+      "color": "#49B848",
+      "article": "Broad Front (Peru)"
+    },
+    "app16": {
+      "name": "Alliance for the Progress of Peru",
+      "color": "#1E5BA8",
+      "article": "Alliance for the Progress of Peru"
+    },
+    "apop": {
+      "name": "Popular Alliance",
+      "color": "#FF0000",
+      "article": "Popular Alliance (Peru)"
+    },
+    "fesp": {
+      "name": "Hope Front",
+      "color": "#800080",
+      "article": "Hope Front (Peru)"
+    },
+    "podemos": {
+      "name": "Podemos Perú",
+      "color": "#E09540",
+      "article": "Podemos Perú"
+    },
+    "morado": {
+      "name": "Purple Party",
+      "color": "#7026AB",
+      "article": "Purple Party"
+    },
+    "jp": {
+      "name": "Together for Peru",
+      "color": "#60BC0F",
+      "article": "Together for Peru"
+    },
+    "pl": {
+      "name": "Free Peru",
+      "color": "#C00A0A",
+      "article": "Free Peru"
+    },
+    "avp": {
+      "name": "Avanza País",
+      "color": "#EF038B",
+      "article": "Avanza País (Peru, 2017)"
+    },
+    "pps": {
+      "name": "Peru Secure Homeland",
+      "color": "#FFA500",
+      "article": "Peru Secure Homeland"
+    },
+    "vamos": {
+      "name": "Let's Go Peru",
+      "color": "#FA8072",
+      "article": "Let's Go Peru"
+    },
+    "paccion": {
+      "name": "Peru Action",
+      "color": "#010974",
+      "article": "Peru Action"
+    },
+    "contigo": {
+      "name": "Contigo",
+      "color": "#57DBBA",
+      "article": "Contigo (political party)"
+    },
+    "rp": {
+      "name": "Popular Renewal",
+      "color": "#07769F",
+      "article": "Popular Renewal"
+    },
+    "vn": {
+      "name": "National Victory",
+      "color": "#EE204E",
+      "article": "National Victory"
+    },
+    "pnp": {
+      "name": "Peruvian Nationalist Party",
+      "color": "#57DBBA",
+      "article": "Peruvian Nationalist Party"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#6E6E73"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
     }
-   ],
-   "notes": "Manuel A. Odría was the only candidate after the National Electoral Jury invalidated the candidacy of Ernesto Montagne (Democratic League). Women could first vote in 1956. The table gives no registered voters or invalid votes, so there is no turnout."
   },
-  {
-   "id": "pe-president-1956",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1956-06-17",
-   "turnout": 84.04,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1956_Peruvian_general_election",
-    "revid": 1360598498
-   },
-   "candidates": [
+  "elections": [
     {
-     "name": "Manuel Prado Ugarteche",
-     "party": "mdp",
-     "votes": 567713,
-     "pct": 45.48,
-     "winner": true
+      "id": "pe-president-1950",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1950-07-02",
+      "note": "Single candidate, men only",
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
+        "revid": 1360598465
+      },
+      "candidates": [
+        {
+          "name": "Manuel A. Odría",
+          "party": "restau",
+          "votes": 550779,
+          "pct": 100,
+          "winner": true
+        }
+      ],
+      "notes": "Manuel A. Odría was the only candidate after the National Electoral Jury invalidated the candidacy of Ernesto Montagne (Democratic League). Women could first vote in 1956. The table gives no registered voters or invalid votes, so there is no turnout."
     },
     {
-     "name": "Fernando Belaúnde Terry",
-     "party": "fdj",
-     "votes": 457966,
-     "pct": 36.69
+      "id": "pe-president-1956",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1956-06-17",
+      "turnout": 84.04,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1956_Peruvian_general_election",
+        "revid": 1360598498
+      },
+      "candidates": [
+        {
+          "name": "Manuel Prado Ugarteche",
+          "party": "mdp",
+          "votes": 567713,
+          "pct": 45.48,
+          "winner": true
+        },
+        {
+          "name": "Fernando Belaúnde Terry",
+          "party": "fdj",
+          "votes": 457966,
+          "pct": 36.69
+        },
+        {
+          "name": "Hernando de Lavalle y García",
+          "party": "undc",
+          "votes": 222619,
+          "pct": 17.83
+        }
+      ],
+      "notes": "The first election in which women could vote. Manuel Prado ran for the Pradist Democratic Movement (the table links it to the Peruvian Democratic Movement), Fernando Belaúnde for the Democratic Youth Front and Hernando de Lavalle for National Unity–Democratic Concordance."
     },
     {
-     "name": "Hernando de Lavalle y García",
-     "party": "undc",
-     "votes": 222619,
-     "pct": 17.83
+      "id": "pe-president-1962",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1962-06-10",
+      "note": "Annulled by a military coup",
+      "turnout": 88.66,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1962_Peruvian_general_election",
+        "revid": 1360598574
+      },
+      "candidates": [
+        {
+          "name": "Víctor Raúl Haya de la Torre",
+          "party": "apra",
+          "votes": 557007,
+          "pct": 32.97
+        },
+        {
+          "name": "Fernando Belaúnde Terry",
+          "party": "ap",
+          "votes": 544180,
+          "pct": 32.21
+        },
+        {
+          "name": "Manuel A. Odría",
+          "party": "uno",
+          "votes": 480378,
+          "pct": 28.43
+        },
+        {
+          "name": "Héctor Cornejo Chávez",
+          "party": "pdc",
+          "votes": 48792,
+          "pct": 2.89
+        },
+        {
+          "name": "César Pando Egúsquiza",
+          "party": "fln",
+          "votes": 33341,
+          "pct": 1.97
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 25860,
+          "pct": 1.53
+        }
+      ],
+      "notes": "No candidate reached the one-third of the vote the constitution required, and the results were annulled after a military coup on 18 July 1962, so no president was proclaimed. Víctor Raúl Haya de la Torre, who received the most votes, is marked as the winner here, but he never took office. Others combines the Socialist Party (16,658) and the Progressive Social Movement (9,202). The election was re-run in 1963.",
+      "annulled": true
+    },
+    {
+      "id": "pe-president-1963",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1963-06-09",
+      "turnout": 94.38,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1963_Peruvian_general_election",
+        "revid": 1358624679
+      },
+      "candidates": [
+        {
+          "name": "Fernando Belaúnde Terry",
+          "party": "ap",
+          "votes": 708662,
+          "pct": 39.05,
+          "winner": true
+        },
+        {
+          "name": "Víctor Raúl Haya de la Torre",
+          "party": "apra",
+          "votes": 623501,
+          "pct": 34.36
+        },
+        {
+          "name": "Manuel A. Odría",
+          "party": "uno",
+          "votes": 463085,
+          "pct": 25.52
+        },
+        {
+          "name": "Mario Samamé Boggio",
+          "party": "upop",
+          "votes": 19320,
+          "pct": 1.06
+        }
+      ],
+      "notes": "Held after the 1962 results were annulled, under the military junta. Fernando Belaúnde ran for Popular Action with the support of the Christian Democrat Party (filed under Popular Action)."
+    },
+    {
+      "id": "pe-president-1980",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1980-05-18",
+      "turnout": 79.14,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1980_Peruvian_general_election",
+        "revid": 1360598809
+      },
+      "candidates": [
+        {
+          "name": "Fernando Belaúnde Terry",
+          "party": "ap",
+          "votes": 1793190,
+          "pct": 44.93,
+          "winner": true
+        },
+        {
+          "name": "Armando Villanueva",
+          "party": "apra",
+          "votes": 1087188,
+          "pct": 27.24
+        },
+        {
+          "name": "Luis Bedoya Reyes",
+          "party": "ppc",
+          "votes": 382547,
+          "pct": 9.58
+        },
+        {
+          "name": "Hugo Blanco",
+          "party": "prt",
+          "votes": 160713,
+          "pct": 4.03
+        },
+        {
+          "name": "Horacio Zevallos Galdós",
+          "party": "unir",
+          "votes": 134321,
+          "pct": 3.37
+        },
+        {
+          "name": "Leonidas Rodrígyez Figueroa",
+          "party": "iu",
+          "votes": 116890,
+          "pct": 2.93
+        },
+        {
+          "name": "Carlos Malpica Santisteban",
+          "party": "udp",
+          "votes": 98452,
+          "pct": 2.47
+        },
+        {
+          "name": "Roger Cáceres Velásquez",
+          "party": "frenatraca",
+          "votes": 81647,
+          "pct": 2.05
+        },
+        {
+          "name": "Genaro Ledesma Izquieta",
+          "party": "focep",
+          "votes": 60853,
+          "pct": 1.52
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 75453,
+          "pct": 1.89
+        }
+      ],
+      "notes": "The first general election since the 1968 military coup."
+    },
+    {
+      "id": "pe-president-1985",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1985-04-14",
+      "turnout": 90.59,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1985_Peruvian_general_election",
+        "revid": 1360540108
+      },
+      "candidates": [
+        {
+          "name": "Alan García",
+          "party": "apra",
+          "votes": 3457030,
+          "pct": 53.11,
+          "winner": true
+        },
+        {
+          "name": "Alfonso Barrantes Lingán",
+          "party": "iu",
+          "votes": 1606914,
+          "pct": 24.69
+        },
+        {
+          "name": "Luis Bedoya Reyes",
+          "party": "ppc",
+          "votes": 773705,
+          "pct": 11.89
+        },
+        {
+          "name": "Javier Alva Orlandini",
+          "party": "ap",
+          "votes": 472627,
+          "pct": 7.26
+        },
+        {
+          "name": "Roger Cáceres Velásquez",
+          "party": "frenatraca",
+          "votes": 91986,
+          "pct": 1.41
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 106944,
+          "pct": 1.64
+        }
+      ],
+      "notes": "Luis Bedoya Reyes ran for Democratic Convergence, which the table links to the Christian People's Party (key ppc); Roger Cáceres for the National Left, which it links to the National Front of Workers and Peasants (key frenatraca)."
+    },
+    {
+      "id": "pe-president-1990",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1990-04-08",
+      "turnout": 79.52,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
+        "revid": 1360097728
+      },
+      "candidates": [
+        {
+          "name": "Alberto Fujimori",
+          "party": "c90",
+          "votes": 4489897,
+          "pct": 62.38,
+          "winner": true
+        },
+        {
+          "name": "Mario Vargas Llosa",
+          "party": "fredemo",
+          "votes": 2708291,
+          "pct": 37.62
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1990-04-08",
+          "candidates": [
+            {
+              "name": "Mario Vargas Llosa",
+              "party": "fredemo",
+              "votes": 2163323,
+              "pct": 32.57
+            },
+            {
+              "name": "Alberto Fujimori",
+              "party": "c90",
+              "votes": 1932208,
+              "pct": 29.09
+            },
+            {
+              "name": "Luis Alva Castro",
+              "party": "apra",
+              "votes": 1494231,
+              "pct": 22.5
+            },
+            {
+              "name": "Henry Pease",
+              "party": "iu",
+              "votes": 544889,
+              "pct": 8.2
+            },
+            {
+              "name": "Alfonso Barrantes",
+              "party": "is",
+              "votes": 315038,
+              "pct": 4.74
+            },
+            {
+              "name": "Roger Cáceres",
+              "party": "frenatraca",
+              "votes": 86418,
+              "pct": 1.3
+            },
+            {
+              "name": "Ezequiel Ataucusi Gamonal",
+              "party": "frepap",
+              "votes": 73974,
+              "pct": 1.11
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 31503,
+              "pct": 0.47
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1990-06-10",
+          "candidates": [
+            {
+              "name": "Alberto Fujimori",
+              "party": "c90",
+              "votes": 4489897,
+              "pct": 62.38,
+              "winner": true
+            },
+            {
+              "name": "Mario Vargas Llosa",
+              "party": "fredemo",
+              "votes": 2708291,
+              "pct": 37.62
+            }
+          ]
+        }
+      ],
+      "notes": "The first presidential run-off in Peru. Mario Vargas Llosa ran for the Democratic Front (FREDEMO) and Alberto Fujimori for Cambio 90. Turnout is for the run-off; the first round's was 78.27%."
+    },
+    {
+      "id": "pe-president-1995",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1995-04-09",
+      "turnout": 73.85,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1995_Peruvian_general_election",
+        "revid": 1361080495
+      },
+      "candidates": [
+        {
+          "name": "Alberto Fujimori",
+          "party": "c90nm",
+          "votes": 4798515,
+          "pct": 64.42,
+          "winner": true
+        },
+        {
+          "name": "Javier Pérez de Cuéllar",
+          "party": "upp",
+          "votes": 1624566,
+          "pct": 21.81
+        },
+        {
+          "name": "Mercedes Cabanillas",
+          "party": "apra",
+          "votes": 306108,
+          "pct": 4.11
+        },
+        {
+          "name": "Alejandro Toledo",
+          "party": "pp",
+          "votes": 241598,
+          "pct": 3.24
+        },
+        {
+          "name": "Ricardo Belmont",
+          "party": "obras",
+          "votes": 192261,
+          "pct": 2.58
+        },
+        {
+          "name": "Raúl Diez Canseco",
+          "party": "ap",
+          "votes": 122383,
+          "pct": 1.64
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 162955,
+          "pct": 2.19
+        }
+      ],
+      "notes": "Alberto Fujimori was re-elected in the first round for Cambio 90–New Majority."
+    },
+    {
+      "id": "pe-president-2000",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2000-04-09",
+      "note": "Widely considered fraudulent",
+      "turnout": 81,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/2000_Peruvian_general_election",
+        "revid": 1368133564
+      },
+      "candidates": [
+        {
+          "name": "Alberto Fujimori",
+          "party": "peru2000",
+          "votes": 6041685,
+          "pct": 74.33,
+          "winner": true
+        },
+        {
+          "name": "Alejandro Toledo",
+          "party": "pp",
+          "votes": 2086215,
+          "pct": 25.67
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2000-04-09",
+          "candidates": [
+            {
+              "name": "Alberto Fujimori",
+              "party": "peru2000",
+              "votes": 5528568,
+              "pct": 49.87
+            },
+            {
+              "name": "Alejandro Toledo",
+              "party": "pp",
+              "votes": 4460895,
+              "pct": 40.24
+            },
+            {
+              "name": "Alberto Andrade",
+              "party": "somos",
+              "votes": 333048,
+              "pct": 3
+            },
+            {
+              "name": "Federico Salas",
+              "party": "avancemos",
+              "votes": 247054,
+              "pct": 2.23
+            },
+            {
+              "name": "Luis Castañeda Lossio",
+              "party": "sn",
+              "votes": 199814,
+              "pct": 1.8
+            },
+            {
+              "name": "Abel Salinas",
+              "party": "apra",
+              "votes": 153319,
+              "pct": 1.38
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 163172,
+              "pct": 1.47
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2000-05-28",
+          "candidates": [
+            {
+              "name": "Alberto Fujimori",
+              "party": "peru2000",
+              "votes": 6041685,
+              "pct": 74.33,
+              "winner": true
+            },
+            {
+              "name": "Alejandro Toledo",
+              "party": "pp",
+              "votes": 2086215,
+              "pct": 25.67
+            }
+          ]
+        }
+      ],
+      "notes": "The article describes the election as highly controversial and widely considered fraudulent. Alejandro Toledo boycotted the run-off, in which over 30% of ballots were declared invalid; Fujimori later resigned and new elections were held in 2001. Turnout is for the run-off; the first round's was 82.83%."
+    },
+    {
+      "id": "pe-president-2001",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2001-04-08",
+      "turnout": 81.41,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election",
+        "revid": 1367676240
+      },
+      "candidates": [
+        {
+          "name": "Alejandro Toledo",
+          "party": "pp",
+          "votes": 5548556,
+          "pct": 53.08,
+          "winner": true
+        },
+        {
+          "name": "Alan García",
+          "party": "apra",
+          "votes": 4904929,
+          "pct": 46.92
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2001-04-08",
+          "candidates": [
+            {
+              "name": "Alejandro Toledo",
+              "party": "pp",
+              "votes": 3871167,
+              "pct": 36.51
+            },
+            {
+              "name": "Alan García",
+              "party": "apra",
+              "votes": 2732857,
+              "pct": 25.78
+            },
+            {
+              "name": "Lourdes Flores",
+              "party": "un",
+              "votes": 2576653,
+              "pct": 24.3
+            },
+            {
+              "name": "Fernando Olivera",
+              "party": "fim",
+              "votes": 1044207,
+              "pct": 9.85
+            },
+            {
+              "name": "Carlos Boloña",
+              "party": "solpop",
+              "votes": 179243,
+              "pct": 1.69
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 197593,
+              "pct": 1.86
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2001-06-03",
+          "candidates": [
+            {
+              "name": "Alejandro Toledo",
+              "party": "pp",
+              "votes": 5548556,
+              "pct": 53.08,
+              "winner": true
+            },
+            {
+              "name": "Alan García",
+              "party": "apra",
+              "votes": 4904929,
+              "pct": 46.92
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 82.32%."
+    },
+    {
+      "id": "pe-president-2006",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2006-04-09",
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/2006_Peruvian_general_election",
+        "revid": 1378521440
+      },
+      "candidates": [
+        {
+          "name": "Alan García",
+          "party": "apra",
+          "votes": 6965017,
+          "pct": 52.63,
+          "winner": true
+        },
+        {
+          "name": "Ollanta Humala",
+          "party": "upp",
+          "votes": 6270080,
+          "pct": 47.37
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2006-04-09",
+          "candidates": [
+            {
+              "name": "Ollanta Humala",
+              "party": "upp",
+              "votes": 3758258,
+              "pct": 30.62
+            },
+            {
+              "name": "Alan García",
+              "party": "apra",
+              "votes": 2985858,
+              "pct": 24.32
+            },
+            {
+              "name": "Lourdes Flores",
+              "party": "un",
+              "votes": 2923280,
+              "pct": 23.81
+            },
+            {
+              "name": "Martha Chávez",
+              "party": "af",
+              "votes": 912420,
+              "pct": 7.43
+            },
+            {
+              "name": "Valentín Paniagua",
+              "party": "fc",
+              "votes": 706156,
+              "pct": 5.75
+            },
+            {
+              "name": "Humberto Lay",
+              "party": "rnac",
+              "votes": 537564,
+              "pct": 4.38
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 451849,
+              "pct": 3.68
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2006-06-04",
+          "candidates": [
+            {
+              "name": "Alan García",
+              "party": "apra",
+              "votes": 6965017,
+              "pct": 52.63,
+              "winner": true
+            },
+            {
+              "name": "Ollanta Humala",
+              "party": "upp",
+              "votes": 6270080,
+              "pct": 47.37
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the infobox's figure for the run-off (the results table gives no registered voters for it); the first round's was 88.71%.",
+      "turnout": 87.71
+    },
+    {
+      "id": "pe-president-2011",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2011-04-10",
+      "turnout": 82.54,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/2011_Peruvian_general_election",
+        "revid": 1367315885
+      },
+      "candidates": [
+        {
+          "name": "Ollanta Humala",
+          "party": "gp",
+          "votes": 7937704,
+          "pct": 51.45,
+          "winner": true
+        },
+        {
+          "name": "Keiko Fujimori",
+          "party": "fp",
+          "votes": 7490647,
+          "pct": 48.55
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2011-04-10",
+          "candidates": [
+            {
+              "name": "Ollanta Humala",
+              "party": "gp",
+              "votes": 4643064,
+              "pct": 31.7
+            },
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 3449595,
+              "pct": 23.55
+            },
+            {
+              "name": "Pedro Pablo Kuczynski",
+              "party": "agc",
+              "votes": 2711450,
+              "pct": 18.51
+            },
+            {
+              "name": "Alejandro Toledo",
+              "party": "pp",
+              "votes": 2289561,
+              "pct": 15.63
+            },
+            {
+              "name": "Luis Castañeda Lossio",
+              "party": "sna",
+              "votes": 1440143,
+              "pct": 9.83
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 113350,
+              "pct": 0.77
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2011-06-05",
+          "candidates": [
+            {
+              "name": "Ollanta Humala",
+              "party": "gp",
+              "votes": 7937704,
+              "pct": 51.45,
+              "winner": true
+            },
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 7490647,
+              "pct": 48.55
+            }
+          ]
+        }
+      ],
+      "notes": "Keiko Fujimori ran for Force 2011, the earlier name of Popular Force. Turnout is for the run-off; the first round's was 83.71%."
+    },
+    {
+      "id": "pe-president-2016",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2016-04-10",
+      "turnout": 80.09,
+      "source": {
+        "name": "Wikipedia, citing the National Office of Electoral Processes (ONPE)",
+        "url": "https://en.wikipedia.org/wiki/2016_Peruvian_general_election",
+        "revid": 1367371365
+      },
+      "candidates": [
+        {
+          "name": "Pedro Pablo Kuczynski",
+          "party": "ppk",
+          "votes": 8596937,
+          "pct": 50.12,
+          "winner": true
+        },
+        {
+          "name": "Keiko Fujimori",
+          "party": "fp",
+          "votes": 8555880,
+          "pct": 49.88
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2016-04-10",
+          "candidates": [
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 6115073,
+              "pct": 39.86
+            },
+            {
+              "name": "Pedro Pablo Kuczynski",
+              "party": "ppk",
+              "votes": 3228661,
+              "pct": 21.05
+            },
+            {
+              "name": "Verónika Mendoza",
+              "party": "fa",
+              "votes": 2874940,
+              "pct": 18.74
+            },
+            {
+              "name": "Alfredo Barnechea",
+              "party": "ap",
+              "votes": 1069360,
+              "pct": 6.97
+            },
+            {
+              "name": "Alan García",
+              "party": "apop",
+              "votes": 894278,
+              "pct": 5.83
+            },
+            {
+              "name": "Gregorio Santos",
+              "party": "dd",
+              "votes": 613173,
+              "pct": 4
+            },
+            {
+              "name": "Fernando Olivera",
+              "party": "fesp",
+              "votes": 203103,
+              "pct": 1.32
+            },
+            {
+              "name": "Alejandro Toledo",
+              "party": "pp",
+              "votes": 200012,
+              "pct": 1.3
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 141543,
+              "pct": 0.92
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2016-06-05",
+          "candidates": [
+            {
+              "name": "Pedro Pablo Kuczynski",
+              "party": "ppk",
+              "votes": 8596937,
+              "pct": 50.12,
+              "winner": true
+            },
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 8555880,
+              "pct": 49.88
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is for the run-off; the first round's was 81.8%."
+    },
+    {
+      "id": "pe-president-2021",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2021-04-11",
+      "turnout": 74.57,
+      "source": {
+        "name": "Wikipedia, citing the National Office of Electoral Processes (ONPE)",
+        "url": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election",
+        "revid": 1376035771
+      },
+      "candidates": [
+        {
+          "name": "Pedro Castillo",
+          "party": "pl",
+          "votes": 8836380,
+          "pct": 50.13,
+          "winner": true
+        },
+        {
+          "name": "Keiko Fujimori",
+          "party": "fp",
+          "votes": 8792117,
+          "pct": 49.87
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2021-04-11",
+          "candidates": [
+            {
+              "name": "Pedro Castillo",
+              "party": "pl",
+              "votes": 2724752,
+              "pct": 18.92
+            },
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 1930762,
+              "pct": 13.41
+            },
+            {
+              "name": "Rafael López Aliaga",
+              "party": "rp",
+              "votes": 1692279,
+              "pct": 11.75
+            },
+            {
+              "name": "Hernando de Soto",
+              "party": "avp",
+              "votes": 1674201,
+              "pct": 11.63
+            },
+            {
+              "name": "Yonhy Lescano",
+              "party": "ap",
+              "votes": 1306288,
+              "pct": 9.07
+            },
+            {
+              "name": "Verónika Mendoza",
+              "party": "jp",
+              "votes": 1132577,
+              "pct": 7.86
+            },
+            {
+              "name": "César Acuña",
+              "party": "app",
+              "votes": 867025,
+              "pct": 6.02
+            },
+            {
+              "name": "George Forsyth",
+              "party": "vn",
+              "votes": 814516,
+              "pct": 5.66
+            },
+            {
+              "name": "Daniel Urresti",
+              "party": "podemos",
+              "votes": 812721,
+              "pct": 5.64
+            },
+            {
+              "name": "Julio Guzmán",
+              "party": "morado",
+              "votes": 325608,
+              "pct": 2.26
+            },
+            {
+              "name": "Alberto Beingolea",
+              "party": "ppc",
+              "votes": 286447,
+              "pct": 1.99
+            },
+            {
+              "name": "Daniel Salaverry",
+              "party": "somos",
+              "votes": 240234,
+              "pct": 1.67
+            },
+            {
+              "name": "Ollanta Humala",
+              "party": "pnp",
+              "votes": 230831,
+              "pct": 1.6
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 362389,
+              "pct": 2.52
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2021-06-06",
+          "candidates": [
+            {
+              "name": "Pedro Castillo",
+              "party": "pl",
+              "votes": 8836380,
+              "pct": 50.13,
+              "winner": true
+            },
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 8792117,
+              "pct": 49.87
+            }
+          ]
+        }
+      ],
+      "notes": "Shares are of valid votes; blank votes (2,190,059 in the first round, 121,489 in the run-off) and invalid votes are excluded. Pedro Castillo won the run-off by 44,263 votes and was proclaimed president-elect on 19 July 2021. Turnout is for the run-off; the first round's was 70.05%. Region winners are each department's run-off winner, from the article's second-round results-by-department table (24 of 26 map regions). The table has a single Lima row covering both Lima Metropolitan and Lima region, so those two get no winner; the Peruvians abroad row is left out.",
+      "regionWinners": {
+        "AMA": "pl",
+        "ANC": "pl",
+        "APU": "pl",
+        "ARE": "pl",
+        "AYA": "pl",
+        "CAJ": "pl",
+        "CAL": "fp",
+        "CUS": "pl",
+        "HUV": "pl",
+        "HUC": "pl",
+        "ICA": "fp",
+        "JUN": "pl",
+        "LAL": "fp",
+        "LAM": "fp",
+        "LOR": "fp",
+        "MDD": "pl",
+        "MOQ": "pl",
+        "PAS": "pl",
+        "PIU": "fp",
+        "PUN": "pl",
+        "SAM": "pl",
+        "TAC": "pl",
+        "TUM": "fp",
+        "UCA": "fp"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election"
+    },
+    {
+      "id": "pe-senate-1950",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1950-07-02",
+      "note": "Men only",
+      "totalSeats": 47,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
+        "revid": 1360598465
+      },
+      "candidates": [
+        {
+          "name": "Odriist lists",
+          "party": "odl",
+          "votes": null,
+          "pct": null,
+          "seats": 38,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independent lists",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": 5
+        },
+        {
+          "name": "Socialist lists",
+          "party": "psp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "The table gives seats only, no votes. Lists supporting Odría won 38 of the 47 seats; 2 minority seats were left unfilled because only one list was registered in Ancash and Puno (Vacant). No turnout: the table gives no registered voters or invalid votes."
+    },
+    {
+      "id": "pe-senate-1956",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1956-06-17",
+      "totalSeats": 53,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1956_Peruvian_general_election",
+        "revid": 1360598498
+      },
+      "candidates": [
+        {
+          "name": "Pradist Democratic Movement",
+          "party": "mdp",
+          "votes": null,
+          "pct": null,
+          "seats": 24,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Unification",
+          "party": "unif",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "José Gálvez list",
+          "party": "lgalvez",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Democratic Youth Front",
+          "party": "fdj",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Augusto Guzmán list",
+          "party": "lguzman",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Rodrigo Alonso list",
+          "party": "lalonso",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Luis González list",
+          "party": "lgonzalez",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Christian Democrat Party",
+          "party": "pdc",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Wilson Sologuren list",
+          "party": "lsologuren",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Edgardo Portaro list",
+          "party": "lportaro",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "The table gives seats only, no votes. Several winning lists are named after their leading candidates. The first election in which women could vote. No change column. No turnout: the table gives no registered voters or invalid votes."
+    },
+    {
+      "id": "pe-senate-1962",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1962-06-10",
+      "note": "Annulled by a military coup",
+      "totalSeats": 55,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1962_Peruvian_general_election",
+        "revid": 1360598574
+      },
+      "candidates": [
+        {
+          "name": "Democratic Alliance (APRA–MDP)",
+          "party": "apra",
+          "votes": null,
+          "pct": null,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": null,
+          "pct": null,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Odriist National Union",
+          "party": "uno",
+          "votes": null,
+          "pct": null,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Alcides Spelucín list",
+          "party": "lspelucin",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Cuzqueñista Union",
+          "party": "ucuz",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Liberation Front",
+          "party": "fln",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "The results were annulled after the military coup of 18 July 1962. The table gives seats only, no votes. The Democratic Alliance of APRA and the Pradist Democratic Movement is filed under APRA. No change column. The seat total (55) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes.",
+      "annulled": true
+    },
+    {
+      "id": "pe-senate-1963",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1963-06-09",
+      "totalSeats": 45,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1963_Peruvian_general_election",
+        "revid": 1358624679
+      },
+      "candidates": [
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": null,
+          "pct": null,
+          "seats": 18,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": null,
+          "pct": null,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Odriist National Union",
+          "party": "uno",
+          "votes": null,
+          "pct": null,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Christian Democrat Party",
+          "party": "pdc",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": null
+        }
+      ],
+      "notes": "The table gives seats only, no votes. No change column. The seat total (45) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
+    },
+    {
+      "id": "pe-senate-1980",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1980-05-18",
+      "totalSeats": 60,
+      "turnout": 81.76,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1980_Peruvian_general_election",
+        "revid": 1360598809
+      },
+      "candidates": [
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 1694952,
+          "pct": 40.92,
+          "seats": 26,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 1144203,
+          "pct": 27.62,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Christian People's Party",
+          "party": "ppc",
+          "votes": 385674,
+          "pct": 9.31,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Left Union",
+          "party": "unir",
+          "votes": 189080,
+          "pct": 4.56,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Workers' Revolutionary Party",
+          "party": "prt",
+          "votes": 165191,
+          "pct": 3.99,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 146085,
+          "pct": 3.53,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Popular Democratic Unity",
+          "party": "udp",
+          "votes": 145155,
+          "pct": 3.5,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Front of Workers and Peasants",
+          "party": "frenatraca",
+          "votes": 92892,
+          "pct": 2.24,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Worker Peasant Student and Popular Front",
+          "party": "focep",
+          "votes": 69412,
+          "pct": 1.68,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 109559,
+          "pct": 2.64,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The first general election since the 1968 military coup. No change column."
+    },
+    {
+      "id": "pe-senate-1985",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1985-04-14",
+      "totalSeats": 61,
+      "turnout": 87.01,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1985_Peruvian_general_election",
+        "revid": 1360540108
+      },
+      "candidates": [
+        {
+          "name": "APRA–DC–SODE",
+          "party": "apra",
+          "votes": 3099795,
+          "pct": 51.28,
+          "seats": 32,
+          "change": 14,
+          "winner": true
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 1521461,
+          "pct": 25.17,
+          "seats": 15,
+          "change": 6
+        },
+        {
+          "name": "Democratic Convergence",
+          "party": "ppc",
+          "votes": 675621,
+          "pct": 11.18,
+          "seats": 7,
+          "change": 1
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 492056,
+          "pct": 8.14,
+          "seats": 5,
+          "change": -21
+        },
+        {
+          "name": "National Left",
+          "party": "frenatraca",
+          "votes": 103874,
+          "pct": 1.72,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Former presidents",
+          "party": "life",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 151831,
+          "pct": 2.51,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The APRA–Christian Democrat–Solidarity and Democracy list is filed under APRA; within it APRA won 30 seats and its two partners one each. Former President Fernando Belaúnde sat as a senator for life (the table's \"Former presidents\" row). Democratic Convergence links to the Christian People's Party (key ppc) and the National Left to the National Front of Workers and Peasants (key frenatraca). The seat total (61) is the sum of the table's rows."
+    },
+    {
+      "id": "pe-senate-1990",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1990-04-08",
+      "totalSeats": 62,
+      "turnout": 68.59,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
+        "revid": 1360097728
+      },
+      "candidates": [
+        {
+          "name": "Democratic Front",
+          "party": "fredemo",
+          "votes": 1772953,
+          "pct": 32.06,
+          "seats": 20,
+          "change": 7,
+          "winner": true
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 1387931,
+          "pct": 25.09,
+          "seats": 16,
+          "change": -14
+        },
+        {
+          "name": "Cambio 90",
+          "party": "c90",
+          "votes": 1200459,
+          "pct": 21.7,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 540620,
+          "pct": 9.77,
+          "seats": 6,
+          "change": -9
+        },
+        {
+          "name": "Socialist Left",
+          "party": "is",
+          "votes": 302110,
+          "pct": 5.46,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Former presidents",
+          "party": "life",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "National Front of Workers and Peasants",
+          "party": "frenatraca",
+          "votes": 112142,
+          "pct": 2.03,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 63694,
+          "pct": 1.15,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 150991,
+          "pct": 2.73,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table's \"Former presidents\" row (2 seats) is kept as its own row. The last Senate before the 1992 self-coup; the 1993 constitution abolished it."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1950",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1950-07-02",
+      "note": "Men only",
+      "totalSeats": 156,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
+        "revid": 1360598465
+      },
+      "candidates": [
+        {
+          "name": "Odriist lists",
+          "party": "odl",
+          "votes": null,
+          "pct": null,
+          "seats": 139,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independent lists",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 12,
+          "change": 6
+        },
+        {
+          "name": "Socialist lists",
+          "party": "psp",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "The table gives seats only, no votes. Lists supporting Odría won 139 of the 156 seats; 2 minority seats were left unfilled because only one list was registered in Ancash and Puno (Vacant). No turnout: the table gives no registered voters or invalid votes."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1956",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1956-06-17",
+      "totalSeats": 182,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1956_Peruvian_general_election",
+        "revid": 1360598498
+      },
+      "candidates": [
+        {
+          "name": "Pradist Democratic Movement",
+          "party": "mdp",
+          "votes": null,
+          "pct": null,
+          "seats": 64,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Unification",
+          "party": "unif",
+          "votes": null,
+          "pct": null,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Democratic Youth Front",
+          "party": "fdj",
+          "votes": null,
+          "pct": null,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "José Gálvez list",
+          "party": "lgalvez",
+          "votes": null,
+          "pct": null,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Augusto Guzmán list",
+          "party": "lguzman",
+          "votes": null,
+          "pct": null,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Rodrigo Alonso list",
+          "party": "lalonso",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Luis González list",
+          "party": "lgonzalez",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Christian Democrat Party",
+          "party": "pdc",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Wilson Sologuren list",
+          "party": "lsologuren",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Edgardo Portaro list",
+          "party": "lportaro",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Cuzqueña Democratic Alliance",
+          "party": "adcuz",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Ayacuchano Electoral Front",
+          "party": "feayac",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Juan Lozno list",
+          "party": "llozno",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independent Civic Union",
+          "party": "uci",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "The table gives seats only, no votes. Several winning lists are named after their leading candidates. The first election in which women could vote. No change column. The seat total (182) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1962",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1962-06-10",
+      "note": "Annulled by a military coup",
+      "totalSeats": 186,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1962_Peruvian_general_election",
+        "revid": 1360598574
+      },
+      "candidates": [
+        {
+          "name": "Democratic Alliance (APRA–MDP)",
+          "party": "apra",
+          "votes": null,
+          "pct": null,
+          "seats": 85,
+          "change": null
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": null,
+          "pct": null,
+          "seats": 61,
+          "change": null
+        },
+        {
+          "name": "Odriist National Union",
+          "party": "uno",
+          "votes": null,
+          "pct": null,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "Christian Democrat Party",
+          "party": "pdc",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Alcides Spelucín list",
+          "party": "lspelucin",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Cuzqueñista Union",
+          "party": "ucuz",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Huancavelicana Coalition",
+          "party": "chuanc",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Moqueguano Independent Movement",
+          "party": "mimoq",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Puneñista Parliamentary Union",
+          "party": "upp62",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "The results were annulled after the military coup of 18 July 1962. The table gives seats only, no votes. The Democratic Alliance of APRA and the Pradist Democratic Movement is filed under APRA. No change column. The seat total (186) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes.",
+      "annulled": true
+    },
+    {
+      "id": "pe-chamber-of-deputies-1963",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1963-06-09",
+      "totalSeats": 139,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1963_Peruvian_general_election",
+        "revid": 1358624679
+      },
+      "candidates": [
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": null,
+          "pct": null,
+          "seats": 56,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": null
+        },
+        {
+          "name": "Odriist National Union",
+          "party": "uno",
+          "votes": null,
+          "pct": null,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Christian Democrat Party",
+          "party": "pdc",
+          "votes": null,
+          "pct": null,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Peruvian Democratic Movement",
+          "party": "mdp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        }
+      ],
+      "notes": "The table gives seats only, no votes. The Peruvian Democratic Movement row links to the Pradist Democratic Movement (key mdp). No change column. The seat total (139) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1980",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1980-05-18",
+      "totalSeats": 180,
+      "turnout": 71.1,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1980_Peruvian_general_election",
+        "revid": 1360598809
+      },
+      "candidates": [
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 1413233,
+          "pct": 38.92,
+          "seats": 98,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 962801,
+          "pct": 26.51,
+          "seats": 58,
+          "change": null
+        },
+        {
+          "name": "Christian People's Party",
+          "party": "ppc",
+          "votes": 348578,
+          "pct": 9.6,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 124751,
+          "pct": 3.44,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "National Front of Workers and Peasants",
+          "party": "frenatraca",
+          "votes": 93416,
+          "pct": 2.57,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Revolutionary Left Union",
+          "party": "unir",
+          "votes": 172430,
+          "pct": 4.75,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Popular Democratic Unity",
+          "party": "udp",
+          "votes": 156415,
+          "pct": 4.31,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Workers' Revolutionary Party",
+          "party": "prt",
+          "votes": 151447,
+          "pct": 4.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Worker Peasant Student and Popular Front",
+          "party": "focep",
+          "votes": 61248,
+          "pct": 1.69,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 147020,
+          "pct": 4.05,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The first general election since the 1968 military coup. No change column. The seat total (180) is the sum of the table's rows."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1985",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1985-04-14",
+      "totalSeats": 180,
+      "turnout": 79.79,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/1985_Peruvian_general_election",
+        "revid": 1360540108
+      },
+      "candidates": [
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 2920605,
+          "pct": 50.09,
+          "seats": 107,
+          "change": 49,
+          "winner": true
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 1424981,
+          "pct": 24.44,
+          "seats": 48,
+          "change": 38
+        },
+        {
+          "name": "Democratic Convergence",
+          "party": "ppc",
+          "votes": 649404,
+          "pct": 11.14,
+          "seats": 12,
+          "change": 10
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 491581,
+          "pct": 8.43,
+          "seats": 10,
+          "change": -88
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 99192,
+          "pct": 1.7,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "National Left",
+          "party": "frenatraca",
+          "votes": 110695,
+          "pct": 1.9,
+          "seats": 1,
+          "change": -3
+        },
+        {
+          "name": "Democratic Front of National Unity",
+          "party": "fdun",
+          "votes": 59455,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 74797,
+          "pct": 1.28,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Democratic Convergence links to the Christian People's Party (key ppc) and the National Left to the National Front of Workers and Peasants (key frenatraca). The seat total (180) is the sum of the table's rows."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1990",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1990-04-08",
+      "totalSeats": 180,
+      "source": {
+        "name": "Wikipedia, citing the Constituency-Level Elections Archive (CLEA)",
+        "url": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
+        "revid": 1360097728
+      },
+      "candidates": [
+        {
+          "name": "Democratic Front",
+          "party": "fredemo",
+          "votes": 1561291,
+          "pct": 30.03,
+          "seats": 62,
+          "change": 40,
+          "winner": true
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 1288461,
+          "pct": 24.78,
+          "seats": 53,
+          "change": -54
+        },
+        {
+          "name": "Cambio 90",
+          "party": "c90",
+          "votes": 879949,
+          "pct": 16.93,
+          "seats": 32,
+          "change": null
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 510557,
+          "pct": 9.82,
+          "seats": 16,
+          "change": -32
+        },
+        {
+          "name": "Independent Moralizing Front",
+          "party": "fim",
+          "votes": 309263,
+          "pct": 5.95,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Socialist Left",
+          "party": "is",
+          "votes": 272591,
+          "pct": 5.24,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "National Front of Workers and Peasants",
+          "party": "frenatraca",
+          "votes": 126067,
+          "pct": 2.42,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Loreto Regionalist Movement",
+          "party": "mrloreto",
+          "votes": 24854,
+          "pct": 0.48,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Tacneñista Front",
+          "party": "ftacna",
+          "votes": 17642,
+          "pct": 0.34,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Popular Agreement Independent List",
+          "party": "lipa",
+          "votes": 14547,
+          "pct": 0.28,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 63450,
+          "pct": 1.22,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 130431,
+          "pct": 2.51,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table gives no invalid votes or registered voters, so there is no turnout."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1992",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1992-11-22",
+      "note": "Unicameral Congress",
+      "totalSeats": 80,
+      "turnout": 72.24,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE) and the Political Database of the Americas",
+        "url": "https://en.wikipedia.org/wiki/1992_Peruvian_Democratic_Constituent_Congress_election",
+        "revid": 1367209021
+      },
+      "candidates": [
+        {
+          "name": "Cambio 90 – New Majority",
+          "party": "c90nm",
+          "votes": 3075422,
+          "pct": 49.3,
+          "seats": 44,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Christian People's Party",
+          "party": "ppc",
+          "votes": 606651,
+          "pct": 9.73,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Independent Moralizing Front",
+          "party": "fim",
+          "votes": 486984,
+          "pct": 7.81,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Renewal Movement",
+          "party": "rn",
+          "votes": 440314,
+          "pct": 7.06,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Democratic Left Movement",
+          "party": "mdi",
+          "votes": 341646,
+          "pct": 5.48,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Democratic Coordinator",
+          "party": "cdem",
+          "votes": 328153,
+          "pct": 5.26,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "National Front of Workers and Peasants",
+          "party": "frenatraca",
+          "votes": 237977,
+          "pct": 3.82,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 172923,
+          "pct": 2.77,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Solidarity and Democracy",
+          "party": "sode",
+          "votes": 126822,
+          "pct": 2.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independent Agrarian Movement",
+          "party": "mia",
+          "votes": 107543,
+          "pct": 1.72,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 313247,
+          "pct": 5.02,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Election of the 80-member Democratic Constituent Congress after Alberto Fujimori's self-coup of 5 April 1992; it drafted the 1993 constitution, which made Congress unicameral. APRA boycotted the election. The Renewal Movement links to National Renewal (key rn). No change column."
+    },
+    {
+      "id": "pe-chamber-of-deputies-1995",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1995-04-09",
+      "note": "Unicameral Congress",
+      "totalSeats": 120,
+      "turnout": 67.02,
+      "source": {
+        "name": "Wikipedia, citing the Political Database of the Americas and the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/1995_Peruvian_general_election",
+        "revid": 1361080495
+      },
+      "candidates": [
+        {
+          "name": "Cambio 90 – New Majority",
+          "party": "c90nm",
+          "votes": 2277423,
+          "pct": 52.1,
+          "seats": 67,
+          "change": 35,
+          "winner": true
+        },
+        {
+          "name": "Union for Peru",
+          "party": "upp",
+          "votes": 611804,
+          "pct": 14,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 285526,
+          "pct": 6.53,
+          "seats": 8,
+          "change": -45
+        },
+        {
+          "name": "Independent Moralizing Front",
+          "party": "fim",
+          "votes": 213777,
+          "pct": 4.89,
+          "seats": 6,
+          "change": -1
+        },
+        {
+          "name": "Possible Country",
+          "party": "pp",
+          "votes": 181397,
+          "pct": 4.15,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 146018,
+          "pct": 3.34,
+          "seats": 4,
+          "change": -22
+        },
+        {
+          "name": "Christian People's Party",
+          "party": "ppc",
+          "votes": 135236,
+          "pct": 3.09,
+          "seats": 3,
+          "change": -22
+        },
+        {
+          "name": "Renewal Movement",
+          "party": "rn",
+          "votes": 130060,
+          "pct": 2.98,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "National Civic Movement OBRAS",
+          "party": "obras",
+          "votes": 87252,
+          "pct": 2,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "United Left",
+          "party": "iu",
+          "votes": 82061,
+          "pct": 1.88,
+          "seats": 2,
+          "change": -14
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 46990,
+          "pct": 1.08,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "National Front of Workers and Peasants",
+          "party": "frenatraca",
+          "votes": 46728,
+          "pct": 1.07,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Independent Agrarian Movement",
+          "party": "mia",
+          "votes": 34463,
+          "pct": 0.79,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 92302,
+          "pct": 2.11,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The first election to the 120-seat unicameral Congress under the 1993 constitution."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2000",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2000-04-09",
+      "note": "Unicameral Congress",
+      "totalSeats": 120,
+      "turnout": 81.98,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/2000_Peruvian_general_election",
+        "revid": 1368133564
+      },
+      "candidates": [
+        {
+          "name": "Peru 2000",
+          "party": "peru2000",
+          "votes": 4189018,
+          "pct": 42.16,
+          "seats": 52,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Possible Peru",
+          "party": "pp",
+          "votes": 2308635,
+          "pct": 23.24,
+          "seats": 29,
+          "change": 24
+        },
+        {
+          "name": "Independent Moralizing Front",
+          "party": "fim",
+          "votes": 751323,
+          "pct": 7.56,
+          "seats": 9,
+          "change": 3
+        },
+        {
+          "name": "We Are Peru",
+          "party": "somos",
+          "votes": 715396,
+          "pct": 7.2,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 546930,
+          "pct": 5.51,
+          "seats": 6,
+          "change": -2
+        },
+        {
+          "name": "National Solidarity",
+          "party": "sn",
+          "votes": 399985,
+          "pct": 4.03,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Avancemos",
+          "party": "avancemos",
+          "votes": 307188,
+          "pct": 3.09,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Union for Peru",
+          "party": "upp",
+          "votes": 254582,
+          "pct": 2.56,
+          "seats": 3,
+          "change": -14
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 245115,
+          "pct": 2.47,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 216953,
+          "pct": 2.18,
+          "seats": 2,
+          "change": 1
+        }
+      ],
+      "notes": "The article describes the 2000 elections as highly controversial and widely considered fraudulent. Early elections followed in April 2001."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2001",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2001-04-08",
+      "note": "Unicameral Congress",
+      "totalSeats": 120,
+      "turnout": 80.46,
+      "source": {
+        "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
+        "url": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election",
+        "revid": 1367676240
+      },
+      "candidates": [
+        {
+          "name": "Possible Peru",
+          "party": "pp",
+          "votes": 2477624,
+          "pct": 26.3,
+          "seats": 45,
+          "change": 16,
+          "winner": true
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 1857416,
+          "pct": 19.71,
+          "seats": 28,
+          "change": 22
+        },
+        {
+          "name": "National Unity",
+          "party": "un",
+          "votes": 1304037,
+          "pct": 13.84,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Independent Moralizing Front",
+          "party": "fim",
+          "votes": 1034672,
+          "pct": 10.98,
+          "seats": 11,
+          "change": 2
+        },
+        {
+          "name": "Union for Peru",
+          "party": "upp",
+          "votes": 390236,
+          "pct": 4.14,
+          "seats": 6,
+          "change": 3
+        },
+        {
+          "name": "We Are Peru",
+          "party": "somos",
+          "votes": 544193,
+          "pct": 5.78,
+          "seats": 4,
+          "change": -5
+        },
+        {
+          "name": "Cambio 90 – New Majority",
+          "party": "c90nm",
+          "votes": 452696,
+          "pct": 4.8,
+          "seats": 3,
+          "change": -49
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 393433,
+          "pct": 4.18,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "People's Solution",
+          "party": "solpop",
+          "votes": 336680,
+          "pct": 3.57,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "All for Victory",
+          "party": "tpv",
+          "votes": 191179,
+          "pct": 2.03,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Andean Renaissance",
+          "party": "renac",
+          "votes": 127707,
+          "pct": 1.36,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 156264,
+          "pct": 1.66,
+          "seats": 0,
+          "change": -2
+        },
+        {
+          "name": "Project Country",
+          "party": "pais",
+          "votes": 155572,
+          "pct": 1.65,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Andean Renaissance links to National United Renaissance (key renac)."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2006",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2006-04-09",
+      "note": "Unicameral Congress",
+      "totalSeats": 120,
+      "turnout": 88.66,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/2006_Peruvian_general_election",
+        "revid": 1378521440
+      },
+      "candidates": [
+        {
+          "name": "Union for Peru",
+          "party": "upp",
+          "votes": 2274797,
+          "pct": 21.15,
+          "seats": 45,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 2213623,
+          "pct": 20.59,
+          "seats": 36,
+          "change": null
+        },
+        {
+          "name": "National Unity",
+          "party": "un",
+          "votes": 1648717,
+          "pct": 15.33,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Future",
+          "party": "af",
+          "votes": 1408069,
+          "pct": 13.09,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Center Front",
+          "party": "fc",
+          "votes": 760261,
+          "pct": 7.07,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Possible Peru",
+          "party": "pp",
+          "votes": 441462,
+          "pct": 4.11,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Restoration",
+          "party": "rnac",
+          "votes": 432209,
+          "pct": 4.02,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Alliance for Progress",
+          "party": "app",
+          "votes": 248400,
+          "pct": 2.31,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Independent Moralizing Front",
+          "party": "fim",
+          "votes": 156433,
+          "pct": 1.45,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Force",
+          "party": "fdem",
+          "votes": 153437,
+          "pct": 1.43,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National Justice",
+          "party": "jn",
+          "votes": 151167,
+          "pct": 1.41,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 134166,
+          "pct": 1.25,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "New Left Movement",
+          "party": "mni",
+          "votes": 133106,
+          "pct": 1.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Go on Country",
+          "party": "avp2000",
+          "votes": 122654,
+          "pct": 1.14,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 474822,
+          "pct": 4.42,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "No change column."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2011",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2011-04-10",
+      "note": "Unicameral Congress",
+      "totalSeats": 130,
+      "turnout": 83.72,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/2011_Peruvian_general_election",
+        "revid": 1367315885
+      },
+      "candidates": [
+        {
+          "name": "Peru Wins",
+          "party": "gp",
+          "votes": 3245003,
+          "pct": 25.27,
+          "seats": 47,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Force 2011",
+          "party": "fp",
+          "votes": 2948781,
+          "pct": 22.97,
+          "seats": 37,
+          "change": null
+        },
+        {
+          "name": "Possible Peru Alliance",
+          "party": "ppa",
+          "votes": 1904180,
+          "pct": 14.83,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Great Change",
+          "party": "agc",
+          "votes": 1851080,
+          "pct": 14.42,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "National Solidarity Alliance",
+          "party": "sna",
+          "votes": 1311766,
+          "pct": 10.22,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "American Popular Revolutionary Alliance",
+          "party": "apra",
+          "votes": 825030,
+          "pct": 6.43,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Radical Change",
+          "party": "crp",
+          "votes": 347475,
+          "pct": 2.71,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Fonavistas of Peru",
+          "party": "dd",
+          "votes": 170052,
+          "pct": 1.32,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 235777,
+          "pct": 1.84,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Popular Force ran as Force 2011. Fonavistas of Peru links to Direct Democracy (key dd). No change column."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2016",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2016-04-10",
+      "note": "Unicameral Congress",
+      "totalSeats": 130,
+      "turnout": 81.88,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/2016_Peruvian_general_election",
+        "revid": 1367371365
+      },
+      "candidates": [
+        {
+          "name": "Popular Force",
+          "party": "fp",
+          "votes": 4431077,
+          "pct": 36.34,
+          "seats": 73,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Broad Front",
+          "party": "fa",
+          "votes": 1700052,
+          "pct": 13.94,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Peruvians for Change",
+          "party": "ppk",
+          "votes": 2007710,
+          "pct": 16.46,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Progress of Peru",
+          "party": "app16",
+          "votes": 1125682,
+          "pct": 9.23,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Popular Alliance",
+          "party": "apop",
+          "votes": 1013735,
+          "pct": 8.31,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 877734,
+          "pct": 7.2,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Direct Democracy",
+          "party": "dd",
+          "votes": 528301,
+          "pct": 4.33,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Possible Peru",
+          "party": "pp",
+          "votes": 286980,
+          "pct": 2.35,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Hope Front",
+          "party": "fesp",
+          "votes": 139634,
+          "pct": 1.15,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 83137,
+          "pct": 0.68,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "No change column."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2020",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2020-01-26",
+      "note": "Unicameral Congress",
+      "totalSeats": 130,
+      "turnout": 74.07,
+      "source": {
+        "name": "Wikipedia, citing the National Jury of Elections (JNE)",
+        "url": "https://en.wikipedia.org/wiki/2020_Peruvian_parliamentary_election",
+        "revid": 1374788344
+      },
+      "candidates": [
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 1518171,
+          "pct": 10.26,
+          "seats": 25,
+          "change": 20,
+          "winner": true
+        },
+        {
+          "name": "Alliance for Progress",
+          "party": "app",
+          "votes": 1178020,
+          "pct": 7.96,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 1240084,
+          "pct": 8.38,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Popular Force",
+          "party": "fp",
+          "votes": 1081174,
+          "pct": 7.31,
+          "seats": 15,
+          "change": -58
+        },
+        {
+          "name": "Union for Peru",
+          "party": "upp",
+          "votes": 1001716,
+          "pct": 6.77,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Podemos Perú",
+          "party": "podemos",
+          "votes": 1240716,
+          "pct": 8.38,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "We Are Peru",
+          "party": "somos",
+          "votes": 895700,
+          "pct": 6.05,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Purple Party",
+          "party": "morado",
+          "votes": 1095491,
+          "pct": 7.4,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Broad Front",
+          "party": "fa",
+          "votes": 911701,
+          "pct": 6.16,
+          "seats": 9,
+          "change": -11
+        },
+        {
+          "name": "Together for Peru",
+          "party": "jp",
+          "votes": 710462,
+          "pct": 4.8,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian People's Party",
+          "party": "ppc",
+          "votes": 590378,
+          "pct": 3.99,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Direct Democracy",
+          "party": "dd",
+          "votes": 543956,
+          "pct": 3.68,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Free Peru",
+          "party": "pl",
+          "votes": 502898,
+          "pct": 3.4,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peruvian Aprista Party",
+          "party": "apra",
+          "votes": 402330,
+          "pct": 2.72,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Avanza País",
+          "party": "avp",
+          "votes": 373113,
+          "pct": 2.52,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peru Secure Homeland",
+          "party": "pps",
+          "votes": 350121,
+          "pct": 2.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Let's Go Peru",
+          "party": "vamos",
+          "votes": 311413,
+          "pct": 2.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National United Renaissance",
+          "party": "renac",
+          "votes": 265564,
+          "pct": 1.79,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National Solidarity",
+          "party": "sn",
+          "votes": 221123,
+          "pct": 1.49,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peru Nation",
+          "party": "paccion",
+          "votes": 206128,
+          "pct": 1.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Contigo",
+          "party": "contigo",
+          "votes": 158120,
+          "pct": 1.07,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Snap election after President Martín Vizcarra dissolved Congress on 30 September 2019. Peru Nation links to Peru Action (key paccion)."
+    },
+    {
+      "id": "pe-chamber-of-deputies-2021",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2021-04-11",
+      "note": "Unicameral Congress",
+      "totalSeats": 130,
+      "turnout": 70.09,
+      "source": {
+        "name": "Wikipedia, citing the National Office of Electoral Processes (ONPE)",
+        "url": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election",
+        "revid": 1376035771
+      },
+      "candidates": [
+        {
+          "name": "Free Peru",
+          "party": "pl",
+          "votes": 1724354,
+          "pct": 13.41,
+          "seats": 37,
+          "change": 37,
+          "winner": true
+        },
+        {
+          "name": "Popular Force",
+          "party": "fp",
+          "votes": 1457694,
+          "pct": 11.34,
+          "seats": 24,
+          "change": 9
+        },
+        {
+          "name": "Popular Action",
+          "party": "ap",
+          "votes": 1159734,
+          "pct": 9.02,
+          "seats": 16,
+          "change": -9
+        },
+        {
+          "name": "Alliance for Progress",
+          "party": "app",
+          "votes": 969726,
+          "pct": 7.54,
+          "seats": 15,
+          "change": -7
+        },
+        {
+          "name": "Popular Renewal",
+          "party": "rp",
+          "votes": 1199705,
+          "pct": 9.33,
+          "seats": 13,
+          "change": 13
+        },
+        {
+          "name": "Avanza País",
+          "party": "avp",
+          "votes": 969092,
+          "pct": 7.54,
+          "seats": 7,
+          "change": 7
+        },
+        {
+          "name": "Together for Peru",
+          "party": "jp",
+          "votes": 847596,
+          "pct": 6.59,
+          "seats": 5,
+          "change": 5
+        },
+        {
+          "name": "We Are Peru",
+          "party": "somos",
+          "votes": 788522,
+          "pct": 6.13,
+          "seats": 5,
+          "change": -6
+        },
+        {
+          "name": "Podemos Perú",
+          "party": "podemos",
+          "votes": 750262,
+          "pct": 5.83,
+          "seats": 5,
+          "change": -6
+        },
+        {
+          "name": "Purple Party",
+          "party": "morado",
+          "votes": 697307,
+          "pct": 5.42,
+          "seats": 3,
+          "change": -6
+        },
+        {
+          "name": "National Victory",
+          "party": "vn",
+          "votes": 638289,
+          "pct": 4.96,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 589018,
+          "pct": 4.58,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Union for Peru",
+          "party": "upp",
+          "votes": 266349,
+          "pct": 2.07,
+          "seats": 0,
+          "change": -13
+        },
+        {
+          "name": "Christian People's Party",
+          "party": "ppc",
+          "votes": 212820,
+          "pct": 1.65,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Peruvian Nationalist Party",
+          "party": "pnp",
+          "votes": 195538,
+          "pct": 1.52,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Broad Front",
+          "party": "fa",
+          "votes": 135104,
+          "pct": 1.05,
+          "seats": 0,
+          "change": -9
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 258219,
+          "pct": 2.01,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Shares are of valid votes; 2,126,712 blank and 2,737,099 invalid votes are excluded."
     }
-   ],
-   "notes": "The first election in which women could vote. Manuel Prado ran for the Pradist Democratic Movement (the table links it to the Peruvian Democratic Movement), Fernando Belaúnde for the Democratic Youth Front and Hernando de Lavalle for National Unity–Democratic Concordance."
-  },
-  {
-   "id": "pe-president-1962",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1962-06-10",
-   "note": "Annulled by a military coup",
-   "turnout": 88.66,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1962_Peruvian_general_election",
-    "revid": 1360598574
-   },
-   "candidates": [
-    {
-     "name": "Víctor Raúl Haya de la Torre",
-     "party": "apra",
-     "votes": 557007,
-     "pct": 32.97,
-     "winner": true
-    },
-    {
-     "name": "Fernando Belaúnde Terry",
-     "party": "ap",
-     "votes": 544180,
-     "pct": 32.21
-    },
-    {
-     "name": "Manuel A. Odría",
-     "party": "uno",
-     "votes": 480378,
-     "pct": 28.43
-    },
-    {
-     "name": "Héctor Cornejo Chávez",
-     "party": "pdc",
-     "votes": 48792,
-     "pct": 2.89
-    },
-    {
-     "name": "César Pando Egúsquiza",
-     "party": "fln",
-     "votes": 33341,
-     "pct": 1.97
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 25860,
-     "pct": 1.53
-    }
-   ],
-   "notes": "No candidate reached the one-third of the vote the constitution required, and the results were annulled after a military coup on 18 July 1962, so no president was proclaimed. Víctor Raúl Haya de la Torre, who received the most votes, is marked as the winner here, but he never took office. Others combines the Socialist Party (16,658) and the Progressive Social Movement (9,202). The election was re-run in 1963."
-  },
-  {
-   "id": "pe-president-1963",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1963-06-09",
-   "turnout": 94.38,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1963_Peruvian_general_election",
-    "revid": 1358624679
-   },
-   "candidates": [
-    {
-     "name": "Fernando Belaúnde Terry",
-     "party": "ap",
-     "votes": 708662,
-     "pct": 39.05,
-     "winner": true
-    },
-    {
-     "name": "Víctor Raúl Haya de la Torre",
-     "party": "apra",
-     "votes": 623501,
-     "pct": 34.36
-    },
-    {
-     "name": "Manuel A. Odría",
-     "party": "uno",
-     "votes": 463085,
-     "pct": 25.52
-    },
-    {
-     "name": "Mario Samamé Boggio",
-     "party": "upop",
-     "votes": 19320,
-     "pct": 1.06
-    }
-   ],
-   "notes": "Held after the 1962 results were annulled, under the military junta. Fernando Belaúnde ran for Popular Action with the support of the Christian Democrat Party (filed under Popular Action)."
-  },
-  {
-   "id": "pe-president-1980",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1980-05-18",
-   "turnout": 79.14,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1980_Peruvian_general_election",
-    "revid": 1360598809
-   },
-   "candidates": [
-    {
-     "name": "Fernando Belaúnde Terry",
-     "party": "ap",
-     "votes": 1793190,
-     "pct": 44.93,
-     "winner": true
-    },
-    {
-     "name": "Armando Villanueva",
-     "party": "apra",
-     "votes": 1087188,
-     "pct": 27.24
-    },
-    {
-     "name": "Luis Bedoya Reyes",
-     "party": "ppc",
-     "votes": 382547,
-     "pct": 9.58
-    },
-    {
-     "name": "Hugo Blanco",
-     "party": "prt",
-     "votes": 160713,
-     "pct": 4.03
-    },
-    {
-     "name": "Horacio Zevallos Galdós",
-     "party": "unir",
-     "votes": 134321,
-     "pct": 3.37
-    },
-    {
-     "name": "Leonidas Rodrígyez Figueroa",
-     "party": "iu",
-     "votes": 116890,
-     "pct": 2.93
-    },
-    {
-     "name": "Carlos Malpica Santisteban",
-     "party": "udp",
-     "votes": 98452,
-     "pct": 2.47
-    },
-    {
-     "name": "Roger Cáceres Velásquez",
-     "party": "frenatraca",
-     "votes": 81647,
-     "pct": 2.05
-    },
-    {
-     "name": "Genaro Ledesma Izquieta",
-     "party": "focep",
-     "votes": 60853,
-     "pct": 1.52
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 75453,
-     "pct": 1.89
-    }
-   ],
-   "notes": "The first general election since the 1968 military coup."
-  },
-  {
-   "id": "pe-president-1985",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1985-04-14",
-   "turnout": 90.59,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1985_Peruvian_general_election",
-    "revid": 1360540108
-   },
-   "candidates": [
-    {
-     "name": "Alan García",
-     "party": "apra",
-     "votes": 3457030,
-     "pct": 53.11,
-     "winner": true
-    },
-    {
-     "name": "Alfonso Barrantes Lingán",
-     "party": "iu",
-     "votes": 1606914,
-     "pct": 24.69
-    },
-    {
-     "name": "Luis Bedoya Reyes",
-     "party": "ppc",
-     "votes": 773705,
-     "pct": 11.89
-    },
-    {
-     "name": "Javier Alva Orlandini",
-     "party": "ap",
-     "votes": 472627,
-     "pct": 7.26
-    },
-    {
-     "name": "Roger Cáceres Velásquez",
-     "party": "frenatraca",
-     "votes": 91986,
-     "pct": 1.41
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 106944,
-     "pct": 1.64
-    }
-   ],
-   "notes": "Luis Bedoya Reyes ran for Democratic Convergence, which the table links to the Christian People's Party (key ppc); Roger Cáceres for the National Left, which it links to the National Front of Workers and Peasants (key frenatraca)."
-  },
-  {
-   "id": "pe-president-1990",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1990-04-08",
-   "turnout": 79.52,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
-    "revid": 1360097728
-   },
-   "candidates": [
-    {
-     "name": "Alberto Fujimori",
-     "party": "c90",
-     "votes": 4489897,
-     "pct": 62.38,
-     "winner": true
-    },
-    {
-     "name": "Mario Vargas Llosa",
-     "party": "fredemo",
-     "votes": 2708291,
-     "pct": 37.62
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "1990-04-08",
-     "candidates": [
-      {
-       "name": "Mario Vargas Llosa",
-       "party": "fredemo",
-       "votes": 2163323,
-       "pct": 32.57
-      },
-      {
-       "name": "Alberto Fujimori",
-       "party": "c90",
-       "votes": 1932208,
-       "pct": 29.09
-      },
-      {
-       "name": "Luis Alva Castro",
-       "party": "apra",
-       "votes": 1494231,
-       "pct": 22.5
-      },
-      {
-       "name": "Henry Pease",
-       "party": "iu",
-       "votes": 544889,
-       "pct": 8.2
-      },
-      {
-       "name": "Alfonso Barrantes",
-       "party": "is",
-       "votes": 315038,
-       "pct": 4.74
-      },
-      {
-       "name": "Roger Cáceres",
-       "party": "frenatraca",
-       "votes": 86418,
-       "pct": 1.3
-      },
-      {
-       "name": "Ezequiel Ataucusi Gamonal",
-       "party": "frepap",
-       "votes": 73974,
-       "pct": 1.11
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 31503,
-       "pct": 0.47
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "1990-06-10",
-     "candidates": [
-      {
-       "name": "Alberto Fujimori",
-       "party": "c90",
-       "votes": 4489897,
-       "pct": 62.38,
-       "winner": true
-      },
-      {
-       "name": "Mario Vargas Llosa",
-       "party": "fredemo",
-       "votes": 2708291,
-       "pct": 37.62
-      }
-     ]
-    }
-   ],
-   "notes": "The first presidential run-off in Peru. Mario Vargas Llosa ran for the Democratic Front (FREDEMO) and Alberto Fujimori for Cambio 90. Turnout is for the run-off; the first round's was 78.27%."
-  },
-  {
-   "id": "pe-president-1995",
-   "office": "President",
-   "kind": "presidential",
-   "date": "1995-04-09",
-   "turnout": 73.85,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1995_Peruvian_general_election",
-    "revid": 1361080495
-   },
-   "candidates": [
-    {
-     "name": "Alberto Fujimori",
-     "party": "c90nm",
-     "votes": 4798515,
-     "pct": 64.42,
-     "winner": true
-    },
-    {
-     "name": "Javier Pérez de Cuéllar",
-     "party": "upp",
-     "votes": 1624566,
-     "pct": 21.81
-    },
-    {
-     "name": "Mercedes Cabanillas",
-     "party": "apra",
-     "votes": 306108,
-     "pct": 4.11
-    },
-    {
-     "name": "Alejandro Toledo",
-     "party": "pp",
-     "votes": 241598,
-     "pct": 3.24
-    },
-    {
-     "name": "Ricardo Belmont",
-     "party": "obras",
-     "votes": 192261,
-     "pct": 2.58
-    },
-    {
-     "name": "Raúl Diez Canseco",
-     "party": "ap",
-     "votes": 122383,
-     "pct": 1.64
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 162955,
-     "pct": 2.19
-    }
-   ],
-   "notes": "Alberto Fujimori was re-elected in the first round for Cambio 90–New Majority."
-  },
-  {
-   "id": "pe-president-2000",
-   "office": "President",
-   "kind": "presidential",
-   "date": "2000-04-09",
-   "note": "Widely considered fraudulent",
-   "turnout": 81,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/2000_Peruvian_general_election",
-    "revid": 1368133564
-   },
-   "candidates": [
-    {
-     "name": "Alberto Fujimori",
-     "party": "peru2000",
-     "votes": 6041685,
-     "pct": 74.33,
-     "winner": true
-    },
-    {
-     "name": "Alejandro Toledo",
-     "party": "pp",
-     "votes": 2086215,
-     "pct": 25.67
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "2000-04-09",
-     "candidates": [
-      {
-       "name": "Alberto Fujimori",
-       "party": "peru2000",
-       "votes": 5528568,
-       "pct": 49.87
-      },
-      {
-       "name": "Alejandro Toledo",
-       "party": "pp",
-       "votes": 4460895,
-       "pct": 40.24
-      },
-      {
-       "name": "Alberto Andrade",
-       "party": "somos",
-       "votes": 333048,
-       "pct": 3
-      },
-      {
-       "name": "Federico Salas",
-       "party": "avancemos",
-       "votes": 247054,
-       "pct": 2.23
-      },
-      {
-       "name": "Luis Castañeda Lossio",
-       "party": "sn",
-       "votes": 199814,
-       "pct": 1.8
-      },
-      {
-       "name": "Abel Salinas",
-       "party": "apra",
-       "votes": 153319,
-       "pct": 1.38
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 163172,
-       "pct": 1.47
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "2000-05-28",
-     "candidates": [
-      {
-       "name": "Alberto Fujimori",
-       "party": "peru2000",
-       "votes": 6041685,
-       "pct": 74.33,
-       "winner": true
-      },
-      {
-       "name": "Alejandro Toledo",
-       "party": "pp",
-       "votes": 2086215,
-       "pct": 25.67
-      }
-     ]
-    }
-   ],
-   "notes": "The article describes the election as highly controversial and widely considered fraudulent. Alejandro Toledo boycotted the run-off, in which over 30% of ballots were declared invalid; Fujimori later resigned and new elections were held in 2001. Turnout is for the run-off; the first round's was 82.83%."
-  },
-  {
-   "id": "pe-president-2001",
-   "office": "President",
-   "kind": "presidential",
-   "date": "2001-04-08",
-   "turnout": 81.41,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election",
-    "revid": 1367676240
-   },
-   "candidates": [
-    {
-     "name": "Alejandro Toledo",
-     "party": "pp",
-     "votes": 5548556,
-     "pct": 53.08,
-     "winner": true
-    },
-    {
-     "name": "Alan García",
-     "party": "apra",
-     "votes": 4904929,
-     "pct": 46.92
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "2001-04-08",
-     "candidates": [
-      {
-       "name": "Alejandro Toledo",
-       "party": "pp",
-       "votes": 3871167,
-       "pct": 36.51
-      },
-      {
-       "name": "Alan García",
-       "party": "apra",
-       "votes": 2732857,
-       "pct": 25.78
-      },
-      {
-       "name": "Lourdes Flores",
-       "party": "un",
-       "votes": 2576653,
-       "pct": 24.3
-      },
-      {
-       "name": "Fernando Olivera",
-       "party": "fim",
-       "votes": 1044207,
-       "pct": 9.85
-      },
-      {
-       "name": "Carlos Boloña",
-       "party": "solpop",
-       "votes": 179243,
-       "pct": 1.69
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 197593,
-       "pct": 1.86
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "2001-06-03",
-     "candidates": [
-      {
-       "name": "Alejandro Toledo",
-       "party": "pp",
-       "votes": 5548556,
-       "pct": 53.08,
-       "winner": true
-      },
-      {
-       "name": "Alan García",
-       "party": "apra",
-       "votes": 4904929,
-       "pct": 46.92
-      }
-     ]
-    }
-   ],
-   "notes": "Turnout is for the run-off; the first round's was 82.32%."
-  },
-  {
-   "id": "pe-president-2006",
-   "office": "President",
-   "kind": "presidential",
-   "date": "2006-04-09",
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/2006_Peruvian_general_election",
-    "revid": 1378521440
-   },
-   "candidates": [
-    {
-     "name": "Alan García",
-     "party": "apra",
-     "votes": 6965017,
-     "pct": 52.63,
-     "winner": true
-    },
-    {
-     "name": "Ollanta Humala",
-     "party": "upp",
-     "votes": 6270080,
-     "pct": 47.37
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "2006-04-09",
-     "candidates": [
-      {
-       "name": "Ollanta Humala",
-       "party": "upp",
-       "votes": 3758258,
-       "pct": 30.62
-      },
-      {
-       "name": "Alan García",
-       "party": "apra",
-       "votes": 2985858,
-       "pct": 24.32
-      },
-      {
-       "name": "Lourdes Flores",
-       "party": "un",
-       "votes": 2923280,
-       "pct": 23.81
-      },
-      {
-       "name": "Martha Chávez",
-       "party": "af",
-       "votes": 912420,
-       "pct": 7.43
-      },
-      {
-       "name": "Valentín Paniagua",
-       "party": "fc",
-       "votes": 706156,
-       "pct": 5.75
-      },
-      {
-       "name": "Humberto Lay",
-       "party": "rnac",
-       "votes": 537564,
-       "pct": 4.38
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 451849,
-       "pct": 3.68
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "2006-06-04",
-     "candidates": [
-      {
-       "name": "Alan García",
-       "party": "apra",
-       "votes": 6965017,
-       "pct": 52.63,
-       "winner": true
-      },
-      {
-       "name": "Ollanta Humala",
-       "party": "upp",
-       "votes": 6270080,
-       "pct": 47.37
-      }
-     ]
-    }
-   ],
-   "notes": "Turnout is the infobox's figure for the run-off (the results table gives no registered voters for it); the first round's was 88.71%.",
-   "turnout": 87.71
-  },
-  {
-   "id": "pe-president-2011",
-   "office": "President",
-   "kind": "presidential",
-   "date": "2011-04-10",
-   "turnout": 82.54,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/2011_Peruvian_general_election",
-    "revid": 1367315885
-   },
-   "candidates": [
-    {
-     "name": "Ollanta Humala",
-     "party": "gp",
-     "votes": 7937704,
-     "pct": 51.45,
-     "winner": true
-    },
-    {
-     "name": "Keiko Fujimori",
-     "party": "fp",
-     "votes": 7490647,
-     "pct": 48.55
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "2011-04-10",
-     "candidates": [
-      {
-       "name": "Ollanta Humala",
-       "party": "gp",
-       "votes": 4643064,
-       "pct": 31.7
-      },
-      {
-       "name": "Keiko Fujimori",
-       "party": "fp",
-       "votes": 3449595,
-       "pct": 23.55
-      },
-      {
-       "name": "Pedro Pablo Kuczynski",
-       "party": "agc",
-       "votes": 2711450,
-       "pct": 18.51
-      },
-      {
-       "name": "Alejandro Toledo",
-       "party": "pp",
-       "votes": 2289561,
-       "pct": 15.63
-      },
-      {
-       "name": "Luis Castañeda Lossio",
-       "party": "sna",
-       "votes": 1440143,
-       "pct": 9.83
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 113350,
-       "pct": 0.77
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "2011-06-05",
-     "candidates": [
-      {
-       "name": "Ollanta Humala",
-       "party": "gp",
-       "votes": 7937704,
-       "pct": 51.45,
-       "winner": true
-      },
-      {
-       "name": "Keiko Fujimori",
-       "party": "fp",
-       "votes": 7490647,
-       "pct": 48.55
-      }
-     ]
-    }
-   ],
-   "notes": "Keiko Fujimori ran for Force 2011, the earlier name of Popular Force. Turnout is for the run-off; the first round's was 83.71%."
-  },
-  {
-   "id": "pe-president-2016",
-   "office": "President",
-   "kind": "presidential",
-   "date": "2016-04-10",
-   "turnout": 80.09,
-   "source": {
-    "name": "Wikipedia, citing the National Office of Electoral Processes (ONPE)",
-    "url": "https://en.wikipedia.org/wiki/2016_Peruvian_general_election",
-    "revid": 1367371365
-   },
-   "candidates": [
-    {
-     "name": "Pedro Pablo Kuczynski",
-     "party": "ppk",
-     "votes": 8596937,
-     "pct": 50.12,
-     "winner": true
-    },
-    {
-     "name": "Keiko Fujimori",
-     "party": "fp",
-     "votes": 8555880,
-     "pct": 49.88
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "2016-04-10",
-     "candidates": [
-      {
-       "name": "Keiko Fujimori",
-       "party": "fp",
-       "votes": 6115073,
-       "pct": 39.86
-      },
-      {
-       "name": "Pedro Pablo Kuczynski",
-       "party": "ppk",
-       "votes": 3228661,
-       "pct": 21.05
-      },
-      {
-       "name": "Verónika Mendoza",
-       "party": "fa",
-       "votes": 2874940,
-       "pct": 18.74
-      },
-      {
-       "name": "Alfredo Barnechea",
-       "party": "ap",
-       "votes": 1069360,
-       "pct": 6.97
-      },
-      {
-       "name": "Alan García",
-       "party": "apop",
-       "votes": 894278,
-       "pct": 5.83
-      },
-      {
-       "name": "Gregorio Santos",
-       "party": "dd",
-       "votes": 613173,
-       "pct": 4
-      },
-      {
-       "name": "Fernando Olivera",
-       "party": "fesp",
-       "votes": 203103,
-       "pct": 1.32
-      },
-      {
-       "name": "Alejandro Toledo",
-       "party": "pp",
-       "votes": 200012,
-       "pct": 1.3
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 141543,
-       "pct": 0.92
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "2016-06-05",
-     "candidates": [
-      {
-       "name": "Pedro Pablo Kuczynski",
-       "party": "ppk",
-       "votes": 8596937,
-       "pct": 50.12,
-       "winner": true
-      },
-      {
-       "name": "Keiko Fujimori",
-       "party": "fp",
-       "votes": 8555880,
-       "pct": 49.88
-      }
-     ]
-    }
-   ],
-   "notes": "Turnout is for the run-off; the first round's was 81.8%."
-  },
-  {
-   "id": "pe-president-2021",
-   "office": "President",
-   "kind": "presidential",
-   "date": "2021-04-11",
-   "turnout": 74.57,
-   "source": {
-    "name": "Wikipedia, citing the National Office of Electoral Processes (ONPE)",
-    "url": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election",
-    "revid": 1376035771
-   },
-   "candidates": [
-    {
-     "name": "Pedro Castillo",
-     "party": "pl",
-     "votes": 8836380,
-     "pct": 50.13,
-     "winner": true
-    },
-    {
-     "name": "Keiko Fujimori",
-     "party": "fp",
-     "votes": 8792117,
-     "pct": 49.87
-    }
-   ],
-   "rounds": [
-    {
-     "label": "First round",
-     "date": "2021-04-11",
-     "candidates": [
-      {
-       "name": "Pedro Castillo",
-       "party": "pl",
-       "votes": 2724752,
-       "pct": 18.92
-      },
-      {
-       "name": "Keiko Fujimori",
-       "party": "fp",
-       "votes": 1930762,
-       "pct": 13.41
-      },
-      {
-       "name": "Rafael López Aliaga",
-       "party": "rp",
-       "votes": 1692279,
-       "pct": 11.75
-      },
-      {
-       "name": "Hernando de Soto",
-       "party": "avp",
-       "votes": 1674201,
-       "pct": 11.63
-      },
-      {
-       "name": "Yonhy Lescano",
-       "party": "ap",
-       "votes": 1306288,
-       "pct": 9.07
-      },
-      {
-       "name": "Verónika Mendoza",
-       "party": "jp",
-       "votes": 1132577,
-       "pct": 7.86
-      },
-      {
-       "name": "César Acuña",
-       "party": "app",
-       "votes": 867025,
-       "pct": 6.02
-      },
-      {
-       "name": "George Forsyth",
-       "party": "vn",
-       "votes": 814516,
-       "pct": 5.66
-      },
-      {
-       "name": "Daniel Urresti",
-       "party": "podemos",
-       "votes": 812721,
-       "pct": 5.64
-      },
-      {
-       "name": "Julio Guzmán",
-       "party": "morado",
-       "votes": 325608,
-       "pct": 2.26
-      },
-      {
-       "name": "Alberto Beingolea",
-       "party": "ppc",
-       "votes": 286447,
-       "pct": 1.99
-      },
-      {
-       "name": "Daniel Salaverry",
-       "party": "somos",
-       "votes": 240234,
-       "pct": 1.67
-      },
-      {
-       "name": "Ollanta Humala",
-       "party": "pnp",
-       "votes": 230831,
-       "pct": 1.6
-      },
-      {
-       "name": "Others",
-       "party": "oth",
-       "votes": 362389,
-       "pct": 2.52
-      }
-     ]
-    },
-    {
-     "label": "Run-off",
-     "date": "2021-06-06",
-     "candidates": [
-      {
-       "name": "Pedro Castillo",
-       "party": "pl",
-       "votes": 8836380,
-       "pct": 50.13,
-       "winner": true
-      },
-      {
-       "name": "Keiko Fujimori",
-       "party": "fp",
-       "votes": 8792117,
-       "pct": 49.87
-      }
-     ]
-    }
-   ],
-   "notes": "Shares are of valid votes; blank votes (2,190,059 in the first round, 121,489 in the run-off) and invalid votes are excluded. Pedro Castillo won the run-off by 44,263 votes and was proclaimed president-elect on 19 July 2021. Turnout is for the run-off; the first round's was 70.05%. Region winners are each department's run-off winner, from the article's second-round results-by-department table (24 of 26 map regions). The table has a single Lima row covering both Lima Metropolitan and Lima region, so those two get no winner; the Peruvians abroad row is left out.",
-   "regionWinners": {
-    "AMA": "pl",
-    "ANC": "pl",
-    "APU": "pl",
-    "ARE": "pl",
-    "AYA": "pl",
-    "CAJ": "pl",
-    "CAL": "fp",
-    "CUS": "pl",
-    "HUV": "pl",
-    "HUC": "pl",
-    "ICA": "fp",
-    "JUN": "pl",
-    "LAL": "fp",
-    "LAM": "fp",
-    "LOR": "fp",
-    "MDD": "pl",
-    "MOQ": "pl",
-    "PAS": "pl",
-    "PIU": "fp",
-    "PUN": "pl",
-    "SAM": "pl",
-    "TAC": "pl",
-    "TUM": "fp",
-    "UCA": "fp"
-   },
-   "regionSource": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election"
-  },
-  {
-   "id": "pe-senate-1950",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1950-07-02",
-   "note": "Men only",
-   "totalSeats": 47,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
-    "revid": 1360598465
-   },
-   "candidates": [
-    {
-     "name": "Odriist lists",
-     "party": "odl",
-     "votes": null,
-     "pct": null,
-     "seats": 38,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Independent lists",
-     "party": "ind",
-     "votes": null,
-     "pct": null,
-     "seats": 6,
-     "change": 5
-    },
-    {
-     "name": "Socialist lists",
-     "party": "psp",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": -3
-    },
-    {
-     "name": "Vacant",
-     "party": "vac",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    }
-   ],
-   "notes": "The table gives seats only, no votes. Lists supporting Odría won 38 of the 47 seats; 2 minority seats were left unfilled because only one list was registered in Ancash and Puno (Vacant). No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-senate-1956",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1956-06-17",
-   "totalSeats": 53,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1956_Peruvian_general_election",
-    "revid": 1360598498
-   },
-   "candidates": [
-    {
-     "name": "Pradist Democratic Movement",
-     "party": "mdp",
-     "votes": null,
-     "pct": null,
-     "seats": 24,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "National Unification",
-     "party": "unif",
-     "votes": null,
-     "pct": null,
-     "seats": 8,
-     "change": null
-    },
-    {
-     "name": "José Gálvez list",
-     "party": "lgalvez",
-     "votes": null,
-     "pct": null,
-     "seats": 6,
-     "change": null
-    },
-    {
-     "name": "Democratic Youth Front",
-     "party": "fdj",
-     "votes": null,
-     "pct": null,
-     "seats": 5,
-     "change": null
-    },
-    {
-     "name": "Augusto Guzmán list",
-     "party": "lguzman",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Rodrigo Alonso list",
-     "party": "lalonso",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Luis González list",
-     "party": "lgonzalez",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Christian Democrat Party",
-     "party": "pdc",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Wilson Sologuren list",
-     "party": "lsologuren",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Edgardo Portaro list",
-     "party": "lportaro",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    }
-   ],
-   "notes": "The table gives seats only, no votes. Several winning lists are named after their leading candidates. The first election in which women could vote. No change column. No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-senate-1962",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1962-06-10",
-   "note": "Annulled by a military coup",
-   "totalSeats": 55,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1962_Peruvian_general_election",
-    "revid": 1360598574
-   },
-   "candidates": [
-    {
-     "name": "Democratic Alliance (APRA–MDP)",
-     "party": "apra",
-     "votes": null,
-     "pct": null,
-     "seats": 25,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": null,
-     "pct": null,
-     "seats": 16,
-     "change": null
-    },
-    {
-     "name": "Odriist National Union",
-     "party": "uno",
-     "votes": null,
-     "pct": null,
-     "seats": 11,
-     "change": null
-    },
-    {
-     "name": "Alcides Spelucín list",
-     "party": "lspelucin",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Cuzqueñista Union",
-     "party": "ucuz",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "National Liberation Front",
-     "party": "fln",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    }
-   ],
-   "notes": "The results were annulled after the military coup of 18 July 1962. The table gives seats only, no votes. The Democratic Alliance of APRA and the Pradist Democratic Movement is filed under APRA. No change column. The seat total (55) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-senate-1963",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1963-06-09",
-   "totalSeats": 45,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1963_Peruvian_general_election",
-    "revid": 1358624679
-   },
-   "candidates": [
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": null,
-     "pct": null,
-     "seats": 18,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": null,
-     "pct": null,
-     "seats": 15,
-     "change": null
-    },
-    {
-     "name": "Odriist National Union",
-     "party": "uno",
-     "votes": null,
-     "pct": null,
-     "seats": 7,
-     "change": null
-    },
-    {
-     "name": "Christian Democrat Party",
-     "party": "pdc",
-     "votes": null,
-     "pct": null,
-     "seats": 5,
-     "change": null
-    }
-   ],
-   "notes": "The table gives seats only, no votes. No change column. The seat total (45) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-senate-1980",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1980-05-18",
-   "totalSeats": 60,
-   "turnout": 81.76,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1980_Peruvian_general_election",
-    "revid": 1360598809
-   },
-   "candidates": [
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 1694952,
-     "pct": 40.92,
-     "seats": 26,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 1144203,
-     "pct": 27.62,
-     "seats": 18,
-     "change": null
-    },
-    {
-     "name": "Christian People's Party",
-     "party": "ppc",
-     "votes": 385674,
-     "pct": 9.31,
-     "seats": 6,
-     "change": null
-    },
-    {
-     "name": "Revolutionary Left Union",
-     "party": "unir",
-     "votes": 189080,
-     "pct": 4.56,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Workers' Revolutionary Party",
-     "party": "prt",
-     "votes": 165191,
-     "pct": 3.99,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 146085,
-     "pct": 3.53,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Popular Democratic Unity",
-     "party": "udp",
-     "votes": 145155,
-     "pct": 3.5,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "National Front of Workers and Peasants",
-     "party": "frenatraca",
-     "votes": 92892,
-     "pct": 2.24,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Worker Peasant Student and Popular Front",
-     "party": "focep",
-     "votes": 69412,
-     "pct": 1.68,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 109559,
-     "pct": 2.64,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "The first general election since the 1968 military coup. No change column."
-  },
-  {
-   "id": "pe-senate-1985",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1985-04-14",
-   "totalSeats": 61,
-   "turnout": 87.01,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1985_Peruvian_general_election",
-    "revid": 1360540108
-   },
-   "candidates": [
-    {
-     "name": "APRA–DC–SODE",
-     "party": "apra",
-     "votes": 3099795,
-     "pct": 51.28,
-     "seats": 32,
-     "change": 14,
-     "winner": true
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 1521461,
-     "pct": 25.17,
-     "seats": 15,
-     "change": 6
-    },
-    {
-     "name": "Democratic Convergence",
-     "party": "ppc",
-     "votes": 675621,
-     "pct": 11.18,
-     "seats": 7,
-     "change": 1
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 492056,
-     "pct": 8.14,
-     "seats": 5,
-     "change": -21
-    },
-    {
-     "name": "National Left",
-     "party": "frenatraca",
-     "votes": 103874,
-     "pct": 1.72,
-     "seats": 1,
-     "change": 0
-    },
-    {
-     "name": "Former presidents",
-     "party": "life",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 151831,
-     "pct": 2.51,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "The APRA–Christian Democrat–Solidarity and Democracy list is filed under APRA; within it APRA won 30 seats and its two partners one each. Former President Fernando Belaúnde sat as a senator for life (the table's \"Former presidents\" row). Democratic Convergence links to the Christian People's Party (key ppc) and the National Left to the National Front of Workers and Peasants (key frenatraca). The seat total (61) is the sum of the table's rows."
-  },
-  {
-   "id": "pe-senate-1990",
-   "office": "Senate",
-   "kind": "legislative",
-   "date": "1990-04-08",
-   "totalSeats": 62,
-   "turnout": 68.59,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
-    "revid": 1360097728
-   },
-   "candidates": [
-    {
-     "name": "Democratic Front",
-     "party": "fredemo",
-     "votes": 1772953,
-     "pct": 32.06,
-     "seats": 20,
-     "change": 7,
-     "winner": true
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 1387931,
-     "pct": 25.09,
-     "seats": 16,
-     "change": -14
-    },
-    {
-     "name": "Cambio 90",
-     "party": "c90",
-     "votes": 1200459,
-     "pct": 21.7,
-     "seats": 14,
-     "change": null
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 540620,
-     "pct": 9.77,
-     "seats": 6,
-     "change": -9
-    },
-    {
-     "name": "Socialist Left",
-     "party": "is",
-     "votes": 302110,
-     "pct": 5.46,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "Former presidents",
-     "party": "life",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": 1
-    },
-    {
-     "name": "National Front of Workers and Peasants",
-     "party": "frenatraca",
-     "votes": 112142,
-     "pct": 2.03,
-     "seats": 1,
-     "change": 0
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 63694,
-     "pct": 1.15,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 150991,
-     "pct": 2.73,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "The table's \"Former presidents\" row (2 seats) is kept as its own row. The last Senate before the 1992 self-coup; the 1993 constitution abolished it."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1950",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1950-07-02",
-   "note": "Men only",
-   "totalSeats": 156,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
-    "revid": 1360598465
-   },
-   "candidates": [
-    {
-     "name": "Odriist lists",
-     "party": "odl",
-     "votes": null,
-     "pct": null,
-     "seats": 139,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Independent lists",
-     "party": "ind",
-     "votes": null,
-     "pct": null,
-     "seats": 12,
-     "change": 6
-    },
-    {
-     "name": "Socialist lists",
-     "party": "psp",
-     "votes": null,
-     "pct": null,
-     "seats": 3,
-     "change": 0
-    },
-    {
-     "name": "Vacant",
-     "party": "vac",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    }
-   ],
-   "notes": "The table gives seats only, no votes. Lists supporting Odría won 139 of the 156 seats; 2 minority seats were left unfilled because only one list was registered in Ancash and Puno (Vacant). No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1956",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1956-06-17",
-   "totalSeats": 182,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1956_Peruvian_general_election",
-    "revid": 1360598498
-   },
-   "candidates": [
-    {
-     "name": "Pradist Democratic Movement",
-     "party": "mdp",
-     "votes": null,
-     "pct": null,
-     "seats": 64,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "National Unification",
-     "party": "unif",
-     "votes": null,
-     "pct": null,
-     "seats": 41,
-     "change": null
-    },
-    {
-     "name": "Democratic Youth Front",
-     "party": "fdj",
-     "votes": null,
-     "pct": null,
-     "seats": 21,
-     "change": null
-    },
-    {
-     "name": "José Gálvez list",
-     "party": "lgalvez",
-     "votes": null,
-     "pct": null,
-     "seats": 15,
-     "change": null
-    },
-    {
-     "name": "Augusto Guzmán list",
-     "party": "lguzman",
-     "votes": null,
-     "pct": null,
-     "seats": 12,
-     "change": null
-    },
-    {
-     "name": "Rodrigo Alonso list",
-     "party": "lalonso",
-     "votes": null,
-     "pct": null,
-     "seats": 8,
-     "change": null
-    },
-    {
-     "name": "Luis González list",
-     "party": "lgonzalez",
-     "votes": null,
-     "pct": null,
-     "seats": 8,
-     "change": null
-    },
-    {
-     "name": "Christian Democrat Party",
-     "party": "pdc",
-     "votes": null,
-     "pct": null,
-     "seats": 5,
-     "change": null
-    },
-    {
-     "name": "Wilson Sologuren list",
-     "party": "lsologuren",
-     "votes": null,
-     "pct": null,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "Edgardo Portaro list",
-     "party": "lportaro",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Cuzqueña Democratic Alliance",
-     "party": "adcuz",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Ayacuchano Electoral Front",
-     "party": "feayac",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Juan Lozno list",
-     "party": "llozno",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Independent Civic Union",
-     "party": "uci",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    }
-   ],
-   "notes": "The table gives seats only, no votes. Several winning lists are named after their leading candidates. The first election in which women could vote. No change column. The seat total (182) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1962",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1962-06-10",
-   "note": "Annulled by a military coup",
-   "totalSeats": 186,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1962_Peruvian_general_election",
-    "revid": 1360598574
-   },
-   "candidates": [
-    {
-     "name": "Democratic Alliance (APRA–MDP)",
-     "party": "apra",
-     "votes": null,
-     "pct": null,
-     "seats": 85,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": null,
-     "pct": null,
-     "seats": 61,
-     "change": null
-    },
-    {
-     "name": "Odriist National Union",
-     "party": "uno",
-     "votes": null,
-     "pct": null,
-     "seats": 33,
-     "change": null
-    },
-    {
-     "name": "Christian Democrat Party",
-     "party": "pdc",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Alcides Spelucín list",
-     "party": "lspelucin",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Cuzqueñista Union",
-     "party": "ucuz",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Huancavelicana Coalition",
-     "party": "chuanc",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Moqueguano Independent Movement",
-     "party": "mimoq",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Puneñista Parliamentary Union",
-     "party": "upp62",
-     "votes": null,
-     "pct": null,
-     "seats": 1,
-     "change": null
-    }
-   ],
-   "notes": "The results were annulled after the military coup of 18 July 1962. The table gives seats only, no votes. The Democratic Alliance of APRA and the Pradist Democratic Movement is filed under APRA. No change column. The seat total (186) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1963",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1963-06-09",
-   "totalSeats": 139,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1963_Peruvian_general_election",
-    "revid": 1358624679
-   },
-   "candidates": [
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": null,
-     "pct": null,
-     "seats": 56,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": null,
-     "pct": null,
-     "seats": 39,
-     "change": null
-    },
-    {
-     "name": "Odriist National Union",
-     "party": "uno",
-     "votes": null,
-     "pct": null,
-     "seats": 26,
-     "change": null
-    },
-    {
-     "name": "Christian Democrat Party",
-     "party": "pdc",
-     "votes": null,
-     "pct": null,
-     "seats": 10,
-     "change": null
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": null,
-     "pct": null,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "Independents",
-     "party": "ind",
-     "votes": null,
-     "pct": null,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "Peruvian Democratic Movement",
-     "party": "mdp",
-     "votes": null,
-     "pct": null,
-     "seats": 2,
-     "change": null
-    }
-   ],
-   "notes": "The table gives seats only, no votes. The Peruvian Democratic Movement row links to the Pradist Democratic Movement (key mdp). No change column. The seat total (139) is the sum of the table's rows. No turnout: the table gives no registered voters or invalid votes."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1980",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1980-05-18",
-   "totalSeats": 180,
-   "turnout": 71.1,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1980_Peruvian_general_election",
-    "revid": 1360598809
-   },
-   "candidates": [
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 1413233,
-     "pct": 38.92,
-     "seats": 98,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 962801,
-     "pct": 26.51,
-     "seats": 58,
-     "change": null
-    },
-    {
-     "name": "Christian People's Party",
-     "party": "ppc",
-     "votes": 348578,
-     "pct": 9.6,
-     "seats": 10,
-     "change": null
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 124751,
-     "pct": 3.44,
-     "seats": 10,
-     "change": null
-    },
-    {
-     "name": "National Front of Workers and Peasants",
-     "party": "frenatraca",
-     "votes": 93416,
-     "pct": 2.57,
-     "seats": 4,
-     "change": null
-    },
-    {
-     "name": "Revolutionary Left Union",
-     "party": "unir",
-     "votes": 172430,
-     "pct": 4.75,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Popular Democratic Unity",
-     "party": "udp",
-     "votes": 156415,
-     "pct": 4.31,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Workers' Revolutionary Party",
-     "party": "prt",
-     "votes": 151447,
-     "pct": 4.17,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Worker Peasant Student and Popular Front",
-     "party": "focep",
-     "votes": 61248,
-     "pct": 1.69,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 147020,
-     "pct": 4.05,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "The first general election since the 1968 military coup. No change column. The seat total (180) is the sum of the table's rows."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1985",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1985-04-14",
-   "totalSeats": 180,
-   "turnout": 79.79,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/1985_Peruvian_general_election",
-    "revid": 1360540108
-   },
-   "candidates": [
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 2920605,
-     "pct": 50.09,
-     "seats": 107,
-     "change": 49,
-     "winner": true
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 1424981,
-     "pct": 24.44,
-     "seats": 48,
-     "change": 38
-    },
-    {
-     "name": "Democratic Convergence",
-     "party": "ppc",
-     "votes": 649404,
-     "pct": 11.14,
-     "seats": 12,
-     "change": 10
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 491581,
-     "pct": 8.43,
-     "seats": 10,
-     "change": -88
-    },
-    {
-     "name": "Independents",
-     "party": "ind",
-     "votes": 99192,
-     "pct": 1.7,
-     "seats": 2,
-     "change": 2
-    },
-    {
-     "name": "National Left",
-     "party": "frenatraca",
-     "votes": 110695,
-     "pct": 1.9,
-     "seats": 1,
-     "change": -3
-    },
-    {
-     "name": "Democratic Front of National Unity",
-     "party": "fdun",
-     "votes": 59455,
-     "pct": 1.02,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 74797,
-     "pct": 1.28,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "Democratic Convergence links to the Christian People's Party (key ppc) and the National Left to the National Front of Workers and Peasants (key frenatraca). The seat total (180) is the sum of the table's rows."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1990",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1990-04-08",
-   "totalSeats": 180,
-   "source": {
-    "name": "Wikipedia, citing the Constituency-Level Elections Archive (CLEA)",
-    "url": "https://en.wikipedia.org/wiki/1990_Peruvian_general_election",
-    "revid": 1360097728
-   },
-   "candidates": [
-    {
-     "name": "Democratic Front",
-     "party": "fredemo",
-     "votes": 1561291,
-     "pct": 30.03,
-     "seats": 62,
-     "change": 40,
-     "winner": true
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 1288461,
-     "pct": 24.78,
-     "seats": 53,
-     "change": -54
-    },
-    {
-     "name": "Cambio 90",
-     "party": "c90",
-     "votes": 879949,
-     "pct": 16.93,
-     "seats": 32,
-     "change": null
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 510557,
-     "pct": 9.82,
-     "seats": 16,
-     "change": -32
-    },
-    {
-     "name": "Independent Moralizing Front",
-     "party": "fim",
-     "votes": 309263,
-     "pct": 5.95,
-     "seats": 7,
-     "change": null
-    },
-    {
-     "name": "Socialist Left",
-     "party": "is",
-     "votes": 272591,
-     "pct": 5.24,
-     "seats": 4,
-     "change": null
-    },
-    {
-     "name": "National Front of Workers and Peasants",
-     "party": "frenatraca",
-     "votes": 126067,
-     "pct": 2.42,
-     "seats": 3,
-     "change": 2
-    },
-    {
-     "name": "Loreto Regionalist Movement",
-     "party": "mrloreto",
-     "votes": 24854,
-     "pct": 0.48,
-     "seats": 1,
-     "change": 1
-    },
-    {
-     "name": "Tacneñista Front",
-     "party": "ftacna",
-     "votes": 17642,
-     "pct": 0.34,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Popular Agreement Independent List",
-     "party": "lipa",
-     "votes": 14547,
-     "pct": 0.28,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 63450,
-     "pct": 1.22,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 130431,
-     "pct": 2.51,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "The table gives no invalid votes or registered voters, so there is no turnout."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1992",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1992-11-22",
-   "note": "Unicameral Congress",
-   "totalSeats": 80,
-   "turnout": 72.24,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE) and the Political Database of the Americas",
-    "url": "https://en.wikipedia.org/wiki/1992_Peruvian_Democratic_Constituent_Congress_election",
-    "revid": 1367209021
-   },
-   "candidates": [
-    {
-     "name": "Cambio 90 – New Majority",
-     "party": "c90nm",
-     "votes": 3075422,
-     "pct": 49.3,
-     "seats": 44,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Christian People's Party",
-     "party": "ppc",
-     "votes": 606651,
-     "pct": 9.73,
-     "seats": 8,
-     "change": null
-    },
-    {
-     "name": "Independent Moralizing Front",
-     "party": "fim",
-     "votes": 486984,
-     "pct": 7.81,
-     "seats": 7,
-     "change": null
-    },
-    {
-     "name": "Renewal Movement",
-     "party": "rn",
-     "votes": 440314,
-     "pct": 7.06,
-     "seats": 6,
-     "change": null
-    },
-    {
-     "name": "Democratic Left Movement",
-     "party": "mdi",
-     "votes": 341646,
-     "pct": 5.48,
-     "seats": 4,
-     "change": null
-    },
-    {
-     "name": "Democratic Coordinator",
-     "party": "cdem",
-     "votes": 328153,
-     "pct": 5.26,
-     "seats": 4,
-     "change": null
-    },
-    {
-     "name": "National Front of Workers and Peasants",
-     "party": "frenatraca",
-     "votes": 237977,
-     "pct": 3.82,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 172923,
-     "pct": 2.77,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Solidarity and Democracy",
-     "party": "sode",
-     "votes": 126822,
-     "pct": 2.03,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Independent Agrarian Movement",
-     "party": "mia",
-     "votes": 107543,
-     "pct": 1.72,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 313247,
-     "pct": 5.02,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "Election of the 80-member Democratic Constituent Congress after Alberto Fujimori's self-coup of 5 April 1992; it drafted the 1993 constitution, which made Congress unicameral. APRA boycotted the election. The Renewal Movement links to National Renewal (key rn). No change column."
-  },
-  {
-   "id": "pe-chamber-of-deputies-1995",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "1995-04-09",
-   "note": "Unicameral Congress",
-   "totalSeats": 120,
-   "turnout": 67.02,
-   "source": {
-    "name": "Wikipedia, citing the Political Database of the Americas and the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/1995_Peruvian_general_election",
-    "revid": 1361080495
-   },
-   "candidates": [
-    {
-     "name": "Cambio 90 – New Majority",
-     "party": "c90nm",
-     "votes": 2277423,
-     "pct": 52.1,
-     "seats": 67,
-     "change": 35,
-     "winner": true
-    },
-    {
-     "name": "Union for Peru",
-     "party": "upp",
-     "votes": 611804,
-     "pct": 14,
-     "seats": 17,
-     "change": null
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 285526,
-     "pct": 6.53,
-     "seats": 8,
-     "change": -45
-    },
-    {
-     "name": "Independent Moralizing Front",
-     "party": "fim",
-     "votes": 213777,
-     "pct": 4.89,
-     "seats": 6,
-     "change": -1
-    },
-    {
-     "name": "Possible Country",
-     "party": "pp",
-     "votes": 181397,
-     "pct": 4.15,
-     "seats": 5,
-     "change": null
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 146018,
-     "pct": 3.34,
-     "seats": 4,
-     "change": -22
-    },
-    {
-     "name": "Christian People's Party",
-     "party": "ppc",
-     "votes": 135236,
-     "pct": 3.09,
-     "seats": 3,
-     "change": -22
-    },
-    {
-     "name": "Renewal Movement",
-     "party": "rn",
-     "votes": 130060,
-     "pct": 2.98,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "National Civic Movement OBRAS",
-     "party": "obras",
-     "votes": 87252,
-     "pct": 2,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "United Left",
-     "party": "iu",
-     "votes": 82061,
-     "pct": 1.88,
-     "seats": 2,
-     "change": -14
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 46990,
-     "pct": 1.08,
-     "seats": 1,
-     "change": 1
-    },
-    {
-     "name": "National Front of Workers and Peasants",
-     "party": "frenatraca",
-     "votes": 46728,
-     "pct": 1.07,
-     "seats": 1,
-     "change": -2
-    },
-    {
-     "name": "Independent Agrarian Movement",
-     "party": "mia",
-     "votes": 34463,
-     "pct": 0.79,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 92302,
-     "pct": 2.11,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "The first election to the 120-seat unicameral Congress under the 1993 constitution."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2000",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2000-04-09",
-   "note": "Unicameral Congress",
-   "totalSeats": 120,
-   "turnout": 81.98,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/2000_Peruvian_general_election",
-    "revid": 1368133564
-   },
-   "candidates": [
-    {
-     "name": "Peru 2000",
-     "party": "peru2000",
-     "votes": 4189018,
-     "pct": 42.16,
-     "seats": 52,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Possible Peru",
-     "party": "pp",
-     "votes": 2308635,
-     "pct": 23.24,
-     "seats": 29,
-     "change": 24
-    },
-    {
-     "name": "Independent Moralizing Front",
-     "party": "fim",
-     "votes": 751323,
-     "pct": 7.56,
-     "seats": 9,
-     "change": 3
-    },
-    {
-     "name": "We Are Peru",
-     "party": "somos",
-     "votes": 715396,
-     "pct": 7.2,
-     "seats": 9,
-     "change": null
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 546930,
-     "pct": 5.51,
-     "seats": 6,
-     "change": -2
-    },
-    {
-     "name": "National Solidarity",
-     "party": "sn",
-     "votes": 399985,
-     "pct": 4.03,
-     "seats": 4,
-     "change": null
-    },
-    {
-     "name": "Avancemos",
-     "party": "avancemos",
-     "votes": 307188,
-     "pct": 3.09,
-     "seats": 3,
-     "change": null
-    },
-    {
-     "name": "Union for Peru",
-     "party": "upp",
-     "votes": 254582,
-     "pct": 2.56,
-     "seats": 3,
-     "change": -14
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 245115,
-     "pct": 2.47,
-     "seats": 3,
-     "change": 0
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 216953,
-     "pct": 2.18,
-     "seats": 2,
-     "change": 1
-    }
-   ],
-   "notes": "The article describes the 2000 elections as highly controversial and widely considered fraudulent. Early elections followed in April 2001."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2001",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2001-04-08",
-   "note": "Unicameral Congress",
-   "totalSeats": 120,
-   "turnout": 80.46,
-   "source": {
-    "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
-    "url": "https://en.wikipedia.org/wiki/2001_Peruvian_general_election",
-    "revid": 1367676240
-   },
-   "candidates": [
-    {
-     "name": "Possible Peru",
-     "party": "pp",
-     "votes": 2477624,
-     "pct": 26.3,
-     "seats": 45,
-     "change": 16,
-     "winner": true
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 1857416,
-     "pct": 19.71,
-     "seats": 28,
-     "change": 22
-    },
-    {
-     "name": "National Unity",
-     "party": "un",
-     "votes": 1304037,
-     "pct": 13.84,
-     "seats": 17,
-     "change": null
-    },
-    {
-     "name": "Independent Moralizing Front",
-     "party": "fim",
-     "votes": 1034672,
-     "pct": 10.98,
-     "seats": 11,
-     "change": 2
-    },
-    {
-     "name": "Union for Peru",
-     "party": "upp",
-     "votes": 390236,
-     "pct": 4.14,
-     "seats": 6,
-     "change": 3
-    },
-    {
-     "name": "We Are Peru",
-     "party": "somos",
-     "votes": 544193,
-     "pct": 5.78,
-     "seats": 4,
-     "change": -5
-    },
-    {
-     "name": "Cambio 90 – New Majority",
-     "party": "c90nm",
-     "votes": 452696,
-     "pct": 4.8,
-     "seats": 3,
-     "change": -49
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 393433,
-     "pct": 4.18,
-     "seats": 3,
-     "change": 0
-    },
-    {
-     "name": "People's Solution",
-     "party": "solpop",
-     "votes": 336680,
-     "pct": 3.57,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "All for Victory",
-     "party": "tpv",
-     "votes": 191179,
-     "pct": 2.03,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Andean Renaissance",
-     "party": "renac",
-     "votes": 127707,
-     "pct": 1.36,
-     "seats": 1,
-     "change": null
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 156264,
-     "pct": 1.66,
-     "seats": 0,
-     "change": -2
-    },
-    {
-     "name": "Project Country",
-     "party": "pais",
-     "votes": 155572,
-     "pct": 1.65,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "Andean Renaissance links to National United Renaissance (key renac)."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2006",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2006-04-09",
-   "note": "Unicameral Congress",
-   "totalSeats": 120,
-   "turnout": 88.66,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/2006_Peruvian_general_election",
-    "revid": 1378521440
-   },
-   "candidates": [
-    {
-     "name": "Union for Peru",
-     "party": "upp",
-     "votes": 2274797,
-     "pct": 21.15,
-     "seats": 45,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 2213623,
-     "pct": 20.59,
-     "seats": 36,
-     "change": null
-    },
-    {
-     "name": "National Unity",
-     "party": "un",
-     "votes": 1648717,
-     "pct": 15.33,
-     "seats": 17,
-     "change": null
-    },
-    {
-     "name": "Alliance for the Future",
-     "party": "af",
-     "votes": 1408069,
-     "pct": 13.09,
-     "seats": 13,
-     "change": null
-    },
-    {
-     "name": "Center Front",
-     "party": "fc",
-     "votes": 760261,
-     "pct": 7.07,
-     "seats": 5,
-     "change": null
-    },
-    {
-     "name": "Possible Peru",
-     "party": "pp",
-     "votes": 441462,
-     "pct": 4.11,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "National Restoration",
-     "party": "rnac",
-     "votes": 432209,
-     "pct": 4.02,
-     "seats": 2,
-     "change": null
-    },
-    {
-     "name": "Alliance for Progress",
-     "party": "app",
-     "votes": 248400,
-     "pct": 2.31,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Independent Moralizing Front",
-     "party": "fim",
-     "votes": 156433,
-     "pct": 1.45,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Democratic Force",
-     "party": "fdem",
-     "votes": 153437,
-     "pct": 1.43,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "National Justice",
-     "party": "jn",
-     "votes": 151167,
-     "pct": 1.41,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Socialist Party",
-     "party": "ps",
-     "votes": 134166,
-     "pct": 1.25,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "New Left Movement",
-     "party": "mni",
-     "votes": 133106,
-     "pct": 1.24,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Go on Country",
-     "party": "avp2000",
-     "votes": 122654,
-     "pct": 1.14,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 474822,
-     "pct": 4.42,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "No change column."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2011",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2011-04-10",
-   "note": "Unicameral Congress",
-   "totalSeats": 130,
-   "turnout": 83.72,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/2011_Peruvian_general_election",
-    "revid": 1367315885
-   },
-   "candidates": [
-    {
-     "name": "Peru Wins",
-     "party": "gp",
-     "votes": 3245003,
-     "pct": 25.27,
-     "seats": 47,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Force 2011",
-     "party": "fp",
-     "votes": 2948781,
-     "pct": 22.97,
-     "seats": 37,
-     "change": null
-    },
-    {
-     "name": "Possible Peru Alliance",
-     "party": "ppa",
-     "votes": 1904180,
-     "pct": 14.83,
-     "seats": 21,
-     "change": null
-    },
-    {
-     "name": "Alliance for the Great Change",
-     "party": "agc",
-     "votes": 1851080,
-     "pct": 14.42,
-     "seats": 12,
-     "change": null
-    },
-    {
-     "name": "National Solidarity Alliance",
-     "party": "sna",
-     "votes": 1311766,
-     "pct": 10.22,
-     "seats": 9,
-     "change": null
-    },
-    {
-     "name": "American Popular Revolutionary Alliance",
-     "party": "apra",
-     "votes": 825030,
-     "pct": 6.43,
-     "seats": 4,
-     "change": null
-    },
-    {
-     "name": "Radical Change",
-     "party": "crp",
-     "votes": 347475,
-     "pct": 2.71,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Fonavistas of Peru",
-     "party": "dd",
-     "votes": 170052,
-     "pct": 1.32,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 235777,
-     "pct": 1.84,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "Popular Force ran as Force 2011. Fonavistas of Peru links to Direct Democracy (key dd). No change column."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2016",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2016-04-10",
-   "note": "Unicameral Congress",
-   "totalSeats": 130,
-   "turnout": 81.88,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/2016_Peruvian_general_election",
-    "revid": 1367371365
-   },
-   "candidates": [
-    {
-     "name": "Popular Force",
-     "party": "fp",
-     "votes": 4431077,
-     "pct": 36.34,
-     "seats": 73,
-     "change": null,
-     "winner": true
-    },
-    {
-     "name": "Broad Front",
-     "party": "fa",
-     "votes": 1700052,
-     "pct": 13.94,
-     "seats": 20,
-     "change": null
-    },
-    {
-     "name": "Peruvians for Change",
-     "party": "ppk",
-     "votes": 2007710,
-     "pct": 16.46,
-     "seats": 18,
-     "change": null
-    },
-    {
-     "name": "Alliance for the Progress of Peru",
-     "party": "app16",
-     "votes": 1125682,
-     "pct": 9.23,
-     "seats": 9,
-     "change": null
-    },
-    {
-     "name": "Popular Alliance",
-     "party": "apop",
-     "votes": 1013735,
-     "pct": 8.31,
-     "seats": 5,
-     "change": null
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 877734,
-     "pct": 7.2,
-     "seats": 5,
-     "change": null
-    },
-    {
-     "name": "Direct Democracy",
-     "party": "dd",
-     "votes": 528301,
-     "pct": 4.33,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Possible Peru",
-     "party": "pp",
-     "votes": 286980,
-     "pct": 2.35,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Hope Front",
-     "party": "fesp",
-     "votes": 139634,
-     "pct": 1.15,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 83137,
-     "pct": 0.68,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "No change column."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2020",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2020-01-26",
-   "note": "Unicameral Congress",
-   "totalSeats": 130,
-   "turnout": 74.07,
-   "source": {
-    "name": "Wikipedia, citing the National Jury of Elections (JNE)",
-    "url": "https://en.wikipedia.org/wiki/2020_Peruvian_parliamentary_election",
-    "revid": 1374788344
-   },
-   "candidates": [
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 1518171,
-     "pct": 10.26,
-     "seats": 25,
-     "change": 20,
-     "winner": true
-    },
-    {
-     "name": "Alliance for Progress",
-     "party": "app",
-     "votes": 1178020,
-     "pct": 7.96,
-     "seats": 22,
-     "change": null
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 1240084,
-     "pct": 8.38,
-     "seats": 15,
-     "change": null
-    },
-    {
-     "name": "Popular Force",
-     "party": "fp",
-     "votes": 1081174,
-     "pct": 7.31,
-     "seats": 15,
-     "change": -58
-    },
-    {
-     "name": "Union for Peru",
-     "party": "upp",
-     "votes": 1001716,
-     "pct": 6.77,
-     "seats": 13,
-     "change": null
-    },
-    {
-     "name": "Podemos Perú",
-     "party": "podemos",
-     "votes": 1240716,
-     "pct": 8.38,
-     "seats": 11,
-     "change": null
-    },
-    {
-     "name": "We Are Peru",
-     "party": "somos",
-     "votes": 895700,
-     "pct": 6.05,
-     "seats": 11,
-     "change": null
-    },
-    {
-     "name": "Purple Party",
-     "party": "morado",
-     "votes": 1095491,
-     "pct": 7.4,
-     "seats": 9,
-     "change": null
-    },
-    {
-     "name": "Broad Front",
-     "party": "fa",
-     "votes": 911701,
-     "pct": 6.16,
-     "seats": 9,
-     "change": -11
-    },
-    {
-     "name": "Together for Peru",
-     "party": "jp",
-     "votes": 710462,
-     "pct": 4.8,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Christian People's Party",
-     "party": "ppc",
-     "votes": 590378,
-     "pct": 3.99,
-     "seats": 0,
-     "change": 0
-    },
-    {
-     "name": "Direct Democracy",
-     "party": "dd",
-     "votes": 543956,
-     "pct": 3.68,
-     "seats": 0,
-     "change": 0
-    },
-    {
-     "name": "Free Peru",
-     "party": "pl",
-     "votes": 502898,
-     "pct": 3.4,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Peruvian Aprista Party",
-     "party": "apra",
-     "votes": 402330,
-     "pct": 2.72,
-     "seats": 0,
-     "change": -5
-    },
-    {
-     "name": "Avanza País",
-     "party": "avp",
-     "votes": 373113,
-     "pct": 2.52,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Peru Secure Homeland",
-     "party": "pps",
-     "votes": 350121,
-     "pct": 2.37,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Let's Go Peru",
-     "party": "vamos",
-     "votes": 311413,
-     "pct": 2.1,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "National United Renaissance",
-     "party": "renac",
-     "votes": 265564,
-     "pct": 1.79,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "National Solidarity",
-     "party": "sn",
-     "votes": 221123,
-     "pct": 1.49,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Peru Nation",
-     "party": "paccion",
-     "votes": 206128,
-     "pct": 1.39,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Contigo",
-     "party": "contigo",
-     "votes": 158120,
-     "pct": 1.07,
-     "seats": 0,
-     "change": null
-    }
-   ],
-   "notes": "Snap election after President Martín Vizcarra dissolved Congress on 30 September 2019. Peru Nation links to Peru Action (key paccion)."
-  },
-  {
-   "id": "pe-chamber-of-deputies-2021",
-   "office": "Chamber of Deputies",
-   "kind": "legislative",
-   "date": "2021-04-11",
-   "note": "Unicameral Congress",
-   "totalSeats": 130,
-   "turnout": 70.09,
-   "source": {
-    "name": "Wikipedia, citing the National Office of Electoral Processes (ONPE)",
-    "url": "https://en.wikipedia.org/wiki/2021_Peruvian_general_election",
-    "revid": 1376035771
-   },
-   "candidates": [
-    {
-     "name": "Free Peru",
-     "party": "pl",
-     "votes": 1724354,
-     "pct": 13.41,
-     "seats": 37,
-     "change": 37,
-     "winner": true
-    },
-    {
-     "name": "Popular Force",
-     "party": "fp",
-     "votes": 1457694,
-     "pct": 11.34,
-     "seats": 24,
-     "change": 9
-    },
-    {
-     "name": "Popular Action",
-     "party": "ap",
-     "votes": 1159734,
-     "pct": 9.02,
-     "seats": 16,
-     "change": -9
-    },
-    {
-     "name": "Alliance for Progress",
-     "party": "app",
-     "votes": 969726,
-     "pct": 7.54,
-     "seats": 15,
-     "change": -7
-    },
-    {
-     "name": "Popular Renewal",
-     "party": "rp",
-     "votes": 1199705,
-     "pct": 9.33,
-     "seats": 13,
-     "change": 13
-    },
-    {
-     "name": "Avanza País",
-     "party": "avp",
-     "votes": 969092,
-     "pct": 7.54,
-     "seats": 7,
-     "change": 7
-    },
-    {
-     "name": "Together for Peru",
-     "party": "jp",
-     "votes": 847596,
-     "pct": 6.59,
-     "seats": 5,
-     "change": 5
-    },
-    {
-     "name": "We Are Peru",
-     "party": "somos",
-     "votes": 788522,
-     "pct": 6.13,
-     "seats": 5,
-     "change": -6
-    },
-    {
-     "name": "Podemos Perú",
-     "party": "podemos",
-     "votes": 750262,
-     "pct": 5.83,
-     "seats": 5,
-     "change": -6
-    },
-    {
-     "name": "Purple Party",
-     "party": "morado",
-     "votes": 697307,
-     "pct": 5.42,
-     "seats": 3,
-     "change": -6
-    },
-    {
-     "name": "National Victory",
-     "party": "vn",
-     "votes": 638289,
-     "pct": 4.96,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Agricultural People's Front of Peru",
-     "party": "frepap",
-     "votes": 589018,
-     "pct": 4.58,
-     "seats": 0,
-     "change": -15
-    },
-    {
-     "name": "Union for Peru",
-     "party": "upp",
-     "votes": 266349,
-     "pct": 2.07,
-     "seats": 0,
-     "change": -13
-    },
-    {
-     "name": "Christian People's Party",
-     "party": "ppc",
-     "votes": 212820,
-     "pct": 1.65,
-     "seats": 0,
-     "change": 0
-    },
-    {
-     "name": "Peruvian Nationalist Party",
-     "party": "pnp",
-     "votes": 195538,
-     "pct": 1.52,
-     "seats": 0,
-     "change": null
-    },
-    {
-     "name": "Broad Front",
-     "party": "fa",
-     "votes": 135104,
-     "pct": 1.05,
-     "seats": 0,
-     "change": -9
-    },
-    {
-     "name": "Others",
-     "party": "oth",
-     "votes": 258219,
-     "pct": 2.01,
-     "seats": 0,
-     "change": 0
-    }
-   ],
-   "notes": "Shares are of valid votes; 2,126,712 blank and 2,737,099 invalid votes are excluded."
-  }
- ]
+  ]
 }

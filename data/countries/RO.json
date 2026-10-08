@@ -1,0 +1,1143 @@
+{
+  "code": "RO",
+  "name": "Romania",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary semi-presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Parliament: Chamber of Deputies (331) and Senate (136)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 17988218,
+    "offices": {
+      "President": "Elected for five years in two rounds: a candidate who wins more than half of the registered voters is elected in the first round, otherwise the top two meet in a run-off two weeks later. The president represents the state, nominates the prime minister and leads defence and foreign policy.",
+      "Chamber of Deputies": "The deputies are elected for four years by party-list proportional representation in 43 constituencies (the 41 counties, Bucharest and the diaspora), with a 5% threshold for parties and higher ones for alliances; national minority organisations that pass a much lower threshold get one seat each. With the Senate it passes laws and the budget and can dismiss the government.",
+      "Senate": "The 136 senators are elected for four years by party-list proportional representation in the same 43 constituencies, with the same thresholds. It shares lawmaking with the Chamber of Deputies, and the two chambers meet jointly to vote confidence in the government."
+    }
+  },
+  "parties": {
+    "pcr": {
+      "name": "Romanian Communist Party",
+      "color": "#CC0000"
+    },
+    "fp": {
+      "name": "Ploughmen's Front",
+      "color": "#8D0C01"
+    },
+    "pnp": {
+      "name": "National Popular Party",
+      "color": "#87CEEB"
+    },
+    "upm": {
+      "name": "Hungarian People's Union",
+      "color": "#008000"
+    },
+    "pmraff": {
+      "name": "Romanian Workers' Party affiliates",
+      "color": "#E57373"
+    },
+    "cde": {
+      "name": "Jewish Democratic Committee",
+      "color": "#5C6BC0"
+    },
+    "pnlbejan": {
+      "name": "National Liberal Party–Bejan",
+      "color": "#FDFF62"
+    },
+    "ptdlupu": {
+      "name": "Democratic Peasants' Party–Lupu",
+      "color": "#B7D749"
+    },
+    "fdp": {
+      "name": "People's Democratic Front",
+      "color": "#3B94B5"
+    },
+    "fdus": {
+      "name": "Front of Socialist Unity and Democracy",
+      "color": "#CC0000"
+    },
+    "against": {
+      "name": "Against",
+      "color": "#4A4A4F"
+    },
+    "fsn": {
+      "name": "National Salvation Front",
+      "color": "#DA70D6"
+    },
+    "udmr": {
+      "name": "Democratic Union of Hungarians in Romania",
+      "color": "#15803C"
+    },
+    "pnl": {
+      "name": "National Liberal Party",
+      "color": "#FDE000"
+    },
+    "pntcd": {
+      "name": "Christian Democratic National Peasants' Party",
+      "color": "#9ACD32"
+    },
+    "mer": {
+      "name": "Ecological Movement of Romania",
+      "color": "#20B2AA"
+    },
+    "auru": {
+      "name": "Alliance for Romanian Unity",
+      "color": "#0000FF"
+    },
+    "pdar": {
+      "name": "Democratic Agrarian Party of Romania",
+      "color": "#FFFF00"
+    },
+    "per": {
+      "name": "Ecologist Party of Romania",
+      "color": "#6B8E23"
+    },
+    "psdrs": {
+      "name": "Romanian Socialist Democratic Party",
+      "color": "#ED2128"
+    },
+    "psdr": {
+      "name": "Romanian Social Democratic Party",
+      "color": "#FFC0CB"
+    },
+    "gdc": {
+      "name": "Democratic Group of the Centre",
+      "color": "#BDB76B"
+    },
+    "pdm": {
+      "name": "Democratic Party of Labour",
+      "color": "#8B3A3A"
+    },
+    "psl": {
+      "name": "Party of Free Change",
+      "color": "#FF7F50"
+    },
+    "prnr": {
+      "name": "National Reconstruction Party",
+      "color": "#DEB887"
+    },
+    "ptldr": {
+      "name": "Party of Young Free Democrats",
+      "color": "#FF0000"
+    },
+    "ulb": {
+      "name": "Liberal Union–Brătianu",
+      "color": "#C9A227"
+    },
+    "fdsn": {
+      "name": "Democratic National Salvation Front",
+      "color": "#EF3340"
+    },
+    "cdr": {
+      "name": "Romanian Democratic Convention",
+      "color": "#00008B"
+    },
+    "punr": {
+      "name": "Romanian National Unity Party",
+      "color": "#1BB0E8"
+    },
+    "prm": {
+      "name": "Greater Romania Party",
+      "color": "#0258A4"
+    },
+    "psm": {
+      "name": "Socialist Party of Labour",
+      "color": "#CC0000"
+    },
+    "pr90": {
+      "name": "Republican Party",
+      "color": "#B0855A"
+    },
+    "psd": {
+      "name": "Social Democratic Party",
+      "color": "#EF3340"
+    },
+    "usd": {
+      "name": "Social Democratic Union",
+      "color": "#FF6633"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#E9967A"
+    },
+    "anl": {
+      "name": "National Liberal Alliance",
+      "color": "#E6C34A"
+    },
+    "ppr": {
+      "name": "Party of Pensioners of Romania",
+      "color": "#9C8AB4"
+    },
+    "psmr": {
+      "name": "Romanian Socialist Party of Workers",
+      "color": "#C2185B"
+    },
+    "unc": {
+      "name": "National Union of the Centre",
+      "color": "#8FBC8F"
+    },
+    "pd": {
+      "name": "Democratic Party",
+      "color": "#FF6633"
+    },
+    "psdpole": {
+      "name": "Social Democratic Pole of Romania",
+      "color": "#ED2128"
+    },
+    "apr": {
+      "name": "Alliance for Romania",
+      "color": "#7E57C2"
+    },
+    "pnlc": {
+      "name": "National Liberal Party–Câmpeanu",
+      "color": "#E0C068"
+    },
+    "psdpur": {
+      "name": "National Union PSD+PUR",
+      "color": "#EF3340"
+    },
+    "da": {
+      "name": "Justice and Truth Alliance",
+      "color": "#FAA304"
+    },
+    "png": {
+      "name": "New Generation Party",
+      "color": "#008000"
+    },
+    "forta": {
+      "name": "Democratic Force",
+      "color": "#F4A460"
+    },
+    "pdl": {
+      "name": "Democratic Liberal Party",
+      "color": "#FF9D1C"
+    },
+    "psdpc": {
+      "name": "Alliance PSD+PC",
+      "color": "#ED2128"
+    },
+    "usl": {
+      "name": "Social Liberal Union",
+      "color": "#FFB901"
+    },
+    "ard": {
+      "name": "Right Romania Alliance",
+      "color": "#318CE7"
+    },
+    "ppdd": {
+      "name": "People's Party – Dan Diaconescu",
+      "color": "#4E2172"
+    },
+    "acl": {
+      "name": "Christian Liberal Alliance",
+      "color": "#FFDD00"
+    },
+    "usr": {
+      "name": "Save Romania Union",
+      "color": "#002A59"
+    },
+    "alde": {
+      "name": "Alliance of Liberals and Democrats",
+      "color": "#005487"
+    },
+    "pmp": {
+      "name": "People's Movement Party",
+      "color": "#A7CF35"
+    },
+    "pru": {
+      "name": "United Romania Party",
+      "color": "#213C93"
+    },
+    "usrplus": {
+      "name": "USR PLUS",
+      "color": "#00A6FF"
+    },
+    "proalde": {
+      "name": "PRO Romania–ALDE alliance",
+      "color": "#005487"
+    },
+    "aur": {
+      "name": "Alliance for the Union of Romanians",
+      "color": "#FCB21F"
+    },
+    "pro": {
+      "name": "PRO Romania",
+      "color": "#1572BA"
+    },
+    "ppu": {
+      "name": "Social Liberal Humanist Party",
+      "color": "#7E57C2"
+    },
+    "pncr": {
+      "name": "Romanian National Conservative Party",
+      "color": "#1665FE"
+    },
+    "sos": {
+      "name": "S.O.S. Romania",
+      "color": "#4DA9DA"
+    },
+    "pot": {
+      "name": "Party of Young People",
+      "color": "#330099"
+    },
+    "sens": {
+      "name": "Health Education Nature Sustainability Party",
+      "color": "#A2DA5A"
+    },
+    "fdr": {
+      "name": "Force of the Right",
+      "color": "#08510A"
+    },
+    "psdu": {
+      "name": "United Social Democratic Party",
+      "color": "#623A9D"
+    },
+    "reper": {
+      "name": "Renewing Romania's European Project",
+      "color": "#C40075"
+    },
+    "dreptate": {
+      "name": "Justice and Respect in Europe for All Party",
+      "color": "#00CED1"
+    },
+    "cnr": {
+      "name": "Romania Forward Electoral Alliance",
+      "color": "#EF8814"
+    },
+    "udrr": {
+      "name": "Democratic Union of the Roma of Romania",
+      "color": "#3E3E3E"
+    },
+    "roma": {
+      "name": "Party of the Roma",
+      "color": "#000000"
+    },
+    "fdgr": {
+      "name": "Democratic Forum of Germans in Romania",
+      "color": "#AA2421"
+    },
+    "crlr": {
+      "name": "Community of the Lipovan Russians",
+      "color": "#DA7C3E"
+    },
+    "uur": {
+      "name": "Union of the Ukrainians of Romania",
+      "color": "#0057B7"
+    },
+    "serbs": {
+      "name": "Union of Serbs of Romania",
+      "color": "#7D2124"
+    },
+    "tatars": {
+      "name": "Democratic Union of Turkic-Muslim Tatars",
+      "color": "#E4E700"
+    },
+    "greeks": {
+      "name": "Hellenic Union of Romania",
+      "color": "#4682B4"
+    },
+    "slovaks": {
+      "name": "Democratic Union of Slovaks and Czechs",
+      "color": "#1136F2"
+    },
+    "bulgarians": {
+      "name": "Bulgarian Union of Banat–Romania",
+      "color": "#006400"
+    },
+    "poles": {
+      "name": "Union of Poles of Romania",
+      "color": "#D4213D"
+    },
+    "armenians": {
+      "name": "Union of Armenians of Romania",
+      "color": "#9A9A9A"
+    },
+    "italcom": {
+      "name": "Italian Community of Romania",
+      "color": "#2E8B57"
+    },
+    "turks": {
+      "name": "Democratic Turkish Union of Romania",
+      "color": "#E57373"
+    },
+    "jews": {
+      "name": "Federation of the Jewish Communities in Romania",
+      "color": "#2D53A6"
+    },
+    "albcult": {
+      "name": "Cultural Union of Albanians of Romania",
+      "color": "#8B0000"
+    },
+    "bratstvo": {
+      "name": "Bratstvo Community of Bulgarians",
+      "color": "#556B2F"
+    },
+    "albleague": {
+      "name": "League of Albanians of Romania",
+      "color": "#444444"
+    },
+    "macedonians": {
+      "name": "Association of Macedonians of Romania",
+      "color": "#660000"
+    },
+    "croats": {
+      "name": "Union of Croats of Romania",
+      "color": "#5C8DB8"
+    },
+    "ruthenians": {
+      "name": "Cultural Union of Ruthenians of Romania",
+      "color": "#FF0000"
+    },
+    "italassoc": {
+      "name": "Association of Italians of Romania",
+      "color": "#6A5ACD"
+    },
+    "czechs": {
+      "name": "Forum of Czechs in Romania",
+      "color": "#154680"
+    },
+    "druc": {
+      "name": "Independent",
+      "color": "#8D6E63"
+    },
+    "manole": {
+      "name": "Independent",
+      "color": "#8D6E63"
+    },
+    "dinu": {
+      "name": "Independent",
+      "color": "#8D6E63"
+    },
+    "oprescu": {
+      "name": "Independent",
+      "color": "#66CCFF"
+    },
+    "tariceanu": {
+      "name": "Independent",
+      "color": "#4FC3F7"
+    },
+    "macovei": {
+      "name": "Independent",
+      "color": "#C0C0C0"
+    },
+    "melescanu": {
+      "name": "Independent",
+      "color": "#8D6E63"
+    },
+    "cumpanasu": {
+      "name": "Independent",
+      "color": "#8D6E63"
+    },
+    "georgescu": {
+      "name": "Independent",
+      "color": "#6D4C41"
+    },
+    "geoana": {
+      "name": "Independent",
+      "color": "#9E9E9E"
+    },
+    "cdiaconescu": {
+      "name": "Independent",
+      "color": "#26A69A"
+    },
+    "ndan": {
+      "name": "Independent",
+      "color": "#BAE002"
+    },
+    "ponta": {
+      "name": "Independent",
+      "color": "#E02043"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#C7C7CC"
+    }
+  },
+  "elections": [
+    {
+      "id": "ro-president-2025",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2025-05-04",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 64.72,
+      "system": "Two-round popular vote, five-year term",
+      "cite": {
+        "name": "the Permanent Electoral Authority",
+        "url": "https://en.wikipedia.org/wiki/2025_Romanian_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_Romanian_presidential_election#By_county_2",
+      "candidates": [
+        {
+          "name": "Nicușor Dan",
+          "party": "ndan",
+          "votes": 6168642,
+          "pct": 53.6,
+          "winner": true
+        },
+        {
+          "name": "George Simion",
+          "party": "aur",
+          "votes": 5339053,
+          "pct": 46.4
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2025-05-04",
+          "candidates": [
+            {
+              "name": "George Simion",
+              "party": "aur",
+              "votes": 3862761,
+              "pct": 40.96
+            },
+            {
+              "name": "Nicușor Dan",
+              "party": "ndan",
+              "votes": 1979767,
+              "pct": 20.99
+            },
+            {
+              "name": "Crin Antonescu",
+              "party": "cnr",
+              "votes": 1892930,
+              "pct": 20.07
+            },
+            {
+              "name": "Victor Ponta",
+              "party": "ponta",
+              "votes": 1230164,
+              "pct": 13.04
+            },
+            {
+              "name": "Elena Lasconi",
+              "party": "usr",
+              "votes": 252721,
+              "pct": 2.68
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 211931,
+              "pct": 2.25
+            }
+          ],
+          "regions": [
+            {"name":"Alba","abbr":"AB","winner":"aur","margin":1.7,"turnout":63.4,"votes":180020,"results":[{"party":"aur","pct":33.7,"votes":60667},{"party":"ndan","pct":32,"votes":57606},{"party":"ponta","pct":17.8,"votes":32044},{"party":"cnr","pct":15,"votes":27003},{"party":"usr","pct":1.5,"votes":2700}]},
+            {"name":"Arad","abbr":"AR","winner":"aur","margin":23.7,"turnout":62.3,"votes":223140,"results":[{"party":"aur","pct":46.9,"votes":104653},{"party":"cnr","pct":23.2,"votes":51768},{"party":"ndan","pct":15.2,"votes":33917},{"party":"ponta","pct":12.4,"votes":27669},{"party":"usr","pct":2.4,"votes":5355}]},
+            {"name":"Argeș","abbr":"AG","winner":"aur","margin":16.2,"turnout":58.4,"votes":262441,"results":[{"party":"aur","pct":38.2,"votes":100252},{"party":"ndan","pct":22,"votes":57737},{"party":"ponta","pct":20.5,"votes":53800},{"party":"cnr","pct":15.4,"votes":40416},{"party":"usr","pct":3.9,"votes":10235}]},
+            {"name":"Bacău","abbr":"BC","winner":"aur","margin":19.1,"turnout":69.3,"votes":267469,"results":[{"party":"aur","pct":42.2,"votes":112872},{"party":"ndan","pct":23.1,"votes":61785},{"party":"cnr","pct":22.2,"votes":59378},{"party":"ponta","pct":9.5,"votes":25410},{"party":"usr","pct":2.9,"votes":7757}]},
+            {"name":"Bihor","abbr":"BH","winner":"aur","margin":4.7,"turnout":61.6,"votes":198469,"results":[{"party":"aur","pct":32.6,"votes":64701},{"party":"ndan","pct":27.9,"votes":55373},{"party":"cnr","pct":27.4,"votes":54381},{"party":"ponta","pct":8.6,"votes":17068},{"party":"usr","pct":3.5,"votes":6946}]},
+            {"name":"Bistrița-Năsăud","abbr":"BN","winner":"aur","margin":35.2,"turnout":69,"votes":210110,"results":[{"party":"aur","pct":54.8,"votes":115140},{"party":"cnr","pct":19.6,"votes":41182},{"party":"ndan","pct":12.5,"votes":26264},{"party":"ponta","pct":9.7,"votes":20381},{"party":"usr","pct":3.3,"votes":6934}]},
+            {"name":"Botoșani","abbr":"BT","winner":"aur","margin":36.1,"turnout":68.5,"votes":180550,"results":[{"party":"aur","pct":56.4,"votes":101830},{"party":"cnr","pct":20.3,"votes":36652},{"party":"ponta","pct":9.9,"votes":17874},{"party":"ndan","pct":9.8,"votes":17694},{"party":"usr","pct":3.7,"votes":6680}]},
+            {"name":"Brăila","abbr":"BR","winner":"aur","margin":11.2,"turnout":66,"votes":248336,"results":[{"party":"aur","pct":40.7,"votes":101073},{"party":"ndan","pct":29.5,"votes":73259},{"party":"cnr","pct":14.8,"votes":36754},{"party":"ponta","pct":10.5,"votes":26075},{"party":"usr","pct":4.5,"votes":11175}]},
+            {"name":"Brașov","abbr":"BV","winner":"ndan","margin":7.7,"turnout":63.7,"votes":225848,"results":[{"party":"ndan","pct":33.4,"votes":75433},{"party":"cnr","pct":25.7,"votes":58043},{"party":"aur","pct":24.2,"votes":54655},{"party":"ponta","pct":13.3,"votes":30038},{"party":"usr","pct":3.5,"votes":7905}]},
+            {"name":"Bucharest","abbr":"B","winner":"aur","margin":18.4,"turnout":70.9,"votes":209093,"results":[{"party":"aur","pct":41.7,"votes":87192},{"party":"cnr","pct":23.3,"votes":48719},{"party":"ndan","pct":19.3,"votes":40355},{"party":"ponta","pct":13.7,"votes":28646},{"party":"usr","pct":2,"votes":4182}]},
+            {"name":"Buzău","abbr":"BZ","winner":"aur","margin":33.7,"turnout":58.1,"votes":245933,"results":[{"party":"aur","pct":52.8,"votes":129853},{"party":"ndan","pct":19.1,"votes":46973},{"party":"cnr","pct":16.8,"votes":41317},{"party":"ponta","pct":8.3,"votes":20412},{"party":"usr","pct":3,"votes":7378}]},
+            {"name":"Călărași","abbr":"CL","winner":"aur","margin":9.4,"turnout":70.3,"votes":243464,"results":[{"party":"aur","pct":36.8,"votes":89595},{"party":"ndan","pct":27.4,"votes":66709},{"party":"cnr","pct":16.5,"votes":40172},{"party":"ponta","pct":14.6,"votes":35546},{"party":"usr","pct":4.6,"votes":11199}]},
+            {"name":"Caraș-Severin","abbr":"CS","winner":"aur","margin":7.1,"turnout":67.3,"votes":187042,"results":[{"party":"aur","pct":41.2,"votes":77061},{"party":"ndan","pct":34.1,"votes":63781},{"party":"cnr","pct":11.2,"votes":20949},{"party":"ponta","pct":10.2,"votes":19078},{"party":"usr","pct":3.4,"votes":6359}]},
+            {"name":"Cluj","abbr":"CJ","winner":"aur","margin":23.9,"turnout":59.3,"votes":225447,"results":[{"party":"aur","pct":45.4,"votes":102353},{"party":"cnr","pct":21.5,"votes":48471},{"party":"ndan","pct":19.4,"votes":43737},{"party":"ponta","pct":10.1,"votes":22770},{"party":"usr","pct":3.6,"votes":8116}]},
+            {"name":"Constanța","abbr":"CT","winner":"aur","margin":19.6,"turnout":70.8,"votes":253268,"results":[{"party":"aur","pct":43.9,"votes":111185},{"party":"ndan","pct":24.3,"votes":61544},{"party":"cnr","pct":16.5,"votes":41789},{"party":"ponta","pct":13.2,"votes":33431},{"party":"usr","pct":2.1,"votes":5319}]},
+            {"name":"Covasna","abbr":"CV","winner":"aur","margin":22.7,"turnout":61.2,"votes":198091,"results":[{"party":"aur","pct":44.4,"votes":87952},{"party":"ndan","pct":21.7,"votes":42986},{"party":"ponta","pct":18.7,"votes":37043},{"party":"cnr","pct":12.9,"votes":25554},{"party":"usr","pct":2.4,"votes":4754}]},
+            {"name":"Dâmbovița","abbr":"DB","winner":"aur","margin":13.3,"turnout":65.2,"votes":212101,"results":[{"party":"aur","pct":42.8,"votes":90779},{"party":"ndan","pct":29.5,"votes":62570},{"party":"ponta","pct":14,"votes":29694},{"party":"cnr","pct":11.6,"votes":24604},{"party":"usr","pct":2.2,"votes":4666}]},
+            {"name":"Dolj","abbr":"DJ","winner":"aur","margin":16.9,"turnout":59.8,"votes":208121,"results":[{"party":"aur","pct":44.5,"votes":92614},{"party":"ndan","pct":27.6,"votes":57441},{"party":"cnr","pct":12.9,"votes":26848},{"party":"ponta","pct":12.4,"votes":25807},{"party":"usr","pct":2.7,"votes":5619}]},
+            {"name":"Galați","abbr":"GL","winner":"aur","margin":29.9,"turnout":59.7,"votes":180081,"results":[{"party":"aur","pct":49.3,"votes":88780},{"party":"ndan","pct":19.4,"votes":34936},{"party":"cnr","pct":15,"votes":27012},{"party":"ponta","pct":13.6,"votes":24491},{"party":"usr","pct":2.6,"votes":4682}]},
+            {"name":"Giurgiu","abbr":"GR","winner":"aur","margin":15,"turnout":63.7,"votes":207570,"results":[{"party":"aur","pct":40.7,"votes":84481},{"party":"ndan","pct":25.7,"votes":53345},{"party":"cnr","pct":19,"votes":39438},{"party":"ponta","pct":11.3,"votes":23455},{"party":"usr","pct":3.3,"votes":6850}]},
+            {"name":"Gorj","abbr":"GJ","winner":"aur","margin":12.4,"turnout":65.8,"votes":237486,"results":[{"party":"aur","pct":39.6,"votes":94044},{"party":"cnr","pct":27.2,"votes":64596},{"party":"ndan","pct":24.5,"votes":58184},{"party":"ponta","pct":7,"votes":16624},{"party":"usr","pct":1.8,"votes":4275}]},
+            {"name":"Harghita","abbr":"HR","winner":"aur","margin":12,"turnout":69.7,"votes":226272,"results":[{"party":"aur","pct":41.3,"votes":93450},{"party":"cnr","pct":29.3,"votes":66298},{"party":"ndan","pct":15.2,"votes":34393},{"party":"ponta","pct":9.8,"votes":22175},{"party":"usr","pct":4.4,"votes":9956}]},
+            {"name":"Hunedoara","abbr":"HD","winner":"aur","margin":42.5,"turnout":67.7,"votes":266731,"results":[{"party":"aur","pct":59.5,"votes":158705},{"party":"ndan","pct":17,"votes":45344},{"party":"cnr","pct":13.1,"votes":34942},{"party":"ponta","pct":8.5,"votes":22672},{"party":"usr","pct":1.8,"votes":4801}]},
+            {"name":"Ialomița","abbr":"IL","winner":"ndan","margin":2.2,"turnout":65.8,"votes":250107,"results":[{"party":"ndan","pct":30.5,"votes":76283},{"party":"aur","pct":28.3,"votes":70780},{"party":"cnr","pct":25.4,"votes":63527},{"party":"ponta","pct":12.1,"votes":30263},{"party":"usr","pct":3.7,"votes":9254}]},
+            {"name":"Iași","abbr":"IS","winner":"aur","margin":33.5,"turnout":71.4,"votes":243411,"results":[{"party":"aur","pct":51.4,"votes":125113},{"party":"cnr","pct":17.9,"votes":43571},{"party":"ndan","pct":16.1,"votes":39189},{"party":"ponta","pct":11.3,"votes":27505},{"party":"usr","pct":3.3,"votes":8033}]},
+            {"name":"Ilfov","abbr":"IF","winner":"cnr","margin":8.9,"turnout":60.6,"votes":186465,"results":[{"party":"cnr","pct":34.8,"votes":64890},{"party":"ndan","pct":25.9,"votes":48294},{"party":"aur","pct":25.5,"votes":47549},{"party":"ponta","pct":11.8,"votes":22003},{"party":"usr","pct":1.9,"votes":3543}]},
+            {"name":"Maramureș","abbr":"MM","winner":"aur","margin":16.6,"turnout":62.2,"votes":181813,"results":[{"party":"aur","pct":39.1,"votes":71089},{"party":"cnr","pct":22.5,"votes":40908},{"party":"ndan","pct":21.5,"votes":39090},{"party":"ponta","pct":13,"votes":23636},{"party":"usr","pct":3.9,"votes":7091}]},
+            {"name":"Mehedinți","abbr":"MH","winner":"aur","margin":5.1,"turnout":65.2,"votes":200132,"results":[{"party":"aur","pct":30.9,"votes":61841},{"party":"cnr","pct":25.8,"votes":51634},{"party":"ndan","pct":24.2,"votes":48432},{"party":"ponta","pct":16.2,"votes":32421},{"party":"usr","pct":2.9,"votes":5804}]},
+            {"name":"Mureș","abbr":"MS","winner":"aur","margin":26,"turnout":66.6,"votes":243758,"results":[{"party":"aur","pct":46.4,"votes":113104},{"party":"cnr","pct":20.4,"votes":49727},{"party":"ndan","pct":17.9,"votes":43633},{"party":"ponta","pct":12.8,"votes":31201},{"party":"usr","pct":2.6,"votes":6338}]},
+            {"name":"Neamț","abbr":"NT","winner":"aur","margin":12,"turnout":60.8,"votes":262934,"results":[{"party":"aur","pct":42.4,"votes":111484},{"party":"ndan","pct":30.4,"votes":79932},{"party":"cnr","pct":18,"votes":47328},{"party":"ponta","pct":7.2,"votes":18931},{"party":"usr","pct":2,"votes":5259}]},
+            {"name":"Olt","abbr":"OT","winner":"aur","margin":20.3,"turnout":65.3,"votes":229301,"results":[{"party":"aur","pct":44.6,"votes":102268},{"party":"cnr","pct":24.3,"votes":55720},{"party":"ndan","pct":20.2,"votes":46319},{"party":"ponta","pct":8.4,"votes":19261},{"party":"usr","pct":2.5,"votes":5733}]},
+            {"name":"Prahova","abbr":"PH","winner":"aur","margin":0.7,"turnout":63.4,"votes":266475,"results":[{"party":"aur","pct":28.4,"votes":75679},{"party":"ndan","pct":27.7,"votes":73814},{"party":"ponta","pct":21.6,"votes":57559},{"party":"cnr","pct":18,"votes":47966},{"party":"usr","pct":4.4,"votes":11725}]},
+            {"name":"Sălaj","abbr":"SJ","winner":"cnr","margin":7.4,"turnout":62.8,"votes":196426,"results":[{"party":"cnr","pct":36.4,"votes":71499},{"party":"aur","pct":29,"votes":56964},{"party":"ndan","pct":18.9,"votes":37125},{"party":"ponta","pct":13.7,"votes":26910},{"party":"usr","pct":1.9,"votes":3732}]},
+            {"name":"Satu Mare","abbr":"SM","winner":"aur","margin":0.4,"turnout":70.7,"votes":220001,"results":[{"party":"aur","pct":31,"votes":68200},{"party":"cnr","pct":30.6,"votes":67320},{"party":"ndan","pct":23.4,"votes":51480},{"party":"ponta","pct":11.1,"votes":24420},{"party":"usr","pct":3.8,"votes":8360}]},
+            {"name":"Sibiu","abbr":"SB","winner":"aur","margin":8.7,"turnout":62.3,"votes":210855,"results":[{"party":"aur","pct":34,"votes":71691},{"party":"ndan","pct":25.3,"votes":53346},{"party":"cnr","pct":21.6,"votes":45545},{"party":"ponta","pct":17.2,"votes":36267},{"party":"usr","pct":1.9,"votes":4006}]},
+            {"name":"Suceava","abbr":"SV","winner":"aur","margin":5.9,"turnout":66.3,"votes":239081,"results":[{"party":"aur","pct":34,"votes":81288},{"party":"ndan","pct":28.1,"votes":67182},{"party":"ponta","pct":18.8,"votes":44947},{"party":"cnr","pct":15.2,"votes":36340},{"party":"usr","pct":4,"votes":9563}]},
+            {"name":"Teleorman","abbr":"TR","winner":"aur","margin":11.7,"turnout":62.4,"votes":201775,"results":[{"party":"aur","pct":40.7,"votes":82122},{"party":"cnr","pct":29,"votes":58515},{"party":"ndan","pct":14.3,"votes":28854},{"party":"ponta","pct":11.6,"votes":23406},{"party":"usr","pct":4.4,"votes":8878}]},
+            {"name":"Timiș","abbr":"TM","winner":"aur","margin":11,"turnout":60.1,"votes":229669,"results":[{"party":"aur","pct":38.8,"votes":89112},{"party":"cnr","pct":27.8,"votes":63848},{"party":"ndan","pct":22.1,"votes":50757},{"party":"ponta","pct":7.8,"votes":17914},{"party":"usr","pct":3.5,"votes":8038}]},
+            {"name":"Tulcea","abbr":"TL","winner":"aur","margin":11.6,"turnout":70.8,"votes":259160,"results":[{"party":"aur","pct":39.7,"votes":102887},{"party":"ndan","pct":28.1,"votes":72824},{"party":"cnr","pct":18.1,"votes":46908},{"party":"ponta","pct":11.4,"votes":29544},{"party":"usr","pct":2.7,"votes":6997}]},
+            {"name":"Vâlcea","abbr":"VL","winner":"aur","margin":27.8,"turnout":61.5,"votes":244695,"results":[{"party":"aur","pct":47.1,"votes":115251},{"party":"ponta","pct":19.3,"votes":47226},{"party":"ndan","pct":17.5,"votes":42822},{"party":"cnr","pct":12.6,"votes":30832},{"party":"usr","pct":3.5,"votes":8564}]},
+            {"name":"Vaslui","abbr":"VS","winner":"aur","margin":22.5,"turnout":66.7,"votes":212845,"results":[{"party":"aur","pct":44.3,"votes":94290},{"party":"cnr","pct":21.8,"votes":46400},{"party":"ndan","pct":21.6,"votes":45975},{"party":"ponta","pct":10.2,"votes":21710},{"party":"usr","pct":2,"votes":4257}]},
+            {"name":"Vrancea","abbr":"VN","winner":"aur","margin":33.2,"turnout":70.4,"votes":268779,"results":[{"party":"aur","pct":51.6,"votes":138690},{"party":"cnr","pct":18.4,"votes":49455},{"party":"ndan","pct":15.4,"votes":41392},{"party":"ponta","pct":11.3,"votes":30372},{"party":"usr","pct":3.3,"votes":8870}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2025-05-18",
+          "candidates": [
+            {
+              "name": "Nicușor Dan",
+              "party": "ndan",
+              "votes": 6168642,
+              "pct": 53.6,
+              "winner": true
+            },
+            {
+              "name": "George Simion",
+              "party": "aur",
+              "votes": 5339053,
+              "pct": 46.4
+            }
+          ],
+          "regions": [
+            {"name":"Alba","abbr":"AB","winner":"ndan","margin":10.6,"turnout":61,"votes":310485,"results":[{"party":"ndan","pct":55.3,"votes":171698},{"party":"aur","pct":44.7,"votes":138787}]},
+            {"name":"Arad","abbr":"AR","winner":"aur","margin":20.4,"turnout":61,"votes":294310,"results":[{"party":"aur","pct":60.2,"votes":177175},{"party":"ndan","pct":39.8,"votes":117135}]},
+            {"name":"Argeș","abbr":"AG","winner":"aur","margin":16.2,"turnout":68.8,"votes":314101,"results":[{"party":"aur","pct":58.1,"votes":182493},{"party":"ndan","pct":41.9,"votes":131608}]},
+            {"name":"Bacău","abbr":"BC","winner":"aur","margin":13.2,"turnout":58.8,"votes":306411,"results":[{"party":"aur","pct":56.6,"votes":173429},{"party":"ndan","pct":43.4,"votes":132982}]},
+            {"name":"Bihor","abbr":"BH","winner":"ndan","margin":9.8,"turnout":63.1,"votes":279909,"results":[{"party":"ndan","pct":54.9,"votes":153670},{"party":"aur","pct":45.1,"votes":126239}]},
+            {"name":"Bistrița-Năsăud","abbr":"BN","winner":"aur","margin":19.8,"turnout":58.2,"votes":289099,"results":[{"party":"aur","pct":59.9,"votes":173170},{"party":"ndan","pct":40.1,"votes":115929}]},
+            {"name":"Botoșani","abbr":"BT","winner":"aur","margin":18.2,"turnout":62.4,"votes":240533,"results":[{"party":"aur","pct":59.1,"votes":142155},{"party":"ndan","pct":40.9,"votes":98378}]},
+            {"name":"Brăila","abbr":"BR","winner":"aur","margin":4.8,"turnout":62.2,"votes":290808,"results":[{"party":"aur","pct":52.4,"votes":152383},{"party":"ndan","pct":47.6,"votes":138425}]},
+            {"name":"Brașov","abbr":"BV","winner":"ndan","margin":1.8,"turnout":65.2,"votes":280561,"results":[{"party":"ndan","pct":50.9,"votes":142806},{"party":"aur","pct":49.1,"votes":137755}]},
+            {"name":"Bucharest","abbr":"B","winner":"ndan","margin":22.4,"turnout":69.5,"votes":276582,"results":[{"party":"ndan","pct":61.2,"votes":169268},{"party":"aur","pct":38.8,"votes":107314}]},
+            {"name":"Buzău","abbr":"BZ","winner":"aur","margin":15.8,"turnout":61.7,"votes":225762,"results":[{"party":"aur","pct":57.9,"votes":130716},{"party":"ndan","pct":42.1,"votes":95046}]},
+            {"name":"Călărași","abbr":"CL","winner":"aur","margin":33.6,"turnout":64.2,"votes":262854,"results":[{"party":"aur","pct":66.8,"votes":175586},{"party":"ndan","pct":33.2,"votes":87268}]},
+            {"name":"Caraș-Severin","abbr":"CS","winner":"aur","margin":6,"turnout":59.1,"votes":312247,"results":[{"party":"aur","pct":53,"votes":165491},{"party":"ndan","pct":47,"votes":146756}]},
+            {"name":"Cluj","abbr":"CJ","winner":"ndan","margin":5.6,"turnout":58.2,"votes":242956,"results":[{"party":"ndan","pct":52.8,"votes":128281},{"party":"aur","pct":47.2,"votes":114675}]},
+            {"name":"Constanța","abbr":"CT","winner":"ndan","margin":10.4,"turnout":67.2,"votes":286148,"results":[{"party":"ndan","pct":55.2,"votes":157954},{"party":"aur","pct":44.8,"votes":128194}]},
+            {"name":"Covasna","abbr":"CV","winner":"ndan","margin":9.8,"turnout":60.7,"votes":304832,"results":[{"party":"ndan","pct":54.9,"votes":167353},{"party":"aur","pct":45.1,"votes":137479}]},
+            {"name":"Dâmbovița","abbr":"DB","winner":"aur","margin":8.4,"turnout":71.5,"votes":253664,"results":[{"party":"aur","pct":54.2,"votes":137486},{"party":"ndan","pct":45.8,"votes":116178}]},
+            {"name":"Dolj","abbr":"DJ","winner":"ndan","margin":36,"turnout":65.8,"votes":300591,"results":[{"party":"ndan","pct":68,"votes":204402},{"party":"aur","pct":32,"votes":96189}]},
+            {"name":"Galați","abbr":"GL","winner":"ndan","margin":10.8,"turnout":60.8,"votes":318846,"results":[{"party":"ndan","pct":55.4,"votes":176641},{"party":"aur","pct":44.6,"votes":142205}]},
+            {"name":"Giurgiu","abbr":"GR","winner":"aur","margin":7.4,"turnout":70.3,"votes":309683,"results":[{"party":"aur","pct":53.7,"votes":166300},{"party":"ndan","pct":46.3,"votes":143383}]},
+            {"name":"Gorj","abbr":"GJ","winner":"aur","margin":2,"turnout":66.1,"votes":224697,"results":[{"party":"aur","pct":51,"votes":114595},{"party":"ndan","pct":49,"votes":110102}]},
+            {"name":"Harghita","abbr":"HR","winner":"ndan","margin":9.4,"turnout":70.2,"votes":250917,"results":[{"party":"ndan","pct":54.7,"votes":137252},{"party":"aur","pct":45.3,"votes":113665}]},
+            {"name":"Hunedoara","abbr":"HD","winner":"aur","margin":8,"turnout":62.5,"votes":285214,"results":[{"party":"aur","pct":54,"votes":154016},{"party":"ndan","pct":46,"votes":131198}]},
+            {"name":"Ialomița","abbr":"IL","winner":"aur","margin":4.4,"turnout":67.8,"votes":273160,"results":[{"party":"aur","pct":52.2,"votes":142590},{"party":"ndan","pct":47.8,"votes":130570}]},
+            {"name":"Iași","abbr":"IS","winner":"ndan","margin":12.8,"turnout":70.8,"votes":315699,"results":[{"party":"ndan","pct":56.4,"votes":178054},{"party":"aur","pct":43.6,"votes":137645}]},
+            {"name":"Ilfov","abbr":"IF","winner":"ndan","margin":3.6,"turnout":59.3,"votes":259431,"results":[{"party":"ndan","pct":51.8,"votes":134385},{"party":"aur","pct":48.2,"votes":125046}]},
+            {"name":"Maramureș","abbr":"MM","winner":"ndan","margin":4.2,"turnout":61.4,"votes":280344,"results":[{"party":"ndan","pct":52.1,"votes":146059},{"party":"aur","pct":47.9,"votes":134285}]},
+            {"name":"Mehedinți","abbr":"MH","winner":"aur","margin":5.6,"turnout":68.8,"votes":278158,"results":[{"party":"aur","pct":52.8,"votes":146867},{"party":"ndan","pct":47.2,"votes":131291}]},
+            {"name":"Mureș","abbr":"MS","winner":"ndan","margin":7,"turnout":61.1,"votes":237151,"results":[{"party":"ndan","pct":53.5,"votes":126876},{"party":"aur","pct":46.5,"votes":110275}]},
+            {"name":"Neamț","abbr":"NT","winner":"aur","margin":10.8,"turnout":64.7,"votes":237333,"results":[{"party":"aur","pct":55.4,"votes":131482},{"party":"ndan","pct":44.6,"votes":105851}]},
+            {"name":"Olt","abbr":"OT","winner":"aur","margin":7.4,"turnout":67.6,"votes":287212,"results":[{"party":"aur","pct":53.7,"votes":154233},{"party":"ndan","pct":46.3,"votes":132979}]},
+            {"name":"Prahova","abbr":"PH","winner":"ndan","margin":0.2,"turnout":63.3,"votes":292129,"results":[{"party":"ndan","pct":50.1,"votes":146357},{"party":"aur","pct":49.9,"votes":145772}]},
+            {"name":"Sălaj","abbr":"SJ","winner":"ndan","margin":11.6,"turnout":70,"votes":233013,"results":[{"party":"ndan","pct":55.8,"votes":130021},{"party":"aur","pct":44.2,"votes":102992}]},
+            {"name":"Satu Mare","abbr":"SM","winner":"ndan","margin":8.6,"turnout":64.4,"votes":319139,"results":[{"party":"ndan","pct":54.3,"votes":173292},{"party":"aur","pct":45.7,"votes":145847}]},
+            {"name":"Sibiu","abbr":"SB","winner":"ndan","margin":9,"turnout":71.6,"votes":252236,"results":[{"party":"ndan","pct":54.5,"votes":137469},{"party":"aur","pct":45.5,"votes":114767}]},
+            {"name":"Suceava","abbr":"SV","winner":"aur","margin":10,"turnout":64.3,"votes":272198,"results":[{"party":"aur","pct":55,"votes":149709},{"party":"ndan","pct":45,"votes":122489}]},
+            {"name":"Teleorman","abbr":"TR","winner":"aur","margin":11.2,"turnout":60.5,"votes":282978,"results":[{"party":"aur","pct":55.6,"votes":157336},{"party":"ndan","pct":44.4,"votes":125642}]},
+            {"name":"Timiș","abbr":"TM","winner":"ndan","margin":21.2,"turnout":70.3,"votes":265279,"results":[{"party":"ndan","pct":60.6,"votes":160759},{"party":"aur","pct":39.4,"votes":104520}]},
+            {"name":"Tulcea","abbr":"TL","winner":"aur","margin":33,"turnout":70.3,"votes":268199,"results":[{"party":"aur","pct":66.5,"votes":178352},{"party":"ndan","pct":33.5,"votes":89847}]},
+            {"name":"Vâlcea","abbr":"VL","winner":"aur","margin":7.2,"turnout":68.4,"votes":255940,"results":[{"party":"aur","pct":53.6,"votes":137184},{"party":"ndan","pct":46.4,"votes":118756}]},
+            {"name":"Vaslui","abbr":"VS","winner":"aur","margin":10,"turnout":67.9,"votes":263445,"results":[{"party":"aur","pct":55,"votes":144895},{"party":"ndan","pct":45,"votes":118550}]},
+            {"name":"Vrancea","abbr":"VN","winner":"aur","margin":2.2,"turnout":66.7,"votes":240350,"results":[{"party":"aur","pct":51.1,"votes":122819},{"party":"ndan","pct":48.9,"votes":117531}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ro-chamber-of-deputies-2024",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2024-12-01",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 52.5,
+      "system": "331 seats, list proportional by county",
+      "totalSeats": 331,
+      "majority": 166,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Permanent Electoral Authority",
+        "url": "https://en.wikipedia.org/wiki/2024_Romanian_parliamentary_election"
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 2030144,
+          "pct": 21.96,
+          "seats": 86,
+          "change": -24,
+          "winner": true
+        },
+        {
+          "name": "Alliance for the Union of Romanians",
+          "party": "aur",
+          "votes": 1665143,
+          "pct": 18.01,
+          "seats": 63,
+          "change": 30
+        },
+        {
+          "name": "National Liberal Party",
+          "party": "pnl",
+          "votes": 1219810,
+          "pct": 13.2,
+          "seats": 49,
+          "change": -44
+        },
+        {
+          "name": "Save Romania Union",
+          "party": "usr",
+          "votes": 1146357,
+          "pct": 12.4,
+          "seats": 40,
+          "change": -15
+        },
+        {
+          "name": "S.O.S. Romania",
+          "party": "sos",
+          "votes": 679967,
+          "pct": 7.36,
+          "seats": 28,
+          "change": null
+        },
+        {
+          "name": "Party of Young People",
+          "party": "pot",
+          "votes": 596745,
+          "pct": 6.46,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "Democratic Union of Hungarians in Romania",
+          "party": "udmr",
+          "votes": 585397,
+          "pct": 6.33,
+          "seats": 22,
+          "change": 1
+        },
+        {
+          "name": "Party of the Roma \"Pro Europa\"",
+          "party": "roma",
+          "votes": 13881,
+          "pct": 0.15,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Association of Macedonians of Romania",
+          "party": "macedonians",
+          "votes": 13800,
+          "pct": 0.15,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "League of Albanians of Romania",
+          "party": "albleague",
+          "votes": 9177,
+          "pct": 0.1,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Union of the Ukrainians of Romania",
+          "party": "uur",
+          "votes": 8750,
+          "pct": 0.09,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Forum of Germans in Romania",
+          "party": "fdgr",
+          "votes": 8577,
+          "pct": 0.09,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Union of Serbs of Romania",
+          "party": "serbs",
+          "votes": 7962,
+          "pct": 0.09,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Hellenic Union of Romania",
+          "party": "greeks",
+          "votes": 7565,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Community of the Lipovan Russians in Romania",
+          "party": "crlr",
+          "votes": 7434,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Union of Slovaks and Czechs of Romania",
+          "party": "slovaks",
+          "votes": 7420,
+          "pct": 0.08,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Federation of the Jewish Communities in Romania",
+          "party": "jews",
+          "votes": 5281,
+          "pct": 0.06,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Bulgarian Union of Banat–Romania",
+          "party": "bulgarians",
+          "votes": 5089,
+          "pct": 0.06,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Union of Turkic-Muslim Tatars of Romania",
+          "party": "tatars",
+          "votes": 4908,
+          "pct": 0.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Union of Armenians of Romania",
+          "party": "armenians",
+          "votes": 4747,
+          "pct": 0.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Cultural Union of Ruthenians of Romania",
+          "party": "ruthenians",
+          "votes": 4571,
+          "pct": 0.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Democratic Turkish Union of Romania",
+          "party": "turks",
+          "votes": 4547,
+          "pct": 0.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Union of Croats of Romania",
+          "party": "croats",
+          "votes": 4413,
+          "pct": 0.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Union of Poles of Romania \"Dom Polski\"",
+          "party": "poles",
+          "votes": 4215,
+          "pct": 0.05,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Association of Italians of Romania",
+          "party": "italassoc",
+          "votes": 4128,
+          "pct": 0.04,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Forum of Czechs in Romania",
+          "party": "czechs",
+          "votes": 2817,
+          "pct": 0.03,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Health Education Nature Sustainability Party",
+          "party": "sens",
+          "votes": 276494,
+          "pct": 2.99,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Force of the Right",
+          "party": "fdr",
+          "votes": 189678,
+          "pct": 2.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "United Social Democratic Party",
+          "party": "psdu",
+          "votes": 177137,
+          "pct": 1.92,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Renewing Romania's European Project",
+          "party": "reper",
+          "votes": 114223,
+          "pct": 1.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Justice and Respect in Europe for All Party",
+          "party": "dreptate",
+          "votes": 107474,
+          "pct": 1.16,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 325790,
+          "pct": 3.52,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Alba","abbr":"AB","winner":"psd","margin":1.1,"turnout":45.7,"votes":178450,"results":[{"party":"psd","pct":30.2,"votes":53892},{"party":"aur","pct":29.1,"votes":51929},{"party":"pnl","pct":23.5,"votes":41936},{"party":"usr","pct":10.9,"votes":19451},{"party":"sos","pct":6.3,"votes":11242}]},
+        {"name":"Arad","abbr":"AR","winner":"aur","margin":11.9,"turnout":55.7,"votes":242011,"results":[{"party":"aur","pct":31.9,"votes":77202},{"party":"pnl","pct":20,"votes":48402},{"party":"psd","pct":19.2,"votes":46466},{"party":"usr","pct":15,"votes":36302},{"party":"sos","pct":13.8,"votes":33398}]},
+        {"name":"Argeș","abbr":"AG","winner":"psd","margin":15.6,"turnout":53.9,"votes":200382,"results":[{"party":"psd","pct":39.3,"votes":78750},{"party":"aur","pct":23.7,"votes":47491},{"party":"usr","pct":17.5,"votes":35067},{"party":"pnl","pct":10.7,"votes":21441},{"party":"sos","pct":8.8,"votes":17634}]},
+        {"name":"Bacău","abbr":"BC","winner":"aur","margin":0.6,"turnout":55.8,"votes":192856,"results":[{"party":"aur","pct":26,"votes":50143},{"party":"psd","pct":25.4,"votes":48985},{"party":"pnl","pct":20.5,"votes":39535},{"party":"usr","pct":17.3,"votes":33364},{"party":"sos","pct":10.8,"votes":20828}]},
+        {"name":"Bihor","abbr":"BH","winner":"psd","margin":0.4,"turnout":48.1,"votes":236178,"results":[{"party":"psd","pct":27.1,"votes":64004},{"party":"aur","pct":26.7,"votes":63060},{"party":"sos","pct":17.4,"votes":41095},{"party":"usr","pct":16.1,"votes":38025},{"party":"pnl","pct":12.7,"votes":29995}]},
+        {"name":"Bistrița-Năsăud","abbr":"BN","winner":"psd","margin":2.2,"turnout":59.1,"votes":193232,"results":[{"party":"psd","pct":33.8,"votes":65312},{"party":"aur","pct":31.6,"votes":61061},{"party":"pnl","pct":17.8,"votes":34395},{"party":"usr","pct":9.3,"votes":17971},{"party":"sos","pct":7.6,"votes":14686}]},
+        {"name":"Botoșani","abbr":"BT","winner":"psd","margin":3.3,"turnout":47.2,"votes":206016,"results":[{"party":"psd","pct":32.3,"votes":66543},{"party":"aur","pct":29,"votes":59745},{"party":"usr","pct":16.4,"votes":33787},{"party":"sos","pct":11.6,"votes":23898},{"party":"pnl","pct":10.7,"votes":22044}]},
+        {"name":"Brăila","abbr":"BR","winner":"psd","margin":5.6,"turnout":55.5,"votes":236212,"results":[{"party":"psd","pct":32.7,"votes":77241},{"party":"aur","pct":27.1,"votes":64013},{"party":"usr","pct":16.6,"votes":39211},{"party":"pnl","pct":12.8,"votes":30235},{"party":"sos","pct":10.8,"votes":25511}]},
+        {"name":"Brașov","abbr":"BV","winner":"aur","margin":5.9,"turnout":47.6,"votes":250847,"results":[{"party":"aur","pct":35.4,"votes":88800},{"party":"psd","pct":29.5,"votes":74000},{"party":"pnl","pct":15.8,"votes":39634},{"party":"sos","pct":10.7,"votes":26841},{"party":"usr","pct":8.6,"votes":21573}]},
+        {"name":"Bucharest","abbr":"B","winner":"aur","margin":3.2,"turnout":58.4,"votes":250964,"results":[{"party":"aur","pct":29.7,"votes":74536},{"party":"psd","pct":26.5,"votes":66505},{"party":"usr","pct":23.6,"votes":59228},{"party":"pnl","pct":13.8,"votes":34633},{"party":"sos","pct":6.3,"votes":15811}]},
+        {"name":"Buzău","abbr":"BZ","winner":"psd","margin":19.9,"turnout":54.7,"votes":214806,"results":[{"party":"psd","pct":38.4,"votes":82486},{"party":"aur","pct":18.5,"votes":39739},{"party":"pnl","pct":15.3,"votes":32865},{"party":"sos","pct":14.4,"votes":30932},{"party":"usr","pct":13.4,"votes":28784}]},
+        {"name":"Călărași","abbr":"CL","winner":"psd","margin":11.7,"turnout":47.3,"votes":221009,"results":[{"party":"psd","pct":33.4,"votes":73817},{"party":"aur","pct":21.7,"votes":47959},{"party":"usr","pct":17,"votes":37572},{"party":"sos","pct":15.8,"votes":34919},{"party":"pnl","pct":12.2,"votes":26963}]},
+        {"name":"Caraș-Severin","abbr":"CS","winner":"aur","margin":1.8,"turnout":51.4,"votes":263192,"results":[{"party":"aur","pct":24.7,"votes":65008},{"party":"usr","pct":22.9,"votes":60271},{"party":"pnl","pct":21.1,"votes":55534},{"party":"psd","pct":20.6,"votes":54218},{"party":"sos","pct":10.7,"votes":28162}]},
+        {"name":"Cluj","abbr":"CJ","winner":"aur","margin":16.1,"turnout":57.9,"votes":261731,"results":[{"party":"aur","pct":35.1,"votes":91868},{"party":"usr","pct":19,"votes":49729},{"party":"psd","pct":18.1,"votes":47373},{"party":"pnl","pct":15.4,"votes":40307},{"party":"sos","pct":12.4,"votes":32455}]},
+        {"name":"Constanța","abbr":"CT","winner":"aur","margin":17,"turnout":51.2,"votes":217143,"results":[{"party":"aur","pct":39.4,"votes":85554},{"party":"psd","pct":22.4,"votes":48640},{"party":"sos","pct":16.3,"votes":35394},{"party":"pnl","pct":11.7,"votes":25406},{"party":"usr","pct":10.3,"votes":22366}]},
+        {"name":"Covasna","abbr":"CV","winner":"aur","margin":0.9,"turnout":49.3,"votes":239416,"results":[{"party":"aur","pct":26.7,"votes":63924},{"party":"usr","pct":25.8,"votes":61769},{"party":"psd","pct":23.3,"votes":55784},{"party":"pnl","pct":17.1,"votes":40940},{"party":"sos","pct":7.1,"votes":16999}]},
+        {"name":"Dâmbovița","abbr":"DB","winner":"aur","margin":10.1,"turnout":53.5,"votes":255014,"results":[{"party":"aur","pct":32.5,"votes":82880},{"party":"psd","pct":22.4,"votes":57123},{"party":"pnl","pct":20.5,"votes":52278},{"party":"sos","pct":13.5,"votes":34427},{"party":"usr","pct":11.1,"votes":28307}]},
+        {"name":"Dolj","abbr":"DJ","winner":"psd","margin":7.1,"turnout":59,"votes":215904,"results":[{"party":"psd","pct":32.4,"votes":69953},{"party":"aur","pct":25.3,"votes":54624},{"party":"usr","pct":23.3,"votes":50306},{"party":"pnl","pct":11.5,"votes":24829},{"party":"sos","pct":7.6,"votes":16409}]},
+        {"name":"Galați","abbr":"GL","winner":"aur","margin":1.3,"turnout":46,"votes":192491,"results":[{"party":"aur","pct":24.4,"votes":46968},{"party":"usr","pct":23.1,"votes":44465},{"party":"psd","pct":21.3,"votes":41001},{"party":"pnl","pct":16.2,"votes":31184},{"party":"sos","pct":15,"votes":28874}]},
+        {"name":"Giurgiu","abbr":"GR","winner":"psd","margin":24.1,"turnout":53.2,"votes":261788,"results":[{"party":"psd","pct":43.3,"votes":113354},{"party":"aur","pct":19.2,"votes":50263},{"party":"pnl","pct":14.8,"votes":38745},{"party":"sos","pct":11.5,"votes":30106},{"party":"usr","pct":11.3,"votes":29582}]},
+        {"name":"Gorj","abbr":"GJ","winner":"aur","margin":7.8,"turnout":55.9,"votes":185613,"results":[{"party":"aur","pct":34.5,"votes":64036},{"party":"pnl","pct":26.7,"votes":49559},{"party":"psd","pct":16.5,"votes":30626},{"party":"usr","pct":13.2,"votes":24501},{"party":"sos","pct":9.1,"votes":16891}]},
+        {"name":"Harghita","abbr":"HR","winner":"aur","margin":12.1,"turnout":54.1,"votes":243585,"results":[{"party":"aur","pct":35.6,"votes":86716},{"party":"pnl","pct":23.5,"votes":57242},{"party":"psd","pct":15.2,"votes":37025},{"party":"usr","pct":13.3,"votes":32397},{"party":"sos","pct":12.3,"votes":29961}]},
+        {"name":"Hunedoara","abbr":"HD","winner":"psd","margin":14.7,"turnout":46.1,"votes":198823,"results":[{"party":"psd","pct":36.7,"votes":72968},{"party":"aur","pct":22,"votes":43741},{"party":"pnl","pct":17.6,"votes":34993},{"party":"usr","pct":12,"votes":23859},{"party":"sos","pct":11.7,"votes":23262}]},
+        {"name":"Ialomița","abbr":"IL","winner":"aur","margin":5.6,"turnout":51.4,"votes":218105,"results":[{"party":"aur","pct":30.6,"votes":66740},{"party":"psd","pct":25,"votes":54526},{"party":"usr","pct":16.8,"votes":36642},{"party":"pnl","pct":16,"votes":34897},{"party":"sos","pct":11.5,"votes":25082}]},
+        {"name":"Iași","abbr":"IS","winner":"psd","margin":6.4,"turnout":53.2,"votes":254379,"results":[{"party":"psd","pct":34.1,"votes":86743},{"party":"aur","pct":27.7,"votes":70463},{"party":"usr","pct":16.9,"votes":42990},{"party":"pnl","pct":15.1,"votes":38411},{"party":"sos","pct":6.2,"votes":15771}]},
+        {"name":"Ilfov","abbr":"IF","winner":"psd","margin":1.3,"turnout":54.1,"votes":183047,"results":[{"party":"psd","pct":29.3,"votes":53633},{"party":"aur","pct":28,"votes":51253},{"party":"pnl","pct":22.1,"votes":40453},{"party":"usr","pct":12,"votes":21966},{"party":"sos","pct":8.7,"votes":15925}]},
+        {"name":"Maramureș","abbr":"MM","winner":"psd","margin":11.1,"turnout":46.4,"votes":226528,"results":[{"party":"psd","pct":31.5,"votes":71356},{"party":"pnl","pct":20.4,"votes":46212},{"party":"usr","pct":20.4,"votes":46212},{"party":"aur","pct":18.3,"votes":41455},{"party":"sos","pct":9.5,"votes":21520}]},
+        {"name":"Mehedinți","abbr":"MH","winner":"psd","margin":10.6,"turnout":51.6,"votes":227913,"results":[{"party":"psd","pct":34.2,"votes":77946},{"party":"aur","pct":23.6,"votes":53787},{"party":"pnl","pct":17,"votes":38745},{"party":"usr","pct":15.8,"votes":36010},{"party":"sos","pct":9.4,"votes":21424}]},
+        {"name":"Mureș","abbr":"MS","winner":"psd","margin":16.2,"turnout":59.2,"votes":203794,"results":[{"party":"psd","pct":34.9,"votes":71124},{"party":"pnl","pct":18.7,"votes":38109},{"party":"sos","pct":17.3,"votes":35256},{"party":"aur","pct":17,"votes":34645},{"party":"usr","pct":12.1,"votes":24659}]},
+        {"name":"Neamț","abbr":"NT","winner":"psd","margin":5.4,"turnout":53.6,"votes":206572,"results":[{"party":"psd","pct":30.9,"votes":63831},{"party":"aur","pct":25.5,"votes":52676},{"party":"usr","pct":20.8,"votes":42967},{"party":"pnl","pct":12.3,"votes":25408},{"party":"sos","pct":10.6,"votes":21897}]},
+        {"name":"Olt","abbr":"OT","winner":"psd","margin":13.4,"turnout":53.4,"votes":250593,"results":[{"party":"psd","pct":36,"votes":90213},{"party":"pnl","pct":22.6,"votes":56634},{"party":"aur","pct":20.1,"votes":50369},{"party":"sos","pct":10.9,"votes":27315},{"party":"usr","pct":10.4,"votes":26062}]},
+        {"name":"Prahova","abbr":"PH","winner":"psd","margin":18.1,"turnout":53.1,"votes":243070,"results":[{"party":"psd","pct":37.1,"votes":90179},{"party":"usr","pct":19,"votes":46183},{"party":"aur","pct":18.7,"votes":45454},{"party":"pnl","pct":16.3,"votes":39620},{"party":"sos","pct":9,"votes":21876}]},
+        {"name":"Sălaj","abbr":"SJ","winner":"psd","margin":8.6,"turnout":53.4,"votes":177720,"results":[{"party":"psd","pct":35.3,"votes":62735},{"party":"aur","pct":26.7,"votes":47451},{"party":"usr","pct":19.8,"votes":35189},{"party":"pnl","pct":11.6,"votes":20616},{"party":"sos","pct":6.7,"votes":11907}]},
+        {"name":"Satu Mare","abbr":"SM","winner":"psd","margin":4.7,"turnout":58.1,"votes":246933,"results":[{"party":"psd","pct":29,"votes":71611},{"party":"aur","pct":24.3,"votes":60005},{"party":"pnl","pct":19.9,"votes":49140},{"party":"usr","pct":16.2,"votes":40003},{"party":"sos","pct":10.6,"votes":26175}]},
+        {"name":"Sibiu","abbr":"SB","winner":"psd","margin":4.7,"turnout":54.3,"votes":257758,"results":[{"party":"psd","pct":24.9,"votes":64182},{"party":"aur","pct":20.2,"votes":52067},{"party":"usr","pct":20.2,"votes":52067},{"party":"pnl","pct":19.1,"votes":49232},{"party":"sos","pct":15.7,"votes":40468}]},
+        {"name":"Suceava","abbr":"SV","winner":"psd","margin":5.8,"turnout":54,"votes":181671,"results":[{"party":"psd","pct":30.3,"votes":55046},{"party":"usr","pct":24.5,"votes":44509},{"party":"aur","pct":21.7,"votes":39423},{"party":"pnl","pct":15.1,"votes":27432},{"party":"sos","pct":8.4,"votes":15260}]},
+        {"name":"Teleorman","abbr":"TR","winner":"psd","margin":1.9,"turnout":58.9,"votes":180991,"results":[{"party":"psd","pct":26.3,"votes":47601},{"party":"pnl","pct":24.4,"votes":44162},{"party":"usr","pct":18.6,"votes":33664},{"party":"aur","pct":16.3,"votes":29502},{"party":"sos","pct":14.5,"votes":26244}]},
+        {"name":"Timiș","abbr":"TM","winner":"aur","margin":3.6,"turnout":48,"votes":193052,"results":[{"party":"aur","pct":32.9,"votes":63514},{"party":"psd","pct":29.3,"votes":56564},{"party":"usr","pct":16,"votes":30888},{"party":"pnl","pct":14.7,"votes":28379},{"party":"sos","pct":7.1,"votes":13707}]},
+        {"name":"Tulcea","abbr":"TL","winner":"psd","margin":8.4,"turnout":52.3,"votes":197955,"results":[{"party":"psd","pct":28.7,"votes":56813},{"party":"usr","pct":20.3,"votes":40185},{"party":"aur","pct":20.1,"votes":39789},{"party":"pnl","pct":17.8,"votes":35236},{"party":"sos","pct":13.1,"votes":25932}]},
+        {"name":"Vâlcea","abbr":"VL","winner":"usr","margin":2.8,"turnout":53,"votes":251378,"results":[{"party":"usr","pct":26.6,"votes":66867},{"party":"aur","pct":23.8,"votes":59828},{"party":"psd","pct":20.6,"votes":51784},{"party":"pnl","pct":16.4,"votes":41226},{"party":"sos","pct":12.7,"votes":31925}]},
+        {"name":"Vaslui","abbr":"VS","winner":"psd","margin":10.8,"turnout":50.6,"votes":188378,"results":[{"party":"psd","pct":35.2,"votes":66309},{"party":"aur","pct":24.4,"votes":45964},{"party":"pnl","pct":21.1,"votes":39748},{"party":"usr","pct":11.9,"votes":22417},{"party":"sos","pct":7.4,"votes":13940}]},
+        {"name":"Vrancea","abbr":"VN","winner":"aur","margin":2.4,"turnout":57.6,"votes":241134,"results":[{"party":"aur","pct":28.6,"votes":68964},{"party":"pnl","pct":26.2,"votes":63177},{"party":"usr","pct":21.1,"votes":50879},{"party":"psd","pct":17.8,"votes":42922},{"party":"sos","pct":6.3,"votes":15191}]}
+      ]
+    },
+    {
+      "id": "ro-senate-2024",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2024-12-01",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 52.5,
+      "system": "136 seats, list proportional by county",
+      "totalSeats": 136,
+      "majority": 69,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Permanent Electoral Authority",
+        "url": "https://en.wikipedia.org/wiki/2024_Romanian_parliamentary_election"
+      },
+      "candidates": [
+        {
+          "name": "Social Democratic Party",
+          "party": "psd",
+          "votes": 2065087,
+          "pct": 22.3,
+          "seats": 36,
+          "change": -11,
+          "winner": true
+        },
+        {
+          "name": "Alliance for the Union of Romanians",
+          "party": "aur",
+          "votes": 1694705,
+          "pct": 18.3,
+          "seats": 28,
+          "change": 14
+        },
+        {
+          "name": "National Liberal Party",
+          "party": "pnl",
+          "votes": 1322468,
+          "pct": 14.28,
+          "seats": 22,
+          "change": -19
+        },
+        {
+          "name": "Save Romania Union",
+          "party": "usr",
+          "votes": 1134831,
+          "pct": 12.26,
+          "seats": 19,
+          "change": -6
+        },
+        {
+          "name": "S.O.S. Romania",
+          "party": "sos",
+          "votes": 718409,
+          "pct": 7.76,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Democratic Union of Hungarians in Romania",
+          "party": "udmr",
+          "votes": 590783,
+          "pct": 6.38,
+          "seats": 10,
+          "change": 1
+        },
+        {
+          "name": "Party of Young People",
+          "party": "pot",
+          "votes": 591927,
+          "pct": 6.39,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Health Education Nature Sustainability Party",
+          "party": "sens",
+          "votes": 263173,
+          "pct": 2.84,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Force of the Right",
+          "party": "fdr",
+          "votes": 173703,
+          "pct": 1.88,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "United Social Democratic Party",
+          "party": "psdu",
+          "votes": 164659,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Renewing Romania's European Project",
+          "party": "reper",
+          "votes": 126408,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Justice and Respect in Europe for All Party",
+          "party": "dreptate",
+          "votes": 114500,
+          "pct": 1.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 299304,
+          "pct": 3.23,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "votes": null,
+          "pct": null,
+          "seats": 2
+        }
+      ],
+      "regions": [
+        {"name":"Alba","abbr":"AB","winner":"pnl","margin":4.2,"turnout":54.4,"votes":227522,"results":[{"party":"pnl","pct":28.9,"votes":65754},{"party":"aur","pct":24.7,"votes":56198},{"party":"usr","pct":18,"votes":40954},{"party":"psd","pct":16.6,"votes":37769},{"party":"sos","pct":11.8,"votes":26848}]},
+        {"name":"Arad","abbr":"AR","winner":"psd","margin":8.3,"turnout":57,"votes":198523,"results":[{"party":"psd","pct":35.2,"votes":69880},{"party":"aur","pct":26.9,"votes":53403},{"party":"pnl","pct":15.1,"votes":29977},{"party":"usr","pct":12,"votes":23823},{"party":"sos","pct":10.8,"votes":21440}]},
+        {"name":"Argeș","abbr":"AG","winner":"pnl","margin":10.4,"turnout":56.9,"votes":197108,"results":[{"party":"pnl","pct":31.1,"votes":61301},{"party":"psd","pct":20.7,"votes":40801},{"party":"usr","pct":17.4,"votes":34297},{"party":"aur","pct":15.6,"votes":30749},{"party":"sos","pct":15.3,"votes":30158}]},
+        {"name":"Bacău","abbr":"BC","winner":"psd","margin":10.2,"turnout":56.4,"votes":214732,"results":[{"party":"psd","pct":32,"votes":68714},{"party":"usr","pct":21.8,"votes":46812},{"party":"aur","pct":19.1,"votes":41014},{"party":"sos","pct":13.7,"votes":29418},{"party":"pnl","pct":13.3,"votes":28559}]},
+        {"name":"Bihor","abbr":"BH","winner":"psd","margin":8.2,"turnout":49.6,"votes":184602,"results":[{"party":"psd","pct":31.8,"votes":58703},{"party":"pnl","pct":23.6,"votes":43566},{"party":"usr","pct":20,"votes":36920},{"party":"aur","pct":17.7,"votes":32675},{"party":"sos","pct":6.8,"votes":12553}]},
+        {"name":"Bistrița-Năsăud","abbr":"BN","winner":"psd","margin":16.2,"turnout":58.2,"votes":254020,"results":[{"party":"psd","pct":37.3,"votes":94749},{"party":"usr","pct":21.1,"votes":53598},{"party":"aur","pct":20.4,"votes":51820},{"party":"sos","pct":11.1,"votes":28196},{"party":"pnl","pct":10.1,"votes":25656}]},
+        {"name":"Botoșani","abbr":"BT","winner":"aur","margin":7.3,"turnout":59,"votes":258623,"results":[{"party":"aur","pct":30.8,"votes":79656},{"party":"psd","pct":23.5,"votes":60776},{"party":"usr","pct":18.8,"votes":48621},{"party":"pnl","pct":13.6,"votes":35173},{"party":"sos","pct":13.2,"votes":34138}]},
+        {"name":"Brăila","abbr":"BR","winner":"aur","margin":4.1,"turnout":57.2,"votes":179776,"results":[{"party":"aur","pct":32.4,"votes":58247},{"party":"psd","pct":28.3,"votes":50877},{"party":"usr","pct":20.1,"votes":36135},{"party":"pnl","pct":10,"votes":17978},{"party":"sos","pct":9.2,"votes":16539}]},
+        {"name":"Brașov","abbr":"BV","winner":"psd","margin":1,"turnout":59.5,"votes":243175,"results":[{"party":"psd","pct":25.2,"votes":61280},{"party":"aur","pct":24.2,"votes":58848},{"party":"pnl","pct":22.4,"votes":54471},{"party":"usr","pct":20.4,"votes":49608},{"party":"sos","pct":7.7,"votes":18724}]},
+        {"name":"Bucharest","abbr":"B","winner":"aur","margin":9.1,"turnout":48,"votes":193717,"results":[{"party":"aur","pct":31.3,"votes":60633},{"party":"psd","pct":22.2,"votes":43005},{"party":"usr","pct":21.9,"votes":42424},{"party":"pnl","pct":15.8,"votes":30607},{"party":"sos","pct":8.7,"votes":16853}]},
+        {"name":"Buzău","abbr":"BZ","winner":"psd","margin":10.5,"turnout":53.2,"votes":258155,"results":[{"party":"psd","pct":38,"votes":98099},{"party":"aur","pct":27.5,"votes":70993},{"party":"usr","pct":16.6,"votes":42854},{"party":"pnl","pct":11.1,"votes":28655},{"party":"sos","pct":6.7,"votes":17296}]},
+        {"name":"Călărași","abbr":"CL","winner":"aur","margin":14.5,"turnout":58.1,"votes":203920,"results":[{"party":"aur","pct":35.1,"votes":71576},{"party":"psd","pct":20.6,"votes":42008},{"party":"pnl","pct":16.6,"votes":33851},{"party":"sos","pct":14.3,"votes":29161},{"party":"usr","pct":13.4,"votes":27325}]},
+        {"name":"Caraș-Severin","abbr":"CS","winner":"psd","margin":0.9,"turnout":54.2,"votes":181331,"results":[{"party":"psd","pct":30.2,"votes":54762},{"party":"aur","pct":29.3,"votes":53130},{"party":"usr","pct":16.4,"votes":29738},{"party":"pnl","pct":14.6,"votes":26474},{"party":"sos","pct":9.5,"votes":17226}]},
+        {"name":"Cluj","abbr":"CJ","winner":"aur","margin":10.4,"turnout":56,"votes":211053,"results":[{"party":"aur","pct":34.8,"votes":73446},{"party":"usr","pct":24.4,"votes":51497},{"party":"psd","pct":17.5,"votes":36934},{"party":"pnl","pct":13.2,"votes":27859},{"party":"sos","pct":10.1,"votes":21316}]},
+        {"name":"Constanța","abbr":"CT","winner":"psd","margin":6.1,"turnout":49,"votes":194387,"results":[{"party":"psd","pct":31,"votes":60260},{"party":"aur","pct":24.9,"votes":48402},{"party":"usr","pct":18.4,"votes":35767},{"party":"pnl","pct":14.2,"votes":27603},{"party":"sos","pct":11.5,"votes":22355}]},
+        {"name":"Covasna","abbr":"CV","winner":"aur","margin":1.1,"turnout":55.1,"votes":214887,"results":[{"party":"aur","pct":23.8,"votes":51143},{"party":"usr","pct":22.7,"votes":48779},{"party":"psd","pct":21.4,"votes":45986},{"party":"pnl","pct":16.5,"votes":35456},{"party":"sos","pct":15.7,"votes":33737}]},
+        {"name":"Dâmbovița","abbr":"DB","winner":"psd","margin":7.2,"turnout":54.4,"votes":218863,"results":[{"party":"psd","pct":33,"votes":72225},{"party":"pnl","pct":25.8,"votes":56467},{"party":"aur","pct":24.9,"votes":54497},{"party":"usr","pct":10.1,"votes":22105},{"party":"sos","pct":6.1,"votes":13351}]},
+        {"name":"Dolj","abbr":"DJ","winner":"psd","margin":6.3,"turnout":56.3,"votes":208661,"results":[{"party":"psd","pct":32.8,"votes":68441},{"party":"aur","pct":26.5,"votes":55295},{"party":"pnl","pct":23.6,"votes":49244},{"party":"usr","pct":10,"votes":20866},{"party":"sos","pct":7.1,"votes":14815}]},
+        {"name":"Galați","abbr":"GL","winner":"psd","margin":19.5,"turnout":49.4,"votes":225088,"results":[{"party":"psd","pct":38.4,"votes":86434},{"party":"pnl","pct":18.9,"votes":42542},{"party":"usr","pct":16.8,"votes":37815},{"party":"aur","pct":16.7,"votes":37590},{"party":"sos","pct":9.1,"votes":20483}]},
+        {"name":"Giurgiu","abbr":"GR","winner":"psd","margin":5.9,"turnout":52.4,"votes":206459,"results":[{"party":"psd","pct":35.1,"votes":72467},{"party":"aur","pct":29.2,"votes":60286},{"party":"usr","pct":14.2,"votes":29317},{"party":"sos","pct":12.1,"votes":24982},{"party":"pnl","pct":9.3,"votes":19201}]},
+        {"name":"Gorj","abbr":"GJ","winner":"psd","margin":2.6,"turnout":56.4,"votes":208392,"results":[{"party":"psd","pct":33.9,"votes":70645},{"party":"aur","pct":31.3,"votes":65227},{"party":"pnl","pct":20.7,"votes":43137},{"party":"usr","pct":7.6,"votes":15838},{"party":"sos","pct":6.5,"votes":13545}]},
+        {"name":"Harghita","abbr":"HR","winner":"pnl","margin":1.3,"turnout":48.1,"votes":195651,"results":[{"party":"pnl","pct":25,"votes":48913},{"party":"aur","pct":23.7,"votes":46369},{"party":"usr","pct":19.9,"votes":38935},{"party":"psd","pct":16.9,"votes":33065},{"party":"sos","pct":14.5,"votes":28369}]},
+        {"name":"Hunedoara","abbr":"HD","winner":"aur","margin":5,"turnout":58.4,"votes":247637,"results":[{"party":"aur","pct":32,"votes":79244},{"party":"psd","pct":27,"votes":66862},{"party":"usr","pct":21.9,"votes":54233},{"party":"pnl","pct":10.1,"votes":25011},{"party":"sos","pct":9.1,"votes":22535}]},
+        {"name":"Ialomița","abbr":"IL","winner":"aur","margin":2.8,"turnout":46.7,"votes":253922,"results":[{"party":"aur","pct":33.8,"votes":85826},{"party":"psd","pct":31,"votes":78716},{"party":"usr","pct":17.9,"votes":45452},{"party":"pnl","pct":11.9,"votes":30217},{"party":"sos","pct":5.4,"votes":13712}]},
+        {"name":"Iași","abbr":"IS","winner":"pnl","margin":13.5,"turnout":47.9,"votes":218755,"results":[{"party":"pnl","pct":35.4,"votes":77439},{"party":"psd","pct":21.9,"votes":47907},{"party":"aur","pct":19.5,"votes":42657},{"party":"usr","pct":12.9,"votes":28219},{"party":"sos","pct":10.3,"votes":22532}]},
+        {"name":"Ilfov","abbr":"IF","winner":"psd","margin":12,"turnout":52,"votes":193981,"results":[{"party":"psd","pct":34.4,"votes":66729},{"party":"aur","pct":22.4,"votes":43452},{"party":"pnl","pct":18.4,"votes":35693},{"party":"usr","pct":17.7,"votes":34335},{"party":"sos","pct":7.2,"votes":13967}]},
+        {"name":"Maramureș","abbr":"MM","winner":"aur","margin":9.4,"turnout":57.6,"votes":207019,"results":[{"party":"aur","pct":31.3,"votes":64797},{"party":"pnl","pct":21.9,"votes":45337},{"party":"usr","pct":19.1,"votes":39541},{"party":"psd","pct":14.7,"votes":30432},{"party":"sos","pct":13,"votes":26912}]},
+        {"name":"Mehedinți","abbr":"MH","winner":"aur","margin":5.3,"turnout":54.2,"votes":231717,"results":[{"party":"aur","pct":31.7,"votes":73454},{"party":"psd","pct":26.4,"votes":61173},{"party":"pnl","pct":20.8,"votes":48197},{"party":"usr","pct":12.5,"votes":28965},{"party":"sos","pct":8.6,"votes":19928}]},
+        {"name":"Mureș","abbr":"MS","winner":"psd","margin":4.6,"turnout":57.2,"votes":228178,"results":[{"party":"psd","pct":30.9,"votes":70507},{"party":"aur","pct":26.3,"votes":60011},{"party":"pnl","pct":18.3,"votes":41757},{"party":"usr","pct":15.8,"votes":36052},{"party":"sos","pct":8.7,"votes":19851}]},
+        {"name":"Neamț","abbr":"NT","winner":"psd","margin":21,"turnout":50.4,"votes":215660,"results":[{"party":"psd","pct":40,"votes":86264},{"party":"pnl","pct":19,"votes":40975},{"party":"aur","pct":17,"votes":36662},{"party":"usr","pct":13.5,"votes":29114},{"party":"sos","pct":10.5,"votes":22644}]},
+        {"name":"Olt","abbr":"OT","winner":"aur","margin":12.3,"turnout":50.3,"votes":205414,"results":[{"party":"aur","pct":33.5,"votes":68814},{"party":"psd","pct":21.2,"votes":43548},{"party":"pnl","pct":20.4,"votes":41904},{"party":"usr","pct":18.1,"votes":37180},{"party":"sos","pct":6.7,"votes":13763}]},
+        {"name":"Prahova","abbr":"PH","winner":"psd","margin":12.6,"turnout":46.6,"votes":203583,"results":[{"party":"psd","pct":34.2,"votes":69625},{"party":"pnl","pct":21.6,"votes":43974},{"party":"aur","pct":19.7,"votes":40106},{"party":"sos","pct":12.6,"votes":25651},{"party":"usr","pct":11.9,"votes":24226}]},
+        {"name":"Sălaj","abbr":"SJ","winner":"psd","margin":4.2,"turnout":52.8,"votes":223486,"results":[{"party":"psd","pct":30.5,"votes":68163},{"party":"aur","pct":26.3,"votes":58777},{"party":"pnl","pct":21,"votes":46932},{"party":"sos","pct":11.3,"votes":25254},{"party":"usr","pct":10.9,"votes":24360}]},
+        {"name":"Satu Mare","abbr":"SM","winner":"aur","margin":3.2,"turnout":49.2,"votes":214577,"results":[{"party":"aur","pct":31.8,"votes":68235},{"party":"psd","pct":28.6,"votes":61369},{"party":"usr","pct":18.6,"votes":39911},{"party":"pnl","pct":10.9,"votes":23389},{"party":"sos","pct":10,"votes":21458}]},
+        {"name":"Sibiu","abbr":"SB","winner":"psd","margin":17.4,"turnout":51.3,"votes":186222,"results":[{"party":"psd","pct":41.3,"votes":76910},{"party":"aur","pct":23.9,"votes":44507},{"party":"usr","pct":15.7,"votes":29237},{"party":"pnl","pct":10.5,"votes":19553},{"party":"sos","pct":8.6,"votes":16015}]},
+        {"name":"Suceava","abbr":"SV","winner":"aur","margin":1.8,"turnout":51.2,"votes":229128,"results":[{"party":"aur","pct":23.8,"votes":54532},{"party":"pnl","pct":22,"votes":50408},{"party":"usr","pct":21.8,"votes":49950},{"party":"psd","pct":18.8,"votes":43076},{"party":"sos","pct":13.7,"votes":31391}]},
+        {"name":"Teleorman","abbr":"TR","winner":"pnl","margin":6.2,"turnout":55.2,"votes":200487,"results":[{"party":"pnl","pct":31.3,"votes":62752},{"party":"psd","pct":25.1,"votes":50322},{"party":"aur","pct":22.2,"votes":44508},{"party":"usr","pct":13.5,"votes":27066},{"party":"sos","pct":7.9,"votes":15838}]},
+        {"name":"Timiș","abbr":"TM","winner":"psd","margin":12.6,"turnout":58.8,"votes":206762,"results":[{"party":"psd","pct":37,"votes":76502},{"party":"pnl","pct":24.4,"votes":50450},{"party":"usr","pct":20.1,"votes":41559},{"party":"aur","pct":13.1,"votes":27086},{"party":"sos","pct":5.5,"votes":11372}]},
+        {"name":"Tulcea","abbr":"TL","winner":"psd","margin":1,"turnout":57.9,"votes":191804,"results":[{"party":"psd","pct":25.8,"votes":49485},{"party":"pnl","pct":24.8,"votes":47567},{"party":"aur","pct":22.1,"votes":42389},{"party":"usr","pct":15.5,"votes":29730},{"party":"sos","pct":11.7,"votes":22441}]},
+        {"name":"Vâlcea","abbr":"VL","winner":"pnl","margin":3.4,"turnout":57.5,"votes":234122,"results":[{"party":"pnl","pct":26.7,"votes":62511},{"party":"psd","pct":23.3,"votes":54550},{"party":"usr","pct":21.2,"votes":49634},{"party":"aur","pct":19.6,"votes":45888},{"party":"sos","pct":9.1,"votes":21305}]},
+        {"name":"Vaslui","abbr":"VS","winner":"aur","margin":15.7,"turnout":45.7,"votes":206280,"results":[{"party":"aur","pct":39.5,"votes":81481},{"party":"pnl","pct":23.8,"votes":49095},{"party":"psd","pct":20.2,"votes":41669},{"party":"usr","pct":9.8,"votes":20215},{"party":"sos","pct":6.8,"votes":14027}]},
+        {"name":"Vrancea","abbr":"VN","winner":"psd","margin":0.1,"turnout":59.4,"votes":201327,"results":[{"party":"psd","pct":25.5,"votes":51338},{"party":"pnl","pct":25.4,"votes":51137},{"party":"aur","pct":23.9,"votes":48117},{"party":"usr","pct":13.7,"votes":27582},{"party":"sos","pct":11.5,"votes":23153}]}
+      ]
+    }
+  ]
+}

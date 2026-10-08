@@ -3,8 +3,8 @@ import { nextText } from './status.js';
 import { fmtInt, fmtPct, fmtDate, fmtFullDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
 import { chamber, duel, historyRows, pollChart } from './charts.js';
 
-// Others, and seats a source has no results for yet, list after the parties.
-const rest = c => c.party === 'oth' || c.party === 'nis';
+// Others, vacant seats and seats a source has no results for list after the parties.
+const rest = c => ['oth', 'nis', 'vac', 'vacant'].includes(c.party);
 
 export function renderCountry(panel, ctx, { meta, country: initial, archive, electionId }) {
   const { schedule, globe } = ctx;
@@ -244,14 +244,15 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const named = view.candidates.filter(c => c.party !== 'oth');
     const won = named.find(c => c.winner);
     const top = [...named].sort((a, b) => (b.pct ?? 0) - (a.pct ?? 0))[0];
-    const rule = rounds ? null
+    const rule = el.annulled ? 'Annulled'
+      : rounds ? null
       : named.length === 1 ? 'Unopposed'
       : !won ? (/single-round/i.test(el.system ?? '') ? 'The most votes wins' : null)
       : el.chosenBy ? `Chosen by ${el.chosenBy}`
       : won.pct == null ? null
       : won !== top ? 'Shares are from the first count'
       : won.pct > 50 ? 'Won with a majority of the vote' : 'Won with the most votes';
-    const opts = { cands, total, majority, chamberSize: el.chamberSize, seatLabel, hasSeats, isFinalRound, rule, party };
+    const opts = { cands, total, majority, chamberSize: el.chamberSize, annulled: el.annulled, seatLabel, hasSeats, isFinalRound, rule, party };
     const chart = el.kind === 'presidential' || !hasSeats ? duel(opts) : chamber(opts);
 
     const facts = [
@@ -284,7 +285,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
             <h2>${el.office}${picked ? ` <span>${el.label ?? el.date.slice(0, 4)}</span>` : ''}</h2>
             ${el.system || el.note ? `<p class="el-system">${[el.note, el.system].filter(Boolean).join(' · ')}</p>` : ''}
           </div>
-          <span class="pill ${live ? 'live' : ''}">${live ? '<i class="live-dot"></i>Live' : sim ? 'Simulated' : el.call?.status === 'runoff' ? 'To run-off' : 'Final result'}</span>
+          <span class="pill ${live ? 'live' : ''}">${live ? '<i class="live-dot"></i>Live' : sim ? 'Simulated' : el.annulled ? 'Annulled' : el.call?.status === 'runoff' ? 'To run-off' : 'Final result'}</span>
         </header>
         <dl class="facts">${facts.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
         ${call ? `<p class="el-call ${call.tone}">${call.text}</p>` : ''}

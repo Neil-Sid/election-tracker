@@ -94,6 +94,8 @@ for (const file of files) {
     // A first round whose run-off is still to come flags the two going through instead.
     if (el.call?.status === 'runoff') {
       if (winners.length || el.candidates.filter(c => c.advanced).length !== 2) errors.push(`${at}: a pending run-off needs two candidates flagged advanced and no winner`);
+    } else if (el.annulled) {
+      if (winners.length) errors.push(`${at}: an annulled election flags no winner`);
     } else if (winners.length !== 1) errors.push(`${at}: ${winners.length} winners flagged, expected 1`);
     if (el.kind !== 'presidential' || el.totalSeats != null) {
       const seats = el.candidates.reduce((n, c) => n + (c.seats ?? 0), 0);

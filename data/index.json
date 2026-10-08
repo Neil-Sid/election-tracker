@@ -788,6 +788,27 @@
         "provinces"
       ],
       "history": true
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "atlasId": "642",
+      "marker": [
+        24.9,
+        45.9
+      ],
+      "view": {
+        "center": [
+          25,
+          45.9
+        ],
+        "span": 4.4
+      },
+      "regionTerm": [
+        "county",
+        "counties"
+      ],
+      "history": true
     }
   ]
 }
