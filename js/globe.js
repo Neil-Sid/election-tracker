@@ -3,6 +3,7 @@ import { loadWorld, loadDetail, loadRegions, loadDistricts, contains, atDetail }
 const HOME = [-35, 24];
 const MARGIN = 28;
 const DETAIL_ZOOM = 1.7;
+const MOVING_DETAIL = 16;
 const THEME_KEYS = ['ocean', 'ocean-edge', 'land', 'land-line', 'land-dim', 'grat', 'tracked', 'tracked-dim', 'tracked-soon',
   'tracked-live', 'hover', 'uncalled', 'hatch-bg', 'hatch-line', 'shade-mid', 'shade-lo', 'fg', 'bg'];
 
@@ -32,6 +33,9 @@ export async function createGlobe(pane, { countries }) {
   let vel = [0, 0];
   let fly = null;
   let dragging = false;
+  // While the globe moves, shapes are drawn from a coarser copy (most of a
+  // frame is projecting points); the frame after it stops is drawn in full.
+  let moving = false;
   let pointerInside = false;
   let lastInput = -Infinity;
   let lastFrame = performance.now();
@@ -130,7 +134,7 @@ export async function createGlobe(pane, { countries }) {
     const center = [-rot[0], -rot[1]];
     const cap = visibleCap();
     const seen = s => d3.geoDistance(center, s.c) - s.r < cap;
-    const tolerance = 0.5 / Math.pow(R * k * dpr, 2);
+    const tolerance = (moving ? MOVING_DETAIL : 1) * 0.5 / Math.pow(R * k * dpr, 2);
     const shape = s => atDetail(s, tolerance);
     // d3 caches its projection pipeline per output target, so shapes are
     // drawn in batches that share a target instead of switching per shape.
@@ -279,7 +283,7 @@ export async function createGlobe(pane, { countries }) {
 
   // One animation step at time t: flights, inertia, idle spin, zoom easing.
   function step(t) {
-    const dt = Math.min(50, t - lastFrame);
+    const dt = Math.max(0, Math.min(50, t - lastFrame));
     lastFrame = t;
     if (fly) {
       const p = Math.max(0, Math.min(1, (t - fly.start) / fly.dur));
@@ -310,6 +314,9 @@ export async function createGlobe(pane, { countries }) {
       detail = [];
       loadDetail().then(d => { detail = d; dirty = true; }).catch(() => { detail = null; });
     }
+    const nowMoving = Boolean(fly) || dragging || zoomTarget != null || Math.abs(vel[0]) + Math.abs(vel[1]) > 0.0008;
+    if (moving && !nowMoving) dirty = true;
+    moving = nowMoving;
     if (dirty) {
       render();
       dirty = false;
@@ -451,6 +458,9 @@ export async function createGlobe(pane, { countries }) {
     if (prev?.type === 'country' && next?.type !== 'country') handlers.countryHover?.(null);
     if (next?.type === 'region') handlers.regionHover?.(next.abbr, event);
     if (next?.type === 'country') handlers.countryHover?.(next.meta, next.feature, event);
+    // Every country's regions are prepared once (~100 ms); starting on the first
+    // hover over a tracked country keeps that pause out of the fly-in.
+    if (next?.type === 'country' && next.meta) loadRegions();
     const clickable = next?.type === 'region' || (next?.type === 'country' && next.meta);
     canvas.classList.toggle('pointing', Boolean(clickable));
   }
