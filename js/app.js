@@ -6,7 +6,6 @@ import { renderCountry } from './country.js';
 
 const panel = document.getElementById('panel');
 const pane = document.querySelector('.globe-pane');
-const liveNav = document.querySelector('.live-nav');
 const hint = pane.querySelector('.globe-hint');
 const legend = pane.querySelector('.globe-legend');
 const POLL_MS = 2 * 60 * 1000;
@@ -67,7 +66,6 @@ async function poll() {
   if (!changed.includes(true)) return;
   refreshStatuses();
   ctx.globe.setStatuses(ctx.statuses);
-  renderLiveNav();
   ctx.onLive?.();
 }
 
@@ -80,7 +78,6 @@ async function route() {
 
   const [raw, electionId] = location.hash.replace(/^#\/?/, '').split('/');
   const code = (raw || '').toUpperCase();
-  renderLiveNav();
 
   let dispose;
   if (!code) {
@@ -101,13 +98,6 @@ async function route() {
   panel.classList.add('enter');
   teardown = dispose;
   poll();
-}
-
-function renderLiveNav() {
-  liveNav.innerHTML = [...ctx.live.keys()].map(code => {
-    const c = ctx.index.countries.find(x => x.code === code);
-    return `<a href="#/${code}"><i class="live-dot"></i>${c.name}</a>`;
-  }).join('');
 }
 
 boot().catch(err => {
