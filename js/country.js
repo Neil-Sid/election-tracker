@@ -593,7 +593,6 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       ${src ? `
         <section class="block">
           <h2 class="block-title">Results and calls</h2>
-          <p class="prose">${ctx.sources.policy}</p>
           <dl class="spec">
             <div><dt>Source</dt><dd><a href="${src.url}" target="_blank" rel="noopener">${src.name}</a></dd></div>
             <div><dt>Role</dt><dd>${src.role}</dd></div>

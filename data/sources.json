@@ -1,5 +1,4 @@
 {
-  "policy": "For now the tracker uses no API for race calls. It calls races itself from the counted results it holds: a region is called when it has finished counting, or when the leader's margin is larger than every vote left to count. Exit polls and media projections are never used. The authority below publishes each country's official results.",
   "countries": {
     "US": {
       "name": "State and local election offices",
