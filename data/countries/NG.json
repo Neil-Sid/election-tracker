@@ -1,0 +1,561 @@
+{
+  "code": "NG",
+  "name": "Nigeria",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Federal presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "National Assembly: Senate (109) and House of Representatives (360)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 93469008,
+    "offices": {
+      "President": "Elected for a four-year term in a modified two-round system: to win in the first round a candidate needs the most votes nationally and over 25% of the vote in at least 24 of the 36 states and the Federal Capital Territory, otherwise a second round, and if needed a third, is held. The president is head of state and of government.",
+      "Senate": "The 109 senators are elected for four-year terms by first past the post in single-member districts, three for each of the 36 states and one for the Federal Capital Territory. With the House of Representatives it forms the National Assembly, the federal legislature.",
+      "House of Representatives": "The 360 members are elected for four-year terms in single-member constituencies by first past the post. With the Senate it forms the National Assembly, the federal legislature."
+    }
+  },
+  "parties": {
+    "aa": {
+      "name": "Action Alliance",
+      "color": "#3498DB"
+    },
+    "accord": {
+      "name": "Accord",
+      "color": "#99FF33"
+    },
+    "acn": {
+      "name": "Action Congress of Nigeria",
+      "color": "#0080FF"
+    },
+    "ad": {
+      "name": "Alliance for Democracy",
+      "color": "#FF8C00"
+    },
+    "adapp": {
+      "name": "Alliance for Democracy–All People's Party",
+      "color": "#D82628"
+    },
+    "adc": {
+      "name": "African Democratic Congress",
+      "color": "#00A86B"
+    },
+    "adp": {
+      "name": "Action Democratic Party",
+      "color": "#000080"
+    },
+    "ag": {
+      "name": "Action Group",
+      "color": "#FF0000"
+    },
+    "anpp": {
+      "name": "All Nigeria Peoples Party",
+      "color": "#0000CD"
+    },
+    "apc": {
+      "name": "All Progressives Congress",
+      "color": "#87BEEB"
+    },
+    "apga": {
+      "name": "All Progressives Grand Alliance",
+      "color": "#E0DF27"
+    },
+    "apm": {
+      "name": "Allied Peoples Movement",
+      "color": "#00FFFF"
+    },
+    "app": {
+      "name": "All People's Party",
+      "color": "#4169E1"
+    },
+    "cnc": {
+      "name": "Congress for National Consensus",
+      "color": "#1565C0"
+    },
+    "cpc": {
+      "name": "Congress for Progressive Change",
+      "color": "#87CEFA"
+    },
+    "dpn": {
+      "name": "Democratic Party of Nigeria",
+      "color": "#C62828"
+    },
+    "dpp": {
+      "name": "Democratic People's Party",
+      "color": "#8B4513"
+    },
+    "gdm": {
+      "name": "Grassroots Democratic Movement",
+      "color": "#F9A825"
+    },
+    "gnpp": {
+      "name": "Great Nigeria People's Party",
+      "color": "#FFFF00"
+    },
+    "igala": {
+      "name": "Igala Union",
+      "color": "#B15928"
+    },
+    "igbira": {
+      "name": "Igbira Tribal Union",
+      "color": "#FB9A99"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "lp": {
+      "name": "Labour Party",
+      "color": "#DA251C"
+    },
+    "mdf": {
+      "name": "Midwest Democratic Front",
+      "color": "#E7298A"
+    },
+    "mga": {
+      "name": "Mabolaje Grand Alliance",
+      "color": "#FF7F00"
+    },
+    "nap": {
+      "name": "Nigeria Advance Party",
+      "color": "#A6761D"
+    },
+    "ncnc": {
+      "name": "National Council of Nigeria and the Cameroons",
+      "color": "#0000FF"
+    },
+    "ncpn": {
+      "name": "National Centre Party of Nigeria",
+      "color": "#6A1B9A"
+    },
+    "ndc": {
+      "name": "Niger Delta Congress",
+      "color": "#17BECF"
+    },
+    "ndp": {
+      "name": "National Democratic Party",
+      "color": "#808000"
+    },
+    "nepu": {
+      "name": "Northern Elements Progressive Union",
+      "color": "#00AB00"
+    },
+    "nndp": {
+      "name": "Nigerian National Democratic Party",
+      "color": "#E6AB02"
+    },
+    "nnpp": {
+      "name": "New Nigeria People's Party",
+      "color": "#00FF00"
+    },
+    "npc": {
+      "name": "Northern People's Congress",
+      "color": "#6A3D9A"
+    },
+    "npf": {
+      "name": "Northern Progressive Front",
+      "color": "#66A61E"
+    },
+    "npn": {
+      "name": "National Party of Nigeria",
+      "color": "#445FAC"
+    },
+    "npp": {
+      "name": "Nigerian People's Party",
+      "color": "#028C3B"
+    },
+    "nrc": {
+      "name": "National Republican Convention",
+      "color": "#D82628"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "pdp": {
+      "name": "Peoples Democratic Party",
+      "color": "#006903"
+    },
+    "ppa": {
+      "name": "Progressive Peoples Alliance",
+      "color": "#FFB300"
+    },
+    "ppn": {
+      "name": "People's Party of Nigeria",
+      "color": "#FF69B4"
+    },
+    "prp": {
+      "name": "People's Redemption Party",
+      "color": "#8E44AD"
+    },
+    "sdp": {
+      "name": "Social Democratic Party",
+      "color": "#1EB23C"
+    },
+    "uncp": {
+      "name": "United Nigeria Congress Party",
+      "color": "#00796B"
+    },
+    "unpp": {
+      "name": "United Nigeria People's Party",
+      "color": "#D81B60"
+    },
+    "upn": {
+      "name": "Unity Party of Nigeria",
+      "color": "#D82628"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "ypp": {
+      "name": "Young Progressives Party",
+      "color": "#810000"
+    }
+  },
+  "elections": [
+    {
+      "id": "ng-president-2023",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2023-02-25",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 26.71,
+      "system": "Popular vote with a state spread rule, four-year term",
+      "cite": {
+        "name": "the Independent National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Nigerian_presidential_election",
+      "note": "Disputed result",
+      "candidates": [
+        {
+          "name": "Bola Tinubu",
+          "party": "apc",
+          "votes": 8794726,
+          "pct": 36.61,
+          "winner": true
+        },
+        {
+          "name": "Atiku Abubakar",
+          "party": "pdp",
+          "votes": 6984520,
+          "pct": 29.07
+        },
+        {
+          "name": "Peter Obi",
+          "party": "lp",
+          "votes": 6101533,
+          "pct": 25.4
+        },
+        {
+          "name": "Rabiu Kwankwaso",
+          "party": "nnpp",
+          "votes": 1496687,
+          "pct": 6.23
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 648474,
+          "pct": 2.7
+        }
+      ],
+      "regions": [
+        {"name":"Abia","abbr":"AB","winner":"lp","margin":9.1,"turnout":35,"votes":555823,"results":[{"party":"lp","pct":38.7,"votes":215104},{"party":"apc","pct":29.6,"votes":164524},{"party":"pdp","pct":27.7,"votes":153963},{"party":"nnpp","pct":2.9,"votes":16119},{"party":"oth","pct":1,"votes":5558}]},
+        {"name":"Adamawa","abbr":"AD","winner":"pdp","margin":1,"turnout":35,"votes":759978,"results":[{"party":"pdp","pct":38.4,"votes":291832},{"party":"apc","pct":37.4,"votes":284232},{"party":"lp","pct":17.4,"votes":132236},{"party":"nnpp","pct":3.8,"votes":28879},{"party":"oth","pct":3,"votes":22799}]},
+        {"name":"Akwa Ibom","abbr":"AK","winner":"pdp","margin":3.6,"turnout":35,"votes":586583,"results":[{"party":"pdp","pct":37.2,"votes":218209},{"party":"apc","pct":33.6,"votes":197092},{"party":"lp","pct":20.4,"votes":119663},{"party":"nnpp","pct":6.3,"votes":36955},{"party":"oth","pct":2.6,"votes":15251}]},
+        {"name":"Anambra","abbr":"AN","winner":"lp","margin":1.4,"turnout":35,"votes":532129,"results":[{"party":"lp","pct":34.7,"votes":184649},{"party":"apc","pct":33.3,"votes":177199},{"party":"pdp","pct":22.8,"votes":121325},{"party":"nnpp","pct":6.9,"votes":36717},{"party":"oth","pct":2.3,"votes":12239}]},
+        {"name":"Bauchi","abbr":"BA","winner":"pdp","margin":0.6,"turnout":35,"votes":631678,"results":[{"party":"pdp","pct":39.8,"votes":251408},{"party":"apc","pct":39.2,"votes":247618},{"party":"lp","pct":14.3,"votes":90330},{"party":"nnpp","pct":4,"votes":25267},{"party":"oth","pct":2.8,"votes":17687}]},
+        {"name":"Bayelsa","abbr":"BY","winner":"pdp","margin":15.6,"turnout":35,"votes":533680,"results":[{"party":"pdp","pct":46.9,"votes":250296},{"party":"apc","pct":31.3,"votes":167042},{"party":"lp","pct":17.1,"votes":91259},{"party":"nnpp","pct":3.1,"votes":16544},{"party":"oth","pct":1.6,"votes":8539}]},
+        {"name":"Benue","abbr":"BE","winner":"apc","margin":9.4,"turnout":35,"votes":584447,"results":[{"party":"apc","pct":38.1,"votes":222674},{"party":"pdp","pct":28.7,"votes":167736},{"party":"lp","pct":27.3,"votes":159554},{"party":"nnpp","pct":3.3,"votes":19287},{"party":"oth","pct":2.6,"votes":15196}]},
+        {"name":"Borno","abbr":"BO","winner":"apc","margin":5.4,"turnout":35,"votes":587852,"results":[{"party":"apc","pct":35.9,"votes":211039},{"party":"pdp","pct":30.5,"votes":179295},{"party":"lp","pct":24.9,"votes":146375},{"party":"nnpp","pct":7.1,"votes":41737},{"party":"oth","pct":1.5,"votes":8818}]},
+        {"name":"Cross River","abbr":"CR","winner":"lp","margin":7.3,"turnout":35,"votes":535210,"results":[{"party":"lp","pct":40.3,"votes":215690},{"party":"apc","pct":33,"votes":176619},{"party":"pdp","pct":21.9,"votes":117211},{"party":"nnpp","pct":2.7,"votes":14451},{"party":"oth","pct":2.1,"votes":11239}]},
+        {"name":"Delta","abbr":"DE","winner":"lp","margin":10.6,"turnout":35,"votes":561293,"results":[{"party":"lp","pct":40,"votes":224517},{"party":"apc","pct":29.4,"votes":165020},{"party":"pdp","pct":23.8,"votes":133588},{"party":"nnpp","pct":4.5,"votes":25258},{"party":"oth","pct":2.2,"votes":12348}]},
+        {"name":"Ebonyi","abbr":"EB","winner":"lp","margin":11.3,"turnout":35,"votes":745935,"results":[{"party":"lp","pct":38.3,"votes":285693},{"party":"apc","pct":27,"votes":201402},{"party":"pdp","pct":26.9,"votes":200657},{"party":"nnpp","pct":5.3,"votes":39535},{"party":"oth","pct":2.4,"votes":17902}]},
+        {"name":"Edo","abbr":"ED","winner":"lp","margin":1,"turnout":35,"votes":697567,"results":[{"party":"lp","pct":30.5,"votes":212758},{"party":"pdp","pct":29.5,"votes":205782},{"party":"apc","pct":29.1,"votes":202992},{"party":"nnpp","pct":7.6,"votes":53015},{"party":"oth","pct":3.3,"votes":23020}]},
+        {"name":"Ekiti","abbr":"EK","winner":"apc","margin":28.7,"turnout":35,"votes":619637,"results":[{"party":"apc","pct":50.7,"votes":314156},{"party":"pdp","pct":22,"votes":136320},{"party":"lp","pct":14.9,"votes":92326},{"party":"nnpp","pct":8.4,"votes":52050},{"party":"oth","pct":4,"votes":24785}]},
+        {"name":"Enugu","abbr":"EN","winner":"lp","margin":0.5,"turnout":35,"votes":617575,"results":[{"party":"lp","pct":36.5,"votes":225415},{"party":"pdp","pct":36,"votes":222327},{"party":"apc","pct":19.8,"votes":122280},{"party":"nnpp","pct":6.2,"votes":38290},{"party":"oth","pct":1.5,"votes":9264}]},
+        {"name":"Federal Capital Territory","abbr":"FC","winner":"lp","margin":0.3,"turnout":35,"votes":594283,"results":[{"party":"lp","pct":35.3,"votes":209782},{"party":"pdp","pct":35,"votes":207999},{"party":"apc","pct":25.1,"votes":149165},{"party":"nnpp","pct":3,"votes":17828},{"party":"oth","pct":1.6,"votes":9509}]},
+        {"name":"Gombe","abbr":"GO","winner":"pdp","margin":3.8,"turnout":35,"votes":580292,"results":[{"party":"pdp","pct":36.2,"votes":210066},{"party":"apc","pct":32.4,"votes":188015},{"party":"lp","pct":27.7,"votes":160741},{"party":"nnpp","pct":2.6,"votes":15088},{"party":"oth","pct":1.2,"votes":6964}]},
+        {"name":"Imo","abbr":"IM","winner":"lp","margin":1.6,"turnout":35,"votes":571053,"results":[{"party":"lp","pct":32.7,"votes":186734},{"party":"apc","pct":31.1,"votes":177597},{"party":"pdp","pct":21.2,"votes":121063},{"party":"nnpp","pct":12.2,"votes":69668},{"party":"oth","pct":2.8,"votes":15989}]},
+        {"name":"Jigawa","abbr":"JI","winner":"apc","margin":12.2,"turnout":35,"votes":778001,"results":[{"party":"apc","pct":43.9,"votes":341542},{"party":"pdp","pct":31.7,"votes":246626},{"party":"lp","pct":16.5,"votes":128370},{"party":"nnpp","pct":6.6,"votes":51348},{"party":"oth","pct":1.3,"votes":10114}]},
+        {"name":"Kaduna","abbr":"KD","winner":"pdp","margin":7.9,"turnout":35,"votes":547897,"results":[{"party":"pdp","pct":41.3,"votes":226281},{"party":"apc","pct":33.4,"votes":182998},{"party":"lp","pct":20.7,"votes":113415},{"party":"nnpp","pct":3.6,"votes":19724},{"party":"oth","pct":1,"votes":5479}]},
+        {"name":"Kano","abbr":"KN","winner":"nnpp","margin":0.9,"turnout":35,"votes":527379,"results":[{"party":"nnpp","pct":29.8,"votes":157159},{"party":"apc","pct":28.9,"votes":152413},{"party":"lp","pct":21.7,"votes":114441},{"party":"pdp","pct":18.3,"votes":96510},{"party":"oth","pct":1.3,"votes":6856}]},
+        {"name":"Katsina","abbr":"KT","winner":"pdp","margin":13,"turnout":35,"votes":654243,"results":[{"party":"pdp","pct":43.8,"votes":286558},{"party":"apc","pct":30.8,"votes":201507},{"party":"lp","pct":20,"votes":130849},{"party":"nnpp","pct":2.9,"votes":18973},{"party":"oth","pct":2.5,"votes":16356}]},
+        {"name":"Kebbi","abbr":"KE","winner":"pdp","margin":0.8,"turnout":35,"votes":564970,"results":[{"party":"pdp","pct":37.9,"votes":214124},{"party":"apc","pct":37.1,"votes":209604},{"party":"lp","pct":17.4,"votes":98305},{"party":"nnpp","pct":4.9,"votes":27684},{"party":"oth","pct":2.7,"votes":15254}]},
+        {"name":"Kogi","abbr":"KO","winner":"apc","margin":17.6,"turnout":35,"votes":627637,"results":[{"party":"apc","pct":40.5,"votes":254193},{"party":"pdp","pct":22.9,"votes":143729},{"party":"lp","pct":20.2,"votes":126783},{"party":"nnpp","pct":12.8,"votes":80338},{"party":"oth","pct":3.7,"votes":23223}]},
+        {"name":"Kwara","abbr":"KW","winner":"apc","margin":5,"turnout":35,"votes":744174,"results":[{"party":"apc","pct":35.5,"votes":264182},{"party":"pdp","pct":30.5,"votes":226973},{"party":"lp","pct":28.6,"votes":212834},{"party":"nnpp","pct":3.7,"votes":27534},{"party":"oth","pct":1.7,"votes":12651}]},
+        {"name":"Lagos","abbr":"LA","winner":"lp","margin":1.5,"turnout":35,"votes":607044,"results":[{"party":"lp","pct":31.9,"votes":193647},{"party":"apc","pct":30.4,"votes":184541},{"party":"pdp","pct":21.9,"votes":132943},{"party":"nnpp","pct":11.3,"votes":68596},{"party":"oth","pct":4.5,"votes":27317}]},
+        {"name":"Nasarawa","abbr":"NA","winner":"lp","margin":3.5,"turnout":35,"votes":737633,"results":[{"party":"lp","pct":38.1,"votes":281038},{"party":"apc","pct":34.6,"votes":255221},{"party":"pdp","pct":14.9,"votes":109907},{"party":"nnpp","pct":8.7,"votes":64174},{"party":"oth","pct":3.7,"votes":27292}]},
+        {"name":"Niger","abbr":"NI","winner":"apc","margin":9.3,"turnout":35,"votes":578186,"results":[{"party":"apc","pct":39.5,"votes":228383},{"party":"pdp","pct":30.2,"votes":174612},{"party":"lp","pct":20.4,"votes":117950},{"party":"nnpp","pct":6.4,"votes":37004},{"party":"oth","pct":3.5,"votes":20237}]},
+        {"name":"Ogun","abbr":"OG","winner":"apc","margin":2.5,"turnout":35,"votes":522386,"results":[{"party":"apc","pct":37.2,"votes":194328},{"party":"pdp","pct":34.7,"votes":181268},{"party":"lp","pct":20.9,"votes":109179},{"party":"nnpp","pct":5.2,"votes":27164},{"party":"oth","pct":2.1,"votes":10970}]},
+        {"name":"Ondo","abbr":"ON","winner":"apc","margin":4,"turnout":35,"votes":552298,"results":[{"party":"apc","pct":41.1,"votes":226994},{"party":"pdp","pct":37.1,"votes":204903},{"party":"lp","pct":16.1,"votes":88920},{"party":"oth","pct":2.9,"votes":16017},{"party":"nnpp","pct":2.8,"votes":15464}]},
+        {"name":"Osun","abbr":"OS","winner":"pdp","margin":2.3,"turnout":35,"votes":584442,"results":[{"party":"pdp","pct":36.1,"votes":210984},{"party":"apc","pct":33.8,"votes":197541},{"party":"lp","pct":24.9,"votes":145526},{"party":"nnpp","pct":3.7,"votes":21624},{"party":"oth","pct":1.5,"votes":8767}]},
+        {"name":"Oyo","abbr":"OY","winner":"apc","margin":5.5,"turnout":35,"votes":666802,"results":[{"party":"apc","pct":36.5,"votes":243383},{"party":"lp","pct":31,"votes":206709},{"party":"pdp","pct":26,"votes":173369},{"party":"nnpp","pct":4.5,"votes":30006},{"party":"oth","pct":2,"votes":13336}]},
+        {"name":"Plateau","abbr":"PL","winner":"lp","margin":2.1,"turnout":35,"votes":638311,"results":[{"party":"lp","pct":38.4,"votes":245111},{"party":"apc","pct":36.3,"votes":231707},{"party":"pdp","pct":19.7,"votes":125747},{"party":"nnpp","pct":3.5,"votes":22341},{"party":"oth","pct":2.2,"votes":14043}]},
+        {"name":"Rivers","abbr":"RI","winner":"apc","margin":10.6,"turnout":35,"votes":594802,"results":[{"party":"apc","pct":40.4,"votes":240300},{"party":"lp","pct":29.8,"votes":177251},{"party":"pdp","pct":24.3,"votes":144537},{"party":"nnpp","pct":3.5,"votes":20818},{"party":"oth","pct":2,"votes":11896}]},
+        {"name":"Sokoto","abbr":"SO","winner":"pdp","margin":2.5,"turnout":35,"votes":700021,"results":[{"party":"pdp","pct":36.1,"votes":252708},{"party":"apc","pct":33.6,"votes":235207},{"party":"lp","pct":24.1,"votes":168705},{"party":"nnpp","pct":3.5,"votes":24501},{"party":"oth","pct":2.8,"votes":19601}]},
+        {"name":"Taraba","abbr":"TA","winner":"pdp","margin":9.7,"turnout":35,"votes":520946,"results":[{"party":"pdp","pct":41.3,"votes":215151},{"party":"apc","pct":31.6,"votes":164619},{"party":"lp","pct":15.2,"votes":79184},{"party":"nnpp","pct":8.4,"votes":43759},{"party":"oth","pct":3.5,"votes":18233}]},
+        {"name":"Yobe","abbr":"YO","winner":"pdp","margin":6.2,"turnout":35,"votes":577496,"results":[{"party":"pdp","pct":42.8,"votes":247168},{"party":"apc","pct":36.6,"votes":211364},{"party":"lp","pct":15.2,"votes":87779},{"party":"nnpp","pct":3.5,"votes":20212},{"party":"oth","pct":1.9,"votes":10972}]},
+        {"name":"Zamfara","abbr":"ZA","winner":"apc","margin":8.9,"turnout":35,"votes":642216,"results":[{"party":"apc","pct":38.6,"votes":247895},{"party":"pdp","pct":29.7,"votes":190738},{"party":"lp","pct":24.5,"votes":157343},{"party":"nnpp","pct":5.7,"votes":36606},{"party":"oth","pct":1.4,"votes":8991}]}
+      ]
+    },
+    {
+      "id": "ng-senate-2023",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2023-02-25",
+      "status": "final",
+      "reporting": 100,
+      "system": "109 seats, three per state and one for the capital",
+      "totalSeats": 109,
+      "majority": 55,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Independent National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Nigerian_Senate_election",
+      "statesSourced": {
+        "n": 35,
+        "of": 37
+      },
+      "candidates": [
+        {
+          "name": "All Progressives Congress",
+          "party": "apc",
+          "votes": null,
+          "pct": null,
+          "seats": 59,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Peoples Democratic Party",
+          "party": "pdp",
+          "votes": null,
+          "pct": null,
+          "seats": 37,
+          "change": -7
+        },
+        {
+          "name": "Labour Party",
+          "party": "lp",
+          "votes": null,
+          "pct": null,
+          "seats": 7,
+          "change": 7
+        },
+        {
+          "name": "New Nigeria People's Party",
+          "party": "nnpp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "sdp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "All Progressives Grand Alliance",
+          "party": "apga",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Young Progressives Party",
+          "party": "ypp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Abia","abbr":"AB","winner":"apc","margin":38.6,"turnout":66.7,"results":[{"party":"apc","pct":65},{"party":"pdp","pct":26.4},{"party":"lp","pct":4.2},{"party":"nnpp","pct":2.5},{"party":"sdp","pct":1.9}]},
+        {"name":"Adamawa","abbr":"AD","winner":"pdp","margin":1,"turnout":66.8,"results":[{"party":"pdp","pct":47},{"party":"apc","pct":46},{"party":"lp","pct":3.8},{"party":"nnpp","pct":1.6},{"party":"sdp","pct":1.6}]},
+        {"name":"Akwa Ibom","abbr":"AK","winner":"pdp","margin":5.3,"turnout":56.7,"results":[{"party":"pdp","pct":50},{"party":"apc","pct":44.7},{"party":"lp","pct":2.6},{"party":"sdp","pct":1.7},{"party":"nnpp","pct":1.1}]},
+        {"name":"Anambra","abbr":"AN","winner":"lp","margin":5.7,"turnout":53.2,"results":[{"party":"lp","pct":42},{"party":"apc","pct":36.3},{"party":"pdp","pct":20},{"party":"nnpp","pct":0.9},{"party":"sdp","pct":0.8}]},
+        {"name":"Bauchi","abbr":"BA","winner":"pdp","margin":1,"turnout":62.4,"results":[{"party":"pdp","pct":45},{"party":"apc","pct":44},{"party":"lp","pct":8.1},{"party":"nnpp","pct":2.1},{"party":"sdp","pct":0.8}]},
+        {"name":"Bayelsa","abbr":"BY","winner":"pdp","margin":21.9,"turnout":59.3,"results":[{"party":"pdp","pct":58.1},{"party":"apc","pct":36.2},{"party":"lp","pct":3.8},{"party":"nnpp","pct":1.4},{"party":"sdp","pct":0.5}]},
+        {"name":"Benue","abbr":"BE","winner":"apc","margin":42.8,"turnout":65.3,"results":[{"party":"apc","pct":67.4},{"party":"pdp","pct":24.6},{"party":"lp","pct":4.8},{"party":"sdp","pct":1.9},{"party":"nnpp","pct":1.3}]},
+        {"name":"Borno","abbr":"BO","winner":"apc","margin":17.9,"turnout":66.9,"results":[{"party":"apc","pct":54.7},{"party":"pdp","pct":36.8},{"party":"lp","pct":5.4},{"party":"sdp","pct":2},{"party":"nnpp","pct":1.1}]},
+        {"name":"Cross River","abbr":"CR","winner":"apc","margin":11.5,"turnout":59.9,"results":[{"party":"apc","pct":51.4},{"party":"pdp","pct":39.9},{"party":"lp","pct":5.8},{"party":"sdp","pct":2},{"party":"nnpp","pct":0.9}]},
+        {"name":"Delta","abbr":"DE","winner":"apc","margin":16.4,"turnout":63.6,"results":[{"party":"apc","pct":53.7},{"party":"pdp","pct":37.3},{"party":"lp","pct":5.2},{"party":"nnpp","pct":2.3},{"party":"sdp","pct":1.5}]},
+        {"name":"Ebonyi","abbr":"EB","winner":"apc","margin":25.4,"turnout":55.4,"results":[{"party":"apc","pct":56.7},{"party":"pdp","pct":31.3},{"party":"lp","pct":6.8},{"party":"nnpp","pct":2.7},{"party":"sdp","pct":2.6}]},
+        {"name":"Edo","abbr":"ED","winner":"apc","margin":9.9,"turnout":53.1,"results":[{"party":"apc","pct":50.3},{"party":"pdp","pct":40.4},{"party":"lp","pct":5.2},{"party":"nnpp","pct":2.2},{"party":"sdp","pct":2}]},
+        {"name":"Ekiti","abbr":"EK","winner":"apc","margin":5.4,"turnout":57,"results":[{"party":"apc","pct":48.2},{"party":"pdp","pct":42.8},{"party":"lp","pct":5.2},{"party":"nnpp","pct":2},{"party":"sdp","pct":1.8}]},
+        {"name":"Enugu","abbr":"EN","winner":"apc","margin":41.7,"turnout":54.9,"results":[{"party":"apc","pct":65.8},{"party":"pdp","pct":24.1},{"party":"lp","pct":5.7},{"party":"sdp","pct":2.7},{"party":"nnpp","pct":1.7}]},
+        {"name":"Federal Capital Territory","abbr":"FC","winner":"lp","margin":7,"turnout":66.9,"results":[{"party":"lp","pct":38.4},{"party":"apc","pct":31.4},{"party":"pdp","pct":27},{"party":"sdp","pct":1.9},{"party":"nnpp","pct":1.4}]},
+        {"name":"Gombe","abbr":"GO","winner":"pdp","margin":5.3,"turnout":57.9,"results":[{"party":"pdp","pct":50.4},{"party":"apc","pct":45.1},{"party":"lp","pct":1.9},{"party":"sdp","pct":1.5},{"party":"nnpp","pct":1.2}]},
+        {"name":"Imo","abbr":"IM","winner":"apc","margin":47.6,"turnout":66.1,"results":[{"party":"apc","pct":66.7},{"party":"pdp","pct":19.1},{"party":"lp","pct":9.4},{"party":"nnpp","pct":2.4},{"party":"sdp","pct":2.4}]},
+        {"name":"Jigawa","abbr":"JI","winner":"apc","margin":25.5,"turnout":65.4,"results":[{"party":"apc","pct":59},{"party":"pdp","pct":33.5},{"party":"lp","pct":4.1},{"party":"nnpp","pct":1.8},{"party":"sdp","pct":1.6}]},
+        {"name":"Kaduna","abbr":"KD","winner":"pdp","margin":8.5,"turnout":55.1,"results":[{"party":"pdp","pct":48.3},{"party":"apc","pct":39.8},{"party":"lp","pct":7.6},{"party":"sdp","pct":2.6},{"party":"nnpp","pct":1.7}]},
+        {"name":"Kano","abbr":"KN","winner":"nnpp","margin":2.5,"turnout":56.5,"results":[{"party":"nnpp","pct":41.2},{"party":"apc","pct":38.7},{"party":"pdp","pct":15.2},{"party":"lp","pct":3.6},{"party":"sdp","pct":1.3}]},
+        {"name":"Katsina","abbr":"KT","winner":"apc","margin":27,"turnout":60.8,"results":[{"party":"apc","pct":60.5},{"party":"pdp","pct":33.5},{"party":"lp","pct":3.6},{"party":"nnpp","pct":1.4},{"party":"sdp","pct":0.9}]},
+        {"name":"Kebbi","abbr":"KE","winner":"pdp","margin":10.4,"turnout":62.4,"results":[{"party":"pdp","pct":50.9},{"party":"apc","pct":40.5},{"party":"lp","pct":4.4},{"party":"sdp","pct":2.6},{"party":"nnpp","pct":1.6}]},
+        {"name":"Kogi","abbr":"KO","winner":"apc","margin":43.7,"turnout":64.9,"results":[{"party":"apc","pct":66.8},{"party":"pdp","pct":23.1},{"party":"lp","pct":7.3},{"party":"nnpp","pct":1.6},{"party":"sdp","pct":1.2}]},
+        {"name":"Kwara","abbr":"KW","winner":"apc","margin":0.2,"turnout":55.8,"results":[{"party":"apc","pct":43},{"party":"pdp","pct":42.8},{"party":"lp","pct":8},{"party":"sdp","pct":3.8},{"party":"nnpp","pct":2.4}]},
+        {"name":"Lagos","abbr":"LA","winner":"apc","margin":7.1,"turnout":53,"results":[{"party":"apc","pct":46.4},{"party":"pdp","pct":39.3},{"party":"lp","pct":10},{"party":"sdp","pct":2.7},{"party":"nnpp","pct":1.6}]},
+        {"name":"Nasarawa","abbr":"NA","winner":"sdp","margin":2.2,"turnout":61.9,"results":[{"party":"sdp","pct":40.3},{"party":"apc","pct":38.1},{"party":"pdp","pct":16},{"party":"lp","pct":3.9},{"party":"nnpp","pct":1.7}]},
+        {"name":"Niger","abbr":"NI","winner":"apc","margin":3.4,"turnout":54,"results":[{"party":"apc","pct":46},{"party":"pdp","pct":42.6},{"party":"lp","pct":8.4},{"party":"sdp","pct":1.9},{"party":"nnpp","pct":1}]},
+        {"name":"Ogun","abbr":"OG","winner":"apc","margin":46.1,"turnout":58.8,"results":[{"party":"apc","pct":66.9},{"party":"pdp","pct":20.8},{"party":"lp","pct":9.2},{"party":"nnpp","pct":2.2},{"party":"sdp","pct":0.9}]},
+        {"name":"Ondo","abbr":"ON","winner":"apc","margin":24.4,"turnout":58.3,"results":[{"party":"apc","pct":55},{"party":"pdp","pct":30.6},{"party":"lp","pct":10.8},{"party":"nnpp","pct":2.6},{"party":"sdp","pct":1.1}]},
+        {"name":"Osun","abbr":"OS","winner":"pdp","margin":0.5,"turnout":54.2,"results":[{"party":"pdp","pct":45.5},{"party":"apc","pct":45},{"party":"lp","pct":6},{"party":"nnpp","pct":1.8},{"party":"sdp","pct":1.6}]},
+        {"name":"Oyo","abbr":"OY","winner":"apc","margin":51.7,"turnout":61,"results":[{"party":"apc","pct":69.7},{"party":"pdp","pct":18},{"party":"lp","pct":7.6},{"party":"nnpp","pct":2.5},{"party":"sdp","pct":2.3}]},
+        {"name":"Plateau","abbr":"PL","winner":"pdp","margin":2.2,"turnout":66.3,"results":[{"party":"pdp","pct":46},{"party":"apc","pct":43.8},{"party":"lp","pct":6.7},{"party":"sdp","pct":2.1},{"party":"nnpp","pct":1.4}]},
+        {"name":"Rivers","abbr":"RI","winner":"pdp","margin":11.2,"turnout":64.1,"results":[{"party":"pdp","pct":52.1},{"party":"apc","pct":40.9},{"party":"lp","pct":4.3},{"party":"nnpp","pct":1.4},{"party":"sdp","pct":1.3}]},
+        {"name":"Sokoto","abbr":"SO","winner":"apc","margin":1,"turnout":58.2,"results":[{"party":"apc","pct":47},{"party":"pdp","pct":46},{"party":"lp","pct":3.3},{"party":"nnpp","pct":2.2},{"party":"sdp","pct":1.5}]},
+        {"name":"Taraba","abbr":"TA","winner":"pdp","margin":1.5,"turnout":63.5,"results":[{"party":"pdp","pct":45.8},{"party":"apc","pct":44.3},{"party":"lp","pct":6.3},{"party":"nnpp","pct":2.4},{"party":"sdp","pct":1.2}]},
+        {"name":"Yobe","abbr":"YO","winner":"apc","margin":18.1,"turnout":64.7,"results":[{"party":"apc","pct":55.2},{"party":"pdp","pct":37.1},{"party":"lp","pct":4.4},{"party":"nnpp","pct":1.8},{"party":"sdp","pct":1.5}]},
+        {"name":"Zamfara","abbr":"ZA","winner":"apc","margin":17.4,"turnout":58.6,"results":[{"party":"apc","pct":48.6},{"party":"pdp","pct":31.2},{"party":"lp","pct":14.8},{"party":"sdp","pct":3.5},{"party":"nnpp","pct":1.9}]}
+      ]
+    },
+    {
+      "id": "ng-house-of-representatives-2023",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2023-02-25",
+      "status": "final",
+      "reporting": 100,
+      "system": "360 seats, first past the post",
+      "totalSeats": 360,
+      "majority": 181,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Independent National Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2023_Nigerian_House_of_Representatives_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Nigerian_House_of_Representatives_election",
+      "statesSourced": {
+        "n": 32,
+        "of": 37
+      },
+      "candidates": [
+        {
+          "name": "All Progressives Congress",
+          "party": "apc",
+          "votes": null,
+          "pct": null,
+          "seats": 176,
+          "change": -36,
+          "winner": true
+        },
+        {
+          "name": "Peoples Democratic Party",
+          "party": "pdp",
+          "votes": null,
+          "pct": null,
+          "seats": 119,
+          "change": -8
+        },
+        {
+          "name": "Labour Party",
+          "party": "lp",
+          "votes": null,
+          "pct": null,
+          "seats": 35,
+          "change": 34
+        },
+        {
+          "name": "New Nigeria People's Party",
+          "party": "nnpp",
+          "votes": null,
+          "pct": null,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "All Progressives Grand Alliance",
+          "party": "apga",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": -5
+        },
+        {
+          "name": "African Democratic Congress",
+          "party": "adc",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "sdp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Young Progressives Party",
+          "party": "ypp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": -6
+        }
+      ],
+      "regions": [
+        {"name":"Abia","abbr":"AB","winner":"lp","margin":0.7,"turnout":64.3,"results":[{"party":"lp","pct":38.1},{"party":"pdp","pct":37.4},{"party":"apc","pct":20.7},{"party":"nnpp","pct":2.3},{"party":"apga","pct":1.4}]},
+        {"name":"Adamawa","abbr":"AD","winner":"pdp","margin":4,"turnout":66.8,"results":[{"party":"pdp","pct":45.9},{"party":"apc","pct":41.9},{"party":"lp","pct":7.3},{"party":"nnpp","pct":3.9},{"party":"apga","pct":1}]},
+        {"name":"Akwa Ibom","abbr":"AK","winner":"pdp","margin":2.9,"turnout":53.7,"results":[{"party":"pdp","pct":45.1},{"party":"apc","pct":42.2},{"party":"lp","pct":7.6},{"party":"nnpp","pct":3.7},{"party":"apga","pct":1.5}]},
+        {"name":"Anambra","abbr":"AN","winner":"lp","margin":0.3,"turnout":63.1,"results":[{"party":"lp","pct":35.5},{"party":"apc","pct":35.2},{"party":"pdp","pct":24.5},{"party":"nnpp","pct":4.1},{"party":"apga","pct":0.7}]},
+        {"name":"Bauchi","abbr":"BA","winner":"pdp","margin":10.4,"turnout":54.5,"results":[{"party":"pdp","pct":50.1},{"party":"apc","pct":39.7},{"party":"lp","pct":4.7},{"party":"nnpp","pct":4.4},{"party":"apga","pct":1.2}]},
+        {"name":"Bayelsa","abbr":"BY","winner":"pdp","margin":11.8,"turnout":62.7,"results":[{"party":"pdp","pct":51.8},{"party":"apc","pct":40},{"party":"nnpp","pct":4},{"party":"lp","pct":3},{"party":"apga","pct":1.1}]},
+        {"name":"Benue","abbr":"BE","winner":"apc","margin":21.8,"turnout":60.9,"results":[{"party":"apc","pct":50.8},{"party":"pdp","pct":29},{"party":"lp","pct":9.2},{"party":"nnpp","pct":8.3},{"party":"apga","pct":2.6}]},
+        {"name":"Borno","abbr":"BO","winner":"apc","margin":4.5,"turnout":65.6,"results":[{"party":"apc","pct":40.7},{"party":"pdp","pct":36.2},{"party":"lp","pct":17.3},{"party":"nnpp","pct":4.8},{"party":"apga","pct":0.9}]},
+        {"name":"Cross River","abbr":"CR","winner":"apc","margin":17.2,"turnout":55.7,"results":[{"party":"apc","pct":51.5},{"party":"pdp","pct":34.3},{"party":"lp","pct":10.2},{"party":"nnpp","pct":2.6},{"party":"apga","pct":1.4}]},
+        {"name":"Delta","abbr":"DE","winner":"pdp","margin":0.4,"turnout":65.1,"results":[{"party":"pdp","pct":40.7},{"party":"apc","pct":40.3},{"party":"lp","pct":13.5},{"party":"nnpp","pct":3.9},{"party":"apga","pct":1.6}]},
+        {"name":"Ebonyi","abbr":"EB","winner":"apc","margin":27.3,"turnout":58.6,"results":[{"party":"apc","pct":56.1},{"party":"pdp","pct":28.8},{"party":"nnpp","pct":8},{"party":"lp","pct":6.3},{"party":"apga","pct":0.8}]},
+        {"name":"Edo","abbr":"ED","winner":"apc","margin":8.7,"turnout":57.8,"results":[{"party":"apc","pct":46.6},{"party":"pdp","pct":37.9},{"party":"lp","pct":11.5},{"party":"nnpp","pct":3.4},{"party":"apga","pct":0.6}]},
+        {"name":"Ekiti","abbr":"EK","winner":"apc","margin":27,"turnout":65.5,"results":[{"party":"apc","pct":55},{"party":"pdp","pct":28},{"party":"lp","pct":9.5},{"party":"nnpp","pct":6},{"party":"apga","pct":1.6}]},
+        {"name":"Enugu","abbr":"EN","winner":"lp","margin":9.6,"turnout":56.2,"results":[{"party":"lp","pct":41.9},{"party":"apc","pct":32.3},{"party":"pdp","pct":22.9},{"party":"nnpp","pct":2.3},{"party":"apga","pct":0.5}]},
+        {"name":"Federal Capital Territory","abbr":"FC","winner":"apc","margin":32.7,"turnout":64,"results":[{"party":"apc","pct":55.4},{"party":"pdp","pct":22.7},{"party":"lp","pct":14.4},{"party":"nnpp","pct":6},{"party":"apga","pct":1.4}]},
+        {"name":"Gombe","abbr":"GO","winner":"pdp","margin":13.7,"turnout":64.8,"results":[{"party":"pdp","pct":48.5},{"party":"apc","pct":34.8},{"party":"lp","pct":10},{"party":"nnpp","pct":4.5},{"party":"apga","pct":2.3}]},
+        {"name":"Imo","abbr":"IM","winner":"apc","margin":45.8,"turnout":56.4,"results":[{"party":"apc","pct":68},{"party":"pdp","pct":22.2},{"party":"lp","pct":5.2},{"party":"nnpp","pct":3.4},{"party":"apga","pct":1.2}]},
+        {"name":"Jigawa","abbr":"JI","winner":"apc","margin":12.3,"turnout":62.9,"results":[{"party":"apc","pct":48.6},{"party":"pdp","pct":36.3},{"party":"lp","pct":8.8},{"party":"nnpp","pct":5.1},{"party":"apga","pct":1.2}]},
+        {"name":"Kaduna","abbr":"KD","winner":"pdp","margin":7.3,"turnout":58.3,"results":[{"party":"pdp","pct":47.4},{"party":"apc","pct":40.1},{"party":"lp","pct":7.1},{"party":"nnpp","pct":4.5},{"party":"apga","pct":1}]},
+        {"name":"Kano","abbr":"KN","winner":"nnpp","margin":10.9,"turnout":55.9,"results":[{"party":"nnpp","pct":39.9},{"party":"pdp","pct":29},{"party":"apc","pct":23.4},{"party":"lp","pct":6.9},{"party":"apga","pct":0.8}]},
+        {"name":"Katsina","abbr":"KT","winner":"apc","margin":9.6,"turnout":60.6,"results":[{"party":"apc","pct":48.8},{"party":"pdp","pct":39.2},{"party":"nnpp","pct":5.6},{"party":"lp","pct":5.5},{"party":"apga","pct":0.9}]},
+        {"name":"Kebbi","abbr":"KE","winner":"apc","margin":42.4,"turnout":61.9,"results":[{"party":"apc","pct":60.8},{"party":"pdp","pct":18.4},{"party":"lp","pct":12.8},{"party":"nnpp","pct":6.1},{"party":"apga","pct":1.9}]},
+        {"name":"Kogi","abbr":"KO","winner":"apc","margin":39.5,"turnout":63.2,"results":[{"party":"apc","pct":64.2},{"party":"pdp","pct":24.7},{"party":"nnpp","pct":5.3},{"party":"lp","pct":4.6},{"party":"apga","pct":1.1}]},
+        {"name":"Kwara","abbr":"KW","winner":"apc","margin":28.8,"turnout":65.3,"results":[{"party":"apc","pct":55.1},{"party":"pdp","pct":26.3},{"party":"lp","pct":10.4},{"party":"nnpp","pct":6.8},{"party":"apga","pct":1.6}]},
+        {"name":"Lagos","abbr":"LA","winner":"apc","margin":7.4,"turnout":62.6,"results":[{"party":"apc","pct":43.5},{"party":"pdp","pct":36.1},{"party":"lp","pct":13.1},{"party":"nnpp","pct":5.9},{"party":"apga","pct":1.3}]},
+        {"name":"Nasarawa","abbr":"NA","winner":"apc","margin":23.5,"turnout":56.1,"results":[{"party":"apc","pct":54.3},{"party":"pdp","pct":30.8},{"party":"lp","pct":9.7},{"party":"nnpp","pct":3.8},{"party":"apga","pct":1.5}]},
+        {"name":"Niger","abbr":"NI","winner":"apc","margin":34.2,"turnout":66.3,"results":[{"party":"apc","pct":62.2},{"party":"pdp","pct":28},{"party":"lp","pct":5.5},{"party":"nnpp","pct":3.2},{"party":"apga","pct":1.1}]},
+        {"name":"Ogun","abbr":"OG","winner":"apc","margin":13.6,"turnout":63.8,"results":[{"party":"apc","pct":48.6},{"party":"pdp","pct":35},{"party":"lp","pct":10.9},{"party":"nnpp","pct":3.5},{"party":"apga","pct":2}]},
+        {"name":"Ondo","abbr":"ON","winner":"apc","margin":35.8,"turnout":66.5,"results":[{"party":"apc","pct":59.3},{"party":"pdp","pct":23.5},{"party":"lp","pct":9.2},{"party":"nnpp","pct":6},{"party":"apga","pct":2.1}]},
+        {"name":"Osun","abbr":"OS","winner":"pdp","margin":10.4,"turnout":59.8,"results":[{"party":"pdp","pct":46.1},{"party":"apc","pct":35.7},{"party":"lp","pct":10.8},{"party":"nnpp","pct":6},{"party":"apga","pct":1.5}]},
+        {"name":"Oyo","abbr":"OY","winner":"apc","margin":18.6,"turnout":64.9,"results":[{"party":"apc","pct":53.1},{"party":"pdp","pct":34.5},{"party":"lp","pct":7.5},{"party":"nnpp","pct":4},{"party":"apga","pct":0.9}]},
+        {"name":"Plateau","abbr":"PL","winner":"pdp","margin":3.2,"turnout":54.1,"results":[{"party":"pdp","pct":40.9},{"party":"apc","pct":37.7},{"party":"lp","pct":15},{"party":"nnpp","pct":5},{"party":"apga","pct":1.4}]},
+        {"name":"Rivers","abbr":"RI","winner":"pdp","margin":4.5,"turnout":56.6,"results":[{"party":"pdp","pct":47.7},{"party":"apc","pct":43.2},{"party":"nnpp","pct":4.4},{"party":"lp","pct":3.8},{"party":"apga","pct":0.8}]},
+        {"name":"Sokoto","abbr":"SO","winner":"apc","margin":21.1,"turnout":64.7,"results":[{"party":"apc","pct":51.4},{"party":"pdp","pct":30.3},{"party":"lp","pct":8.7},{"party":"nnpp","pct":7.9},{"party":"apga","pct":1.7}]},
+        {"name":"Taraba","abbr":"TA","winner":"apc","margin":17.8,"turnout":58.3,"results":[{"party":"apc","pct":52.6},{"party":"pdp","pct":34.8},{"party":"lp","pct":6.1},{"party":"nnpp","pct":5.1},{"party":"apga","pct":1.5}]},
+        {"name":"Yobe","abbr":"YO","winner":"apc","margin":45.1,"turnout":62.1,"results":[{"party":"apc","pct":66.5},{"party":"pdp","pct":21.4},{"party":"lp","pct":6.5},{"party":"nnpp","pct":4.4},{"party":"apga","pct":1.3}]},
+        {"name":"Zamfara","abbr":"ZA","winner":"apc","margin":8.3,"turnout":60.8,"results":[{"party":"apc","pct":47.4},{"party":"pdp","pct":39.1},{"party":"nnpp","pct":6.5},{"party":"lp","pct":5.9},{"party":"apga","pct":1}]}
+      ]
+    }
+  ]
+}

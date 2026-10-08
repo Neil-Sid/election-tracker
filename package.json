@@ -1,7 +1,7 @@
 {
   "name": "election-tracker",
   "version": "0.1.0",
-  "description": "A draggable globe of national elections in 43 countries, with official results and every national election since 1948",
+  "description": "A draggable globe of national elections in 50 countries, with official results and every national election since 1948",
   "license": "MIT",
   "private": true,
   "type": "module",

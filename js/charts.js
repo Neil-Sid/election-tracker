@@ -54,7 +54,7 @@ export function chamber({ cands, total, majority, chamberSize, annulled, seatLab
           <span class="lbl"><i class="sw" style="background:${party(lead.party).color}"></i>${lead.name}</span>
         </div>
       </div>
-      <figcaption class="chamber-caption">${short} · ${caption}</figcaption>
+      <figcaption class="chamber-caption">${annulled ? short : `${short} · ${caption}`}</figcaption>
     </figure>`;
 }
 

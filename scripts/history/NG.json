@@ -1,0 +1,2379 @@
+{
+ "code": "NG",
+ "parties": {
+  "aa": {
+   "name": "Action Alliance",
+   "color": "#3498DB",
+   "article": "Action Alliance"
+  },
+  "accord": {
+   "name": "Accord",
+   "color": "#99FF33",
+   "article": "Accord (Nigeria)"
+  },
+  "acn": {
+   "name": "Action Congress of Nigeria",
+   "color": "#0080FF",
+   "article": "Action Congress of Nigeria"
+  },
+  "ad": {
+   "name": "Alliance for Democracy",
+   "color": "#FF8C00",
+   "article": "Alliance for Democracy (Nigeria)"
+  },
+  "adapp": {
+   "name": "Alliance for Democracy–All People's Party",
+   "color": "#D82628"
+  },
+  "adc": {
+   "name": "African Democratic Congress",
+   "color": "#00A86B",
+   "article": "African Democratic Congress"
+  },
+  "adp": {
+   "name": "Action Democratic Party",
+   "color": "#000080",
+   "article": "Action Democratic Party (Nigeria)"
+  },
+  "ag": {
+   "name": "Action Group",
+   "color": "#FF0000",
+   "article": "Action Group (Nigeria)"
+  },
+  "anpp": {
+   "name": "All Nigeria Peoples Party",
+   "color": "#0000CD",
+   "article": "All Nigeria Peoples Party"
+  },
+  "apc": {
+   "name": "All Progressives Congress",
+   "color": "#87BEEB",
+   "article": "All Progressives Congress"
+  },
+  "apga": {
+   "name": "All Progressives Grand Alliance",
+   "color": "#E0DF27",
+   "article": "All Progressives Grand Alliance"
+  },
+  "apm": {
+   "name": "Allied Peoples Movement",
+   "color": "#00FFFF",
+   "article": "Allied Peoples Movement"
+  },
+  "app": {
+   "name": "All People's Party",
+   "color": "#4169E1",
+   "article": "All People's Party (Nigeria)"
+  },
+  "cnc": {
+   "name": "Congress for National Consensus",
+   "color": "#1565C0",
+   "article": "Congress for National Consensus"
+  },
+  "cpc": {
+   "name": "Congress for Progressive Change",
+   "color": "#87CEFA",
+   "article": "Congress for Progressive Change"
+  },
+  "dpn": {
+   "name": "Democratic Party of Nigeria",
+   "color": "#C62828"
+  },
+  "dpp": {
+   "name": "Democratic People's Party",
+   "color": "#8B4513",
+   "article": "Democratic People's Party (Nigeria)"
+  },
+  "gdm": {
+   "name": "Grassroots Democratic Movement",
+   "color": "#F9A825",
+   "article": "Grassroots Democratic Movement"
+  },
+  "gnpp": {
+   "name": "Great Nigeria People's Party",
+   "color": "#FFFF00",
+   "article": "Great Nigeria People's Party"
+  },
+  "igala": {
+   "name": "Igala Union",
+   "color": "#B15928",
+   "article": "Igala Union"
+  },
+  "igbira": {
+   "name": "Igbira Tribal Union",
+   "color": "#FB9A99",
+   "article": "Igbira Tribal Union"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "lp": {
+   "name": "Labour Party",
+   "color": "#DA251C",
+   "article": "Labour Party (Nigeria)"
+  },
+  "mdf": {
+   "name": "Midwest Democratic Front",
+   "color": "#E7298A",
+   "article": "Midwest Democratic Front"
+  },
+  "mga": {
+   "name": "Mabolaje Grand Alliance",
+   "color": "#FF7F00"
+  },
+  "nap": {
+   "name": "Nigeria Advance Party",
+   "color": "#A6761D",
+   "article": "Nigeria Advance Party"
+  },
+  "ncnc": {
+   "name": "National Council of Nigeria and the Cameroons",
+   "color": "#0000FF",
+   "article": "National Council of Nigeria and the Cameroons"
+  },
+  "ncpn": {
+   "name": "National Centre Party of Nigeria",
+   "color": "#6A1B9A",
+   "article": "National Centre Party of Nigeria"
+  },
+  "ndc": {
+   "name": "Niger Delta Congress",
+   "color": "#17BECF",
+   "article": "Niger Delta Congress"
+  },
+  "ndp": {
+   "name": "National Democratic Party",
+   "color": "#808000",
+   "article": "National Democratic Party (Nigeria)"
+  },
+  "nepu": {
+   "name": "Northern Elements Progressive Union",
+   "color": "#00AB00",
+   "article": "Northern Elements Progressive Union"
+  },
+  "nndp": {
+   "name": "Nigerian National Democratic Party",
+   "color": "#E6AB02",
+   "article": "Nigerian National Democratic Party"
+  },
+  "npc": {
+   "name": "Northern People's Congress",
+   "color": "#6A3D9A",
+   "article": "Northern People's Congress"
+  },
+  "npf": {
+   "name": "Northern Progressive Front",
+   "color": "#66A61E",
+   "article": "Northern Progressive Front"
+  },
+  "npn": {
+   "name": "National Party of Nigeria",
+   "color": "#445FAC",
+   "article": "National Party of Nigeria"
+  },
+  "npp": {
+   "name": "Nigerian People's Party",
+   "color": "#028C3B",
+   "article": "Nigerian People's Party"
+  },
+  "nrc": {
+   "name": "National Republican Convention",
+   "color": "#D82628",
+   "article": "National Republican Convention"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "pdp": {
+   "name": "Peoples Democratic Party",
+   "color": "#006903",
+   "article": "Peoples Democratic Party (Nigeria)"
+  },
+  "ppa": {
+   "name": "Progressive Peoples Alliance",
+   "color": "#FFB300",
+   "article": "Progressive Peoples Alliance"
+  },
+  "ppn": {
+   "name": "People's Party of Nigeria",
+   "color": "#FF69B4"
+  },
+  "prp": {
+   "name": "People's Redemption Party",
+   "color": "#8E44AD",
+   "article": "People's Redemption Party"
+  },
+  "sdp": {
+   "name": "Social Democratic Party",
+   "color": "#1EB23C",
+   "article": "Social Democratic Party (Nigeria)"
+  },
+  "uncp": {
+   "name": "United Nigeria Congress Party",
+   "color": "#00796B",
+   "article": "United Nigeria Congress Party"
+  },
+  "unpp": {
+   "name": "United Nigeria People's Party",
+   "color": "#D81B60",
+   "article": "United Nigeria People's Party"
+  },
+  "upn": {
+   "name": "Unity Party of Nigeria",
+   "color": "#D82628",
+   "article": "Unity Party of Nigeria"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#E5E5EA"
+  },
+  "ypp": {
+   "name": "Young Progressives Party",
+   "color": "#810000",
+   "article": "Young Progressives Party"
+  }
+ },
+ "elections": [
+  {
+   "id": "ng-house-of-representatives-1959",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1959-12-12",
+   "note": "Before independence",
+   "totalSeats": 312,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1959_Nigerian_general_election",
+    "revid": 1367905798
+   },
+   "candidates": [
+    {
+     "name": "Northern People's Congress",
+     "party": "npc",
+     "votes": 1922179,
+     "pct": 25.2,
+     "seats": 134,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "National Council of Nigeria and the Cameroons",
+     "party": "ncnc",
+     "votes": 2594577,
+     "pct": 34.01,
+     "seats": 81,
+     "change": null
+    },
+    {
+     "name": "Action Group",
+     "party": "ag",
+     "votes": 1992364,
+     "pct": 26.12,
+     "seats": 73,
+     "change": null
+    },
+    {
+     "name": "Northern Elements Progressive Union",
+     "party": "nepu",
+     "votes": 509050,
+     "pct": 6.67,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Mabolaje Grand Alliance",
+     "party": "mga",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Igala Union",
+     "party": "igala",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Igbira Tribal Union",
+     "party": "igbira",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Niger Delta Congress",
+     "party": "ndc",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 610677,
+     "pct": 8,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "House of Representatives of the Federation of Nigeria, elected before independence in October 1960. The table gives one combined vote figure (610,677, 8.00%) for the Mabolaje Grand Alliance, Igala Union, Igbira Tribal Union, Niger Delta Congress and the AG- and NPC-affiliated independents; it is shown as Others, so those rows have seats but no votes. Independents combines the AG-affiliated (2 seats) and NPC-affiliated (2 seats) independents. The NPC won the most seats although the NCNC and the Action Group received more votes (lead). Shares are of the 7,628,847 votes in the table. The table gives the electorate (9,043,404) but no votes cast, so no turnout. No change column. The article's results by division do not match today's states, so no region winners."
+  },
+  {
+   "id": "ng-house-of-representatives-1964",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1964-12-30",
+   "note": "Partly boycotted; marked by manipulation and violence",
+   "totalSeats": 312,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1964_Nigerian_general_election",
+    "revid": 1367905859
+   },
+   "candidates": [
+    {
+     "name": "Northern People's Congress",
+     "party": "npc",
+     "votes": 2168007,
+     "pct": 37.63,
+     "seats": 162,
+     "change": 28,
+     "winner": true
+    },
+    {
+     "name": "National Council of Nigerian Citizens",
+     "party": "ncnc",
+     "votes": 1640700,
+     "pct": 28.48,
+     "seats": 84,
+     "change": 3
+    },
+    {
+     "name": "Nigerian National Democratic Party",
+     "party": "nndp",
+     "votes": 870833,
+     "pct": 15.11,
+     "seats": 36,
+     "change": null
+    },
+    {
+     "name": "Action Group",
+     "party": "ag",
+     "votes": 494730,
+     "pct": 8.59,
+     "seats": 21,
+     "change": -52
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 128329,
+     "pct": 2.23,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Northern Progressive Front",
+     "party": "npf",
+     "votes": 258913,
+     "pct": 4.49,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Midwest Democratic Front",
+     "party": "mdf",
+     "votes": 93161,
+     "pct": 1.62,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 106810,
+     "pct": 1.85,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Others: Dynamic Party 42,834, Republican Party 25,831, Socialist Workers and Farmers Party 20,347, Niger Delta Congress 17,798. Polling in some constituencies in the Eastern Region, Lagos and the Mid-Western Region was put off to 18 March 1965 after a boycott in December (lead); the date is the main polling day. The table (African Elections Database, Nohlen et al.) names the NCNC \"National Council of Nigerian Citizens\". The NPC-led Nigerian National Alliance held 198 seats in all (lead). Changes marked \"New\" are null. Shares are of the 5,761,483 votes in the table; no electorate or turnout in the source."
+  },
+  {
+   "id": "ng-senate-1979",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1979-07-07",
+   "totalSeats": 95,
+   "turnout": 25.77,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1979_Nigerian_parliamentary_election",
+    "revid": 1367904776
+   },
+   "candidates": [
+    {
+     "name": "National Party of Nigeria",
+     "party": "npn",
+     "votes": 4032329,
+     "pct": 32.75,
+     "seats": 36,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Unity Party of Nigeria",
+     "party": "upn",
+     "votes": 2835362,
+     "pct": 23.03,
+     "seats": 28,
+     "change": null
+    },
+    {
+     "name": "Nigerian People's Party",
+     "party": "npp",
+     "votes": 2145859,
+     "pct": 17.43,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Great Nigeria People's Party",
+     "party": "gnpp",
+     "votes": 1847019,
+     "pct": 15,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "People's Redemption Party",
+     "party": "prp",
+     "votes": 1453538,
+     "pct": 11.8,
+     "seats": 7,
+     "change": null
+    }
+   ],
+   "notes": "The lead says the elections were held \"on 7 July 1979 ... to elect a Senate and House of Representatives on 14 July\"; the Senate date is taken as 7 July and the House as 14 July. Shares are of the 12,314,107 valid votes; turnout is the table's (12,532,195 votes cast over 48,633,782 registered). First Senate election, so no change column. Region winners: the party with the most seats in each state, from the article's results-by-state table (Oyediran); only Lagos, Niger and Ogun, the 1979 states whose boundaries match today's (States of Nigeria chronology); the other 16 states were later split.",
+   "regionWinners": {
+    "LA": "upn",
+    "NI": "npn",
+    "OG": "upn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Nigerian_parliamentary_election"
+  },
+  {
+   "id": "ng-house-of-representatives-1979",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1979-07-14",
+   "totalSeats": 449,
+   "turnout": 30.72,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1979_Nigerian_parliamentary_election",
+    "revid": 1367904776
+   },
+   "candidates": [
+    {
+     "name": "National Party of Nigeria",
+     "party": "npn",
+     "votes": null,
+     "pct": null,
+     "seats": 168,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Unity Party of Nigeria",
+     "party": "upn",
+     "votes": null,
+     "pct": null,
+     "seats": 111,
+     "change": null
+    },
+    {
+     "name": "Nigerian People's Party",
+     "party": "npp",
+     "votes": null,
+     "pct": null,
+     "seats": 78,
+     "change": null
+    },
+    {
+     "name": "People's Redemption Party",
+     "party": "prp",
+     "votes": null,
+     "pct": null,
+     "seats": 49,
+     "change": null
+    },
+    {
+     "name": "Great Nigeria People's Party",
+     "party": "gnpp",
+     "votes": null,
+     "pct": null,
+     "seats": 43,
+     "change": null
+    }
+   ],
+   "notes": "The table gives votes only for the NPN (5,325,680; 35.6%), UPN (3,691,553; 24.6%) and NPP (2,391,279; 16.0%), not for the PRP or GNPP, so votes and shares are left out. Turnout is the table's (14,941,555 votes cast over 48,633,782 registered); the lead gives 30.7%. The lead says the elections were held \"on 7 July 1979 ... to elect a Senate and House of Representatives on 14 July\"; the House date is taken as 14 July. The table's total is 449 seats. No change column. Region winners: the party with the most seats in each state, from the article's by-state table (Oyediran); only Lagos, Niger and Ogun, the 1979 states whose boundaries match today's (States of Nigeria chronology); the other 16 states were later split.",
+   "regionWinners": {
+    "LA": "upn",
+    "NI": "npn",
+    "OG": "upn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Nigerian_parliamentary_election"
+  },
+  {
+   "id": "ng-president-1979",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1979-08-11",
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1979_Nigerian_presidential_election",
+    "revid": 1364749567
+   },
+   "candidates": [
+    {
+     "name": "Shehu Shagari",
+     "party": "npn",
+     "votes": 5688857,
+     "pct": 33.77,
+     "winner": true
+    },
+    {
+     "name": "Obafemi Awolowo",
+     "party": "upn",
+     "votes": 4916551,
+     "pct": 29.18
+    },
+    {
+     "name": "Nnamdi Azikiwe",
+     "party": "npp",
+     "votes": 2822523,
+     "pct": 16.75
+    },
+    {
+     "name": "Aminu Kano",
+     "party": "prp",
+     "votes": 1732113,
+     "pct": 10.28
+    },
+    {
+     "name": "Waziri Ibrahim",
+     "party": "gnpp",
+     "votes": 1686489,
+     "pct": 10.01
+    }
+   ],
+   "notes": "Shares are of the 16,846,533 votes for candidates (the infobox agrees). The table gives the electorate (48,633,782) but no votes cast, so no turnout. To win outright a candidate also needed 25% of the vote in two-thirds of the 19 states; the Supreme Court upheld Shagari's win (Aftermath section). Region winners: the candidate with the highest share in each state, from the article's by-state table (Oyediran); only Lagos, Niger and Ogun, the 1979 states whose boundaries match today's (States of Nigeria chronology); the other 16 states were later split.",
+   "regionWinners": {
+    "LA": "upn",
+    "NI": "npn",
+    "OG": "upn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Nigerian_presidential_election"
+  },
+  {
+   "id": "ng-president-1983",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1983-08-06",
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1983_Nigerian_presidential_election",
+    "revid": 1377651915
+   },
+   "candidates": [
+    {
+     "name": "Shehu Shagari",
+     "party": "npn",
+     "votes": 12081471,
+     "pct": 47.51,
+     "winner": true
+    },
+    {
+     "name": "Obafemi Awolowo",
+     "party": "upn",
+     "votes": 7907209,
+     "pct": 31.09
+    },
+    {
+     "name": "Nnamdi Azikiwe",
+     "party": "npp",
+     "votes": 3557113,
+     "pct": 13.99
+    },
+    {
+     "name": "Khalifa Hassan Yusuf",
+     "party": "prp",
+     "votes": 968974,
+     "pct": 3.81
+    },
+    {
+     "name": "Waziri Ibrahim",
+     "party": "gnpp",
+     "votes": 643806,
+     "pct": 2.53
+    },
+    {
+     "name": "Tunji Braithwaite",
+     "party": "nap",
+     "votes": 271524,
+     "pct": 1.07
+    }
+   ],
+   "notes": "Shares are of the 25,430,097 votes for candidates (the infobox agrees). The table gives the electorate (65,304,818) but no votes cast, so no turnout. No results by state in the article."
+  },
+  {
+   "id": "ng-senate-1983",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1983-08-20",
+   "totalSeats": 96,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1983_Nigerian_parliamentary_election",
+    "revid": 1367904834
+   },
+   "candidates": [
+    {
+     "name": "National Party of Nigeria",
+     "party": "npn",
+     "votes": null,
+     "pct": null,
+     "seats": 60,
+     "change": 24,
+     "winner": true
+    },
+    {
+     "name": "Unity Party of Nigeria",
+     "party": "upn",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": -12
+    },
+    {
+     "name": "Nigerian People's Party",
+     "party": "npp",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": -4
+    },
+    {
+     "name": "People's Redemption Party",
+     "party": "prp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "Great Nigeria People's Party",
+     "party": "gnpp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -6
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 1
+    }
+   ],
+   "notes": "The table (IPU) gives seats and changes only, no votes or turnout. It lists one seat as vacant; the total is 96 seats."
+  },
+  {
+   "id": "ng-house-of-representatives-1983",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1983-08-27",
+   "totalSeats": 450,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1983_Nigerian_parliamentary_election",
+    "revid": 1367904834
+   },
+   "candidates": [
+    {
+     "name": "National Party of Nigeria",
+     "party": "npn",
+     "votes": null,
+     "pct": null,
+     "seats": 306,
+     "change": 138,
+     "winner": true
+    },
+    {
+     "name": "Unity Party of Nigeria",
+     "party": "upn",
+     "votes": null,
+     "pct": null,
+     "seats": 51,
+     "change": -60
+    },
+    {
+     "name": "Nigerian People's Party",
+     "party": "npp",
+     "votes": null,
+     "pct": null,
+     "seats": 48,
+     "change": -30
+    },
+    {
+     "name": "People's Redemption Party",
+     "party": "prp",
+     "votes": null,
+     "pct": null,
+     "seats": 41,
+     "change": -8
+    },
+    {
+     "name": "Great Nigeria People's Party",
+     "party": "gnpp",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": -43
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 4
+    }
+   ],
+   "notes": "The table (IPU) gives seats and changes only, no votes or turnout. It lists four seats as vacant; the total is 450 seats. The GNPP is listed because it lost 43 seats."
+  },
+  {
+   "id": "ng-house-of-representatives-1992",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1992-07-04",
+   "note": "Third Republic, dissolved in 1993",
+   "totalSeats": 593,
+   "turnout": 25,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1992_Nigerian_parliamentary_election",
+    "revid": 1367904894
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 8358791,
+     "pct": 49.43,
+     "seats": 314,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "National Republican Convention",
+     "party": "nrc",
+     "votes": 8551080,
+     "pct": 50.57,
+     "seats": 275,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 4
+    }
+   ],
+   "notes": "Only two parties were allowed to contest (lead). The SDP won more seats although the NRC received more votes. Shares are of the two parties' 16,909,871 votes. Turnout is the lead's 25% (IPU); the table gives the electorate (38,866,336) but no votes cast. The table lists four seats as vacant. No change column."
+  },
+  {
+   "id": "ng-senate-1992",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1992-07-04",
+   "note": "Third Republic, dissolved in 1993",
+   "totalSeats": 91,
+   "turnout": 25,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Krennerich & Thibaut (1999), Elections in Africa",
+    "url": "https://en.wikipedia.org/wiki/1992_Nigerian_parliamentary_election",
+    "revid": 1367904894
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 7494228,
+     "pct": 47.42,
+     "seats": 52,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "National Republican Convention",
+     "party": "nrc",
+     "votes": 8309548,
+     "pct": 52.58,
+     "seats": 37,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 2
+    }
+   ],
+   "notes": "Only two parties were allowed to contest (lead). The SDP won more seats although the NRC received more votes. Shares are of the two parties' 15,803,776 votes. Turnout is the lead's 25% (IPU); the table gives the electorate (38,866,336) but no votes cast. The table lists two seats as vacant. No change column. The per-state Senate articles (\"1992 Nigerian Senate elections in … State\") add up to NRC 41, SDP 50, against SDP 52, NRC 37 in the national table, so they are not used for region winners."
+  },
+  {
+   "id": "ng-president-1993",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1993-06-12",
+   "note": "Annulled by the military government",
+   "annulled": true,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1993_Nigerian_presidential_election",
+    "revid": 1378142392
+   },
+   "candidates": [
+    {
+     "name": "Moshood Abiola",
+     "party": "sdp",
+     "votes": 8341309,
+     "pct": 58.36
+    },
+    {
+     "name": "Bashir Tofa",
+     "party": "nrc",
+     "votes": 5952087,
+     "pct": 41.64
+    }
+   ],
+   "notes": "The table holds the unofficial results: the count was halted by a court injunction, activists leaked the final figures, and the military government annulled the election on 24 June 1993 (Results section). Shares are of the two candidates' 14,293,396 votes. The article says turnout was \"around 35 percent\", too rough to use. Region winners: the candidate with the most votes in each state, from the article's table of unofficial results by state; Abia, Enugu, Rivers, Ondo, Bauchi, Plateau and Sokoto are left out because the six states created in 1996 were carved from them (States of Nigeria; Ebonyi State article), and those six did not yet exist.",
+   "regionWinners": {
+    "AD": "nrc",
+    "AK": "sdp",
+    "AN": "sdp",
+    "BE": "sdp",
+    "BO": "sdp",
+    "CR": "sdp",
+    "DE": "sdp",
+    "ED": "sdp",
+    "IM": "nrc",
+    "JI": "sdp",
+    "KD": "sdp",
+    "KN": "sdp",
+    "KT": "nrc",
+    "KE": "nrc",
+    "KO": "nrc",
+    "KW": "sdp",
+    "LA": "sdp",
+    "NI": "nrc",
+    "OG": "sdp",
+    "OS": "sdp",
+    "OY": "sdp",
+    "TA": "sdp",
+    "YO": "sdp",
+    "FC": "sdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1993_Nigerian_presidential_election"
+  },
+  {
+   "id": "ng-house-of-representatives-1998",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1998-04-25",
+   "note": "Military-run transition; annulled",
+   "annulled": true,
+   "totalSeats": 282,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1998_Nigerian_parliamentary_election",
+    "revid": 1367904935
+   },
+   "candidates": [
+    {
+     "name": "United Nigeria Congress Party",
+     "party": "uncp",
+     "votes": null,
+     "pct": null,
+     "seats": 229,
+     "change": null
+    },
+    {
+     "name": "Democratic Party of Nigeria",
+     "party": "dpn",
+     "votes": null,
+     "pct": null,
+     "seats": 39,
+     "change": null
+    },
+    {
+     "name": "Congress for National Consensus",
+     "party": "cnc",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Grassroots Democratic Movement",
+     "party": "gdm",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "National Centre Party of Nigeria",
+     "party": "ncpn",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    }
+   ],
+   "notes": "All five parties were affiliated with the military regime and opposition parties were banned; the government annulled the results and fresh elections were held in 1999 (lead). The table gives seats only, with no votes, turnout or chamber size; totalSeats is its total of 282 (the template's own sum). It links the Democratic Party of Nigeria to the Peoples Democratic Party article (a redirect), but that party was founded on 31 August 1998 (its infobox), after this election, so the two are kept apart."
+  },
+  {
+   "id": "ng-senate-1998",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1998-04-25",
+   "note": "Military-run transition; annulled",
+   "annulled": true,
+   "totalSeats": 80,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1998_Nigerian_parliamentary_election",
+    "revid": 1367904935
+   },
+   "candidates": [
+    {
+     "name": "United Nigeria Congress Party",
+     "party": "uncp",
+     "votes": null,
+     "pct": null,
+     "seats": 61,
+     "change": null
+    },
+    {
+     "name": "Democratic Party of Nigeria",
+     "party": "dpn",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Congress for National Consensus",
+     "party": "cnc",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Grassroots Democratic Movement",
+     "party": "gdm",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "National Centre Party of Nigeria",
+     "party": "ncpn",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "notes": "All five parties were affiliated with the military regime and opposition parties were banned; the government annulled the results and fresh elections were held in 1999 (lead). The table gives seats only, with no votes, turnout or chamber size; totalSeats is its total of 80 (the template's own sum). It links the Democratic Party of Nigeria to the Peoples Democratic Party article (a redirect), but that party was founded on 31 August 1998 (its infobox), after this election, so the two are kept apart."
+  },
+  {
+   "id": "ng-house-of-representatives-1999",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1999-02-20",
+   "totalSeats": 360,
+   "turnout": 40.69,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1999_Nigerian_parliamentary_election",
+    "revid": 1367904991
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 206,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "All People's Party",
+     "party": "app",
+     "votes": null,
+     "pct": null,
+     "seats": 74,
+     "change": null
+    },
+    {
+     "name": "Alliance for Democracy",
+     "party": "ad",
+     "votes": null,
+     "pct": null,
+     "seats": 68,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 12
+    }
+   ],
+   "notes": "The table gives seats only, no votes by party, and lists 12 seats as vacant. Turnout is the table's (23,573,407 votes cast over 57,938,945 registered). No change column. Region winners: only Bayelsa, Federal Capital Territory, Katsina, Kwara, Nasarawa, Taraba, the states with their own results article (\"1999 Nigerian House of Representatives elections in … State\"); the winner is the party that won the most constituencies there.",
+   "regionWinners": {
+    "BY": "pdp",
+    "FC": "pdp",
+    "KT": "pdp",
+    "KW": "app",
+    "NA": "pdp",
+    "TA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Nigerian_parliamentary_election"
+  },
+  {
+   "id": "ng-senate-1999",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1999-02-20",
+   "totalSeats": 109,
+   "turnout": 42.09,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1999_Nigerian_parliamentary_election",
+    "revid": 1367904991
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 59,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "All People's Party",
+     "party": "app",
+     "votes": null,
+     "pct": null,
+     "seats": 29,
+     "change": null
+    },
+    {
+     "name": "Alliance for Democracy",
+     "party": "ad",
+     "votes": null,
+     "pct": null,
+     "seats": 20,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 1
+    }
+   ],
+   "notes": "The table gives seats only, no votes by party, and lists one seat as vacant. Turnout is the table's (24,386,247 votes cast over 57,938,945 registered); the lead gives 42.1%. No change column. The per-state Senate articles (\"1999 Nigerian Senate elections in … State\") add up to PDP 68, APP 22, AD 19, against PDP 59, APP 29, AD 20 in the national table, so they are not used for region winners."
+  },
+  {
+   "id": "ng-president-1999",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1999-02-27",
+   "turnout": 52.26,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1999_Nigerian_presidential_election",
+    "revid": 1377642506
+   },
+   "candidates": [
+    {
+     "name": "Olusegun Obasanjo",
+     "party": "pdp",
+     "votes": 18738154,
+     "pct": 62.78,
+     "winner": true
+    },
+    {
+     "name": "Olu Falae",
+     "party": "adapp",
+     "votes": 11110287,
+     "pct": 37.22
+    }
+   ],
+   "notes": "Olu Falae ran on a joint Alliance for Democracy–All People's Party ticket (the table's party column, \"AD–APP\"). Shares are of valid votes; turnout is the table's (valid plus 431,611 invalid votes over 57,938,945 registered). Region winners: the candidate with the most votes in each state and the FCT, from the article's by-state table.",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "pdp",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "pdp",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "adapp",
+    "EN": "pdp",
+    "FC": "pdp",
+    "GO": "pdp",
+    "IM": "pdp",
+    "JI": "pdp",
+    "KD": "pdp",
+    "KN": "pdp",
+    "KT": "pdp",
+    "KE": "pdp",
+    "KO": "pdp",
+    "KW": "pdp",
+    "LA": "adapp",
+    "NA": "pdp",
+    "NI": "pdp",
+    "OG": "adapp",
+    "ON": "adapp",
+    "OS": "adapp",
+    "OY": "adapp",
+    "PL": "pdp",
+    "RI": "pdp",
+    "SO": "adapp",
+    "TA": "pdp",
+    "YO": "adapp",
+    "ZA": "adapp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Nigerian_presidential_election"
+  },
+  {
+   "id": "ng-house-of-representatives-2003",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2003-04-12",
+   "totalSeats": 360,
+   "turnout": 49.96,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2003_Nigerian_parliamentary_election",
+    "revid": 1368310867
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": 15927807,
+     "pct": 54.49,
+     "seats": 223,
+     "change": 17,
+     "winner": true
+    },
+    {
+     "name": "All Nigeria Peoples Party",
+     "party": "anpp",
+     "votes": 8021531,
+     "pct": 27.44,
+     "seats": 96,
+     "change": 22
+    },
+    {
+     "name": "Alliance for Democracy",
+     "party": "ad",
+     "votes": 2711972,
+     "pct": 9.28,
+     "seats": 34,
+     "change": -34
+    },
+    {
+     "name": "United Nigeria People's Party",
+     "party": "unpp",
+     "votes": 803432,
+     "pct": 2.75,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "All Progressives Grand Alliance",
+     "party": "apga",
+     "votes": 397147,
+     "pct": 1.36,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "ndp",
+     "votes": 561161,
+     "pct": 1.92,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Redemption Party",
+     "party": "prp",
+     "votes": 96550,
+     "pct": 0.33,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 713470,
+     "pct": 2.44,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 1
+    }
+   ],
+   "notes": "Others: Other parties 713,470. Shares are of the 29,233,070 valid votes; turnout is the table's (valid plus 1,153,200 invalid votes over 60,823,022 registered). The table lists one seat as vacant. Changes marked \"New\" are null. The ANPP's change compares with the All People's Party in 1999. Region winners: only Bayelsa, Federal Capital Territory, Kwara, Nasarawa, Taraba, the states with their own results article (\"2003 Nigerian House of Representatives elections in … State\"); the winner is the party that won the most constituencies there; no winner for Bayelsa, Federal Capital Territory (tied, or seats without a declared winner could change the lead).",
+   "regionWinners": {
+    "KW": "pdp",
+    "NA": "pdp",
+    "TA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2003_Nigerian_parliamentary_election"
+  },
+  {
+   "id": "ng-senate-2003",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2003-04-12",
+   "totalSeats": 109,
+   "turnout": 49.32,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2003_Nigerian_parliamentary_election",
+    "revid": 1368310867
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": 15585538,
+     "pct": 53.69,
+     "seats": 76,
+     "change": 17,
+     "winner": true
+    },
+    {
+     "name": "All Nigeria Peoples Party",
+     "party": "anpp",
+     "votes": 8091783,
+     "pct": 27.87,
+     "seats": 27,
+     "change": -2
+    },
+    {
+     "name": "Alliance for Democracy",
+     "party": "ad",
+     "votes": 2828082,
+     "pct": 9.74,
+     "seats": 6,
+     "change": -14
+    },
+    {
+     "name": "United Nigeria People's Party",
+     "party": "unpp",
+     "votes": 789705,
+     "pct": 2.72,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "ndp",
+     "votes": 459462,
+     "pct": 1.58,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "All Progressives Grand Alliance",
+     "party": "apga",
+     "votes": 429073,
+     "pct": 1.48,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 846464,
+     "pct": 2.92,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Others: People's Redemption Party 204,929, Other parties 641,535. Shares are of the 29,030,107 valid votes; turnout is the table's (valid plus 965,064 invalid votes over 60,823,022 registered). The lead gives turnout as 50%. Changes marked \"New\" are null. The ANPP's change compares with the All People's Party in 1999. Region winners: the party with the most seats in each state, counting the district winners in the per-state articles (\"2003 Nigerian Senate elections in … State\"), which add up to PDP 77, ANPP 26, AD 6.",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "pdp",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "anpp",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "pdp",
+    "EN": "pdp",
+    "FC": "pdp",
+    "GO": "pdp",
+    "IM": "pdp",
+    "JI": "anpp",
+    "KD": "pdp",
+    "KN": "anpp",
+    "KT": "anpp",
+    "KE": "anpp",
+    "KO": "pdp",
+    "KW": "pdp",
+    "LA": "ad",
+    "NA": "pdp",
+    "NI": "pdp",
+    "OG": "pdp",
+    "ON": "pdp",
+    "OS": "pdp",
+    "OY": "pdp",
+    "PL": "pdp",
+    "RI": "pdp",
+    "SO": "anpp",
+    "TA": "pdp",
+    "YO": "anpp",
+    "ZA": "anpp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:2003_Nigerian_Senate_elections"
+  },
+  {
+   "id": "ng-president-2003",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2003-04-19",
+   "note": "Marred by allegations of fraud and vote rigging",
+   "turnout": 69.08,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2003_Nigerian_presidential_election",
+    "revid": 1377655800
+   },
+   "candidates": [
+    {
+     "name": "Olusegun Obasanjo",
+     "party": "pdp",
+     "votes": 24456140,
+     "pct": 61.94,
+     "winner": true
+    },
+    {
+     "name": "Muhammadu Buhari",
+     "party": "anpp",
+     "votes": 12710022,
+     "pct": 32.19
+    },
+    {
+     "name": "Chukwuemeka Odumegwu Ojukwu",
+     "party": "apga",
+     "votes": 1297445,
+     "pct": 3.29
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1016882,
+     "pct": 2.58
+    }
+   ],
+   "notes": "Others: 17 other candidates, none with 1% of the vote; the largest was Jim Nwobodo (United Nigeria People's Party) 169,609 (0.43%). The lead says most observers found the conduct relatively peaceful and credible but the elections were \"marred by allegations of fraud and vote rigging\"; EU observers reported \"serious irregularities and fraud\" and Buhari challenged the result in court. Shares are of valid votes; turnout is the table's (valid plus 2,538,246 invalid votes over 60,823,022 registered). Region winners: the candidate with the most votes in each state and the FCT, from the article's by-state table.",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "anpp",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "anpp",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "pdp",
+    "EN": "pdp",
+    "FC": "pdp",
+    "GO": "anpp",
+    "IM": "pdp",
+    "JI": "anpp",
+    "KD": "pdp",
+    "KN": "anpp",
+    "KT": "anpp",
+    "KE": "anpp",
+    "KO": "pdp",
+    "KW": "pdp",
+    "LA": "pdp",
+    "NA": "pdp",
+    "NI": "pdp",
+    "OG": "pdp",
+    "ON": "pdp",
+    "OS": "pdp",
+    "OY": "pdp",
+    "PL": "pdp",
+    "RI": "pdp",
+    "SO": "anpp",
+    "TA": "pdp",
+    "YO": "anpp",
+    "ZA": "anpp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2003_Nigerian_presidential_election"
+  },
+  {
+   "id": "ng-house-of-representatives-2007",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2007-04-21",
+   "note": "Observers reported rampant rigging",
+   "totalSeats": 360,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2007_Nigerian_general_election",
+    "revid": 1377903067
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 262,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "All Nigeria Peoples Party",
+     "party": "anpp",
+     "votes": null,
+     "pct": null,
+     "seats": 62,
+     "change": null
+    },
+    {
+     "name": "Action Congress",
+     "party": "acn",
+     "votes": null,
+     "pct": null,
+     "seats": 32,
+     "change": null
+    },
+    {
+     "name": "Progressive Peoples Alliance",
+     "party": "ppa",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Labour Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "The table (IPU) gives seats only; it also lists Accord with no seats. No change column, votes or turnout. totalSeats (360) is the table's own sum; the article does not state the chamber size. EU observers described the elections as \"the worst they had ever seen anywhere in the world\" (lead). Region winners: only Bayelsa, Federal Capital Territory, Kwara, Nasarawa, Taraba, the states with their own results article (\"2007 Nigerian House of Representatives elections in … State\"); the winner is the party that won the most constituencies there; no winner for Federal Capital Territory (tied, or seats without a declared winner could change the lead).",
+   "regionWinners": {
+    "BY": "pdp",
+    "KW": "pdp",
+    "NA": "pdp",
+    "TA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2007_Nigerian_general_election"
+  },
+  {
+   "id": "ng-president-2007",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2007-04-21",
+   "note": "Highly controversial; observers reported rampant rigging",
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2007_Nigerian_general_election",
+    "revid": 1377903067
+   },
+   "candidates": [
+    {
+     "name": "Umaru Yar'Adua",
+     "party": "pdp",
+     "votes": 24638063,
+     "pct": 69.6,
+     "winner": true
+    },
+    {
+     "name": "Muhammadu Buhari",
+     "party": "anpp",
+     "votes": 6605299,
+     "pct": 18.66
+    },
+    {
+     "name": "Atiku Abubakar",
+     "party": "acn",
+     "votes": 2637848,
+     "pct": 7.45
+    },
+    {
+     "name": "Orji Uzor Kalu",
+     "party": "ppa",
+     "votes": 608803,
+     "pct": 1.72
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 907504,
+     "pct": 2.56
+    }
+   ],
+   "notes": "Others: 21 other candidates, none with 1% of the vote; the largest was Attahiru Bafarawa (Democratic People's Party) 289,224 (0.82%). The lead calls it \"highly controversial\"; EU observers described the elections as \"the worst they had ever seen anywhere in the world\". Shares are of the 35,397,517 votes for candidates (the infobox agrees). INEC released no official turnout; the article's estimate (57.5% of 61.5 million registered) is not used. The results did not include state totals (Results section), so no region winners. The Action Congress is the party later renamed the Action Congress of Nigeria (same article)."
+  },
+  {
+   "id": "ng-senate-2007",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2007-04-21",
+   "note": "Observers reported rampant rigging",
+   "totalSeats": 109,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2007_Nigerian_general_election",
+    "revid": 1377903067
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 85,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "All Nigeria Peoples Party",
+     "party": "anpp",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Action Congress",
+     "party": "acn",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Progressive Peoples Alliance",
+     "party": "ppa",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Accord",
+     "party": "accord",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "The table (IPU) gives seats only; it also lists the Labour Party with no seats. No change column, votes or turnout. totalSeats (109) is the table's own sum; the article does not state the chamber size. EU observers described the elections as \"the worst they had ever seen anywhere in the world\" (lead). Region winners: the party with the most seats in each state, counting the district winners in the per-state articles (\"2007 Nigerian Senate elections in … State\"), which add up to PDP 87, ANPP 15, ACN 6, Accord 1.",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "anpp",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "anpp",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "pdp",
+    "EN": "pdp",
+    "FC": "anpp",
+    "GO": "pdp",
+    "IM": "pdp",
+    "JI": "pdp",
+    "KD": "pdp",
+    "KN": "anpp",
+    "KT": "pdp",
+    "KE": "pdp",
+    "KO": "pdp",
+    "KW": "pdp",
+    "LA": "acn",
+    "NA": "pdp",
+    "NI": "pdp",
+    "OG": "pdp",
+    "ON": "pdp",
+    "OS": "pdp",
+    "OY": "pdp",
+    "PL": "pdp",
+    "RI": "pdp",
+    "SO": "pdp",
+    "TA": "pdp",
+    "YO": "anpp",
+    "ZA": "anpp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:2007_Nigerian_Senate_elections"
+  },
+  {
+   "id": "ng-house-of-representatives-2011",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2011-04-09",
+   "totalSeats": 360,
+   "source": {
+    "name": "Wikipedia, citing the Independent National Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2011_Nigerian_parliamentary_election",
+    "revid": 1346541055
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": 13351647,
+     "pct": 46.69,
+     "seats": 203,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Action Congress of Nigeria",
+     "party": "acn",
+     "votes": 5141856,
+     "pct": 17.98,
+     "seats": 69,
+     "change": null
+    },
+    {
+     "name": "Congress for Progressive Change",
+     "party": "cpc",
+     "votes": 4212283,
+     "pct": 14.73,
+     "seats": 38,
+     "change": null
+    },
+    {
+     "name": "All Nigeria Peoples Party",
+     "party": "anpp",
+     "votes": 2900306,
+     "pct": 10.14,
+     "seats": 28,
+     "change": null
+    },
+    {
+     "name": "Labour Party",
+     "party": "lp",
+     "votes": 982647,
+     "pct": 3.44,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "All Progressives Grand Alliance",
+     "party": "apga",
+     "votes": 487753,
+     "pct": 1.71,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Accord",
+     "party": "accord",
+     "votes": 335760,
+     "pct": 1.17,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Democratic People's Party",
+     "party": "dpp",
+     "votes": 489074,
+     "pct": 1.71,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Party of Nigeria",
+     "party": "ppn",
+     "votes": 133651,
+     "pct": 0.47,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 562543,
+     "pct": 1.97,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Others: 52 other parties, none with a seat or 1% of the vote; the largest was Allied Congress Party of Nigeria 87,233 (0.31%). Polling in 48 federal constituencies (and 15 senatorial districts) was put off to 26 April 2011 (Results section); the date is the main polling day. Shares are of the 28,597,520 votes in the table (INEC); the infobox gives slightly different shares (PDP 46.63%). No electorate or turnout, and no change column. Region winners: only Bayelsa, Federal Capital Territory, Kwara, Nasarawa, Taraba, the states with their own results article (\"2011 Nigerian House of Representatives elections in … State\"); the winner is the party that won the most constituencies there.",
+   "regionWinners": {
+    "BY": "pdp",
+    "FC": "pdp",
+    "KW": "pdp",
+    "NA": "cpc",
+    "TA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Nigerian_parliamentary_election"
+  },
+  {
+   "id": "ng-senate-2011",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2011-04-09",
+   "totalSeats": 109,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2011_Nigerian_parliamentary_election",
+    "revid": 1346541055
+   },
+   "candidates": [
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 71,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Action Congress of Nigeria",
+     "party": "acn",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": null
+    },
+    {
+     "name": "Congress for Progressive Change",
+     "party": "cpc",
+     "votes": null,
+     "pct": null,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "All Nigeria Peoples Party",
+     "party": "anpp",
+     "votes": null,
+     "pct": null,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Labour Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Democratic People's Party",
+     "party": "dpp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "All Progressives Grand Alliance",
+     "party": "apga",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Polling in 15 senatorial districts and 48 federal constituencies was put off to 26 April 2011 (Results section); the date is the main polling day. The table (IPU) gives seats only, with no change column, votes or turnout (the infobox gives the 2007 seats, not used). The per-state Senate articles (\"2011 Nigerian Senate elections in … State\") add up to PDP 67, APGA 4, APC 3, ACN 17, ANPP 6, DPP 1, CPC 7, LP 4, against PDP 71, ACN 18, CPC 7, ANPP 7, LP 4, DPP 1, APGA 1 in the national table, so they are not used for region winners."
+  },
+  {
+   "id": "ng-president-2011",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2011-04-16",
+   "turnout": 53.68,
+   "source": {
+    "name": "Wikipedia, citing the Independent National Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2011_Nigerian_presidential_election",
+    "revid": 1377659051
+   },
+   "candidates": [
+    {
+     "name": "Goodluck Jonathan",
+     "party": "pdp",
+     "votes": 22495187,
+     "pct": 58.87,
+     "winner": true
+    },
+    {
+     "name": "Muhammadu Buhari",
+     "party": "cpc",
+     "votes": 12214853,
+     "pct": 31.97
+    },
+    {
+     "name": "Nuhu Ribadu",
+     "party": "acn",
+     "votes": 2079151,
+     "pct": 5.44
+    },
+    {
+     "name": "Ibrahim Shekarau",
+     "party": "anpp",
+     "votes": 917012,
+     "pct": 2.4
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 503775,
+     "pct": 1.32
+    }
+   ],
+   "notes": "Others: 16 other candidates, none with 1% of the vote; the largest was Mahmud Waziri (People for Democratic Change) 82,243 (0.22%). Shares are of valid votes; turnout is the table's (valid plus 1,259,506 invalid votes over 73,528,040 registered). No results by state in the article."
+  },
+  {
+   "id": "ng-house-of-representatives-2015",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2015-03-29",
+   "totalSeats": 360,
+   "turnout": 43.65,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2015_Nigerian_general_election",
+    "revid": 1377455691
+   },
+   "candidates": [
+    {
+     "name": "All Progressives Congress",
+     "party": "apc",
+     "votes": null,
+     "pct": null,
+     "seats": 212,
+     "change": 77,
+     "winner": true
+    },
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 140,
+     "change": -63
+    },
+    {
+     "name": "All Progressives Grand Alliance",
+     "party": "apga",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "Accord",
+     "party": "accord",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -4
+    },
+    {
+     "name": "Labour Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -7
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "notes": "The lead says the elections were held on 28 and 29 March 2015; the date is the last day. The table (IPU) gives seats and changes only; totalSeats (360) is the table's own sum, as the article does not state the chamber size. Its total votes (29,432,083) and electorate are the presidential election's, so the turnout computed from them is the presidential turnout. Region winners: only Bayelsa, Federal Capital Territory, Kano, Kwara, Lagos, Nasarawa, Taraba, the states with their own results article (\"2015 Nigerian House of Representatives elections in … State\"); the winner is the party that won the most constituencies there; no winner for Federal Capital Territory (tied, or seats without a declared winner could change the lead).",
+   "regionWinners": {
+    "BY": "pdp",
+    "KN": "apc",
+    "KW": "apc",
+    "LA": "apc",
+    "NA": "pdp",
+    "TA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:2015_Nigerian_House_of_Representatives_elections"
+  },
+  {
+   "id": "ng-president-2015",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2015-03-29",
+   "turnout": 43.65,
+   "source": {
+    "name": "Wikipedia, citing the Independent National Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2015_Nigerian_general_election",
+    "revid": 1377455691
+   },
+   "candidates": [
+    {
+     "name": "Muhammadu Buhari",
+     "party": "apc",
+     "votes": 15424921,
+     "pct": 53.96,
+     "winner": true
+    },
+    {
+     "name": "Goodluck Jonathan",
+     "party": "pdp",
+     "votes": 12853162,
+     "pct": 44.96
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 309481,
+     "pct": 1.08
+    }
+   ],
+   "notes": "Others: 12 other candidates, none with 1% of the vote; the largest was Adebayo Ayeni (African Peoples Alliance) 53,537 (0.19%). The lead says the elections were held on 28 and 29 March 2015 (voting was extended to 29 March after problems with card readers); the date is the last day. Shares are of valid votes; turnout is the table's (valid plus 844,519 invalid votes over 67,422,005 registered). Region winners: the candidate with the most votes in each state and the FCT, from the article's by-state table (INEC).",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "apc",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "apc",
+    "BY": "pdp",
+    "BE": "apc",
+    "BO": "apc",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "pdp",
+    "EN": "pdp",
+    "GO": "apc",
+    "IM": "pdp",
+    "JI": "apc",
+    "KD": "apc",
+    "KN": "apc",
+    "KT": "apc",
+    "KE": "apc",
+    "KO": "apc",
+    "KW": "apc",
+    "LA": "apc",
+    "NA": "pdp",
+    "NI": "apc",
+    "OG": "apc",
+    "ON": "apc",
+    "OS": "apc",
+    "OY": "apc",
+    "PL": "pdp",
+    "RI": "pdp",
+    "SO": "apc",
+    "TA": "pdp",
+    "YO": "apc",
+    "ZA": "apc",
+    "FC": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2015_Nigerian_general_election"
+  },
+  {
+   "id": "ng-senate-2015",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2015-03-29",
+   "totalSeats": 109,
+   "turnout": 43.65,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2015_Nigerian_general_election",
+    "revid": 1377455691
+   },
+   "candidates": [
+    {
+     "name": "All Progressives Congress",
+     "party": "apc",
+     "votes": null,
+     "pct": null,
+     "seats": 60,
+     "change": 28,
+     "winner": true
+    },
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 48,
+     "change": -23
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 1
+    }
+   ],
+   "notes": "The lead says the elections were held on 28 and 29 March 2015; the date is the last day. The table (IPU) gives seats and changes only and lists one seat as vacant; totalSeats (109) is the table's own sum, as the article does not state the chamber size. Its total votes (29,432,083) and electorate are the presidential election's, so the turnout computed from them is the presidential turnout. The per-state Senate articles (\"2015 Nigerian Senate elections in … State\") add up to PDP 40, APC 63, APGA 3, LP 3, against APC 60, PDP 48 in the national table, so they are not used for region winners."
+  },
+  {
+   "id": "ng-house-of-representatives-2019",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2019-02-23",
+   "totalSeats": 360,
+   "source": {
+    "name": "Wikipedia, citing the Independent National Electoral Commission and Order Paper",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_general_election",
+    "revid": 1379147163
+   },
+   "candidates": [
+    {
+     "name": "All Progressives Congress",
+     "party": "apc",
+     "votes": null,
+     "pct": null,
+     "seats": 202,
+     "change": -10,
+     "winner": true
+    },
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 128,
+     "change": -12
+    },
+    {
+     "name": "All Progressives Grand Alliance",
+     "party": "apga",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": 4
+    },
+    {
+     "name": "African Democratic Congress",
+     "party": "adc",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 4
+    },
+    {
+     "name": "Action Alliance",
+     "party": "aa",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "People's Redemption Party",
+     "party": "prp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Action Democratic Party",
+     "party": "adp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Allied Peoples Movement",
+     "party": "apm",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Labour Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 10
+    }
+   ],
+   "notes": "Seats and changes are the general election article's table (INEC, Order Paper), which lists 10 seats as vacant. The separate article \"2019 Nigerian House of Representatives election\" leaves out the 2020 re-runs and gives the PDP 126 seats with 12 vacant. No votes or turnout. Changes marked \"New\" are null. Region winners: the party with the most seats won in each state and the FCT, counting the winners marked in the state tables of the article \"2019 Nigerian House of Representatives election\"; no winner for Imo, Plateau (tied, or seats without a declared winner could change the lead).",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "apc",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "apc",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "apc",
+    "EK": "apc",
+    "EN": "pdp",
+    "FC": "pdp",
+    "GO": "apc",
+    "JI": "apc",
+    "KD": "apc",
+    "KN": "apc",
+    "KT": "apc",
+    "KE": "apc",
+    "KO": "apc",
+    "KW": "apc",
+    "LA": "apc",
+    "NA": "apc",
+    "NI": "apc",
+    "OG": "apc",
+    "ON": "apc",
+    "OS": "apc",
+    "OY": "apc",
+    "RI": "pdp",
+    "SO": "apc",
+    "TA": "pdp",
+    "YO": "apc",
+    "ZA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2019_Nigerian_House_of_Representatives_election"
+  },
+  {
+   "id": "ng-president-2019",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2019-02-23",
+   "turnout": 34.75,
+   "source": {
+    "name": "Wikipedia, citing the Independent National Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_general_election",
+    "revid": 1379147163
+   },
+   "candidates": [
+    {
+     "name": "Muhammadu Buhari",
+     "party": "apc",
+     "votes": 15191847,
+     "pct": 55.6,
+     "winner": true
+    },
+    {
+     "name": "Atiku Abubakar",
+     "party": "pdp",
+     "votes": 11262978,
+     "pct": 41.22
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 869758,
+     "pct": 3.18
+    }
+   ],
+   "notes": "Others: 71 other candidates, none with 1% of the vote; the largest was Felix Nicolas (Peoples Coalition Party) 110,196 (0.4%). Held on 23 February 2019; in some places voting was put off to 24 February (lead). Shares are of valid votes; turnout is the table's (valid plus 1,289,607 invalid votes over 82,344,107 registered). Region winners: the candidate with the most votes in each state and the FCT, from the article's by-state table.",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "apc",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "apc",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "apc",
+    "EN": "pdp",
+    "FC": "pdp",
+    "GO": "apc",
+    "IM": "pdp",
+    "JI": "apc",
+    "KD": "apc",
+    "KN": "apc",
+    "KT": "apc",
+    "KE": "apc",
+    "KO": "apc",
+    "KW": "apc",
+    "LA": "apc",
+    "NA": "apc",
+    "NI": "apc",
+    "OG": "apc",
+    "ON": "pdp",
+    "OS": "apc",
+    "OY": "pdp",
+    "PL": "pdp",
+    "RI": "pdp",
+    "SO": "apc",
+    "TA": "pdp",
+    "YO": "apc",
+    "ZA": "apc"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2019_Nigerian_general_election"
+  },
+  {
+   "id": "ng-senate-2019",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2019-02-23",
+   "totalSeats": 109,
+   "source": {
+    "name": "Wikipedia, citing the Independent National Electoral Commission and Order Paper",
+    "url": "https://en.wikipedia.org/wiki/2019_Nigerian_general_election",
+    "revid": 1379147163
+   },
+   "candidates": [
+    {
+     "name": "All Progressives Congress",
+     "party": "apc",
+     "votes": null,
+     "pct": null,
+     "seats": 63,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "People's Democratic Party",
+     "party": "pdp",
+     "votes": null,
+     "pct": null,
+     "seats": 45,
+     "change": -4
+    },
+    {
+     "name": "Young Progressives Party",
+     "party": "ypp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Seats and changes are the general election article's table (INEC, Order Paper); the PDP's change (−4) is as given there, although its 2015 total was 48. The separate article \"2019 Nigerian Senate election\" gives the same seats but a total of 108, as the Akwa Ibom North-West result was partly voided and re-run in 2020. No votes or turnout. Region winners: the party with the most seats won in each state and the FCT, counting the winners marked in the state tables of the article \"2019 Nigerian Senate election\".",
+   "regionWinners": {
+    "AB": "pdp",
+    "AD": "pdp",
+    "AK": "pdp",
+    "AN": "pdp",
+    "BA": "apc",
+    "BY": "pdp",
+    "BE": "pdp",
+    "BO": "apc",
+    "CR": "pdp",
+    "DE": "pdp",
+    "EB": "pdp",
+    "ED": "pdp",
+    "EK": "apc",
+    "EN": "pdp",
+    "FC": "pdp",
+    "GO": "apc",
+    "IM": "apc",
+    "JI": "apc",
+    "KD": "apc",
+    "KN": "apc",
+    "KT": "apc",
+    "KE": "apc",
+    "KO": "apc",
+    "KW": "apc",
+    "LA": "apc",
+    "NA": "apc",
+    "NI": "apc",
+    "OG": "apc",
+    "ON": "pdp",
+    "OS": "apc",
+    "OY": "apc",
+    "PL": "apc",
+    "RI": "pdp",
+    "SO": "apc",
+    "TA": "pdp",
+    "YO": "apc",
+    "ZA": "pdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2019_Nigerian_Senate_election"
+  }
+ ]
+}

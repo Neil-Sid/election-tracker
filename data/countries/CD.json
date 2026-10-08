@@ -1,0 +1,1486 @@
+{
+  "code": "CD",
+  "name": "DR Congo",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary semi-presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Parliament: National Assembly (500) and Senate (108)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 41738628,
+    "offices": {
+      "President": "Elected by plurality in a single round for a five-year term, renewable once. The president is head of state and appoints the prime minister, whose government answers to Parliament.",
+      "National Assembly": "The 500 deputies are elected for five years, by first past the post in single-member districts and by open-list proportional representation in multi-member districts, with a 1% national threshold. It is the lower house of Parliament; the Senate is elected indirectly by the provincial assemblies."
+    }
+  },
+  "parties": {
+    "a2024": {
+      "name": "Alliance 2024",
+      "color": "#0399F9"
+    },
+    "a2025": {
+      "name": "Alliance 2025",
+      "color": "#99D685"
+    },
+    "aaa": {
+      "name": "Agreement with the Allies Alliance",
+      "color": "#5F2B82"
+    },
+    "aaadc": {
+      "name": "Allied Actions–All for the Development of Congo",
+      "color": "#162578"
+    },
+    "aaalc": {
+      "name": "Alternative Action of Actors for the Love of Congo",
+      "color": "#49DF00"
+    },
+    "aaap": {
+      "name": "Alliance of actors attached to the people",
+      "color": "#EFE00B"
+    },
+    "aacrd": {
+      "name": "Actions of the Allies of the Convention for the Republic and Democracy",
+      "color": "#109F50"
+    },
+    "aagg": {
+      "name": "Audible Actions for Good Governance",
+      "color": "#84BD28"
+    },
+    "aaggc": {
+      "name": "Alliance of Actors for Good Governance of Congo",
+      "color": "#D5C953"
+    },
+    "aailcc": {
+      "name": "Action of Allies to Improve Living Conditions for the Congolese",
+      "color": "#3CDD9C"
+    },
+    "aalrcr": {
+      "name": "Allied Action for the Love of the Republic/Convention for the Republic",
+      "color": "#B34D8F"
+    },
+    "aapgc": {
+      "name": "Alliance for the Advent of a Prosperous and Greater Congo",
+      "color": "#79822B"
+    },
+    "aarc": {
+      "name": "Allied Action for the Rise of the Congo",
+      "color": "#D6C285"
+    },
+    "aarl": {
+      "name": "Alliance and Action for the Rule of Law",
+      "color": "#823CDD"
+    },
+    "aawc": {
+      "name": "Alternative Action for Wellbeing and Change",
+      "color": "#549573"
+    },
+    "ab": {
+      "name": "Alliance des Bayanzi",
+      "color": "#D68599"
+    },
+    "ab2": {
+      "name": "Agissons and Buildings",
+      "color": "#F4B515"
+    },
+    "ab50": {
+      "name": "Alliance bloc 50",
+      "color": "#3CDD82"
+    },
+    "abako": {
+      "name": "ABAKO",
+      "color": "#F9E99C"
+    },
+    "abk": {
+      "name": "Alliance of Builders of Kongo",
+      "color": "#9985D6"
+    },
+    "acbn": {
+      "name": "Alliance of Congolese Believing Nationalists",
+      "color": "#85D699"
+    },
+    "acd": {
+      "name": "Alliance of Congolese Democrats",
+      "color": "#2B4E82"
+    },
+    "acdf": {
+      "name": "Alliance of Congo Democratic Forces",
+      "color": "#3CDDB7"
+    },
+    "acec": {
+      "name": "Alliance of Construction for an Emergent Congo",
+      "color": "#826E2B"
+    },
+    "acld": {
+      "name": "Awakening Conscience for Labor and Development",
+      "color": "#3028BD"
+    },
+    "acn": {
+      "name": "Alliance of Congolese Nationalists",
+      "color": "#B0DDC8"
+    },
+    "aco": {
+      "name": "Future of the Congo",
+      "color": "#CE156B"
+    },
+    "act": {
+      "name": "Association of Citizens of Tshuapa",
+      "color": "#2B4082"
+    },
+    "ada": {
+      "name": "Alliance for Democratic Alternative",
+      "color": "#2B5C82"
+    },
+    "adaa": {
+      "name": "Alliance for Democratic Alternation and Allies",
+      "color": "#D6858B"
+    },
+    "adac": {
+      "name": "Alliance for Development Actions in Congo",
+      "color": "#28BD93"
+    },
+    "adr": {
+      "name": "Alliance for Development and the Republic",
+      "color": "#B34D6D"
+    },
+    "adrp": {
+      "name": "Alliance of Democrats for Renewal and Progress",
+      "color": "#3CDD4C"
+    },
+    "aespa": {
+      "name": "Alliance of Elites in the Service of the People and Allies",
+      "color": "#2852BD"
+    },
+    "af": {
+      "name": "Alliance for the Future",
+      "color": "#3CB2DD"
+    },
+    "afc": {
+      "name": "Action for the Federative Cause",
+      "color": "#3ABD28"
+    },
+    "afdc": {
+      "name": "Alliance of Democratic Forces of Congo",
+      "color": "#A03020"
+    },
+    "agdc": {
+      "name": "Alliance for the Growth and Democracy of Congo",
+      "color": "#822B31"
+    },
+    "ahd": {
+      "name": "Alliance of Humanist Democrats",
+      "color": "#3C61DD"
+    },
+    "ahd2": {
+      "name": "Alliance for Humanism and Democracy",
+      "color": "#5F4DB3"
+    },
+    "ajds": {
+      "name": "Alliance for Justice, Development, and Solidarity",
+      "color": "#B4D685"
+    },
+    "allian": {
+      "name": "Alliance",
+      "color": "#DD823C"
+    },
+    "amk": {
+      "name": "Alliance of Movements of Kongo",
+      "color": "#3C47DD"
+    },
+    "amncl": {
+      "name": "Alliance des mouvements nationalistes congolais-Lumumba",
+      "color": "#28BD30"
+    },
+    "amrcflp": {
+      "name": "Action Movement for Resurrection of the Congo-Fraternity and Labour Party",
+      "color": "#754785"
+    },
+    "an": {
+      "name": "Alliance of Nationalists",
+      "color": "#85476B"
+    },
+    "anu": {
+      "name": "Action for National Unity",
+      "color": "#289DBD"
+    },
+    "aopr": {
+      "name": "Autonomous Organization of the People for Renewal",
+      "color": "#5C822B"
+    },
+    "aotc": {
+      "name": "Alliance for the Overall Transformation of Congo",
+      "color": "#C6DDB0"
+    },
+    "apc": {
+      "name": "Alliance of Progressives for Congo",
+      "color": "#477F85"
+    },
+    "apca": {
+      "name": "Alliance of Progressive Congolese and Allies",
+      "color": "#47856B"
+    },
+    "appamlc": {
+      "name": "Alliance of Political Parties Allied to the Movement for the Liberation of the Congo",
+      "color": "#85CFD6"
+    },
+    "ar": {
+      "name": "Alternative for the Republic",
+      "color": "#31822B"
+    },
+    "arc": {
+      "name": "Alliance for the Renewal of Congo",
+      "color": "#D6CF85"
+    },
+    "arpprc": {
+      "name": "ARP−PRC",
+      "color": "#CF8459"
+    },
+    "arr": {
+      "name": "Alliance for the Reform of the Republic",
+      "color": "#85A7D6"
+    },
+    "arre": {
+      "name": "Action of the Rally for Reconstruction and Edification",
+      "color": "#D685A7"
+    },
+    "asmc": {
+      "name": "Alliance for the Solidarity Movement for Change",
+      "color": "#856147"
+    },
+    "ata": {
+      "name": "Alliance for the Triple and Allies",
+      "color": "#BD7A28"
+    },
+    "atcar": {
+      "name": "ATCAR",
+      "color": "#822B79"
+    },
+    "atcarconaco": {
+      "name": "ATCAR-CONACO",
+      "color": "#6B822B"
+    },
+    "au": {
+      "name": "Alliance in the Unity",
+      "color": "#C0B0DD"
+    },
+    "auat": {
+      "name": "Alliances of Unified and Allied Tshisekedists",
+      "color": "#7C2B82"
+    },
+    "av": {
+      "name": "Alliance for Values",
+      "color": "#475785"
+    },
+    "avancons": {
+      "name": "Avançons",
+      "color": "#DD3CB2"
+    },
+    "avca": {
+      "name": "Another Vision of Congo and Allies",
+      "color": "#B0DDB9"
+    },
+    "avk2018": {
+      "name": "Alternative Vital Kamerhe 2018",
+      "color": "#CFB0DD"
+    },
+    "balikolo": {
+      "name": "BA-LIKOLO",
+      "color": "#DD3C47"
+    },
+    "balubakat": {
+      "name": "BALUBAKAT",
+      "color": "#D23CDD"
+    },
+    "budjala": {
+      "name": "Budjala Union",
+      "color": "#B485D6"
+    },
+    "bum": {
+      "name": "Basonge Unity Movement",
+      "color": "#4C3CDD"
+    },
+    "bupc": {
+      "name": "Build a United and Prosperous Congo",
+      "color": "#2884BD"
+    },
+    "caac": {
+      "name": "Congress of Allies for Action in Congo",
+      "color": "#97DD3C"
+    },
+    "caac2": {
+      "name": "Congo Allied Action for the Convention",
+      "color": "#3CDDD2"
+    },
+    "cac": {
+      "name": "Christian Alternative for Congo",
+      "color": "#8B85D6"
+    },
+    "cacd": {
+      "name": "Congolese Alliance of Christian Democrats",
+      "color": "#854C47"
+    },
+    "cadd": {
+      "name": "Christian Alliance for Democracy and Development",
+      "color": "#9328BD"
+    },
+    "ccd": {
+      "name": "Christian Convention for Democracy",
+      "color": "#4D6DB3"
+    },
+    "ccrp": {
+      "name": "Coalition of Congolese Resistance Patriots",
+      "color": "#4DB35F"
+    },
+    "cd": {
+      "name": "Christian Democracy",
+      "color": "#822B40"
+    },
+    "cd2": {
+      "name": "Coalition of Democrats",
+      "color": "#BD286B"
+    },
+    "cdc": {
+      "name": "Convention of Christian Democrats",
+      "color": "#556627"
+    },
+    "cdl": {
+      "name": "Convention for Democracy and Liberty",
+      "color": "#4DA0B3"
+    },
+    "cdpdc": {
+      "name": "Christian Democrat Party for the Development of the Congolese",
+      "color": "#2B8251"
+    },
+    "cep": {
+      "name": "Congolese Ecologist Party",
+      "color": "#BD289D"
+    },
+    "cerea": {
+      "name": "Centre de Regroupement Africain",
+      "color": "#47DD3C"
+    },
+    "cf": {
+      "name": "Congo Future",
+      "color": "#2B826E"
+    },
+    "cf2": {
+      "name": "Current Future",
+      "color": "#BDAC28"
+    },
+    "cfd": {
+      "name": "Common Front–Delvaux",
+      "color": "#2B827C"
+    },
+    "cfnk": {
+      "name": "Common Front of North Kivu",
+      "color": "#D23CDD"
+    },
+    "cg": {
+      "name": "Congolese Grouping",
+      "color": "#C285D6"
+    },
+    "clad": {
+      "name": "Congolese Labor Alliance for Development",
+      "color": "#3CDD82"
+    },
+    "cmdid": {
+      "name": "Congolese Movement for Democracy and Integral Development",
+      "color": "#374CCB"
+    },
+    "cmr": {
+      "name": "Congolese Movement for Renaissance",
+      "color": "#B0DDB1"
+    },
+    "cmsd": {
+      "name": "Christian Movement for Solidarity and Democracy",
+      "color": "#CFAB59"
+    },
+    "cnc": {
+      "name": "Congolese National Congress",
+      "color": "#82342B"
+    },
+    "cnu": {
+      "name": "Congolese National Union",
+      "color": "#3CDDD2"
+    },
+    "codeco": {
+      "name": "Coalition of Congolese Democrats",
+      "color": "#3CDDD2"
+    },
+    "conaco": {
+      "name": "Congolese National Convention",
+      "color": "#4C3CDD"
+    },
+    "conakat": {
+      "name": "CONAKAT",
+      "color": "#FF8C00"
+    },
+    "coutum": {
+      "name": "Coutumier",
+      "color": "#B0DDC0"
+    },
+    "cpd": {
+      "name": "Congolese Party for Development",
+      "color": "#D68599"
+    },
+    "cpgg": {
+      "name": "Congolese Party for Good Governance",
+      "color": "#2B7982"
+    },
+    "cpmr": {
+      "name": "Congolese People's Movement for the Republic",
+      "color": "#8599D6"
+    },
+    "cpp": {
+      "name": "Camp of the Fatherland",
+      "color": "#D23CDD"
+    },
+    "cppwb": {
+      "name": "Congolese Party for the People's Well-Being",
+      "color": "#3CDD67"
+    },
+    "cpr": {
+      "name": "Convention of Progressives for the Republic",
+      "color": "#CDDD3C"
+    },
+    "cpw": {
+      "name": "Conscience and People's Will",
+      "color": "#A0B34D"
+    },
+    "crd": {
+      "name": "Convention for the Republic and Democracy",
+      "color": "#BD9328"
+    },
+    "crp": {
+      "name": "Convention for Renaissance and Progress",
+      "color": "#D685B4"
+    },
+    "crp2": {
+      "name": "Christian Republican Party",
+      "color": "#BD283A"
+    },
+    "csd": {
+      "name": "Congolese Solidarity for Democracy",
+      "color": "#827C2B"
+    },
+    "csu": {
+      "name": "Congolese Socialist Union",
+      "color": "#CF5990"
+    },
+    "cuc": {
+      "name": "Congolese Union for Change",
+      "color": "#5969CF"
+    },
+    "cul": {
+      "name": "Congolese Union for Liberty",
+      "color": "#3CDD4C"
+    },
+    "cup": {
+      "name": "Congolese Union for Progress",
+      "color": "#3CCDDD"
+    },
+    "curj": {
+      "name": "Christian Union for Renewal and Justice",
+      "color": "#4D8FB3"
+    },
+    "dcd": {
+      "name": "Democratic Convention for Development",
+      "color": "#B2DD3C"
+    },
+    "dcf": {
+      "name": "DCF–COFEDEC",
+      "color": "#B3814D"
+    },
+    "ddc": {
+      "name": "Dynamics for Democracy in Congo",
+      "color": "#85D6C2"
+    },
+    "dop": {
+      "name": "Dynamic of Congolese Political Opposition",
+      "color": "#3365AA"
+    },
+    "dpr": {
+      "name": "Dynamique Progressive Revolutionnaire",
+      "color": "#8459CF"
+    },
+    "drlkk": {
+      "name": "Democratic Rally of Lac, Kwango and Kwilu",
+      "color": "#822B4E"
+    },
+    "dscp": {
+      "name": "Democratic Social Christian Party",
+      "color": "#85C2D6"
+    },
+    "ecide": {
+      "name": "Engagement for Citizenship and Development",
+      "color": "#4DB3A3"
+    },
+    "ensemble": {
+      "name": "Together for the Republic",
+      "color": "#0080FF"
+    },
+    "epr": {
+      "name": "Electoral Platform Renaissance",
+      "color": "#342B82"
+    },
+    "fc": {
+      "name": "Foundation of Congo",
+      "color": "#69CF59"
+    },
+    "fcc": {
+      "name": "Common Front for Congo",
+      "color": "#FFCC33"
+    },
+    "fcd": {
+      "name": "Front of Congolese Democrats",
+      "color": "#4DB392"
+    },
+    "fcdn": {
+      "name": "Federalist Christian Democracy-Nyamwisi",
+      "color": "#DDB1B0"
+    },
+    "ffr": {
+      "name": "Forces for Renewal",
+      "color": "#3BB9FF"
+    },
+    "fsdd": {
+      "name": "Front of Social Democrats for Development",
+      "color": "#CF7159"
+    },
+    "fsi": {
+      "name": "Front for Social Integration",
+      "color": "#28BD7A"
+    },
+    "g18": {
+      "name": "Group 18",
+      "color": "#D6B485"
+    },
+    "g7": {
+      "name": "Group of 7",
+      "color": "#D68B85"
+    },
+    "gsdc": {
+      "name": "Generation for Solidarity and the Development of Congo",
+      "color": "#BD4828"
+    },
+    "ifcd": {
+      "name": "Independent Front for Christian Democracy",
+      "color": "#B7CF59"
+    },
+    "ifus": {
+      "name": "Innovative Forces for Union and Solidarity",
+      "color": "#4D5CB3"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "indkabila": {
+      "name": "Independent",
+      "color": "#FFCC33"
+    },
+    "indmbusa": {
+      "name": "Independent",
+      "color": "#2B3182"
+    },
+    "kc": {
+      "name": "Kasaian Coalition",
+      "color": "#8BD685"
+    },
+    "ku": {
+      "name": "Kasaian Union",
+      "color": "#9DBD28"
+    },
+    "kuil": {
+      "name": "Kwangolese Union for Independence and Liberty",
+      "color": "#3C97DD"
+    },
+    "lcdu": {
+      "name": "Liberal Christian Democrats Union",
+      "color": "#BD28B6"
+    },
+    "ldci": {
+      "name": "League for the Defense of Citizens' Interests",
+      "color": "#85D68B"
+    },
+    "lgd": {
+      "name": "Leadership and Governance for Development",
+      "color": "#B35F4D"
+    },
+    "llp": {
+      "name": "Liberal Labor Party",
+      "color": "#B0CEDD"
+    },
+    "lp": {
+      "name": "Labor Party",
+      "color": "#578547"
+    },
+    "lpm": {
+      "name": "Lumumbist Progressive Movement",
+      "color": "#6BBD28"
+    },
+    "mederc": {
+      "name": "MEDERCO",
+      "color": "#DD4C3C"
+    },
+    "mip": {
+      "name": "Movement for the Integrity of People",
+      "color": "#3C7CDD"
+    },
+    "mip2": {
+      "name": "Movement for the Integrity of the People",
+      "color": "#85474C"
+    },
+    "mir": {
+      "name": "Movement of Independent Reformists",
+      "color": "#85D6A7"
+    },
+    "mlc": {
+      "name": "Movement for the Liberation of the Congo",
+      "color": "#0000FF"
+    },
+    "mmm": {
+      "name": "Maï Maï Movement",
+      "color": "#B6BD28"
+    },
+    "mnck": {
+      "name": "Mouvement National Congolais-Kalonji",
+      "color": "#DD3C7C"
+    },
+    "mnckind": {
+      "name": "MNC-Kalonji Independents",
+      "color": "#59B7CF"
+    },
+    "mncl": {
+      "name": "Mouvement National Congolais-Lumumba",
+      "color": "#0047AB"
+    },
+    "mpr": {
+      "name": "Popular Movement of the Revolution",
+      "color": "#6ABD51"
+    },
+    "msc": {
+      "name": "Movement of Solidarity for Change",
+      "color": "#82512B"
+    },
+    "msr": {
+      "name": "Social Movement for Renewal",
+      "color": "#CD5C5C"
+    },
+    "mwinda": {
+      "name": "Mwinda-Bakongo",
+      "color": "#DD3C97"
+    },
+    "na": {
+      "name": "Ngwaka Association",
+      "color": "#827C2B"
+    },
+    "nad": {
+      "name": "New Alliance of Democrats",
+      "color": "#2B5C82"
+    },
+    "napu": {
+      "name": "National Alliance Party for Unity",
+      "color": "#DDCFB0"
+    },
+    "ncpa": {
+      "name": "National Convention of Political Action",
+      "color": "#856B47"
+    },
+    "ncrp": {
+      "name": "National Convention for Republic and Progress",
+      "color": "#28B6BD"
+    },
+    "nelan": {
+      "name": "New Momentum",
+      "color": "#158653"
+    },
+    "nif": {
+      "name": "Nationalist and Integrationist Front",
+      "color": "#BD7A28"
+    },
+    "npdr": {
+      "name": "National Party for Democracy and the Republic",
+      "color": "#B1B34D"
+    },
+    "npp": {
+      "name": "National People's Party",
+      "color": "#CF597C"
+    },
+    "npr": {
+      "name": "National Party for Reform",
+      "color": "#673CDD"
+    },
+    "nprd": {
+      "name": "National Party of Renewal for Development",
+      "color": "#283ABD"
+    },
+    "nucd": {
+      "name": "National Union of Christian Democrats",
+      "color": "#D6A785"
+    },
+    "nufd": {
+      "name": "National Union of Federalist Democrats",
+      "color": "#924DB3"
+    },
+    "nup": {
+      "name": "National Unity Party",
+      "color": "#758547"
+    },
+    "obc": {
+      "name": "Our Beautiful Country",
+      "color": "#DDD23C"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "pa": {
+      "name": "Party for Action",
+      "color": "#DDB0C6"
+    },
+    "palu": {
+      "name": "Unified Lumumbist Party",
+      "color": "#D685CF"
+    },
+    "pcr": {
+      "name": "Progressists' Convention for the Republic",
+      "color": "#90CF59"
+    },
+    "pdc": {
+      "name": "Christian Democratic Party",
+      "color": "#FFA500"
+    },
+    "pnid": {
+      "name": "Party of Nationalists for Integral Development",
+      "color": "#BD2852"
+    },
+    "pnp": {
+      "name": "Parti National du Progrès",
+      "color": "#2B8242"
+    },
+    "poka": {
+      "name": "Political Organisation of Kasavubists and Allies",
+      "color": "#B3A34D"
+    },
+    "ppc": {
+      "name": "Party for Peace in Congo",
+      "color": "#4DB381"
+    },
+    "pppd": {
+      "name": "People's Party for Peace and Democracy",
+      "color": "#2B3182"
+    },
+    "ppr": {
+      "name": "Party for the People's Revolution",
+      "color": "#CF5969"
+    },
+    "pprd": {
+      "name": "People's Party for Reconstruction and Democracy",
+      "color": "#FFCC33"
+    },
+    "prc": {
+      "name": "Party for the Renaissance of Congo",
+      "color": "#854761"
+    },
+    "prp": {
+      "name": "People's Revolution Party",
+      "color": "#7A28BD"
+    },
+    "psa": {
+      "name": "Parti Solidaire Africain",
+      "color": "#FF0000"
+    },
+    "psfau": {
+      "name": "Political and Social Forces Allied to the UDPS",
+      "color": "#CBCF59"
+    },
+    "puna": {
+      "name": "Party of National Unity",
+      "color": "#82422B"
+    },
+    "rc": {
+      "name": "Rainbow of Congo",
+      "color": "#3CDDD2"
+    },
+    "rcc": {
+      "name": "Rally of Christians for the Congo",
+      "color": "#6E2B82"
+    },
+    "rcd": {
+      "name": "Rally for Congolese Democracy",
+      "color": "#008000"
+    },
+    "rcdn": {
+      "name": "Rally of Congolese Democrats and Nationalists",
+      "color": "#BD6128"
+    },
+    "rceg": {
+      "name": "Rally of Congolese Ecologists – The Greens",
+      "color": "#B0BFDD"
+    },
+    "rdcp": {
+      "name": "Rally for the Defense of Congolese People",
+      "color": "#DD3C7C"
+    },
+    "rdp": {
+      "name": "Regrouping of Democrats for Progress",
+      "color": "#857547"
+    },
+    "rdr": {
+      "name": "Rally of Democrats for the Republic",
+      "color": "#3CDDD2"
+    },
+    "resd": {
+      "name": "Rally for Economic and Social Development",
+      "color": "#3CB2DD"
+    },
+    "rfus": {
+      "name": "Renewing Forces for Union and Solidarity",
+      "color": "#2B8242"
+    },
+    "rg": {
+      "name": "Republican Generations",
+      "color": "#476B85"
+    },
+    "rp": {
+      "name": "Reformist Party",
+      "color": "#B0DDD7"
+    },
+    "rp2": {
+      "name": "Renewal Party",
+      "color": "#28BD48"
+    },
+    "rpmm": {
+      "name": "Resistance Patriots Maï-Maï",
+      "color": "#2B826E"
+    },
+    "rrc": {
+      "name": "Rally for the Reconstruction of Congo",
+      "color": "#822B6B"
+    },
+    "rsff": {
+      "name": "Rally of Social and Federalist Forces",
+      "color": "#BD3028"
+    },
+    "rudec": {
+      "name": "Rally for Unity, Development, and the Environment of Congo",
+      "color": "#474D85"
+    },
+    "scu": {
+      "name": "Solidarity Civic Unity",
+      "color": "#854775"
+    },
+    "sdmimia": {
+      "name": "Self-Defence Movement for Integrity and Maintenance of Independent Authority",
+      "color": "#4C3CDD"
+    },
+    "set": {
+      "name": "Support for Étienne Tshisekedi",
+      "color": "#6B4785"
+    },
+    "sfir": {
+      "name": "Social Front of Independent Republicans",
+      "color": "#DD9C3C"
+    },
+    "sm": {
+      "name": "Social Movement",
+      "color": "#7F95F9"
+    },
+    "smdd": {
+      "name": "Solidarity Movement for Democracy and Development",
+      "color": "#B3704D"
+    },
+    "snd": {
+      "name": "Solidarity for National Development",
+      "color": "#B34DA0"
+    },
+    "suc": {
+      "name": "Stand Up Congo",
+      "color": "#9859CF"
+    },
+    "ucc": {
+      "name": "United Congolese Convention",
+      "color": "#C8B0DD"
+    },
+    "ucll2": {
+      "name": "Union of the Citizens of Lake Leopold II",
+      "color": "#CDDD3C"
+    },
+    "ucnp": {
+      "name": "Union of Congolese Nationalist Patriots",
+      "color": "#4E822B"
+    },
+    "ucp": {
+      "name": "Union of Congolese Patriots",
+      "color": "#CF59CB"
+    },
+    "udc": {
+      "name": "Union for the Development of Congo",
+      "color": "#7EB34D"
+    },
+    "udemo": {
+      "name": "Union of Mobutist Democrats",
+      "color": "#3AB500"
+    },
+    "udn": {
+      "name": "Union for the Development of the Nation",
+      "color": "#B0B7DD"
+    },
+    "udpk": {
+      "name": "Union for Democracy and Progress-Kibassa",
+      "color": "#D5DDB0"
+    },
+    "udps": {
+      "name": "Union for Democracy and Social Progress",
+      "color": "#CF1020"
+    },
+    "udpsk": {
+      "name": "UDPS/Kibassa",
+      "color": "#DD673C"
+    },
+    "udr2": {
+      "name": "Union for the Defence of the Republic",
+      "color": "#A7D685"
+    },
+    "ufc": {
+      "name": "Union of Forces for Change",
+      "color": "#2B8234"
+    },
+    "ufcd": {
+      "name": "Union of Federalist Christian Democrats",
+      "color": "#85B4D6"
+    },
+    "ulpd": {
+      "name": "Union for Liberty, Peace, and Development",
+      "color": "#2B6B82"
+    },
+    "um": {
+      "name": "Union of the Mongo",
+      "color": "#474D85"
+    },
+    "un": {
+      "name": "Union for the Nation",
+      "color": "#B3924D"
+    },
+    "unafec": {
+      "name": "Union of Nationalist Federalists of the Congo",
+      "color": "#DD3C97"
+    },
+    "unc": {
+      "name": "Union for the Congolese Nation",
+      "color": "#D23CDD"
+    },
+    "unebaf": {
+      "name": "UNEBAFI",
+      "color": "#DDB73C"
+    },
+    "unicentrale": {
+      "name": "Unicentrale",
+      "color": "#3CDDB7"
+    },
+    "uprid": {
+      "name": "Union of the People for Republic and Integral Development",
+      "color": "#822B5C"
+    },
+    "ur": {
+      "name": "Union for the Republic",
+      "color": "#59CF84"
+    },
+    "ur2": {
+      "name": "United for the Republic",
+      "color": "#B0DDDD"
+    },
+    "urec": {
+      "name": "Union for Congolese Reconstruction",
+      "color": "#283ABD"
+    },
+    "urm": {
+      "name": "Union for the Republican Majority",
+      "color": "#DDB0B7"
+    },
+    "uubc": {
+      "name": "It's up to us to build the Congo",
+      "color": "#085CF0"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "vtdpdrc": {
+      "name": "Volunteers Together for Development Party of the Democratic Republic of the Congo",
+      "color": "#9DBD28"
+    }
+  },
+  "elections": [
+    {
+      "id": "cd-president-2023",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2023-12-20",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 42.65,
+      "system": "Single-round popular vote, five-year term",
+      "cite": {
+        "name": "the Independent National Electoral Commission (CENI)",
+        "url": "https://en.wikipedia.org/wiki/2023_Democratic_Republic_of_the_Congo_general_election"
+      },
+      "note": "Disputed result; observers reported extensive fraud",
+      "candidates": [
+        {
+          "name": "Félix Tshisekedi",
+          "party": "udps",
+          "votes": 13058962,
+          "pct": 73.47,
+          "winner": true
+        },
+        {
+          "name": "Moïse Katumbi",
+          "party": "ensemble",
+          "votes": 3256572,
+          "pct": 18.32
+        },
+        {
+          "name": "Martin Fayulu",
+          "party": "ecide",
+          "votes": 875336,
+          "pct": 4.92
+        },
+        {
+          "name": "Adolphe Muzito",
+          "party": "nelan",
+          "votes": 200800,
+          "pct": 1.13
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 382273,
+          "pct": 2.15
+        }
+      ],
+      "regions": [
+        {"name":"Bandundu","abbr":"BN","winner":"udps","margin":43.5,"turnout":40.6,"votes":1455081,"results":[{"party":"udps","pct":67.4,"votes":980725},{"party":"ensemble","pct":23.9,"votes":347764},{"party":"ecide","pct":5.8,"votes":84395},{"party":"oth","pct":2.4,"votes":34922},{"party":"nelan","pct":0.5,"votes":7275}]},
+        {"name":"Équateur","abbr":"EQ","winner":"udps","margin":45.5,"turnout":46.1,"votes":1299198,"results":[{"party":"udps","pct":65.8,"votes":854872},{"party":"ensemble","pct":20.3,"votes":263737},{"party":"ecide","pct":7.7,"votes":100038},{"party":"oth","pct":5.1,"votes":66259},{"party":"nelan","pct":1.1,"votes":14291}]},
+        {"name":"Kasaï-Occidental","abbr":"KW","winner":"udps","margin":35.9,"turnout":41.9,"votes":1711085,"results":[{"party":"udps","pct":65.2,"votes":1115627},{"party":"ensemble","pct":29.3,"votes":501348},{"party":"ecide","pct":2.7,"votes":46199},{"party":"oth","pct":1.8,"votes":30800},{"party":"nelan","pct":0.9,"votes":15400}]},
+        {"name":"Kasaï-Oriental","abbr":"KE","winner":"udps","margin":60.5,"turnout":43.6,"votes":1882316,"results":[{"party":"udps","pct":76.6,"votes":1441854},{"party":"ensemble","pct":16.1,"votes":303053},{"party":"ecide","pct":4.5,"votes":84704},{"party":"oth","pct":1.9,"votes":35764},{"party":"nelan","pct":0.9,"votes":16941}]},
+        {"name":"Katanga","abbr":"KA","winner":"udps","margin":36.5,"turnout":49.5,"votes":1822387,"results":[{"party":"udps","pct":61.8,"votes":1126235},{"party":"ensemble","pct":25.3,"votes":461064},{"party":"ecide","pct":8.8,"votes":160370},{"party":"oth","pct":2.3,"votes":41915},{"party":"nelan","pct":1.7,"votes":30981}]},
+        {"name":"Kinshasa","abbr":"KN","winner":"udps","margin":65,"turnout":42.6,"votes":1451897,"results":[{"party":"udps","pct":80.3,"votes":1165873},{"party":"ensemble","pct":15.3,"votes":222140},{"party":"ecide","pct":2.1,"votes":30490},{"party":"oth","pct":1.4,"votes":20327},{"party":"nelan","pct":0.9,"votes":13067}]},
+        {"name":"Kongo Central","abbr":"BC","winner":"udps","margin":54.3,"turnout":47.8,"votes":1875197,"results":[{"party":"udps","pct":74.5,"votes":1397022},{"party":"ensemble","pct":20.2,"votes":378790},{"party":"ecide","pct":2.8,"votes":52506},{"party":"oth","pct":1.5,"votes":28128},{"party":"nelan","pct":1,"votes":18752}]},
+        {"name":"Maniema","abbr":"MA","winner":"udps","margin":36.8,"turnout":38.8,"votes":1351107,"results":[{"party":"udps","pct":64.3,"votes":868762},{"party":"ensemble","pct":27.5,"votes":371554},{"party":"ecide","pct":5.7,"votes":77013},{"party":"oth","pct":1.7,"votes":22969},{"party":"nelan","pct":0.8,"votes":10809}]},
+        {"name":"North Kivu","abbr":"NK","winner":"udps","margin":53.3,"turnout":39.7,"votes":1911481,"results":[{"party":"udps","pct":73,"votes":1395381},{"party":"ensemble","pct":19.7,"votes":376562},{"party":"ecide","pct":4.7,"votes":89840},{"party":"oth","pct":1.5,"votes":28672},{"party":"nelan","pct":1.1,"votes":21026}]},
+        {"name":"Orientale","abbr":"OR","winner":"udps","margin":55.7,"turnout":37.2,"votes":1720891,"results":[{"party":"udps","pct":71.9,"votes":1237321},{"party":"ensemble","pct":16.2,"votes":278784},{"party":"ecide","pct":8,"votes":137671},{"party":"oth","pct":2.2,"votes":37860},{"party":"nelan","pct":1.7,"votes":29255}]},
+        {"name":"South Kivu","abbr":"SK","winner":"udps","margin":59.3,"turnout":39.2,"votes":1830172,"results":[{"party":"udps","pct":76.2,"votes":1394591},{"party":"ensemble","pct":16.9,"votes":309299},{"party":"ecide","pct":5.3,"votes":96999},{"party":"oth","pct":1.1,"votes":20132},{"party":"nelan","pct":0.5,"votes":9151}]}
+      ]
+    },
+    {
+      "id": "cd-national-assembly-2023",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2023-12-20",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 45.07,
+      "system": "500 seats, list proportional and first past the post",
+      "totalSeats": 500,
+      "majority": 251,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Independent National Electoral Commission (CENI)",
+        "url": "https://en.wikipedia.org/wiki/2023_Democratic_Republic_of_the_Congo_general_election"
+      },
+      "note": "Provisional results; no vote in three territories",
+      "candidates": [
+        {
+          "name": "Union for Democracy and Social Progress",
+          "party": "udps",
+          "votes": 1664049,
+          "pct": 9.26,
+          "seats": 69,
+          "change": 37,
+          "winner": true
+        },
+        {
+          "name": "Alliance of Democratic Forces of Congo",
+          "party": "afdc",
+          "votes": 890753,
+          "pct": 4.96,
+          "seats": 35,
+          "change": -6
+        },
+        {
+          "name": "Allied Actions–Union for the Congolese Nation",
+          "party": "unc",
+          "votes": 903928,
+          "pct": 5.03,
+          "seats": 34,
+          "change": 18
+        },
+        {
+          "name": "Agissons and Buildings",
+          "party": "ab2",
+          "votes": 752559,
+          "pct": 4.19,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Allied Actions–All for the Development of Congo",
+          "party": "aaadc",
+          "votes": 692491,
+          "pct": 3.85,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Alliance of actors attached to the people",
+          "party": "aaap",
+          "votes": 649226,
+          "pct": 3.61,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "Alliance bloc 50",
+          "party": "ab50",
+          "votes": 546079,
+          "pct": 3.04,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Movement for the Liberation of the Congo",
+          "party": "mlc",
+          "votes": 471375,
+          "pct": 2.62,
+          "seats": 19,
+          "change": -3
+        },
+        {
+          "name": "Together for the Republic",
+          "party": "ensemble",
+          "votes": 497009,
+          "pct": 2.76,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Advent of a Prosperous and Greater Congo",
+          "party": "aapgc",
+          "votes": 532066,
+          "pct": 2.96,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Alternative Action of Actors for the Love of Congo",
+          "party": "aaalc",
+          "votes": 392140,
+          "pct": 2.18,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Alliance 2024",
+          "party": "a2024",
+          "votes": 443859,
+          "pct": 2.47,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "It's up to us to build the Congo",
+          "party": "uubc",
+          "votes": 379135,
+          "pct": 2.11,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Congo Allied Action for the Convention",
+          "party": "caac2",
+          "votes": 390161,
+          "pct": 2.17,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Coalition of Democrats",
+          "party": "cd2",
+          "votes": 431028,
+          "pct": 2.4,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Actions of the Allies of the Convention for the Republic and Democracy",
+          "party": "aacrd",
+          "votes": 320370,
+          "pct": 1.78,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Alliance of Progressive Congolese and Allies",
+          "party": "apca",
+          "votes": 260392,
+          "pct": 1.45,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Alliance for Democratic Alternation and Allies",
+          "party": "adaa",
+          "votes": 336813,
+          "pct": 1.87,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Action for National Unity",
+          "party": "anu",
+          "votes": 239969,
+          "pct": 1.33,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Actions of Convention Allies–Unified Lumumbist Party",
+          "party": "palu",
+          "votes": 215877,
+          "pct": 1.2,
+          "seats": 8,
+          "change": -9
+        },
+        {
+          "name": "Audible Actions for Good Governance",
+          "party": "aagg",
+          "votes": 191056,
+          "pct": 1.06,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Alliance for Values",
+          "party": "av",
+          "votes": 330813,
+          "pct": 1.84,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Triple and Allies",
+          "party": "ata",
+          "votes": 305728,
+          "pct": 1.7,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Allied Action for the Rise of the Congo",
+          "party": "aarc",
+          "votes": 284205,
+          "pct": 1.58,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Alliance of Nationalists",
+          "party": "an",
+          "votes": 277460,
+          "pct": 1.54,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Solidarity Movement for Change",
+          "party": "asmc",
+          "votes": 291226,
+          "pct": 1.62,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Alliances of Unified and Allied Tshisekedists",
+          "party": "auat",
+          "votes": 287996,
+          "pct": 1.6,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Avançons–MS",
+          "party": "avancons",
+          "votes": 202750,
+          "pct": 1.13,
+          "seats": 5,
+          "change": 4
+        },
+        {
+          "name": "Another Vision of Congo and Allies",
+          "party": "avca",
+          "votes": 187358,
+          "pct": 1.04,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Alliance and Action for the Rule of Law",
+          "party": "aarl",
+          "votes": 258255,
+          "pct": 1.44,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Political and Social Forces Allied to the UDPS",
+          "party": "psfau",
+          "votes": 206721,
+          "pct": 1.15,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Christian Alternative for Congo",
+          "party": "cac",
+          "votes": 190606,
+          "pct": 1.06,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Alliance 2025",
+          "party": "a2025",
+          "votes": 232648,
+          "pct": 1.29,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Alternative Vital Kamerhe 2018",
+          "party": "avk2018",
+          "votes": 200899,
+          "pct": 1.12,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "New Momentum",
+          "party": "nelan",
+          "votes": 179870,
+          "pct": 1,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Dynamique Progressive Revolutionnaire",
+          "party": "dpr",
+          "votes": 179834,
+          "pct": 1,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "UDPS/KIBASSA–A",
+          "party": "udpsk",
+          "votes": 180054,
+          "pct": 1,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Alliance of Political Parties Allied to the Movement for the Liberation of the Congo",
+          "party": "appamlc",
+          "votes": 179929,
+          "pct": 1,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Reform of the Republic",
+          "party": "arr",
+          "votes": 179877,
+          "pct": 1,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Action for the Federative Cause",
+          "party": "afc",
+          "votes": 179847,
+          "pct": 1,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Alliance for the Growth and Democracy of Congo",
+          "party": "agdc",
+          "votes": 221869,
+          "pct": 1.23,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Alliance for Development Actions in Congo",
+          "party": "adac",
+          "votes": 191053,
+          "pct": 1.06,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Leadership and Governance for Development",
+          "party": "lgd",
+          "votes": 75944,
+          "pct": 0.42,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Alliance of Elites in the Service of the People and Allies",
+          "party": "aespa",
+          "votes": 179953,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Allied Action for the Love of the Republic/Convention for the Republic",
+          "party": "aalrcr",
+          "votes": 179851,
+          "pct": 1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1591470,
+          "pct": 8.85,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Vacant",
+          "party": "vac",
+          "seats": 23
+        }
+      ],
+      "regions": [
+        {"name":"Bandundu","abbr":"BN","winner":"udps","margin":6.6,"turnout":45.7,"votes":1624931,"results":[{"party":"udps","pct":29.9,"votes":485854},{"party":"afdc","pct":23.3,"votes":378609},{"party":"oth","pct":17.7,"votes":287613},{"party":"unc","pct":16.1,"votes":261614},{"party":"ab2","pct":13.1,"votes":212866}]},
+        {"name":"Équateur","abbr":"EQ","winner":"oth","margin":3.1,"turnout":38.5,"votes":1915379,"results":[{"party":"oth","pct":34.7,"votes":664637},{"party":"udps","pct":31.6,"votes":605260},{"party":"afdc","pct":16,"votes":306461},{"party":"unc","pct":10,"votes":191538},{"party":"ab2","pct":7.7,"votes":147484}]},
+        {"name":"Kasaï-Occidental","abbr":"KW","winner":"udps","margin":9.2,"turnout":46.3,"votes":1942838,"results":[{"party":"udps","pct":30.6,"votes":594508},{"party":"oth","pct":21.4,"votes":415767},{"party":"afdc","pct":17.6,"votes":341939},{"party":"unc","pct":15.3,"votes":297254},{"party":"ab2","pct":15,"votes":291426}]},
+        {"name":"Kasaï-Oriental","abbr":"KE","winner":"udps","margin":18.9,"turnout":41.3,"votes":1948403,"results":[{"party":"udps","pct":43.8,"votes":853401},{"party":"oth","pct":24.9,"votes":485152},{"party":"afdc","pct":10.7,"votes":208479},{"party":"unc","pct":10.3,"votes":200686},{"party":"ab2","pct":10.3,"votes":200686}]},
+        {"name":"Katanga","abbr":"KA","winner":"udps","margin":2.9,"turnout":50.8,"votes":1665461,"results":[{"party":"udps","pct":28.4,"votes":472991},{"party":"oth","pct":25.5,"votes":424693},{"party":"afdc","pct":19.5,"votes":324765},{"party":"unc","pct":15.1,"votes":251485},{"party":"ab2","pct":11.6,"votes":193193}]},
+        {"name":"Kinshasa","abbr":"KN","winner":"oth","margin":16.1,"turnout":38.8,"votes":1616375,"results":[{"party":"oth","pct":38.4,"votes":620688},{"party":"unc","pct":22.3,"votes":360452},{"party":"udps","pct":15.3,"votes":247305},{"party":"ab2","pct":13,"votes":210129},{"party":"afdc","pct":11.1,"votes":179418}]},
+        {"name":"Kongo Central","abbr":"BC","winner":"udps","margin":5.1,"turnout":47.1,"votes":1769122,"results":[{"party":"udps","pct":34.6,"votes":612116},{"party":"oth","pct":29.5,"votes":521891},{"party":"afdc","pct":14.6,"votes":258292},{"party":"unc","pct":14.4,"votes":254754},{"party":"ab2","pct":6.9,"votes":122069}]},
+        {"name":"Maniema","abbr":"MA","winner":"udps","margin":19.9,"turnout":42.8,"votes":1501809,"results":[{"party":"udps","pct":44.9,"votes":674312},{"party":"oth","pct":25,"votes":375452},{"party":"ab2","pct":13.1,"votes":196737},{"party":"afdc","pct":8.5,"votes":127654},{"party":"unc","pct":8.4,"votes":126152}]},
+        {"name":"North Kivu","abbr":"NK","winner":"oth","margin":3,"turnout":42.9,"votes":1402764,"results":[{"party":"oth","pct":29,"votes":406802},{"party":"udps","pct":26,"votes":364719},{"party":"afdc","pct":18.4,"votes":258109},{"party":"ab2","pct":14.6,"votes":204804},{"party":"unc","pct":11.9,"votes":166929}]},
+        {"name":"Orientale","abbr":"OR","winner":"oth","margin":9.6,"turnout":44.4,"votes":1602724,"results":[{"party":"oth","pct":33.6,"votes":538515},{"party":"udps","pct":24,"votes":384654},{"party":"unc","pct":23.3,"votes":373435},{"party":"ab2","pct":10.2,"votes":163478},{"party":"afdc","pct":8.9,"votes":142642}]},
+        {"name":"South Kivu","abbr":"SK","winner":"oth","margin":10.4,"turnout":40.4,"votes":1638454,"results":[{"party":"oth","pct":37.3,"votes":611143},{"party":"udps","pct":26.9,"votes":440744},{"party":"ab2","pct":18.3,"votes":299837},{"party":"unc","pct":9.9,"votes":162207},{"party":"afdc","pct":7.7,"votes":126161}]}
+      ]
+    }
+  ]
+}

@@ -959,5 +959,52 @@
     "pollsClose": "17:00",
     "basedOn": "my-dewan-rakyat-2022",
     "tentative": true
+  },
+  {
+    "country": "NG",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2027-01-16",
+    "timezone": "Africa/Lagos",
+    "pollsClose": "14:30",
+    "basedOn": "ng-president-2023"
+  },
+  {
+    "country": "NG",
+    "office": "Senate",
+    "kind": "legislative",
+    "date": "2027-01-16",
+    "timezone": "Africa/Lagos",
+    "pollsClose": "14:30",
+    "basedOn": "ng-senate-2023"
+  },
+  {
+    "country": "NG",
+    "office": "House of Representatives",
+    "kind": "legislative",
+    "date": "2027-01-16",
+    "timezone": "Africa/Lagos",
+    "pollsClose": "14:30",
+    "basedOn": "ng-house-of-representatives-2023"
+  },
+  {
+    "country": "CD",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2028-12-20",
+    "timezone": "Africa/Kinshasa",
+    "pollsClose": "17:00",
+    "basedOn": "cd-president-2023",
+    "tentative": true
+  },
+  {
+    "country": "CD",
+    "office": "National Assembly",
+    "kind": "legislative",
+    "date": "2028-12-20",
+    "timezone": "Africa/Kinshasa",
+    "pollsClose": "17:00",
+    "basedOn": "cd-national-assembly-2023",
+    "tentative": true
   }
 ]

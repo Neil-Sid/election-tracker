@@ -1,12 +1,13 @@
 # Election Tracker
 
-A draggable globe of national elections in 43 countries: the US, Canada, Mexico,
+A draggable globe of national elections in 50 countries: the US, Canada, Mexico,
 Brazil, Argentina, Chile, Colombia, Peru and Bolivia; the UK, Ireland, France, Spain,
 Portugal, Italy, Germany, Austria, Switzerland, the Netherlands, Belgium, Denmark,
 Norway, Sweden, Finland, Poland, Czechia, Slovakia, Hungary, Romania, Greece, Ukraine
-and Russia; Türkiye, Iran, Iraq, India, Indonesia, the Philippines, South Korea and
-Japan; and South Africa, Australia and New Zealand. Pick a country and the globe flies
-in and colours it by who won, shaded by margin: by state, province or region, and for
+and Russia; Türkiye, Iran, Iraq, India, Thailand, Malaysia, Indonesia, the
+Philippines, South Korea and Japan; Morocco, Nigeria, DR Congo, Kenya, Botswana and
+South Africa; and Australia and New Zealand. Pick a country and the globe flies in and
+colours it by who won, shaded by margin: by state, province or region, and for
 chambers elected in single-member seats, by official district (US congressional
 districts, UK and French constituencies, Canadian ridings, Australian divisions,
 German Wahlkreise, Indian Lok Sabha seats and Japanese districts). The side panel
@@ -208,7 +209,7 @@ geographically.
 
 ## Past elections
 
-Every country has every national election since 1948 for each office it shows, 1,441 in
+Every country has every national election since 1948 for each office it shows, 1,573 in
 all. On a country page, pick a year on the rail under the office tabs (each year is marked
 in the winner's colour), or a row under Past results. A past election opens like the
 current one, with its seat chart, full results and the globe painted by region, at its

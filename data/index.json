@@ -1040,6 +1040,48 @@
         "states"
       ],
       "history": true
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "atlasId": "566",
+      "marker": [
+        8.1,
+        9.6
+      ],
+      "view": {
+        "center": [
+          8.3,
+          9.1
+        ],
+        "span": 8
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "history": true
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "atlasId": "180",
+      "marker": [
+        23.6,
+        -2.9
+      ],
+      "view": {
+        "center": [
+          23.6,
+          -3
+        ],
+        "span": 12.5
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
     }
   ]
 }

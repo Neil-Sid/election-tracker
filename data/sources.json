@@ -435,6 +435,22 @@
       "url": "https://www.spr.gov.my",
       "role": "Official results",
       "note": "Suruhanjaya Pilihan Raya conducts federal and state elections and reviews constituency boundaries."
+    },
+    "NG": {
+      "access": "public",
+      "name": "Independent National Electoral Commission",
+      "short": "INEC",
+      "url": "https://inecnigeria.org",
+      "role": "Official results",
+      "note": "Conducts the elections and declares the official results."
+    },
+    "CD": {
+      "access": "public",
+      "name": "Independent National Electoral Commission",
+      "short": "CENI",
+      "url": "https://www.ceni.cd",
+      "role": "Official results",
+      "note": "Counts the votes and publishes the provisional results; the Constitutional Court rules on disputes and confirms the final results."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."
