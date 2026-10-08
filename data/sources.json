@@ -284,6 +284,22 @@
       "url": "https://www.oep.org.bo",
       "role": "Official results",
       "note": "Its Supreme Electoral Tribunal (TSE) publishes the official count (cómputo)."
+    },
+    "CO": {
+      "access": "public",
+      "name": "National Civil Registry (Registraduría Nacional del Estado Civil)",
+      "short": "Registraduría",
+      "url": "https://www.registraduria.gov.co",
+      "role": "Official results",
+      "note": "Counts the votes and publishes the preliminary count on election night; the National Electoral Council (CNE) oversees elections and declares the final results."
+    },
+    "PE": {
+      "access": "public",
+      "name": "National Office of Electoral Processes (ONPE)",
+      "short": "ONPE",
+      "url": "https://www.onpe.gob.pe",
+      "role": "Official results",
+      "note": "Organises the vote and publishes the count; the National Jury of Elections (JNE) oversees the process and proclaims the results."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

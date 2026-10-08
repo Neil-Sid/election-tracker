@@ -641,6 +641,48 @@
         "departments"
       ],
       "history": true
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "atlasId": "170",
+      "marker": [
+        -73.5,
+        4.5
+      ],
+      "view": {
+        "center": [
+          -73.5,
+          4.2
+        ],
+        "span": 8.5
+      },
+      "regionTerm": [
+        "department",
+        "departments"
+      ],
+      "history": true
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "atlasId": "604",
+      "marker": [
+        -75.5,
+        -9.5
+      ],
+      "view": {
+        "center": [
+          -75,
+          -9.3
+        ],
+        "span": 9.5
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
     }
   ]
 }

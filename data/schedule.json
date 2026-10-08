@@ -671,5 +671,71 @@
     "pollsClose": "16:00",
     "basedOn": "bo-senate-2025",
     "tentative": true
+  },
+  {
+    "country": "CO",
+    "office": "Senate",
+    "kind": "legislative",
+    "date": "2030-03-10",
+    "note": "Due in March 2030",
+    "timezone": "America/Bogota",
+    "pollsClose": "16:00",
+    "basedOn": "co-senate-2026",
+    "tentative": true
+  },
+  {
+    "country": "CO",
+    "office": "Chamber of Representatives",
+    "kind": "legislative",
+    "date": "2030-03-10",
+    "note": "Due in March 2030",
+    "timezone": "America/Bogota",
+    "pollsClose": "16:00",
+    "basedOn": "co-chamber-of-representatives-2026",
+    "tentative": true
+  },
+  {
+    "country": "CO",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2030-05-26",
+    "note": "First round due in May 2030",
+    "timezone": "America/Bogota",
+    "pollsClose": "16:00",
+    "basedOn": "co-president-2026",
+    "tentative": true
+  },
+  {
+    "country": "PE",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2031-04-13",
+    "note": "First round due in April 2031",
+    "timezone": "America/Lima",
+    "pollsClose": "17:00",
+    "basedOn": "pe-president-2026",
+    "tentative": true
+  },
+  {
+    "country": "PE",
+    "office": "Senate",
+    "kind": "legislative",
+    "date": "2031-04-13",
+    "note": "Due in April 2031",
+    "timezone": "America/Lima",
+    "pollsClose": "17:00",
+    "basedOn": "pe-senate-2026",
+    "tentative": true
+  },
+  {
+    "country": "PE",
+    "office": "Chamber of Deputies",
+    "kind": "legislative",
+    "date": "2031-04-13",
+    "note": "Due in April 2031",
+    "timezone": "America/Lima",
+    "pollsClose": "17:00",
+    "basedOn": "pe-chamber-of-deputies-2026",
+    "tentative": true
   }
 ]

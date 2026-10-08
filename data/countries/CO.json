@@ -1,0 +1,1420 @@
+{
+  "code": "CO",
+  "name": "Colombia",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "Congress: Senate (103) and Chamber of Representatives (183)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 41421973,
+    "offices": {
+      "President": "Elected with the vice president on a joint ticket for a single four-year term, by a two-round system: if no candidate wins a majority in the first round, the top two meet in a run-off. The president is head of state and of government.",
+      "Senate": "103 senators are elected for four years: 100 by proportional representation in a single nationwide constituency, 2 in a constituency for Indigenous communities, and 1 seat goes to the runner-up in the presidential election. It makes laws together with the Chamber of Representatives.",
+      "Chamber of Representatives": "183 members are elected for four years: 161 by proportional representation in the 32 departments and Bogotá, plus seats for Afro-Colombian, Indigenous, Raizal and overseas voters, 16 transitional peace seats for victims of the conflict and 1 for the vice-presidential runner-up. It makes laws together with the Senate."
+    }
+  },
+  "parties": {
+    "adm19": {
+      "name": "Democratic Alliance M-19",
+      "color": "#B381E4"
+    },
+    "afrouni": {
+      "name": "AFROUNINCCA",
+      "color": "#9B7653"
+    },
+    "afrovides": {
+      "name": "AFROVIDES",
+      "color": "#555555"
+    },
+    "ahora": {
+      "name": "Colombia Now (Ahora Colombia)",
+      "color": "#C5337F"
+    },
+    "aico": {
+      "name": "Indigenous Authorities of Colombia",
+      "color": "#81E4B3"
+    },
+    "alsafro": {
+      "name": "Afro-Colombian Social Alliance",
+      "color": "#7B3F00"
+    },
+    "anapo": {
+      "name": "National Popular Alliance",
+      "color": "#BC8F8F"
+    },
+    "apc": {
+      "name": "Alliance for Colombia",
+      "color": "#057D4A"
+    },
+    "asa": {
+      "name": "Alternative for Social Advance",
+      "color": "#E4CB81"
+    },
+    "asi": {
+      "name": "Independent Social Alliance",
+      "color": "#1FA12E"
+    },
+    "avem": {
+      "name": "Green Alliance–En Marcha",
+      "color": "#684C29"
+    },
+    "avia": {
+      "name": "Alternative Way",
+      "color": "#28BD28"
+    },
+    "avnar": {
+      "name": "Avancemos Nariño (Green Alliance–AICO)",
+      "color": "#2B8134"
+    },
+    "avpda": {
+      "name": "Green Alliance–Polo coalition",
+      "color": "#A3C940"
+    },
+    "blank": {
+      "name": "Blank votes",
+      "color": "#7F7F7F"
+    },
+    "c100": {
+      "name": "100% for Colombia",
+      "color": "#3A7CA5"
+    },
+    "c4": {
+      "name": "Civic and Christian Commitment for the Community (C4)",
+      "color": "#815931"
+    },
+    "caldas": {
+      "name": "Together for Caldas",
+      "color": "#5E8C6A"
+    },
+    "caqueta": {
+      "name": "Coalición Caquetá (New Liberalism–ASI–Green Alliance)",
+      "color": "#9957DB"
+    },
+    "cas": {
+      "name": "Alternative Santandereana Coalition",
+      "color": "#1FA12E"
+    },
+    "ccc": {
+      "name": "Colombian Community and Communal Political Movement",
+      "color": "#F5EC49"
+    },
+    "ccen": {
+      "name": "El Naranjo Community Council",
+      "color": "#8D6E63"
+    },
+    "ccmamuncia": {
+      "name": "La Mamuncia Community Council",
+      "color": "#1F5993"
+    },
+    "ccomp": {
+      "name": "Citizens' Compromise",
+      "color": "#A0BE00"
+    },
+    "ccp": {
+      "name": "Civic People's Convergence",
+      "color": "#C490D5"
+    },
+    "ccplaya": {
+      "name": "Playa Renaciente Black Communities Council",
+      "color": "#57DBBA"
+    },
+    "cd": {
+      "name": "Democratic Centre",
+      "color": "#1E90FF"
+    },
+    "cdap": {
+      "name": "Broad Democratic Coalition for Peace",
+      "color": "#DB9957"
+    },
+    "cdcon": {
+      "name": "Democratic Centre–Conservative",
+      "color": "#818131"
+    },
+    "cdmira": {
+      "name": "Democratic Centre–MIRA",
+      "color": "#3482C2"
+    },
+    "cdu": {
+      "name": "Democratic Centre–Party of the U",
+      "color": "#A9A37D"
+    },
+    "ce": {
+      "name": "Hope Center Coalition",
+      "color": "#73BE01"
+    },
+    "chumb": {
+      "name": "Conservador Humbertista",
+      "color": "#5F7FBF"
+    },
+    "ci": {
+      "name": "Independent Conservatism",
+      "color": "#E4CB81"
+    },
+    "cjl": {
+      "name": "Colombia Justa Libres",
+      "color": "#C29B61"
+    },
+    "cmp": {
+      "name": "Colombia My Country",
+      "color": "#593181"
+    },
+    "coalicion": {
+      "name": "Coalition",
+      "color": "#8A9A5B"
+    },
+    "colhum": {
+      "name": "Humane Colombia",
+      "color": "#CC00CC"
+    },
+    "comunes": {
+      "name": "Commons (FARC)",
+      "color": "#B22234"
+    },
+    "con": {
+      "name": "Colombian Conservative Party",
+      "color": "#1935D0"
+    },
+    "concd": {
+      "name": "Conservative–Democratic Centre",
+      "color": "#28BD98"
+    },
+    "conmsn": {
+      "name": "Conservative–National Salvation Movement",
+      "color": "#813145"
+    },
+    "conu": {
+      "name": "Conservative–Party of the U",
+      "color": "#8A6FB0"
+    },
+    "conv": {
+      "name": "Citizens' Convergence",
+      "color": "#00A86B"
+    },
+    "cpb": {
+      "name": "Citizens' Political Movement for Boyacá",
+      "color": "#9C7C38"
+    },
+    "cr": {
+      "name": "Radical Change",
+      "color": "#FB656F"
+    },
+    "crcjlliga": {
+      "name": "Radical Change–CJL–LIGA",
+      "color": "#E96316"
+    },
+    "crcjlmira": {
+      "name": "Radical Change–CJL–MIRA",
+      "color": "#C07070"
+    },
+    "creemos": {
+      "name": "Creemos Colombia",
+      "color": "#E40078"
+    },
+    "crlau": {
+      "name": "Radical Change–U–Salvation–Oxygen coalition",
+      "color": "#313181"
+    },
+    "crmira": {
+      "name": "Radical Change–MIRA",
+      "color": "#9C4F8F"
+    },
+    "csiempre": {
+      "name": "Colombia Always",
+      "color": "#B3E481"
+    },
+    "cu": {
+      "name": "Colombia Unite",
+      "color": "#57DB78"
+    },
+    "cviva": {
+      "name": "Living Colombia Movement",
+      "color": "#8B0000"
+    },
+    "decencia": {
+      "name": "List of Decency",
+      "color": "#9F3A86"
+    },
+    "defensores": {
+      "name": "Defenders of the Homeland",
+      "color": "#00008B"
+    },
+    "dprog": {
+      "name": "Democratic Progressivity",
+      "color": "#81316D"
+    },
+    "dyc": {
+      "name": "Dignity and Commitment",
+      "color": "#442F7E"
+    },
+    "ecs": {
+      "name": "Education and Social Change",
+      "color": "#BADB57"
+    },
+    "eqc": {
+      "name": "Team Colombia",
+      "color": "#DB57BA"
+    },
+    "fau": {
+      "name": "Broad Unitary Front",
+      "color": "#FF6202"
+    },
+    "fcauca": {
+      "name": "Fuerza Cauca (Colombia Renaciente–MIRA–Green Alliance)",
+      "color": "#568250"
+    },
+    "fciv": {
+      "name": "Civic Force",
+      "color": "#FF6708"
+    },
+    "fcol": {
+      "name": "Force Colombia",
+      "color": "#556B9F"
+    },
+    "fd": {
+      "name": "Democratic Front",
+      "color": "#A0522D"
+    },
+    "fesp": {
+      "name": "Front of Hope",
+      "color": "#316D81"
+    },
+    "fpop": {
+      "name": "People's Front",
+      "color": "#C0392B"
+    },
+    "fprog": {
+      "name": "Progressive Force",
+      "color": "#CD853F"
+    },
+    "frh": {
+      "name": "Fernando Ríos Hidalgo list",
+      "color": "#A67B5B"
+    },
+    "fsp": {
+      "name": "Social and Political Front",
+      "color": "#98BD28"
+    },
+    "funeco": {
+      "name": "FUNECO",
+      "color": "#A0785A"
+    },
+    "fup": {
+      "name": "People's Unity Front",
+      "color": "#28BD28"
+    },
+    "gac": {
+      "name": "Great Alliance for Change",
+      "color": "#1935D0"
+    },
+    "gmov": {
+      "name": "Gente en Movimiento",
+      "color": "#A68D3F"
+    },
+    "hc": {
+      "name": "Citizens' Footprint Movement",
+      "color": "#E4819A"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#2E3191"
+    },
+    "indcom": {
+      "name": "Indigenous Community",
+      "color": "#556B2F"
+    },
+    "lafuerza": {
+      "name": "La Fuerza",
+      "color": "#B5191B"
+    },
+    "laicos": {
+      "name": "Laicists for Colombia",
+      "color": "#931F59"
+    },
+    "lib": {
+      "name": "Colombian Liberal Party",
+      "color": "#FF3333"
+    },
+    "libcjl": {
+      "name": "Liberal–Colombia Justa Libres",
+      "color": "#D96A4A"
+    },
+    "libcr": {
+      "name": "Liberal–Colombia Renaciente coalition",
+      "color": "#57DBBA"
+    },
+    "liga": {
+      "name": "League of Anti-Corruption Governors",
+      "color": "#F5EC49"
+    },
+    "luni": {
+      "name": "Liberal Unity",
+      "color": "#DB57BA"
+    },
+    "m98": {
+      "name": "Movement '98",
+      "color": "#BD28BD"
+    },
+    "mad": {
+      "name": "Democratic Alternative Movement",
+      "color": "#931F59"
+    },
+    "mais": {
+      "name": "Indigenous and Social Alternative Movement",
+      "color": "#814531"
+    },
+    "mal": {
+      "name": "Liberal Opening Movement",
+      "color": "#93761F"
+    },
+    "mbnc": {
+      "name": "Bolivarian Movement for the New Colombia",
+      "color": "#A52A2A"
+    },
+    "mci": {
+      "name": "Independent Civic Movement",
+      "color": "#57DB78"
+    },
+    "mciud": {
+      "name": "Citizens' Movement",
+      "color": "#FF8C69"
+    },
+    "mcivico": {
+      "name": "Civic Movement",
+      "color": "#2E8B57"
+    },
+    "mdcivica": {
+      "name": "Civic Defence Movement",
+      "color": "#8FBC8F"
+    },
+    "mhumb": {
+      "name": "Humbertista Movement",
+      "color": "#7B68EE"
+    },
+    "milt": {
+      "name": "Revolutionary Independent Labour Movement",
+      "color": "#990000"
+    },
+    "mip": {
+      "name": "People's Integration Movement",
+      "color": "#813131"
+    },
+    "mir": {
+      "name": "Regional Integration Movement",
+      "color": "#ADEEF7"
+    },
+    "mira": {
+      "name": "MIRA",
+      "color": "#0033A0"
+    },
+    "miracjl": {
+      "name": "MIRA–Colombia Justa Libres",
+      "color": "#4B6CB7"
+    },
+    "mjm": {
+      "name": "Let the Moreno Play Movement",
+      "color": "#81CBE4"
+    },
+    "mn": {
+      "name": "National Movement",
+      "color": "#3B5998"
+    },
+    "mnc": {
+      "name": "Conservative National Movement",
+      "color": "#4169E1"
+    },
+    "mnp": {
+      "name": "Progressive National Movement",
+      "color": "#20B2AA"
+    },
+    "mpp": {
+      "name": "People's Participation Movement",
+      "color": "#599874"
+    },
+    "mpss": {
+      "name": "Political Movement for Social Security",
+      "color": "#5F9EA0"
+    },
+    "mpu": {
+      "name": "United People's Movement",
+      "color": "#483674"
+    },
+    "mrcons": {
+      "name": "Conservative Reintegration Movement",
+      "color": "#87A9D8"
+    },
+    "mrd": {
+      "name": "Democratic Renovation Movement",
+      "color": "#931F59"
+    },
+    "mrep": {
+      "name": "Republican Movement",
+      "color": "#002FA7"
+    },
+    "mril": {
+      "name": "Independent Liberal Restoration Movement",
+      "color": "#E9967A"
+    },
+    "mrn": {
+      "name": "National Renovation Movement",
+      "color": "#4F6D7A"
+    },
+    "mrtl": {
+      "name": "Renovation Movement Labour Action",
+      "color": "#B03060"
+    },
+    "msn": {
+      "name": "National Salvation Movement",
+      "color": "#05AFF2"
+    },
+    "muc": {
+      "name": "Christian Union Movement",
+      "color": "#6CA860"
+    },
+    "mum": {
+      "name": "Metapolitical Unitary Movement",
+      "color": "#FC0FC0"
+    },
+    "mumc": {
+      "name": "Unity in Minga Movement for Colombia",
+      "color": "#A6593F"
+    },
+    "mumet": {
+      "name": "Metropolitan Unitary Movement",
+      "color": "#D87FC0"
+    },
+    "munion": {
+      "name": "Unionist Movement",
+      "color": "#6495ED"
+    },
+    "mupc": {
+      "name": "United Movement for Colombia",
+      "color": "#DAA520"
+    },
+    "murc": {
+      "name": "Unique Movement of Conservative Renovation",
+      "color": "#2F4F8F"
+    },
+    "mvp": {
+      "name": "People's Will Movement",
+      "color": "#9828BD"
+    },
+    "ncm": {
+      "name": "New Colombia Movement",
+      "color": "#BA55D3"
+    },
+    "nfd": {
+      "name": "New Democratic Force",
+      "color": "#5B7DB1"
+    },
+    "nhl": {
+      "name": "New Huila and Liberalism",
+      "color": "#F08080"
+    },
+    "nl": {
+      "name": "New Liberalism",
+      "color": "#C91226"
+    },
+    "onic": {
+      "name": "National Indigenous Organization of Colombia",
+      "color": "#6B8E23"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "oxi": {
+      "name": "Oxygen Party",
+      "color": "#7FFF00"
+    },
+    "palenque": {
+      "name": "Palenque Community Council of Las Trecientas (Galapa)",
+      "color": "#2898BD"
+    },
+    "pas": {
+      "name": "Social Action Party",
+      "color": "#E4E481"
+    },
+    "pcc": {
+      "name": "Colombian Communist Party",
+      "color": "#8B0000"
+    },
+    "pcd": {
+      "name": "Democratic Colombia Party",
+      "color": "#008080"
+    },
+    "pcfirst": {
+      "name": "Colombia First",
+      "color": "#800080"
+    },
+    "pcom": {
+      "name": "Community Participation",
+      "color": "#A67B5B"
+    },
+    "pcr": {
+      "name": "Colombia Renaissance Party",
+      "color": "#FFC000"
+    },
+    "pda": {
+      "name": "Alternative Democratic Pole",
+      "color": "#FEF71F"
+    },
+    "pdc": {
+      "name": "Colombian Democratic Party",
+      "color": "#104786"
+    },
+    "pdi": {
+      "name": "Independent Democratic Pole",
+      "color": "#FFC90E"
+    },
+    "ph": {
+      "name": "Historic Pact",
+      "color": "#A42F95"
+    },
+    "phav": {
+      "name": "Historic Pact–Green Alliance",
+      "color": "#4B5A61"
+    },
+    "phc": {
+      "name": "Historic Pact for Colombia",
+      "color": "#A42F95"
+    },
+    "phmais": {
+      "name": "Pacto Histórico – Frente Amplio (Historic Pact–MAIS)",
+      "color": "#C490D5"
+    },
+    "phris": {
+      "name": "Pacto por Risaralda (Historic Pact–MAIS–Democratic Hope)",
+      "color": "#B3D590"
+    },
+    "pin": {
+      "name": "Citizen Option",
+      "color": "#FED403"
+    },
+    "pmh": {
+      "name": "For a Better Huila",
+      "color": "#FF0000"
+    },
+    "pnc": {
+      "name": "Christian National Party",
+      "color": "#733FA6"
+    },
+    "pnsd": {
+      "name": "For the Country of Our Dreams",
+      "color": "#FFB347"
+    },
+    "pocentro": {
+      "name": "Centre Option Party",
+      "color": "#77DD77"
+    },
+    "ppcol": {
+      "name": "Colombian People's Party",
+      "color": "#6BB0C7"
+    },
+    "primerocor": {
+      "name": "Pr1mero Córdoba (Colombia Renaciente–MIRA)",
+      "color": "#DBDB57"
+    },
+    "psdc": {
+      "name": "Colombian Social Democratic Party",
+      "color": "#E75480"
+    },
+    "ptc": {
+      "name": "Putumayo También es Colombia",
+      "color": "#FDDA14"
+    },
+    "pud": {
+      "name": "Democratic Unity Party",
+      "color": "#CD5C5C"
+    },
+    "rdn": {
+      "name": "National Democratic Reconstruction",
+      "color": "#598131"
+    },
+    "revive": {
+      "name": "Revive Caquetá 20 (Radical Change–MIRA)",
+      "color": "#E4819A"
+    },
+    "scmc": {
+      "name": "Serious Civic Movement for Colombia",
+      "color": "#BC8F8F"
+    },
+    "sic": {
+      "name": "Yes Colombia",
+      "color": "#F6E808"
+    },
+    "somos": {
+      "name": "Somos Región Colombia",
+      "color": "#E9763A"
+    },
+    "transf": {
+      "name": "Transformation",
+      "color": "#816D31"
+    },
+    "u": {
+      "name": "Party of the U",
+      "color": "#FF8C00"
+    },
+    "ucjl": {
+      "name": "Party of the U–Colombia Justa Libres",
+      "color": "#E0A040"
+    },
+    "ucr": {
+      "name": "Party of the U–Radical Change",
+      "color": "#1F9393"
+    },
+    "unio": {
+      "name": "National Opposition Union",
+      "color": "#B22222"
+    },
+    "up": {
+      "name": "Patriotic Union",
+      "color": "#DBD100"
+    },
+    "uvn": {
+      "name": "North Valle del Cauca Unity",
+      "color": "#9ACD32"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "vamos": {
+      "name": "Let's Go Colombia",
+      "color": "#FF6347"
+    },
+    "verde": {
+      "name": "Green Alliance",
+      "color": "#07D400"
+    },
+    "vozama": {
+      "name": "La Voz del Amazonas (MAIS–Colombia Renaciente)",
+      "color": "#81E481"
+    },
+    "nis": {
+      "name": "Not in source",
+      "color": "#C7C7CC"
+    }
+  },
+  "elections": [
+    {
+      "id": "co-president-2026",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2026-05-31",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 63.6,
+      "system": "Two-round popular vote, four-year term",
+      "cite": {
+        "name": "the National Civil Registry (Registraduría Nacional del Estado Civil)",
+        "url": "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election",
+      "candidates": [
+        {
+          "name": "Abelardo de la Espriella",
+          "party": "defensores",
+          "votes": 12960166,
+          "pct": 49.66,
+          "winner": true
+        },
+        {
+          "name": "Iván Cepeda",
+          "party": "ph",
+          "votes": 12708312,
+          "pct": 48.7
+        },
+        {
+          "name": "Blank votes",
+          "party": "blank",
+          "votes": 426848,
+          "pct": 1.64
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2026-05-31",
+          "candidates": [
+            {
+              "name": "Abelardo de la Espriella",
+              "party": "defensores",
+              "votes": 10361499,
+              "pct": 43.75
+            },
+            {
+              "name": "Iván Cepeda",
+              "party": "ph",
+              "votes": 9688361,
+              "pct": 40.9
+            },
+            {
+              "name": "Paloma Valencia",
+              "party": "cd",
+              "votes": 1639685,
+              "pct": 6.92
+            },
+            {
+              "name": "Sergio Fajardo",
+              "party": "dyc",
+              "votes": 1009073,
+              "pct": 4.26
+            },
+            {
+              "name": "Blank votes",
+              "party": "blank",
+              "votes": 406970,
+              "pct": 1.72
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 579741,
+              "pct": 2.45
+            }
+          ],
+          "regions": [
+            {"name":"Amazonas","abbr":"AMA","winner":"defensores","margin":8.3,"turnout":67.8,"votes":682933,"results":[{"party":"defensores","pct":44.6,"votes":304588},{"party":"ph","pct":36.3,"votes":247905},{"party":"cd","pct":11.3,"votes":77171},{"party":"dyc","pct":4.8,"votes":32781},{"party":"oth","pct":2.9,"votes":19805}]},
+            {"name":"Antioquia","abbr":"ANT","winner":"ph","margin":4,"turnout":70.4,"votes":838881,"results":[{"party":"ph","pct":46.7,"votes":391757},{"party":"defensores","pct":42.7,"votes":358202},{"party":"cd","pct":6.6,"votes":55366},{"party":"oth","pct":2.2,"votes":18455},{"party":"dyc","pct":1.8,"votes":15100}]},
+            {"name":"Arauca","abbr":"ARA","winner":"defensores","margin":13.7,"turnout":61.6,"votes":799604,"results":[{"party":"defensores","pct":49.7,"votes":397403},{"party":"ph","pct":36,"votes":287857},{"party":"cd","pct":8,"votes":63968},{"party":"dyc","pct":4.1,"votes":32784},{"party":"oth","pct":2.2,"votes":17591}]},
+            {"name":"Atlántico","abbr":"ATL","winner":"defensores","margin":25.9,"turnout":62.1,"votes":591515,"results":[{"party":"defensores","pct":59,"votes":348994},{"party":"ph","pct":33.1,"votes":195791},{"party":"cd","pct":3.7,"votes":21886},{"party":"dyc","pct":2.4,"votes":14196},{"party":"oth","pct":1.8,"votes":10647}]},
+            {"name":"Bogotá","abbr":"DC","winner":"ph","margin":21.3,"turnout":56.6,"votes":753158,"results":[{"party":"ph","pct":51.3,"votes":386370},{"party":"defensores","pct":30,"votes":225947},{"party":"cd","pct":8.3,"votes":62512},{"party":"dyc","pct":7.1,"votes":53474},{"party":"oth","pct":3.4,"votes":25607}]},
+            {"name":"Bolívar","abbr":"BOL","winner":"defensores","margin":4.7,"turnout":63,"votes":609903,"results":[{"party":"defensores","pct":45.9,"votes":279945},{"party":"ph","pct":41.2,"votes":251280},{"party":"cd","pct":6.5,"votes":39644},{"party":"dyc","pct":3.7,"votes":22566},{"party":"oth","pct":2.8,"votes":17077}]},
+            {"name":"Boyacá","abbr":"BOY","winner":"defensores","margin":2.7,"turnout":62.5,"votes":795096,"results":[{"party":"defensores","pct":45.9,"votes":364949},{"party":"ph","pct":43.2,"votes":343481},{"party":"cd","pct":6.4,"votes":50886},{"party":"dyc","pct":3.5,"votes":27828},{"party":"oth","pct":1,"votes":7951}]},
+            {"name":"Caldas","abbr":"CAL","winner":"ph","margin":6,"turnout":66.8,"votes":776377,"results":[{"party":"ph","pct":45.4,"votes":352475},{"party":"defensores","pct":39.4,"votes":305893},{"party":"cd","pct":7.7,"votes":59781},{"party":"dyc","pct":4.8,"votes":37266},{"party":"oth","pct":2.6,"votes":20186}]},
+            {"name":"Caquetá","abbr":"CAQ","winner":"defensores","margin":28.1,"turnout":60.8,"votes":651029,"results":[{"party":"defensores","pct":58.5,"votes":380852},{"party":"ph","pct":30.4,"votes":197913},{"party":"cd","pct":6.6,"votes":42968},{"party":"dyc","pct":3.2,"votes":20833},{"party":"oth","pct":1.3,"votes":8463}]},
+            {"name":"Casanare","abbr":"CAS","winner":"defensores","margin":10.4,"turnout":68.5,"votes":702187,"results":[{"party":"defensores","pct":47.1,"votes":330730},{"party":"ph","pct":36.7,"votes":257703},{"party":"cd","pct":11.7,"votes":82156},{"party":"dyc","pct":2.9,"votes":20363},{"party":"oth","pct":1.6,"votes":11235}]},
+            {"name":"Cauca","abbr":"CAU","winner":"ph","margin":20,"turnout":60.3,"votes":596083,"results":[{"party":"ph","pct":50.3,"votes":299830},{"party":"defensores","pct":30.3,"votes":180613},{"party":"cd","pct":8.1,"votes":48283},{"party":"dyc","pct":7.3,"votes":43514},{"party":"oth","pct":3.9,"votes":23247}]},
+            {"name":"Cesar","abbr":"CES","winner":"defensores","margin":26.2,"turnout":68.3,"votes":734576,"results":[{"party":"defensores","pct":56.8,"votes":417239},{"party":"ph","pct":30.6,"votes":224780},{"party":"cd","pct":7.3,"votes":53624},{"party":"dyc","pct":3.1,"votes":22772},{"party":"oth","pct":2.2,"votes":16161}]},
+            {"name":"Chocó","abbr":"CHO","winner":"defensores","margin":12.1,"turnout":66.3,"votes":647571,"results":[{"party":"defensores","pct":46.8,"votes":303063},{"party":"ph","pct":34.7,"votes":224707},{"party":"cd","pct":9.3,"votes":60224},{"party":"dyc","pct":5.1,"votes":33026},{"party":"oth","pct":4.1,"votes":26550}]},
+            {"name":"Córdoba","abbr":"COR","winner":"ph","margin":14.7,"turnout":61,"votes":741165,"results":[{"party":"ph","pct":49.6,"votes":367618},{"party":"defensores","pct":34.9,"votes":258667},{"party":"cd","pct":6.7,"votes":49658},{"party":"dyc","pct":5.1,"votes":37799},{"party":"oth","pct":3.7,"votes":27423}]},
+            {"name":"Cundinamarca","abbr":"CUN","winner":"defensores","margin":20.5,"turnout":57.6,"votes":749538,"results":[{"party":"defensores","pct":52.5,"votes":393507},{"party":"ph","pct":32,"votes":239852},{"party":"cd","pct":6.7,"votes":50219},{"party":"dyc","pct":4.4,"votes":32980},{"party":"oth","pct":4.4,"votes":32980}]},
+            {"name":"Guainía","abbr":"GUA","winner":"defensores","margin":37.5,"turnout":65.4,"votes":679971,"results":[{"party":"defensores","pct":61.7,"votes":419542},{"party":"ph","pct":24.2,"votes":164553},{"party":"dyc","pct":6.6,"votes":44878},{"party":"cd","pct":4.1,"votes":27879},{"party":"oth","pct":3.4,"votes":23119}]},
+            {"name":"Guaviare","abbr":"GUV","winner":"defensores","margin":25.1,"turnout":68,"votes":675781,"results":[{"party":"defensores","pct":57.4,"votes":387898},{"party":"ph","pct":32.3,"votes":218277},{"party":"cd","pct":4.9,"votes":33113},{"party":"oth","pct":2.9,"votes":19598},{"party":"dyc","pct":2.4,"votes":16219}]},
+            {"name":"Huila","abbr":"HUI","winner":"defensores","margin":26.4,"turnout":58.9,"votes":679776,"results":[{"party":"defensores","pct":54.9,"votes":373197},{"party":"ph","pct":28.5,"votes":193736},{"party":"cd","pct":9.2,"votes":62539},{"party":"dyc","pct":3.9,"votes":26511},{"party":"oth","pct":3.5,"votes":23792}]},
+            {"name":"La Guajira","abbr":"LAG","winner":"defensores","margin":4.8,"turnout":69.3,"votes":621491,"results":[{"party":"defensores","pct":41.4,"votes":257297},{"party":"ph","pct":36.6,"votes":227466},{"party":"dyc","pct":8.4,"votes":52205},{"party":"cd","pct":8.1,"votes":50341},{"party":"oth","pct":5.5,"votes":34182}]},
+            {"name":"Magdalena","abbr":"MAG","winner":"defensores","margin":5.4,"turnout":61.6,"votes":818545,"results":[{"party":"defensores","pct":42.3,"votes":346245},{"party":"ph","pct":36.9,"votes":302043},{"party":"cd","pct":11,"votes":90040},{"party":"dyc","pct":7.3,"votes":59754},{"party":"oth","pct":2.5,"votes":20464}]},
+            {"name":"Meta","abbr":"MET","winner":"defensores","margin":31,"turnout":65.5,"votes":679751,"results":[{"party":"defensores","pct":60.2,"votes":409210},{"party":"ph","pct":29.2,"votes":198487},{"party":"dyc","pct":4.5,"votes":30589},{"party":"cd","pct":4.1,"votes":27870},{"party":"oth","pct":2,"votes":13595}]},
+            {"name":"Nariño","abbr":"NAR","winner":"defensores","margin":0.3,"turnout":57.7,"votes":615742,"results":[{"party":"defensores","pct":42.4,"votes":261075},{"party":"ph","pct":42.1,"votes":259227},{"party":"cd","pct":10.9,"votes":67116},{"party":"dyc","pct":2.5,"votes":15394},{"party":"oth","pct":2.2,"votes":13546}]},
+            {"name":"Norte de Santander","abbr":"NSA","winner":"defensores","margin":18.5,"turnout":61.7,"votes":576187,"results":[{"party":"defensores","pct":52.8,"votes":304227},{"party":"ph","pct":34.3,"votes":197632},{"party":"cd","pct":7,"votes":40333},{"party":"dyc","pct":4.2,"votes":24200},{"party":"oth","pct":1.8,"votes":10371}]},
+            {"name":"Putumayo","abbr":"PUT","winner":"defensores","margin":17.5,"turnout":65.9,"votes":730718,"results":[{"party":"defensores","pct":51.3,"votes":374858},{"party":"ph","pct":33.8,"votes":246983},{"party":"dyc","pct":6,"votes":43843},{"party":"cd","pct":5.6,"votes":40920},{"party":"oth","pct":3.3,"votes":24114}]},
+            {"name":"Quindío","abbr":"QUI","winner":"ph","margin":31.2,"turnout":67.7,"votes":639278,"results":[{"party":"ph","pct":58,"votes":370781},{"party":"defensores","pct":26.8,"votes":171327},{"party":"cd","pct":6.7,"votes":42832},{"party":"dyc","pct":6.4,"votes":40914},{"party":"oth","pct":2.1,"votes":13425}]},
+            {"name":"Risaralda","abbr":"RIS","winner":"defensores","margin":15.8,"turnout":61.1,"votes":582759,"results":[{"party":"defensores","pct":52.5,"votes":305948},{"party":"ph","pct":36.7,"votes":213873},{"party":"cd","pct":6.8,"votes":39628},{"party":"dyc","pct":2.3,"votes":13403},{"party":"oth","pct":1.8,"votes":10490}]},
+            {"name":"San Andrés y Providencia","abbr":"SAP","winner":"defensores","margin":15.1,"turnout":57.3,"votes":608856,"results":[{"party":"defensores","pct":51.2,"votes":311734},{"party":"ph","pct":36.1,"votes":219797},{"party":"cd","pct":7,"votes":42620},{"party":"dyc","pct":3.1,"votes":18875},{"party":"oth","pct":2.6,"votes":15830}]},
+            {"name":"Santander","abbr":"SAN","winner":"defensores","margin":39.1,"turnout":59.3,"votes":766076,"results":[{"party":"defensores","pct":62.8,"votes":481096},{"party":"ph","pct":23.7,"votes":181560},{"party":"cd","pct":7.4,"votes":56690},{"party":"oth","pct":3.5,"votes":26813},{"party":"dyc","pct":2.6,"votes":19918}]},
+            {"name":"Sucre","abbr":"SUC","winner":"ph","margin":30.8,"turnout":65.6,"votes":739407,"results":[{"party":"ph","pct":57.8,"votes":427377},{"party":"defensores","pct":27,"votes":199640},{"party":"cd","pct":6.3,"votes":46583},{"party":"dyc","pct":6,"votes":44364},{"party":"oth","pct":2.9,"votes":21443}]},
+            {"name":"Tolima","abbr":"TOL","winner":"defensores","margin":12.4,"turnout":68.9,"votes":820107,"results":[{"party":"defensores","pct":49.5,"votes":405953},{"party":"ph","pct":37.1,"votes":304260},{"party":"cd","pct":6.6,"votes":54127},{"party":"dyc","pct":4.1,"votes":33624},{"party":"oth","pct":2.8,"votes":22963}]},
+            {"name":"Valle del Cauca","abbr":"VAC","winner":"defensores","margin":8.8,"turnout":56.6,"votes":728916,"results":[{"party":"defensores","pct":47.7,"votes":347693},{"party":"ph","pct":38.9,"votes":283548},{"party":"cd","pct":8.6,"votes":62687},{"party":"oth","pct":2.5,"votes":18223},{"party":"dyc","pct":2.4,"votes":17494}]},
+            {"name":"Vaupés","abbr":"VAU","winner":"defensores","margin":26.9,"turnout":58.5,"votes":660746,"results":[{"party":"defensores","pct":58.4,"votes":385876},{"party":"ph","pct":31.5,"votes":208135},{"party":"cd","pct":3.4,"votes":22465},{"party":"oth","pct":3.4,"votes":22465},{"party":"dyc","pct":3.2,"votes":21144}]},
+            {"name":"Vichada","abbr":"VID","winner":"defensores","margin":1.5,"turnout":70.4,"votes":853599,"results":[{"party":"defensores","pct":43.5,"votes":371316},{"party":"ph","pct":42,"votes":358512},{"party":"cd","pct":6.3,"votes":53777},{"party":"dyc","pct":5.4,"votes":46094},{"party":"oth","pct":2.8,"votes":23901}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2026-06-21",
+          "candidates": [
+            {
+              "name": "Abelardo de la Espriella",
+              "party": "defensores",
+              "votes": 12960166,
+              "pct": 49.66,
+              "winner": true
+            },
+            {
+              "name": "Iván Cepeda",
+              "party": "ph",
+              "votes": 12708312,
+              "pct": 48.7
+            },
+            {
+              "name": "Blank votes",
+              "party": "blank",
+              "votes": 426848,
+              "pct": 1.64
+            }
+          ],
+          "regions": [
+            {"name":"Amazonas","abbr":"AMA","winner":"ph","margin":0.9,"turnout":58.7,"votes":823479,"results":[{"party":"ph","pct":49.8,"votes":410093},{"party":"defensores","pct":48.9,"votes":402681},{"party":"blank","pct":1.2,"votes":9882}]},
+            {"name":"Antioquia","abbr":"ANT","winner":"defensores","margin":2.7,"turnout":64,"votes":830036,"results":[{"party":"defensores","pct":50.7,"votes":420828},{"party":"ph","pct":48,"votes":398417},{"party":"blank","pct":1.3,"votes":10790}]},
+            {"name":"Arauca","abbr":"ARA","winner":"defensores","margin":22.8,"turnout":58.6,"votes":815262,"results":[{"party":"defensores","pct":61,"votes":497310},{"party":"ph","pct":38.2,"votes":311430},{"party":"blank","pct":0.8,"votes":6522}]},
+            {"name":"Atlántico","abbr":"ATL","winner":"ph","margin":21.9,"turnout":61.7,"votes":905493,"results":[{"party":"ph","pct":60.4,"votes":546918},{"party":"defensores","pct":38.5,"votes":348615},{"party":"blank","pct":1.1,"votes":9960}]},
+            {"name":"Bogotá","abbr":"DC","winner":"ph","margin":45.5,"turnout":68.5,"votes":757769,"results":[{"party":"ph","pct":71.6,"votes":542563},{"party":"defensores","pct":26.1,"votes":197778},{"party":"blank","pct":2.3,"votes":17429}]},
+            {"name":"Bolívar","abbr":"BOL","winner":"ph","margin":4.8,"turnout":58.3,"votes":872744,"results":[{"party":"ph","pct":52,"votes":453827},{"party":"defensores","pct":47.2,"votes":411935},{"party":"blank","pct":0.9,"votes":7855}]},
+            {"name":"Boyacá","abbr":"BOY","winner":"defensores","margin":16.8,"turnout":70.2,"votes":659857,"results":[{"party":"defensores","pct":57.9,"votes":382057},{"party":"ph","pct":41.1,"votes":271201},{"party":"blank","pct":1,"votes":6599}]},
+            {"name":"Caldas","abbr":"CAL","winner":"defensores","margin":12.5,"turnout":60.8,"votes":753435,"results":[{"party":"defensores","pct":55.4,"votes":417403},{"party":"ph","pct":42.9,"votes":323224},{"party":"blank","pct":1.7,"votes":12808}]},
+            {"name":"Caquetá","abbr":"CAQ","winner":"ph","margin":7.3,"turnout":63.3,"votes":705899,"results":[{"party":"ph","pct":53.2,"votes":375538},{"party":"defensores","pct":45.9,"votes":324008},{"party":"blank","pct":0.9,"votes":6353}]},
+            {"name":"Casanare","abbr":"CAS","winner":"defensores","margin":19,"turnout":62.4,"votes":708660,"results":[{"party":"defensores","pct":59,"votes":418109},{"party":"ph","pct":40,"votes":283464},{"party":"blank","pct":1,"votes":7087}]},
+            {"name":"Cauca","abbr":"CAU","winner":"ph","margin":0.6,"turnout":64.2,"votes":683566,"results":[{"party":"ph","pct":49.4,"votes":337682},{"party":"defensores","pct":48.8,"votes":333580},{"party":"blank","pct":1.8,"votes":12304}]},
+            {"name":"Cesar","abbr":"CES","winner":"ph","margin":13.3,"turnout":62.9,"votes":819999,"results":[{"party":"ph","pct":55.3,"votes":453459},{"party":"defensores","pct":42,"votes":344400},{"party":"blank","pct":2.7,"votes":22140}]},
+            {"name":"Chocó","abbr":"CHO","winner":"ph","margin":10.5,"turnout":69.8,"votes":641531,"results":[{"party":"ph","pct":54.7,"votes":350917},{"party":"defensores","pct":44.2,"votes":283557},{"party":"blank","pct":1,"votes":6415}]},
+            {"name":"Córdoba","abbr":"COR","winner":"ph","margin":4,"turnout":67.5,"votes":698687,"results":[{"party":"ph","pct":51.6,"votes":360522},{"party":"defensores","pct":47.6,"votes":332575},{"party":"blank","pct":0.7,"votes":4891}]},
+            {"name":"Cundinamarca","abbr":"CUN","winner":"defensores","margin":12.8,"turnout":62.1,"votes":894506,"results":[{"party":"defensores","pct":55.8,"votes":499134},{"party":"ph","pct":43,"votes":384638},{"party":"blank","pct":1.2,"votes":10734}]},
+            {"name":"Guainía","abbr":"GUA","winner":"ph","margin":0.6,"turnout":66.3,"votes":942019,"results":[{"party":"ph","pct":49.5,"votes":466299},{"party":"defensores","pct":48.9,"votes":460647},{"party":"blank","pct":1.6,"votes":15072}]},
+            {"name":"Guaviare","abbr":"GUV","winner":"defensores","margin":21.6,"turnout":61.8,"votes":678695,"results":[{"party":"defensores","pct":60.2,"votes":408574},{"party":"ph","pct":38.6,"votes":261976},{"party":"blank","pct":1.1,"votes":7466}]},
+            {"name":"Huila","abbr":"HUI","winner":"defensores","margin":5.1,"turnout":64.3,"votes":693230,"results":[{"party":"defensores","pct":52.1,"votes":361173},{"party":"ph","pct":47,"votes":325818},{"party":"blank","pct":0.9,"votes":6239}]},
+            {"name":"La Guajira","abbr":"LAG","winner":"ph","margin":23.3,"turnout":67,"votes":710648,"results":[{"party":"ph","pct":60.7,"votes":431363},{"party":"defensores","pct":37.4,"votes":265782},{"party":"blank","pct":1.8,"votes":12792}]},
+            {"name":"Magdalena","abbr":"MAG","winner":"ph","margin":7,"turnout":59.1,"votes":807409,"results":[{"party":"ph","pct":52.5,"votes":423890},{"party":"defensores","pct":45.5,"votes":367371},{"party":"blank","pct":2,"votes":16148}]},
+            {"name":"Meta","abbr":"MET","winner":"defensores","margin":16.6,"turnout":56.7,"votes":756484,"results":[{"party":"defensores","pct":57.5,"votes":434978},{"party":"ph","pct":40.9,"votes":309402},{"party":"blank","pct":1.6,"votes":12104}]},
+            {"name":"Nariño","abbr":"NAR","winner":"ph","margin":17.5,"turnout":63.8,"votes":761470,"results":[{"party":"ph","pct":58.3,"votes":443937},{"party":"defensores","pct":40.8,"votes":310680},{"party":"blank","pct":0.9,"votes":6853}]},
+            {"name":"Norte de Santander","abbr":"NSA","winner":"defensores","margin":16.2,"turnout":68.6,"votes":947460,"results":[{"party":"defensores","pct":56.9,"votes":539105},{"party":"ph","pct":40.7,"votes":385616},{"party":"blank","pct":2.4,"votes":22739}]},
+            {"name":"Putumayo","abbr":"PUT","winner":"ph","margin":9.5,"turnout":62.5,"votes":814150,"results":[{"party":"ph","pct":54,"votes":439641},{"party":"defensores","pct":44.5,"votes":362297},{"party":"blank","pct":1.5,"votes":12212}]},
+            {"name":"Quindío","abbr":"QUI","winner":"defensores","margin":2.5,"turnout":65.6,"votes":657083,"results":[{"party":"defensores","pct":50.9,"votes":334455},{"party":"ph","pct":48.4,"votes":318028},{"party":"blank","pct":0.8,"votes":5257}]},
+            {"name":"Risaralda","abbr":"RIS","winner":"defensores","margin":10.4,"turnout":59.8,"votes":720586,"results":[{"party":"defensores","pct":54.5,"votes":392719},{"party":"ph","pct":44.1,"votes":317778},{"party":"blank","pct":1.4,"votes":10088}]},
+            {"name":"San Andrés y Providencia","abbr":"SAP","winner":"ph","margin":2.6,"turnout":59.4,"votes":810394,"results":[{"party":"ph","pct":50.3,"votes":407628},{"party":"defensores","pct":47.7,"votes":386558},{"party":"blank","pct":2,"votes":16208}]},
+            {"name":"Santander","abbr":"SAN","winner":"defensores","margin":12.4,"turnout":68.9,"votes":652063,"results":[{"party":"defensores","pct":55.6,"votes":362547},{"party":"ph","pct":43.2,"votes":281691},{"party":"blank","pct":1.2,"votes":7825}]},
+            {"name":"Sucre","abbr":"SUC","winner":"ph","margin":13,"turnout":59.2,"votes":851011,"results":[{"party":"ph","pct":56.1,"votes":477417},{"party":"defensores","pct":43.1,"votes":366786},{"party":"blank","pct":0.8,"votes":6808}]},
+            {"name":"Tolima","abbr":"TOL","winner":"defensores","margin":24.9,"turnout":67,"votes":945907,"results":[{"party":"defensores","pct":62,"votes":586462},{"party":"ph","pct":37.1,"votes":350931},{"party":"blank","pct":0.9,"votes":8513}]},
+            {"name":"Valle del Cauca","abbr":"VAC","winner":"ph","margin":20.7,"turnout":62.3,"votes":684062,"results":[{"party":"ph","pct":59.7,"votes":408385},{"party":"defensores","pct":39,"votes":266784},{"party":"blank","pct":1.3,"votes":8893}]},
+            {"name":"Vaupés","abbr":"VAU","winner":"ph","margin":0.7,"turnout":68.3,"votes":709404,"results":[{"party":"ph","pct":49.9,"votes":353993},{"party":"defensores","pct":49.2,"votes":349027},{"party":"blank","pct":0.9,"votes":6385}]},
+            {"name":"Vichada","abbr":"VID","winner":"ph","margin":2,"turnout":68,"votes":640152,"results":[{"party":"ph","pct":50,"votes":320076},{"party":"defensores","pct":48,"votes":307273},{"party":"blank","pct":2,"votes":12803}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "co-senate-2026",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2026-03-08",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 49.79,
+      "system": "103 seats, national list proportional",
+      "totalSeats": 103,
+      "majority": 52,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "RTVC Noticias (the public broadcaster's results page)",
+        "url": "https://en.wikipedia.org/wiki/2026_Colombian_parliamentary_election"
+      },
+      "note": "The presidential runner-up's seat is not in the source",
+      "candidates": [
+        {
+          "name": "Historic Pact",
+          "party": "ph",
+          "votes": 4471238,
+          "pct": 22.95,
+          "seats": 25,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Democratic Centre",
+          "party": "cd",
+          "votes": 3072702,
+          "pct": 15.77,
+          "seats": 17,
+          "change": null
+        },
+        {
+          "name": "Colombian Liberal Party",
+          "party": "lib",
+          "votes": 2276223,
+          "pct": 11.68,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Alliance for Colombia",
+          "party": "apc",
+          "votes": 1905680,
+          "pct": 9.78,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Colombian Conservative Party",
+          "party": "con",
+          "votes": 1853403,
+          "pct": 9.51,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Party of the U",
+          "party": "u",
+          "votes": 1554812,
+          "pct": 7.98,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Radical Change–ALMA Coalition",
+          "party": "cr",
+          "votes": 1241509,
+          "pct": 6.37,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Colombia Now",
+          "party": "ahora",
+          "votes": 891907,
+          "pct": 4.58,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "National Salvation Movement",
+          "party": "msn",
+          "votes": 707764,
+          "pct": 3.63,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Indigenous and Social Alternative Movement",
+          "party": "mais",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Indigenous Authorities of Colombia",
+          "party": "aico",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Blank votes",
+          "party": "blank",
+          "votes": 616998,
+          "pct": 3.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Frente Amplio Unitario",
+          "party": "fau",
+          "votes": 396042,
+          "pct": 2.03,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Creemos Colombia",
+          "party": "creemos",
+          "votes": 227957,
+          "pct": 1.17,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 269503,
+          "pct": 1.38,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Not in source",
+          "party": "nis",
+          "votes": null,
+          "pct": null,
+          "seats": 1
+        }
+      ],
+      "regions": [
+        {"name":"Amazonas","abbr":"AMA","winner":"ph","margin":19.9,"turnout":56.6,"votes":678594,"results":[{"party":"ph","pct":40,"votes":271438},{"party":"cd","pct":20.1,"votes":136397},{"party":"lib","pct":16.3,"votes":110611},{"party":"con","pct":16.2,"votes":109932},{"party":"apc","pct":7.4,"votes":50216}]},
+        {"name":"Antioquia","abbr":"ANT","winner":"ph","margin":19.7,"turnout":53.5,"votes":535831,"results":[{"party":"ph","pct":42.7,"votes":228800},{"party":"lib","pct":23,"votes":123241},{"party":"cd","pct":15.2,"votes":81446},{"party":"con","pct":11.3,"votes":60549},{"party":"apc","pct":7.8,"votes":41795}]},
+        {"name":"Arauca","abbr":"ARA","winner":"ph","margin":23.5,"turnout":52.1,"votes":479550,"results":[{"party":"ph","pct":43.6,"votes":209084},{"party":"lib","pct":20.1,"votes":96390},{"party":"cd","pct":14.9,"votes":71453},{"party":"apc","pct":10.7,"votes":51312},{"party":"con","pct":10.7,"votes":51312}]},
+        {"name":"Atlántico","abbr":"ATL","winner":"cd","margin":7.5,"turnout":46.8,"votes":608140,"results":[{"party":"cd","pct":32.4,"votes":197037},{"party":"ph","pct":24.9,"votes":151427},{"party":"lib","pct":23.5,"votes":142913},{"party":"con","pct":11.5,"votes":69936},{"party":"apc","pct":7.7,"votes":46827}]},
+        {"name":"Bogotá","abbr":"DC","winner":"ph","margin":14.9,"turnout":56.1,"votes":549979,"results":[{"party":"ph","pct":36.2,"votes":199092},{"party":"lib","pct":21.3,"votes":117146},{"party":"apc","pct":20,"votes":109996},{"party":"cd","pct":15.4,"votes":84697},{"party":"con","pct":7.1,"votes":39049}]},
+        {"name":"Bolívar","abbr":"BOL","winner":"ph","margin":12.6,"turnout":43,"votes":496938,"results":[{"party":"ph","pct":33.1,"votes":164486},{"party":"apc","pct":20.5,"votes":101872},{"party":"con","pct":18.6,"votes":92430},{"party":"cd","pct":14.7,"votes":73050},{"party":"lib","pct":13.1,"votes":65099}]},
+        {"name":"Boyacá","abbr":"BOY","winner":"cd","margin":2,"turnout":51.5,"votes":611253,"results":[{"party":"cd","pct":29.5,"votes":180320},{"party":"ph","pct":27.5,"votes":168095},{"party":"lib","pct":22.2,"votes":135698},{"party":"apc","pct":10.9,"votes":66627},{"party":"con","pct":9.9,"votes":60514}]},
+        {"name":"Caldas","abbr":"CAL","winner":"ph","margin":11.5,"turnout":55.4,"votes":529192,"results":[{"party":"ph","pct":33,"votes":174633},{"party":"cd","pct":21.5,"votes":113776},{"party":"lib","pct":16.5,"votes":87317},{"party":"con","pct":15.6,"votes":82554},{"party":"apc","pct":13.4,"votes":70912}]},
+        {"name":"Caquetá","abbr":"CAQ","winner":"ph","margin":5.4,"turnout":56.6,"votes":479060,"results":[{"party":"ph","pct":31.1,"votes":148988},{"party":"cd","pct":25.7,"votes":123118},{"party":"lib","pct":20.8,"votes":99644},{"party":"apc","pct":15.3,"votes":73296},{"party":"con","pct":7,"votes":33534}]},
+        {"name":"Casanare","abbr":"CAS","winner":"ph","margin":23,"turnout":54.7,"votes":629029,"results":[{"party":"ph","pct":43.2,"votes":271741},{"party":"cd","pct":20.2,"votes":127064},{"party":"lib","pct":15,"votes":94354},{"party":"con","pct":12.6,"votes":79258},{"party":"apc","pct":9,"votes":56613}]},
+        {"name":"Cauca","abbr":"CAU","winner":"ph","margin":10.5,"turnout":56.1,"votes":664886,"results":[{"party":"ph","pct":38.3,"votes":254651},{"party":"cd","pct":27.8,"votes":184838},{"party":"apc","pct":14,"votes":93084},{"party":"lib","pct":10.7,"votes":71143},{"party":"con","pct":9.1,"votes":60505}]},
+        {"name":"Cesar","abbr":"CES","winner":"ph","margin":13.4,"turnout":45.6,"votes":577516,"results":[{"party":"ph","pct":33.4,"votes":192890},{"party":"lib","pct":20,"votes":115503},{"party":"con","pct":16,"votes":92403},{"party":"apc","pct":15.8,"votes":91248},{"party":"cd","pct":14.8,"votes":85472}]},
+        {"name":"Chocó","abbr":"CHO","winner":"cd","margin":8.1,"turnout":51.9,"votes":612843,"results":[{"party":"cd","pct":31.1,"votes":190594},{"party":"ph","pct":23,"votes":140954},{"party":"lib","pct":19,"votes":116440},{"party":"apc","pct":14.7,"votes":90088},{"party":"con","pct":12.1,"votes":74154}]},
+        {"name":"Córdoba","abbr":"COR","winner":"ph","margin":9.1,"turnout":49.4,"votes":655390,"results":[{"party":"ph","pct":30.3,"votes":198583},{"party":"lib","pct":21.2,"votes":138943},{"party":"con","pct":17.1,"votes":112072},{"party":"cd","pct":16.4,"votes":107484},{"party":"apc","pct":15.1,"votes":98964}]},
+        {"name":"Cundinamarca","abbr":"CUN","winner":"ph","margin":18.4,"turnout":50.2,"votes":702028,"results":[{"party":"ph","pct":40.1,"votes":281513},{"party":"cd","pct":21.7,"votes":152340},{"party":"con","pct":18,"votes":126365},{"party":"lib","pct":12.2,"votes":85647},{"party":"apc","pct":7.9,"votes":55460}]},
+        {"name":"Guainía","abbr":"GUA","winner":"ph","margin":6.1,"turnout":56.2,"votes":495117,"results":[{"party":"ph","pct":30.5,"votes":151011},{"party":"cd","pct":24.4,"votes":120809},{"party":"lib","pct":19.6,"votes":97043},{"party":"con","pct":17.6,"votes":87141},{"party":"apc","pct":7.8,"votes":38619}]},
+        {"name":"Guaviare","abbr":"GUV","winner":"ph","margin":26.2,"turnout":53,"votes":592785,"results":[{"party":"ph","pct":45.1,"votes":267346},{"party":"con","pct":18.9,"votes":112036},{"party":"cd","pct":16.5,"votes":97810},{"party":"lib","pct":10.4,"votes":61650},{"party":"apc","pct":9,"votes":53351}]},
+        {"name":"Huila","abbr":"HUI","winner":"ph","margin":15.4,"turnout":47.7,"votes":699893,"results":[{"party":"ph","pct":36.1,"votes":252661},{"party":"cd","pct":20.7,"votes":144878},{"party":"lib","pct":18.8,"votes":131580},{"party":"apc","pct":15,"votes":104984},{"party":"con","pct":9.3,"votes":65090}]},
+        {"name":"La Guajira","abbr":"LAG","winner":"ph","margin":12.6,"turnout":48.1,"votes":562940,"results":[{"party":"ph","pct":37.2,"votes":209414},{"party":"cd","pct":24.6,"votes":138483},{"party":"lib","pct":15.7,"votes":88382},{"party":"con","pct":12.3,"votes":69242},{"party":"apc","pct":10.3,"votes":57983}]},
+        {"name":"Magdalena","abbr":"MAG","winner":"ph","margin":1.7,"turnout":49,"votes":553286,"results":[{"party":"ph","pct":27.9,"votes":154367},{"party":"cd","pct":26.2,"votes":144961},{"party":"con","pct":20.9,"votes":115637},{"party":"apc","pct":14.8,"votes":81886},{"party":"lib","pct":10.2,"votes":56435}]},
+        {"name":"Meta","abbr":"MET","winner":"lib","margin":1.1,"turnout":45.3,"votes":539889,"results":[{"party":"lib","pct":28.9,"votes":156028},{"party":"ph","pct":27.8,"votes":150089},{"party":"con","pct":18.1,"votes":97720},{"party":"cd","pct":14.5,"votes":78284},{"party":"apc","pct":10.7,"votes":57768}]},
+        {"name":"Nariño","abbr":"NAR","winner":"ph","margin":11.7,"turnout":51.1,"votes":547052,"results":[{"party":"ph","pct":32,"votes":175057},{"party":"lib","pct":20.3,"votes":111052},{"party":"con","pct":17.9,"votes":97922},{"party":"apc","pct":16.3,"votes":89169},{"party":"cd","pct":13.5,"votes":73852}]},
+        {"name":"Norte de Santander","abbr":"NSA","winner":"ph","margin":10.3,"turnout":52.8,"votes":690607,"results":[{"party":"ph","pct":36.5,"votes":252072},{"party":"cd","pct":26.2,"votes":180939},{"party":"lib","pct":21,"votes":145027},{"party":"apc","pct":9.6,"votes":66298},{"party":"con","pct":6.7,"votes":46271}]},
+        {"name":"Putumayo","abbr":"PUT","winner":"ph","margin":13.4,"turnout":45.4,"votes":586841,"results":[{"party":"ph","pct":33.2,"votes":194831},{"party":"apc","pct":19.8,"votes":116195},{"party":"con","pct":16.6,"votes":97416},{"party":"lib","pct":16,"votes":93895},{"party":"cd","pct":14.4,"votes":84505}]},
+        {"name":"Quindío","abbr":"QUI","winner":"ph","margin":4.9,"turnout":47.2,"votes":689746,"results":[{"party":"ph","pct":32.1,"votes":221408},{"party":"cd","pct":27.2,"votes":187611},{"party":"con","pct":18.4,"votes":126913},{"party":"apc","pct":11.3,"votes":77941},{"party":"lib","pct":10.9,"votes":75182}]},
+        {"name":"Risaralda","abbr":"RIS","winner":"cd","margin":5.6,"turnout":43.3,"votes":594909,"results":[{"party":"cd","pct":29.7,"votes":176688},{"party":"ph","pct":24.1,"votes":143373},{"party":"lib","pct":20.1,"votes":119577},{"party":"con","pct":15,"votes":89236},{"party":"apc","pct":11,"votes":65440}]},
+        {"name":"San Andrés y Providencia","abbr":"SAP","winner":"ph","margin":6.9,"turnout":43.9,"votes":585169,"results":[{"party":"ph","pct":36.2,"votes":211831},{"party":"cd","pct":29.3,"votes":171455},{"party":"con","pct":14.4,"votes":84264},{"party":"lib","pct":11.2,"votes":65539},{"party":"apc","pct":8.9,"votes":52080}]},
+        {"name":"Santander","abbr":"SAN","winner":"cd","margin":5.8,"turnout":49.8,"votes":657315,"results":[{"party":"cd","pct":26.6,"votes":174846},{"party":"apc","pct":20.8,"votes":136722},{"party":"con","pct":20.3,"votes":133435},{"party":"ph","pct":19.9,"votes":130806},{"party":"lib","pct":12.3,"votes":80850}]},
+        {"name":"Sucre","abbr":"SUC","winner":"lib","margin":0.2,"turnout":53.7,"votes":645613,"results":[{"party":"lib","pct":29.4,"votes":189810},{"party":"ph","pct":29.2,"votes":188519},{"party":"apc","pct":18.7,"votes":120730},{"party":"cd","pct":13.8,"votes":89095},{"party":"con","pct":8.9,"votes":57460}]},
+        {"name":"Tolima","abbr":"TOL","winner":"ph","margin":6,"turnout":48.8,"votes":521556,"results":[{"party":"ph","pct":30.4,"votes":158553},{"party":"cd","pct":24.4,"votes":127260},{"party":"lib","pct":17,"votes":88665},{"party":"con","pct":16.1,"votes":83971},{"party":"apc","pct":12.1,"votes":63108}]},
+        {"name":"Valle del Cauca","abbr":"VAC","winner":"ph","margin":1.1,"turnout":55.1,"votes":648553,"results":[{"party":"ph","pct":25.8,"votes":167327},{"party":"cd","pct":24.7,"votes":160193},{"party":"lib","pct":20.6,"votes":133602},{"party":"apc","pct":15.8,"votes":102471},{"party":"con","pct":13.2,"votes":85609}]},
+        {"name":"Vaupés","abbr":"VAU","winner":"con","margin":0.4,"turnout":55.8,"votes":694299,"results":[{"party":"con","pct":21.5,"votes":149274},{"party":"ph","pct":21.1,"votes":146497},{"party":"apc","pct":19.8,"votes":137471},{"party":"cd","pct":19,"votes":131917},{"party":"lib","pct":18.5,"votes":128445}]},
+        {"name":"Vichada","abbr":"VID","winner":"ph","margin":3.4,"turnout":55.5,"votes":603088,"results":[{"party":"ph","pct":24.7,"votes":148963},{"party":"cd","pct":21.3,"votes":128458},{"party":"lib","pct":21,"votes":126648},{"party":"apc","pct":20.6,"votes":124236},{"party":"con","pct":12.5,"votes":75386}]}
+      ]
+    },
+    {
+      "id": "co-chamber-of-representatives-2026",
+      "office": "Chamber of Representatives",
+      "kind": "legislative",
+      "date": "2026-03-08",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 47.97,
+      "system": "183 seats, list proportional by department",
+      "totalSeats": 183,
+      "majority": 92,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the National Civil Registry (Registraduría Nacional del Estado Civil)",
+        "url": "https://en.wikipedia.org/wiki/2026_Colombian_parliamentary_election"
+      },
+      "note": "The source has results for 164 of 183 seats",
+      "candidates": [
+        {
+          "name": "Historic Pact",
+          "party": "ph",
+          "votes": 3880148,
+          "pct": 20.63,
+          "seats": 36,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Colombian Liberal Party",
+          "party": "lib",
+          "votes": 2103122,
+          "pct": 11.18,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Democratic Centre",
+          "party": "cd",
+          "votes": 2527214,
+          "pct": 13.44,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "Colombian Conservative Party",
+          "party": "con",
+          "votes": 1957004,
+          "pct": 10.41,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Party of the U",
+          "party": "u",
+          "votes": 1043537,
+          "pct": 5.55,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Radical Change",
+          "party": "cr",
+          "votes": 806205,
+          "pct": 4.29,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Green Alliance",
+          "party": "verde",
+          "votes": 654197,
+          "pct": 3.48,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Historic Pact–Green Alliance",
+          "party": "phav",
+          "votes": 213128,
+          "pct": 1.13,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Democratic Centre–MIRA",
+          "party": "cdmira",
+          "votes": 356437,
+          "pct": 1.9,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Pr1mero Córdoba (CoR–MIRA)",
+          "party": "primerocor",
+          "votes": 340337,
+          "pct": 1.81,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Creemos Colombia",
+          "party": "creemos",
+          "votes": 285637,
+          "pct": 1.52,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independent Social Alliance",
+          "party": "asi",
+          "votes": 65315,
+          "pct": 0.35,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "El Naranjo Community Council",
+          "party": "ccen",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Salvation Movement",
+          "party": "msn",
+          "votes": 410416,
+          "pct": 2.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Ahora Colombia (MIRA–NL–D&C)",
+          "party": "ahora",
+          "votes": 263954,
+          "pct": 1.4,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Coalición Liberal Colombia Reborn",
+          "party": "libcr",
+          "votes": 145370,
+          "pct": 0.77,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "La Fuerza",
+          "party": "lafuerza",
+          "votes": 140092,
+          "pct": 0.74,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "CR–LAU–MSN–OXI",
+          "party": "crlau",
+          "votes": 118097,
+          "pct": 0.63,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Green Alliance–En Marcha",
+          "party": "avem",
+          "votes": 112328,
+          "pct": 0.6,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Colombian Democratic Party",
+          "party": "pdc",
+          "votes": 106553,
+          "pct": 0.57,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Pacto Histórico – Frente Amplio (PH–MAIS)",
+          "party": "phmais",
+          "votes": 100288,
+          "pct": 0.53,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Avancemos Nariño (Green Alliance–AICO)",
+          "party": "avnar",
+          "votes": 99820,
+          "pct": 0.53,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "CR–CJL–LIGA de Gobernantes",
+          "party": "crcjlliga",
+          "votes": 96135,
+          "pct": 0.51,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Coalición Demócrata Amplia por la Paz (PDC–LF–ADA)",
+          "party": "cdap",
+          "votes": 84298,
+          "pct": 0.45,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Pacto por Risaralda (PH–MAIS–ED)",
+          "party": "phris",
+          "votes": 74621,
+          "pct": 0.4,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Party of the U–Radical Change",
+          "party": "ucr",
+          "votes": 70122,
+          "pct": 0.37,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Colombian Conservative Party–National Salvation Movement",
+          "party": "conmsn",
+          "votes": 64368,
+          "pct": 0.34,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Centre–Colombian Conservative Party",
+          "party": "cdcon",
+          "votes": 64054,
+          "pct": 0.34,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Fuerza Cauca (CoR–MIRA–Green Alliance)",
+          "party": "fcauca",
+          "votes": 60317,
+          "pct": 0.32,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Centre–Party of the U",
+          "party": "cdu",
+          "votes": 49172,
+          "pct": 0.26,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Coalición Caquetá (NL–ASI–Green Alliance)",
+          "party": "caqueta",
+          "votes": 33367,
+          "pct": 0.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Revive Caquetá 20 (CR–MIRA)",
+          "party": "revive",
+          "votes": 30284,
+          "pct": 0.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Putumayo También es Colombia",
+          "party": "ptc",
+          "votes": 27686,
+          "pct": 0.15,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "La Voz del Amazonas (MAIS–CoR)",
+          "party": "vozama",
+          "votes": 12406,
+          "pct": 0.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Unity in Minga Movement for Colombia",
+          "party": "mumc",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Blank votes",
+          "party": "blank",
+          "votes": 681007,
+          "pct": 3.62,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1728422,
+          "pct": 9.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Not in source",
+          "party": "nis",
+          "votes": null,
+          "pct": null,
+          "seats": 19
+        }
+      ],
+      "regions": [
+        {"name":"Amazonas","abbr":"AMA","winner":"con","margin":0.9,"turnout":45.5,"votes":473331,"results":[{"party":"con","pct":23.8,"votes":112653},{"party":"lib","pct":22.9,"votes":108393},{"party":"ph","pct":20.4,"votes":96560},{"party":"cd","pct":19.9,"votes":94193},{"party":"oth","pct":12.9,"votes":61060}]},
+        {"name":"Antioquia","abbr":"ANT","winner":"ph","margin":9.3,"turnout":47.8,"votes":517922,"results":[{"party":"ph","pct":30,"votes":155377},{"party":"cd","pct":20.7,"votes":107210},{"party":"con","pct":17.4,"votes":90118},{"party":"lib","pct":17.3,"votes":89601},{"party":"oth","pct":14.5,"votes":75099}]},
+        {"name":"Arauca","abbr":"ARA","winner":"ph","margin":13.5,"turnout":45.4,"votes":470136,"results":[{"party":"ph","pct":34.9,"votes":164077},{"party":"con","pct":21.4,"votes":100609},{"party":"cd","pct":17.2,"votes":80863},{"party":"oth","pct":13.8,"votes":64879},{"party":"lib","pct":12.7,"votes":59707}]},
+        {"name":"Atlántico","abbr":"ATL","winner":"ph","margin":15,"turnout":51.4,"votes":482314,"results":[{"party":"ph","pct":33.5,"votes":161575},{"party":"oth","pct":18.5,"votes":89228},{"party":"cd","pct":17,"votes":81993},{"party":"con","pct":16.6,"votes":80064},{"party":"lib","pct":14.3,"votes":68971}]},
+        {"name":"Bogotá","abbr":"DC","winner":"ph","margin":8.3,"turnout":46,"votes":636908,"results":[{"party":"ph","pct":35.8,"votes":228013},{"party":"cd","pct":27.5,"votes":175150},{"party":"lib","pct":14.9,"votes":94899},{"party":"con","pct":11.6,"votes":73881},{"party":"oth","pct":10.2,"votes":64965}]},
+        {"name":"Bolívar","abbr":"BOL","winner":"ph","margin":9.6,"turnout":53.6,"votes":518634,"results":[{"party":"ph","pct":36,"votes":186708},{"party":"cd","pct":26.4,"votes":136919},{"party":"lib","pct":18,"votes":93354},{"party":"con","pct":11.5,"votes":59643},{"party":"oth","pct":8.2,"votes":42528}]},
+        {"name":"Boyacá","abbr":"BOY","winner":"ph","margin":23.4,"turnout":44.1,"votes":661233,"results":[{"party":"ph","pct":42.6,"votes":281685},{"party":"cd","pct":19.2,"votes":126957},{"party":"oth","pct":15.8,"votes":104475},{"party":"lib","pct":13.3,"votes":87944},{"party":"con","pct":9.1,"votes":60172}]},
+        {"name":"Caldas","abbr":"CAL","winner":"ph","margin":26.1,"turnout":41.3,"votes":486977,"results":[{"party":"ph","pct":44.5,"votes":216705},{"party":"oth","pct":18.4,"votes":89604},{"party":"con","pct":15.4,"votes":74994},{"party":"cd","pct":12.3,"votes":59898},{"party":"lib","pct":9.4,"votes":45776}]},
+        {"name":"Caquetá","abbr":"CAQ","winner":"ph","margin":12.4,"turnout":51.7,"votes":512054,"results":[{"party":"ph","pct":33.9,"votes":173586},{"party":"lib","pct":21.5,"votes":110092},{"party":"cd","pct":18.6,"votes":95242},{"party":"oth","pct":15.4,"votes":78856},{"party":"con","pct":10.6,"votes":54278}]},
+        {"name":"Casanare","abbr":"CAS","winner":"cd","margin":3.3,"turnout":48,"votes":602780,"results":[{"party":"cd","pct":27.8,"votes":167573},{"party":"ph","pct":24.5,"votes":147681},{"party":"lib","pct":22.2,"votes":133817},{"party":"con","pct":13.3,"votes":80170},{"party":"oth","pct":12.3,"votes":74142}]},
+        {"name":"Cauca","abbr":"CAU","winner":"ph","margin":3.4,"turnout":44.9,"votes":632561,"results":[{"party":"ph","pct":29.6,"votes":187238},{"party":"cd","pct":26.2,"votes":165731},{"party":"oth","pct":20.2,"votes":127777},{"party":"con","pct":14.8,"votes":93619},{"party":"lib","pct":9.2,"votes":58196}]},
+        {"name":"Cesar","abbr":"CES","winner":"lib","margin":2.6,"turnout":43.1,"votes":494402,"results":[{"party":"lib","pct":28.8,"votes":142388},{"party":"ph","pct":26.2,"votes":129533},{"party":"cd","pct":19.8,"votes":97892},{"party":"con","pct":13.4,"votes":66250},{"party":"oth","pct":11.8,"votes":58339}]},
+        {"name":"Chocó","abbr":"CHO","winner":"ph","margin":27.5,"turnout":52.4,"votes":469571,"results":[{"party":"ph","pct":44.5,"votes":208959},{"party":"cd","pct":17,"votes":79827},{"party":"con","pct":15.4,"votes":72314},{"party":"oth","pct":12.3,"votes":57757},{"party":"lib","pct":10.7,"votes":50244}]},
+        {"name":"Córdoba","abbr":"COR","winner":"ph","margin":3.7,"turnout":41.3,"votes":593139,"results":[{"party":"ph","pct":28.1,"votes":166672},{"party":"cd","pct":24.4,"votes":144726},{"party":"lib","pct":22.6,"votes":134049},{"party":"con","pct":14.1,"votes":83633},{"party":"oth","pct":10.7,"votes":63466}]},
+        {"name":"Cundinamarca","abbr":"CUN","winner":"ph","margin":3.9,"turnout":48.6,"votes":551965,"results":[{"party":"ph","pct":28.9,"votes":159518},{"party":"cd","pct":25,"votes":137991},{"party":"oth","pct":19.8,"votes":109289},{"party":"con","pct":17.1,"votes":94386},{"party":"lib","pct":9.2,"votes":50781}]},
+        {"name":"Guainía","abbr":"GUA","winner":"ph","margin":15.5,"turnout":45.8,"votes":523171,"results":[{"party":"ph","pct":43.1,"votes":225487},{"party":"cd","pct":27.6,"votes":144395},{"party":"con","pct":10.5,"votes":54933},{"party":"lib","pct":9.9,"votes":51794},{"party":"oth","pct":8.8,"votes":46039}]},
+        {"name":"Guaviare","abbr":"GUV","winner":"cd","margin":7,"turnout":45.7,"votes":639434,"results":[{"party":"cd","pct":30.9,"votes":197585},{"party":"con","pct":23.9,"votes":152825},{"party":"ph","pct":19.9,"votes":127247},{"party":"lib","pct":14.4,"votes":92078},{"party":"oth","pct":10.8,"votes":69059}]},
+        {"name":"Huila","abbr":"HUI","winner":"ph","margin":10.1,"turnout":46.7,"votes":622903,"results":[{"party":"ph","pct":30,"votes":186871},{"party":"lib","pct":19.9,"votes":123958},{"party":"cd","pct":17.7,"votes":110254},{"party":"con","pct":17.7,"votes":110254},{"party":"oth","pct":14.7,"votes":91567}]},
+        {"name":"La Guajira","abbr":"LAG","winner":"ph","margin":2.5,"turnout":54.7,"votes":645858,"results":[{"party":"ph","pct":26.1,"votes":168569},{"party":"cd","pct":23.6,"votes":152422},{"party":"lib","pct":20.8,"votes":134338},{"party":"oth","pct":17.6,"votes":113671},{"party":"con","pct":11.9,"votes":76857}]},
+        {"name":"Magdalena","abbr":"MAG","winner":"ph","margin":5.3,"turnout":42.6,"votes":606478,"results":[{"party":"ph","pct":29.4,"votes":178305},{"party":"cd","pct":24.1,"votes":146161},{"party":"oth","pct":18.6,"votes":112805},{"party":"con","pct":17.6,"votes":106740},{"party":"lib","pct":10.4,"votes":63074}]},
+        {"name":"Meta","abbr":"MET","winner":"ph","margin":5.3,"turnout":41.8,"votes":548888,"results":[{"party":"ph","pct":28.4,"votes":155884},{"party":"con","pct":23.1,"votes":126793},{"party":"cd","pct":21.4,"votes":117462},{"party":"oth","pct":13.7,"votes":75198},{"party":"lib","pct":13.4,"votes":73551}]},
+        {"name":"Nariño","abbr":"NAR","winner":"ph","margin":7.4,"turnout":46.9,"votes":480268,"results":[{"party":"ph","pct":28.9,"votes":138797},{"party":"cd","pct":21.5,"votes":103258},{"party":"lib","pct":20.5,"votes":98455},{"party":"oth","pct":16.6,"votes":79724},{"party":"con","pct":12.5,"votes":60034}]},
+        {"name":"Norte de Santander","abbr":"NSA","winner":"ph","margin":11.5,"turnout":54.5,"votes":544693,"results":[{"party":"ph","pct":31.2,"votes":169944},{"party":"lib","pct":19.7,"votes":107305},{"party":"con","pct":18.5,"votes":100768},{"party":"oth","pct":17.8,"votes":96955},{"party":"cd","pct":12.8,"votes":69721}]},
+        {"name":"Putumayo","abbr":"PUT","winner":"ph","margin":0.2,"turnout":53.2,"votes":603438,"results":[{"party":"ph","pct":26.3,"votes":158704},{"party":"cd","pct":26.1,"votes":157497},{"party":"lib","pct":19.2,"votes":115860},{"party":"con","pct":14.4,"votes":86895},{"party":"oth","pct":14.1,"votes":85085}]},
+        {"name":"Quindío","abbr":"QUI","winner":"ph","margin":4.2,"turnout":47.1,"votes":486910,"results":[{"party":"ph","pct":27.3,"votes":132926},{"party":"cd","pct":23.1,"votes":112476},{"party":"lib","pct":23.1,"votes":112476},{"party":"con","pct":15,"votes":73037},{"party":"oth","pct":11.5,"votes":55995}]},
+        {"name":"Risaralda","abbr":"RIS","winner":"cd","margin":4.6,"turnout":41.7,"votes":474997,"results":[{"party":"cd","pct":27.1,"votes":128724},{"party":"con","pct":22.5,"votes":106874},{"party":"ph","pct":19.2,"votes":91199},{"party":"oth","pct":15.7,"votes":74575},{"party":"lib","pct":15.5,"votes":73625}]},
+        {"name":"San Andrés y Providencia","abbr":"SAP","winner":"ph","margin":21.1,"turnout":48.9,"votes":569702,"results":[{"party":"ph","pct":40.4,"votes":230160},{"party":"con","pct":19.3,"votes":109952},{"party":"cd","pct":18.4,"votes":104825},{"party":"oth","pct":11,"votes":62667},{"party":"lib","pct":10.8,"votes":61528}]},
+        {"name":"Santander","abbr":"SAN","winner":"ph","margin":23.6,"turnout":54.4,"votes":465910,"results":[{"party":"ph","pct":42.8,"votes":199409},{"party":"con","pct":19.2,"votes":89455},{"party":"cd","pct":13.7,"votes":63830},{"party":"oth","pct":13.4,"votes":62432},{"party":"lib","pct":10.9,"votes":50784}]},
+        {"name":"Sucre","abbr":"SUC","winner":"ph","margin":0.7,"turnout":48.6,"votes":508892,"results":[{"party":"ph","pct":28.9,"votes":147070},{"party":"cd","pct":28.2,"votes":143508},{"party":"lib","pct":24.2,"votes":123152},{"party":"con","pct":10.2,"votes":51907},{"party":"oth","pct":8.5,"votes":43256}]},
+        {"name":"Tolima","abbr":"TOL","winner":"ph","margin":14.6,"turnout":42.9,"votes":506243,"results":[{"party":"ph","pct":36.3,"votes":183766},{"party":"cd","pct":21.7,"votes":109855},{"party":"lib","pct":19.5,"votes":98717},{"party":"con","pct":11.5,"votes":58218},{"party":"oth","pct":11,"votes":55687}]},
+        {"name":"Valle del Cauca","abbr":"VAC","winner":"cd","margin":8.6,"turnout":43.2,"votes":464793,"results":[{"party":"cd","pct":27.2,"votes":126424},{"party":"oth","pct":18.6,"votes":86451},{"party":"lib","pct":18.4,"votes":85522},{"party":"ph","pct":17.9,"votes":83198},{"party":"con","pct":17.9,"votes":83198}]},
+        {"name":"Vaupés","abbr":"VAU","winner":"ph","margin":5.4,"turnout":51.4,"votes":620145,"results":[{"party":"ph","pct":30.7,"votes":190385},{"party":"con","pct":25.3,"votes":156897},{"party":"cd","pct":17.1,"votes":106045},{"party":"lib","pct":14.4,"votes":89301},{"party":"oth","pct":12.5,"votes":77518}]},
+        {"name":"Vichada","abbr":"VID","winner":"ph","margin":5.9,"turnout":48.3,"votes":612797,"results":[{"party":"ph","pct":29.8,"votes":182614},{"party":"cd","pct":23.9,"votes":146458},{"party":"lib","pct":17.8,"votes":109078},{"party":"oth","pct":15.5,"votes":94984},{"party":"con","pct":13.1,"votes":80276}]}
+      ]
+    }
+  ]
+}

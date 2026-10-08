@@ -3,6 +3,9 @@ import { nextText } from './status.js';
 import { fmtInt, fmtPct, fmtDate, fmtFullDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
 import { chamber, duel, historyRows, pollChart } from './charts.js';
 
+// Others, and seats a source has no results for yet, list after the parties.
+const rest = c => c.party === 'oth' || c.party === 'nis';
+
 export function renderCountry(panel, ctx, { meta, country: initial, archive, electionId }) {
   const { schedule, globe } = ctx;
   const [term, terms] = meta.regionTerm;
@@ -231,7 +234,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const hasVotes = view.candidates.some(c => c.votes != null);
     const cands = live || sim
       ? [...view.candidates]
-      : [...view.candidates].sort((a, b) => (a.party === 'oth') - (b.party === 'oth') || (b.seats ?? b.pct ?? 0) - (a.seats ?? a.pct ?? 0));
+      : [...view.candidates].sort((a, b) => rest(a) - rest(b) || (b.seats ?? b.pct ?? 0) - (a.seats ?? a.pct ?? 0));
     const isFinalRound = !rounds || (ri === rounds.length - 1 && !/first/i.test(rounds[ri].label) && el.call?.status !== 'runoff');
     // A single-round race says how it was won; the first-round shares of a race
     // won on transfers or without its run-off don't show the winner ahead.

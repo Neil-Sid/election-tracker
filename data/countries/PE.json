@@ -1,0 +1,1060 @@
+{
+  "code": "PE",
+  "name": "Peru",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "Congress: Senate (60) and Chamber of Deputies (130)",
+    "votingAge": 18,
+    "compulsory": true,
+    "registered": 27325432,
+    "offices": {
+      "President": "Elected for a five-year term by a two-round system: a candidate with more than half of the valid votes wins outright, otherwise the top two meet in a run-off. The president is head of state and of government.",
+      "Senate": "60 senators: 30 elected by proportional representation in a single nationwide constituency and 30 in the 27 constituencies used for the Chamber (four in Lima province, one in each of the others). Restored in 2026, it reviews bills passed by the deputies, elects senior officials such as Constitutional Court judges and can remove the president.",
+      "Chamber of Deputies": "130 deputies are elected by open-list proportional representation (D'Hondt) in 27 multi-member constituencies, with a 5% national threshold. The lower house presents legislation and oversees the cabinet; from 1993 to 2026 Congress had a single chamber."
+    }
+  },
+  "parties": {
+    "adcuz": {
+      "name": "Cuzqueña Democratic Alliance",
+      "color": "#C0CA33"
+    },
+    "af": {
+      "name": "Alliance for the Future",
+      "color": "#FF7F00"
+    },
+    "agc": {
+      "name": "Alliance for the Great Change",
+      "color": "#00B0F6"
+    },
+    "an": {
+      "name": "Ahora Nación",
+      "color": "#CB81E4"
+    },
+    "ap": {
+      "name": "Popular Action",
+      "color": "#000000"
+    },
+    "apop": {
+      "name": "Popular Alliance",
+      "color": "#FF0000"
+    },
+    "app": {
+      "name": "Alliance for Progress",
+      "color": "#27569E"
+    },
+    "app16": {
+      "name": "Alliance for the Progress of Peru",
+      "color": "#1E5BA8"
+    },
+    "apra": {
+      "name": "American Popular Revolutionary Alliance (APRA)",
+      "color": "#DF0101"
+    },
+    "avancemos": {
+      "name": "Avancemos",
+      "color": "#008000"
+    },
+    "avp": {
+      "name": "Avanza País",
+      "color": "#EF038B"
+    },
+    "avp2000": {
+      "name": "Go on Country – Social Integration Party",
+      "color": "#81E49A"
+    },
+    "c90": {
+      "name": "Cambio 90",
+      "color": "#D45500"
+    },
+    "c90nm": {
+      "name": "Cambio 90–New Majority",
+      "color": "#D45500"
+    },
+    "cdem": {
+      "name": "Democratic Coordinator",
+      "color": "#80FF00"
+    },
+    "chuanc": {
+      "name": "Huancavelicana Coalition",
+      "color": "#4DB6AC"
+    },
+    "contigo": {
+      "name": "Contigo",
+      "color": "#57DBBA"
+    },
+    "coop": {
+      "name": "Popular Cooperation",
+      "color": "#795548"
+    },
+    "cpt": {
+      "name": "Country for All",
+      "color": "#57DBBA"
+    },
+    "crp": {
+      "name": "Radical Change",
+      "color": "#0000F8"
+    },
+    "dd": {
+      "name": "Direct Democracy",
+      "color": "#E4E481"
+    },
+    "fa": {
+      "name": "Broad Front",
+      "color": "#49B848"
+    },
+    "fc": {
+      "name": "Centre Front",
+      "color": "#DBDB57"
+    },
+    "fdem": {
+      "name": "Democratic Force",
+      "color": "#000000"
+    },
+    "fdj": {
+      "name": "Democratic Youth Front",
+      "color": "#3A3A3A"
+    },
+    "fdun": {
+      "name": "Democratic Front of National Unity",
+      "color": "#2828BD"
+    },
+    "fe2021": {
+      "name": "Front of Hope 2021",
+      "color": "#67BD50"
+    },
+    "feayac": {
+      "name": "Ayacuchano Electoral Front",
+      "color": "#EC407A"
+    },
+    "fesp": {
+      "name": "Hope Front",
+      "color": "#800080"
+    },
+    "fim": {
+      "name": "Independent Moralizing Front",
+      "color": "#F08080"
+    },
+    "fln": {
+      "name": "National Liberation Front",
+      "color": "#B71C1C"
+    },
+    "focep": {
+      "name": "Worker Peasant Student and Popular Front",
+      "color": "#2828BD"
+    },
+    "fp": {
+      "name": "Popular Force",
+      "color": "#E9511B"
+    },
+    "fredemo": {
+      "name": "Democratic Front (FREDEMO)",
+      "color": "#50A7F7"
+    },
+    "frenatraca": {
+      "name": "National Front of Workers and Peasants",
+      "color": "#FFD700"
+    },
+    "frepap": {
+      "name": "Agricultural People's Front of Peru",
+      "color": "#00009B"
+    },
+    "ftacna": {
+      "name": "Tacneñista Front",
+      "color": "#BD2898"
+    },
+    "gp": {
+      "name": "Peru Wins",
+      "color": "#FF0000"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#6E6E73"
+    },
+    "is": {
+      "name": "Socialist Left",
+      "color": "#FF7F50"
+    },
+    "iu": {
+      "name": "United Left",
+      "color": "#800000"
+    },
+    "jn": {
+      "name": "National Justice",
+      "color": "#0000FF"
+    },
+    "jp": {
+      "name": "Together for Peru",
+      "color": "#60BC0F"
+    },
+    "lalonso": {
+      "name": "Rodrigo Alonso list",
+      "color": "#7CB342"
+    },
+    "lgalvez": {
+      "name": "José Gálvez list",
+      "color": "#9C27B0"
+    },
+    "lgonzalez": {
+      "name": "Luis González list",
+      "color": "#F57C00"
+    },
+    "lguzman": {
+      "name": "Augusto Guzmán list",
+      "color": "#00897B"
+    },
+    "life": {
+      "name": "Former presidents (senators for life)",
+      "color": "#7D6B5D"
+    },
+    "lipa": {
+      "name": "Popular Agreement Independent List",
+      "color": "#29AB87"
+    },
+    "llozno": {
+      "name": "Juan Lozno list",
+      "color": "#81316D"
+    },
+    "lportaro": {
+      "name": "Edgardo Portaro list",
+      "color": "#8D6E63"
+    },
+    "lsologuren": {
+      "name": "Wilson Sologuren list",
+      "color": "#5C6BC0"
+    },
+    "lspelucin": {
+      "name": "Alcides Spelucín list",
+      "color": "#6D4C41"
+    },
+    "mdi": {
+      "name": "Democratic Left Movement",
+      "color": "#8B0000"
+    },
+    "mdp": {
+      "name": "Peruvian Democratic Movement (Pradists)",
+      "color": "#87CEEB"
+    },
+    "mia": {
+      "name": "Independent Agrarian Movement",
+      "color": "#DAFF61"
+    },
+    "mimoq": {
+      "name": "Moqueguano Independent Movement",
+      "color": "#BA68C8"
+    },
+    "mni": {
+      "name": "New Left Movement",
+      "color": "#B22222"
+    },
+    "morado": {
+      "name": "Purple Party",
+      "color": "#7026AB"
+    },
+    "mrloreto": {
+      "name": "Loreto Regionalist Movement",
+      "color": "#005B00"
+    },
+    "obras": {
+      "name": "Civic Party OBRAS",
+      "color": "#006100"
+    },
+    "odl": {
+      "name": "Odriist lists",
+      "color": "#E6C229"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "paccion": {
+      "name": "Peru Action",
+      "color": "#010974"
+    },
+    "pais": {
+      "name": "Project Country",
+      "color": "#C2185B"
+    },
+    "pbg": {
+      "name": "Party of Good Government",
+      "color": "#FAD60A"
+    },
+    "pdc": {
+      "name": "Christian Democrat Party",
+      "color": "#00008B"
+    },
+    "peru2000": {
+      "name": "Peru 2000",
+      "color": "#FF5800"
+    },
+    "pgente": {
+      "name": "First the People",
+      "color": "#E4E481"
+    },
+    "pl": {
+      "name": "Free Peru",
+      "color": "#C00A0A"
+    },
+    "pnp": {
+      "name": "Peruvian Nationalist Party",
+      "color": "#57DBBA"
+    },
+    "podemos": {
+      "name": "Podemos Perú",
+      "color": "#E09540"
+    },
+    "pp": {
+      "name": "Possible Peru",
+      "color": "#007244"
+    },
+    "ppa": {
+      "name": "Possible Peru Alliance",
+      "color": "#007244"
+    },
+    "ppc": {
+      "name": "Christian People's Party",
+      "color": "#14953B"
+    },
+    "ppk": {
+      "name": "Peruvians for Change",
+      "color": "#E2007A"
+    },
+    "pprimero": {
+      "name": "Peru First",
+      "color": "#815931"
+    },
+    "pps": {
+      "name": "Peru Secure Homeland",
+      "color": "#FFA500"
+    },
+    "prt": {
+      "name": "Workers' Revolutionary Party",
+      "color": "#A10000"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#816D31"
+    },
+    "psp": {
+      "name": "Socialist Party of Peru",
+      "color": "#FF0000"
+    },
+    "renac": {
+      "name": "National United Renaissance",
+      "color": "#9F8170"
+    },
+    "restau": {
+      "name": "Restoration Party",
+      "color": "#5D4E9A"
+    },
+    "rn": {
+      "name": "Renewal Movement",
+      "color": "#0047AB"
+    },
+    "rnac": {
+      "name": "National Restoration",
+      "color": "#9370DB"
+    },
+    "rp": {
+      "name": "Popular Renewal",
+      "color": "#07769F"
+    },
+    "sicreo": {
+      "name": "SíCreo",
+      "color": "#CF2B47"
+    },
+    "sn": {
+      "name": "National Solidarity",
+      "color": "#FFEE00"
+    },
+    "sna": {
+      "name": "National Solidarity Alliance",
+      "color": "#FFEE00"
+    },
+    "sode": {
+      "name": "Solidarity and Democracy",
+      "color": "#52D8DD"
+    },
+    "solpop": {
+      "name": "People's Solution",
+      "color": "#6082B6"
+    },
+    "somos": {
+      "name": "We Are Peru",
+      "color": "#813159"
+    },
+    "tpv": {
+      "name": "All for Victory",
+      "color": "#FFCC33"
+    },
+    "uci": {
+      "name": "Independent Civic Union",
+      "color": "#78909C"
+    },
+    "ucuz": {
+      "name": "Cuzqueñista Union",
+      "color": "#AFB42B"
+    },
+    "udp": {
+      "name": "Popular Democratic Unity",
+      "color": "#DC143C"
+    },
+    "un": {
+      "name": "National Unity",
+      "color": "#008000"
+    },
+    "undc": {
+      "name": "National Unity–Democratic Concordance",
+      "color": "#8C6D46"
+    },
+    "unif": {
+      "name": "National Unification",
+      "color": "#B5651D"
+    },
+    "unir": {
+      "name": "Revolutionary Left Union",
+      "color": "#49B848"
+    },
+    "uno": {
+      "name": "Odriist National Union",
+      "color": "#FFFF00"
+    },
+    "upop": {
+      "name": "Popular Union",
+      "color": "#A1887F"
+    },
+    "upp": {
+      "name": "Union for Peru",
+      "color": "#D590D5"
+    },
+    "upp62": {
+      "name": "Puneñista Parliamentary Union",
+      "color": "#FFB74D"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "vamos": {
+      "name": "Let's Go Peru",
+      "color": "#FA8072"
+    },
+    "venceremos": {
+      "name": "Venceremos",
+      "color": "#A71C21"
+    },
+    "vn": {
+      "name": "National Victory",
+      "color": "#EE204E"
+    }
+  },
+  "elections": [
+    {
+      "id": "pe-president-2026",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2026-04-13",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 72.03,
+      "system": "Two-round popular vote, five-year term",
+      "cite": {
+        "name": "the National Office of Electoral Processes (ONPE)",
+        "url": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election"
+      },
+      "candidates": [
+        {
+          "name": "Keiko Fujimori",
+          "party": "fp",
+          "votes": 9223396,
+          "pct": 50.13,
+          "winner": true
+        },
+        {
+          "name": "Roberto Sánchez",
+          "party": "jp",
+          "votes": 9173755,
+          "pct": 49.87
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2026-04-13",
+          "candidates": [
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 2877678,
+              "pct": 17.19
+            },
+            {
+              "name": "Roberto Sánchez",
+              "party": "jp",
+              "votes": 2015114,
+              "pct": 12.04
+            },
+            {
+              "name": "Rafael López Aliaga",
+              "party": "rp",
+              "votes": 1993905,
+              "pct": 11.91
+            },
+            {
+              "name": "Jorge Nieto",
+              "party": "pbg",
+              "votes": 1837517,
+              "pct": 10.98
+            },
+            {
+              "name": "Ricardo Belmont",
+              "party": "obras",
+              "votes": 1698903,
+              "pct": 10.15
+            },
+            {
+              "name": "Carlos Álvarez",
+              "party": "cpt",
+              "votes": 1326717,
+              "pct": 7.93
+            },
+            {
+              "name": "Alfonso López Chau",
+              "party": "an",
+              "votes": 1221272,
+              "pct": 7.3
+            },
+            {
+              "name": "Marisol Pérez Tello",
+              "party": "pgente",
+              "votes": 571170,
+              "pct": 3.41
+            },
+            {
+              "name": "Carlos Espá",
+              "party": "sicreo",
+              "votes": 560792,
+              "pct": 3.35
+            },
+            {
+              "name": "Fernando Olivera",
+              "party": "fe2021",
+              "votes": 307880,
+              "pct": 1.84
+            },
+            {
+              "name": "José Luna",
+              "party": "podemos",
+              "votes": 266768,
+              "pct": 1.59
+            },
+            {
+              "name": "Yonhy Lescano",
+              "party": "coop",
+              "votes": 214779,
+              "pct": 1.28
+            },
+            {
+              "name": "César Acuña",
+              "party": "app",
+              "votes": 192516,
+              "pct": 1.15
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 1653028,
+              "pct": 9.88
+            }
+          ],
+          "regions": [
+            {"name":"Amazonas","abbr":"AMA","winner":"fp","margin":11.4,"turnout":72.2,"votes":709590,"results":[{"party":"fp","pct":34.9,"votes":247647},{"party":"jp","pct":23.5,"votes":166754},{"party":"rp","pct":17.9,"votes":127017},{"party":"pbg","pct":13.7,"votes":97214},{"party":"obras","pct":10,"votes":70959}]},
+            {"name":"Áncash","abbr":"ANC","winner":"fp","margin":9.9,"turnout":77.9,"votes":733030,"results":[{"party":"fp","pct":33.1,"votes":242633},{"party":"jp","pct":23.2,"votes":170063},{"party":"rp","pct":17.9,"votes":131212},{"party":"obras","pct":15,"votes":109955},{"party":"pbg","pct":10.8,"votes":79167}]},
+            {"name":"Apurímac","abbr":"APU","winner":"fp","margin":15.2,"turnout":72.1,"votes":667978,"results":[{"party":"fp","pct":36.5,"votes":243812},{"party":"jp","pct":21.3,"votes":142279},{"party":"rp","pct":17.9,"votes":119568},{"party":"obras","pct":13.2,"votes":88173},{"party":"pbg","pct":11.1,"votes":74146}]},
+            {"name":"Arequipa","abbr":"ARE","winner":"fp","margin":9.7,"turnout":66.4,"votes":576398,"results":[{"party":"fp","pct":32.7,"votes":188482},{"party":"rp","pct":23,"votes":132572},{"party":"obras","pct":16,"votes":92224},{"party":"jp","pct":14.2,"votes":81849},{"party":"pbg","pct":14.1,"votes":81272}]},
+            {"name":"Ayacucho","abbr":"AYA","winner":"fp","margin":2.9,"turnout":66.2,"votes":601426,"results":[{"party":"fp","pct":26.5,"votes":159378},{"party":"pbg","pct":23.6,"votes":141937},{"party":"obras","pct":19.5,"votes":117278},{"party":"jp","pct":17.2,"votes":103445},{"party":"rp","pct":13.2,"votes":79388}]},
+            {"name":"Cajamarca","abbr":"CAJ","winner":"fp","margin":3.2,"turnout":65.3,"votes":729171,"results":[{"party":"fp","pct":25.3,"votes":184480},{"party":"rp","pct":22.1,"votes":161147},{"party":"jp","pct":20.2,"votes":147293},{"party":"pbg","pct":19.3,"votes":140730},{"party":"obras","pct":13.2,"votes":96251}]},
+            {"name":"Callao","abbr":"CAL","winner":"obras","margin":2,"turnout":65.6,"votes":537563,"results":[{"party":"obras","pct":25.3,"votes":136003},{"party":"fp","pct":23.3,"votes":125252},{"party":"pbg","pct":22.9,"votes":123102},{"party":"jp","pct":16.2,"votes":87085},{"party":"rp","pct":12.3,"votes":66120}]},
+            {"name":"Cusco","abbr":"CUS","winner":"pbg","margin":0.2,"turnout":67.5,"votes":581379,"results":[{"party":"pbg","pct":28.9,"votes":168019},{"party":"fp","pct":28.7,"votes":166856},{"party":"rp","pct":15.6,"votes":90695},{"party":"jp","pct":14,"votes":81393},{"party":"obras","pct":12.8,"votes":74417}]},
+            {"name":"Huancavelica","abbr":"HUV","winner":"fp","margin":8.6,"turnout":73.7,"votes":768457,"results":[{"party":"fp","pct":30.1,"votes":231306},{"party":"rp","pct":21.5,"votes":165218},{"party":"pbg","pct":17.2,"votes":132175},{"party":"obras","pct":15.9,"votes":122185},{"party":"jp","pct":15.3,"votes":117574}]},
+            {"name":"Huánuco","abbr":"HUC","winner":"fp","margin":1.8,"turnout":76.9,"votes":534291,"results":[{"party":"fp","pct":28.8,"votes":153876},{"party":"obras","pct":27,"votes":144259},{"party":"pbg","pct":18.5,"votes":98844},{"party":"jp","pct":14.5,"votes":77472},{"party":"rp","pct":11.3,"votes":60375}]},
+            {"name":"Ica","abbr":"ICA","winner":"pbg","margin":6.4,"turnout":72.9,"votes":698164,"results":[{"party":"pbg","pct":29.5,"votes":205958},{"party":"rp","pct":23.1,"votes":161276},{"party":"fp","pct":19.3,"votes":134746},{"party":"obras","pct":15,"votes":104725},{"party":"jp","pct":13.1,"votes":91459}]},
+            {"name":"Junín","abbr":"JUN","winner":"obras","margin":0.6,"turnout":72.9,"votes":524016,"results":[{"party":"obras","pct":26.4,"votes":138340},{"party":"pbg","pct":25.8,"votes":135196},{"party":"fp","pct":23.6,"votes":123668},{"party":"rp","pct":12.3,"votes":64454},{"party":"jp","pct":11.9,"votes":62358}]},
+            {"name":"La Libertad","abbr":"LAL","winner":"fp","margin":3.4,"turnout":65.5,"votes":732010,"results":[{"party":"fp","pct":29.2,"votes":213747},{"party":"jp","pct":25.8,"votes":188859},{"party":"rp","pct":17.9,"votes":131030},{"party":"pbg","pct":17.4,"votes":127370},{"party":"obras","pct":9.7,"votes":71005}]},
+            {"name":"Lambayeque","abbr":"LAM","winner":"fp","margin":12.9,"turnout":72,"votes":638280,"results":[{"party":"fp","pct":33.7,"votes":215100},{"party":"pbg","pct":20.8,"votes":132762},{"party":"jp","pct":18.3,"votes":116805},{"party":"rp","pct":17.5,"votes":111699},{"party":"obras","pct":9.7,"votes":61913}]},
+            {"name":"Lima","abbr":"LIM","winner":"fp","margin":4.9,"turnout":77.5,"votes":705198,"results":[{"party":"fp","pct":29.1,"votes":205213},{"party":"rp","pct":24.2,"votes":170658},{"party":"jp","pct":21.2,"votes":149502},{"party":"pbg","pct":13.8,"votes":97317},{"party":"obras","pct":11.7,"votes":82508}]},
+            {"name":"Lima Metropolitan","abbr":"LMA","winner":"fp","margin":29.4,"turnout":77.4,"votes":702576,"results":[{"party":"fp","pct":45.4,"votes":318970},{"party":"pbg","pct":16,"votes":112412},{"party":"jp","pct":14.1,"votes":99063},{"party":"obras","pct":12.8,"votes":89930},{"party":"rp","pct":11.8,"votes":82904}]},
+            {"name":"Loreto","abbr":"LOR","winner":"rp","margin":1.9,"turnout":70,"votes":614215,"results":[{"party":"rp","pct":25.2,"votes":154782},{"party":"fp","pct":23.3,"votes":143112},{"party":"pbg","pct":19.5,"votes":119772},{"party":"obras","pct":17.7,"votes":108716},{"party":"jp","pct":14.4,"votes":88447}]},
+            {"name":"Madre de Dios","abbr":"MDD","winner":"fp","margin":9,"turnout":65.3,"votes":604802,"results":[{"party":"fp","pct":29.4,"votes":177812},{"party":"jp","pct":20.4,"votes":123380},{"party":"rp","pct":19.5,"votes":117936},{"party":"pbg","pct":17.2,"votes":104026},{"party":"obras","pct":13.6,"votes":82253}]},
+            {"name":"Moquegua","abbr":"MOQ","winner":"fp","margin":6.7,"turnout":69.8,"votes":591737,"results":[{"party":"fp","pct":30.1,"votes":178113},{"party":"jp","pct":23.4,"votes":138466},{"party":"rp","pct":23.4,"votes":138466},{"party":"obras","pct":14.9,"votes":88169},{"party":"pbg","pct":8.2,"votes":48522}]},
+            {"name":"Pasco","abbr":"PAS","winner":"fp","margin":18.2,"turnout":73.1,"votes":661887,"results":[{"party":"fp","pct":39.7,"votes":262769},{"party":"rp","pct":21.5,"votes":142306},{"party":"obras","pct":13.5,"votes":89355},{"party":"jp","pct":13.1,"votes":86707},{"party":"pbg","pct":12,"votes":79426}]},
+            {"name":"Piura","abbr":"PIU","winner":"rp","margin":6.7,"turnout":70.7,"votes":749834,"results":[{"party":"rp","pct":27.8,"votes":208454},{"party":"pbg","pct":21.1,"votes":158215},{"party":"fp","pct":21,"votes":157465},{"party":"jp","pct":16.2,"votes":121473},{"party":"obras","pct":13.9,"votes":104227}]},
+            {"name":"Puno","abbr":"PUN","winner":"rp","margin":1.1,"turnout":73,"votes":756168,"results":[{"party":"rp","pct":22.7,"votes":171650},{"party":"jp","pct":21.6,"votes":163332},{"party":"pbg","pct":20.7,"votes":156527},{"party":"fp","pct":19.6,"votes":148209},{"party":"obras","pct":15.4,"votes":116450}]},
+            {"name":"San Martín","abbr":"SAM","winner":"fp","margin":6,"turnout":73,"votes":743585,"results":[{"party":"fp","pct":28.2,"votes":209691},{"party":"rp","pct":22.2,"votes":165076},{"party":"pbg","pct":20.7,"votes":153922},{"party":"jp","pct":14.9,"votes":110794},{"party":"obras","pct":14,"votes":104102}]},
+            {"name":"Tacna","abbr":"TAC","winner":"fp","margin":10.6,"turnout":66.9,"votes":714983,"results":[{"party":"fp","pct":32.8,"votes":234514},{"party":"pbg","pct":22.2,"votes":158726},{"party":"obras","pct":19.7,"votes":140852},{"party":"rp","pct":12.7,"votes":90803},{"party":"jp","pct":12.6,"votes":90088}]},
+            {"name":"Tumbes","abbr":"TUM","winner":"jp","margin":2.2,"turnout":73.6,"votes":619033,"results":[{"party":"jp","pct":24,"votes":148568},{"party":"fp","pct":21.8,"votes":134949},{"party":"obras","pct":20.4,"votes":126283},{"party":"pbg","pct":20.3,"votes":125664},{"party":"rp","pct":13.5,"votes":83569}]},
+            {"name":"Ucayali","abbr":"UCA","winner":"rp","margin":2.8,"turnout":73.9,"votes":701079,"results":[{"party":"rp","pct":30.3,"votes":212427},{"party":"fp","pct":27.5,"votes":192797},{"party":"jp","pct":15.8,"votes":110770},{"party":"obras","pct":13.4,"votes":93945},{"party":"pbg","pct":13.1,"votes":91841}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2026-06-07",
+          "candidates": [
+            {
+              "name": "Keiko Fujimori",
+              "party": "fp",
+              "votes": 9223396,
+              "pct": 50.13,
+              "winner": true
+            },
+            {
+              "name": "Roberto Sánchez",
+              "party": "jp",
+              "votes": 9173755,
+              "pct": 49.87
+            }
+          ],
+          "regions": [
+            {"name":"Amazonas","abbr":"AMA","winner":"jp","margin":15,"turnout":70.9,"votes":772168,"results":[{"party":"jp","pct":57.5,"votes":443997},{"party":"fp","pct":42.5,"votes":328171}]},
+            {"name":"Áncash","abbr":"ANC","winner":"jp","margin":20.6,"turnout":72.1,"votes":686010,"results":[{"party":"jp","pct":60.3,"votes":413664},{"party":"fp","pct":39.7,"votes":272346}]},
+            {"name":"Apurímac","abbr":"APU","winner":"jp","margin":14.8,"turnout":66.3,"votes":831353,"results":[{"party":"jp","pct":57.4,"votes":477197},{"party":"fp","pct":42.6,"votes":354156}]},
+            {"name":"Arequipa","abbr":"ARE","winner":"jp","margin":30.8,"turnout":66.5,"votes":842554,"results":[{"party":"jp","pct":65.4,"votes":551030},{"party":"fp","pct":34.6,"votes":291524}]},
+            {"name":"Ayacucho","abbr":"AYA","winner":"jp","margin":7,"turnout":77.5,"votes":588119,"results":[{"party":"jp","pct":53.5,"votes":314644},{"party":"fp","pct":46.5,"votes":273475}]},
+            {"name":"Cajamarca","abbr":"CAJ","winner":"jp","margin":10,"turnout":67.7,"votes":786589,"results":[{"party":"jp","pct":55,"votes":432624},{"party":"fp","pct":45,"votes":353965}]},
+            {"name":"Callao","abbr":"CAL","winner":"fp","margin":9.6,"turnout":72.4,"votes":799308,"results":[{"party":"fp","pct":54.8,"votes":438021},{"party":"jp","pct":45.2,"votes":361287}]},
+            {"name":"Cusco","abbr":"CUS","winner":"jp","margin":6,"turnout":76.4,"votes":701322,"results":[{"party":"jp","pct":53,"votes":371701},{"party":"fp","pct":47,"votes":329621}]},
+            {"name":"Huancavelica","abbr":"HUV","winner":"jp","margin":2.8,"turnout":71.2,"votes":722276,"results":[{"party":"jp","pct":51.4,"votes":371250},{"party":"fp","pct":48.6,"votes":351026}]},
+            {"name":"Huánuco","abbr":"HUC","winner":"jp","margin":33.2,"turnout":73.4,"votes":708870,"results":[{"party":"jp","pct":66.6,"votes":472107},{"party":"fp","pct":33.4,"votes":236763}]},
+            {"name":"Ica","abbr":"ICA","winner":"fp","margin":19.2,"turnout":70.9,"votes":823170,"results":[{"party":"fp","pct":59.6,"votes":490609},{"party":"jp","pct":40.4,"votes":332561}]},
+            {"name":"Junín","abbr":"JUN","winner":"jp","margin":23.4,"turnout":72.9,"votes":688238,"results":[{"party":"jp","pct":61.7,"votes":424643},{"party":"fp","pct":38.3,"votes":263595}]},
+            {"name":"La Libertad","abbr":"LAL","winner":"fp","margin":15,"turnout":75.8,"votes":575668,"results":[{"party":"fp","pct":57.5,"votes":331009},{"party":"jp","pct":42.5,"votes":244659}]},
+            {"name":"Lambayeque","abbr":"LAM","winner":"fp","margin":2.4,"turnout":65.9,"votes":803113,"results":[{"party":"fp","pct":51.2,"votes":411194},{"party":"jp","pct":48.8,"votes":391919}]},
+            {"name":"Lima","abbr":"LIM","winner":"jp","margin":3.2,"turnout":73.4,"votes":753883,"results":[{"party":"jp","pct":51.6,"votes":389004},{"party":"fp","pct":48.4,"votes":364879}]},
+            {"name":"Lima Metropolitan","abbr":"LMA","winner":"jp","margin":4.6,"turnout":70.2,"votes":708670,"results":[{"party":"jp","pct":52.3,"votes":370634},{"party":"fp","pct":47.7,"votes":338036}]},
+            {"name":"Loreto","abbr":"LOR","winner":"fp","margin":32.8,"turnout":76.1,"votes":671469,"results":[{"party":"fp","pct":66.4,"votes":445855},{"party":"jp","pct":33.6,"votes":225614}]},
+            {"name":"Madre de Dios","abbr":"MDD","winner":"jp","margin":20.4,"turnout":76.9,"votes":779044,"results":[{"party":"jp","pct":60.2,"votes":468984},{"party":"fp","pct":39.8,"votes":310060}]},
+            {"name":"Moquegua","abbr":"MOQ","winner":"jp","margin":18.4,"turnout":65.2,"votes":745582,"results":[{"party":"jp","pct":59.2,"votes":441385},{"party":"fp","pct":40.8,"votes":304197}]},
+            {"name":"Pasco","abbr":"PAS","winner":"jp","margin":2.8,"turnout":75.6,"votes":830992,"results":[{"party":"jp","pct":51.4,"votes":427130},{"party":"fp","pct":48.6,"votes":403862}]},
+            {"name":"Piura","abbr":"PIU","winner":"fp","margin":28.4,"turnout":77.8,"votes":676941,"results":[{"party":"fp","pct":64.2,"votes":434596},{"party":"jp","pct":35.8,"votes":242345}]},
+            {"name":"Puno","abbr":"PUN","winner":"jp","margin":19.2,"turnout":77.9,"votes":776243,"results":[{"party":"jp","pct":59.6,"votes":462641},{"party":"fp","pct":40.4,"votes":313602}]},
+            {"name":"San Martín","abbr":"SAM","winner":"jp","margin":3.2,"turnout":71.6,"votes":724330,"results":[{"party":"jp","pct":51.6,"votes":373754},{"party":"fp","pct":48.4,"votes":350576}]},
+            {"name":"Tacna","abbr":"TAC","winner":"jp","margin":3,"turnout":66.9,"votes":624742,"results":[{"party":"jp","pct":51.5,"votes":321742},{"party":"fp","pct":48.5,"votes":303000}]},
+            {"name":"Tumbes","abbr":"TUM","winner":"fp","margin":13.8,"turnout":66.8,"votes":637172,"results":[{"party":"fp","pct":56.9,"votes":362551},{"party":"jp","pct":43.1,"votes":274621}]},
+            {"name":"Ucayali","abbr":"UCA","winner":"fp","margin":24.8,"turnout":68.7,"votes":699625,"results":[{"party":"fp","pct":62.4,"votes":436566},{"party":"jp","pct":37.6,"votes":263059}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe-senate-2026",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2026-04-13",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 73.9,
+      "system": "60 seats",
+      "totalSeats": 60,
+      "majority": 31,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the National Office of Electoral Processes (ONPE)",
+        "url": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election"
+      },
+      "note": "Senate restored; first election since 1990",
+      "candidates": [
+        {
+          "name": "Popular Force",
+          "party": "fp",
+          "votes": 2227962,
+          "pct": 15.06,
+          "seats": 22,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Together for Peru",
+          "party": "jp",
+          "votes": 1808783,
+          "pct": 12.23,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Popular Renewal",
+          "party": "rp",
+          "votes": 1633110,
+          "pct": 11.04,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Party of Good Government",
+          "party": "pbg",
+          "votes": 1549920,
+          "pct": 10.48,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Civic Party OBRAS",
+          "party": "obras",
+          "votes": 1307340,
+          "pct": 8.84,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Ahora Nación",
+          "party": "an",
+          "votes": 1210147,
+          "pct": 8.18,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Country for All",
+          "party": "cpt",
+          "votes": 859371,
+          "pct": 5.81,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "First the People",
+          "party": "pgente",
+          "votes": 524212,
+          "pct": 3.54,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "SíCreo Party",
+          "party": "sicreo",
+          "votes": 405601,
+          "pct": 2.74,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Alliance for Progress",
+          "party": "app",
+          "votes": 392855,
+          "pct": 2.66,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Podemos Perú",
+          "party": "podemos",
+          "votes": 330893,
+          "pct": 2.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peruvian Aprista Party",
+          "party": "apra",
+          "votes": 253499,
+          "pct": 1.71,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Front of Hope 2021",
+          "party": "fe2021",
+          "votes": 244112,
+          "pct": 1.65,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 231172,
+          "pct": 1.56,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "We Are Peru",
+          "party": "somos",
+          "votes": 201460,
+          "pct": 1.36,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Popular Cooperation",
+          "party": "coop",
+          "votes": 165841,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peru First",
+          "party": "pprimero",
+          "votes": 154881,
+          "pct": 1.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1294082,
+          "pct": 8.75,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Amazonas","abbr":"AMA","winner":"rp","margin":4.5,"turnout":73.2,"votes":569526,"results":[{"party":"rp","pct":25,"votes":142382},{"party":"jp","pct":20.5,"votes":116753},{"party":"fp","pct":19.8,"votes":112766},{"party":"pbg","pct":17.7,"votes":100806},{"party":"obras","pct":17.1,"votes":97389}]},
+        {"name":"Áncash","abbr":"ANC","winner":"jp","margin":2.9,"turnout":71.4,"votes":482903,"results":[{"party":"jp","pct":30.3,"votes":146320},{"party":"fp","pct":27.4,"votes":132315},{"party":"rp","pct":15.7,"votes":75816},{"party":"pbg","pct":13.8,"votes":66641},{"party":"obras","pct":12.9,"votes":62294}]},
+        {"name":"Apurímac","abbr":"APU","winner":"jp","margin":11.3,"turnout":71.9,"votes":669361,"results":[{"party":"jp","pct":31.1,"votes":208171},{"party":"fp","pct":19.8,"votes":132533},{"party":"pbg","pct":18.8,"votes":125840},{"party":"rp","pct":17.9,"votes":119816},{"party":"obras","pct":12.5,"votes":83670}]},
+        {"name":"Arequipa","abbr":"ARE","winner":"jp","margin":8.4,"turnout":68.8,"votes":513876,"results":[{"party":"jp","pct":28.3,"votes":145427},{"party":"fp","pct":19.9,"votes":102261},{"party":"obras","pct":18.5,"votes":95067},{"party":"pbg","pct":18.1,"votes":93012},{"party":"rp","pct":15.1,"votes":77595}]},
+        {"name":"Ayacucho","abbr":"AYA","winner":"jp","margin":1.4,"turnout":67.9,"votes":563760,"results":[{"party":"jp","pct":27.6,"votes":155598},{"party":"rp","pct":26.2,"votes":147705},{"party":"obras","pct":21.5,"votes":121208},{"party":"fp","pct":13.4,"votes":75544},{"party":"pbg","pct":11.2,"votes":63141}]},
+        {"name":"Cajamarca","abbr":"CAJ","winner":"fp","margin":4.4,"turnout":80.6,"votes":560023,"results":[{"party":"fp","pct":28,"votes":156806},{"party":"rp","pct":23.6,"votes":132165},{"party":"pbg","pct":19.3,"votes":108084},{"party":"obras","pct":15.5,"votes":86804},{"party":"jp","pct":13.6,"votes":76163}]},
+        {"name":"Callao","abbr":"CAL","winner":"jp","margin":0.2,"turnout":77.4,"votes":473077,"results":[{"party":"jp","pct":22.9,"votes":108335},{"party":"fp","pct":22.7,"votes":107388},{"party":"rp","pct":19.1,"votes":90358},{"party":"pbg","pct":19,"votes":89885},{"party":"obras","pct":16.3,"votes":77112}]},
+        {"name":"Cusco","abbr":"CUS","winner":"jp","margin":7.1,"turnout":70.5,"votes":587877,"results":[{"party":"jp","pct":29.2,"votes":171660},{"party":"rp","pct":22.1,"votes":129921},{"party":"pbg","pct":22,"votes":129333},{"party":"fp","pct":14.7,"votes":86418},{"party":"obras","pct":12,"votes":70545}]},
+        {"name":"Huancavelica","abbr":"HUV","winner":"fp","margin":5,"turnout":75.8,"votes":581229,"results":[{"party":"fp","pct":30.8,"votes":179019},{"party":"jp","pct":25.8,"votes":149957},{"party":"rp","pct":17,"votes":98809},{"party":"pbg","pct":15,"votes":87184},{"party":"obras","pct":11.4,"votes":66260}]},
+        {"name":"Huánuco","abbr":"HUC","winner":"fp","margin":13.7,"turnout":74.6,"votes":590243,"results":[{"party":"fp","pct":37.6,"votes":221931},{"party":"rp","pct":23.9,"votes":141068},{"party":"jp","pct":16.3,"votes":96210},{"party":"pbg","pct":12.3,"votes":72600},{"party":"obras","pct":9.8,"votes":57844}]},
+        {"name":"Ica","abbr":"ICA","winner":"pbg","margin":4.5,"turnout":77.1,"votes":534226,"results":[{"party":"pbg","pct":25.3,"votes":135159},{"party":"rp","pct":20.8,"votes":111119},{"party":"jp","pct":20.7,"votes":110585},{"party":"obras","pct":17.8,"votes":95092},{"party":"fp","pct":15.4,"votes":82271}]},
+        {"name":"Junín","abbr":"JUN","winner":"jp","margin":1.5,"turnout":78.9,"votes":681237,"results":[{"party":"jp","pct":24.7,"votes":168266},{"party":"fp","pct":23.2,"votes":158047},{"party":"rp","pct":22.8,"votes":155322},{"party":"obras","pct":15.7,"votes":106954},{"party":"pbg","pct":13.7,"votes":93329}]},
+        {"name":"La Libertad","abbr":"LAL","winner":"jp","margin":4.3,"turnout":70.9,"votes":612006,"results":[{"party":"jp","pct":26,"votes":159122},{"party":"fp","pct":21.7,"votes":132805},{"party":"pbg","pct":19.9,"votes":121789},{"party":"rp","pct":19.2,"votes":117505},{"party":"obras","pct":13.3,"votes":81397}]},
+        {"name":"Lambayeque","abbr":"LAM","winner":"fp","margin":31,"turnout":80.5,"votes":585010,"results":[{"party":"fp","pct":45.3,"votes":265010},{"party":"pbg","pct":14.3,"votes":83656},{"party":"jp","pct":14.1,"votes":82486},{"party":"rp","pct":13.9,"votes":81316},{"party":"obras","pct":12.4,"votes":72541}]},
+        {"name":"Lima","abbr":"LIM","winner":"fp","margin":12.1,"turnout":75.9,"votes":596517,"results":[{"party":"fp","pct":37,"votes":220711},{"party":"pbg","pct":24.9,"votes":148533},{"party":"jp","pct":14.9,"votes":88881},{"party":"obras","pct":11.7,"votes":69792},{"party":"rp","pct":11.5,"votes":68599}]},
+        {"name":"Lima Metropolitan","abbr":"LMA","winner":"fp","margin":18.6,"turnout":77.8,"votes":535747,"results":[{"party":"fp","pct":39,"votes":208941},{"party":"jp","pct":20.4,"votes":109292},{"party":"rp","pct":19.9,"votes":106614},{"party":"pbg","pct":11.3,"votes":60539},{"party":"obras","pct":9.4,"votes":50360}]},
+        {"name":"Loreto","abbr":"LOR","winner":"jp","margin":0.3,"turnout":75.3,"votes":545502,"results":[{"party":"jp","pct":23.4,"votes":127647},{"party":"fp","pct":23.1,"votes":126011},{"party":"rp","pct":22.5,"votes":122738},{"party":"pbg","pct":17.9,"votes":97645},{"party":"obras","pct":13.1,"votes":71461}]},
+        {"name":"Madre de Dios","abbr":"MDD","winner":"rp","margin":5.3,"turnout":76.7,"votes":625138,"results":[{"party":"rp","pct":26.8,"votes":167537},{"party":"fp","pct":21.5,"votes":134405},{"party":"jp","pct":19.9,"votes":124402},{"party":"obras","pct":17,"votes":106273},{"party":"pbg","pct":14.7,"votes":91895}]},
+        {"name":"Moquegua","abbr":"MOQ","winner":"fp","margin":6.1,"turnout":79.1,"votes":523465,"results":[{"party":"fp","pct":33.3,"votes":174314},{"party":"rp","pct":27.2,"votes":142382},{"party":"obras","pct":17.3,"votes":90559},{"party":"jp","pct":12.5,"votes":65433},{"party":"pbg","pct":9.7,"votes":50776}]},
+        {"name":"Pasco","abbr":"PAS","winner":"fp","margin":19.9,"turnout":73,"votes":599925,"results":[{"party":"fp","pct":37.9,"votes":227372},{"party":"jp","pct":18,"votes":107987},{"party":"rp","pct":17.2,"votes":103187},{"party":"obras","pct":14.1,"votes":84589},{"party":"pbg","pct":12.8,"votes":76790}]},
+        {"name":"Piura","abbr":"PIU","winner":"fp","margin":8.2,"turnout":76.4,"votes":540969,"results":[{"party":"fp","pct":29.8,"votes":161209},{"party":"rp","pct":21.6,"votes":116849},{"party":"obras","pct":16.9,"votes":91424},{"party":"pbg","pct":16.4,"votes":88719},{"party":"jp","pct":15.3,"votes":82768}]},
+        {"name":"Puno","abbr":"PUN","winner":"jp","margin":2,"turnout":74.2,"votes":611071,"results":[{"party":"jp","pct":28.5,"votes":174155},{"party":"obras","pct":26.5,"votes":161934},{"party":"fp","pct":15.9,"votes":97160},{"party":"pbg","pct":15.6,"votes":95327},{"party":"rp","pct":13.4,"votes":81884}]},
+        {"name":"San Martín","abbr":"SAM","winner":"fp","margin":3.2,"turnout":78.5,"votes":619303,"results":[{"party":"fp","pct":25.2,"votes":156064},{"party":"pbg","pct":22,"votes":136247},{"party":"obras","pct":21.2,"votes":131292},{"party":"rp","pct":20.5,"votes":126957},{"party":"jp","pct":11.1,"votes":68743}]},
+        {"name":"Tacna","abbr":"TAC","winner":"fp","margin":3.3,"turnout":68.5,"votes":485985,"results":[{"party":"fp","pct":27.5,"votes":133646},{"party":"jp","pct":24.2,"votes":117608},{"party":"rp","pct":19.7,"votes":95739},{"party":"pbg","pct":19.5,"votes":94767},{"party":"obras","pct":9.1,"votes":44225}]},
+        {"name":"Tumbes","abbr":"TUM","winner":"rp","margin":7.3,"turnout":74,"votes":611676,"results":[{"party":"rp","pct":26.8,"votes":163929},{"party":"jp","pct":19.5,"votes":119277},{"party":"fp","pct":18.7,"votes":114383},{"party":"pbg","pct":17.6,"votes":107655},{"party":"obras","pct":17.4,"votes":106432}]},
+        {"name":"Ucayali","abbr":"UCA","winner":"jp","margin":3.4,"turnout":71.3,"votes":561818,"results":[{"party":"jp","pct":24.9,"votes":139893},{"party":"fp","pct":21.5,"votes":120791},{"party":"rp","pct":21.4,"votes":120229},{"party":"obras","pct":21.2,"votes":119105},{"party":"pbg","pct":11,"votes":61800}]}
+      ]
+    },
+    {
+      "id": "pe-chamber-of-deputies-2026",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2026-04-13",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 73.89,
+      "system": "130 seats, list proportional",
+      "totalSeats": 130,
+      "majority": 66,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the National Office of Electoral Processes (ONPE)",
+        "url": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election"
+      },
+      "candidates": [
+        {
+          "name": "Popular Force",
+          "party": "fp",
+          "votes": 2114389,
+          "pct": 14.66,
+          "seats": 41,
+          "change": 17,
+          "winner": true
+        },
+        {
+          "name": "Together for Peru",
+          "party": "jp",
+          "votes": 1553154,
+          "pct": 10.77,
+          "seats": 32,
+          "change": 27
+        },
+        {
+          "name": "Party of Good Government",
+          "party": "pbg",
+          "votes": 1509987,
+          "pct": 10.47,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Popular Renewal",
+          "party": "rp",
+          "votes": 1593041,
+          "pct": 11.04,
+          "seats": 15,
+          "change": 2
+        },
+        {
+          "name": "Civic Party OBRAS",
+          "party": "obras",
+          "votes": 1199888,
+          "pct": 8.32,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Ahora Nación",
+          "party": "an",
+          "votes": 1224556,
+          "pct": 8.49,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Country for All",
+          "party": "cpt",
+          "votes": 838901,
+          "pct": 5.82,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "First the People",
+          "party": "pgente",
+          "votes": 434740,
+          "pct": 3.01,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Alliance for Progress",
+          "party": "app",
+          "votes": 401468,
+          "pct": 2.78,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Podemos Perú",
+          "party": "podemos",
+          "votes": 379812,
+          "pct": 2.63,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "We Are Peru",
+          "party": "somos",
+          "votes": 308218,
+          "pct": 2.14,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Agricultural People's Front of Peru",
+          "party": "frepap",
+          "votes": 272759,
+          "pct": 1.89,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Peruvian Aprista Party",
+          "party": "apra",
+          "votes": 268803,
+          "pct": 1.86,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "SíCreo Party",
+          "party": "sicreo",
+          "votes": 244781,
+          "pct": 1.7,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Front of Hope 2021",
+          "party": "fe2021",
+          "votes": 241274,
+          "pct": 1.67,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Peru First",
+          "party": "pprimero",
+          "votes": 197520,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Popular Cooperation",
+          "party": "coop",
+          "votes": 163734,
+          "pct": 1.13,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Venceremos",
+          "party": "venceremos",
+          "votes": 162492,
+          "pct": 1.13,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Free Peru",
+          "party": "pl",
+          "votes": 138137,
+          "pct": 0.96,
+          "seats": 0,
+          "change": -37
+        },
+        {
+          "name": "Avanza País",
+          "party": "avp",
+          "votes": 120160,
+          "pct": 0.83,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1058644,
+          "pct": 7.34,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Amazonas","abbr":"AMA","winner":"fp","margin":8.1,"turnout":76.9,"votes":566969,"results":[{"party":"fp","pct":29.7,"votes":168390},{"party":"pbg","pct":21.6,"votes":122465},{"party":"jp","pct":18.2,"votes":103188},{"party":"an","pct":16.6,"votes":94117},{"party":"rp","pct":13.9,"votes":78809}]},
+        {"name":"Áncash","abbr":"ANC","winner":"fp","margin":8.1,"turnout":67.4,"votes":655963,"results":[{"party":"fp","pct":30.5,"votes":200069},{"party":"pbg","pct":22.4,"votes":146936},{"party":"jp","pct":22.2,"votes":145624},{"party":"an","pct":14.9,"votes":97738},{"party":"rp","pct":9.9,"votes":64940}]},
+        {"name":"Apurímac","abbr":"APU","winner":"pbg","margin":4.3,"turnout":66.9,"votes":568734,"results":[{"party":"pbg","pct":25.3,"votes":143890},{"party":"an","pct":21,"votes":119434},{"party":"fp","pct":19.4,"votes":110334},{"party":"rp","pct":18,"votes":102372},{"party":"jp","pct":16.4,"votes":93272}]},
+        {"name":"Arequipa","abbr":"ARE","winner":"fp","margin":5.1,"turnout":76.6,"votes":478598,"results":[{"party":"fp","pct":28.7,"votes":137358},{"party":"pbg","pct":23.6,"votes":112949},{"party":"an","pct":19.8,"votes":94762},{"party":"jp","pct":16.5,"votes":78969},{"party":"rp","pct":11.4,"votes":54560}]},
+        {"name":"Ayacucho","abbr":"AYA","winner":"jp","margin":5.1,"turnout":72.6,"votes":507142,"results":[{"party":"jp","pct":29,"votes":147071},{"party":"fp","pct":23.9,"votes":121207},{"party":"an","pct":20.6,"votes":104471},{"party":"pbg","pct":16.3,"votes":82664},{"party":"rp","pct":10.2,"votes":51728}]},
+        {"name":"Cajamarca","abbr":"CAJ","winner":"pbg","margin":1.2,"turnout":80.8,"votes":591258,"results":[{"party":"pbg","pct":27.4,"votes":162005},{"party":"fp","pct":26.2,"votes":154910},{"party":"an","pct":19.5,"votes":115295},{"party":"jp","pct":14.1,"votes":83367},{"party":"rp","pct":12.8,"votes":75681}]},
+        {"name":"Callao","abbr":"CAL","winner":"pbg","margin":4.8,"turnout":70.9,"votes":603441,"results":[{"party":"pbg","pct":26.8,"votes":161722},{"party":"fp","pct":22,"votes":132757},{"party":"jp","pct":17.5,"votes":105602},{"party":"rp","pct":16.9,"votes":101982},{"party":"an","pct":16.8,"votes":101378}]},
+        {"name":"Cusco","abbr":"CUS","winner":"rp","margin":2.2,"turnout":74.3,"votes":572715,"results":[{"party":"rp","pct":25.4,"votes":145470},{"party":"fp","pct":23.2,"votes":132870},{"party":"jp","pct":21.6,"votes":123706},{"party":"an","pct":17.1,"votes":97934},{"party":"pbg","pct":12.7,"votes":72735}]},
+        {"name":"Huancavelica","abbr":"HUV","winner":"jp","margin":0.4,"turnout":77.2,"votes":570604,"results":[{"party":"jp","pct":21.8,"votes":124392},{"party":"an","pct":21.4,"votes":122109},{"party":"pbg","pct":20.8,"votes":118686},{"party":"fp","pct":19.7,"votes":112409},{"party":"rp","pct":16.3,"votes":93008}]},
+        {"name":"Huánuco","abbr":"HUC","winner":"fp","margin":6.9,"turnout":79.3,"votes":640001,"results":[{"party":"fp","pct":29.6,"votes":189440},{"party":"pbg","pct":22.7,"votes":145280},{"party":"jp","pct":19.7,"votes":126080},{"party":"rp","pct":18.1,"votes":115840},{"party":"an","pct":9.9,"votes":63360}]},
+        {"name":"Ica","abbr":"ICA","winner":"fp","margin":13.6,"turnout":80.3,"votes":499632,"results":[{"party":"fp","pct":35.8,"votes":178868},{"party":"an","pct":22.2,"votes":110918},{"party":"jp","pct":16.2,"votes":80940},{"party":"rp","pct":13.3,"votes":66451},{"party":"pbg","pct":12.6,"votes":62954}]},
+        {"name":"Junín","abbr":"JUN","winner":"jp","margin":3.4,"turnout":75.3,"votes":443958,"results":[{"party":"jp","pct":28.2,"votes":125196},{"party":"rp","pct":24.8,"votes":110102},{"party":"fp","pct":23.7,"votes":105218},{"party":"pbg","pct":11.9,"votes":52831},{"party":"an","pct":11.3,"votes":50167}]},
+        {"name":"La Libertad","abbr":"LAL","winner":"pbg","margin":0.5,"turnout":72.9,"votes":578524,"results":[{"party":"pbg","pct":22.1,"votes":127854},{"party":"rp","pct":21.6,"votes":124961},{"party":"fp","pct":20.1,"votes":116283},{"party":"an","pct":19.6,"votes":113391},{"party":"jp","pct":16.6,"votes":96035}]},
+        {"name":"Lambayeque","abbr":"LAM","winner":"pbg","margin":0.8,"turnout":77.5,"votes":522931,"results":[{"party":"pbg","pct":26,"votes":135962},{"party":"rp","pct":25.2,"votes":131779},{"party":"jp","pct":20.3,"votes":106155},{"party":"fp","pct":14.3,"votes":74779},{"party":"an","pct":14.3,"votes":74779}]},
+        {"name":"Lima","abbr":"LIM","winner":"fp","margin":7.5,"turnout":68.8,"votes":464530,"results":[{"party":"fp","pct":30.4,"votes":141217},{"party":"an","pct":22.9,"votes":106377},{"party":"pbg","pct":18.3,"votes":85009},{"party":"jp","pct":17.5,"votes":81293},{"party":"rp","pct":10.8,"votes":50169}]},
+        {"name":"Lima Metropolitan","abbr":"LMA","winner":"fp","margin":9.9,"turnout":68.9,"votes":518578,"results":[{"party":"fp","pct":32.6,"votes":169056},{"party":"rp","pct":22.7,"votes":117717},{"party":"pbg","pct":19.8,"votes":102678},{"party":"jp","pct":15.3,"votes":79342},{"party":"an","pct":9.6,"votes":49783}]},
+        {"name":"Loreto","abbr":"LOR","winner":"fp","margin":10,"turnout":67.6,"votes":656884,"results":[{"party":"fp","pct":33.7,"votes":221370},{"party":"rp","pct":23.7,"votes":155682},{"party":"jp","pct":17.1,"votes":112327},{"party":"an","pct":14.4,"votes":94591},{"party":"pbg","pct":11.1,"votes":72914}]},
+        {"name":"Madre de Dios","abbr":"MDD","winner":"jp","margin":2.7,"turnout":80.2,"votes":632587,"results":[{"party":"jp","pct":25.5,"votes":161310},{"party":"fp","pct":22.8,"votes":144230},{"party":"pbg","pct":19.1,"votes":120824},{"party":"an","pct":16.8,"votes":106275},{"party":"rp","pct":15.8,"votes":99949}]},
+        {"name":"Moquegua","abbr":"MOQ","winner":"fp","margin":4,"turnout":71.9,"votes":532309,"results":[{"party":"fp","pct":26.5,"votes":141062},{"party":"pbg","pct":22.5,"votes":119770},{"party":"jp","pct":18.5,"votes":98477},{"party":"an","pct":16.3,"votes":86766},{"party":"rp","pct":16.1,"votes":85702}]},
+        {"name":"Pasco","abbr":"PAS","winner":"fp","margin":10.9,"turnout":79.5,"votes":483369,"results":[{"party":"fp","pct":33,"votes":159512},{"party":"pbg","pct":22.1,"votes":106825},{"party":"an","pct":16.8,"votes":81206},{"party":"rp","pct":14.2,"votes":68638},{"party":"jp","pct":14,"votes":67672}]},
+        {"name":"Piura","abbr":"PIU","winner":"rp","margin":3.7,"turnout":76.9,"votes":476744,"results":[{"party":"rp","pct":26.9,"votes":128244},{"party":"pbg","pct":23.2,"votes":110605},{"party":"fp","pct":21.4,"votes":102023},{"party":"jp","pct":14.3,"votes":68174},{"party":"an","pct":14.2,"votes":67698}]},
+        {"name":"Puno","abbr":"PUN","winner":"fp","margin":4.2,"turnout":73.5,"votes":545275,"results":[{"party":"fp","pct":24.6,"votes":134138},{"party":"pbg","pct":20.4,"votes":111236},{"party":"rp","pct":19.5,"votes":106329},{"party":"an","pct":17.8,"votes":97059},{"party":"jp","pct":17.7,"votes":96514}]},
+        {"name":"San Martín","abbr":"SAM","winner":"fp","margin":0.3,"turnout":68.7,"votes":470172,"results":[{"party":"fp","pct":25.8,"votes":121304},{"party":"rp","pct":25.5,"votes":119894},{"party":"pbg","pct":17.6,"votes":82750},{"party":"jp","pct":16,"votes":75228},{"party":"an","pct":15.1,"votes":70996}]},
+        {"name":"Tacna","abbr":"TAC","winner":"fp","margin":11,"turnout":77.8,"votes":552502,"results":[{"party":"fp","pct":34.6,"votes":191166},{"party":"jp","pct":23.6,"votes":130390},{"party":"an","pct":20.2,"votes":111605},{"party":"pbg","pct":12.2,"votes":67405},{"party":"rp","pct":9.4,"votes":51935}]},
+        {"name":"Tumbes","abbr":"TUM","winner":"fp","margin":0.5,"turnout":68.8,"votes":509592,"results":[{"party":"fp","pct":26.2,"votes":133513},{"party":"pbg","pct":25.7,"votes":130965},{"party":"jp","pct":25.2,"votes":128417},{"party":"an","pct":11.8,"votes":60132},{"party":"rp","pct":11.2,"votes":57074}]},
+        {"name":"Ucayali","abbr":"UCA","winner":"pbg","margin":2.1,"turnout":68.3,"votes":464987,"results":[{"party":"pbg","pct":25.6,"votes":119037},{"party":"jp","pct":23.5,"votes":109272},{"party":"fp","pct":19.9,"votes":92532},{"party":"rp","pct":18.4,"votes":85558},{"party":"an","pct":12.7,"votes":59053}]}
+      ]
+    }
+  ]
+}
