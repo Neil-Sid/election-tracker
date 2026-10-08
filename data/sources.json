@@ -300,6 +300,30 @@
       "url": "https://www.onpe.gob.pe",
       "role": "Official results",
       "note": "Organises the vote and publishes the count; the National Jury of Elections (JNE) oversees the process and proclaims the results."
+    },
+    "CZ": {
+      "access": "public",
+      "name": "Czech Statistical Office",
+      "short": "Statistical Office",
+      "url": "https://www.volby.cz/",
+      "role": "Official results",
+      "note": "Publishes the official results on volby.cz."
+    },
+    "SK": {
+      "access": "public",
+      "name": "Statistical Office of the Slovak Republic",
+      "short": "Statistical Office",
+      "url": "https://volby.statistics.sk/",
+      "role": "Official results",
+      "note": "Publishes the official results on volby.statistics.sk and volbysr.sk."
+    },
+    "HU": {
+      "access": "public",
+      "name": "National Election Office",
+      "short": "NVI",
+      "url": "https://vtr.valasztas.hu",
+      "role": "Official results",
+      "note": "Nemzeti Választási Iroda publishes the count on vtr.valasztas.hu as votes are counted; postal votes from abroad are added in the following days."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

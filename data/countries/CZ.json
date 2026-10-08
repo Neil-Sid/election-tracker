@@ -1,0 +1,504 @@
+{
+  "code": "CZ",
+  "name": "Czechia",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Parliament: Chamber of Deputies (200) and Senate (81)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 8253316,
+    "offices": {
+      "Chamber of Deputies": "200 members are elected for four years by open-list proportional representation in 14 districts that match the regions, with a 5% national threshold. After the election the president nominates someone, usually the head of the winning party, to form the government.",
+      "President": "Elected directly for a five-year term since 2013, in two rounds in which the top two from the first round meet again. The president sets the date of Chamber elections and nominates the person who forms the government."
+    }
+  },
+  "parties": {
+    "of": {
+      "name": "Civic Forum",
+      "color": "#386BA5"
+    },
+    "ksc": {
+      "name": "Communist Party of Czechoslovakia",
+      "color": "#DC241F"
+    },
+    "hsdsms": {
+      "name": "Movement for Autonomous Democracy–Party for Moravia and Silesia",
+      "color": "#FF9999"
+    },
+    "kdu90": {
+      "name": "Christian and Democratic Union",
+      "color": "#FFCB03"
+    },
+    "szv": {
+      "name": "Alliance of Farmers and the Countryside",
+      "color": "#8F9779"
+    },
+    "cssd": {
+      "name": "Czech Social Democratic Party",
+      "color": "#ED5700"
+    },
+    "sz": {
+      "name": "Green Party",
+      "color": "#00AD43"
+    },
+    "csns": {
+      "name": "Czech National Social Party",
+      "color": "#008080"
+    },
+    "kons": {
+      "name": "Free Bloc",
+      "color": "#4B0082"
+    },
+    "ods": {
+      "name": "Civic Democratic Party",
+      "color": "#034EA2"
+    },
+    "kscm": {
+      "name": "Communist Party of Bohemia and Moravia",
+      "color": "#C10506"
+    },
+    "lsu": {
+      "name": "Liberal-Social Union",
+      "color": "#50C878"
+    },
+    "kdu": {
+      "name": "KDU-ČSL",
+      "color": "#FFDC00"
+    },
+    "sprrsc": {
+      "name": "Rally for the Republic – Republican Party of Czechoslovakia",
+      "color": "#3E3E3E"
+    },
+    "oda": {
+      "name": "Civic Democratic Alliance",
+      "color": "#7FA6CB"
+    },
+    "oh": {
+      "name": "Civic Movement",
+      "color": "#9932CC"
+    },
+    "dzj": {
+      "name": "Pensioners for Life Security",
+      "color": "#A0522D"
+    },
+    "cspzr": {
+      "name": "Czechoslovak Businessmen's, Traders' and Farmers' Party",
+      "color": "#808000"
+    },
+    "kan": {
+      "name": "Club of Committed Non-Party Members",
+      "color": "#000075"
+    },
+    "ni": {
+      "name": "Independent Initiative",
+      "color": "#40E0D0"
+    },
+    "sppiva": {
+      "name": "Friends of Beer Party",
+      "color": "#C68E17"
+    },
+    "hsp": {
+      "name": "Movement for Social Justice",
+      "color": "#B03060"
+    },
+    "deu": {
+      "name": "Democratic Union",
+      "color": "#6D051C"
+    },
+    "lb": {
+      "name": "Left Bloc",
+      "color": "#E75480"
+    },
+    "us": {
+      "name": "Freedom Union – Democratic Union",
+      "color": "#00CED1"
+    },
+    "koalice": {
+      "name": "Four-Coalition",
+      "color": "#0100A3"
+    },
+    "snk": {
+      "name": "SNK European Democrats",
+      "color": "#87CEEB"
+    },
+    "top09": {
+      "name": "TOP 09",
+      "color": "#993366"
+    },
+    "vv": {
+      "name": "Public Affairs",
+      "color": "#00B0F0"
+    },
+    "spoz": {
+      "name": "Party of Civic Rights",
+      "color": "#E2725B"
+    },
+    "szr": {
+      "name": "Party of Common Sense",
+      "color": "#6FB7C5"
+    },
+    "dsss": {
+      "name": "Workers' Party of Social Justice",
+      "color": "#000000"
+    },
+    "ano": {
+      "name": "ANO 2011",
+      "color": "#261060"
+    },
+    "usvit": {
+      "name": "Dawn of Direct Democracy",
+      "color": "#9370DB"
+    },
+    "pirati": {
+      "name": "Czech Pirate Party",
+      "color": "#000000"
+    },
+    "svobodni": {
+      "name": "Party of Free Citizens",
+      "color": "#009682"
+    },
+    "spd": {
+      "name": "Freedom and Direct Democracy",
+      "color": "#6696AE"
+    },
+    "stan": {
+      "name": "Mayors and Independents",
+      "color": "#CD0F69"
+    },
+    "spolu": {
+      "name": "Spolu",
+      "color": "#00EA29"
+    },
+    "pirstan": {
+      "name": "Pirates and Mayors",
+      "color": "#000000"
+    },
+    "prisaha": {
+      "name": "Přísaha",
+      "color": "#0033FF"
+    },
+    "tss": {
+      "name": "Tricolour–Svobodní–Soukromníci",
+      "color": "#556B2F"
+    },
+    "suverenita": {
+      "name": "Czech Sovereignty",
+      "color": "#F39200"
+    },
+    "auto": {
+      "name": "Motorists for Themselves",
+      "color": "#009EE3"
+    },
+    "stacilo": {
+      "name": "Stačilo!",
+      "color": "#C4161C"
+    },
+    "realiste": {
+      "name": "Realists",
+      "color": "#013888"
+    },
+    "klic": {
+      "name": "Key Movement",
+      "color": "#C5D700"
+    },
+    "mhs": {
+      "name": "Marek Hilšer to the Senate",
+      "color": "#87CEFA"
+    },
+    "jfischer": {
+      "name": "Independent",
+      "color": "#7A7A7A"
+    },
+    "franz": {
+      "name": "Independent",
+      "color": "#B5651D"
+    },
+    "drahos": {
+      "name": "Independent",
+      "color": "#5A7D9A"
+    },
+    "pfischer": {
+      "name": "Independent",
+      "color": "#8E7CC3"
+    },
+    "horacek": {
+      "name": "Independent",
+      "color": "#C77CA0"
+    },
+    "hilser": {
+      "name": "Independent",
+      "color": "#87CEFA"
+    },
+    "topolanek": {
+      "name": "Independent",
+      "color": "#9C8F6E"
+    },
+    "pavel": {
+      "name": "Independent",
+      "color": "#2A9D8F"
+    },
+    "nerudova": {
+      "name": "Independent",
+      "color": "#D4A017"
+    },
+    "divis": {
+      "name": "Independent",
+      "color": "#6B8E23"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "cz-chamber-of-deputies-2025",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2025-10-04",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 68.95,
+      "system": "200 seats, list proportional by region",
+      "totalSeats": 200,
+      "majority": 101,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election#Results_by_region",
+      "candidates": [
+        {
+          "name": "ANO 2011",
+          "party": "ano",
+          "votes": 1940507,
+          "pct": 34.52,
+          "seats": 80,
+          "change": 8,
+          "winner": true
+        },
+        {
+          "name": "SPOLU",
+          "party": "spolu",
+          "votes": 1313346,
+          "pct": 23.36,
+          "seats": 52,
+          "change": -19
+        },
+        {
+          "name": "Mayors and Independents",
+          "party": "stan",
+          "votes": 631512,
+          "pct": 11.23,
+          "seats": 22,
+          "change": -11
+        },
+        {
+          "name": "Czech Pirate Party",
+          "party": "pirati",
+          "votes": 504537,
+          "pct": 8.97,
+          "seats": 18,
+          "change": 14
+        },
+        {
+          "name": "Freedom and Direct Democracy",
+          "party": "spd",
+          "votes": 437611,
+          "pct": 7.78,
+          "seats": 15,
+          "change": -5
+        },
+        {
+          "name": "Motorists for Themselves",
+          "party": "auto",
+          "votes": 380601,
+          "pct": 6.77,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Stačilo!",
+          "party": "stacilo",
+          "votes": 242031,
+          "pct": 4.31,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Přísaha Civic Movement",
+          "party": "prisaha",
+          "votes": 60503,
+          "pct": 1.08,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 111069,
+          "pct": 1.98,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Central Bohemian","abbr":"ST","winner":"ano","margin":23.9,"turnout":70.9,"votes":408669,"results":[{"party":"ano","pct":44.6,"votes":182266},{"party":"spolu","pct":20.7,"votes":84594},{"party":"stan","pct":12.7,"votes":51901},{"party":"pirati","pct":12.4,"votes":50675},{"party":"spd","pct":9.6,"votes":39232}]},
+        {"name":"Hradec Králové","abbr":"KR","winner":"ano","margin":1.4,"turnout":64.5,"votes":364488,"results":[{"party":"ano","pct":33.6,"votes":122468},{"party":"spolu","pct":32.2,"votes":117365},{"party":"stan","pct":12.2,"votes":44468},{"party":"pirati","pct":11.2,"votes":40823},{"party":"spd","pct":10.7,"votes":39000}]},
+        {"name":"Karlovy Vary","abbr":"KA","winner":"ano","margin":11.6,"turnout":65.2,"votes":454612,"results":[{"party":"ano","pct":40.6,"votes":184572},{"party":"spolu","pct":29,"votes":131837},{"party":"stan","pct":15,"votes":68192},{"party":"pirati","pct":7.8,"votes":35460},{"party":"spd","pct":7.6,"votes":34551}]},
+        {"name":"Liberec","abbr":"LI","winner":"ano","margin":9.3,"turnout":64.8,"votes":330001,"results":[{"party":"ano","pct":40,"votes":132000},{"party":"spolu","pct":30.7,"votes":101310},{"party":"stan","pct":13.2,"votes":43560},{"party":"spd","pct":8.1,"votes":26730},{"party":"pirati","pct":8,"votes":26400}]},
+        {"name":"Moravian-Silesian","abbr":"MO","winner":"ano","margin":18.7,"turnout":75,"votes":433243,"results":[{"party":"ano","pct":46.4,"votes":201025},{"party":"spolu","pct":27.7,"votes":120008},{"party":"stan","pct":11.1,"votes":48090},{"party":"pirati","pct":9.5,"votes":41158},{"party":"spd","pct":5.4,"votes":23395}]},
+        {"name":"Olomouc","abbr":"OL","winner":"ano","margin":3.2,"turnout":71.2,"votes":382352,"results":[{"party":"ano","pct":29,"votes":110882},{"party":"stan","pct":25.8,"votes":98647},{"party":"spolu","pct":20.9,"votes":79912},{"party":"spd","pct":13.1,"votes":50088},{"party":"pirati","pct":11.1,"votes":42441}]},
+        {"name":"Pardubice","abbr":"PA","winner":"ano","margin":17.2,"turnout":66.9,"votes":435969,"results":[{"party":"ano","pct":49,"votes":213625},{"party":"spolu","pct":31.8,"votes":138638},{"party":"pirati","pct":9.2,"votes":40109},{"party":"stan","pct":6,"votes":26158},{"party":"spd","pct":4,"votes":17439}]},
+        {"name":"Plzeň","abbr":"PL","winner":"ano","margin":7.7,"turnout":72.9,"votes":450175,"results":[{"party":"ano","pct":39.4,"votes":177369},{"party":"spolu","pct":31.7,"votes":142705},{"party":"pirati","pct":13,"votes":58523},{"party":"stan","pct":11,"votes":49519},{"party":"spd","pct":4.8,"votes":21608}]},
+        {"name":"Prague","abbr":"PR","winner":"spolu","margin":6.1,"turnout":68.8,"votes":457945,"results":[{"party":"spolu","pct":39.4,"votes":180430},{"party":"ano","pct":33.3,"votes":152496},{"party":"stan","pct":13.7,"votes":62738},{"party":"spd","pct":9.2,"votes":42131},{"party":"pirati","pct":4.4,"votes":20150}]},
+        {"name":"South Bohemian","abbr":"JC","winner":"ano","margin":28.2,"turnout":73.1,"votes":402118,"results":[{"party":"ano","pct":50.8,"votes":204276},{"party":"spolu","pct":22.6,"votes":90879},{"party":"stan","pct":10.4,"votes":41820},{"party":"spd","pct":9.6,"votes":38603},{"party":"pirati","pct":6.7,"votes":26942}]},
+        {"name":"South Moravian","abbr":"JM","winner":"ano","margin":5.5,"turnout":67.5,"votes":463711,"results":[{"party":"ano","pct":32.8,"votes":152097},{"party":"spolu","pct":27.3,"votes":126593},{"party":"stan","pct":16.5,"votes":76512},{"party":"pirati","pct":13.8,"votes":63992},{"party":"spd","pct":9.6,"votes":44516}]},
+        {"name":"Ústí nad Labem","abbr":"US","winner":"ano","margin":1.2,"turnout":73.1,"votes":467139,"results":[{"party":"ano","pct":26,"votes":121456},{"party":"spolu","pct":24.8,"votes":115850},{"party":"stan","pct":19,"votes":88756},{"party":"pirati","pct":16.3,"votes":76144},{"party":"spd","pct":14,"votes":65399}]},
+        {"name":"Vysočina","abbr":"VY","winner":"ano","margin":26.5,"turnout":64.8,"votes":363114,"results":[{"party":"ano","pct":49.7,"votes":180468},{"party":"spolu","pct":23.2,"votes":84242},{"party":"spd","pct":11.7,"votes":42484},{"party":"pirati","pct":8.5,"votes":30865},{"party":"stan","pct":6.9,"votes":25055}]},
+        {"name":"Zlín","abbr":"ZL","winner":"ano","margin":14.7,"turnout":67.8,"votes":395870,"results":[{"party":"ano","pct":42.7,"votes":169036},{"party":"spolu","pct":28,"votes":110844},{"party":"pirati","pct":12.7,"votes":50275},{"party":"stan","pct":10,"votes":39587},{"party":"spd","pct":6.6,"votes":26127}]}
+      ]
+    },
+    {
+      "id": "cz-president-2023",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2023-01-14",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 70.22,
+      "system": "Two-round popular vote, five-year term",
+      "cite": {
+        "name": "the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2023_Czech_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Czech_presidential_election#Results_by_region",
+      "candidates": [
+        {
+          "name": "Petr Pavel",
+          "party": "pavel",
+          "votes": 3359151,
+          "pct": 58.33,
+          "winner": true
+        },
+        {
+          "name": "Andrej Babiš",
+          "party": "ano",
+          "votes": 2400046,
+          "pct": 41.67
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2023-01-14",
+          "candidates": [
+            {
+              "name": "Petr Pavel",
+              "party": "pavel",
+              "votes": 1975056,
+              "pct": 35.4
+            },
+            {
+              "name": "Andrej Babiš",
+              "party": "ano",
+              "votes": 1952213,
+              "pct": 34.99
+            },
+            {
+              "name": "Danuše Nerudová",
+              "party": "nerudova",
+              "votes": 777080,
+              "pct": 13.93
+            },
+            {
+              "name": "Pavel Fischer",
+              "party": "pfischer",
+              "votes": 376705,
+              "pct": 6.75
+            },
+            {
+              "name": "Jaroslav Bašta",
+              "party": "spd",
+              "votes": 248375,
+              "pct": 4.45
+            },
+            {
+              "name": "Marek Hilšer",
+              "party": "mhs",
+              "votes": 142912,
+              "pct": 2.56
+            },
+            {
+              "name": "Karel Diviš",
+              "party": "divis",
+              "votes": 75475,
+              "pct": 1.35
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 30769,
+              "pct": 0.55
+            }
+          ],
+          "regions": [
+            {"name":"Central Bohemian","abbr":"ST","winner":"pavel","margin":5.7,"turnout":71.4,"votes":368001,"results":[{"party":"pavel","pct":36.4,"votes":133952},{"party":"ano","pct":30.7,"votes":112976},{"party":"nerudova","pct":17.3,"votes":63664},{"party":"pfischer","pct":10.1,"votes":37168},{"party":"spd","pct":5.6,"votes":20608}]},
+            {"name":"Hradec Králové","abbr":"KR","winner":"pavel","margin":14.8,"turnout":68.5,"votes":408501,"results":[{"party":"pavel","pct":42.4,"votes":173204},{"party":"ano","pct":27.6,"votes":112746},{"party":"nerudova","pct":21.4,"votes":87419},{"party":"pfischer","pct":5.2,"votes":21242},{"party":"spd","pct":3.3,"votes":13481}]},
+            {"name":"Karlovy Vary","abbr":"KA","winner":"ano","margin":30.9,"turnout":64.6,"votes":416440,"results":[{"party":"ano","pct":49.8,"votes":207387},{"party":"nerudova","pct":18.9,"votes":78707},{"party":"pavel","pct":18.3,"votes":76209},{"party":"pfischer","pct":9.7,"votes":40395},{"party":"spd","pct":3.3,"votes":13743}]},
+            {"name":"Liberec","abbr":"LI","winner":"ano","margin":3.7,"turnout":77,"votes":400973,"results":[{"party":"ano","pct":41.7,"votes":167206},{"party":"pavel","pct":38,"votes":152370},{"party":"nerudova","pct":10.1,"votes":40498},{"party":"pfischer","pct":5.5,"votes":22054},{"party":"spd","pct":4.7,"votes":18846}]},
+            {"name":"Moravian-Silesian","abbr":"MO","winner":"ano","margin":15.9,"turnout":75.6,"votes":403691,"results":[{"party":"ano","pct":44.2,"votes":178431},{"party":"pavel","pct":28.3,"votes":114245},{"party":"nerudova","pct":17,"votes":68627},{"party":"spd","pct":5.9,"votes":23818},{"party":"pfischer","pct":4.6,"votes":18570}]},
+            {"name":"Olomouc","abbr":"OL","winner":"pavel","margin":9.6,"turnout":71.5,"votes":398853,"results":[{"party":"pavel","pct":42.2,"votes":168316},{"party":"ano","pct":32.6,"votes":130026},{"party":"nerudova","pct":13.9,"votes":55441},{"party":"spd","pct":5.6,"votes":22336},{"party":"pfischer","pct":5.5,"votes":21937}]},
+            {"name":"Pardubice","abbr":"PA","winner":"pavel","margin":15.4,"turnout":65,"votes":331342,"results":[{"party":"pavel","pct":42.8,"votes":141814},{"party":"ano","pct":27.4,"votes":90788},{"party":"nerudova","pct":20.3,"votes":67262},{"party":"pfischer","pct":6.4,"votes":21206},{"party":"spd","pct":3.1,"votes":10272}]},
+            {"name":"Plzeň","abbr":"PL","winner":"ano","margin":2.1,"turnout":71.8,"votes":385236,"results":[{"party":"ano","pct":41.1,"votes":158332},{"party":"pavel","pct":39,"votes":150242},{"party":"nerudova","pct":12.2,"votes":46999},{"party":"pfischer","pct":5.4,"votes":20803},{"party":"spd","pct":2.3,"votes":8860}]},
+            {"name":"Prague","abbr":"PR","winner":"ano","margin":18.7,"turnout":65.3,"votes":324040,"results":[{"party":"ano","pct":45.6,"votes":147762},{"party":"pavel","pct":26.9,"votes":87167},{"party":"nerudova","pct":19,"votes":61568},{"party":"pfischer","pct":5.2,"votes":16850},{"party":"spd","pct":3.2,"votes":10369}]},
+            {"name":"South Bohemian","abbr":"JC","winner":"ano","margin":3.3,"turnout":72.8,"votes":338686,"results":[{"party":"ano","pct":38.5,"votes":130394},{"party":"pavel","pct":35.2,"votes":119217},{"party":"nerudova","pct":15.3,"votes":51819},{"party":"pfischer","pct":6.9,"votes":23369},{"party":"spd","pct":4.1,"votes":13886}]},
+            {"name":"South Moravian","abbr":"JM","winner":"ano","margin":8,"turnout":74.1,"votes":392944,"results":[{"party":"ano","pct":42.9,"votes":168573},{"party":"pavel","pct":34.9,"votes":137137},{"party":"nerudova","pct":14,"votes":55012},{"party":"spd","pct":4.7,"votes":18468},{"party":"pfischer","pct":3.5,"votes":13753}]},
+            {"name":"Ústí nad Labem","abbr":"US","winner":"pavel","margin":27.7,"turnout":69.4,"votes":410194,"results":[{"party":"pavel","pct":51.4,"votes":210840},{"party":"ano","pct":23.7,"votes":97216},{"party":"nerudova","pct":12,"votes":49223},{"party":"pfischer","pct":6.5,"votes":26663},{"party":"spd","pct":6.4,"votes":26252}]},
+            {"name":"Vysočina","abbr":"VY","winner":"ano","margin":9.9,"turnout":67.3,"votes":466933,"results":[{"party":"ano","pct":41.8,"votes":195178},{"party":"pavel","pct":31.9,"votes":148952},{"party":"nerudova","pct":16.6,"votes":77511},{"party":"spd","pct":5.1,"votes":23814},{"party":"pfischer","pct":4.6,"votes":21479}]},
+            {"name":"Zlín","abbr":"ZL","winner":"pavel","margin":15.8,"turnout":66.6,"votes":445565,"results":[{"party":"pavel","pct":46.9,"votes":208970},{"party":"ano","pct":31.1,"votes":138571},{"party":"nerudova","pct":11.1,"votes":49458},{"party":"pfischer","pct":8.9,"votes":39655},{"party":"spd","pct":2,"votes":8911}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2023-01-28",
+          "candidates": [
+            {
+              "name": "Petr Pavel",
+              "party": "pavel",
+              "votes": 3359151,
+              "pct": 58.33,
+              "winner": true
+            },
+            {
+              "name": "Andrej Babiš",
+              "party": "ano",
+              "votes": 2400046,
+              "pct": 41.67
+            }
+          ],
+          "regions": [
+            {"name":"Central Bohemian","abbr":"ST","winner":"pavel","margin":52.6,"turnout":72.7,"votes":338948,"results":[{"party":"pavel","pct":76.3,"votes":258617},{"party":"ano","pct":23.7,"votes":80331}]},
+            {"name":"Hradec Králové","abbr":"KR","winner":"pavel","margin":40.6,"turnout":65.5,"votes":334640,"results":[{"party":"pavel","pct":70.3,"votes":235252},{"party":"ano","pct":29.7,"votes":99388}]},
+            {"name":"Karlovy Vary","abbr":"KA","winner":"ano","margin":5,"turnout":70.8,"votes":363708,"results":[{"party":"ano","pct":52.5,"votes":190947},{"party":"pavel","pct":47.5,"votes":172761}]},
+            {"name":"Liberec","abbr":"LI","winner":"pavel","margin":7.6,"turnout":70.6,"votes":426606,"results":[{"party":"pavel","pct":53.8,"votes":229514},{"party":"ano","pct":46.2,"votes":197092}]},
+            {"name":"Moravian-Silesian","abbr":"MO","winner":"ano","margin":21.6,"turnout":68.7,"votes":382613,"results":[{"party":"ano","pct":60.8,"votes":232629},{"party":"pavel","pct":39.2,"votes":149984}]},
+            {"name":"Olomouc","abbr":"OL","winner":"pavel","margin":8.4,"turnout":69.4,"votes":451879,"results":[{"party":"pavel","pct":54.2,"votes":244918},{"party":"ano","pct":45.8,"votes":206961}]},
+            {"name":"Pardubice","abbr":"PA","winner":"pavel","margin":45.8,"turnout":67.9,"votes":343456,"results":[{"party":"pavel","pct":72.9,"votes":250379},{"party":"ano","pct":27.1,"votes":93077}]},
+            {"name":"Plzeň","abbr":"PL","winner":"pavel","margin":28.8,"turnout":76.7,"votes":391913,"results":[{"party":"pavel","pct":64.4,"votes":252392},{"party":"ano","pct":35.6,"votes":139521}]},
+            {"name":"Prague","abbr":"PR","winner":"pavel","margin":55.8,"turnout":74.9,"votes":335733,"results":[{"party":"pavel","pct":77.9,"votes":261536},{"party":"ano","pct":22.1,"votes":74197}]},
+            {"name":"South Bohemian","abbr":"JC","winner":"pavel","margin":30,"turnout":73,"votes":351427,"results":[{"party":"pavel","pct":65,"votes":228428},{"party":"ano","pct":35,"votes":122999}]},
+            {"name":"South Moravian","abbr":"JM","winner":"pavel","margin":41.4,"turnout":76.6,"votes":366919,"results":[{"party":"pavel","pct":70.7,"votes":259412},{"party":"ano","pct":29.3,"votes":107507}]},
+            {"name":"Ústí nad Labem","abbr":"US","winner":"ano","margin":26.8,"turnout":75.2,"votes":349718,"results":[{"party":"ano","pct":63.4,"votes":221721},{"party":"pavel","pct":36.6,"votes":127997}]},
+            {"name":"Vysočina","abbr":"VY","winner":"pavel","margin":4,"turnout":74.9,"votes":460235,"results":[{"party":"pavel","pct":52,"votes":239322},{"party":"ano","pct":48,"votes":220913}]},
+            {"name":"Zlín","abbr":"ZL","winner":"pavel","margin":51.8,"turnout":68.7,"votes":376143,"results":[{"party":"pavel","pct":75.9,"votes":285493},{"party":"ano","pct":24.1,"votes":90650}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

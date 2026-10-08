@@ -1,0 +1,296 @@
+{
+  "code": "HU",
+  "name": "Hungary",
+  "subtitle": "Parliamentary elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "National Assembly (199)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 8112646,
+    "offices": {
+      "National Assembly": "The 199 members are elected for four years by mixed-member majoritarian voting: 106 in single-member constituencies by first past the post and 93 from national party lists by modified proportional representation, with a 5% threshold and reduced quotas for national minority lists. The National Assembly passes laws and the budget, elects the prime minister and the president, and can amend the constitution with a two-thirds majority."
+    }
+  },
+  "parties": {
+    "mdp": {
+      "name": "Hungarian Working People's Party",
+      "color": "#DD0000"
+    },
+    "mszmp": {
+      "name": "Hungarian Socialist Workers' Party",
+      "color": "#DD0000"
+    },
+    "fkgp": {
+      "name": "Independent Smallholders' Party",
+      "color": "#36492B"
+    },
+    "npp": {
+      "name": "National Peasant Party",
+      "color": "#FFCC00"
+    },
+    "fmdp": {
+      "name": "Independent Hungarian Democratic Party",
+      "color": "#50C878"
+    },
+    "mrp": {
+      "name": "Hungarian Radical Party",
+      "color": "#E30B5C"
+    },
+    "mdf": {
+      "name": "Hungarian Democratic Forum",
+      "color": "#009A68"
+    },
+    "szdsz": {
+      "name": "Alliance of Free Democrats",
+      "color": "#1CA8E6"
+    },
+    "mszp": {
+      "name": "Hungarian Socialist Party",
+      "color": "#CC0000"
+    },
+    "fidesz": {
+      "name": "Fidesz",
+      "color": "#FF6A00"
+    },
+    "kdnp": {
+      "name": "Christian Democratic People's Party",
+      "color": "#938862"
+    },
+    "munkas": {
+      "name": "Hungarian Workers' Party",
+      "color": "#800000"
+    },
+    "mszdp": {
+      "name": "Social Democratic Party of Hungary",
+      "color": "#E8738A"
+    },
+    "asz": {
+      "name": "Agrarian Alliance",
+      "color": "#EDED00"
+    },
+    "vp": {
+      "name": "Entrepreneurs' Party",
+      "color": "#A0522D"
+    },
+    "hvk": {
+      "name": "Patriotic Electoral Coalition",
+      "color": "#7B3F61"
+    },
+    "szdszfidesz": {
+      "name": "SZDSZ–Fidesz joint candidates",
+      "color": "#7FA6C9"
+    },
+    "aszszfv": {
+      "name": "ASZ–SZFV joint candidate",
+      "color": "#C9C35A"
+    },
+    "kdnpfideszszdsz": {
+      "name": "KDNP–Fidesz–SZDSZ joint candidate",
+      "color": "#B79E6E"
+    },
+    "kp": {
+      "name": "Republican Party",
+      "color": "#0067A5"
+    },
+    "miep": {
+      "name": "Hungarian Justice and Life Party",
+      "color": "#CC9900"
+    },
+    "vpaszszdszfidesz": {
+      "name": "VP–ASZ–SZDSZ–Fidesz joint candidate",
+      "color": "#C7A27C"
+    },
+    "mdnp": {
+      "name": "Hungarian Democratic People's Party",
+      "color": "#2E8B8B"
+    },
+    "fideszmdf": {
+      "name": "Fidesz–MDF joint list",
+      "color": "#FF6A00"
+    },
+    "centrumkdnp": {
+      "name": "Centre Party–KDNP joint list",
+      "color": "#938862"
+    },
+    "mszpszdsz": {
+      "name": "MSZP–SZDSZ joint candidates",
+      "color": "#D46A8A"
+    },
+    "fideszkdnp": {
+      "name": "Fidesz–KDNP",
+      "color": "#FF6A00"
+    },
+    "somogy": {
+      "name": "Association for Somogy",
+      "color": "#404040"
+    },
+    "miepjobbik": {
+      "name": "MIÉP–Jobbik Third Way",
+      "color": "#CC9900"
+    },
+    "jobbik": {
+      "name": "Jobbik",
+      "color": "#000000"
+    },
+    "lmp": {
+      "name": "LMP – Hungary's Green Party",
+      "color": "#54B586"
+    },
+    "fideszkdnpvp": {
+      "name": "Fidesz–KDNP–VP joint candidate",
+      "color": "#FFB37F"
+    },
+    "unity": {
+      "name": "Unity",
+      "color": "#C71585"
+    },
+    "mszpp": {
+      "name": "MSZP–Párbeszéd",
+      "color": "#CE171B"
+    },
+    "dk": {
+      "name": "Democratic Coalition",
+      "color": "#2A61A4"
+    },
+    "momentum": {
+      "name": "Momentum Movement",
+      "color": "#8E6FCE"
+    },
+    "mkkp": {
+      "name": "Hungarian Two-Tailed Dog Party",
+      "color": "#808080"
+    },
+    "egyutt": {
+      "name": "Together",
+      "color": "#FED500"
+    },
+    "ldu": {
+      "name": "National Self-Government of Germans",
+      "color": "#8B4513"
+    },
+    "em": {
+      "name": "United for Hungary",
+      "color": "#4CB5A2"
+    },
+    "mihazank": {
+      "name": "Our Homeland Movement",
+      "color": "#688D1B"
+    },
+    "megoldas": {
+      "name": "Solution Movement",
+      "color": "#AC0A0E"
+    },
+    "tisza": {
+      "name": "Tisza Party",
+      "color": "#88E8FF"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "hu-national-assembly-2026",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2026-04-12",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 78.99,
+      "system": "199 seats: single-member districts and a national list",
+      "totalSeats": 199,
+      "majority": 100,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the National Election Office (Nemzeti Választási Iroda)",
+        "url": "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election#Party_list_results_by_county,_postal,_foreign_and_absentee_votes",
+      "candidates": [
+        {
+          "name": "Tisza Party",
+          "party": "tisza",
+          "votes": 3385890,
+          "pct": 53.18,
+          "seats": 141,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Fidesz–KDNP",
+          "party": "fideszkdnp",
+          "votes": 2458337,
+          "pct": 38.61,
+          "seats": 52,
+          "change": -83
+        },
+        {
+          "name": "Our Homeland Movement",
+          "party": "mihazank",
+          "votes": 358372,
+          "pct": 5.63,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Democratic Coalition",
+          "party": "dk",
+          "votes": 70298,
+          "pct": 1.1,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Jobbik",
+          "party": "jobbik",
+          "votes": null,
+          "pct": null,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 93836,
+          "pct": 1.47,
+          "seats": 0,
+          "change": -4
+        }
+      ],
+      "regions": [
+        {"name":"Bács-Kiskun","abbr":"BK","winner":"tisza","margin":12.5,"turnout":79.8,"votes":269803,"results":[{"party":"tisza","pct":48.8,"votes":131664},{"party":"fideszkdnp","pct":36.3,"votes":97938},{"party":"mihazank","pct":10,"votes":26980},{"party":"oth","pct":2.9,"votes":7824},{"party":"dk","pct":1.9,"votes":5126}]},
+        {"name":"Baranya","abbr":"BA","winner":"tisza","margin":0.1,"turnout":85.9,"votes":345531,"results":[{"party":"tisza","pct":43.5,"votes":150306},{"party":"fideszkdnp","pct":43.4,"votes":149960},{"party":"mihazank","pct":8.6,"votes":29716},{"party":"oth","pct":2.4,"votes":8293},{"party":"dk","pct":2.1,"votes":7256}]},
+        {"name":"Békés","abbr":"BE","winner":"tisza","margin":3.5,"turnout":82.8,"votes":344898,"results":[{"party":"tisza","pct":47.7,"votes":164516},{"party":"fideszkdnp","pct":44.2,"votes":152445},{"party":"mihazank","pct":6.3,"votes":21729},{"party":"oth","pct":1.2,"votes":4139},{"party":"dk","pct":0.6,"votes":2069}]},
+        {"name":"Borsod-Abaúj-Zemplén","abbr":"BZ","winner":"tisza","margin":33.4,"turnout":85.2,"votes":279050,"results":[{"party":"tisza","pct":62.3,"votes":173848},{"party":"fideszkdnp","pct":28.9,"votes":80645},{"party":"mihazank","pct":6.7,"votes":18696},{"party":"dk","pct":1.4,"votes":3907},{"party":"oth","pct":0.7,"votes":1953}]},
+        {"name":"Budapest","abbr":"BU","winner":"tisza","margin":3,"turnout":80.5,"votes":311403,"results":[{"party":"tisza","pct":49.1,"votes":152899},{"party":"fideszkdnp","pct":46.1,"votes":143557},{"party":"mihazank","pct":3.4,"votes":10588},{"party":"oth","pct":0.7,"votes":2180},{"party":"dk","pct":0.7,"votes":2180}]},
+        {"name":"Csongrád-Csanád","abbr":"CS","winner":"tisza","margin":8.2,"turnout":73.9,"votes":349171,"results":[{"party":"tisza","pct":50.4,"votes":175982},{"party":"fideszkdnp","pct":42.2,"votes":147350},{"party":"mihazank","pct":5.9,"votes":20601},{"party":"dk","pct":0.9,"votes":3143},{"party":"oth","pct":0.6,"votes":2095}]},
+        {"name":"Fejér","abbr":"FE","winner":"tisza","margin":16.8,"turnout":75.4,"votes":342383,"results":[{"party":"tisza","pct":55.5,"votes":190023},{"party":"fideszkdnp","pct":38.7,"votes":132502},{"party":"mihazank","pct":4,"votes":13695},{"party":"oth","pct":0.9,"votes":3081},{"party":"dk","pct":0.9,"votes":3081}]},
+        {"name":"Győr-Moson-Sopron","abbr":"GS","winner":"tisza","margin":20.3,"turnout":84.9,"votes":371515,"results":[{"party":"tisza","pct":53.9,"votes":200247},{"party":"fideszkdnp","pct":33.6,"votes":124829},{"party":"mihazank","pct":8.9,"votes":33065},{"party":"oth","pct":2.1,"votes":7802},{"party":"dk","pct":1.4,"votes":5201}]},
+        {"name":"Hajdú-Bihar","abbr":"HB","winner":"tisza","margin":12,"turnout":77.9,"votes":325613,"results":[{"party":"tisza","pct":52.8,"votes":171924},{"party":"fideszkdnp","pct":40.8,"votes":132850},{"party":"mihazank","pct":3.8,"votes":12373},{"party":"oth","pct":1.6,"votes":5210},{"party":"dk","pct":1,"votes":3256}]},
+        {"name":"Heves","abbr":"HE","winner":"tisza","margin":1.3,"turnout":81.4,"votes":332263,"results":[{"party":"tisza","pct":47.9,"votes":159154},{"party":"fideszkdnp","pct":46.6,"votes":154835},{"party":"mihazank","pct":2.5,"votes":8307},{"party":"oth","pct":1.6,"votes":5316},{"party":"dk","pct":1.4,"votes":4652}]},
+        {"name":"Jász-Nagykun-Szolnok","abbr":"JN","winner":"tisza","margin":26.1,"turnout":81,"votes":326793,"results":[{"party":"tisza","pct":59.4,"votes":194115},{"party":"fideszkdnp","pct":33.3,"votes":108822},{"party":"mihazank","pct":4.1,"votes":13399},{"party":"oth","pct":1.7,"votes":5555},{"party":"dk","pct":1.5,"votes":4902}]},
+        {"name":"Komárom-Esztergom","abbr":"KE","winner":"tisza","margin":20.3,"turnout":80.2,"votes":326205,"results":[{"party":"tisza","pct":56,"votes":182675},{"party":"fideszkdnp","pct":35.7,"votes":116455},{"party":"mihazank","pct":5.1,"votes":16636},{"party":"oth","pct":2.1,"votes":6850},{"party":"dk","pct":1.1,"votes":3588}]},
+        {"name":"Nógrád","abbr":"NO","winner":"tisza","margin":19.8,"turnout":75,"votes":370288,"results":[{"party":"tisza","pct":55.4,"votes":205140},{"party":"fideszkdnp","pct":35.6,"votes":131823},{"party":"mihazank","pct":6.6,"votes":24439},{"party":"dk","pct":1.3,"votes":4814},{"party":"oth","pct":1.1,"votes":4073}]},
+        {"name":"Pest","abbr":"PE","winner":"tisza","margin":22.4,"turnout":73,"votes":294911,"results":[{"party":"tisza","pct":56.2,"votes":165740},{"party":"fideszkdnp","pct":33.8,"votes":99680},{"party":"mihazank","pct":6.5,"votes":19169},{"party":"oth","pct":1.8,"votes":5308},{"party":"dk","pct":1.6,"votes":4719}]},
+        {"name":"Somogy","abbr":"SO","winner":"tisza","margin":25.9,"turnout":82.4,"votes":329277,"results":[{"party":"tisza","pct":57,"votes":187688},{"party":"fideszkdnp","pct":31.1,"votes":102405},{"party":"mihazank","pct":8.2,"votes":27001},{"party":"oth","pct":2.3,"votes":7573},{"party":"dk","pct":1.3,"votes":4281}]},
+        {"name":"Szabolcs-Szatmár-Bereg","abbr":"SZ","winner":"tisza","margin":37.5,"turnout":84.8,"votes":377705,"results":[{"party":"tisza","pct":63.8,"votes":240976},{"party":"fideszkdnp","pct":26.3,"votes":99336},{"party":"mihazank","pct":7.6,"votes":28706},{"party":"oth","pct":1.6,"votes":6043},{"party":"dk","pct":0.8,"votes":3022}]},
+        {"name":"Tolna","abbr":"TO","winner":"tisza","margin":30.8,"turnout":80.2,"votes":348146,"results":[{"party":"tisza","pct":61.3,"votes":213413},{"party":"fideszkdnp","pct":30.5,"votes":106185},{"party":"mihazank","pct":5.1,"votes":17755},{"party":"oth","pct":1.9,"votes":6615},{"party":"dk","pct":1.1,"votes":3830}]},
+        {"name":"Vas","abbr":"VA","winner":"tisza","margin":17.6,"turnout":85.3,"votes":287458,"results":[{"party":"tisza","pct":56.2,"votes":161551},{"party":"fideszkdnp","pct":38.6,"votes":110959},{"party":"mihazank","pct":2.6,"votes":7474},{"party":"oth","pct":1.6,"votes":4599},{"party":"dk","pct":0.9,"votes":2587}]},
+        {"name":"Veszprém","abbr":"VE","winner":"tisza","margin":18.9,"turnout":84.8,"votes":283236,"results":[{"party":"tisza","pct":54.9,"votes":155497},{"party":"fideszkdnp","pct":36,"votes":101965},{"party":"mihazank","pct":6.7,"votes":18977},{"party":"oth","pct":1.8,"votes":5098},{"party":"dk","pct":0.7,"votes":1983}]},
+        {"name":"Zala","abbr":"ZA","winner":"tisza","margin":4.1,"turnout":73.9,"votes":276079,"results":[{"party":"tisza","pct":48.7,"votes":134450},{"party":"fideszkdnp","pct":44.6,"votes":123131},{"party":"mihazank","pct":4.4,"votes":12147},{"party":"oth","pct":1.2,"votes":3313},{"party":"dk","pct":1.1,"votes":3037}]}
+      ]
+    }
+  ]
+}

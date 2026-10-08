@@ -1,0 +1,1994 @@
+{
+  "code": "SK",
+  "parties": {
+    "vpn": {
+      "name": "Public Against Violence",
+      "color": "#B719A8",
+      "article": "Public Against Violence"
+    },
+    "kdh": {
+      "name": "Christian Democratic Movement",
+      "color": "#173A70",
+      "article": "Christian Democratic Movement"
+    },
+    "sns": {
+      "name": "Slovak National Party",
+      "color": "#808000",
+      "article": "Slovak National Party"
+    },
+    "kss1939": {
+      "name": "Communist Party of Slovakia",
+      "color": "#8B0000",
+      "article": "Communist Party of Slovakia (1939)"
+    },
+    "egymkdh": {
+      "name": "Coexistence–Hungarian Christian Democratic Movement",
+      "color": "#2E8B57"
+    },
+    "ds": {
+      "name": "Democratic Party",
+      "color": "#20B2AA",
+      "article": "Democratic Party (Slovakia, 1989)"
+    },
+    "sz": {
+      "name": "Green Party",
+      "color": "#00FF00",
+      "article": "Green Party (Slovakia)"
+    },
+    "szv": {
+      "name": "Alliance of Farmers and the Countryside",
+      "color": "#8F9779"
+    },
+    "sd": {
+      "name": "Social Democracy",
+      "color": "#F08080"
+    },
+    "ss": {
+      "name": "Freedom Party",
+      "color": "#1A809A",
+      "article": "Freedom Party (Slovakia)"
+    },
+    "hzds": {
+      "name": "Movement for a Democratic Slovakia",
+      "color": "#00CCFF",
+      "article": "People's Party – Movement for a Democratic Slovakia"
+    },
+    "sdl": {
+      "name": "Party of the Democratic Left",
+      "color": "#FF8080",
+      "article": "Party of the Democratic Left (Slovakia)"
+    },
+    "odu": {
+      "name": "Civic Democratic Union",
+      "color": "#C71585",
+      "article": "Civic Democratic Union (Slovakia)"
+    },
+    "sdss": {
+      "name": "Social Democratic Party of Slovakia",
+      "color": "#E02816",
+      "article": "Social Democratic Party of Slovakia"
+    },
+    "skdh": {
+      "name": "Slovak Christian Democratic Movement",
+      "color": "#F0E68C"
+    },
+    "mos": {
+      "name": "Hungarian Civic Party",
+      "color": "#BFF924",
+      "article": "Hungarian Civic Party (Slovakia)"
+    },
+    "zeleni": {
+      "name": "Party of Greens",
+      "color": "#00AD43",
+      "article": "Green Party (Czech Republic)"
+    },
+    "sv": {
+      "name": "Common Choice",
+      "color": "#ED1B30",
+      "article": "Common Choice"
+    },
+    "mkoal": {
+      "name": "Hungarian Coalition",
+      "color": "#2E8B57"
+    },
+    "du": {
+      "name": "Democratic Union of Slovakia",
+      "color": "#007BA7",
+      "article": "Democratic Union of Slovakia"
+    },
+    "zrs": {
+      "name": "Union of the Workers of Slovakia",
+      "color": "#8B0000",
+      "article": "Union of the Workers of Slovakia"
+    },
+    "kss": {
+      "name": "Communist Party of Slovakia",
+      "color": "#660033",
+      "article": "Communist Party of Slovakia"
+    },
+    "ksu": {
+      "name": "Christian Social Union",
+      "color": "#DAA520"
+    },
+    "nsl": {
+      "name": "New Slovakia",
+      "color": "#9370DB"
+    },
+    "spk": {
+      "name": "Anti-Corruption Party",
+      "color": "#2F4F4F"
+    },
+    "hpcs": {
+      "name": "Movement for a Prosperous Czech Republic and Slovakia",
+      "color": "#CD853F"
+    },
+    "sdk": {
+      "name": "Slovak Democratic Coalition",
+      "color": "#FFDD00",
+      "article": "Slovak Democratic Coalition"
+    },
+    "smk": {
+      "name": "Hungarian Alliance",
+      "color": "#029C02",
+      "article": "Hungarian Alliance (Slovak political party)"
+    },
+    "sop": {
+      "name": "Party of Civic Understanding",
+      "color": "#F53E13",
+      "article": "Party of Civic Understanding"
+    },
+    "sdku": {
+      "name": "Slovak Democratic and Christian Union",
+      "color": "#1E90FF",
+      "article": "Slovak Democratic and Christian Union – Democratic Party"
+    },
+    "smer": {
+      "name": "Direction – Social Democracy",
+      "color": "#D82222",
+      "article": "Direction – Social Democracy"
+    },
+    "ano": {
+      "name": "Alliance of the New Citizen",
+      "color": "#FFB200",
+      "article": "Alliance of the New Citizen"
+    },
+    "psns": {
+      "name": "True Slovak National Party",
+      "color": "#8B4513",
+      "article": "True Slovak National Party"
+    },
+    "hzd": {
+      "name": "Movement for Democracy",
+      "color": "#9932CC",
+      "article": "Movement for Democracy (Slovakia)"
+    },
+    "sda": {
+      "name": "Social Democratic Alternative",
+      "color": "#FF1493",
+      "article": "Social Democratic Alternative"
+    },
+    "sf": {
+      "name": "Free Forum",
+      "color": "#FFFF00",
+      "article": "Free Forum"
+    },
+    "sdl05": {
+      "name": "Party of the Democratic Left",
+      "color": "#C71585"
+    },
+    "sas": {
+      "name": "Freedom and Solidarity",
+      "color": "#A7CF35",
+      "article": "Freedom and Solidarity"
+    },
+    "most": {
+      "name": "Most–Híd",
+      "color": "#FF5300",
+      "article": "Most–Híd"
+    },
+    "lsns": {
+      "name": "People's Party Our Slovakia",
+      "color": "#005222",
+      "article": "People's Party Our Slovakia"
+    },
+    "olano": {
+      "name": "Ordinary People and Independent Personalities",
+      "color": "#42B5C2",
+      "article": "Slovakia Movement"
+    },
+    "p99": {
+      "name": "99% – Civic Voice",
+      "color": "#DA70D6",
+      "article": "99% – Civic Voice"
+    },
+    "zmena": {
+      "name": "Change from Below",
+      "color": "#911EB4",
+      "article": "Change from Below"
+    },
+    "smerodina": {
+      "name": "We Are Family",
+      "color": "#7B68EE",
+      "article": "We Are Family (Slovakia)"
+    },
+    "siet": {
+      "name": "Network",
+      "color": "#0F75BC",
+      "article": "Slovak Conservative Party"
+    },
+    "psspolu": {
+      "name": "Progressive Slovakia–Together",
+      "color": "#1379D9"
+    },
+    "zaludi": {
+      "name": "For the People",
+      "color": "#FDBB12",
+      "article": "For the People (Slovakia)"
+    },
+    "dv": {
+      "name": "Good Choice",
+      "color": "#E75480",
+      "article": "Good Choice"
+    },
+    "vlast": {
+      "name": "Homeland",
+      "color": "#FFA07A",
+      "article": "Homeland (Slovak political party)"
+    },
+    "ps": {
+      "name": "Progressive Slovakia",
+      "color": "#00BDFF",
+      "article": "Progressive Slovakia"
+    },
+    "kds": {
+      "name": "Conservative Democrats of Slovakia",
+      "color": "#6F0470",
+      "article": "Conservative Democrats of Slovakia"
+    },
+    "vasaryova": {
+      "name": "Independent",
+      "color": "#9F86C0"
+    },
+    "mjartan": {
+      "name": "Independent",
+      "color": "#8D7B68"
+    },
+    "zala": {
+      "name": "Independent",
+      "color": "#4B0082"
+    },
+    "schuster": {
+      "name": "Independent",
+      "color": "#F4A460"
+    },
+    "butora": {
+      "name": "Independent",
+      "color": "#3CB44B"
+    },
+    "gasparovic": {
+      "name": "Independent",
+      "color": "#A52A2A"
+    },
+    "bollova": {
+      "name": "Independent",
+      "color": "#7A7A7A"
+    },
+    "kiska": {
+      "name": "Independent",
+      "color": "#2A9D8F"
+    },
+    "prochazka": {
+      "name": "Independent",
+      "color": "#D4A017"
+    },
+    "knazko": {
+      "name": "Independent",
+      "color": "#8E7CC3"
+    },
+    "mezenska": {
+      "name": "Independent",
+      "color": "#B5651D"
+    },
+    "sefcovic": {
+      "name": "Independent (Direction – Social Democracy)",
+      "color": "#E8807A"
+    },
+    "harabin": {
+      "name": "Independent",
+      "color": "#6B4226"
+    },
+    "miklosko": {
+      "name": "Independent",
+      "color": "#5A7D9A"
+    },
+    "chmelar": {
+      "name": "Independent",
+      "color": "#C0A0A0"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "sk-national-council-1990",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1990-06-09",
+      "note": "Slovak National Council",
+      "totalSeats": 150,
+      "turnout": 95.39,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/1990_Slovak_parliamentary_election",
+        "revid": 1324186385
+      },
+      "candidates": [
+        {
+          "name": "Public Against Violence",
+          "party": "vpn",
+          "votes": 991285,
+          "pct": 29.35,
+          "seats": 48,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 648782,
+          "pct": 19.21,
+          "seats": 31,
+          "change": null
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 470984,
+          "pct": 13.94,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Slovakia",
+          "party": "kss1939",
+          "votes": 450855,
+          "pct": 13.35,
+          "seats": 22,
+          "change": -81
+        },
+        {
+          "name": "Coexistence–Hungarian Christian Democratic Movement",
+          "party": "egymkdh",
+          "votes": 292636,
+          "pct": 8.66,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "ds",
+          "votes": 148567,
+          "pct": 4.4,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 117871,
+          "pct": 3.49,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Alliance of Farmers and the Countryside",
+          "party": "szv",
+          "votes": 85060,
+          "pct": 2.52,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Social Democracy",
+          "party": "sd",
+          "votes": 61401,
+          "pct": 1.82,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Freedom Party",
+          "party": "ss",
+          "votes": 60041,
+          "pct": 1.78,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 50244,
+          "pct": 1.49,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Coexistence–Hungarian Christian Democratic Movement row is the two parties' joint list."
+    },
+    {
+      "id": "sk-national-council-1992",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1992-06-06",
+      "note": "Slovak National Council",
+      "totalSeats": 150,
+      "turnout": 84.17,
+      "source": {
+        "name": "Wikipedia, citing the University of Essex election database",
+        "url": "https://en.wikipedia.org/wiki/1992_Slovak_parliamentary_election",
+        "revid": 1373257104
+      },
+      "candidates": [
+        {
+          "name": "Movement for a Democratic Slovakia",
+          "party": "hzds",
+          "votes": 1148625,
+          "pct": 37.26,
+          "seats": 74,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Party of the Democratic Left",
+          "party": "sdl",
+          "votes": 453203,
+          "pct": 14.7,
+          "seats": 29,
+          "change": 7
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 273945,
+          "pct": 8.89,
+          "seats": 18,
+          "change": -13
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 244527,
+          "pct": 7.93,
+          "seats": 15,
+          "change": -7
+        },
+        {
+          "name": "Hungarian Christian Democratic Movement–Coexistence",
+          "party": "egymkdh",
+          "votes": 228885,
+          "pct": 7.42,
+          "seats": 14,
+          "change": 0
+        },
+        {
+          "name": "Civic Democratic Union",
+          "party": "odu",
+          "votes": 124503,
+          "pct": 4.04,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Party of Slovakia",
+          "party": "sdss",
+          "votes": 123426,
+          "pct": 4,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Party–Civic Democratic Party",
+          "party": "ds",
+          "votes": 102058,
+          "pct": 3.31,
+          "seats": 0,
+          "change": -7
+        },
+        {
+          "name": "Slovak Christian Democratic Movement",
+          "party": "skdh",
+          "votes": 94162,
+          "pct": 3.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Hungarian Civic Party",
+          "party": "mos",
+          "votes": 70689,
+          "pct": 2.29,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Party of Greens in Slovakia",
+          "party": "sz",
+          "votes": 66010,
+          "pct": 2.14,
+          "seats": 0,
+          "change": -6
+        },
+        {
+          "name": "Party of Greens",
+          "party": "zeleni",
+          "votes": 33372,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 119291,
+          "pct": 3.87,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Democratic Party row is its joint list with the Civic Democratic Party. \"Party of Greens\" (1.08%) is a different list from the Party of Greens in Slovakia; the table links it to the Czech Green Party article. Turnout as the infobox states it; the table's electorate and votes give 84.20%."
+    },
+    {
+      "id": "sk-national-council-1994",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1994-10-01",
+      "totalSeats": 150,
+      "turnout": 75.65,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/1994_Slovak_parliamentary_election",
+        "revid": 1373256970
+      },
+      "candidates": [
+        {
+          "name": "Movement for a Democratic Slovakia–Peasants' Party of Slovakia",
+          "party": "hzds",
+          "votes": 1005488,
+          "pct": 34.97,
+          "seats": 61,
+          "change": -13,
+          "winner": true
+        },
+        {
+          "name": "Common Choice",
+          "party": "sv",
+          "votes": 299496,
+          "pct": 10.42,
+          "seats": 18,
+          "change": -11
+        },
+        {
+          "name": "Hungarian Coalition (MKM–E–MPP)",
+          "party": "mkoal",
+          "votes": 292936,
+          "pct": 10.19,
+          "seats": 17,
+          "change": 3
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 289987,
+          "pct": 10.08,
+          "seats": 17,
+          "change": -1
+        },
+        {
+          "name": "Democratic Union of Slovakia",
+          "party": "du",
+          "votes": 246444,
+          "pct": 8.57,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Union of the Workers of Slovakia",
+          "party": "zrs",
+          "votes": 211321,
+          "pct": 7.35,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 155359,
+          "pct": 5.4,
+          "seats": 9,
+          "change": -6
+        },
+        {
+          "name": "Democratic Party",
+          "party": "ds",
+          "votes": 98555,
+          "pct": 3.43,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Communist Party of Slovakia",
+          "party": "kss",
+          "votes": 78419,
+          "pct": 2.73,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Christian Social Union",
+          "party": "ksu",
+          "votes": 59217,
+          "pct": 2.06,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "New Slovakia",
+          "party": "nsl",
+          "votes": 38369,
+          "pct": 1.33,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Anti-Corruption Party",
+          "party": "spk",
+          "votes": 37929,
+          "pct": 1.32,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Movement for a Prosperous Czech Republic and Slovakia",
+          "party": "hpcs",
+          "votes": 30292,
+          "pct": 1.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 31646,
+          "pct": 1.1,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The first election after independence. The Movement for a Democratic Slovakia ran with the Peasants' Party of Slovakia, and the Hungarian Coalition list joined MKDH, Coexistence and the Hungarian Civic Party; the table gives each list one row."
+    },
+    {
+      "id": "sk-national-council-1998",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "1998-09-26",
+      "totalSeats": 150,
+      "turnout": 84.25,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/1998_Slovak_parliamentary_election",
+        "revid": 1373256861
+      },
+      "candidates": [
+        {
+          "name": "Movement for a Democratic Slovakia",
+          "party": "hzds",
+          "votes": 907103,
+          "pct": 27,
+          "seats": 43,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Slovak Democratic Coalition",
+          "party": "sdk",
+          "votes": 884497,
+          "pct": 26.33,
+          "seats": 42,
+          "change": 10
+        },
+        {
+          "name": "Party of the Democratic Left",
+          "party": "sdl",
+          "votes": 492507,
+          "pct": 14.66,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Party of the Hungarian Coalition",
+          "party": "smk",
+          "votes": 306623,
+          "pct": 9.13,
+          "seats": 15,
+          "change": -2
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 304839,
+          "pct": 9.07,
+          "seats": 14,
+          "change": 5
+        },
+        {
+          "name": "Party of Civic Understanding",
+          "party": "sop",
+          "votes": 269343,
+          "pct": 8.02,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Slovakia",
+          "party": "kss",
+          "votes": 94015,
+          "pct": 2.8,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Union of the Workers of Slovakia",
+          "party": "zrs",
+          "votes": 43809,
+          "pct": 1.3,
+          "seats": 0,
+          "change": -13
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 56440,
+          "pct": 1.68,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The table gives no seat change for the Party of the Democratic Left. The Party of the Hungarian Coalition is filed under the Hungarian Alliance, the article its link now leads to."
+    },
+    {
+      "id": "sk-national-council-2002",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2002-09-21",
+      "totalSeats": 150,
+      "turnout": 70.07,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/2002_Slovak_parliamentary_election",
+        "revid": 1378175140
+      },
+      "candidates": [
+        {
+          "name": "Movement for a Democratic Slovakia",
+          "party": "hzds",
+          "votes": 560691,
+          "pct": 19.5,
+          "seats": 36,
+          "change": -7,
+          "winner": true
+        },
+        {
+          "name": "Slovak Democratic and Christian Union",
+          "party": "sdku",
+          "votes": 433953,
+          "pct": 15.09,
+          "seats": 28,
+          "change": null
+        },
+        {
+          "name": "Direction",
+          "party": "smer",
+          "votes": 387100,
+          "pct": 13.46,
+          "seats": 25,
+          "change": null
+        },
+        {
+          "name": "Party of the Hungarian Coalition",
+          "party": "smk",
+          "votes": 321069,
+          "pct": 11.17,
+          "seats": 20,
+          "change": 5
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 237202,
+          "pct": 8.25,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Alliance of the New Citizen",
+          "party": "ano",
+          "votes": 230309,
+          "pct": 8.01,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Slovakia",
+          "party": "kss",
+          "votes": 181872,
+          "pct": 6.33,
+          "seats": 11,
+          "change": 11
+        },
+        {
+          "name": "True Slovak National Party",
+          "party": "psns",
+          "votes": 105084,
+          "pct": 3.65,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 95633,
+          "pct": 3.33,
+          "seats": 0,
+          "change": -14
+        },
+        {
+          "name": "Movement for Democracy",
+          "party": "hzd",
+          "votes": 94324,
+          "pct": 3.28,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Alternative",
+          "party": "sda",
+          "votes": 51649,
+          "pct": 1.8,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Party of the Democratic Left",
+          "party": "sdl",
+          "votes": 39163,
+          "pct": 1.36,
+          "seats": 0,
+          "change": -23
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 137032,
+          "pct": 4.77,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The table gives no seat change for the Christian Democratic Movement."
+    },
+    {
+      "id": "sk-national-council-2006",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2006-06-17",
+      "totalSeats": 150,
+      "turnout": 54.67,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver and the European Election Database",
+        "url": "https://en.wikipedia.org/wiki/2006_Slovak_parliamentary_election",
+        "revid": 1374206850
+      },
+      "candidates": [
+        {
+          "name": "Direction – Social Democracy",
+          "party": "smer",
+          "votes": 671185,
+          "pct": 29.14,
+          "seats": 50,
+          "change": 25,
+          "winner": true
+        },
+        {
+          "name": "Slovak Democratic and Christian Union – Democratic Party",
+          "party": "sdku",
+          "votes": 422815,
+          "pct": 18.36,
+          "seats": 31,
+          "change": 3
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 270230,
+          "pct": 11.73,
+          "seats": 20,
+          "change": 20
+        },
+        {
+          "name": "Party of the Hungarian Coalition",
+          "party": "smk",
+          "votes": 269111,
+          "pct": 11.68,
+          "seats": 20,
+          "change": 0
+        },
+        {
+          "name": "People's Party – Movement for a Democratic Slovakia",
+          "party": "hzds",
+          "votes": 202540,
+          "pct": 8.79,
+          "seats": 15,
+          "change": -21
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 191443,
+          "pct": 8.31,
+          "seats": 14,
+          "change": -1
+        },
+        {
+          "name": "Communist Party of Slovakia",
+          "party": "kss",
+          "votes": 89418,
+          "pct": 3.88,
+          "seats": 0,
+          "change": -11
+        },
+        {
+          "name": "Free Forum",
+          "party": "sf",
+          "votes": 79963,
+          "pct": 3.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Alliance of the New Citizen",
+          "party": "ano",
+          "votes": 32775,
+          "pct": 1.42,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 73659,
+          "pct": 3.2,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BL": "sdku",
+        "TA": "smk",
+        "TC": "smer",
+        "NI": "smk",
+        "ZI": "smer",
+        "BC": "smer",
+        "PV": "smer",
+        "KI": "smer"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2006_Slovak_parliamentary_election#Results_by_region",
+      "notes": "Region winners have the highest share in the article's results-by-region table."
+    },
+    {
+      "id": "sk-national-council-2010",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2010-06-12",
+      "totalSeats": 150,
+      "turnout": 58.65,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic and IFES",
+        "url": "https://en.wikipedia.org/wiki/2010_Slovak_parliamentary_election",
+        "revid": 1374206773
+      },
+      "candidates": [
+        {
+          "name": "Direction – Social Democracy",
+          "party": "smer",
+          "votes": 880111,
+          "pct": 34.8,
+          "seats": 62,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Slovak Democratic and Christian Union – Democratic Party",
+          "party": "sdku",
+          "votes": 390042,
+          "pct": 15.42,
+          "seats": 28,
+          "change": -3
+        },
+        {
+          "name": "Freedom and Solidarity",
+          "party": "sas",
+          "votes": 307287,
+          "pct": 12.15,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 215755,
+          "pct": 8.53,
+          "seats": 15,
+          "change": 1
+        },
+        {
+          "name": "Most–Híd",
+          "party": "most",
+          "votes": 205538,
+          "pct": 8.13,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 128490,
+          "pct": 5.08,
+          "seats": 9,
+          "change": -11
+        },
+        {
+          "name": "Party of the Hungarian Coalition",
+          "party": "smk",
+          "votes": 109638,
+          "pct": 4.33,
+          "seats": 0,
+          "change": -20
+        },
+        {
+          "name": "People's Party – Movement for a Democratic Slovakia",
+          "party": "hzds",
+          "votes": 109480,
+          "pct": 4.33,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Party of the Democratic Left",
+          "party": "sdl05",
+          "votes": 61137,
+          "pct": 2.42,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "People's Party Our Slovakia",
+          "party": "lsns",
+          "votes": 33724,
+          "pct": 1.33,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 88183,
+          "pct": 3.49,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BL": "sdku",
+        "TA": "smer",
+        "TC": "smer",
+        "NI": "smer",
+        "ZI": "smer",
+        "BC": "smer",
+        "PV": "smer",
+        "KI": "smer"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_Slovak_parliamentary_election#Results_by_region",
+      "notes": "The table does not link this Party of the Democratic Left to the 1990s party of that name, so it has its own key. Region winners have the highest share in the article's results-by-region table."
+    },
+    {
+      "id": "sk-national-council-2012",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2012-03-10",
+      "totalSeats": 150,
+      "turnout": 58.9,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2012_Slovak_parliamentary_election",
+        "revid": 1375248558
+      },
+      "candidates": [
+        {
+          "name": "Direction – Social Democracy",
+          "party": "smer",
+          "votes": 1134280,
+          "pct": 44.42,
+          "seats": 83,
+          "change": 21,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 225361,
+          "pct": 8.82,
+          "seats": 16,
+          "change": 1
+        },
+        {
+          "name": "Ordinary People and Independent Personalities",
+          "party": "olano",
+          "votes": 218537,
+          "pct": 8.56,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Most–Híd",
+          "party": "most",
+          "votes": 176088,
+          "pct": 6.9,
+          "seats": 13,
+          "change": -1
+        },
+        {
+          "name": "Slovak Democratic and Christian Union – Democratic Party",
+          "party": "sdku",
+          "votes": 155744,
+          "pct": 6.1,
+          "seats": 11,
+          "change": -17
+        },
+        {
+          "name": "Freedom and Solidarity",
+          "party": "sas",
+          "votes": 150266,
+          "pct": 5.88,
+          "seats": 11,
+          "change": -11
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 116420,
+          "pct": 4.56,
+          "seats": 0,
+          "change": -9
+        },
+        {
+          "name": "Party of the Hungarian Community",
+          "party": "smk",
+          "votes": 109483,
+          "pct": 4.29,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "99% – Civic Voice",
+          "party": "p99",
+          "votes": 40488,
+          "pct": 1.59,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "People's Party Our Slovakia",
+          "party": "lsns",
+          "votes": 40460,
+          "pct": 1.58,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Zmena zdola",
+          "party": "zmena",
+          "votes": 33155,
+          "pct": 1.3,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Party of Freedom of Speech – Nora Mojsejová",
+          "party": "ano",
+          "votes": 31159,
+          "pct": 1.22,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 122285,
+          "pct": 4.79,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Party of Freedom of Speech – Nora Mojsejová is filed under the Alliance of the New Citizen, the article the table links."
+    },
+    {
+      "id": "sk-national-council-2016",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2016-03-05",
+      "totalSeats": 150,
+      "turnout": 59.38,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2016_Slovak_parliamentary_election",
+        "revid": 1374207119
+      },
+      "candidates": [
+        {
+          "name": "Direction – Social Democracy",
+          "party": "smer",
+          "votes": 737481,
+          "pct": 28.28,
+          "seats": 49,
+          "change": -34,
+          "winner": true
+        },
+        {
+          "name": "Freedom and Solidarity",
+          "party": "sas",
+          "votes": 315558,
+          "pct": 12.1,
+          "seats": 21,
+          "change": 10
+        },
+        {
+          "name": "OĽANO–NOVA",
+          "party": "olano",
+          "votes": 287611,
+          "pct": 11.03,
+          "seats": 19,
+          "change": 3
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 225386,
+          "pct": 8.64,
+          "seats": 15,
+          "change": 15
+        },
+        {
+          "name": "Kotleba – People's Party Our Slovakia",
+          "party": "lsns",
+          "votes": 209779,
+          "pct": 8.04,
+          "seats": 14,
+          "change": 14
+        },
+        {
+          "name": "We Are Family",
+          "party": "smerodina",
+          "votes": 172860,
+          "pct": 6.63,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Most–Híd",
+          "party": "most",
+          "votes": 169593,
+          "pct": 6.5,
+          "seats": 11,
+          "change": -2
+        },
+        {
+          "name": "Network",
+          "party": "siet",
+          "votes": 146205,
+          "pct": 5.61,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 128908,
+          "pct": 4.94,
+          "seats": 0,
+          "change": -16
+        },
+        {
+          "name": "Party of the Hungarian Community",
+          "party": "smk",
+          "votes": 105495,
+          "pct": 4.05,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Slovak Democratic and Christian Union – Democratic Party",
+          "party": "sdku",
+          "votes": 6938,
+          "pct": 0.27,
+          "seats": 0,
+          "change": -11
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 101936,
+          "pct": 3.91,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Slovak Democratic and Christian Union is listed because it lost 11 seats. Network is filed under the Slovak Conservative Party, the article the table links."
+    },
+    {
+      "id": "sk-national-council-2020",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2020-02-29",
+      "totalSeats": 150,
+      "turnout": 65.75,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2020_Slovak_parliamentary_election",
+        "revid": 1374204834
+      },
+      "candidates": [
+        {
+          "name": "OĽANO–NOVA–KÚ–ZZ",
+          "party": "olano",
+          "votes": 721166,
+          "pct": 25.03,
+          "seats": 53,
+          "change": 34,
+          "winner": true
+        },
+        {
+          "name": "Direction – Social Democracy",
+          "party": "smer",
+          "votes": 527172,
+          "pct": 18.29,
+          "seats": 38,
+          "change": -11
+        },
+        {
+          "name": "We Are Family",
+          "party": "smerodina",
+          "votes": 237531,
+          "pct": 8.24,
+          "seats": 17,
+          "change": 6
+        },
+        {
+          "name": "Kotlebists – People's Party Our Slovakia",
+          "party": "lsns",
+          "votes": 229660,
+          "pct": 7.97,
+          "seats": 17,
+          "change": 3
+        },
+        {
+          "name": "Freedom and Solidarity",
+          "party": "sas",
+          "votes": 179246,
+          "pct": 6.22,
+          "seats": 13,
+          "change": -8
+        },
+        {
+          "name": "For the People",
+          "party": "zaludi",
+          "votes": 166325,
+          "pct": 5.77,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Progressive Slovakia–Together coalition",
+          "party": "psspolu",
+          "votes": 200780,
+          "pct": 6.97,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 134099,
+          "pct": 4.65,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Hungarian Community Togetherness",
+          "party": "smk",
+          "votes": 112662,
+          "pct": 3.91,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 91171,
+          "pct": 3.16,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Good Choice",
+          "party": "dv",
+          "votes": 88220,
+          "pct": 3.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Homeland",
+          "party": "vlast",
+          "votes": 84507,
+          "pct": 2.93,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Bridge",
+          "party": "most",
+          "votes": 59174,
+          "pct": 2.05,
+          "seats": 0,
+          "change": -11
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 49798,
+          "pct": 1.73,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "BL": "olano",
+        "TA": "olano",
+        "TC": "olano",
+        "NI": "olano",
+        "ZI": "olano",
+        "BC": "olano",
+        "PV": "olano",
+        "KI": "olano"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2020_Slovak_parliamentary_election#Results_by_region",
+      "notes": "The Progressive Slovakia–Together coalition took 6.97% but won no seats. Hungarian Community Togetherness is filed under the Hungarian Alliance, the article the table's link leads to. Region winners have the highest share in the article's results-by-region table."
+    },
+    {
+      "id": "sk-president-1999",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1999-05-15",
+      "turnout": 75.45,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/1999_Slovak_presidential_election",
+        "revid": 1373256768
+      },
+      "candidates": [
+        {
+          "name": "Rudolf Schuster",
+          "party": "sop",
+          "votes": 1727481,
+          "pct": 57.18,
+          "winner": true
+        },
+        {
+          "name": "Vladimír Mečiar",
+          "party": "hzds",
+          "votes": 1293642,
+          "pct": 42.82
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1999-05-15",
+          "candidates": [
+            {
+              "name": "Rudolf Schuster",
+              "party": "sop",
+              "votes": 1396950,
+              "pct": 47.38
+            },
+            {
+              "name": "Vladimír Mečiar",
+              "party": "hzds",
+              "votes": 1097956,
+              "pct": 37.24
+            },
+            {
+              "name": "Magdaléna Vášáryová",
+              "party": "vasaryova",
+              "votes": 194635,
+              "pct": 6.6
+            },
+            {
+              "name": "Ivan Mjartan",
+              "party": "mjartan",
+              "votes": 105903,
+              "pct": 3.59
+            },
+            {
+              "name": "Ján Slota",
+              "party": "sns",
+              "votes": 73836,
+              "pct": 2.5
+            },
+            {
+              "name": "Boris Zala",
+              "party": "zala",
+              "votes": 29697,
+              "pct": 1.01
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 49425,
+              "pct": 1.68
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "1999-05-29",
+          "candidates": [
+            {
+              "name": "Rudolf Schuster",
+              "party": "sop",
+              "votes": 1727481,
+              "pct": 57.18,
+              "winner": true
+            },
+            {
+              "name": "Vladimír Mečiar",
+              "party": "hzds",
+              "votes": 1293642,
+              "pct": 42.82
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 73.89%). First-round Others: Juraj Švec, Juraj Lazarčík, Michal Kováč, Ján Demikát. The first direct presidential election."
+    },
+    {
+      "id": "sk-president-2004",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2004-04-03",
+      "turnout": 43.5,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, the European Election Database and Our Campaigns",
+        "url": "https://en.wikipedia.org/wiki/2004_Slovak_presidential_election",
+        "revid": 1373226373
+      },
+      "candidates": [
+        {
+          "name": "Ivan Gašparovič",
+          "party": "hzd",
+          "votes": 1079592,
+          "pct": 59.91,
+          "winner": true
+        },
+        {
+          "name": "Vladimír Mečiar",
+          "party": "hzds",
+          "votes": 722368,
+          "pct": 40.09
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2004-04-03",
+          "candidates": [
+            {
+              "name": "Vladimír Mečiar",
+              "party": "hzds",
+              "votes": 650242,
+              "pct": 32.74
+            },
+            {
+              "name": "Ivan Gašparovič",
+              "party": "hzd",
+              "votes": 442564,
+              "pct": 22.28
+            },
+            {
+              "name": "Eduard Kukan",
+              "party": "sdku",
+              "votes": 438920,
+              "pct": 22.1
+            },
+            {
+              "name": "Rudolf Schuster",
+              "party": "schuster",
+              "votes": 147549,
+              "pct": 7.43
+            },
+            {
+              "name": "František Mikloško",
+              "party": "kdh",
+              "votes": 129414,
+              "pct": 6.52
+            },
+            {
+              "name": "Martin Bútora",
+              "party": "butora",
+              "votes": 129387,
+              "pct": 6.51
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 48138,
+              "pct": 2.42
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2004-04-17",
+          "candidates": [
+            {
+              "name": "Ivan Gašparovič",
+              "party": "hzd",
+              "votes": 1079592,
+              "pct": 59.91,
+              "winner": true
+            },
+            {
+              "name": "Vladimír Mečiar",
+              "party": "hzds",
+              "votes": 722368,
+              "pct": 40.09
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 47.94%). First-round Others: Ján Králik, Jozef Kalman, Július Kubík, Jozef Šesták, Stanislav Bernát, Ľubomír Roman."
+    },
+    {
+      "id": "sk-president-2009",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2009-03-21",
+      "turnout": 51.65,
+      "source": {
+        "name": "Wikipedia, citing IFES",
+        "url": "https://en.wikipedia.org/wiki/2009_Slovak_presidential_election",
+        "revid": 1374203573
+      },
+      "candidates": [
+        {
+          "name": "Ivan Gašparovič",
+          "party": "gasparovic",
+          "votes": 1234787,
+          "pct": 55.53,
+          "winner": true
+        },
+        {
+          "name": "Iveta Radičová",
+          "party": "sdku",
+          "votes": 988808,
+          "pct": 44.47
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2009-03-21",
+          "candidates": [
+            {
+              "name": "Ivan Gašparovič",
+              "party": "gasparovic",
+              "votes": 876061,
+              "pct": 46.71
+            },
+            {
+              "name": "Iveta Radičová",
+              "party": "sdku",
+              "votes": 713735,
+              "pct": 38.05
+            },
+            {
+              "name": "František Mikloško",
+              "party": "kds",
+              "votes": 101573,
+              "pct": 5.42
+            },
+            {
+              "name": "Zuzana Martináková",
+              "party": "sf",
+              "votes": 96035,
+              "pct": 5.12
+            },
+            {
+              "name": "Milan Melník",
+              "party": "hzds",
+              "votes": 45985,
+              "pct": 2.45
+            },
+            {
+              "name": "Dagmara Bollová",
+              "party": "bollova",
+              "votes": 21378,
+              "pct": 1.14
+            },
+            {
+              "name": "Milan Sidor",
+              "party": "kss",
+              "votes": 20862,
+              "pct": 1.11
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2009-04-04",
+          "candidates": [
+            {
+              "name": "Ivan Gašparovič",
+              "party": "gasparovic",
+              "votes": 1234787,
+              "pct": 55.53,
+              "winner": true
+            },
+            {
+              "name": "Iveta Radičová",
+              "party": "sdku",
+              "votes": 988808,
+              "pct": 44.47
+            }
+          ]
+        }
+      ],
+      "regionWinners": {
+        "BL": "sdku",
+        "TA": "sdku",
+        "TC": "gasparovic",
+        "NI": "sdku",
+        "ZI": "gasparovic",
+        "BC": "gasparovic",
+        "PV": "gasparovic",
+        "KI": "gasparovic"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2009_Slovak_presidential_election#By_region",
+      "notes": "Turnout is the run-off's (first round 43.62%). Region winners lead the run-off in the article's by-region table."
+    },
+    {
+      "id": "sk-president-2014",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2014-03-15",
+      "turnout": 50.47,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2014_Slovak_presidential_election",
+        "revid": 1372082163
+      },
+      "candidates": [
+        {
+          "name": "Andrej Kiska",
+          "party": "kiska",
+          "votes": 1307065,
+          "pct": 59.39,
+          "winner": true
+        },
+        {
+          "name": "Robert Fico",
+          "party": "smer",
+          "votes": 893841,
+          "pct": 40.61
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2014-03-15",
+          "candidates": [
+            {
+              "name": "Robert Fico",
+              "party": "smer",
+              "votes": 531919,
+              "pct": 28.01
+            },
+            {
+              "name": "Andrej Kiska",
+              "party": "kiska",
+              "votes": 455996,
+              "pct": 24.01
+            },
+            {
+              "name": "Radoslav Procházka",
+              "party": "prochazka",
+              "votes": 403548,
+              "pct": 21.25
+            },
+            {
+              "name": "Milan Kňažko",
+              "party": "knazko",
+              "votes": 244401,
+              "pct": 12.87
+            },
+            {
+              "name": "Gyula Bárdos",
+              "party": "smk",
+              "votes": 97035,
+              "pct": 5.11
+            },
+            {
+              "name": "Pavol Hrušovský",
+              "party": "kdh",
+              "votes": 63298,
+              "pct": 3.33
+            },
+            {
+              "name": "Helena Mezenská",
+              "party": "mezenska",
+              "votes": 45180,
+              "pct": 2.38
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 57955,
+              "pct": 3.05
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2014-03-29",
+          "candidates": [
+            {
+              "name": "Andrej Kiska",
+              "party": "kiska",
+              "votes": 1307065,
+              "pct": 59.39,
+              "winner": true
+            },
+            {
+              "name": "Robert Fico",
+              "party": "smer",
+              "votes": 893841,
+              "pct": 40.61
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 43.39%). First-round Others: Ján Jurišta, Ján Čarnogurský, Viliam Fischer, Jozef Behýl, Milan Melník, Jozef Šimko, Stanislav Martinčko. The table lists KDH, SDKÚ–DS and Most–Híd as Pavol Hrušovský's parties; he is filed under KDH, the first of them."
+    },
+    {
+      "id": "sk-president-2019",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2019-03-16",
+      "turnout": 41.8,
+      "source": {
+        "name": "Wikipedia, citing the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2019_Slovak_presidential_election",
+        "revid": 1374897475
+      },
+      "candidates": [
+        {
+          "name": "Zuzana Čaputová",
+          "party": "ps",
+          "votes": 1056582,
+          "pct": 58.41,
+          "winner": true
+        },
+        {
+          "name": "Maroš Šefčovič",
+          "party": "sefcovic",
+          "votes": 752403,
+          "pct": 41.59
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2019-03-16",
+          "candidates": [
+            {
+              "name": "Zuzana Čaputová",
+              "party": "ps",
+              "votes": 870415,
+              "pct": 40.57
+            },
+            {
+              "name": "Maroš Šefčovič",
+              "party": "sefcovic",
+              "votes": 400379,
+              "pct": 18.66
+            },
+            {
+              "name": "Štefan Harabin",
+              "party": "harabin",
+              "votes": 307823,
+              "pct": 14.35
+            },
+            {
+              "name": "Marian Kotleba",
+              "party": "lsns",
+              "votes": 222935,
+              "pct": 10.39
+            },
+            {
+              "name": "František Mikloško",
+              "party": "miklosko",
+              "votes": 122916,
+              "pct": 5.73
+            },
+            {
+              "name": "Béla Bugár",
+              "party": "most",
+              "votes": 66667,
+              "pct": 3.11
+            },
+            {
+              "name": "Milan Krajniak",
+              "party": "smerodina",
+              "votes": 59464,
+              "pct": 2.77
+            },
+            {
+              "name": "Eduard Chmelár",
+              "party": "chmelar",
+              "votes": 58965,
+              "pct": 2.75
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 35800,
+              "pct": 1.67
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2019-03-30",
+          "candidates": [
+            {
+              "name": "Zuzana Čaputová",
+              "party": "ps",
+              "votes": 1056582,
+              "pct": 58.41,
+              "winner": true
+            },
+            {
+              "name": "Maroš Šefčovič",
+              "party": "sefcovic",
+              "votes": 752403,
+              "pct": 41.59
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 48.74%). First-round Others: Martin Daňo, Róbert Švec, Juraj Zábojník, Ivan Zuzula, Bohumila Tauchmannová, Robert Mistrík, József Menyhárt."
+    }
+  ]
+}

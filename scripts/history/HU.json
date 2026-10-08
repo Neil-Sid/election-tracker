@@ -1,0 +1,1631 @@
+{
+ "code": "HU",
+ "parties": {
+  "mdp": {
+   "name": "Hungarian Working People's Party",
+   "color": "#DD0000",
+   "article": "Hungarian Working People's Party"
+  },
+  "mszmp": {
+   "name": "Hungarian Socialist Workers' Party",
+   "color": "#DD0000",
+   "article": "Hungarian Socialist Workers' Party"
+  },
+  "fkgp": {
+   "name": "Independent Smallholders' Party",
+   "color": "#36492B",
+   "article": "Independent Smallholders, Agrarian Workers and Civic Party"
+  },
+  "npp": {
+   "name": "National Peasant Party",
+   "color": "#FFCC00",
+   "article": "National Peasant Party (Hungary)"
+  },
+  "fmdp": {
+   "name": "Independent Hungarian Democratic Party",
+   "color": "#50C878",
+   "article": "Independent Hungarian Democratic Party"
+  },
+  "mrp": {
+   "name": "Hungarian Radical Party",
+   "color": "#E30B5C",
+   "article": "Hungarian Radical Party"
+  },
+  "mdf": {
+   "name": "Hungarian Democratic Forum",
+   "color": "#009A68",
+   "article": "Hungarian Democratic Forum"
+  },
+  "szdsz": {
+   "name": "Alliance of Free Democrats",
+   "color": "#1CA8E6",
+   "article": "Alliance of Free Democrats"
+  },
+  "mszp": {
+   "name": "Hungarian Socialist Party",
+   "color": "#CC0000",
+   "article": "Hungarian Socialist Party"
+  },
+  "fidesz": {
+   "name": "Fidesz",
+   "color": "#FF6A00",
+   "article": "Fidesz"
+  },
+  "kdnp": {
+   "name": "Christian Democratic People's Party",
+   "color": "#938862",
+   "article": "Christian Democratic People's Party (Hungary)"
+  },
+  "munkas": {
+   "name": "Hungarian Workers' Party",
+   "color": "#800000",
+   "article": "Hungarian Workers' Party"
+  },
+  "mszdp": {
+   "name": "Social Democratic Party of Hungary",
+   "color": "#E8738A",
+   "article": "Social Democratic Party of Hungary"
+  },
+  "asz": {
+   "name": "Agrarian Alliance",
+   "color": "#EDED00",
+   "article": "Agrarian Alliance"
+  },
+  "vp": {
+   "name": "Entrepreneurs' Party",
+   "color": "#A0522D",
+   "article": "Entrepreneurs' Party"
+  },
+  "hvk": {
+   "name": "Patriotic Electoral Coalition",
+   "color": "#7B3F61",
+   "article": "Patriotic Electoral Coalition"
+  },
+  "szdszfidesz": {
+   "name": "SZDSZ–Fidesz joint candidates",
+   "color": "#7FA6C9"
+  },
+  "aszszfv": {
+   "name": "ASZ–SZFV joint candidate",
+   "color": "#C9C35A"
+  },
+  "kdnpfideszszdsz": {
+   "name": "KDNP–Fidesz–SZDSZ joint candidate",
+   "color": "#B79E6E"
+  },
+  "kp": {
+   "name": "Republican Party",
+   "color": "#0067A5",
+   "article": "Republican Party (Hungary)"
+  },
+  "miep": {
+   "name": "Hungarian Justice and Life Party",
+   "color": "#CC9900",
+   "article": "Hungarian Justice and Life Party"
+  },
+  "vpaszszdszfidesz": {
+   "name": "VP–ASZ–SZDSZ–Fidesz joint candidate",
+   "color": "#C7A27C"
+  },
+  "mdnp": {
+   "name": "Hungarian Democratic People's Party",
+   "color": "#2E8B8B",
+   "article": "Hungarian Democratic People's Party"
+  },
+  "fideszmdf": {
+   "name": "Fidesz–MDF joint list",
+   "color": "#FF6A00"
+  },
+  "centrumkdnp": {
+   "name": "Centre Party–KDNP joint list",
+   "color": "#938862"
+  },
+  "mszpszdsz": {
+   "name": "MSZP–SZDSZ joint candidates",
+   "color": "#D46A8A"
+  },
+  "fideszkdnp": {
+   "name": "Fidesz–KDNP",
+   "color": "#FF6A00",
+   "article": "Fidesz–KDNP"
+  },
+  "somogy": {
+   "name": "Association for Somogy",
+   "color": "#404040",
+   "article": "Association for Somogy"
+  },
+  "miepjobbik": {
+   "name": "MIÉP–Jobbik Third Way",
+   "color": "#CC9900",
+   "article": "MIÉP–Jobbik Third Way Alliance of Parties"
+  },
+  "jobbik": {
+   "name": "Jobbik",
+   "color": "#000000",
+   "article": "Jobbik"
+  },
+  "lmp": {
+   "name": "LMP – Hungary's Green Party",
+   "color": "#54B586",
+   "article": "LMP – Hungary's Green Party"
+  },
+  "fideszkdnpvp": {
+   "name": "Fidesz–KDNP–VP joint candidate",
+   "color": "#FFB37F"
+  },
+  "unity": {
+   "name": "Unity",
+   "color": "#C71585",
+   "article": "Unity (Hungary)"
+  },
+  "mszpp": {
+   "name": "MSZP–Párbeszéd",
+   "color": "#CE171B"
+  },
+  "dk": {
+   "name": "Democratic Coalition",
+   "color": "#2A61A4",
+   "article": "Democratic Coalition (Hungary)"
+  },
+  "momentum": {
+   "name": "Momentum Movement",
+   "color": "#8E6FCE",
+   "article": "Momentum Movement"
+  },
+  "mkkp": {
+   "name": "Hungarian Two-Tailed Dog Party",
+   "color": "#808080",
+   "article": "Hungarian Two Tailed Dog Party"
+  },
+  "egyutt": {
+   "name": "Together",
+   "color": "#FED500",
+   "article": "Together (Hungary)"
+  },
+  "ldu": {
+   "name": "National Self-Government of Germans",
+   "color": "#8B4513",
+   "article": "National Self-Government of Germans in Hungary"
+  },
+  "em": {
+   "name": "United for Hungary",
+   "color": "#4CB5A2",
+   "article": "United for Hungary"
+  },
+  "mihazank": {
+   "name": "Our Homeland Movement",
+   "color": "#688D1B",
+   "article": "Our Homeland Movement"
+  },
+  "megoldas": {
+   "name": "Solution Movement",
+   "color": "#AC0A0E",
+   "article": "Solution Movement"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#DCDCDC",
+   "article": "Independent politician"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#E5E5EA"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "hu-national-assembly-1949",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1949-05-15",
+   "note": "Single list, not competitive",
+   "totalSeats": 402,
+   "turnout": 94.66,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1949_Hungarian_parliamentary_election",
+    "revid": 1301516383
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Working People's Party",
+     "party": "mdp",
+     "votes": null,
+     "pct": null,
+     "seats": 285,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independent Smallholders Party",
+     "party": "fkgp",
+     "votes": null,
+     "pct": null,
+     "seats": 62,
+     "change": null
+    },
+    {
+     "name": "National Peasant Party",
+     "party": "npp",
+     "votes": null,
+     "pct": null,
+     "seats": 39,
+     "change": null
+    },
+    {
+     "name": "Independent Hungarian Democratic Party",
+     "party": "fmdp",
+     "votes": null,
+     "pct": null,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Hungarian Radical Party",
+     "party": "mrp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "notes": "All seats went to the Hungarian Independent People's Front list, led by the Working People's Party: 5,478,515 votes, with 165,283 against and 86,721 invalid. The table gives seats by party but not votes, so only seats are shown. It has no seat-change column."
+  },
+  {
+   "id": "hu-national-assembly-1953",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1953-05-17",
+   "note": "Single list, not competitive",
+   "totalSeats": 298,
+   "turnout": 97.98,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1953_Hungarian_parliamentary_election",
+    "revid": 1355085769
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Working People's Party",
+     "party": "mdp",
+     "votes": null,
+     "pct": null,
+     "seats": 206,
+     "change": -79,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 92,
+     "change": -25
+    }
+   ],
+   "notes": "Single list of the Hungarian Independent People's Front: 6,256,653 votes, with 61,257 against and 52,609 invalid. Votes are not split by party, so only seats are shown. The table's change for independents (−25) compares with the 117 seats held in 1949 by the Front's other parties and independents."
+  },
+  {
+   "id": "hu-national-assembly-1958",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1958-11-16",
+   "note": "Single list, not competitive",
+   "totalSeats": 338,
+   "turnout": 98.38,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1958_Hungarian_parliamentary_election",
+    "revid": 1310992212
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 276,
+     "change": 70,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 62,
+     "change": -30
+    }
+   ],
+   "notes": "Single list of the Patriotic People's Front: 6,431,832 votes, with 28,651 against and 33,197 invalid. Votes are not split by party, so only seats are shown. The Socialist Workers' Party replaced the Working People's Party after 1956; the table's change compares with that party's 1953 seats."
+  },
+  {
+   "id": "hu-national-assembly-1963",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1963-02-24",
+   "note": "Single list, not competitive",
+   "totalSeats": 340,
+   "turnout": 97.2,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1963_Hungarian_parliamentary_election",
+    "revid": 1332216185
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 252,
+     "change": -24,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 88,
+     "change": 26
+    }
+   ],
+   "notes": "Single list of the Patriotic People's Front: 6,813,058 votes, with 75,777 against and 26,809 invalid. Votes are not split by party, so only seats are shown. The infobox dates the election 24 February 1963; the lead says 24 August."
+  },
+  {
+   "id": "hu-national-assembly-1967",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1967-03-19",
+   "note": "Single list, not competitive",
+   "totalSeats": 349,
+   "turnout": 98.83,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1967_Hungarian_parliamentary_election",
+    "revid": 1332216201
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 259,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 90,
+     "change": 2
+    }
+   ],
+   "notes": "Single list of the Patriotic People's Front: 7,086,596 votes, with 19,113 against and 25,442 invalid. Votes are not split by party, so only seats are shown. Only nine constituencies had more than one candidate."
+  },
+  {
+   "id": "hu-national-assembly-1971",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1971-04-25",
+   "note": "Single list, not competitive",
+   "totalSeats": 352,
+   "turnout": 98.69,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1971_Hungarian_parliamentary_election",
+    "revid": 1310804713
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 224,
+     "change": -35,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 128,
+     "change": 38
+    }
+   ],
+   "notes": "Single list of the Patriotic People's Front: 7,189,125 votes, with 68,996 against and 76,797 invalid. Votes are not split by party, so only seats are shown. 49 constituencies had more than one candidate."
+  },
+  {
+   "id": "hu-national-assembly-1975",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1975-06-15",
+   "note": "Single list, not competitive",
+   "totalSeats": 352,
+   "turnout": 96.99,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1975_Hungarian_parliamentary_election",
+    "revid": 1332216216
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 215,
+     "change": -9,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 137,
+     "change": 9
+    }
+   ],
+   "notes": "Single list of the Patriotic People's Front. The table gives only shares: 99.6% for the Front and 0.4% against, of 7,527,169 votes cast. Seats only."
+  },
+  {
+   "id": "hu-national-assembly-1980",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1980-06-08",
+   "note": "Single list, not competitive",
+   "totalSeats": 352,
+   "turnout": 97.03,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1980_Hungarian_parliamentary_election",
+    "revid": 1332216225
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 252,
+     "change": 37,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 100,
+     "change": -37
+    }
+   ],
+   "notes": "Single list of the Patriotic People's Front: 7,462,593 votes, with 54,070 against and 60,738 invalid. Votes are not split by party, so only seats are shown."
+  },
+  {
+   "id": "hu-national-assembly-1985",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1985-06-08",
+   "note": "Single list, not competitive",
+   "totalSeats": 387,
+   "turnout": 94.02,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010) and the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1985_Hungarian_parliamentary_election",
+    "revid": 1364997841
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "mszmp",
+     "votes": null,
+     "pct": null,
+     "seats": 288,
+     "change": 36,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 98,
+     "change": -2
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Patriotic People's Front candidates only, with at least two per constituency: 6,636,685 constituency votes (79,702 against, 386,759 invalid) and 7,145,601 for the 35-seat national list (64,894 against, 55,420 invalid). Votes are not split by party, so only seats are shown. One seat (Keszthely) stayed vacant until a 1986 by-election, as the table shows. Turnout is the infobox figure, which matches the national-list ballot."
+  },
+  {
+   "id": "hu-national-assembly-1990",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1990-03-25",
+   "totalSeats": 386,
+   "turnout": 65.11,
+   "source": {
+    "name": "Wikipedia, citing CLEA and Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1990_Hungarian_parliamentary_election",
+    "revid": 1367963409
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Democratic Forum",
+     "party": "mdf",
+     "votes": 1214359,
+     "pct": 24.73,
+     "seats": 164,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "party": "szdsz",
+     "votes": 1050799,
+     "pct": 21.4,
+     "seats": 92,
+     "change": null
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "party": "fkgp",
+     "votes": 576315,
+     "pct": 11.73,
+     "seats": 44,
+     "change": null
+    },
+    {
+     "name": "Hungarian Socialist Party",
+     "party": "mszp",
+     "votes": 535064,
+     "pct": 10.89,
+     "seats": 33,
+     "change": null
+    },
+    {
+     "name": "Fidesz",
+     "party": "fidesz",
+     "votes": 439649,
+     "pct": 8.95,
+     "seats": 21,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "kdnp",
+     "votes": 317278,
+     "pct": 6.46,
+     "seats": 21,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "SZDSZ–Fidesz",
+     "party": "szdszfidesz",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Agrarian Alliance",
+     "party": "asz",
+     "votes": 154004,
+     "pct": 3.14,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "ASZ–SZFV",
+     "party": "aszszfv",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "KDNP–Fidesz–SZDSZ",
+     "party": "kdnpfideszszdsz",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Hungarian Socialist Workers' Party",
+     "party": "munkas",
+     "votes": 180964,
+     "pct": 3.68,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Social Democratic Party of Hungary",
+     "party": "mszdp",
+     "votes": 174434,
+     "pct": 3.55,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Entrepreneurs' Party",
+     "party": "vp",
+     "votes": 92689,
+     "pct": 1.89,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Patriotic Electoral Coalition",
+     "party": "hvk",
+     "votes": 91922,
+     "pct": 1.87,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 83764,
+     "pct": 1.71,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "mdf",
+    "BA": "szdsz",
+    "BE": "mdf",
+    "BZ": "mdf",
+    "BU": "mdf",
+    "CS": "mdf",
+    "FE": "szdsz",
+    "GS": "szdsz",
+    "HB": "mdf",
+    "HE": "mdf",
+    "JN": "mdf",
+    "KE": "szdsz",
+    "NO": "mdf",
+    "PE": "mdf",
+    "SO": "fkgp",
+    "SZ": "mdf",
+    "TO": "mdf",
+    "VA": "szdsz",
+    "VE": "mdf",
+    "ZA": "mdf"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1990_Hungarian_parliamentary_election#Party_list_results_by_county",
+   "notes": "First free election. Votes and shares are the regional party-list vote; seats are each party's total (list, constituency and national compensation seats). Constituency run-offs were held on 8 April 1990; the date is the first round. Turnout is the first round's (infobox). The table has no seat-change column. Joint candidates of several parties and independents won constituency seats without list votes, so their votes are blank. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-1994",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1994-05-08",
+   "totalSeats": 386,
+   "turnout": 68.92,
+   "source": {
+    "name": "Wikipedia, citing CLEA and Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1994_Hungarian_parliamentary_election",
+    "revid": 1365591648
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Party",
+     "party": "mszp",
+     "votes": 1781504,
+     "pct": 32.99,
+     "seats": 209,
+     "change": 176,
+     "winner": true
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "party": "szdsz",
+     "votes": 1065889,
+     "pct": 19.74,
+     "seats": 69,
+     "change": -25
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "party": "mdf",
+     "votes": 633770,
+     "pct": 11.74,
+     "seats": 38,
+     "change": -126
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "party": "fkgp",
+     "votes": 476272,
+     "pct": 8.82,
+     "seats": 26,
+     "change": -18
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "kdnp",
+     "votes": 379523,
+     "pct": 7.03,
+     "seats": 22,
+     "change": 1
+    },
+    {
+     "name": "Fidesz",
+     "party": "fidesz",
+     "votes": 379344,
+     "pct": 7.02,
+     "seats": 20,
+     "change": -2
+    },
+    {
+     "name": "Agrarian Alliance",
+     "party": "asz",
+     "votes": 113384,
+     "pct": 2.1,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "VP–ASZ–SZDSZ–Fidesz",
+     "party": "vpaszszdszfidesz",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Workers' Party",
+     "party": "munkas",
+     "votes": 172109,
+     "pct": 3.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Republican Party",
+     "party": "kp",
+     "votes": 137561,
+     "pct": 2.55,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Hungarian Justice and Life Party",
+     "party": "miep",
+     "votes": 85737,
+     "pct": 1.59,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 175101,
+     "pct": 3.24,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "mszp",
+    "BA": "mszp",
+    "BE": "mszp",
+    "BZ": "mszp",
+    "BU": "mszp",
+    "CS": "mszp",
+    "FE": "mszp",
+    "GS": "mszp",
+    "HB": "mszp",
+    "HE": "mszp",
+    "JN": "mszp",
+    "KE": "mszp",
+    "NO": "mszp",
+    "PE": "mszp",
+    "SO": "mszp",
+    "SZ": "mszp",
+    "TO": "mszp",
+    "VA": "mszp",
+    "VE": "mszp",
+    "ZA": "mszp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1994_Hungarian_parliamentary_election#Party_list_results_by_county",
+   "notes": "Votes and shares are the regional party-list vote; seats are each party's total. Constituency run-offs were held on 29 May 1994; the date is the first round. Turnout is the first round's (infobox). Independents are listed because they lost six seats; they ran in constituencies only, so they have no list votes. The joint VP–ASZ–SZDSZ–Fidesz seat has no list votes either. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-1998",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1998-05-10",
+   "totalSeats": 386,
+   "turnout": 56.21,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office (valasztas.hu) and Election Resources",
+    "url": "https://en.wikipedia.org/wiki/1998_Hungarian_parliamentary_election",
+    "revid": 1369168457
+   },
+   "candidates": [
+    {
+     "name": "Fidesz",
+     "party": "fidesz",
+     "votes": 1340826,
+     "pct": 29.48,
+     "seats": 148,
+     "change": 128,
+     "winner": true
+    },
+    {
+     "name": "Hungarian Socialist Party",
+     "party": "mszp",
+     "votes": 1497231,
+     "pct": 32.92,
+     "seats": 134,
+     "change": -75
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "party": "fkgp",
+     "votes": 597820,
+     "pct": 13.15,
+     "seats": 48,
+     "change": 22
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "party": "szdsz",
+     "votes": 344352,
+     "pct": 7.57,
+     "seats": 24,
+     "change": -45
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "party": "mdf",
+     "votes": 127118,
+     "pct": 2.8,
+     "seats": 17,
+     "change": -21
+    },
+    {
+     "name": "Hungarian Justice and Life Party",
+     "party": "miep",
+     "votes": 248901,
+     "pct": 5.47,
+     "seats": 14,
+     "change": 14
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Hungarian Workers' Party",
+     "party": "munkas",
+     "votes": 179672,
+     "pct": 3.95,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "kdnp",
+     "votes": 104892,
+     "pct": 2.31,
+     "seats": 0,
+     "change": -22
+    },
+    {
+     "name": "Hungarian Democratic People's Party",
+     "party": "mdnp",
+     "votes": 61004,
+     "pct": 1.34,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45866,
+     "pct": 1.01,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fidesz",
+    "BA": "mszp",
+    "BE": "mszp",
+    "BZ": "mszp",
+    "BU": "mszp",
+    "CS": "fidesz",
+    "FE": "mszp",
+    "GS": "fidesz",
+    "HB": "fidesz",
+    "HE": "mszp",
+    "JN": "mszp",
+    "KE": "mszp",
+    "NO": "mszp",
+    "PE": "mszp",
+    "SO": "mszp",
+    "SZ": "mszp",
+    "TO": "mszp",
+    "VA": "fidesz",
+    "VE": "fidesz",
+    "ZA": "fidesz"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1998_Hungarian_parliamentary_election#Party_list_results_by_county",
+   "notes": "Votes and shares are the regional party-list vote; seats are each party's total. Constituency run-offs were held on 24 May 1998; the date is the first round. Turnout is the first round's (infobox). The list vote in Hajdú-Bihar and Szabolcs-Szatmár-Bereg was invalid in the first round (turnout of valid votes under 50%) and was repeated with the second round; the national list totals and those two counties' winners use the valid repeat vote. Fidesz won the most seats though the Socialists won the most list votes. The independent seat was won in a constituency without list votes. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-2002",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2002-04-07",
+   "totalSeats": 386,
+   "turnout": 70.53,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office (valasztas.hu) and Election Resources",
+    "url": "https://en.wikipedia.org/wiki/2002_Hungarian_parliamentary_election",
+    "revid": 1355332041
+   },
+   "candidates": [
+    {
+     "name": "Fidesz–Hungarian Democratic Forum",
+     "party": "fideszmdf",
+     "votes": 2306763,
+     "pct": 41.07,
+     "seats": 188,
+     "change": 23,
+     "winner": true
+    },
+    {
+     "name": "Hungarian Socialist Party",
+     "party": "mszp",
+     "votes": 2361997,
+     "pct": 42.05,
+     "seats": 178,
+     "change": 44
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "party": "szdsz",
+     "votes": 313084,
+     "pct": 5.57,
+     "seats": 19,
+     "change": -5
+    },
+    {
+     "name": "Alliance of Free Democrats–Hungarian Socialist Party",
+     "party": "mszpszdsz",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Hungarian Justice and Life Party",
+     "party": "miep",
+     "votes": 245326,
+     "pct": 4.37,
+     "seats": 0,
+     "change": -14
+    },
+    {
+     "name": "Centre Party–Christian Democratic People's Party",
+     "party": "centrumkdnp",
+     "votes": 219029,
+     "pct": 3.9,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Workers' Party",
+     "party": "munkas",
+     "votes": 121503,
+     "pct": 2.16,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Independent Smallholders' Party",
+     "party": "fkgp",
+     "votes": 42338,
+     "pct": 0.75,
+     "seats": 0,
+     "change": -48
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 6710,
+     "pct": 0.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fideszmdf",
+    "BA": "mszp",
+    "BE": "mszp",
+    "BZ": "mszp",
+    "BU": "mszp",
+    "CS": "fideszmdf",
+    "FE": "fideszmdf",
+    "GS": "fideszmdf",
+    "HB": "fideszmdf",
+    "HE": "mszp",
+    "JN": "mszp",
+    "KE": "mszp",
+    "NO": "mszp",
+    "PE": "fideszmdf",
+    "SO": "fideszmdf",
+    "SZ": "fideszmdf",
+    "TO": "fideszmdf",
+    "VA": "fideszmdf",
+    "VE": "fideszmdf",
+    "ZA": "fideszmdf"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2002_Hungarian_parliamentary_election#Party_list_results_by_county",
+   "notes": "Votes and shares are the regional party-list vote; seats are each party's total. Constituency run-offs were held on 21 April 2002; the date is the first round. Turnout is the first round's (infobox). Fidesz and the Hungarian Democratic Forum ran a joint list, kept under its own key. The SZDSZ–MSZP joint seat was won in a constituency without list votes. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-2006",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2006-04-09",
+   "totalSeats": 386,
+   "turnout": 67.83,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office (valasztas.hu) and Election Resources",
+    "url": "https://en.wikipedia.org/wiki/2006_Hungarian_parliamentary_election",
+    "revid": 1367804574
+   },
+   "candidates": [
+    {
+     "name": "Hungarian Socialist Party",
+     "party": "mszp",
+     "votes": 2336705,
+     "pct": 43.21,
+     "seats": 186,
+     "change": 8,
+     "winner": true
+    },
+    {
+     "name": "Fidesz–KDNP",
+     "party": "fideszkdnp",
+     "votes": 2272979,
+     "pct": 42.03,
+     "seats": 164,
+     "change": -15
+    },
+    {
+     "name": "Alliance of Free Democrats",
+     "party": "szdsz",
+     "votes": 351612,
+     "pct": 6.5,
+     "seats": 18,
+     "change": -1
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "party": "mdf",
+     "votes": 272831,
+     "pct": 5.04,
+     "seats": 11,
+     "change": 2
+    },
+    {
+     "name": "Hungarian Socialist Party–Alliance of Free Democrats",
+     "party": "mszpszdsz",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": 5
+    },
+    {
+     "name": "Association for Somogy",
+     "party": "somogy",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "MIÉP–Jobbik Third Way Alliance of Parties",
+     "party": "miepjobbik",
+     "votes": 119007,
+     "pct": 2.2,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 54916,
+     "pct": 1.02,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fideszkdnp",
+    "BA": "mszp",
+    "BE": "mszp",
+    "BZ": "mszp",
+    "BU": "mszp",
+    "CS": "mszp",
+    "FE": "mszp",
+    "GS": "fideszkdnp",
+    "HB": "fideszkdnp",
+    "HE": "mszp",
+    "JN": "mszp",
+    "KE": "mszp",
+    "NO": "mszp",
+    "PE": "fideszkdnp",
+    "SO": "fideszkdnp",
+    "SZ": "mszp",
+    "TO": "fideszkdnp",
+    "VA": "fideszkdnp",
+    "VE": "fideszkdnp",
+    "ZA": "fideszkdnp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2006_Hungarian_parliamentary_election#Party_list_results_by_county",
+   "notes": "Votes and shares are the regional party-list vote; seats are each party's total. Constituency run-offs were held on 23 April 2006; the date is the first round. Turnout is the first round's (infobox). The MSZP–SZDSZ joint candidates and the Association for Somogy won constituency seats without list votes. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-2010",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2010-04-11",
+   "totalSeats": 386,
+   "turnout": 64.38,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office",
+    "url": "https://en.wikipedia.org/wiki/2010_Hungarian_parliamentary_election",
+    "revid": 1374994119
+   },
+   "candidates": [
+    {
+     "name": "Fidesz–KDNP",
+     "party": "fideszkdnp",
+     "votes": 2706292,
+     "pct": 52.73,
+     "seats": 262,
+     "change": 99,
+     "winner": true
+    },
+    {
+     "name": "Hungarian Socialist Party",
+     "party": "mszp",
+     "votes": 990428,
+     "pct": 19.3,
+     "seats": 59,
+     "change": -131
+    },
+    {
+     "name": "Jobbik",
+     "party": "jobbik",
+     "votes": 855436,
+     "pct": 16.67,
+     "seats": 47,
+     "change": 47
+    },
+    {
+     "name": "Politics Can Be Different",
+     "party": "lmp",
+     "votes": 383876,
+     "pct": 7.48,
+     "seats": 16,
+     "change": 16
+    },
+    {
+     "name": "Fidesz–KDNP–Entrepreneurs' Party",
+     "party": "fideszkdnpvp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Hungarian Democratic Forum",
+     "party": "mdf",
+     "votes": 136895,
+     "pct": 2.67,
+     "seats": 0,
+     "change": -11
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 59604,
+     "pct": 1.16,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fideszkdnp",
+    "BA": "fideszkdnp",
+    "BE": "fideszkdnp",
+    "BZ": "fideszkdnp",
+    "BU": "fideszkdnp",
+    "CS": "fideszkdnp",
+    "FE": "fideszkdnp",
+    "GS": "fideszkdnp",
+    "HB": "fideszkdnp",
+    "HE": "fideszkdnp",
+    "JN": "fideszkdnp",
+    "KE": "fideszkdnp",
+    "NO": "fideszkdnp",
+    "PE": "fideszkdnp",
+    "SO": "fideszkdnp",
+    "SZ": "fideszkdnp",
+    "TO": "fideszkdnp",
+    "VA": "fideszkdnp",
+    "VE": "fideszkdnp",
+    "ZA": "fideszkdnp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2010_Hungarian_parliamentary_election#Party_list_results_by_county",
+   "notes": "Votes and shares are the regional party-list vote; seats are each party's total. Constituency run-offs were held on 25 April 2010; the date is the first round. Turnout is the first round's (infobox; the turnout table gives 64.36%). The Fidesz–KDNP–VP joint candidate and the independent won constituency seats without list votes. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-2014",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2014-04-06",
+   "totalSeats": 199,
+   "turnout": 61.73,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office",
+    "url": "https://en.wikipedia.org/wiki/2014_Hungarian_parliamentary_election",
+    "revid": 1377466463
+   },
+   "candidates": [
+    {
+     "name": "Fidesz–KDNP",
+     "party": "fideszkdnp",
+     "votes": 2264780,
+     "pct": 44.87,
+     "seats": 133,
+     "change": -130,
+     "winner": true
+    },
+    {
+     "name": "Unity",
+     "party": "unity",
+     "votes": 1290806,
+     "pct": 25.57,
+     "seats": 38,
+     "change": -21
+    },
+    {
+     "name": "Jobbik",
+     "party": "jobbik",
+     "votes": 1020476,
+     "pct": 20.22,
+     "seats": 23,
+     "change": -24
+    },
+    {
+     "name": "Politics Can Be Different",
+     "party": "lmp",
+     "votes": 269414,
+     "pct": 5.34,
+     "seats": 5,
+     "change": -11
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 201887,
+     "pct": 4,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fideszkdnp",
+    "BA": "fideszkdnp",
+    "BE": "fideszkdnp",
+    "BZ": "fideszkdnp",
+    "BU": "fideszkdnp",
+    "CS": "fideszkdnp",
+    "FE": "fideszkdnp",
+    "GS": "fideszkdnp",
+    "HB": "fideszkdnp",
+    "HE": "fideszkdnp",
+    "JN": "fideszkdnp",
+    "KE": "fideszkdnp",
+    "NO": "fideszkdnp",
+    "PE": "fideszkdnp",
+    "SO": "fideszkdnp",
+    "SZ": "fideszkdnp",
+    "TO": "fideszkdnp",
+    "VA": "fideszkdnp",
+    "VE": "fideszkdnp",
+    "ZA": "fideszkdnp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2014_Hungarian_parliamentary_election#Party_list_results_by_county_and_in_the_diaspora",
+   "notes": "First election to the 199-seat assembly, in one round. Votes and shares are the national party-list vote, including the national minority lists; seats are each party's total (list plus constituency). Unity was the joint list of MSZP, Együtt–PM, DK and MLP. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-2018",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2018-04-08",
+   "totalSeats": 199,
+   "turnout": 69.73,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office",
+    "url": "https://en.wikipedia.org/wiki/2018_Hungarian_parliamentary_election",
+    "revid": 1374196801
+   },
+   "candidates": [
+    {
+     "name": "Fidesz–KDNP",
+     "party": "fideszkdnp",
+     "votes": 2824551,
+     "pct": 49.27,
+     "seats": 133,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Jobbik",
+     "party": "jobbik",
+     "votes": 1092806,
+     "pct": 19.06,
+     "seats": 26,
+     "change": 3
+    },
+    {
+     "name": "Hungarian Socialist Party–Dialogue for Hungary",
+     "party": "mszpp",
+     "votes": 682701,
+     "pct": 11.91,
+     "seats": 20,
+     "change": -11
+    },
+    {
+     "name": "Democratic Coalition",
+     "party": "dk",
+     "votes": 308161,
+     "pct": 5.38,
+     "seats": 9,
+     "change": 5
+    },
+    {
+     "name": "Politics Can Be Different",
+     "party": "lmp",
+     "votes": 404429,
+     "pct": 7.06,
+     "seats": 8,
+     "change": 3
+    },
+    {
+     "name": "Together",
+     "party": "egyutt",
+     "votes": 37562,
+     "pct": 0.66,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "National Self-Government of Germans",
+     "party": "ldu",
+     "votes": 26477,
+     "pct": 0.46,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Momentum Movement",
+     "party": "momentum",
+     "votes": 175229,
+     "pct": 3.06,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Hungarian Two Tailed Dog Party",
+     "party": "mkkp",
+     "votes": 99414,
+     "pct": 1.73,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 80953,
+     "pct": 1.41,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fideszkdnp",
+    "BA": "fideszkdnp",
+    "BE": "fideszkdnp",
+    "BZ": "fideszkdnp",
+    "BU": "fideszkdnp",
+    "CS": "fideszkdnp",
+    "FE": "fideszkdnp",
+    "GS": "fideszkdnp",
+    "HB": "fideszkdnp",
+    "HE": "fideszkdnp",
+    "JN": "fideszkdnp",
+    "KE": "fideszkdnp",
+    "NO": "fideszkdnp",
+    "PE": "fideszkdnp",
+    "SO": "fideszkdnp",
+    "SZ": "fideszkdnp",
+    "TO": "fideszkdnp",
+    "VA": "fideszkdnp",
+    "VE": "fideszkdnp",
+    "ZA": "fideszkdnp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2018_Hungarian_parliamentary_election#Party_list_results_by_county_and_in_the_diaspora",
+   "notes": "Votes and shares are the national party-list vote, including the national minority lists; seats are each party's total (list plus constituency). Turnout is the infobox figure (the turnout table gives 70.22% for voters within Hungary). The German minority list won a seat at the reduced minority quota. Together's and the independent's seats were constituency seats. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  },
+  {
+   "id": "hu-national-assembly-2022",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2022-04-03",
+   "totalSeats": 199,
+   "turnout": 69.59,
+   "source": {
+    "name": "Wikipedia, citing the National Election Office (Nemzeti Választási Iroda)",
+    "url": "https://en.wikipedia.org/wiki/2022_Hungarian_parliamentary_election",
+    "revid": 1376484741
+   },
+   "candidates": [
+    {
+     "name": "Fidesz–KDNP",
+     "party": "fideszkdnp",
+     "votes": 3060706,
+     "pct": 54.13,
+     "seats": 135,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "United for Hungary",
+     "party": "em",
+     "votes": 1947331,
+     "pct": 34.44,
+     "seats": 57,
+     "change": -8
+    },
+    {
+     "name": "Our Homeland Movement",
+     "party": "mihazank",
+     "votes": 332487,
+     "pct": 5.88,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "National Self-Government of Germans",
+     "party": "ldu",
+     "votes": 24630,
+     "pct": 0.44,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Hungarian Two-Tailed Dog Party",
+     "party": "mkkp",
+     "votes": 185052,
+     "pct": 3.27,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Solution Movement",
+     "party": "megoldas",
+     "votes": 58929,
+     "pct": 1.04,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45725,
+     "pct": 0.81,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "BK": "fideszkdnp",
+    "BA": "fideszkdnp",
+    "BE": "fideszkdnp",
+    "BZ": "fideszkdnp",
+    "BU": "em",
+    "CS": "fideszkdnp",
+    "FE": "fideszkdnp",
+    "GS": "fideszkdnp",
+    "HB": "fideszkdnp",
+    "HE": "fideszkdnp",
+    "JN": "fideszkdnp",
+    "KE": "fideszkdnp",
+    "NO": "fideszkdnp",
+    "PE": "fideszkdnp",
+    "SO": "fideszkdnp",
+    "SZ": "fideszkdnp",
+    "TO": "fideszkdnp",
+    "VA": "fideszkdnp",
+    "VE": "fideszkdnp",
+    "ZA": "fideszkdnp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2022_Hungarian_parliamentary_election#Party_list_results_by_county_and_in_the_diaspora",
+   "notes": "Votes and shares are the national party-list vote, including the national minority lists; seats are each party's total (list plus constituency). Turnout is the infobox figure (the turnout table gives 70.21% for voters within Hungary). United for Hungary was the joint list of DK, Jobbik, Momentum, MSZP, LMP and Párbeszéd. The German minority list won a seat at the reduced minority quota. Region winners are the party with the highest list share in each county and Budapest, from the article's party list results by county table."
+  }
+ ]
+}

@@ -1,0 +1,1539 @@
+{
+  "code": "CZ",
+  "parties": {
+    "of": {
+      "name": "Civic Forum",
+      "color": "#386BA5",
+      "article": "Civic Forum"
+    },
+    "ksc": {
+      "name": "Communist Party of Czechoslovakia",
+      "color": "#DC241F",
+      "article": "Communist Party of Czechoslovakia"
+    },
+    "hsdsms": {
+      "name": "Movement for Autonomous Democracy–Party for Moravia and Silesia",
+      "color": "#FF9999",
+      "article": "Movement for Autonomous Democracy–Party for Moravia and Silesia"
+    },
+    "kdu90": {
+      "name": "Christian and Democratic Union",
+      "color": "#FFCB03",
+      "article": "Christian and Democratic Union"
+    },
+    "szv": {
+      "name": "Alliance of Farmers and the Countryside",
+      "color": "#8F9779"
+    },
+    "cssd": {
+      "name": "Czech Social Democratic Party",
+      "color": "#ED5700",
+      "article": "Social Democracy (Czech Republic)"
+    },
+    "sz": {
+      "name": "Green Party",
+      "color": "#00AD43",
+      "article": "Green Party (Czech Republic)"
+    },
+    "csns": {
+      "name": "Czech National Social Party",
+      "color": "#008080",
+      "article": "Czech National Social Party"
+    },
+    "kons": {
+      "name": "Free Bloc",
+      "color": "#4B0082",
+      "article": "Conservative Party (Czech Republic)"
+    },
+    "ods": {
+      "name": "Civic Democratic Party",
+      "color": "#034EA2",
+      "article": "Civic Democratic Party"
+    },
+    "kscm": {
+      "name": "Communist Party of Bohemia and Moravia",
+      "color": "#C10506",
+      "article": "Communist Party of Bohemia and Moravia"
+    },
+    "lsu": {
+      "name": "Liberal-Social Union",
+      "color": "#50C878",
+      "article": "Liberal-Social Union"
+    },
+    "kdu": {
+      "name": "KDU-ČSL",
+      "color": "#FFDC00",
+      "article": "KDU-ČSL"
+    },
+    "sprrsc": {
+      "name": "Rally for the Republic – Republican Party of Czechoslovakia",
+      "color": "#3E3E3E",
+      "article": "Rally for the Republic – Republican Party of Czechoslovakia"
+    },
+    "oda": {
+      "name": "Civic Democratic Alliance",
+      "color": "#7FA6CB",
+      "article": "Civic Democratic Alliance"
+    },
+    "oh": {
+      "name": "Civic Movement",
+      "color": "#9932CC",
+      "article": "Civic Movement"
+    },
+    "dzj": {
+      "name": "Pensioners for Life Security",
+      "color": "#A0522D",
+      "article": "Party for Life Security"
+    },
+    "cspzr": {
+      "name": "Czechoslovak Businessmen's, Traders' and Farmers' Party",
+      "color": "#808000"
+    },
+    "kan": {
+      "name": "Club of Committed Non-Party Members",
+      "color": "#000075",
+      "article": "Club of Committed Non-Party Members"
+    },
+    "ni": {
+      "name": "Independent Initiative",
+      "color": "#40E0D0"
+    },
+    "sppiva": {
+      "name": "Friends of Beer Party",
+      "color": "#C68E17",
+      "article": "Friends of Beer Party"
+    },
+    "hsp": {
+      "name": "Movement for Social Justice",
+      "color": "#B03060"
+    },
+    "deu": {
+      "name": "Democratic Union",
+      "color": "#6D051C",
+      "article": "Democratic Union (Czech Republic)"
+    },
+    "lb": {
+      "name": "Left Bloc",
+      "color": "#E75480"
+    },
+    "us": {
+      "name": "Freedom Union – Democratic Union",
+      "color": "#00CED1",
+      "article": "Freedom Union – Democratic Union"
+    },
+    "koalice": {
+      "name": "Four-Coalition",
+      "color": "#0100A3",
+      "article": "Four-Coalition"
+    },
+    "snk": {
+      "name": "SNK European Democrats",
+      "color": "#87CEEB",
+      "article": "SNK European Democrats"
+    },
+    "top09": {
+      "name": "TOP 09",
+      "color": "#993366",
+      "article": "TOP 09"
+    },
+    "vv": {
+      "name": "Public Affairs",
+      "color": "#00B0F0",
+      "article": "Public Affairs (political party)"
+    },
+    "spoz": {
+      "name": "Party of Civic Rights",
+      "color": "#E2725B",
+      "article": "Party of Civic Rights"
+    },
+    "szr": {
+      "name": "Party of Common Sense",
+      "color": "#6FB7C5",
+      "article": "Party of Common Sense"
+    },
+    "dsss": {
+      "name": "Workers' Party of Social Justice",
+      "color": "#000000",
+      "article": "Workers' Party of Social Justice"
+    },
+    "ano": {
+      "name": "ANO 2011",
+      "color": "#261060",
+      "article": "ANO 2011"
+    },
+    "usvit": {
+      "name": "Dawn of Direct Democracy",
+      "color": "#9370DB",
+      "article": "Dawn – National Coalition"
+    },
+    "pirati": {
+      "name": "Czech Pirate Party",
+      "color": "#000000",
+      "article": "Czech Pirate Party"
+    },
+    "svobodni": {
+      "name": "Party of Free Citizens",
+      "color": "#009682",
+      "article": "Svobodní"
+    },
+    "spd": {
+      "name": "Freedom and Direct Democracy",
+      "color": "#6696AE",
+      "article": "Freedom and Direct Democracy"
+    },
+    "stan": {
+      "name": "Mayors and Independents",
+      "color": "#CD0F69",
+      "article": "Mayors and Independents"
+    },
+    "spolu": {
+      "name": "Spolu",
+      "color": "#00EA29",
+      "article": "Spolu"
+    },
+    "pirstan": {
+      "name": "Pirates and Mayors",
+      "color": "#000000",
+      "article": "Pirates and Mayors"
+    },
+    "prisaha": {
+      "name": "Přísaha",
+      "color": "#0033FF",
+      "article": "Přísaha"
+    },
+    "tss": {
+      "name": "Tricolour–Svobodní–Soukromníci",
+      "color": "#556B2F",
+      "article": "Tricolour (political party)"
+    },
+    "suverenita": {
+      "name": "Czech Sovereignty",
+      "color": "#F39200",
+      "article": "Czech Sovereignty of Social Democracy"
+    },
+    "realiste": {
+      "name": "Realists",
+      "color": "#013888",
+      "article": "Realists (political party)"
+    },
+    "klic": {
+      "name": "Key Movement",
+      "color": "#C5D700"
+    },
+    "jfischer": {
+      "name": "Independent",
+      "color": "#7A7A7A"
+    },
+    "franz": {
+      "name": "Independent",
+      "color": "#B5651D"
+    },
+    "drahos": {
+      "name": "Independent",
+      "color": "#5A7D9A"
+    },
+    "pfischer": {
+      "name": "Independent",
+      "color": "#8E7CC3"
+    },
+    "horacek": {
+      "name": "Independent",
+      "color": "#C77CA0"
+    },
+    "hilser": {
+      "name": "Independent",
+      "color": "#87CEFA"
+    },
+    "topolanek": {
+      "name": "Independent",
+      "color": "#9C8F6E"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "cz-chamber-of-deputies-1990",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1990-06-09",
+      "note": "Czech National Council",
+      "totalSeats": 200,
+      "turnout": 96.69,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/1990_Czech_National_Council_election",
+        "revid": 1348770224
+      },
+      "candidates": [
+        {
+          "name": "Civic Forum",
+          "party": "of",
+          "votes": 3569201,
+          "pct": 49.5,
+          "seats": 124,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Communist Party of Czechoslovakia",
+          "party": "ksc",
+          "votes": 954690,
+          "pct": 13.24,
+          "seats": 33,
+          "change": null
+        },
+        {
+          "name": "Movement for Autonomous Democracy–Party for Moravia and Silesia",
+          "party": "hsdsms",
+          "votes": 723609,
+          "pct": 10.03,
+          "seats": 23,
+          "change": null
+        },
+        {
+          "name": "Christian and Democratic Union",
+          "party": "kdu90",
+          "votes": 607134,
+          "pct": 8.42,
+          "seats": 20,
+          "change": null
+        },
+        {
+          "name": "Alliance of Farmers and the Countryside",
+          "party": "szv",
+          "votes": 296547,
+          "pct": 4.11,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Czechoslovak Social Democracy",
+          "party": "cssd",
+          "votes": 296165,
+          "pct": 4.11,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 295844,
+          "pct": 4.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Czechoslovak Socialist Party",
+          "party": "csns",
+          "votes": 192922,
+          "pct": 2.68,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Free Bloc",
+          "party": "kons",
+          "votes": 75242,
+          "pct": 1.04,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 199693,
+          "pct": 2.77,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table has no seat-change column. People's Democratic Party–Rally for the Republic took 0.999% and is in Others. Turnout computed from the table's electorate, valid and invalid votes."
+    },
+    {
+      "id": "cz-chamber-of-deputies-1992",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1992-06-06",
+      "note": "Czech National Council",
+      "totalSeats": 200,
+      "turnout": 84.97,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/1992_Czech_National_Council_election",
+        "revid": 1362072095
+      },
+      "candidates": [
+        {
+          "name": "Civic Democratic Party–Christian Democratic Party",
+          "party": "ods",
+          "votes": 1924483,
+          "pct": 29.73,
+          "seats": 76,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 909490,
+          "pct": 14.05,
+          "seats": 35,
+          "change": null
+        },
+        {
+          "name": "Czechoslovak Social Democracy",
+          "party": "cssd",
+          "votes": 422736,
+          "pct": 6.53,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Liberal-Social Union",
+          "party": "lsu",
+          "votes": 421988,
+          "pct": 6.52,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 406341,
+          "pct": 6.28,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Rally for the Republic – Republican Party of Czechoslovakia",
+          "party": "sprrsc",
+          "votes": 387026,
+          "pct": 5.98,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Civic Democratic Alliance",
+          "party": "oda",
+          "votes": 383705,
+          "pct": 5.93,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Movement for Autonomous Democracy–Party for Moravia and Silesia",
+          "party": "hsdsms",
+          "votes": 380088,
+          "pct": 5.87,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Civic Movement",
+          "party": "oh",
+          "votes": 297406,
+          "pct": 4.59,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Pensioners for Life Security",
+          "party": "dzj",
+          "votes": 244319,
+          "pct": 3.77,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Czechoslovak Businessmen's, Traders' and Farmers' Party",
+          "party": "cspzr",
+          "votes": 203654,
+          "pct": 3.15,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Club of Committed Non-Party Members",
+          "party": "kan",
+          "votes": 174006,
+          "pct": 2.69,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Independent Initiative",
+          "party": "ni",
+          "votes": 88823,
+          "pct": 1.37,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Friends of Beer Party",
+          "party": "sppiva",
+          "votes": 83959,
+          "pct": 1.3,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Movement for Social Justice",
+          "party": "hsp",
+          "votes": 69621,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 75605,
+          "pct": 1.17,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table has no seat-change column. The first row is the joint Civic Democratic Party–Christian Democratic Party list. Turnout computed from the table's electorate, valid and invalid votes."
+    },
+    {
+      "id": "cz-chamber-of-deputies-1996",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1996-06-01",
+      "totalSeats": 200,
+      "turnout": 76.29,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/1996_Czech_parliamentary_election",
+        "revid": 1362072103
+      },
+      "candidates": [
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 1794560,
+          "pct": 29.62,
+          "seats": 68,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 1602250,
+          "pct": 26.44,
+          "seats": 61,
+          "change": 45
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 626136,
+          "pct": 10.33,
+          "seats": 22,
+          "change": -13
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 489349,
+          "pct": 8.08,
+          "seats": 18,
+          "change": 3
+        },
+        {
+          "name": "SPR-RSČ",
+          "party": "sprrsc",
+          "votes": 485072,
+          "pct": 8.01,
+          "seats": 18,
+          "change": 4
+        },
+        {
+          "name": "Civic Democratic Alliance",
+          "party": "oda",
+          "votes": 385369,
+          "pct": 6.36,
+          "seats": 13,
+          "change": -1
+        },
+        {
+          "name": "Pensioners for Life Security",
+          "party": "dzj",
+          "votes": 187455,
+          "pct": 3.09,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Democratic Union",
+          "party": "deu",
+          "votes": 169796,
+          "pct": 2.8,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Free Democrats – Liberal National Social Party",
+          "party": "csns",
+          "votes": 124165,
+          "pct": 2.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Left Bloc",
+          "party": "lb",
+          "votes": 85122,
+          "pct": 1.4,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 109941,
+          "pct": 1.81,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The first election after independence. Changes are against the 1992 Czech National Council, and the table gives none for the Civic Democratic Party. Free Democrats – Liberal National Social Party is filed under the Czech National Social Party, the article the table links. Turnout computed from the table's electorate, valid and invalid votes."
+    },
+    {
+      "id": "cz-chamber-of-deputies-1998",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1998-06-20",
+      "totalSeats": 200,
+      "turnout": 73.86,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver and the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/1998_Czech_parliamentary_election",
+        "revid": 1362072132
+      },
+      "candidates": [
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 1928660,
+          "pct": 32.31,
+          "seats": 74,
+          "change": 13,
+          "winner": true
+        },
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 1656011,
+          "pct": 27.74,
+          "seats": 63,
+          "change": -5
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 658550,
+          "pct": 11.03,
+          "seats": 24,
+          "change": 2
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 537013,
+          "pct": 9,
+          "seats": 20,
+          "change": 2
+        },
+        {
+          "name": "Freedom Union",
+          "party": "us",
+          "votes": 513596,
+          "pct": 8.6,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "SPR-RSČ",
+          "party": "sprrsc",
+          "votes": 232965,
+          "pct": 3.9,
+          "seats": 0,
+          "change": -18
+        },
+        {
+          "name": "Pensioners for Life Security",
+          "party": "dzj",
+          "votes": 182900,
+          "pct": 3.06,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Democratic Union",
+          "party": "deu",
+          "votes": 86431,
+          "pct": 1.45,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 67143,
+          "pct": 1.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 106236,
+          "pct": 1.78,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Turnout computed from the table's electorate, valid and invalid votes."
+    },
+    {
+      "id": "cz-chamber-of-deputies-2002",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2002-06-15",
+      "totalSeats": 200,
+      "turnout": 57.95,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver and the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2002_Czech_parliamentary_election",
+        "revid": 1332070046
+      },
+      "candidates": [
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 1440279,
+          "pct": 30.21,
+          "seats": 70,
+          "change": -4,
+          "winner": true
+        },
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 1166975,
+          "pct": 24.48,
+          "seats": 58,
+          "change": -5
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 882653,
+          "pct": 18.51,
+          "seats": 41,
+          "change": 17
+        },
+        {
+          "name": "Four-Coalition (KDU-ČSL, US–DEU)",
+          "party": "koalice",
+          "votes": 680671,
+          "pct": 14.28,
+          "seats": 31,
+          "change": -8
+        },
+        {
+          "name": "Union of Independents",
+          "party": "snk",
+          "votes": 132699,
+          "pct": 2.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 112929,
+          "pct": 2.37,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 351800,
+          "pct": 7.38,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "The Four-Coalition row is the joint list of KDU-ČSL and the Freedom Union – Democratic Union."
+    },
+    {
+      "id": "cz-chamber-of-deputies-2006",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2006-06-03",
+      "totalSeats": 200,
+      "turnout": 64.42,
+      "source": {
+        "name": "Wikipedia, citing Nohlen & Stöver, Elections in Europe (2010)",
+        "url": "https://en.wikipedia.org/wiki/2006_Czech_parliamentary_election",
+        "revid": 1368691578
+      },
+      "candidates": [
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 1892475,
+          "pct": 35.38,
+          "seats": 81,
+          "change": 23,
+          "winner": true
+        },
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 1728827,
+          "pct": 32.32,
+          "seats": 74,
+          "change": 4
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 685328,
+          "pct": 12.81,
+          "seats": 26,
+          "change": -15
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 386706,
+          "pct": 7.23,
+          "seats": 13,
+          "change": -10
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 336487,
+          "pct": 6.29,
+          "seats": 6,
+          "change": 6
+        },
+        {
+          "name": "SNK European Democrats",
+          "party": "snk",
+          "votes": 111724,
+          "pct": 2.09,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Freedom Union – Democratic Union",
+          "party": "us",
+          "votes": 16457,
+          "pct": 0.31,
+          "seats": 0,
+          "change": -8
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 190972,
+          "pct": 3.57,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "PR": "ods",
+        "ST": "ods",
+        "JC": "ods",
+        "PL": "ods",
+        "KA": "ods",
+        "US": "cssd",
+        "LI": "ods",
+        "KR": "ods",
+        "PA": "ods",
+        "VY": "cssd",
+        "JM": "cssd",
+        "OL": "cssd",
+        "ZL": "cssd",
+        "MO": "cssd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2006_Czech_parliamentary_election#By_region",
+      "notes": "Freedom Union – Democratic Union is listed because it lost 8 seats. Region winners are the parties with the most votes in each region's results table."
+    },
+    {
+      "id": "cz-chamber-of-deputies-2010",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2010-05-29",
+      "totalSeats": 200,
+      "turnout": 62.55,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2010_Czech_parliamentary_election",
+        "revid": 1378889176
+      },
+      "candidates": [
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 1155267,
+          "pct": 22.09,
+          "seats": 56,
+          "change": -18,
+          "winner": true
+        },
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 1057792,
+          "pct": 20.22,
+          "seats": 53,
+          "change": -28
+        },
+        {
+          "name": "TOP 09",
+          "party": "top09",
+          "votes": 873833,
+          "pct": 16.71,
+          "seats": 41,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 589765,
+          "pct": 11.27,
+          "seats": 26,
+          "change": 0
+        },
+        {
+          "name": "Public Affairs",
+          "party": "vv",
+          "votes": 569127,
+          "pct": 10.88,
+          "seats": 24,
+          "change": null
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 229717,
+          "pct": 4.39,
+          "seats": 0,
+          "change": -13
+        },
+        {
+          "name": "Party of Civic Rights – Zemanovci",
+          "party": "spoz",
+          "votes": 226527,
+          "pct": 4.33,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Sovereignty – Party of Common Sense",
+          "party": "szr",
+          "votes": 192145,
+          "pct": 3.67,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 127831,
+          "pct": 2.44,
+          "seats": 0,
+          "change": -6
+        },
+        {
+          "name": "Workers' Party of Social Justice",
+          "party": "dsss",
+          "votes": 59888,
+          "pct": 1.14,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 148967,
+          "pct": 2.85,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "PR": "top09",
+        "ST": "ods",
+        "JC": "ods",
+        "PL": "cssd"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2010_Czech_parliamentary_election#By_region",
+      "notes": "Region winners are the parties with the most votes in the region tables the article has, which cover only Prague and the Central Bohemian, South Bohemian and Plzeň regions."
+    },
+    {
+      "id": "cz-chamber-of-deputies-2013",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2013-10-26",
+      "totalSeats": 200,
+      "turnout": 59.44,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2013_Czech_parliamentary_election",
+        "revid": 1371451256
+      },
+      "candidates": [
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 1016829,
+          "pct": 20.46,
+          "seats": 50,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "ANO 2011",
+          "party": "ano",
+          "votes": 927240,
+          "pct": 18.66,
+          "seats": 47,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 741044,
+          "pct": 14.91,
+          "seats": 33,
+          "change": 7
+        },
+        {
+          "name": "TOP 09",
+          "party": "top09",
+          "votes": 596357,
+          "pct": 12,
+          "seats": 26,
+          "change": -15
+        },
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 384174,
+          "pct": 7.73,
+          "seats": 16,
+          "change": -37
+        },
+        {
+          "name": "Dawn of Direct Democracy",
+          "party": "usvit",
+          "votes": 342339,
+          "pct": 6.89,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 336970,
+          "pct": 6.78,
+          "seats": 14,
+          "change": 14
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 159025,
+          "pct": 3.2,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Czech Pirate Party",
+          "party": "pirati",
+          "votes": 132417,
+          "pct": 2.66,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Party of Free Citizens",
+          "party": "svobodni",
+          "votes": 122564,
+          "pct": 2.47,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Party of Civic Rights – Zemanovci",
+          "party": "spoz",
+          "votes": 75113,
+          "pct": 1.51,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 135912,
+          "pct": 2.73,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "cz-chamber-of-deputies-2017",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2017-10-21",
+      "totalSeats": 200,
+      "turnout": 60.79,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2017_Czech_parliamentary_election",
+        "revid": 1374859683
+      },
+      "candidates": [
+        {
+          "name": "ANO",
+          "party": "ano",
+          "votes": 1500113,
+          "pct": 29.64,
+          "seats": 78,
+          "change": 31,
+          "winner": true
+        },
+        {
+          "name": "Civic Democratic Party",
+          "party": "ods",
+          "votes": 572962,
+          "pct": 11.32,
+          "seats": 25,
+          "change": 9
+        },
+        {
+          "name": "Czech Pirate Party",
+          "party": "pirati",
+          "votes": 546393,
+          "pct": 10.8,
+          "seats": 22,
+          "change": 22
+        },
+        {
+          "name": "Freedom and Direct Democracy",
+          "party": "spd",
+          "votes": 538574,
+          "pct": 10.64,
+          "seats": 22,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 393100,
+          "pct": 7.77,
+          "seats": 15,
+          "change": -18
+        },
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 368347,
+          "pct": 7.28,
+          "seats": 15,
+          "change": -35
+        },
+        {
+          "name": "KDU-ČSL",
+          "party": "kdu",
+          "votes": 293643,
+          "pct": 5.8,
+          "seats": 10,
+          "change": -4
+        },
+        {
+          "name": "TOP 09",
+          "party": "top09",
+          "votes": 268811,
+          "pct": 5.31,
+          "seats": 7,
+          "change": -19
+        },
+        {
+          "name": "Mayors and Independents",
+          "party": "stan",
+          "votes": 262157,
+          "pct": 5.18,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Party of Free Citizens",
+          "party": "svobodni",
+          "votes": 79229,
+          "pct": 1.57,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "sz",
+          "votes": 74335,
+          "pct": 1.47,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 163095,
+          "pct": 3.22,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "cz-chamber-of-deputies-2021",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2021-10-09",
+      "totalSeats": 200,
+      "turnout": 65.39,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2021_Czech_parliamentary_election",
+        "revid": 1375922281
+      },
+      "candidates": [
+        {
+          "name": "ANO",
+          "party": "ano",
+          "votes": 1458140,
+          "pct": 27.13,
+          "seats": 72,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "Spolu",
+          "party": "spolu",
+          "votes": 1493905,
+          "pct": 27.79,
+          "seats": 71,
+          "change": 29
+        },
+        {
+          "name": "Pirates and Mayors",
+          "party": "pirstan",
+          "votes": 839776,
+          "pct": 15.62,
+          "seats": 37,
+          "change": 9
+        },
+        {
+          "name": "Freedom and Direct Democracy",
+          "party": "spd",
+          "votes": 513910,
+          "pct": 9.56,
+          "seats": 20,
+          "change": -2
+        },
+        {
+          "name": "Přísaha",
+          "party": "prisaha",
+          "votes": 251562,
+          "pct": 4.68,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Czech Social Democratic Party",
+          "party": "cssd",
+          "votes": 250397,
+          "pct": 4.66,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Communist Party of Bohemia and Moravia",
+          "party": "kscm",
+          "votes": 193817,
+          "pct": 3.61,
+          "seats": 0,
+          "change": -15
+        },
+        {
+          "name": "Tricolour–Svobodní–Soukromníci",
+          "party": "tss",
+          "votes": 148463,
+          "pct": 2.76,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Free Bloc",
+          "party": "suverenita",
+          "votes": 71587,
+          "pct": 1.33,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 153533,
+          "pct": 2.86,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regionWinners": {
+        "PR": "spolu",
+        "ST": "spolu",
+        "JC": "spolu",
+        "PL": "ano",
+        "KA": "ano",
+        "US": "ano",
+        "LI": "ano",
+        "KR": "spolu",
+        "PA": "spolu",
+        "VY": "spolu",
+        "JM": "spolu",
+        "OL": "ano",
+        "ZL": "spolu",
+        "MO": "ano"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2021_Czech_parliamentary_election#Results_by_region",
+      "notes": "Spolu (ODS, KDU-ČSL, TOP 09) and Pirates and Mayors ran as alliances; the table gives each one row. ANO won the most seats although Spolu won the most votes. Region winners have the highest share in the article's results-by-region table."
+    },
+    {
+      "id": "cz-president-2013",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2013-01-12",
+      "turnout": 59.08,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2013_Czech_presidential_election",
+        "revid": 1369117203
+      },
+      "candidates": [
+        {
+          "name": "Miloš Zeman",
+          "party": "spoz",
+          "votes": 2717405,
+          "pct": 54.8,
+          "winner": true
+        },
+        {
+          "name": "Karel Schwarzenberg",
+          "party": "top09",
+          "votes": 2241171,
+          "pct": 45.2
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2013-01-12",
+          "candidates": [
+            {
+              "name": "Miloš Zeman",
+              "party": "spoz",
+              "votes": 1245848,
+              "pct": 24.22
+            },
+            {
+              "name": "Karel Schwarzenberg",
+              "party": "top09",
+              "votes": 1204195,
+              "pct": 23.41
+            },
+            {
+              "name": "Jan Fischer",
+              "party": "jfischer",
+              "votes": 841437,
+              "pct": 16.36
+            },
+            {
+              "name": "Jiří Dienstbier Jr.",
+              "party": "cssd",
+              "votes": 829297,
+              "pct": 16.12
+            },
+            {
+              "name": "Vladimír Franz",
+              "party": "franz",
+              "votes": 351916,
+              "pct": 6.84
+            },
+            {
+              "name": "Zuzana Roithová",
+              "party": "kdu",
+              "votes": 255045,
+              "pct": 4.96
+            },
+            {
+              "name": "Táňa Fischerová",
+              "party": "klic",
+              "votes": 166211,
+              "pct": 3.23
+            },
+            {
+              "name": "Přemysl Sobotka",
+              "party": "ods",
+              "votes": 126846,
+              "pct": 2.47
+            },
+            {
+              "name": "Jana Bobošíková",
+              "party": "suverenita",
+              "votes": 123171,
+              "pct": 2.39
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2013-01-26",
+          "candidates": [
+            {
+              "name": "Miloš Zeman",
+              "party": "spoz",
+              "votes": 2717405,
+              "pct": 54.8,
+              "winner": true
+            },
+            {
+              "name": "Karel Schwarzenberg",
+              "party": "top09",
+              "votes": 2241171,
+              "pct": 45.2
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 61.27%). First direct presidential election. Each round was held over two days; dates are the last day."
+    },
+    {
+      "id": "cz-president-2018",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2018-01-13",
+      "turnout": 66.57,
+      "source": {
+        "name": "Wikipedia, citing the Czech Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2018_Czech_presidential_election",
+        "revid": 1369307331
+      },
+      "candidates": [
+        {
+          "name": "Miloš Zeman",
+          "party": "spoz",
+          "votes": 2853390,
+          "pct": 51.37,
+          "winner": true
+        },
+        {
+          "name": "Jiří Drahoš",
+          "party": "drahos",
+          "votes": 2701206,
+          "pct": 48.63
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2018-01-13",
+          "candidates": [
+            {
+              "name": "Miloš Zeman",
+              "party": "spoz",
+              "votes": 1985547,
+              "pct": 38.57
+            },
+            {
+              "name": "Jiří Drahoš",
+              "party": "drahos",
+              "votes": 1369601,
+              "pct": 26.6
+            },
+            {
+              "name": "Pavel Fischer",
+              "party": "pfischer",
+              "votes": 526694,
+              "pct": 10.23
+            },
+            {
+              "name": "Michal Horáček",
+              "party": "horacek",
+              "votes": 472643,
+              "pct": 9.18
+            },
+            {
+              "name": "Marek Hilšer",
+              "party": "hilser",
+              "votes": 454949,
+              "pct": 8.84
+            },
+            {
+              "name": "Mirek Topolánek",
+              "party": "topolanek",
+              "votes": 221689,
+              "pct": 4.31
+            },
+            {
+              "name": "Jiří Hynek",
+              "party": "realiste",
+              "votes": 63348,
+              "pct": 1.23
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 53670,
+              "pct": 1.04
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2018-01-27",
+          "candidates": [
+            {
+              "name": "Miloš Zeman",
+              "party": "spoz",
+              "votes": 2853390,
+              "pct": 51.37,
+              "winner": true
+            },
+            {
+              "name": "Jiří Drahoš",
+              "party": "drahos",
+              "votes": 2701206,
+              "pct": 48.63
+            }
+          ]
+        }
+      ],
+      "notes": "Turnout is the run-off's (first round 61.88%). First-round Others: Petr Hannig, Vratislav Kulhánek. Each round was held over two days; dates are the last day."
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "code": "SK",
+  "name": "Slovakia",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "National Council (150)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 4368697,
+    "offices": {
+      "National Council": "150 members are elected for four years by open-list proportional representation in one nationwide constituency, with thresholds of 5% for parties, 7% for coalitions of two or three parties and 10% for larger ones. The president appoints the prime minister, who answers solely to the National Council.",
+      "President": "Elected directly for five years in two rounds, with a run-off between the top two when nobody wins an absolute majority of all voters. The role is largely ceremonial, but the president can veto laws, which parliament can override by a majority."
+    }
+  },
+  "parties": {
+    "vpn": {
+      "name": "Public Against Violence",
+      "color": "#B719A8"
+    },
+    "kdh": {
+      "name": "Christian Democratic Movement",
+      "color": "#173A70"
+    },
+    "sns": {
+      "name": "Slovak National Party",
+      "color": "#808000"
+    },
+    "kss1939": {
+      "name": "Communist Party of Slovakia",
+      "color": "#8B0000"
+    },
+    "egymkdh": {
+      "name": "Coexistence–Hungarian Christian Democratic Movement",
+      "color": "#2E8B57"
+    },
+    "ds": {
+      "name": "Democratic Party",
+      "color": "#20B2AA"
+    },
+    "sz": {
+      "name": "Green Party",
+      "color": "#00FF00"
+    },
+    "szv": {
+      "name": "Alliance of Farmers and the Countryside",
+      "color": "#8F9779"
+    },
+    "sd": {
+      "name": "Social Democracy",
+      "color": "#F08080"
+    },
+    "ss": {
+      "name": "Freedom Party",
+      "color": "#1A809A"
+    },
+    "hzds": {
+      "name": "Movement for a Democratic Slovakia",
+      "color": "#00CCFF"
+    },
+    "sdl": {
+      "name": "Party of the Democratic Left",
+      "color": "#FF8080"
+    },
+    "odu": {
+      "name": "Civic Democratic Union",
+      "color": "#C71585"
+    },
+    "sdss": {
+      "name": "Social Democratic Party of Slovakia",
+      "color": "#E02816"
+    },
+    "skdh": {
+      "name": "Slovak Christian Democratic Movement",
+      "color": "#F0E68C"
+    },
+    "mos": {
+      "name": "Hungarian Civic Party",
+      "color": "#BFF924"
+    },
+    "zeleni": {
+      "name": "Party of Greens",
+      "color": "#00AD43"
+    },
+    "sv": {
+      "name": "Common Choice",
+      "color": "#ED1B30"
+    },
+    "mkoal": {
+      "name": "Hungarian Coalition",
+      "color": "#2E8B57"
+    },
+    "du": {
+      "name": "Democratic Union of Slovakia",
+      "color": "#007BA7"
+    },
+    "zrs": {
+      "name": "Union of the Workers of Slovakia",
+      "color": "#8B0000"
+    },
+    "kss": {
+      "name": "Communist Party of Slovakia",
+      "color": "#660033"
+    },
+    "ksu": {
+      "name": "Christian Social Union",
+      "color": "#DAA520"
+    },
+    "nsl": {
+      "name": "New Slovakia",
+      "color": "#9370DB"
+    },
+    "spk": {
+      "name": "Anti-Corruption Party",
+      "color": "#2F4F4F"
+    },
+    "hpcs": {
+      "name": "Movement for a Prosperous Czech Republic and Slovakia",
+      "color": "#CD853F"
+    },
+    "sdk": {
+      "name": "Slovak Democratic Coalition",
+      "color": "#FFDD00"
+    },
+    "smk": {
+      "name": "Hungarian Alliance",
+      "color": "#029C02"
+    },
+    "sop": {
+      "name": "Party of Civic Understanding",
+      "color": "#F53E13"
+    },
+    "sdku": {
+      "name": "Slovak Democratic and Christian Union",
+      "color": "#1E90FF"
+    },
+    "smer": {
+      "name": "Direction – Social Democracy",
+      "color": "#D82222"
+    },
+    "ano": {
+      "name": "Alliance of the New Citizen",
+      "color": "#FFB200"
+    },
+    "psns": {
+      "name": "True Slovak National Party",
+      "color": "#8B4513"
+    },
+    "hzd": {
+      "name": "Movement for Democracy",
+      "color": "#9932CC"
+    },
+    "sda": {
+      "name": "Social Democratic Alternative",
+      "color": "#FF1493"
+    },
+    "sf": {
+      "name": "Free Forum",
+      "color": "#FFFF00"
+    },
+    "sdl05": {
+      "name": "Party of the Democratic Left",
+      "color": "#C71585"
+    },
+    "sas": {
+      "name": "Freedom and Solidarity",
+      "color": "#A7CF35"
+    },
+    "most": {
+      "name": "Most–Híd",
+      "color": "#FF5300"
+    },
+    "lsns": {
+      "name": "People's Party Our Slovakia",
+      "color": "#005222"
+    },
+    "olano": {
+      "name": "Ordinary People and Independent Personalities",
+      "color": "#42B5C2"
+    },
+    "p99": {
+      "name": "99% – Civic Voice",
+      "color": "#DA70D6"
+    },
+    "zmena": {
+      "name": "Change from Below",
+      "color": "#911EB4"
+    },
+    "smerodina": {
+      "name": "We Are Family",
+      "color": "#7B68EE"
+    },
+    "siet": {
+      "name": "Network",
+      "color": "#0F75BC"
+    },
+    "psspolu": {
+      "name": "Progressive Slovakia–Together",
+      "color": "#1379D9"
+    },
+    "zaludi": {
+      "name": "For the People",
+      "color": "#FDBB12"
+    },
+    "dv": {
+      "name": "Good Choice",
+      "color": "#E75480"
+    },
+    "vlast": {
+      "name": "Homeland",
+      "color": "#FFA07A"
+    },
+    "ps": {
+      "name": "Progressive Slovakia",
+      "color": "#00BDFF"
+    },
+    "hlas": {
+      "name": "Voice – Social Democracy",
+      "color": "#830F38"
+    },
+    "republika": {
+      "name": "Republic",
+      "color": "#4B3621"
+    },
+    "demokrati": {
+      "name": "Democrats",
+      "color": "#50168E"
+    },
+    "kds": {
+      "name": "Conservative Democrats of Slovakia",
+      "color": "#6F0470"
+    },
+    "vasaryova": {
+      "name": "Independent",
+      "color": "#9F86C0"
+    },
+    "mjartan": {
+      "name": "Independent",
+      "color": "#8D7B68"
+    },
+    "zala": {
+      "name": "Independent",
+      "color": "#4B0082"
+    },
+    "schuster": {
+      "name": "Independent",
+      "color": "#F4A460"
+    },
+    "butora": {
+      "name": "Independent",
+      "color": "#3CB44B"
+    },
+    "gasparovic": {
+      "name": "Independent",
+      "color": "#A52A2A"
+    },
+    "bollova": {
+      "name": "Independent",
+      "color": "#7A7A7A"
+    },
+    "kiska": {
+      "name": "Independent",
+      "color": "#2A9D8F"
+    },
+    "prochazka": {
+      "name": "Independent",
+      "color": "#D4A017"
+    },
+    "knazko": {
+      "name": "Independent",
+      "color": "#8E7CC3"
+    },
+    "mezenska": {
+      "name": "Independent",
+      "color": "#B5651D"
+    },
+    "sefcovic": {
+      "name": "Independent (Direction – Social Democracy)",
+      "color": "#E8807A"
+    },
+    "harabin": {
+      "name": "Independent",
+      "color": "#6B4226"
+    },
+    "miklosko": {
+      "name": "Independent",
+      "color": "#5A7D9A"
+    },
+    "chmelar": {
+      "name": "Independent",
+      "color": "#C0A0A0"
+    },
+    "korcok": {
+      "name": "Independent",
+      "color": "#F58231"
+    },
+    "kubis": {
+      "name": "Independent",
+      "color": "#8E7CC3"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "sk-national-council-2023",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2023-09-30",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 68.5,
+      "system": "150 seats, one nationwide list constituency",
+      "totalSeats": 150,
+      "majority": 76,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2023_Slovak_parliamentary_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Slovak_parliamentary_election#Results_by_region",
+      "candidates": [
+        {
+          "name": "Direction – Social Democracy",
+          "party": "smer",
+          "votes": 681017,
+          "pct": 22.95,
+          "seats": 42,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Progressive Slovakia",
+          "party": "ps",
+          "votes": 533136,
+          "pct": 17.96,
+          "seats": 32,
+          "change": 32
+        },
+        {
+          "name": "Voice – Social Democracy",
+          "party": "hlas",
+          "votes": 436415,
+          "pct": 14.7,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "OĽaNO and Friends",
+          "party": "olano",
+          "votes": 264137,
+          "pct": 8.9,
+          "seats": 16,
+          "change": -48
+        },
+        {
+          "name": "Christian Democratic Movement",
+          "party": "kdh",
+          "votes": 202515,
+          "pct": 6.82,
+          "seats": 12,
+          "change": 12
+        },
+        {
+          "name": "Freedom and Solidarity",
+          "party": "sas",
+          "votes": 187645,
+          "pct": 6.32,
+          "seats": 11,
+          "change": -2
+        },
+        {
+          "name": "Slovak National Party",
+          "party": "sns",
+          "votes": 166995,
+          "pct": 5.63,
+          "seats": 10,
+          "change": 10
+        },
+        {
+          "name": "Republic",
+          "party": "republika",
+          "votes": 141099,
+          "pct": 4.75,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Alliance",
+          "party": "smk",
+          "votes": 130183,
+          "pct": 4.39,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Democrats",
+          "party": "demokrati",
+          "votes": 87006,
+          "pct": 2.93,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "We Are Family",
+          "party": "smerodina",
+          "votes": 65673,
+          "pct": 2.21,
+          "seats": 0,
+          "change": -17
+        },
+        {
+          "name": "People's Party Our Slovakia",
+          "party": "lsns",
+          "votes": 25003,
+          "pct": 0.84,
+          "seats": 0,
+          "change": -17
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 47072,
+          "pct": 1.59,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Banská Bystrica","abbr":"BC","winner":"smer","margin":9.1,"turnout":71.1,"votes":310910,"results":[{"party":"smer","pct":35.9,"votes":111617},{"party":"ps","pct":26.8,"votes":83324},{"party":"hlas","pct":22,"votes":68400},{"party":"olano","pct":9.2,"votes":28604},{"party":"kdh","pct":6.1,"votes":18966}]},
+        {"name":"Bratislava","abbr":"BL","winner":"ps","margin":8.6,"turnout":63.3,"votes":305122,"results":[{"party":"ps","pct":30.7,"votes":93672},{"party":"smer","pct":22.1,"votes":67432},{"party":"hlas","pct":17.4,"votes":53091},{"party":"olano","pct":16.8,"votes":51260},{"party":"kdh","pct":13,"votes":39666}]},
+        {"name":"Košice","abbr":"KI","winner":"smer","margin":2.6,"turnout":69.3,"votes":362571,"results":[{"party":"smer","pct":29,"votes":105146},{"party":"ps","pct":26.4,"votes":95719},{"party":"olano","pct":22.5,"votes":81578},{"party":"hlas","pct":14.7,"votes":53298},{"party":"kdh","pct":7.5,"votes":27193}]},
+        {"name":"Nitra","abbr":"NI","winner":"smer","margin":12.5,"turnout":74.3,"votes":376166,"results":[{"party":"smer","pct":38.1,"votes":143319},{"party":"ps","pct":25.6,"votes":96298},{"party":"hlas","pct":13.2,"votes":49654},{"party":"olano","pct":12.7,"votes":47773},{"party":"kdh","pct":10.3,"votes":38745}]},
+        {"name":"Prešov","abbr":"PV","winner":"smer","margin":0.8,"turnout":73.2,"votes":335965,"results":[{"party":"smer","pct":30.6,"votes":102805},{"party":"ps","pct":29.8,"votes":100118},{"party":"hlas","pct":19.8,"votes":66521},{"party":"kdh","pct":13.5,"votes":45355},{"party":"olano","pct":6.4,"votes":21502}]},
+        {"name":"Trenčín","abbr":"TC","winner":"smer","margin":17.5,"turnout":67.6,"votes":353026,"results":[{"party":"smer","pct":39.3,"votes":138739},{"party":"hlas","pct":21.8,"votes":76960},{"party":"ps","pct":19.2,"votes":67781},{"party":"olano","pct":12,"votes":42363},{"party":"kdh","pct":7.7,"votes":27183}]},
+        {"name":"Trnava","abbr":"TA","winner":"smer","margin":1.9,"turnout":61.9,"votes":384568,"results":[{"party":"smer","pct":30.3,"votes":116524},{"party":"ps","pct":28.4,"votes":109217},{"party":"hlas","pct":16.3,"votes":62685},{"party":"olano","pct":14.1,"votes":54224},{"party":"kdh","pct":11,"votes":42302}]},
+        {"name":"Žilina","abbr":"ZI","winner":"smer","margin":10.2,"turnout":63.8,"votes":390591,"results":[{"party":"smer","pct":35.1,"votes":137097},{"party":"hlas","pct":24.9,"votes":97257},{"party":"ps","pct":16.5,"votes":64448},{"party":"kdh","pct":11.8,"votes":46090},{"party":"olano","pct":11.6,"votes":45309}]}
+      ]
+    },
+    {
+      "id": "sk-president-2024",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2024-03-23",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 61.12,
+      "system": "Two-round popular vote, five-year term",
+      "cite": {
+        "name": "the Statistical Office of the Slovak Republic",
+        "url": "https://en.wikipedia.org/wiki/2024_Slovak_presidential_election"
+      },
+      "candidates": [
+        {
+          "name": "Peter Pellegrini",
+          "party": "hlas",
+          "votes": 1409255,
+          "pct": 53.12,
+          "winner": true
+        },
+        {
+          "name": "Ivan Korčok",
+          "party": "korcok",
+          "votes": 1243709,
+          "pct": 46.88
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2024-03-23",
+          "candidates": [
+            {
+              "name": "Ivan Korčok",
+              "party": "korcok",
+              "votes": 958393,
+              "pct": 42.52
+            },
+            {
+              "name": "Peter Pellegrini",
+              "party": "hlas",
+              "votes": 834718,
+              "pct": 37.03
+            },
+            {
+              "name": "Štefan Harabin",
+              "party": "harabin",
+              "votes": 264579,
+              "pct": 11.74
+            },
+            {
+              "name": "Krisztián Forró",
+              "party": "smk",
+              "votes": 65588,
+              "pct": 2.91
+            },
+            {
+              "name": "Igor Matovič",
+              "party": "olano",
+              "votes": 49201,
+              "pct": 2.18
+            },
+            {
+              "name": "Ján Kubiš",
+              "party": "kubis",
+              "votes": 45957,
+              "pct": 2.04
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 35770,
+              "pct": 1.59
+            }
+          ],
+          "regions": [
+            {"name":"Banská Bystrica","abbr":"BC","winner":"korcok","margin":5.8,"turnout":64.2,"votes":269448,"results":[{"party":"korcok","pct":39.1,"votes":105354},{"party":"hlas","pct":33.3,"votes":89726},{"party":"harabin","pct":16.5,"votes":44459},{"party":"smk","pct":6.2,"votes":16706},{"party":"olano","pct":4.9,"votes":13203}]},
+            {"name":"Bratislava","abbr":"BL","winner":"korcok","margin":32.3,"turnout":65.7,"votes":228888,"results":[{"party":"korcok","pct":60.7,"votes":138935},{"party":"hlas","pct":28.4,"votes":65004},{"party":"harabin","pct":6.2,"votes":14191},{"party":"smk","pct":3,"votes":6867},{"party":"olano","pct":1.7,"votes":3891}]},
+            {"name":"Košice","abbr":"KI","winner":"korcok","margin":11.9,"turnout":67,"votes":334060,"results":[{"party":"korcok","pct":47.3,"votes":158010},{"party":"hlas","pct":35.4,"votes":118257},{"party":"harabin","pct":11.6,"votes":38751},{"party":"olano","pct":2.9,"votes":9688},{"party":"smk","pct":2.7,"votes":9020}]},
+            {"name":"Nitra","abbr":"NI","winner":"korcok","margin":2.9,"turnout":66.9,"votes":250411,"results":[{"party":"korcok","pct":42.3,"votes":105924},{"party":"hlas","pct":39.4,"votes":98662},{"party":"harabin","pct":12.9,"votes":32303},{"party":"smk","pct":4.1,"votes":10267},{"party":"olano","pct":1.4,"votes":3506}]},
+            {"name":"Prešov","abbr":"PV","winner":"hlas","margin":23.1,"turnout":59.6,"votes":274680,"results":[{"party":"hlas","pct":53.9,"votes":148053},{"party":"korcok","pct":30.8,"votes":84601},{"party":"harabin","pct":9.7,"votes":26644},{"party":"smk","pct":4.1,"votes":11262},{"party":"olano","pct":1.4,"votes":3846}]},
+            {"name":"Trenčín","abbr":"TC","winner":"hlas","margin":8.7,"turnout":61,"votes":297528,"results":[{"party":"hlas","pct":45.6,"votes":135673},{"party":"korcok","pct":36.9,"votes":109788},{"party":"harabin","pct":13.8,"votes":41059},{"party":"smk","pct":2.5,"votes":7438},{"party":"olano","pct":1.2,"votes":3570}]},
+            {"name":"Trnava","abbr":"TA","winner":"korcok","margin":5.3,"turnout":56.2,"votes":299709,"results":[{"party":"korcok","pct":36.3,"votes":108794},{"party":"hlas","pct":31,"votes":92910},{"party":"harabin","pct":25.9,"votes":77625},{"party":"smk","pct":4.8,"votes":14386},{"party":"olano","pct":2,"votes":5994}]},
+            {"name":"Žilina","abbr":"ZI","winner":"hlas","margin":27.2,"turnout":58.6,"votes":308822,"results":[{"party":"hlas","pct":52.4,"votes":161823},{"party":"korcok","pct":25.2,"votes":77823},{"party":"harabin","pct":15.5,"votes":47867},{"party":"smk","pct":4.4,"votes":13588},{"party":"olano","pct":2.5,"votes":7721}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2024-04-06",
+          "candidates": [
+            {
+              "name": "Peter Pellegrini",
+              "party": "hlas",
+              "votes": 1409255,
+              "pct": 53.12,
+              "winner": true
+            },
+            {
+              "name": "Ivan Korčok",
+              "party": "korcok",
+              "votes": 1243709,
+              "pct": 46.88
+            }
+          ],
+          "regions": [
+            {"name":"Banská Bystrica","abbr":"BC","winner":"korcok","margin":29.6,"turnout":60.6,"votes":270982,"results":[{"party":"korcok","pct":64.8,"votes":175596},{"party":"hlas","pct":35.2,"votes":95386}]},
+            {"name":"Bratislava","abbr":"BL","winner":"hlas","margin":15.6,"turnout":57.6,"votes":327480,"results":[{"party":"hlas","pct":57.8,"votes":189283},{"party":"korcok","pct":42.2,"votes":138197}]},
+            {"name":"Košice","abbr":"KI","winner":"hlas","margin":14,"turnout":63.4,"votes":300666,"results":[{"party":"hlas","pct":57,"votes":171380},{"party":"korcok","pct":43,"votes":129286}]},
+            {"name":"Nitra","abbr":"NI","winner":"hlas","margin":15.6,"turnout":56.2,"votes":380261,"results":[{"party":"hlas","pct":57.8,"votes":219791},{"party":"korcok","pct":42.2,"votes":160470}]},
+            {"name":"Prešov","abbr":"PV","winner":"hlas","margin":12.4,"turnout":67.8,"votes":324128,"results":[{"party":"hlas","pct":56.2,"votes":182160},{"party":"korcok","pct":43.8,"votes":141968}]},
+            {"name":"Trenčín","abbr":"TC","winner":"korcok","margin":10.6,"turnout":62.7,"votes":381848,"results":[{"party":"korcok","pct":55.3,"votes":211162},{"party":"hlas","pct":44.7,"votes":170686}]},
+            {"name":"Trnava","abbr":"TA","winner":"korcok","margin":26.2,"turnout":56.4,"votes":369655,"results":[{"party":"korcok","pct":63.1,"votes":233252},{"party":"hlas","pct":36.9,"votes":136403}]},
+            {"name":"Žilina","abbr":"ZI","winner":"hlas","margin":38.6,"turnout":59,"votes":310101,"results":[{"party":"hlas","pct":69.3,"votes":214900},{"party":"korcok","pct":30.7,"votes":95201}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

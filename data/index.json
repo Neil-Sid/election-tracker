@@ -683,6 +683,69 @@
         "regions"
       ],
       "history": true
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "atlasId": "203",
+      "marker": [
+        15.5,
+        49.8
+      ],
+      "view": {
+        "center": [
+          15.4,
+          49.8
+        ],
+        "span": 3
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "atlasId": "703",
+      "marker": [
+        19.5,
+        48.7
+      ],
+      "view": {
+        "center": [
+          19.6,
+          48.7
+        ],
+        "span": 2.6
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "atlasId": "348",
+      "marker": [
+        19.4,
+        47.2
+      ],
+      "view": {
+        "center": [
+          19.4,
+          47.2
+        ],
+        "span": 2.9
+      },
+      "regionTerm": [
+        "county",
+        "counties"
+      ],
+      "history": true
     }
   ]
 }

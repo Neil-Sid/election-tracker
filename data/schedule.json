@@ -737,5 +737,58 @@
     "pollsClose": "17:00",
     "basedOn": "pe-chamber-of-deputies-2026",
     "tentative": true
+  },
+  {
+    "country": "CZ",
+    "office": "Chamber of Deputies",
+    "kind": "legislative",
+    "date": "2029-10-06",
+    "timezone": "Europe/Prague",
+    "pollsClose": "14:00",
+    "basedOn": "cz-chamber-of-deputies-2025",
+    "tentative": true
+  },
+  {
+    "country": "CZ",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2028-01-15",
+    "note": "First round",
+    "timezone": "Europe/Prague",
+    "pollsClose": "14:00",
+    "basedOn": "cz-president-2023",
+    "tentative": true
+  },
+  {
+    "country": "SK",
+    "office": "National Council",
+    "kind": "legislative",
+    "date": "2027-09-25",
+    "timezone": "Europe/Bratislava",
+    "pollsClose": "22:00",
+    "basedOn": "sk-national-council-2023",
+    "tentative": true
+  },
+  {
+    "country": "SK",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2029-03-24",
+    "note": "First round",
+    "timezone": "Europe/Bratislava",
+    "pollsClose": "22:00",
+    "basedOn": "sk-president-2024",
+    "tentative": true
+  },
+  {
+    "country": "HU",
+    "office": "National Assembly",
+    "kind": "legislative",
+    "date": "2030-04-01",
+    "note": "April or May 2030; the date is not yet set",
+    "timezone": "Europe/Budapest",
+    "pollsClose": "19:00",
+    "basedOn": "hu-national-assembly-2026",
+    "tentative": true
   }
 ]
