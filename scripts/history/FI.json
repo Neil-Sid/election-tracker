@@ -1,0 +1,3310 @@
+{
+ "code": "FI",
+ "parties": {
+  "sdp": {
+   "name": "Social Democratic Party",
+   "color": "#F54B4B",
+   "article": "Social Democratic Party of Finland"
+  },
+  "kesk": {
+   "name": "Centre Party",
+   "color": "#3AAD2E",
+   "article": "Centre Party (Finland)"
+  },
+  "kok": {
+   "name": "National Coalition Party",
+   "color": "#006288",
+   "article": "National Coalition Party"
+  },
+  "ps": {
+   "name": "Finns Party",
+   "color": "#FFDE55",
+   "article": "Finns Party"
+  },
+  "skdl": {
+   "name": "Finnish People's Democratic League",
+   "color": "#C30B02",
+   "article": "Finnish People's Democratic League"
+  },
+  "vas": {
+   "name": "Left Alliance",
+   "color": "#F00A64",
+   "article": "Left Alliance (Finland)"
+  },
+  "vihr": {
+   "name": "Green League",
+   "color": "#006845",
+   "article": "Green League"
+  },
+  "rkp": {
+   "name": "Swedish People's Party",
+   "color": "#FFDD93",
+   "article": "Swedish People's Party of Finland"
+  },
+  "kd": {
+   "name": "Christian Democrats",
+   "color": "#2B67C9",
+   "article": "Christian Democrats (Finland)"
+  },
+  "smp": {
+   "name": "Finnish Rural Party",
+   "color": "#808080",
+   "article": "Finnish Rural Party"
+  },
+  "ke": {
+   "name": "National Progressive Party",
+   "color": "#FFD700",
+   "article": "National Progressive Party (Finland)"
+  },
+  "kp": {
+   "name": "People's Party of Finland",
+   "color": "#FFD700",
+   "article": "People's Party of Finland (1951)"
+  },
+  "lkp": {
+   "name": "Liberal People's Party",
+   "color": "#FFD700",
+   "article": "Liberals (Finland)"
+  },
+  "vl": {
+   "name": "Liberal League",
+   "color": "#0000CD",
+   "article": "Liberal League (Finland)"
+  },
+  "tpsl": {
+   "name": "Social Democratic Union of Workers and Smallholders",
+   "color": "#A41C37",
+   "article": "Social Democratic Union of Workers and Smallholders"
+  },
+  "skyp": {
+   "name": "Finnish People's Unity Party",
+   "color": "#26A69A",
+   "article": "Finnish People's Unity Party"
+  },
+  "pkp": {
+   "name": "Constitutional Right Party",
+   "color": "#00008B",
+   "article": "Constitutional Right Party"
+  },
+  "deva": {
+   "name": "Democratic Alternative",
+   "color": "#FF4D00",
+   "article": "Democratic Alternative (Finland)"
+  },
+  "elp": {
+   "name": "Pensioners' Party",
+   "color": "#AFB42B"
+  },
+  "nuors": {
+   "name": "Young Finns",
+   "color": "#4DB6AC",
+   "article": "Young Finns"
+  },
+  "ekol": {
+   "name": "Ecological Party the Greens",
+   "color": "#90EE90",
+   "article": "Kirjava ”Puolue” – Elonkehän Puolesta"
+  },
+  "ipu": {
+   "name": "Independence Party",
+   "color": "#017BC4",
+   "article": "Independence Party (Finland)"
+  },
+  "rem": {
+   "name": "Reform Group",
+   "color": "#E6E600",
+   "article": "Reform Group (Finland)"
+  },
+  "liik": {
+   "name": "Movement Now",
+   "color": "#AE2375",
+   "article": "Movement Now"
+  },
+  "ala": {
+   "name": "Åland Coalition",
+   "color": "#F9A825",
+   "article": "Åland Coalition"
+  },
+  "lfa": {
+   "name": "Liberals for Åland",
+   "color": "#7B1FA2",
+   "article": "Liberals for Åland"
+  },
+  "moda": {
+   "name": "Moderates of Åland",
+   "color": "#72CCED",
+   "article": "Moderates of Åland"
+  },
+  "ac": {
+   "name": "Åland Centre",
+   "color": "#B1C800",
+   "article": "Åland Centre"
+  },
+  "indkorhonen": {
+   "name": "Keijo Korhonen (independent)",
+   "color": "#FF8F00",
+   "article": "Keijo Korhonen (politician)"
+  },
+  "indvirtanen": {
+   "name": "Veltto Virtanen (independent)",
+   "color": "#6D4C41",
+   "article": "Veltto Virtanen"
+  },
+  "indkuuskoski": {
+   "name": "Eeva Kuuskoski (independent)",
+   "color": "#B39DDB",
+   "article": "Eeva Kuuskoski"
+  },
+  "indniinisto": {
+   "name": "Sauli Niinistö (independent)",
+   "color": "#4A7DB5",
+   "article": "Sauli Niinistö"
+  },
+  "indvayrynen": {
+   "name": "Paavo Väyrynen (independent)",
+   "color": "#7FB069",
+   "article": "Paavo Väyrynen"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "fi-parliament-1948",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1948-07-02",
+   "totalSeats": 200,
+   "turnout": 78.25,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1948_Finnish_parliamentary_election",
+    "revid": 1310278840
+   },
+   "candidates": [
+    {
+     "name": "Agrarian League",
+     "party": "kesk",
+     "votes": 455635,
+     "pct": 24.24,
+     "seats": 56,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 494719,
+     "pct": 26.32,
+     "seats": 54,
+     "change": 4
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 375538,
+     "pct": 19.98,
+     "seats": 38,
+     "change": -11
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 320366,
+     "pct": 17.04,
+     "seats": 33,
+     "change": 5
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 137981,
+     "pct": 7.34,
+     "seats": 13,
+     "change": -1
+    },
+    {
+     "name": "National Progressive Party",
+     "party": "ke",
+     "votes": 73444,
+     "pct": 3.91,
+     "seats": 5,
+     "change": -4
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 6567,
+     "pct": 0.35,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 15718,
+     "pct": 0.84,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Small Farmers Party, Radical People's Party, the table's \"Others\" row. Change is null where the table shows \"New\" (Åland Coalition). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1951",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1951-07-02",
+   "totalSeats": 200,
+   "turnout": 74.58,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1951_Finnish_parliamentary_election",
+    "revid": 1310278797
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 480754,
+     "pct": 26.52,
+     "seats": 53,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Agrarian League",
+     "party": "kesk",
+     "votes": 421613,
+     "pct": 23.26,
+     "seats": 51,
+     "change": -5
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 391134,
+     "pct": 21.58,
+     "seats": 43,
+     "change": 5
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 264044,
+     "pct": 14.57,
+     "seats": 28,
+     "change": -5
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 131719,
+     "pct": 7.27,
+     "seats": 14,
+     "change": 1
+    },
+    {
+     "name": "People's Party of Finland",
+     "party": "kp",
+     "votes": 102933,
+     "pct": 5.68,
+     "seats": 10,
+     "change": 5
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 5686,
+     "pct": 0.31,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 14934,
+     "pct": 0.82,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Small Farmers Party, Liberal League, Radical People's Party, Finnish People's Party, the table's \"Others\" row. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1954",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1954-03-08",
+   "totalSeats": 200,
+   "turnout": 79.9,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1954_Finnish_parliamentary_election",
+    "revid": 1321854897
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 527094,
+     "pct": 26.25,
+     "seats": 54,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Agrarian League",
+     "party": "kesk",
+     "votes": 483958,
+     "pct": 24.1,
+     "seats": 53,
+     "change": 2
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 433251,
+     "pct": 21.57,
+     "seats": 43,
+     "change": 0
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 257025,
+     "pct": 12.8,
+     "seats": 24,
+     "change": -4
+    },
+    {
+     "name": "People's Party",
+     "party": "kp",
+     "votes": 158323,
+     "pct": 7.88,
+     "seats": 13,
+     "change": 3
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 135768,
+     "pct": 6.76,
+     "seats": 12,
+     "change": -2
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 4651,
+     "pct": 0.23,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 8187,
+     "pct": 0.41,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Liberal League, Small Farmers Party, the table's \"Others\" row. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1958",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1958-07-07",
+   "totalSeats": 200,
+   "turnout": 74.99,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1958_Finnish_parliamentary_election",
+    "revid": 1316946310
+   },
+   "candidates": [
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 450220,
+     "pct": 23.16,
+     "seats": 50,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 449536,
+     "pct": 23.12,
+     "seats": 48,
+     "change": -6
+    },
+    {
+     "name": "Agrarian League",
+     "party": "kesk",
+     "votes": 448364,
+     "pct": 23.06,
+     "seats": 48,
+     "change": -5
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 297094,
+     "pct": 15.28,
+     "seats": 29,
+     "change": 5
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 126365,
+     "pct": 6.5,
+     "seats": 13,
+     "change": 1
+    },
+    {
+     "name": "People's Party",
+     "party": "kp",
+     "votes": 114617,
+     "pct": 5.9,
+     "seats": 8,
+     "change": -5
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "party": "tpsl",
+     "votes": 33947,
+     "pct": 1.75,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 5487,
+     "pct": 0.28,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 18605,
+     "pct": 0.96,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Liberal League, Agrarian League Opposition, Finnish Christian League, Free Citizens and Centre List, Free Economy List, People's Co-operation League, the table's \"Others\" row. Change is null where the table shows \"New\" (Social Democratic Union of Workers and Smallholders). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1962",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1962-02-05",
+   "totalSeats": 200,
+   "turnout": 85.09,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1962_Finnish_parliamentary_election",
+    "revid": 1310278647
+   },
+   "candidates": [
+    {
+     "name": "Agrarian League",
+     "party": "kesk",
+     "votes": 528409,
+     "pct": 22.95,
+     "seats": 53,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 506829,
+     "pct": 22.02,
+     "seats": 47,
+     "change": -3
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 448930,
+     "pct": 19.5,
+     "seats": 38,
+     "change": -10
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 346638,
+     "pct": 15.06,
+     "seats": 32,
+     "change": 3
+    },
+    {
+     "name": "People's Party",
+     "party": "kp",
+     "votes": 146005,
+     "pct": 6.34,
+     "seats": 13,
+     "change": 5
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 140689,
+     "pct": 6.11,
+     "seats": 13,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "party": "tpsl",
+     "votes": 100396,
+     "pct": 4.36,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Liberal League",
+     "party": "vl",
+     "votes": 12000,
+     "pct": 0.52,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 7261,
+     "pct": 0.32,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Smallholders' Party",
+     "party": "smp",
+     "votes": 49773,
+     "pct": 2.16,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 15068,
+     "pct": 0.65,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Centre Party, Smallholders' Party Opposition, the table's \"Others\" row. Change is null where the table shows \"New\" (Smallholders' Party). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1966",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1966-03-21",
+   "totalSeats": 200,
+   "turnout": 84.94,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1966_Finnish_parliamentary_election",
+    "revid": 1310278602
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 645339,
+     "pct": 27.23,
+     "seats": 55,
+     "change": 17,
+     "winner": true
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 503047,
+     "pct": 21.23,
+     "seats": 49,
+     "change": -4
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 502374,
+     "pct": 21.2,
+     "seats": 41,
+     "change": -6
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 326928,
+     "pct": 13.79,
+     "seats": 26,
+     "change": -6
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 134831,
+     "pct": 5.69,
+     "seats": 11,
+     "change": -2
+    },
+    {
+     "name": "Liberal People's Party",
+     "party": "lkp",
+     "votes": 153259,
+     "pct": 6.47,
+     "seats": 9,
+     "change": -5
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "party": "tpsl",
+     "votes": 61274,
+     "pct": 2.59,
+     "seats": 7,
+     "change": 5
+    },
+    {
+     "name": "Smallholders' Party",
+     "party": "smp",
+     "votes": 24351,
+     "pct": 1.03,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 7118,
+     "pct": 0.3,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 11525,
+     "pct": 0.49,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Finnish Christian League, Independence Party, Christian Women of Western Finland, Christian-minded of Northern Savonia, the table's \"Others\" row, Write-ins. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1970",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1970-03-16",
+   "totalSeats": 200,
+   "turnout": 82.23,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1970_Finnish_parliamentary_election",
+    "revid": 1284172940
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 594185,
+     "pct": 23.43,
+     "seats": 52,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 457582,
+     "pct": 18.05,
+     "seats": 37,
+     "change": 11
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 434150,
+     "pct": 17.12,
+     "seats": 36,
+     "change": -13
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 420556,
+     "pct": 16.58,
+     "seats": 36,
+     "change": -5
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 265939,
+     "pct": 10.49,
+     "seats": 18,
+     "change": 17
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 135465,
+     "pct": 5.34,
+     "seats": 11,
+     "change": 0
+    },
+    {
+     "name": "Liberal People's Party",
+     "party": "lkp",
+     "votes": 150823,
+     "pct": 5.95,
+     "seats": 8,
+     "change": -1
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 28547,
+     "pct": 1.13,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 8971,
+     "pct": 0.35,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "party": "tpsl",
+     "votes": 35453,
+     "pct": 1.4,
+     "seats": 0,
+     "change": -7
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4111,
+     "pct": 0.16,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Entrepreneur Party, the table's \"Others\" row. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1972",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1972-01-03",
+   "totalSeats": 200,
+   "turnout": 81.41,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1972_Finnish_parliamentary_election",
+    "revid": 1310278508
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 664724,
+     "pct": 25.78,
+     "seats": 55,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 438757,
+     "pct": 17.02,
+     "seats": 37,
+     "change": 1
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 423039,
+     "pct": 16.41,
+     "seats": 35,
+     "change": -1
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 453434,
+     "pct": 17.59,
+     "seats": 34,
+     "change": -3
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 236206,
+     "pct": 9.16,
+     "seats": 18,
+     "change": 0
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 130407,
+     "pct": 5.06,
+     "seats": 9,
+     "change": -2
+    },
+    {
+     "name": "Liberal People's Party",
+     "party": "lkp",
+     "votes": 132955,
+     "pct": 5.16,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 65228,
+     "pct": 2.53,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 7672,
+     "pct": 0.3,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 25527,
+     "pct": 0.99,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Social Democratic Union of Workers and Smallholders. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1975",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1975-09-22",
+   "totalSeats": 200,
+   "turnout": 73.8,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1975_Finnish_parliamentary_election",
+    "revid": 1310278446
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 683590,
+     "pct": 24.86,
+     "seats": 54,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 519483,
+     "pct": 18.89,
+     "seats": 40,
+     "change": 3
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 484772,
+     "pct": 17.63,
+     "seats": 39,
+     "change": 4
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 505145,
+     "pct": 18.37,
+     "seats": 35,
+     "change": 1
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 128211,
+     "pct": 4.66,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Liberal People's Party",
+     "party": "lkp",
+     "votes": 119534,
+     "pct": 4.35,
+     "seats": 9,
+     "change": 2
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 90599,
+     "pct": 3.29,
+     "seats": 9,
+     "change": 5
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 98815,
+     "pct": 3.59,
+     "seats": 2,
+     "change": -16
+    },
+    {
+     "name": "Finnish People's Unity Party",
+     "party": "skyp",
+     "votes": 45402,
+     "pct": 1.65,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Constitutional People's Party",
+     "party": "pkp",
+     "votes": 43344,
+     "pct": 1.58,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 9482,
+     "pct": 0.34,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 21441,
+     "pct": 0.78,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Party of Finnish Entrepreneurs, Socialist Workers Party, the table's \"Others\" row. Change is null where the table shows \"New\" (Finnish People's Unity Party, Constitutional People's Party). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1979",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1979-03-19",
+   "totalSeats": 200,
+   "turnout": 75.31,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1979_Finnish_parliamentary_election",
+    "revid": 1310278391
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 691512,
+     "pct": 23.89,
+     "seats": 52,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 626764,
+     "pct": 21.65,
+     "seats": 47,
+     "change": 12
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 500478,
+     "pct": 17.29,
+     "seats": 36,
+     "change": -3
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 518045,
+     "pct": 17.9,
+     "seats": 35,
+     "change": -5
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 138244,
+     "pct": 4.78,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 122418,
+     "pct": 4.23,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 132457,
+     "pct": 4.58,
+     "seats": 7,
+     "change": 5
+    },
+    {
+     "name": "Liberal People's Party",
+     "party": "lkp",
+     "votes": 106560,
+     "pct": 3.68,
+     "seats": 4,
+     "change": -5
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 9286,
+     "pct": 0.32,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Constitutional People's Party",
+     "party": "pkp",
+     "votes": 34958,
+     "pct": 1.21,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 13724,
+     "pct": 0.47,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Finnish People's Unity Party, Socialist Workers Party, Party of Finnish Entrepreneurs, the table's \"Others\" row. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map."
+  },
+  {
+   "id": "fi-parliament-1983",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1983-03-21",
+   "totalSeats": 200,
+   "turnout": 75.73,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1983_Finnish_parliamentary_election",
+    "revid": 1319546955
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 795953,
+     "pct": 26.71,
+     "seats": 57,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 659078,
+     "pct": 22.12,
+     "seats": 44,
+     "change": -3
+    },
+    {
+     "name": "Centre Party–Liberal People's Party",
+     "party": "kesk",
+     "votes": 525207,
+     "pct": 17.63,
+     "seats": 38,
+     "change": -2
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 400930,
+     "pct": 13.46,
+     "seats": 26,
+     "change": -9
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 288711,
+     "pct": 9.69,
+     "seats": 17,
+     "change": 10
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 137423,
+     "pct": 4.61,
+     "seats": 10,
+     "change": 1
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 90410,
+     "pct": 3.03,
+     "seats": 3,
+     "change": -6
+    },
+    {
+     "name": "Greens",
+     "party": "vihr",
+     "votes": 43754,
+     "pct": 1.47,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Constitutional Right Party",
+     "party": "pkp",
+     "votes": 11104,
+     "pct": 0.37,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 9458,
+     "pct": 0.32,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 17666,
+     "pct": 0.59,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: League for Civil Democracy, the table's \"Others\" row. Change is null where the table shows \"New\" (Greens). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. The Centre Party and the Liberal People's Party ran a joint list. The table's \"Others\" row won one seat without naming the party, so Others has a seat."
+  },
+  {
+   "id": "fi-parliament-1987",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1987-03-16",
+   "totalSeats": 200,
+   "turnout": 72.08,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1987_Finnish_parliamentary_election",
+    "revid": 1310278288
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 695331,
+     "pct": 24.14,
+     "seats": 56,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 666236,
+     "pct": 23.13,
+     "seats": 53,
+     "change": 9
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 507460,
+     "pct": 17.62,
+     "seats": 40,
+     "change": 2
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 270433,
+     "pct": 9.39,
+     "seats": 16,
+     "change": -10
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 152597,
+     "pct": 5.3,
+     "seats": 12,
+     "change": 2
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 181938,
+     "pct": 6.32,
+     "seats": 9,
+     "change": -8
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 74209,
+     "pct": 2.58,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Democratic Alternative",
+     "party": "deva",
+     "votes": 122181,
+     "pct": 4.24,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Greens",
+     "party": "vihr",
+     "votes": 115988,
+     "pct": 4.03,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Liberals for Åland–Social Democrats",
+     "party": "lfa",
+     "votes": 7019,
+     "pct": 0.24,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Pensioners' Party",
+     "party": "elp",
+     "votes": 35100,
+     "pct": 1.22,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 51601,
+     "pct": 1.79,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Liberal People's Party, Constitutional Right Party, Åland Centre–Freeminded Cooperation, Free Åland, the table's \"Others\" row. Change is null where the table shows \"New\" (Democratic Alternative, Pensioners' Party). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. The Åland seat went to a joint list of Liberals for Åland and the Åland Social Democrats."
+  },
+  {
+   "id": "fi-parliament-1991",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1991-03-17",
+   "totalSeats": 200,
+   "turnout": 68.39,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1991_Finnish_parliamentary_election",
+    "revid": 1310278199
+   },
+   "candidates": [
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 676717,
+     "pct": 24.83,
+     "seats": 55,
+     "change": 15,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 603080,
+     "pct": 22.12,
+     "seats": 48,
+     "change": -8
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 526487,
+     "pct": 19.31,
+     "seats": 40,
+     "change": -13
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 274639,
+     "pct": 10.08,
+     "seats": 19,
+     "change": -1
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 149476,
+     "pct": 5.48,
+     "seats": 11,
+     "change": -1
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 185894,
+     "pct": 6.82,
+     "seats": 10,
+     "change": 6
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 83151,
+     "pct": 3.05,
+     "seats": 8,
+     "change": 3
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 132133,
+     "pct": 4.85,
+     "seats": 7,
+     "change": -2
+    },
+    {
+     "name": "Liberal People's Party",
+     "party": "lkp",
+     "votes": 21210,
+     "pct": 0.78,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Liberals for Åland–Freeminded–Greens",
+     "party": "lfa",
+     "votes": 6546,
+     "pct": 0.24,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 66585,
+     "pct": 2.44,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Women's Party, Pensioners' Party, Constitutional Right Party, Communist Workers' Party – For Peace and Socialism, Independent Non-aligned Pensioners, Greens, Humanity Party, Joint Responsibility Party of Pensioners and the Greens, Åland Centre, Åland Social Democrats, the table's \"Others\" row. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. The Åland seat went to a joint list of Liberals for Åland, the Freeminded and the Greens."
+  },
+  {
+   "id": "fi-parliament-1995",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1995-03-19",
+   "totalSeats": 200,
+   "turnout": 68.58,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1995_Finnish_parliamentary_election",
+    "revid": 1321457270
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 785637,
+     "pct": 28.25,
+     "seats": 63,
+     "change": 15,
+     "winner": true
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 552003,
+     "pct": 19.85,
+     "seats": 44,
+     "change": -11
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 497624,
+     "pct": 17.89,
+     "seats": 39,
+     "change": -1
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 310340,
+     "pct": 11.16,
+     "seats": 22,
+     "change": 3
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 142874,
+     "pct": 5.14,
+     "seats": 11,
+     "change": 0
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 181198,
+     "pct": 6.52,
+     "seats": 9,
+     "change": -1
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 82311,
+     "pct": 2.96,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Young Finns",
+     "party": "nuors",
+     "votes": 78066,
+     "pct": 2.81,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 36185,
+     "pct": 1.3,
+     "seats": 1,
+     "change": -6
+    },
+    {
+     "name": "Ecological Party the Greens",
+     "party": "ekol",
+     "votes": 7865,
+     "pct": 0.28,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Liberals for Åland",
+     "party": "lfa",
+     "votes": 6038,
+     "pct": 0.22,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Alliance for Free Finland",
+     "party": "ipu",
+     "votes": 28067,
+     "pct": 1.01,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 72713,
+     "pct": 2.61,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Liberal People's Party, Women's Party, Natural Law Party, Pensioners for People, Communist Workers' Party – For Peace and Socialism, Pensioners' Party, Borgerlig samlingslista (C–FS–Ob), Joint Responsibility Party, Åland Social Democrats, the table's \"Others\" row. Change is null where the table shows \"New\" (Young Finns, Alliance for Free Finland). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. Region winners (most votes) come from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa. In Ostrobothnia the table bolds sdp but its figures give rkp the most votes (47,267 to 19,876); the figures are used.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "sdp",
+    "12": "rkp",
+    "13": "sdp",
+    "14": "kesk",
+    "15": "kesk",
+    "16": "sdp",
+    "17": "sdp",
+    "18": "sdp",
+    "19": "sdp",
+    "04": "sdp",
+    "05": "kesk",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "sdp",
+    "08": "sdp",
+    "03": "kesk",
+    "07": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1995_Finnish_parliamentary_election#By_region"
+  },
+  {
+   "id": "fi-parliament-1999",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1999-03-21",
+   "totalSeats": 200,
+   "turnout": 65.27,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1999_Finnish_parliamentary_election",
+    "revid": 1310279911
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 612963,
+     "pct": 22.86,
+     "seats": 51,
+     "change": -12,
+     "winner": true
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 600592,
+     "pct": 22.4,
+     "seats": 48,
+     "change": 4
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 563835,
+     "pct": 21.03,
+     "seats": 46,
+     "change": 7
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 291675,
+     "pct": 10.88,
+     "seats": 20,
+     "change": -2
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 194846,
+     "pct": 7.27,
+     "seats": 11,
+     "change": 2
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 137330,
+     "pct": 5.12,
+     "seats": 11,
+     "change": 0
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 111835,
+     "pct": 4.17,
+     "seats": 10,
+     "change": 3
+    },
+    {
+     "name": "Reform Group",
+     "party": "rem",
+     "votes": 28549,
+     "pct": 1.06,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Finns Party",
+     "party": "ps",
+     "votes": 26440,
+     "pct": 0.99,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Liberals for Åland",
+     "party": "lfa",
+     "votes": 5870,
+     "pct": 0.22,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Young Finns",
+     "party": "nuors",
+     "votes": 28084,
+     "pct": 1.05,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 79272,
+     "pct": 2.96,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Communist Party, Ecological Party the Greens, Alliance for Free Finland, Pensioners for People, Liberal People's Party, Pensioners' Party, Natural Law Party, Åland Centre–Freeminded–Non-aligned, Communist Workers' Party – For Peace and Socialism, Åland Social Democrats, the table's \"Others\" row. Change is null where the table shows \"New\" (Reform Group, Finns Party). Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. Region winners (most votes) come from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "kok",
+    "12": "rkp",
+    "13": "sdp",
+    "14": "kesk",
+    "15": "kesk",
+    "16": "kok",
+    "17": "sdp",
+    "18": "kok",
+    "19": "kok",
+    "04": "kesk",
+    "05": "kesk",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "sdp",
+    "08": "kesk",
+    "03": "kesk",
+    "07": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Finnish_parliamentary_election#By_region"
+  },
+  {
+   "id": "fi-parliament-2003",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2003-03-16",
+   "totalSeats": 200,
+   "turnout": 66.71,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/2003_Finnish_parliamentary_election",
+    "revid": 1375614037
+   },
+   "candidates": [
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 689391,
+     "pct": 24.69,
+     "seats": 55,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 683223,
+     "pct": 24.47,
+     "seats": 53,
+     "change": 2
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 517904,
+     "pct": 18.55,
+     "seats": 40,
+     "change": -6
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 277152,
+     "pct": 9.93,
+     "seats": 19,
+     "change": -1
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 223564,
+     "pct": 8.01,
+     "seats": 14,
+     "change": 3
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 128824,
+     "pct": 4.61,
+     "seats": 8,
+     "change": -3
+    },
+    {
+     "name": "Christian Democrats",
+     "party": "kd",
+     "votes": 148987,
+     "pct": 5.34,
+     "seats": 7,
+     "change": -3
+    },
+    {
+     "name": "Finns Party",
+     "party": "ps",
+     "votes": 43816,
+     "pct": 1.57,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Freeminded Cooperation–Non-aligned Coalition",
+     "party": "moda",
+     "votes": 4306,
+     "pct": 0.15,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 74590,
+     "pct": 2.67,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Communist Party, Forces for Change in Finland, Liberals, Kirjava ”Puolue” – Elonkehän Puolesta, Pensioners for People, Finnish People's Blue-Whites, Liberals for Åland, Communist Workers' Party – For Peace and Socialism, Åland Social Democrats, Finland Rises – People Unites, For the Poor, Åland Centre, Joint Responsibility Party, the table's \"Others\" row. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. The Åland seat went to the Freeminded Cooperation–Non-aligned Coalition list, which the table links to the Moderates of Åland. Region winners (most votes) come from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "sdp",
+    "12": "rkp",
+    "13": "kesk",
+    "14": "kesk",
+    "15": "kesk",
+    "16": "sdp",
+    "17": "sdp",
+    "18": "sdp",
+    "19": "kok",
+    "04": "kesk",
+    "05": "kesk",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "sdp",
+    "08": "kesk",
+    "03": "kesk",
+    "07": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2003_Finnish_parliamentary_election#By_region"
+  },
+  {
+   "id": "fi-parliament-2007",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2007-03-18",
+   "totalSeats": 200,
+   "turnout": 65.02,
+   "source": {
+    "name": "Wikipedia, citing Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/2007_Finnish_parliamentary_election",
+    "revid": 1375208812
+   },
+   "candidates": [
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 640428,
+     "pct": 23.11,
+     "seats": 51,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 616841,
+     "pct": 22.26,
+     "seats": 50,
+     "change": 10
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 594194,
+     "pct": 21.44,
+     "seats": 45,
+     "change": -8
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 244296,
+     "pct": 8.82,
+     "seats": 17,
+     "change": -2
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 234429,
+     "pct": 8.46,
+     "seats": 15,
+     "change": 1
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 126520,
+     "pct": 4.57,
+     "seats": 9,
+     "change": 1
+    },
+    {
+     "name": "Christian Democrats",
+     "party": "kd",
+     "votes": 134790,
+     "pct": 4.86,
+     "seats": 7,
+     "change": 0
+    },
+    {
+     "name": "Finns Party",
+     "party": "ps",
+     "votes": 112256,
+     "pct": 4.05,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Civic Alliance (C–FS–LIB–ObS)",
+     "party": "ac",
+     "votes": 9561,
+     "pct": 0.35,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 57921,
+     "pct": 2.09,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Communist Party, Pensioners for People, Independence Party, Finnish People's Blue-Whites, Liberals, For the Poor, Communist Workers' Party – For Peace and Socialism, Workers' Party, Åland Social Democrats, Patriotic People's Movement, Joint Responsibility Party, Independents. Turnout is computed from the table's votes cast (valid and invalid) and electorate. The Åland seat is in the total; Åland is not on the map. The Åland seat went to the Civic Alliance (Åland Centre, Freeminded, Liberals and Non-aligned), which the table links to the Åland Centre. Region winners (most votes) come from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "kok",
+    "12": "rkp",
+    "13": "kesk",
+    "14": "kesk",
+    "15": "kesk",
+    "16": "kok",
+    "17": "sdp",
+    "18": "kok",
+    "19": "kok",
+    "04": "kesk",
+    "05": "kesk",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "sdp",
+    "08": "kesk",
+    "03": "kesk",
+    "07": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2007_Finnish_parliamentary_election#By_region"
+  },
+  {
+   "id": "fi-parliament-2011",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2011-04-17",
+   "totalSeats": 200,
+   "turnout": 67.37,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Justice",
+    "url": "https://en.wikipedia.org/wiki/2011_Finnish_parliamentary_election",
+    "revid": 1374372521
+   },
+   "candidates": [
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 599138,
+     "pct": 20.38,
+     "seats": 44,
+     "change": -6,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 561558,
+     "pct": 19.1,
+     "seats": 42,
+     "change": -3
+    },
+    {
+     "name": "True Finns",
+     "party": "ps",
+     "votes": 560075,
+     "pct": 19.05,
+     "seats": 39,
+     "change": 34
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 463266,
+     "pct": 15.76,
+     "seats": 35,
+     "change": -16
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 239039,
+     "pct": 8.13,
+     "seats": 14,
+     "change": -3
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 213172,
+     "pct": 7.25,
+     "seats": 10,
+     "change": -5
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 125785,
+     "pct": 4.28,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Christian Democrats",
+     "party": "kd",
+     "votes": 118453,
+     "pct": 4.03,
+     "seats": 6,
+     "change": -1
+    },
+    {
+     "name": "Åland Coalition 2011 (C–Ob–S–ÅF)",
+     "party": "ac",
+     "votes": 8546,
+     "pct": 0.29,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 50539,
+     "pct": 1.72,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Pirate Party, Communist Party, Change 2011, Freedom Party, Independence Party, Senior Citizens' Party of Finland, Alliance for Åland (L–M), Workers' Party, Communist Workers' Party, For the Poor, Independents. Turnout is computed from the table's votes cast (valid and invalid) and electorate; the infobox gives 70.5%. The Åland seat is in the total; Åland is not on the map. The Åland seat went to the Åland Coalition 2011 list, which the table links to the Åland Centre. Region winners (most votes) come from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "kok",
+    "12": "rkp",
+    "13": "sdp",
+    "14": "kesk",
+    "15": "kesk",
+    "16": "kok",
+    "17": "sdp",
+    "18": "kok",
+    "19": "kok",
+    "04": "kesk",
+    "05": "kesk",
+    "06": "sdp",
+    "09": "ps",
+    "02": "sdp",
+    "08": "kesk",
+    "03": "kesk",
+    "07": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Finnish_parliamentary_election#By_region"
+  },
+  {
+   "id": "fi-parliament-2015",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2015-04-19",
+   "totalSeats": 200,
+   "turnout": 66.85,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Justice",
+    "url": "https://en.wikipedia.org/wiki/2015_Finnish_parliamentary_election",
+    "revid": 1345408359
+   },
+   "candidates": [
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 626218,
+     "pct": 21.1,
+     "seats": 49,
+     "change": 14,
+     "winner": true
+    },
+    {
+     "name": "Finns Party",
+     "party": "ps",
+     "votes": 524054,
+     "pct": 17.65,
+     "seats": 38,
+     "change": -1
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 540212,
+     "pct": 18.2,
+     "seats": 37,
+     "change": -7
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 490102,
+     "pct": 16.51,
+     "seats": 34,
+     "change": -8
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 253102,
+     "pct": 8.53,
+     "seats": 15,
+     "change": 5
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 211702,
+     "pct": 7.13,
+     "seats": 12,
+     "change": -2
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 144802,
+     "pct": 4.88,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Christian Democrats",
+     "party": "kd",
+     "votes": 105134,
+     "pct": 3.54,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Åland Coalition 2015 (C–M–S)",
+     "party": "ac",
+     "votes": 10910,
+     "pct": 0.37,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 62226,
+     "pct": 2.1,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Pirate Party, Independence Party, Communist Party, Change 2011, Pirkanmaa Joint List, Liberals for Åland, Communist Workers' Party, Workers' Party, For the Poor, Independents. Turnout is computed from the table's votes cast (valid and invalid) and electorate; the infobox gives 70.1%. The Åland seat is in the total; Åland is not on the map. The Åland seat went to the Åland Coalition 2015 list, which the table links to the Åland Centre. Region winners (most votes) are given only where an electoral district is conterminous with a region, as the district articles state: Varsinais-Suomi (Finland Proper), Satakunta, Pirkanmaa, Central Finland and Lapland, plus Uusimaa from the Helsinki and Uusimaa districts' votes combined. The other districts each span several regions.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "kok",
+    "17": "ps",
+    "18": "kok",
+    "19": "kok",
+    "08": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Electoral_districts_of_Finland"
+  },
+  {
+   "id": "fi-parliament-2019",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2019-04-14",
+   "totalSeats": 200,
+   "turnout": 68.73,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Justice",
+    "url": "https://en.wikipedia.org/wiki/2019_Finnish_parliamentary_election",
+    "revid": 1374720184
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 546471,
+     "pct": 17.73,
+     "seats": 40,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Finns Party",
+     "party": "ps",
+     "votes": 538805,
+     "pct": 17.48,
+     "seats": 39,
+     "change": 1
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 523957,
+     "pct": 17,
+     "seats": 38,
+     "change": 1
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 423920,
+     "pct": 13.76,
+     "seats": 31,
+     "change": -18
+    },
+    {
+     "name": "Green League",
+     "party": "vihr",
+     "votes": 354194,
+     "pct": 11.49,
+     "seats": 20,
+     "change": 5
+    },
+    {
+     "name": "Left Alliance",
+     "party": "vas",
+     "votes": 251808,
+     "pct": 8.17,
+     "seats": 16,
+     "change": 4
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 139640,
+     "pct": 4.53,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Christian Democrats",
+     "party": "kd",
+     "votes": 120144,
+     "pct": 3.9,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Movement Now",
+     "party": "liik",
+     "votes": 69427,
+     "pct": 2.25,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "For Åland (C–L–M–S–ÅF)",
+     "party": "ac",
+     "votes": 11640,
+     "pct": 0.38,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 101910,
+     "pct": 3.31,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Shares are computed from the table's votes (it gives no percentages). Others: Blue Reform, Pirate Party, Seven Star Movement, Citizens' Party, Feminist Party, Liberal Party – Freedom to Choose, Communist Party, Animal Justice Party, Independence Party, Finnish People First, Communist Workers' Party – For Peace and Socialism, Aito suomalainen yhteislista, Reform List, Alternative for Åland (ÅD), Rehtiliike yhteislista, Yhteislista Jaana ja Leo, Independents. Change is null where the table shows \"New\" (Movement Now). Turnout is computed from the table's votes cast (valid and invalid) and electorate; the infobox gives 72.8%. The Åland seat is in the total; Åland is not on the map. The Åland seat went to the For Åland list, which the table links to the Åland Centre. Region winners (most votes) are given only where an electoral district is conterminous with a region, as the district articles state: Varsinais-Suomi (Finland Proper), Satakunta, Pirkanmaa, Central Finland and Lapland, plus Uusimaa from the Helsinki and Uusimaa districts' votes combined. The other districts each span several regions.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "sdp",
+    "17": "sdp",
+    "18": "kok",
+    "19": "ps",
+    "08": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Electoral_districts_of_Finland"
+  },
+  {
+   "id": "fi-president-1950",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1950-01-17",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 300,
+   "turnout": 63.76,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1950_Finnish_presidential_election",
+    "revid": 1273407631
+   },
+   "candidates": [
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 360789,
+     "pct": 22.88,
+     "seats": 68,
+     "winner": true
+    },
+    {
+     "name": "Candidature of Mauno Pekkala",
+     "party": "skdl",
+     "votes": 338035,
+     "pct": 21.43,
+     "seats": 67
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 343828,
+     "pct": 21.8,
+     "seats": 64
+    },
+    {
+     "name": "Candidature of Urho Kekkonen",
+     "party": "kesk",
+     "votes": 309060,
+     "pct": 19.6,
+     "seats": 62
+    },
+    {
+     "name": "Swedish People’s Party",
+     "party": "rkp",
+     "votes": 139318,
+     "pct": 8.83,
+     "seats": 24
+    },
+    {
+     "name": "National Progressive Party",
+     "party": "ke",
+     "votes": 84956,
+     "pct": 5.39,
+     "seats": 15
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1057,
+     "pct": 0.07,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 300 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (300) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Juho Kusti Paasikivi (National Coalition Party) with 171 of 300 votes (Paasikivi 171, Pekkala 67, Kekkonen 62). The winner flag marks the National Coalition Party list, Paasikivi's party. Turnout is computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-1956",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1956-01-17",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 300,
+   "turnout": 73.35,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1956_Finnish_presidential_election",
+    "revid": 1353215644
+   },
+   "candidates": [
+    {
+     "name": "Candidature of Urho Kekkonen",
+     "party": "kesk",
+     "votes": 510783,
+     "pct": 26.93,
+     "seats": 88,
+     "winner": true
+    },
+    {
+     "name": "Candidature of Karl August Fagerholm",
+     "party": "sdp",
+     "votes": 442408,
+     "pct": 23.33,
+     "seats": 72
+    },
+    {
+     "name": "Candidature of Eino Kilpi",
+     "party": "skdl",
+     "votes": 354575,
+     "pct": 18.69,
+     "seats": 56
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 340311,
+     "pct": 17.94,
+     "seats": 54
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 130145,
+     "pct": 6.86,
+     "seats": 20
+    },
+    {
+     "name": "Candidature of Eero Rydman",
+     "party": "kp",
+     "votes": 85690,
+     "pct": 4.52,
+     "seats": 7
+    },
+    {
+     "name": "Liberal League",
+     "party": "vl",
+     "votes": 32662,
+     "pct": 1.72,
+     "seats": 3
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 81,
+     "pct": 0,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 300 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (300) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Urho Kekkonen (Agrarian League) with 151 of 300 votes on the third ballot (first ballot Kekkonen 88, Fagerholm 72, Tuomioja 57, Kilpi 56, Törngren 20, Rydman 7; second ballot Fagerholm 114, Kekkonen 102, Paasikivi 84; third ballot Kekkonen 151, Fagerholm 149). Turnout is computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-1962",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1962-01-16",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 300,
+   "turnout": 81.46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1962_Finnish_presidential_election",
+    "revid": 1339920203
+   },
+   "candidates": [
+    {
+     "name": "Electoral Union of Urho Kekkonen",
+     "party": "kesk",
+     "votes": 975248,
+     "pct": 44.29,
+     "seats": 145,
+     "winner": true
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 451750,
+     "pct": 20.51,
+     "seats": 63
+    },
+    {
+     "name": "Electoral Union of KOK and KP",
+     "party": "kok",
+     "votes": 307897,
+     "pct": 13.98,
+     "seats": 39
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 289366,
+     "pct": 13.14,
+     "seats": 36
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 111741,
+     "pct": 5.07,
+     "seats": 15
+    },
+    {
+     "name": "Social Democratic Union of Workers and Smallholders",
+     "party": "tpsl",
+     "votes": 66166,
+     "pct": 3,
+     "seats": 2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 36,
+     "pct": 0,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 300 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (300) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Urho Kekkonen (Agrarian League) with 199 of 300 votes (Kekkonen 199, Aitio 62, Paasio 37, Skog 2). Turnout is computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-1968",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1968-01-16",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 300,
+   "turnout": 70.16,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1968_Finnish_presidential_election",
+    "revid": 1299756357
+   },
+   "candidates": [
+    {
+     "name": "Electoral Union of Urho Kekkonen",
+     "party": "kesk",
+     "votes": 1152700,
+     "pct": 56.54,
+     "seats": 183,
+     "winner": true
+    },
+    {
+     "name": "Electoral Union of Matti Virkkunen",
+     "party": "kok",
+     "votes": 438801,
+     "pct": 21.52,
+     "seats": 60
+    },
+    {
+     "name": "Electoral Union of Veikko Vennamo",
+     "party": "smp",
+     "votes": 231282,
+     "pct": 11.35,
+     "seats": 33
+    },
+    {
+     "name": "Electoral Union of SFP",
+     "party": "rkp",
+     "votes": 112947,
+     "pct": 5.54,
+     "seats": 15
+    },
+    {
+     "name": "Electoral Union of LKP",
+     "party": "lkp",
+     "votes": 102831,
+     "pct": 5.04,
+     "seats": 9
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 31,
+     "pct": 0,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 300 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (300) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Urho Kekkonen (Centre Party) with 201 of 300 votes (Kekkonen 201, Virkkunen 66, Vennamo 33). Turnout is computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-1978",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1978-01-16",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 300,
+   "turnout": 64.26,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1978_Finnish_presidential_election",
+    "revid": 1279759400
+   },
+   "candidates": [
+    {
+     "name": "Supporters of Urho Kekkonen",
+     "party": "kesk",
+     "votes": 2017631,
+     "pct": 82.41,
+     "seats": 260,
+     "winner": true
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 215244,
+     "pct": 8.79,
+     "seats": 24
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 114488,
+     "pct": 4.68,
+     "seats": 10
+    },
+    {
+     "name": "Constitutional People's Party",
+     "party": "pkp",
+     "votes": 82478,
+     "pct": 3.37,
+     "seats": 6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 18543,
+     "pct": 0.76,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 300 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (300) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Urho Kekkonen (Centre Party) with 259 of 300 votes (Kekkonen 259, Westerholm 25, Vennamo 10, Salonen 6). Others: Finnish People's Unity Party. Turnout is computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-1982",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1982-01-18",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 301,
+   "turnout": 81.31,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1982_Finnish_presidential_election",
+    "revid": 1273408877
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 1370314,
+     "pct": 43.13,
+     "seats": 144,
+     "winner": true
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 593271,
+     "pct": 18.67,
+     "seats": 58
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 534515,
+     "pct": 16.82,
+     "seats": 53
+    },
+    {
+     "name": "Finnish People's Democratic League",
+     "party": "skdl",
+     "votes": 348359,
+     "pct": 10.96,
+     "seats": 32
+    },
+    {
+     "name": "Swedish People's Party",
+     "party": "rkp",
+     "votes": 121519,
+     "pct": 3.82,
+     "seats": 11
+    },
+    {
+     "name": "Finnish Rural Party",
+     "party": "smp",
+     "votes": 71947,
+     "pct": 2.26,
+     "seats": 1
+    },
+    {
+     "name": "Liberals",
+     "party": "lkp",
+     "votes": 56070,
+     "pct": 1.76,
+     "seats": 1
+    },
+    {
+     "name": "Åland Coalition",
+     "party": "ala",
+     "votes": 11119,
+     "pct": 0.35,
+     "seats": 1
+    },
+    {
+     "name": "Finnish Christian League",
+     "party": "kd",
+     "votes": 59885,
+     "pct": 1.88,
+     "seats": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 10526,
+     "pct": 0.33,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 301 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (301) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Mauno Koivisto (Social Democratic Party) with 167 of 301 votes on the second ballot (first ballot Koivisto 145, Holkeri 58, Virolainen 53, Kivistö 32, Jansson 11, Sipilä 1, Vennamo 1, Westerholm 0; second ballot Koivisto 167, Holkeri 58, Virolainen 53, Kivistö 11, Jansson 11, Sipilä 1). The winner flag marks the Social Democratic Party list, Koivisto's party. Others: Constitutional Right Party, Finnish People's Unity Party. Turnout is computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-1988",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1988-02-01",
+   "chosenBy": "an electoral college",
+   "seatLabel": "Electors",
+   "totalSeats": 301,
+   "turnout": 77.83,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver and Statistics Finland",
+    "url": "https://en.wikipedia.org/wiki/1988_Finnish_presidential_election",
+    "revid": 1291896992
+   },
+   "candidates": [
+    {
+     "name": "Supporters of Mauno Koivisto",
+     "party": "sdp",
+     "votes": 1391399,
+     "pct": 46.6,
+     "seats": 144,
+     "winner": true
+    },
+    {
+     "name": "Centre Party",
+     "party": "kesk",
+     "votes": 647769,
+     "pct": 21.7,
+     "seats": 68
+    },
+    {
+     "name": "National Coalition Party",
+     "party": "kok",
+     "votes": 603180,
+     "pct": 20.2,
+     "seats": 63
+    },
+    {
+     "name": "Movement 88",
+     "party": "skdl",
+     "votes": 286833,
+     "pct": 9.61,
+     "seats": 26
+    },
+    {
+     "name": "Democratic Alternative",
+     "party": "deva",
+     "votes": 56528,
+     "pct": 1.89,
+     "seats": 0
+    }
+   ],
+   "notes": "Voters chose 301 electors from party lists and electoral unions; votes and seats are the electors' vote and electors won, and shares are computed from the table's votes. The college size (301) is the table's electors added up, and matches the college's final-ballot votes. The electoral college elected Mauno Koivisto (Social Democratic Party) with 189 of 301 votes on the second ballot (first ballot Koivisto 144, Väyrynen 68, Holkeri 63, Kivistö 26, Kajanoja 0; second ballot Koivisto 189, Väyrynen 68, Kivistö 26, Holkeri 18). Turnout is computed from the table's votes cast (valid and invalid) and electorate. In the direct vote held at the same time, Mauno Koivisto won 1,513,234 of 3,094,449 valid votes (48.9%), short of a majority, so the electoral college decided."
+  },
+  {
+   "id": "fi-president-1994",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1994-01-16",
+   "turnout": 78.68,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1994_Finnish_presidential_election",
+    "revid": 1310276751
+   },
+   "candidates": [
+    {
+     "name": "Martti Ahtisaari",
+     "party": "sdp",
+     "votes": 1723485,
+     "pct": 53.86,
+     "winner": true
+    },
+    {
+     "name": "Elisabeth Rehn",
+     "party": "rkp",
+     "votes": 1476294,
+     "pct": 46.14
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "1994-01-16",
+     "candidates": [
+      {
+       "name": "Martti Ahtisaari",
+       "party": "sdp",
+       "votes": 828038,
+       "pct": 25.91
+      },
+      {
+       "name": "Elisabeth Rehn",
+       "party": "rkp",
+       "votes": 702211,
+       "pct": 21.97
+      },
+      {
+       "name": "Paavo Väyrynen",
+       "party": "kesk",
+       "votes": 623415,
+       "pct": 19.51
+      },
+      {
+       "name": "Raimo Ilaskivi",
+       "party": "kok",
+       "votes": 485035,
+       "pct": 15.18
+      },
+      {
+       "name": "Keijo Korhonen",
+       "party": "indkorhonen",
+       "votes": 186936,
+       "pct": 5.85
+      },
+      {
+       "name": "Claes Andersson",
+       "party": "vas",
+       "votes": 122820,
+       "pct": 3.84
+      },
+      {
+       "name": "Veltto Virtanen",
+       "party": "indvirtanen",
+       "votes": 95650,
+       "pct": 2.99
+      },
+      {
+       "name": "Eeva Kuuskoski",
+       "party": "indkuuskoski",
+       "votes": 82453,
+       "pct": 2.58
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 69395,
+       "pct": 2.17
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "1994-02-06",
+     "candidates": [
+      {
+       "name": "Martti Ahtisaari",
+       "party": "sdp",
+       "votes": 1723485,
+       "pct": 53.86,
+       "winner": true
+      },
+      {
+       "name": "Elisabeth Rehn",
+       "party": "rkp",
+       "votes": 1476294,
+       "pct": 46.14
+      }
+     ]
+    }
+   ],
+   "notes": "Shares are computed from the table's votes. Others (first round): Toimi Kankaanniemi, Sulo Aittoniemi, Pekka Tiainen. Turnout is the run-off's (first round 78.43%), computed from the table's votes cast (valid and invalid) and electorate. Korhonen, Virtanen and Kuuskoski ran as independents. Region winners are the run-off leader in each region, from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "sdp",
+    "11": "sdp",
+    "12": "rkp",
+    "13": "sdp",
+    "14": "sdp",
+    "15": "sdp",
+    "16": "sdp",
+    "17": "sdp",
+    "18": "sdp",
+    "19": "sdp",
+    "04": "sdp",
+    "05": "sdp",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "sdp",
+    "08": "sdp",
+    "03": "rkp",
+    "07": "rkp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1994_Finnish_presidential_election#By_region"
+  },
+  {
+   "id": "fi-president-2000",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2000-01-16",
+   "turnout": 76.83,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/2000_Finnish_presidential_election",
+    "revid": 1346516912
+   },
+   "candidates": [
+    {
+     "name": "Tarja Halonen",
+     "party": "sdp",
+     "votes": 1644532,
+     "pct": 51.63,
+     "winner": true
+    },
+    {
+     "name": "Esko Aho",
+     "party": "kesk",
+     "votes": 1540803,
+     "pct": 48.37
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "2000-01-16",
+     "candidates": [
+      {
+       "name": "Tarja Halonen",
+       "party": "sdp",
+       "votes": 1224431,
+       "pct": 40.03
+      },
+      {
+       "name": "Esko Aho",
+       "party": "kesk",
+       "votes": 1051159,
+       "pct": 34.36
+      },
+      {
+       "name": "Riitta Uosukainen",
+       "party": "kok",
+       "votes": 392305,
+       "pct": 12.83
+      },
+      {
+       "name": "Elisabeth Rehn",
+       "party": "rkp",
+       "votes": 241877,
+       "pct": 7.91
+      },
+      {
+       "name": "Heidi Hautala",
+       "party": "vihr",
+       "votes": 100740,
+       "pct": 3.29
+      },
+      {
+       "name": "Ilkka Hakalehto",
+       "party": "ps",
+       "votes": 31405,
+       "pct": 1.03
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 16943,
+       "pct": 0.55
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "2000-02-06",
+     "candidates": [
+      {
+       "name": "Tarja Halonen",
+       "party": "sdp",
+       "votes": 1644532,
+       "pct": 51.63,
+       "winner": true
+      },
+      {
+       "name": "Esko Aho",
+       "party": "kesk",
+       "votes": 1540803,
+       "pct": 48.37
+      }
+     ]
+    }
+   ],
+   "notes": "Shares are computed from the table's votes. Others (first round): Risto Kuisma. Turnout is the run-off's (first round 73.63%), computed from the table's votes cast (valid and invalid) and electorate. Region winners are the run-off leader in each region, from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "kesk",
+    "11": "sdp",
+    "12": "kesk",
+    "13": "kesk",
+    "14": "kesk",
+    "15": "kesk",
+    "16": "sdp",
+    "17": "sdp",
+    "18": "sdp",
+    "19": "sdp",
+    "04": "kesk",
+    "05": "kesk",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "kesk",
+    "08": "kesk",
+    "03": "kesk",
+    "07": "kesk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2000_Finnish_presidential_election#By_region"
+  },
+  {
+   "id": "fi-president-2006",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2006-01-15",
+   "turnout": 74.05,
+   "source": {
+    "name": "Wikipedia, citing IFES",
+    "url": "https://en.wikipedia.org/wiki/2006_Finnish_presidential_election",
+    "revid": 1368709173
+   },
+   "candidates": [
+    {
+     "name": "Tarja Halonen",
+     "party": "sdp",
+     "votes": 1630980,
+     "pct": 51.79,
+     "winner": true
+    },
+    {
+     "name": "Sauli Niinistö",
+     "party": "kok",
+     "votes": 1518333,
+     "pct": 48.21
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "2006-01-15",
+     "candidates": [
+      {
+       "name": "Tarja Halonen",
+       "party": "sdp",
+       "votes": 1397030,
+       "pct": 46.31
+      },
+      {
+       "name": "Sauli Niinistö",
+       "party": "kok",
+       "votes": 725866,
+       "pct": 24.06
+      },
+      {
+       "name": "Matti Vanhanen",
+       "party": "kesk",
+       "votes": 561990,
+       "pct": 18.63
+      },
+      {
+       "name": "Heidi Hautala",
+       "party": "vihr",
+       "votes": 105248,
+       "pct": 3.49
+      },
+      {
+       "name": "Timo Soini",
+       "party": "ps",
+       "votes": 103492,
+       "pct": 3.43
+      },
+      {
+       "name": "Bjarne Kallis",
+       "party": "kd",
+       "votes": 61483,
+       "pct": 2.04
+      },
+      {
+       "name": "Henrik Lax",
+       "party": "rkp",
+       "votes": 48703,
+       "pct": 1.61
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 12989,
+       "pct": 0.43
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "2006-01-29",
+     "candidates": [
+      {
+       "name": "Tarja Halonen",
+       "party": "sdp",
+       "votes": 1630980,
+       "pct": 51.79,
+       "winner": true
+      },
+      {
+       "name": "Sauli Niinistö",
+       "party": "kok",
+       "votes": 1518333,
+       "pct": 48.21
+      }
+     ]
+    }
+   ],
+   "notes": "Shares are computed from the table's votes. Others (first round): Arto Lahti. Turnout is the run-off's (first round 70.82%), computed from the table's votes cast (valid and invalid) and electorate. Region winners are the run-off leader in each region, from the article's by-region table; Uusimaa adds the Uusimaa and Eastern Uusimaa rows, which together make up today's Uusimaa.",
+   "regionWinners": {
+    "10": "sdp",
+    "11": "sdp",
+    "12": "sdp",
+    "13": "sdp",
+    "14": "kok",
+    "15": "sdp",
+    "16": "sdp",
+    "17": "sdp",
+    "18": "sdp",
+    "19": "sdp",
+    "04": "sdp",
+    "05": "sdp",
+    "06": "sdp",
+    "09": "sdp",
+    "02": "sdp",
+    "08": "sdp",
+    "03": "kok",
+    "07": "kok"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2006_Finnish_presidential_election#Second_round_results_by_region"
+  },
+  {
+   "id": "fi-president-2012",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2012-01-22",
+   "turnout": 65.98,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Justice",
+    "url": "https://en.wikipedia.org/wiki/2012_Finnish_presidential_election",
+    "revid": 1371021019
+   },
+   "candidates": [
+    {
+     "name": "Sauli Niinistö",
+     "party": "kok",
+     "votes": 1802328,
+     "pct": 62.59,
+     "winner": true
+    },
+    {
+     "name": "Pekka Haavisto",
+     "party": "vihr",
+     "votes": 1077425,
+     "pct": 37.41
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "2012-01-22",
+     "candidates": [
+      {
+       "name": "Sauli Niinistö",
+       "party": "kok",
+       "votes": 1131254,
+       "pct": 36.96
+      },
+      {
+       "name": "Pekka Haavisto",
+       "party": "vihr",
+       "votes": 574275,
+       "pct": 18.76
+      },
+      {
+       "name": "Paavo Väyrynen",
+       "party": "kesk",
+       "votes": 536555,
+       "pct": 17.53
+      },
+      {
+       "name": "Timo Soini",
+       "party": "ps",
+       "votes": 287571,
+       "pct": 9.4
+      },
+      {
+       "name": "Paavo Lipponen",
+       "party": "sdp",
+       "votes": 205111,
+       "pct": 6.7
+      },
+      {
+       "name": "Paavo Arhinmäki",
+       "party": "vas",
+       "votes": 167663,
+       "pct": 5.48
+      },
+      {
+       "name": "Eva Biaudet",
+       "party": "rkp",
+       "votes": 82598,
+       "pct": 2.7
+      },
+      {
+       "name": "Sari Essayah",
+       "party": "kd",
+       "votes": 75744,
+       "pct": 2.47
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "2012-02-05",
+     "candidates": [
+      {
+       "name": "Sauli Niinistö",
+       "party": "kok",
+       "votes": 1802328,
+       "pct": 62.59,
+       "winner": true
+      },
+      {
+       "name": "Pekka Haavisto",
+       "party": "vihr",
+       "votes": 1077425,
+       "pct": 37.41
+      }
+     ]
+    }
+   ],
+   "notes": "Shares are computed from the table's votes. Turnout is the run-off's (first round 69.74%), computed from the table's votes cast (valid and invalid) and electorate."
+  },
+  {
+   "id": "fi-president-2018",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2018-01-28",
+   "turnout": 66.76,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Justice",
+    "url": "https://en.wikipedia.org/wiki/2018_Finnish_presidential_election",
+    "revid": 1374883149
+   },
+   "candidates": [
+    {
+     "name": "Sauli Niinistö",
+     "party": "indniinisto",
+     "votes": 1875342,
+     "pct": 62.64,
+     "winner": true
+    },
+    {
+     "name": "Pekka Haavisto",
+     "party": "vihr",
+     "votes": 371254,
+     "pct": 12.4
+    },
+    {
+     "name": "Laura Huhtasaari",
+     "party": "ps",
+     "votes": 207337,
+     "pct": 6.93
+    },
+    {
+     "name": "Paavo Väyrynen",
+     "party": "indvayrynen",
+     "votes": 185305,
+     "pct": 6.19
+    },
+    {
+     "name": "Matti Vanhanen",
+     "party": "kesk",
+     "votes": 122383,
+     "pct": 4.09
+    },
+    {
+     "name": "Tuula Haatainen",
+     "party": "sdp",
+     "votes": 97294,
+     "pct": 3.25
+    },
+    {
+     "name": "Merja Kyllönen",
+     "party": "vas",
+     "votes": 89977,
+     "pct": 3.01
+    },
+    {
+     "name": "Nils Torvalds",
+     "party": "rkp",
+     "votes": 44776,
+     "pct": 1.5
+    }
+   ],
+   "notes": "Shares are computed from the table's votes. Turnout is computed from the table's votes cast (valid and invalid) and electorate. Niinistö and Väyrynen ran as independents. Niinistö won a majority in the first round, so there was no run-off."
+  }
+ ]
+}

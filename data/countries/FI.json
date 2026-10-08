@@ -1,0 +1,448 @@
+{
+  "code": "FI",
+  "name": "Finland",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Parliament (200)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 4546041,
+    "offices": {
+      "Parliament": "The 200 members are elected for four years by open-list proportional representation in 13 electoral districts, one of them Åland with a single seat. Parliament passes laws and the state budget, and the government needs its confidence.",
+      "President": "Elected directly for a six-year term, at most two in a row: if no candidate wins more than half the vote, the top two meet in a run-off two weeks later. Until 1988 an electoral college chosen by voters elected the president."
+    }
+  },
+  "parties": {
+    "sdp": {
+      "name": "Social Democratic Party",
+      "color": "#F54B4B"
+    },
+    "kesk": {
+      "name": "Centre Party",
+      "color": "#3AAD2E"
+    },
+    "kok": {
+      "name": "National Coalition Party",
+      "color": "#006288"
+    },
+    "ps": {
+      "name": "Finns Party",
+      "color": "#FFDE55"
+    },
+    "skdl": {
+      "name": "Finnish People's Democratic League",
+      "color": "#C30B02"
+    },
+    "vas": {
+      "name": "Left Alliance",
+      "color": "#F00A64"
+    },
+    "vihr": {
+      "name": "Green League",
+      "color": "#006845"
+    },
+    "rkp": {
+      "name": "Swedish People's Party",
+      "color": "#FFDD93"
+    },
+    "kd": {
+      "name": "Christian Democrats",
+      "color": "#2B67C9"
+    },
+    "smp": {
+      "name": "Finnish Rural Party",
+      "color": "#808080"
+    },
+    "ke": {
+      "name": "National Progressive Party",
+      "color": "#FFD700"
+    },
+    "kp": {
+      "name": "People's Party of Finland",
+      "color": "#FFD700"
+    },
+    "lkp": {
+      "name": "Liberal People's Party",
+      "color": "#FFD700"
+    },
+    "vl": {
+      "name": "Liberal League",
+      "color": "#0000CD"
+    },
+    "tpsl": {
+      "name": "Social Democratic Union of Workers and Smallholders",
+      "color": "#A41C37"
+    },
+    "skyp": {
+      "name": "Finnish People's Unity Party",
+      "color": "#26A69A"
+    },
+    "pkp": {
+      "name": "Constitutional Right Party",
+      "color": "#00008B"
+    },
+    "deva": {
+      "name": "Democratic Alternative",
+      "color": "#FF4D00"
+    },
+    "elp": {
+      "name": "Pensioners' Party",
+      "color": "#AFB42B"
+    },
+    "nuors": {
+      "name": "Young Finns",
+      "color": "#4DB6AC"
+    },
+    "ekol": {
+      "name": "Ecological Party the Greens",
+      "color": "#90EE90"
+    },
+    "ipu": {
+      "name": "Independence Party",
+      "color": "#017BC4"
+    },
+    "rem": {
+      "name": "Reform Group",
+      "color": "#E6E600"
+    },
+    "liik": {
+      "name": "Movement Now",
+      "color": "#AE2375"
+    },
+    "ala": {
+      "name": "Åland Coalition",
+      "color": "#F9A825"
+    },
+    "lfa": {
+      "name": "Liberals for Åland",
+      "color": "#7B1FA2"
+    },
+    "moda": {
+      "name": "Moderates of Åland",
+      "color": "#72CCED"
+    },
+    "ac": {
+      "name": "Åland Centre",
+      "color": "#B1C800"
+    },
+    "indkorhonen": {
+      "name": "Keijo Korhonen (independent)",
+      "color": "#FF8F00"
+    },
+    "indvirtanen": {
+      "name": "Veltto Virtanen (independent)",
+      "color": "#6D4C41"
+    },
+    "indkuuskoski": {
+      "name": "Eeva Kuuskoski (independent)",
+      "color": "#B39DDB"
+    },
+    "indniinisto": {
+      "name": "Sauli Niinistö (independent)",
+      "color": "#4A7DB5"
+    },
+    "indvayrynen": {
+      "name": "Paavo Väyrynen (independent)",
+      "color": "#7FB069"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "indhaavisto": {
+      "name": "Pekka Haavisto (independent)",
+      "color": "#006845"
+    },
+    "indrehn": {
+      "name": "Olli Rehn (independent)",
+      "color": "#3AAD2E"
+    },
+    "indaaltola": {
+      "name": "Mika Aaltola (independent)",
+      "color": "#5D4037"
+    }
+  },
+  "elections": [
+    {
+      "id": "fi-parliament-2023",
+      "office": "Parliament",
+      "kind": "legislative",
+      "date": "2023-04-02",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 72.71,
+      "system": "200 seats, open-list proportional by district",
+      "totalSeats": 200,
+      "majority": 101,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Ministry of Justice",
+        "url": "https://en.wikipedia.org/wiki/2023_Finnish_parliamentary_election"
+      },
+      "candidates": [
+        {
+          "name": "National Coalition Party",
+          "party": "kok",
+          "votes": 644555,
+          "pct": 20.82,
+          "seats": 48,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "Finns Party",
+          "party": "ps",
+          "votes": 620981,
+          "pct": 20.06,
+          "seats": 46,
+          "change": 7
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "sdp",
+          "votes": 617552,
+          "pct": 19.95,
+          "seats": 43,
+          "change": 3
+        },
+        {
+          "name": "Centre Party",
+          "party": "kesk",
+          "votes": 349640,
+          "pct": 11.29,
+          "seats": 23,
+          "change": -8
+        },
+        {
+          "name": "Green League",
+          "party": "vihr",
+          "votes": 217795,
+          "pct": 7.04,
+          "seats": 13,
+          "change": -7
+        },
+        {
+          "name": "Left Alliance",
+          "party": "vas",
+          "votes": 218430,
+          "pct": 7.06,
+          "seats": 11,
+          "change": -5
+        },
+        {
+          "name": "Swedish People's Party",
+          "party": "rkp",
+          "votes": 133518,
+          "pct": 4.31,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Christian Democrats",
+          "party": "kd",
+          "votes": 130694,
+          "pct": 4.22,
+          "seats": 5,
+          "change": 0
+        },
+        {
+          "name": "Movement Now",
+          "party": "liik",
+          "votes": 74995,
+          "pct": 2.42,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "For Åland",
+          "party": "ala",
+          "votes": 11452,
+          "pct": 0.37,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 75992,
+          "pct": 2.45,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Central Finland","abbr":"08","winner":"sdp","margin":1.7,"turnout":69.2,"votes":147449,"results":[{"party":"sdp","pct":31.5,"votes":46446},{"party":"kok","pct":29.8,"votes":43940},{"party":"ps","pct":22.7,"votes":33471},{"party":"vas","pct":8.7,"votes":12828},{"party":"kesk","pct":7.2,"votes":10616}]},
+        {"name":"Central Ostrobothnia","abbr":"07","winner":"sdp","margin":14.6,"turnout":71.2,"votes":172125,"results":[{"party":"sdp","pct":34.2,"votes":58867},{"party":"kesk","pct":19.6,"votes":33737},{"party":"ps","pct":19.1,"votes":32876},{"party":"kok","pct":15.1,"votes":25991},{"party":"vas","pct":12.1,"votes":20827}]},
+        {"name":"Finland Proper","abbr":"19","winner":"kok","margin":4.9,"turnout":79.3,"votes":200907,"results":[{"party":"kok","pct":32,"votes":64290},{"party":"sdp","pct":27.1,"votes":54446},{"party":"kesk","pct":17.8,"votes":35761},{"party":"ps","pct":17,"votes":34154},{"party":"vas","pct":6,"votes":12054}]},
+        {"name":"Kainuu","abbr":"05","winner":"sdp","margin":1.5,"turnout":76,"votes":188844,"results":[{"party":"sdp","pct":29.7,"votes":56087},{"party":"ps","pct":28.2,"votes":53254},{"party":"kok","pct":24.6,"votes":46456},{"party":"kesk","pct":12.3,"votes":23228},{"party":"vas","pct":5.3,"votes":10009}]},
+        {"name":"Kymenlaakso","abbr":"09","winner":"ps","margin":5.4,"turnout":78.3,"votes":169533,"results":[{"party":"ps","pct":31.3,"votes":53064},{"party":"kok","pct":25.9,"votes":43909},{"party":"sdp","pct":25.6,"votes":43400},{"party":"kesk","pct":12,"votes":20344},{"party":"vas","pct":5.2,"votes":8816}]},
+        {"name":"Lapland","abbr":"10","winner":"ps","margin":0.6,"turnout":69.3,"votes":203934,"results":[{"party":"ps","pct":30.7,"votes":62608},{"party":"kok","pct":30.1,"votes":61384},{"party":"sdp","pct":22.2,"votes":45273},{"party":"kesk","pct":12.5,"votes":25492},{"party":"vas","pct":4.5,"votes":9177}]},
+        {"name":"North Karelia","abbr":"13","winner":"sdp","margin":1.3,"turnout":75.9,"votes":159206,"results":[{"party":"sdp","pct":32,"votes":50946},{"party":"ps","pct":30.7,"votes":48876},{"party":"kok","pct":17.5,"votes":27861},{"party":"kesk","pct":11.3,"votes":17990},{"party":"vas","pct":8.5,"votes":13533}]},
+        {"name":"Northern Ostrobothnia","abbr":"14","winner":"kok","margin":4.9,"turnout":67,"votes":155960,"results":[{"party":"kok","pct":34.2,"votes":53338},{"party":"sdp","pct":29.3,"votes":45696},{"party":"ps","pct":19.1,"votes":29788},{"party":"vas","pct":9.5,"votes":14816},{"party":"kesk","pct":7.9,"votes":12321}]},
+        {"name":"Northern Savonia","abbr":"15","winner":"sdp","margin":4.8,"turnout":75.7,"votes":201470,"results":[{"party":"sdp","pct":27.5,"votes":55404},{"party":"ps","pct":22.7,"votes":45734},{"party":"kesk","pct":21.6,"votes":43518},{"party":"kok","pct":17.3,"votes":34854},{"party":"vas","pct":10.8,"votes":21759}]},
+        {"name":"Ostrobothnia","abbr":"12","winner":"kok","margin":6.2,"turnout":68.2,"votes":142060,"results":[{"party":"kok","pct":33.1,"votes":47022},{"party":"ps","pct":26.9,"votes":38214},{"party":"sdp","pct":20.7,"votes":29406},{"party":"kesk","pct":13.8,"votes":19604},{"party":"vas","pct":5.6,"votes":7955}]},
+        {"name":"Päijät-Häme","abbr":"16","winner":"sdp","margin":3.2,"turnout":68.7,"votes":202827,"results":[{"party":"sdp","pct":31.4,"votes":63688},{"party":"kok","pct":28.2,"votes":57197},{"party":"ps","pct":21.5,"votes":43608},{"party":"vas","pct":10.1,"votes":20486},{"party":"kesk","pct":8.7,"votes":17646}]},
+        {"name":"Pirkanmaa","abbr":"11","winner":"sdp","margin":5.7,"turnout":78.8,"votes":156574,"results":[{"party":"sdp","pct":31.8,"votes":49791},{"party":"kok","pct":26.1,"votes":40866},{"party":"kesk","pct":22.3,"votes":34916},{"party":"ps","pct":14.5,"votes":22703},{"party":"vas","pct":5.3,"votes":8298}]},
+        {"name":"Satakunta","abbr":"17","winner":"ps","margin":1.8,"turnout":77.9,"votes":184462,"results":[{"party":"ps","pct":29.8,"votes":54970},{"party":"sdp","pct":28,"votes":51649},{"party":"kok","pct":25,"votes":46116},{"party":"vas","pct":9.8,"votes":18077},{"party":"kesk","pct":7.4,"votes":13650}]},
+        {"name":"South Karelia","abbr":"02","winner":"kok","margin":11.4,"turnout":67.3,"votes":140161,"results":[{"party":"kok","pct":34.3,"votes":48075},{"party":"sdp","pct":22.9,"votes":32097},{"party":"kesk","pct":20.8,"votes":29153},{"party":"ps","pct":15.6,"votes":21865},{"party":"vas","pct":6.5,"votes":9110}]},
+        {"name":"Southern Ostrobothnia","abbr":"03","winner":"ps","margin":7.7,"turnout":77.3,"votes":144361,"results":[{"party":"ps","pct":34.8,"votes":50238},{"party":"kok","pct":27.1,"votes":39122},{"party":"sdp","pct":23.5,"votes":33925},{"party":"kesk","pct":10.3,"votes":14869},{"party":"vas","pct":4.2,"votes":6063}]},
+        {"name":"Southern Savonia","abbr":"04","winner":"ps","margin":3.9,"turnout":72.8,"votes":147894,"results":[{"party":"ps","pct":34.5,"votes":51023},{"party":"sdp","pct":30.6,"votes":45256},{"party":"kok","pct":18.8,"votes":27804},{"party":"kesk","pct":8.8,"votes":13015},{"party":"vas","pct":7.3,"votes":10796}]},
+        {"name":"Tavastia Proper","abbr":"06","winner":"ps","margin":11.8,"turnout":71.8,"votes":202684,"results":[{"party":"ps","pct":33.5,"votes":67899},{"party":"kok","pct":21.7,"votes":43982},{"party":"kesk","pct":19.9,"votes":40334},{"party":"sdp","pct":15.8,"votes":32024},{"party":"vas","pct":9,"votes":18242}]},
+        {"name":"Uusimaa","abbr":"18","winner":"kok","margin":2.1,"turnout":74.2,"votes":149270,"results":[{"party":"kok","pct":29.7,"votes":44333},{"party":"sdp","pct":27.6,"votes":41199},{"party":"kesk","pct":16.2,"votes":24182},{"party":"ps","pct":15.7,"votes":23435},{"party":"vas","pct":10.9,"votes":16270}]}
+      ]
+    },
+    {
+      "id": "fi-president-2024",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2024-01-28",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 67.59,
+      "system": "Two-round popular vote, six-year term",
+      "cite": {
+        "name": "the Ministry of Justice",
+        "url": "https://en.wikipedia.org/wiki/2024_Finnish_presidential_election"
+      },
+      "candidates": [
+        {
+          "name": "Alexander Stubb",
+          "party": "kok",
+          "votes": 1575444,
+          "pct": 51.62,
+          "winner": true
+        },
+        {
+          "name": "Pekka Haavisto",
+          "party": "indhaavisto",
+          "votes": 1476634,
+          "pct": 48.38
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2024-01-28",
+          "candidates": [
+            {
+              "name": "Alexander Stubb",
+              "party": "kok",
+              "votes": 882388,
+              "pct": 27.21
+            },
+            {
+              "name": "Pekka Haavisto",
+              "party": "indhaavisto",
+              "votes": 836712,
+              "pct": 25.8
+            },
+            {
+              "name": "Jussi Halla-aho",
+              "party": "ps",
+              "votes": 615802,
+              "pct": 18.99
+            },
+            {
+              "name": "Olli Rehn",
+              "party": "indrehn",
+              "votes": 496759,
+              "pct": 15.32
+            },
+            {
+              "name": "Li Andersson",
+              "party": "vas",
+              "votes": 158579,
+              "pct": 4.89
+            },
+            {
+              "name": "Jutta Urpilainen",
+              "party": "sdp",
+              "votes": 140867,
+              "pct": 4.34
+            },
+            {
+              "name": "Sari Essayah",
+              "party": "kd",
+              "votes": 47847,
+              "pct": 1.48
+            },
+            {
+              "name": "Mika Aaltola",
+              "party": "indaaltola",
+              "votes": 47467,
+              "pct": 1.46
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 17030,
+              "pct": 0.53
+            }
+          ],
+          "regions": [
+            {"name":"Central Finland","abbr":"08","winner":"kok","margin":8.8,"turnout":72.2,"votes":153800,"results":[{"party":"kok","pct":30.7,"votes":47217},{"party":"indrehn","pct":21.9,"votes":33682},{"party":"ps","pct":21,"votes":32298},{"party":"indhaavisto","pct":19.8,"votes":30452},{"party":"vas","pct":6.7,"votes":10305}]},
+            {"name":"Central Ostrobothnia","abbr":"07","winner":"indhaavisto","margin":9.4,"turnout":67.8,"votes":178571,"results":[{"party":"indhaavisto","pct":34.2,"votes":61071},{"party":"ps","pct":24.8,"votes":44286},{"party":"kok","pct":22.8,"votes":40714},{"party":"indrehn","pct":14.2,"votes":25357},{"party":"vas","pct":4,"votes":7143}]},
+            {"name":"Finland Proper","abbr":"19","winner":"ps","margin":9.5,"turnout":61.3,"votes":154421,"results":[{"party":"ps","pct":33.3,"votes":51422},{"party":"indhaavisto","pct":23.8,"votes":36752},{"party":"indrehn","pct":19.4,"votes":29958},{"party":"kok","pct":19.2,"votes":29649},{"party":"vas","pct":4.3,"votes":6640}]},
+            {"name":"Kainuu","abbr":"05","winner":"indhaavisto","margin":5.8,"turnout":72.8,"votes":203238,"results":[{"party":"indhaavisto","pct":30.6,"votes":62191},{"party":"kok","pct":24.8,"votes":50403},{"party":"indrehn","pct":22.2,"votes":45119},{"party":"ps","pct":14.3,"votes":29063},{"party":"vas","pct":8.1,"votes":16462}]},
+            {"name":"Kymenlaakso","abbr":"09","winner":"indhaavisto","margin":2.4,"turnout":71.1,"votes":174519,"results":[{"party":"indhaavisto","pct":35.6,"votes":62129},{"party":"kok","pct":33.2,"votes":57940},{"party":"ps","pct":13.9,"votes":24258},{"party":"indrehn","pct":13.5,"votes":23560},{"party":"vas","pct":3.8,"votes":6632}]},
+            {"name":"Lapland","abbr":"10","winner":"indhaavisto","margin":5.5,"turnout":73,"votes":183447,"results":[{"party":"indhaavisto","pct":30.8,"votes":56502},{"party":"kok","pct":25.3,"votes":46412},{"party":"indrehn","pct":23.8,"votes":43660},{"party":"ps","pct":16.9,"votes":31003},{"party":"vas","pct":3.2,"votes":5870}]},
+            {"name":"North Karelia","abbr":"13","winner":"indhaavisto","margin":8.2,"turnout":69.7,"votes":182689,"results":[{"party":"indhaavisto","pct":30.8,"votes":56268},{"party":"kok","pct":22.6,"votes":41288},{"party":"ps","pct":22.2,"votes":40557},{"party":"indrehn","pct":19.9,"votes":36355},{"party":"vas","pct":4.4,"votes":8038}]},
+            {"name":"Northern Ostrobothnia","abbr":"14","winner":"kok","margin":0.9,"turnout":69,"votes":168828,"results":[{"party":"kok","pct":29,"votes":48960},{"party":"indhaavisto","pct":28.1,"votes":47441},{"party":"indrehn","pct":23.4,"votes":39506},{"party":"ps","pct":14.9,"votes":25155},{"party":"vas","pct":4.6,"votes":7766}]},
+            {"name":"Northern Savonia","abbr":"15","winner":"indhaavisto","margin":5,"turnout":72.9,"votes":164397,"results":[{"party":"indhaavisto","pct":37.5,"votes":61649},{"party":"kok","pct":32.5,"votes":53429},{"party":"indrehn","pct":14.2,"votes":23344},{"party":"ps","pct":11.7,"votes":19234},{"party":"vas","pct":4.2,"votes":6905}]},
+            {"name":"Ostrobothnia","abbr":"12","winner":"indhaavisto","margin":18.3,"turnout":74.5,"votes":210718,"results":[{"party":"indhaavisto","pct":40.1,"votes":84498},{"party":"kok","pct":21.8,"votes":45937},{"party":"indrehn","pct":16.9,"votes":35611},{"party":"ps","pct":14.4,"votes":30343},{"party":"vas","pct":6.9,"votes":14540}]},
+            {"name":"Päijät-Häme","abbr":"16","winner":"kok","margin":2.3,"turnout":66.5,"votes":195076,"results":[{"party":"kok","pct":33.6,"votes":65546},{"party":"ps","pct":31.3,"votes":61059},{"party":"indhaavisto","pct":17,"votes":33163},{"party":"indrehn","pct":14.6,"votes":28481},{"party":"vas","pct":3.6,"votes":7023}]},
+            {"name":"Pirkanmaa","abbr":"11","winner":"indhaavisto","margin":5.6,"turnout":74.6,"votes":156409,"results":[{"party":"indhaavisto","pct":28.7,"votes":44889},{"party":"kok","pct":23.1,"votes":36130},{"party":"ps","pct":22.3,"votes":34879},{"party":"indrehn","pct":18.2,"votes":28466},{"party":"vas","pct":7.7,"votes":12043}]},
+            {"name":"Satakunta","abbr":"17","winner":"indhaavisto","margin":10.1,"turnout":63,"votes":144580,"results":[{"party":"indhaavisto","pct":33.1,"votes":47856},{"party":"ps","pct":23,"votes":33253},{"party":"indrehn","pct":18.9,"votes":27326},{"party":"kok","pct":17.2,"votes":24868},{"party":"vas","pct":7.8,"votes":11277}]},
+            {"name":"South Karelia","abbr":"02","winner":"kok","margin":0.3,"turnout":72.9,"votes":165756,"results":[{"party":"kok","pct":29.4,"votes":48732},{"party":"indhaavisto","pct":29.1,"votes":48235},{"party":"ps","pct":22.1,"votes":36632},{"party":"indrehn","pct":15.3,"votes":25361},{"party":"vas","pct":4,"votes":6630}]},
+            {"name":"Southern Ostrobothnia","abbr":"03","winner":"indhaavisto","margin":0.3,"turnout":71.1,"votes":195805,"results":[{"party":"indhaavisto","pct":28.7,"votes":56196},{"party":"ps","pct":28.4,"votes":55609},{"party":"indrehn","pct":19.3,"votes":37790},{"party":"kok","pct":17.8,"votes":34853},{"party":"vas","pct":5.7,"votes":11161}]},
+            {"name":"Southern Savonia","abbr":"04","winner":"kok","margin":12,"turnout":66.7,"votes":209094,"results":[{"party":"kok","pct":41.7,"votes":87192},{"party":"indhaavisto","pct":29.7,"votes":62101},{"party":"ps","pct":12,"votes":25091},{"party":"indrehn","pct":10.6,"votes":22164},{"party":"vas","pct":6,"votes":12546}]},
+            {"name":"Tavastia Proper","abbr":"06","winner":"indrehn","margin":4.5,"turnout":64.2,"votes":197207,"results":[{"party":"indrehn","pct":30.3,"votes":59754},{"party":"ps","pct":25.8,"votes":50879},{"party":"kok","pct":20.1,"votes":39639},{"party":"indhaavisto","pct":19.4,"votes":38258},{"party":"vas","pct":4.4,"votes":8677}]},
+            {"name":"Uusimaa","abbr":"18","winner":"indhaavisto","margin":4.7,"turnout":74.2,"votes":206165,"results":[{"party":"indhaavisto","pct":36.4,"votes":75044},{"party":"kok","pct":31.7,"votes":65354},{"party":"ps","pct":17.7,"votes":36491},{"party":"indrehn","pct":8.3,"votes":17112},{"party":"vas","pct":6,"votes":12370}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2024-02-11",
+          "candidates": [
+            {
+              "name": "Alexander Stubb",
+              "party": "kok",
+              "votes": 1575444,
+              "pct": 51.62,
+              "winner": true
+            },
+            {
+              "name": "Pekka Haavisto",
+              "party": "indhaavisto",
+              "votes": 1476634,
+              "pct": 48.38
+            }
+          ],
+          "regions": [
+            {"name":"Central Finland","abbr":"08","winner":"kok","margin":41.2,"turnout":61.5,"votes":169817,"results":[{"party":"kok","pct":70.6,"votes":119891},{"party":"indhaavisto","pct":29.4,"votes":49926}]},
+            {"name":"Central Ostrobothnia","abbr":"07","winner":"kok","margin":38.8,"turnout":73.1,"votes":137675,"results":[{"party":"kok","pct":69.4,"votes":95546},{"party":"indhaavisto","pct":30.6,"votes":42129}]},
+            {"name":"Finland Proper","abbr":"19","winner":"kok","margin":39,"turnout":65.1,"votes":193237,"results":[{"party":"kok","pct":69.5,"votes":134300},{"party":"indhaavisto","pct":30.5,"votes":58937}]},
+            {"name":"Kainuu","abbr":"05","winner":"indhaavisto","margin":6.6,"turnout":66.6,"votes":136144,"results":[{"party":"indhaavisto","pct":53.3,"votes":72565},{"party":"kok","pct":46.7,"votes":63579}]},
+            {"name":"Kymenlaakso","abbr":"09","winner":"kok","margin":41.4,"turnout":62.6,"votes":188711,"results":[{"party":"kok","pct":70.7,"votes":133419},{"party":"indhaavisto","pct":29.3,"votes":55292}]},
+            {"name":"Lapland","abbr":"10","winner":"indhaavisto","margin":8.8,"turnout":61.2,"votes":203278,"results":[{"party":"indhaavisto","pct":54.4,"votes":110583},{"party":"kok","pct":45.6,"votes":92695}]},
+            {"name":"North Karelia","abbr":"13","winner":"indhaavisto","margin":13.8,"turnout":74.6,"votes":164284,"results":[{"party":"indhaavisto","pct":56.9,"votes":93478},{"party":"kok","pct":43.1,"votes":70806}]},
+            {"name":"Northern Ostrobothnia","abbr":"14","winner":"indhaavisto","margin":33.6,"turnout":63.4,"votes":201843,"results":[{"party":"indhaavisto","pct":66.8,"votes":134831},{"party":"kok","pct":33.2,"votes":67012}]},
+            {"name":"Northern Savonia","abbr":"15","winner":"kok","margin":36,"turnout":61.9,"votes":136911,"results":[{"party":"kok","pct":68,"votes":93099},{"party":"indhaavisto","pct":32,"votes":43812}]},
+            {"name":"Ostrobothnia","abbr":"12","winner":"indhaavisto","margin":13.2,"turnout":70.3,"votes":200689,"results":[{"party":"indhaavisto","pct":56.6,"votes":113590},{"party":"kok","pct":43.4,"votes":87099}]},
+            {"name":"Päijät-Häme","abbr":"16","winner":"kok","margin":6.8,"turnout":61.7,"votes":197090,"results":[{"party":"kok","pct":53.4,"votes":105246},{"party":"indhaavisto","pct":46.6,"votes":91844}]},
+            {"name":"Pirkanmaa","abbr":"11","winner":"indhaavisto","margin":0.4,"turnout":64.7,"votes":155335,"results":[{"party":"indhaavisto","pct":50.2,"votes":77978},{"party":"kok","pct":49.8,"votes":77357}]},
+            {"name":"Satakunta","abbr":"17","winner":"indhaavisto","margin":27.2,"turnout":73.2,"votes":144205,"results":[{"party":"indhaavisto","pct":63.6,"votes":91714},{"party":"kok","pct":36.4,"votes":52491}]},
+            {"name":"South Karelia","abbr":"02","winner":"kok","margin":9,"turnout":68,"votes":171059,"results":[{"party":"kok","pct":54.5,"votes":93227},{"party":"indhaavisto","pct":45.5,"votes":77832}]},
+            {"name":"Southern Ostrobothnia","abbr":"03","winner":"indhaavisto","margin":8,"turnout":71.7,"votes":142652,"results":[{"party":"indhaavisto","pct":54,"votes":77032},{"party":"kok","pct":46,"votes":65620}]},
+            {"name":"Southern Savonia","abbr":"04","winner":"kok","margin":18.8,"turnout":62.1,"votes":162227,"results":[{"party":"kok","pct":59.4,"votes":96363},{"party":"indhaavisto","pct":40.6,"votes":65864}]},
+            {"name":"Tavastia Proper","abbr":"06","winner":"indhaavisto","margin":15.8,"turnout":63.8,"votes":173149,"results":[{"party":"indhaavisto","pct":57.9,"votes":100253},{"party":"kok","pct":42.1,"votes":72896}]},
+            {"name":"Uusimaa","abbr":"18","winner":"indhaavisto","margin":0.6,"turnout":65.1,"votes":187449,"results":[{"party":"indhaavisto","pct":50.3,"votes":94287},{"party":"kok","pct":49.7,"votes":93162}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

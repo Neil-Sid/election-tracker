@@ -809,6 +809,48 @@
         "counties"
       ],
       "history": true
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "atlasId": "208",
+      "marker": [
+        9.5,
+        56.1
+      ],
+      "view": {
+        "center": [
+          10.5,
+          56.1
+        ],
+        "span": 2.8
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "atlasId": "246",
+      "marker": [
+        26,
+        62.5
+      ],
+      "view": {
+        "center": [
+          26,
+          64.8
+        ],
+        "span": 6.8
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
     }
   ]
 }

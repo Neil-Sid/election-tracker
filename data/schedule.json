@@ -822,5 +822,35 @@
     "pollsClose": "21:00",
     "basedOn": "ro-senate-2024",
     "tentative": true
+  },
+  {
+    "country": "DK",
+    "office": "Folketing",
+    "kind": "legislative",
+    "date": "2030-03-23",
+    "timezone": "Europe/Copenhagen",
+    "pollsClose": "20:00",
+    "basedOn": "dk-folketing-2026",
+    "tentative": true
+  },
+  {
+    "country": "FI",
+    "office": "Parliament",
+    "kind": "legislative",
+    "date": "2027-04-18",
+    "timezone": "Europe/Helsinki",
+    "pollsClose": "20:00",
+    "basedOn": "fi-parliament-2023"
+  },
+  {
+    "country": "FI",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2030-01-27",
+    "note": "First round",
+    "timezone": "Europe/Helsinki",
+    "pollsClose": "20:00",
+    "basedOn": "fi-president-2024",
+    "tentative": true
   }
 ]

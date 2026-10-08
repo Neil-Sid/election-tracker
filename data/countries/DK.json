@@ -1,0 +1,329 @@
+{
+  "code": "DK",
+  "name": "Denmark",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Folketing (179)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 4303429,
+    "offices": {
+      "Folketing": "The 179 members are elected for up to four years: 175 in Denmark proper by open-list proportional representation, 135 of them in 10 constituencies and 40 as levelling seats for parties above 2% nationally, and two each in the Faroe Islands and Greenland. The Folketing passes laws and the budget, and the government stays in office as long as no majority votes against it."
+    }
+  },
+  "parties": {
+    "s": {
+      "name": "Social Democrats",
+      "color": "#C82518"
+    },
+    "v": {
+      "name": "Venstre",
+      "color": "#01438E"
+    },
+    "kf": {
+      "name": "Conservative People's Party",
+      "color": "#6B9249"
+    },
+    "rv": {
+      "name": "Danish Social Liberal Party",
+      "color": "#733280"
+    },
+    "sf": {
+      "name": "Green Left",
+      "color": "#EB94D1"
+    },
+    "el": {
+      "name": "Red–Green Alliance",
+      "color": "#F7660D"
+    },
+    "df": {
+      "name": "Danish People's Party",
+      "color": "#FCD03B"
+    },
+    "la": {
+      "name": "Liberal Alliance",
+      "color": "#3FB2BE"
+    },
+    "m": {
+      "name": "Moderates",
+      "color": "#B48CD2"
+    },
+    "dd": {
+      "name": "Denmark Democrats",
+      "color": "#668DD1"
+    },
+    "alt": {
+      "name": "The Alternative",
+      "color": "#18942D"
+    },
+    "nb": {
+      "name": "New Right",
+      "color": "#00505B"
+    },
+    "kd": {
+      "name": "Christian Democrats",
+      "color": "#53619B"
+    },
+    "frp": {
+      "name": "Progress Party",
+      "color": "#FFFF00"
+    },
+    "cd": {
+      "name": "Centre Democrats",
+      "color": "#9370DB"
+    },
+    "rf": {
+      "name": "Justice Party",
+      "color": "#B5651D"
+    },
+    "dkp": {
+      "name": "Communist Party of Denmark",
+      "color": "#A52A2A"
+    },
+    "vs": {
+      "name": "Left Socialists",
+      "color": "#8B0045"
+    },
+    "lc": {
+      "name": "Liberal Centre",
+      "color": "#00CCA3"
+    },
+    "uaf": {
+      "name": "Independent Party",
+      "color": "#8091BC"
+    },
+    "fk": {
+      "name": "Common Course",
+      "color": "#7A4A2A"
+    },
+    "grn": {
+      "name": "The Greens",
+      "color": "#7CB342"
+    },
+    "sk": {
+      "name": "Hard Line",
+      "color": "#0198E1"
+    },
+    "slp": {
+      "name": "Schleswig Party",
+      "color": "#F4F410"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "fosb": {
+      "name": "Union Party (Faroe Islands)",
+      "color": "#1B6F9A"
+    },
+    "fosd": {
+      "name": "Social Democratic Party (Faroe Islands)",
+      "color": "#D20D44"
+    },
+    "fofo": {
+      "name": "People's Party (Faroe Islands)",
+      "color": "#00843B"
+    },
+    "fotj": {
+      "name": "Republic (Faroe Islands)",
+      "color": "#BED630"
+    },
+    "ia": {
+      "name": "Inuit Ataqatigiit",
+      "color": "#8E1B5A"
+    },
+    "siu": {
+      "name": "Siumut",
+      "color": "#C08F00"
+    },
+    "ata": {
+      "name": "Atassut",
+      "color": "#264653"
+    },
+    "indgl": {
+      "name": "Independents (Greenland)",
+      "color": "#9C8F6E"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "bp": {
+      "name": "Citizens' Party",
+      "color": "#2B72FD"
+    },
+    "nal": {
+      "name": "Naleraq",
+      "color": "#8B5A2B"
+    }
+  },
+  "elections": [
+    {
+      "id": "dk-folketing-2026",
+      "office": "Folketing",
+      "kind": "legislative",
+      "date": "2026-03-24",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 83.99,
+      "system": "179 seats, list proportional",
+      "totalSeats": 179,
+      "majority": 90,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "Statistics Denmark",
+        "url": "https://en.wikipedia.org/wiki/2026_Danish_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/Constituencies_of_Denmark",
+      "candidates": [
+        {
+          "name": "Social Democrats",
+          "party": "s",
+          "votes": 779252,
+          "pct": 21.84,
+          "seats": 38,
+          "change": -12,
+          "winner": true
+        },
+        {
+          "name": "Green Left",
+          "party": "sf",
+          "votes": 413306,
+          "pct": 11.58,
+          "seats": 20,
+          "change": 5
+        },
+        {
+          "name": "Venstre",
+          "party": "v",
+          "votes": 361689,
+          "pct": 10.14,
+          "seats": 18,
+          "change": -5
+        },
+        {
+          "name": "Liberal Alliance",
+          "party": "la",
+          "votes": 334421,
+          "pct": 9.37,
+          "seats": 16,
+          "change": 2
+        },
+        {
+          "name": "Danish People's Party",
+          "party": "df",
+          "votes": 324518,
+          "pct": 9.1,
+          "seats": 16,
+          "change": 11
+        },
+        {
+          "name": "Moderates",
+          "party": "m",
+          "votes": 274775,
+          "pct": 7.7,
+          "seats": 14,
+          "change": -2
+        },
+        {
+          "name": "Conservative People's Party",
+          "party": "kf",
+          "votes": 270749,
+          "pct": 7.59,
+          "seats": 13,
+          "change": 3
+        },
+        {
+          "name": "Red–Green Alliance",
+          "party": "el",
+          "votes": 226037,
+          "pct": 6.34,
+          "seats": 11,
+          "change": 2
+        },
+        {
+          "name": "Danish Social Liberal Party",
+          "party": "rv",
+          "votes": 207442,
+          "pct": 5.81,
+          "seats": 10,
+          "change": 3
+        },
+        {
+          "name": "Denmark Democrats",
+          "party": "dd",
+          "votes": 205302,
+          "pct": 5.75,
+          "seats": 10,
+          "change": -4
+        },
+        {
+          "name": "The Alternative",
+          "party": "alt",
+          "votes": 91770,
+          "pct": 2.57,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "Citizens' Party",
+          "party": "bp",
+          "votes": 75928,
+          "pct": 2.13,
+          "seats": 4,
+          "change": 4
+        },
+        {
+          "name": "Social Democratic Party (Faroe Islands)",
+          "party": "fosd",
+          "votes": 13088,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Union Party (Faroe Islands)",
+          "party": "fosb",
+          "votes": 7342,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Inuit Ataqatigiit",
+          "party": "ia",
+          "votes": 6133,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Naleraq",
+          "party": "nal",
+          "votes": 5268,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2436,
+          "pct": 0.07,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Capital Region","abbr":"84","winner":"s","margin":28.2,"turnout":83.2,"votes":845462,"results":[{"party":"s","pct":43.6,"votes":368621},{"party":"v","pct":15.4,"votes":130201},{"party":"sf","pct":15.1,"votes":127665},{"party":"la","pct":13.5,"votes":114137},{"party":"df","pct":12.4,"votes":104837}]},
+        {"name":"Central Denmark","abbr":"82","winner":"s","margin":30.6,"turnout":78.2,"votes":645648,"results":[{"party":"s","pct":46.2,"votes":298289},{"party":"df","pct":15.6,"votes":100721},{"party":"la","pct":15.5,"votes":100075},{"party":"sf","pct":14,"votes":90391},{"party":"v","pct":8.7,"votes":56171}]},
+        {"name":"North Denmark","abbr":"81","winner":"s","margin":15,"turnout":86.1,"votes":812923,"results":[{"party":"s","pct":37.6,"votes":305659},{"party":"v","pct":22.6,"votes":183721},{"party":"sf","pct":18.1,"votes":147139},{"party":"df","pct":12.8,"votes":104054},{"party":"la","pct":8.8,"votes":71537}]},
+        {"name":"Southern Denmark","abbr":"83","winner":"s","margin":15.5,"turnout":84.8,"votes":800012,"results":[{"party":"s","pct":38.1,"votes":304805},{"party":"v","pct":22.6,"votes":180803},{"party":"sf","pct":17.8,"votes":142402},{"party":"la","pct":11.9,"votes":95201},{"party":"df","pct":9.6,"votes":76801}]},
+        {"name":"Zealand","abbr":"85","winner":"s","margin":20.7,"turnout":85.9,"votes":671842,"results":[{"party":"s","pct":40.2,"votes":270080},{"party":"v","pct":19.5,"votes":131009},{"party":"la","pct":16.8,"votes":112869},{"party":"df","pct":13.4,"votes":90027},{"party":"sf","pct":10.1,"votes":67856}]}
+      ]
+    }
+  ]
+}

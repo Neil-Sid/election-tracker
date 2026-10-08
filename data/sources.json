@@ -347,6 +347,22 @@
       "url": "https://prezenta.roaep.ro",
       "role": "Official results",
       "note": "Publishes turnout and the count on prezenta.roaep.ro as votes are counted; the Central Electoral Bureau (BEC) declares the final results."
+    },
+    "DK": {
+      "access": "public",
+      "name": "Statistics Denmark",
+      "short": "Danmarks Statistik",
+      "url": "https://www.dst.dk/valg",
+      "role": "Official results",
+      "note": "Publishes Denmark proper's count by constituency on dst.dk/valg; the Faroe Islands and Greenland publish their own."
+    },
+    "FI": {
+      "access": "public",
+      "name": "Ministry of Justice",
+      "short": "Oikeusministeriö",
+      "url": "https://tulospalvelu.vaalit.fi",
+      "role": "Official results",
+      "note": "Publishes the count on its Election Information and Results Service as votes are counted."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."
