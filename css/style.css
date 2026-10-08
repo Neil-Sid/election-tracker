@@ -252,7 +252,7 @@ canvas.globe.grabbing { cursor: grabbing; }
 
 /* ---------- home ---------- */
 
-.intro h1 { margin-top: 10px; font: 600 38px/1.08 var(--font-display); letter-spacing: -0.035em; }
+.intro h1 { font: 600 38px/1.08 var(--font-display); letter-spacing: -0.035em; }
 
 .stats { display: grid; grid-template-columns: repeat(2, 1fr); margin-top: 28px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .stats div + div { padding-left: 16px; border-left: 1px solid var(--line); }

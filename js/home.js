@@ -16,7 +16,6 @@ export function renderHome(panel, ctx) {
   panel.innerHTML = `
     <div class="home">
       <header class="intro">
-        <p class="eyebrow">National elections</p>
         <h1>Elections around the world.</h1>
       </header>
       <dl class="stats"></dl>
