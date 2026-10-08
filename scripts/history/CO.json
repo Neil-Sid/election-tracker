@@ -679,7 +679,7 @@
    "office": "President",
    "kind": "presidential",
    "date": "1949-11-27",
-   "note": "Men only; Liberal boycott, single candidate",
+   "note": "Liberal boycott, single candidate",
    "turnout": 39.79,
    "source": {
     "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
@@ -1980,7 +1980,7 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1951-09-16",
-   "note": "Men only; Liberal boycott",
+   "note": "Liberal boycott",
    "totalSeats": 62,
    "source": {
     "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
@@ -4091,7 +4091,6 @@
    "office": "Chamber of Representatives",
    "kind": "legislative",
    "date": "1949-06-05",
-   "note": "Men only",
    "totalSeats": 132,
    "source": {
     "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
@@ -4132,7 +4131,7 @@
    "office": "Chamber of Representatives",
    "kind": "legislative",
    "date": "1951-09-16",
-   "note": "Men only; Liberal boycott",
+   "note": "Liberal boycott",
    "totalSeats": 132,
    "source": {
     "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
@@ -4181,7 +4180,7 @@
    "office": "Chamber of Representatives",
    "kind": "legislative",
    "date": "1953-03-15",
-   "note": "Men only; Liberal and Communist boycott",
+   "note": "Liberal and Communist boycott",
    "totalSeats": 132,
    "source": {
     "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",

@@ -137,7 +137,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1948-02-04",
-      "note": "Voting age 21",
       "totalSeats": 147,
       "turnout": 74.2,
       "source": {
@@ -227,7 +226,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1951-05-30",
-      "note": "Voting age 21",
       "totalSeats": 147,
       "turnout": 75.7,
       "source": {
@@ -301,7 +299,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1954-05-18",
-      "note": "Voting age 21",
       "totalSeats": 147,
       "turnout": 76.5,
       "source": {
@@ -375,7 +372,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1957-03-05",
-      "note": "Voting age 21",
       "totalSeats": 147,
       "turnout": 71.3,
       "source": {
@@ -457,7 +453,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1961-10-04",
-      "note": "Voting age 21",
       "totalSeats": 144,
       "turnout": 70.6,
       "source": {
@@ -547,7 +542,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1965-04-07",
-      "note": "Voting age 21",
       "totalSeats": 144,
       "turnout": 75.1,
       "source": {
@@ -613,7 +607,6 @@
       "office": "Dáil Éireann",
       "kind": "legislative",
       "date": "1969-06-18",
-      "note": "Voting age 21",
       "totalSeats": 144,
       "turnout": 76.9,
       "source": {
@@ -1887,7 +1880,6 @@
       "office": "President",
       "kind": "presidential",
       "date": "1959-06-17",
-      "note": "Voting age 21",
       "turnout": 58.37,
       "source": {
         "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",
@@ -1916,7 +1908,6 @@
       "office": "President",
       "kind": "presidential",
       "date": "1966-06-01",
-      "note": "Voting age 21",
       "turnout": 65.35,
       "source": {
         "name": "Wikipedia, citing the Department of the Environment, Community and Local Government (Presidential Elections 1938–2011)",

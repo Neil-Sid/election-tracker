@@ -355,7 +355,6 @@
    "office": "Parliament",
    "kind": "legislative",
    "date": "1950-03-05",
-   "note": "Men only",
    "totalSeats": 250,
    "source": {
     "name": "Wikipedia, citing Nohlen & Stöver (2010)",
@@ -468,7 +467,6 @@
    "office": "Parliament",
    "kind": "legislative",
    "date": "1951-09-09",
-   "note": "Men only",
    "totalSeats": 258,
    "turnout": 77.2,
    "source": {
@@ -550,7 +548,6 @@
    "office": "Parliament",
    "kind": "legislative",
    "date": "1952-11-16",
-   "note": "Men only",
    "totalSeats": 300,
    "turnout": 75.37,
    "source": {

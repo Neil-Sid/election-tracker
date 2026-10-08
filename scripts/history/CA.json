@@ -81,7 +81,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1949-06-27",
-      "note": "Voting age 21, Indigenous vote restricted",
       "totalSeats": 262,
       "turnout": 73.8,
       "source": {
@@ -198,7 +197,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1953-08-10",
-      "note": "Voting age 21, Indigenous vote restricted",
       "totalSeats": 265,
       "turnout": 67.5,
       "source": {
@@ -317,7 +315,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1957-06-10",
-      "note": "Voting age 21, Indigenous vote restricted",
       "totalSeats": 265,
       "turnout": 74.1,
       "source": {
@@ -404,7 +401,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1958-03-31",
-      "note": "Voting age 21, Indigenous vote restricted",
       "totalSeats": 265,
       "turnout": 79.4,
       "source": {
@@ -507,7 +503,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1962-06-18",
-      "note": "Voting age 21",
       "totalSeats": 265,
       "turnout": 79,
       "source": {
@@ -602,7 +597,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1963-04-08",
-      "note": "Voting age 21",
       "totalSeats": 265,
       "turnout": 79.2,
       "source": {
@@ -697,7 +691,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1965-11-08",
-      "note": "Voting age 21",
       "totalSeats": 265,
       "turnout": 74.8,
       "source": {
@@ -800,7 +793,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1968-06-25",
-      "note": "Voting age 21",
       "totalSeats": 264,
       "turnout": 75.7,
       "source": {

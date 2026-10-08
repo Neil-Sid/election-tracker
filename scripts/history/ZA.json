@@ -220,7 +220,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1948-05-26",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 153,
       "turnout": 80.25,
       "source": {
@@ -286,7 +286,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1953-04-15",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 159,
       "turnout": 87.95,
       "source": {
@@ -336,7 +336,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1958-04-16",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 163,
       "turnout": 74.42,
       "source": {
@@ -410,7 +410,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1961-10-18",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 160,
       "turnout": 44.29,
       "source": {
@@ -484,7 +484,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1966-03-30",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 170,
       "turnout": 68.88,
       "source": {
@@ -542,7 +542,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1970-04-22",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 166,
       "turnout": 69.76,
       "source": {
@@ -608,7 +608,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1974-04-24",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 171,
       "turnout": 51.87,
       "source": {
@@ -674,7 +674,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1977-11-30",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 165,
       "turnout": 48.52,
       "source": {
@@ -748,7 +748,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1981-04-29",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 177,
       "turnout": 59.9,
       "source": {
@@ -830,7 +830,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1987-05-06",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 178,
       "turnout": 67.84,
       "source": {
@@ -912,7 +912,7 @@
       "office": "National Assembly",
       "kind": "legislative",
       "date": "1989-09-06",
-      "note": "House of Assembly, white voters only",
+      "note": "House of Assembly",
       "totalSeats": 178,
       "turnout": 69.48,
       "source": {

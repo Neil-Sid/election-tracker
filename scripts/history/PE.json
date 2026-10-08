@@ -485,7 +485,7 @@
       "office": "President",
       "kind": "presidential",
       "date": "1950-07-02",
-      "note": "Single candidate, men only",
+      "note": "Single candidate",
       "source": {
         "name": "Wikipedia, citing Dieter Nohlen's Elections in the Americas data handbook",
         "url": "https://en.wikipedia.org/wiki/1950_Peruvian_general_election",
@@ -1575,7 +1575,6 @@
       "office": "Senate",
       "kind": "legislative",
       "date": "1950-07-02",
-      "note": "Men only",
       "totalSeats": 47,
       "source": {
         "name": "Wikipedia, citing the National Jury of Elections (JNE)",
@@ -2092,7 +2091,6 @@
       "office": "Chamber of Deputies",
       "kind": "legislative",
       "date": "1950-07-02",
-      "note": "Men only",
       "totalSeats": 156,
       "source": {
         "name": "Wikipedia, citing the National Jury of Elections (JNE)",

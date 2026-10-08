@@ -87,7 +87,6 @@
    "office": "President",
    "kind": "presidential",
    "date": "1948-11-02",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 531,
    "seatLabel": "Electoral votes",
    "source": {
@@ -192,7 +191,6 @@
    "office": "President",
    "kind": "presidential",
    "date": "1952-11-04",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 531,
    "seatLabel": "Electoral votes",
    "source": {
@@ -283,7 +281,6 @@
    "office": "President",
    "kind": "presidential",
    "date": "1956-11-06",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 531,
    "seatLabel": "Electoral votes",
    "source": {
@@ -381,7 +378,6 @@
    "office": "President",
    "kind": "presidential",
    "date": "1960-11-08",
-   "note": "No DC vote; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 537,
    "seatLabel": "Electoral votes",
    "source": {
@@ -481,7 +477,6 @@
    "office": "President",
    "kind": "presidential",
    "date": "1964-11-03",
-   "note": "Voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 538,
    "seatLabel": "Electoral votes",
    "source": {
@@ -574,7 +569,6 @@
    "office": "President",
    "kind": "presidential",
    "date": "1968-11-05",
-   "note": "Voting age 21 in most states",
    "totalSeats": 538,
    "seatLabel": "Electoral votes",
    "source": {
@@ -2007,7 +2001,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1948-11-02",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2154,7 +2147,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1950-11-07",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2301,7 +2293,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1952-11-04",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2447,7 +2438,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1954-11-02",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2584,7 +2574,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1956-11-06",
-   "note": "48 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2721,7 +2710,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1958-11-04",
-   "note": "49 states; voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 436,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2856,7 +2844,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1960-11-08",
-   "note": "Voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 437,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -2946,7 +2933,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1962-11-06",
-   "note": "Voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -3036,7 +3022,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1964-11-03",
-   "note": "Voting age 21 in most states; Jim Crow disenfranchisement in the South",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -3122,7 +3107,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1966-11-08",
-   "note": "Voting age 21 in most states",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -3213,7 +3197,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1968-11-05",
-   "note": "Voting age 21 in most states",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -3302,7 +3285,6 @@
    "office": "House of Representatives",
    "kind": "legislative",
    "date": "1970-11-03",
-   "note": "Voting age 21 in most states",
    "totalSeats": 435,
    "source": {
     "name": "Wikipedia, citing the Clerk of the House (Election Statistics)",
@@ -5858,7 +5840,6 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1948-11-02",
-   "note": "96 seats, 48 states",
    "totalSeats": 96,
    "source": {
     "name": "Wikipedia, citing the Clerk of the U.S. House of Representatives",
@@ -5935,7 +5916,6 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1950-11-07",
-   "note": "96 seats, 48 states",
    "totalSeats": 96,
    "source": {
     "name": "Wikipedia, citing the Clerk of the U.S. House of Representatives",
@@ -6013,7 +5993,6 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1952-11-04",
-   "note": "96 seats, 48 states",
    "totalSeats": 96,
    "source": {
     "name": "Wikipedia, citing the Clerk of the U.S. House of Representatives",
@@ -6091,7 +6070,6 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1954-11-02",
-   "note": "96 seats, 48 states",
    "totalSeats": 96,
    "source": {
     "name": "Wikipedia, citing the Clerk of the U.S. House of Representatives",
@@ -6179,7 +6157,6 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1956-11-06",
-   "note": "96 seats, 48 states",
    "totalSeats": 96,
    "source": {
     "name": "Wikipedia, citing the Clerk of the U.S. House of Representatives",
@@ -6257,7 +6234,6 @@
    "office": "Senate",
    "kind": "legislative",
    "date": "1958-11-04",
-   "note": "98 seats, 49 states",
    "totalSeats": 98,
    "source": {
     "name": "Wikipedia, citing the Clerk of the U.S. House of Representatives",
@@ -9077,7 +9053,6 @@
    "office": "Governors",
    "kind": "gubernatorial",
    "date": "1948-11-02",
-   "note": "48 states",
    "totalSeats": 48,
    "seatLabel": "Governorships",
    "source": {
@@ -9148,7 +9123,6 @@
    "office": "Governors",
    "kind": "gubernatorial",
    "date": "1950-11-07",
-   "note": "48 states",
    "totalSeats": 48,
    "seatLabel": "Governorships",
    "source": {
@@ -9219,7 +9193,6 @@
    "office": "Governors",
    "kind": "gubernatorial",
    "date": "1952-11-04",
-   "note": "48 states",
    "totalSeats": 48,
    "seatLabel": "Governorships",
    "source": {
@@ -9287,7 +9260,6 @@
    "office": "Governors",
    "kind": "gubernatorial",
    "date": "1954-11-02",
-   "note": "48 states",
    "totalSeats": 48,
    "seatLabel": "Governorships",
    "source": {
@@ -9359,7 +9331,6 @@
    "office": "Governors",
    "kind": "gubernatorial",
    "date": "1956-11-06",
-   "note": "48 states",
    "totalSeats": 48,
    "seatLabel": "Governorships",
    "source": {
@@ -9427,7 +9398,6 @@
    "office": "Governors",
    "kind": "gubernatorial",
    "date": "1958-11-04",
-   "note": "49 states",
    "totalSeats": 49,
    "seatLabel": "Governorships",
    "source": {

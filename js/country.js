@@ -356,7 +356,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const called = up.filter(r => r.winner);
     const status = live || sim
       ? `${called.length} of ${up.length} called`
-      : up.length < regs.length ? `${up.length} of ${regs.length} ${units} voted` : `${regs.length} ${units}`;
+      : up.length < regs.length ? `${up.length} ${up.length === 1 ? unit : units} voted` : '';
 
     const tally = d3.rollups(called, v => ({ n: v.length, seats: d3.sum(v, r => r.seats ?? 0) }), r => r.winner)
       .sort((a, b) => b[1].n - a[1].n)

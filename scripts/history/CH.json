@@ -172,7 +172,6 @@
    "office": "National Council",
    "kind": "legislative",
    "date": "1951-10-28",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 196,
    "turnout": 71.2,
    "source": {
@@ -296,7 +295,6 @@
    "office": "National Council",
    "kind": "legislative",
    "date": "1955-10-30",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 196,
    "turnout": 70.08,
    "source": {
@@ -420,7 +418,6 @@
    "office": "National Council",
    "kind": "legislative",
    "date": "1959-10-25",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 196,
    "turnout": 68.46,
    "source": {
@@ -545,7 +542,6 @@
    "office": "National Council",
    "kind": "legislative",
    "date": "1963-10-27",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 200,
    "turnout": 66.11,
    "source": {
@@ -668,7 +664,6 @@
    "office": "National Council",
    "kind": "legislative",
    "date": "1967-10-29",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 200,
    "turnout": 65.72,
    "source": {
@@ -2829,7 +2824,6 @@
    "office": "Council of States",
    "kind": "legislative",
    "date": "1951-10-28",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 44,
    "source": {
     "name": "Wikipedia, citing Nohlen & Stöver",
@@ -2902,7 +2896,6 @@
    "office": "Council of States",
    "kind": "legislative",
    "date": "1955-10-30",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 44,
    "source": {
     "name": "Wikipedia, citing Nohlen & Stöver",
@@ -2975,7 +2968,6 @@
    "office": "Council of States",
    "kind": "legislative",
    "date": "1959-10-25",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 44,
    "source": {
     "name": "Wikipedia, citing Nohlen & Stöver",
@@ -3048,7 +3040,6 @@
    "office": "Council of States",
    "kind": "legislative",
    "date": "1963-10-27",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 44,
    "source": {
     "name": "Wikipedia, citing Nohlen & Stöver",
@@ -3113,7 +3104,6 @@
    "office": "Council of States",
    "kind": "legislative",
    "date": "1967-10-29",
-   "note": "Men only; women voted from 1971",
    "totalSeats": 44,
    "source": {
     "name": "Wikipedia, citing Nohlen & Stöver",

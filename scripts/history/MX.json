@@ -123,7 +123,6 @@
       "office": "Chamber of Deputies",
       "kind": "legislative",
       "date": "1949-07-03",
-      "note": "Men only",
       "totalSeats": 147,
       "source": {
         "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
@@ -164,7 +163,6 @@
       "office": "President",
       "kind": "presidential",
       "date": "1952-07-07",
-      "note": "Men only",
       "source": {
         "name": "Wikipedia, citing Nohlen (2005), Elections in the Americas",
         "url": "https://en.wikipedia.org/wiki/1952_Mexican_general_election",
@@ -210,7 +208,6 @@
       "office": "Chamber of Deputies",
       "kind": "legislative",
       "date": "1952-07-07",
-      "note": "Men only",
       "totalSeats": 161,
       "source": {
         "name": "Wikipedia, citing Nohlen (2005), the Chamber of Deputies and UNAM",
@@ -267,7 +264,6 @@
       "office": "Senate",
       "kind": "legislative",
       "date": "1952-07-07",
-      "note": "Men only",
       "totalSeats": 60,
       "source": {
         "name": "Wikipedia, citing UNAM",

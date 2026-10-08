@@ -143,7 +143,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1950-02-23",
-      "note": "Voting age 21",
       "totalSeats": 625,
       "turnout": 83.9,
       "source": {
@@ -224,7 +223,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1951-10-25",
-      "note": "Voting age 21",
       "totalSeats": 625,
       "turnout": 82.6,
       "source": {
@@ -305,7 +303,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1955-05-26",
-      "note": "Voting age 21",
       "totalSeats": 630,
       "turnout": 76.8,
       "source": {
@@ -370,7 +367,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1959-10-08",
-      "note": "Voting age 21",
       "totalSeats": 630,
       "turnout": 78.7,
       "source": {
@@ -435,7 +431,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1964-10-15",
-      "note": "Voting age 21",
       "totalSeats": 630,
       "turnout": 77.1,
       "source": {
@@ -492,7 +487,6 @@
       "office": "House of Commons",
       "kind": "legislative",
       "date": "1966-03-31",
-      "note": "Voting age 21",
       "totalSeats": 630,
       "turnout": 75.8,
       "source": {

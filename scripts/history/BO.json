@@ -337,7 +337,6 @@
       "office": "Chamber of Deputies",
       "kind": "legislative",
       "date": "1949-05-01",
-      "note": "Restricted franchise",
       "totalSeats": 111,
       "source": {
         "name": "Wikipedia, citing the New International Year Book and the Political Handbook of the World",
@@ -396,7 +395,6 @@
       "office": "Senate",
       "kind": "legislative",
       "date": "1949-05-01",
-      "note": "Restricted franchise",
       "totalSeats": 27,
       "source": {
         "name": "Wikipedia, citing the New International Year Book and the Political Handbook of the World",
@@ -443,7 +441,7 @@
       "office": "President",
       "kind": "presidential",
       "date": "1951-05-06",
-      "note": "Annulled; restricted franchise",
+      "note": "Annulled",
       "source": {
         "name": "Wikipedia, citing Nohlen's Elections in the Americas",
         "url": "https://en.wikipedia.org/wiki/1951_Bolivian_general_election",
