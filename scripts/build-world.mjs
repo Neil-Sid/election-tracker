@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Builds the country outlines from world-atlas:
-//   data/world-coarse.topo.json  world-atlas 110m, as is
+//   data/world-coarse.topo.json  world-atlas 110m
 //   data/world-detail.topo.json  a lighter cut of world-atlas 50m used when the
 //                                globe is zoomed in. Full 50m costs ~30 ms a frame
 //                                to project; this keeps coastlines crisp at
@@ -8,8 +8,10 @@
 //
 //   node scripts/build-world.mjs path/to/countries-50m.json path/to/countries-110m.json
 //
-// world-atlas follows Natural Earth, which draws Crimea inside Russia. Crimea is
-// internationally recognised as Ukraine, so both files move it there.
+// world-atlas follows Natural Earth's lines of control, so both files redraw two
+// borders as they are internationally recognised: Crimea moves from Russia to
+// Ukraine, and the part of Western Sahara that Morocco administers, south of
+// the 27°40′ parallel, moves from Morocco to Western Sahara.
 
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -42,14 +44,23 @@ function crimeaToUkraine(topo) {
   return topo;
 }
 
-const result = await mapshaper.applyCommands(
-  '-i world.json -simplify 18% weighted keep-shapes -filter-slivers min-area=30km2 ' +
-  '-o detail.json format=topojson quantization=100000 id-field=id',
-  { 'world.json': await readFile(detailSrc, 'utf8') }
-);
+const westernSahara =
+  "-filter 'id == \"504\"' target=countries + name=north -clip bbox=-20,27.6667,0,37 target=north " +
+  "-filter 'id == \"504\" || id == \"732\"' target=countries + name=sahara -clip bbox=-20,10,0,27.6667 target=sahara " +
+  "-each 'id = \"732\"; name = \"W. Sahara\"' target=sahara -dissolve2 id copy-fields=name target=sahara " +
+  "-filter 'id != \"504\" && id != \"732\"' target=countries -merge-layers target=countries,north,sahara name=countries force ";
+
+const build = async (src, simplify = '') => {
+  const out = await mapshaper.applyCommands(
+    `-i world.json id-field=id ${westernSahara}${simplify}` +
+    '-o out.json format=topojson quantization=100000 id-field=id target=countries,land',
+    { 'world.json': await readFile(src, 'utf8') }
+  );
+  return crimeaToUkraine(JSON.parse(out['out.json']));
+};
 const outputs = {
-  'world-detail.topo.json': crimeaToUkraine(JSON.parse(result['detail.json'])),
-  'world-coarse.topo.json': crimeaToUkraine(JSON.parse(await readFile(coarseSrc, 'utf8')))
+  'world-detail.topo.json': await build(detailSrc, '-simplify 18% weighted keep-shapes target=countries,land -filter-slivers min-area=30km2 target=countries,land '),
+  'world-coarse.topo.json': await build(coarseSrc)
 };
 for (const [file, topo] of Object.entries(outputs)) {
   const json = JSON.stringify(topo);

@@ -95,7 +95,7 @@ data/schedule.json          upcoming elections; the cron reads this
 data/countries/*.json       parties, results, regions, districts, system facts
 data/regions.topo.json      state/province shapes keyed like "US-OH"
 data/districts/*.topo.json  single-member districts keyed like "US-CA-12"
-data/world-coarse.topo.json world-atlas 110m, the zoomed-out globe (Crimea drawn as Ukraine)
+data/world-coarse.topo.json world-atlas 110m, the zoomed-out globe (Crimea and Western Sahara redrawn)
 data/world-detail.topo.json lighter cut of world-atlas 50m for country zoom
 data/sources.json           official results authority and district map source per country
 data/live/index.json        which countries have a live file (kept by the cron)
