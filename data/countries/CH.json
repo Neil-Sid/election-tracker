@@ -1,0 +1,398 @@
+{
+  "code": "CH",
+  "name": "Switzerland",
+  "subtitle": "Federal elections",
+  "about": {
+    "system": "Federal directorial republic with direct democracy",
+    "headOfState": "Federal Council (collectively)",
+    "headOfGovernment": "Federal Council",
+    "legislature": "Federal Assembly: National Council (200) and Council of States (46)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": null,
+    "offices": {
+      "National Council": "The 200 members are elected for four years in the 26 cantons, each a constituency with seats apportioned by population: open-list proportional representation where a canton has several seats, plurality where it has one. It has the same powers as the Council of States, so laws and the budget need both chambers.",
+      "Council of States": "The 46 members represent the cantons, two for each canton and one for each half-canton, elected under cantonal law, mostly by majority vote with a run-off (Jura and Neuchâtel use proportional representation). It has the same powers as the National Council, and the two chambers sit together as the Federal Assembly to elect the Federal Council."
+    }
+  },
+  "parties": {
+    "ajura": {
+      "name": "Jura Alliance",
+      "color": "#FF9999"
+    },
+    "bdp": {
+      "name": "Conservative Democratic Party",
+      "color": "#333333"
+    },
+    "bgb": {
+      "name": "Party of Farmers, Traders and Independents",
+      "color": "#8DB600"
+    },
+    "csp": {
+      "name": "Christian Social Party",
+      "color": "#0F95A7"
+    },
+    "cspow": {
+      "name": "Christian Social Party of Obwalden",
+      "color": "#BF3235"
+    },
+    "cvp": {
+      "name": "Christian Democratic People's Party",
+      "color": "#EF7D00"
+    },
+    "dellberg": {
+      "name": "Dellberg List",
+      "color": "#FA1360"
+    },
+    "edu": {
+      "name": "Federal Democratic Union",
+      "color": "#C71585"
+    },
+    "evp": {
+      "name": "Evangelical People's Party",
+      "color": "#EFDA18"
+    },
+    "fdp": {
+      "name": "Free Democratic Party",
+      "color": "#007AD2"
+    },
+    "fdpl": {
+      "name": "FDP.The Liberals",
+      "color": "#0E52A0"
+    },
+    "fga": {
+      "name": "Feminist and Green Alternative Groups",
+      "color": "#54A32F"
+    },
+    "fps": {
+      "name": "Freedom Party",
+      "color": "#8D1919"
+    },
+    "frap": {
+      "name": "Frauen Macht Politik!",
+      "color": "#F49BC2"
+    },
+    "ga": {
+      "name": "Green Alliance",
+      "color": "#11BB44"
+    },
+    "glp": {
+      "name": "Green Liberal Party",
+      "color": "#B4DC00"
+    },
+    "gps": {
+      "name": "Green Party",
+      "color": "#84B414"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "ldu": {
+      "name": "Alliance of Independents",
+      "color": "#C08A3E"
+    },
+    "lega": {
+      "name": "Ticino League",
+      "color": "#4682B4"
+    },
+    "lps": {
+      "name": "Liberal Party",
+      "color": "#134B94"
+    },
+    "maeder": {
+      "name": "Herbert Mäder Committee",
+      "color": "#99FF99"
+    },
+    "mcg": {
+      "name": "Geneva Citizens' Movement",
+      "color": "#CE9D24"
+    },
+    "mitte": {
+      "name": "The Centre",
+      "color": "#FF9B00"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "pda": {
+      "name": "Swiss Party of Labour",
+      "color": "#E93C1A"
+    },
+    "poch": {
+      "name": "Progressive Organizations of Switzerland",
+      "color": "#B5263B"
+    },
+    "psa": {
+      "name": "Autonomous Socialist Party",
+      "color": "#8B1C62"
+    },
+    "rep": {
+      "name": "Republican Movement",
+      "color": "#61380B"
+    },
+    "sd": {
+      "name": "Swiss Democrats",
+      "color": "#CD5B45"
+    },
+    "sol": {
+      "name": "Solidarity",
+      "color": "#FF6F91"
+    },
+    "sp": {
+      "name": "Social Democratic Party",
+      "color": "#E4002B"
+    },
+    "spg": {
+      "name": "Social-Political Group",
+      "color": "#0B3861"
+    },
+    "svp": {
+      "name": "Swiss People's Party",
+      "color": "#009F4F"
+    }
+  },
+  "elections": [
+    {
+      "id": "ch-national-council-2023",
+      "office": "National Council",
+      "kind": "legislative",
+      "date": "2023-10-22",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 46.6,
+      "system": "200 seats, list proportional by canton",
+      "totalSeats": 200,
+      "majority": 101,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Federal Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2023_Swiss_federal_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2023_Swiss_federal_election",
+      "candidates": [
+        {
+          "name": "Swiss People's Party",
+          "party": "svp",
+          "votes": 713471,
+          "pct": 27.93,
+          "seats": 62,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "sp",
+          "votes": 466714,
+          "pct": 18.27,
+          "seats": 41,
+          "change": 2
+        },
+        {
+          "name": "The Centre",
+          "party": "mitte",
+          "votes": 359075,
+          "pct": 14.06,
+          "seats": 29,
+          "change": 1
+        },
+        {
+          "name": "The Liberals",
+          "party": "fdpl",
+          "votes": 364053,
+          "pct": 14.25,
+          "seats": 28,
+          "change": -1
+        },
+        {
+          "name": "Green Party",
+          "party": "gps",
+          "votes": 249891,
+          "pct": 9.78,
+          "seats": 23,
+          "change": -5
+        },
+        {
+          "name": "Green Liberal Party",
+          "party": "glp",
+          "votes": 192944,
+          "pct": 7.55,
+          "seats": 10,
+          "change": -6
+        },
+        {
+          "name": "Evangelical People's Party",
+          "party": "evp",
+          "votes": 49828,
+          "pct": 1.95,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Federal Democratic Union",
+          "party": "edu",
+          "votes": 31513,
+          "pct": 1.23,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Geneva Citizens' Movement",
+          "party": "mcg",
+          "votes": 13019,
+          "pct": 0.51,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Ticino League",
+          "party": "lega",
+          "votes": 14160,
+          "pct": 0.55,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 99814,
+          "pct": 3.91,
+          "seats": 0,
+          "change": -2
+        }
+      ],
+      "regions": [
+        {"name":"Aargau","abbr":"AG","winner":"svp","margin":13.1,"turnout":48.4,"votes":104487,"results":[{"party":"svp","pct":35.4,"votes":36988},{"party":"sp","pct":22.3,"votes":23301},{"party":"mitte","pct":19.2,"votes":20062},{"party":"gps","pct":13.5,"votes":14106},{"party":"fdpl","pct":9.6,"votes":10031}]},
+        {"name":"Appenzell Ausserrhoden","abbr":"AR","winner":"svp","margin":10.8,"turnout":45.9,"votes":91886,"results":[{"party":"svp","pct":33.5,"votes":30782},{"party":"sp","pct":22.7,"votes":20858},{"party":"mitte","pct":19.8,"votes":18193},{"party":"gps","pct":12.9,"votes":11853},{"party":"fdpl","pct":11.1,"votes":10199}]},
+        {"name":"Appenzell Innerrhoden","abbr":"AI","winner":"mitte","margin":10.3,"turnout":44.3,"votes":112672,"results":[{"party":"mitte","pct":35.1,"votes":39548},{"party":"svp","pct":24.8,"votes":27943},{"party":"fdpl","pct":17.6,"votes":19830},{"party":"sp","pct":14.9,"votes":16788},{"party":"gps","pct":7.6,"votes":8563}]},
+        {"name":"Basel-Landschaft","abbr":"BL","winner":"svp","margin":15.2,"turnout":47.6,"votes":101372,"results":[{"party":"svp","pct":41.7,"votes":42272},{"party":"sp","pct":26.5,"votes":26864},{"party":"fdpl","pct":15.5,"votes":15713},{"party":"mitte","pct":9.5,"votes":9630},{"party":"gps","pct":6.8,"votes":6893}]},
+        {"name":"Basel-Stadt","abbr":"BS","winner":"sp","margin":6.6,"turnout":53.3,"votes":81282,"results":[{"party":"sp","pct":36.9,"votes":29993},{"party":"svp","pct":30.3,"votes":24628},{"party":"mitte","pct":12,"votes":9754},{"party":"fdpl","pct":11,"votes":8941},{"party":"gps","pct":9.8,"votes":7966}]},
+        {"name":"Bern","abbr":"BE","winner":"svp","margin":10.7,"turnout":46.9,"votes":102122,"results":[{"party":"svp","pct":35.1,"votes":35845},{"party":"sp","pct":24.4,"votes":24918},{"party":"mitte","pct":20.2,"votes":20629},{"party":"fdpl","pct":15,"votes":15318},{"party":"gps","pct":5.4,"votes":5515}]},
+        {"name":"Fribourg","abbr":"FR","winner":"svp","margin":25.1,"turnout":46.9,"votes":89940,"results":[{"party":"svp","pct":44.5,"votes":40023},{"party":"mitte","pct":19.4,"votes":17448},{"party":"sp","pct":14.3,"votes":12861},{"party":"gps","pct":11.9,"votes":10703},{"party":"fdpl","pct":9.9,"votes":8904}]},
+        {"name":"Geneva","abbr":"GE","winner":"sp","margin":1.9,"turnout":40.2,"votes":79218,"results":[{"party":"sp","pct":30.5,"votes":24161},{"party":"svp","pct":28.6,"votes":22656},{"party":"mitte","pct":21.5,"votes":17032},{"party":"fdpl","pct":13.5,"votes":10694},{"party":"gps","pct":6,"votes":4753}]},
+        {"name":"Glarus","abbr":"GL","winner":"svp","margin":4.3,"turnout":45.2,"votes":102268,"results":[{"party":"svp","pct":26.5,"votes":27101},{"party":"sp","pct":22.2,"votes":22703},{"party":"mitte","pct":21.3,"votes":21783},{"party":"fdpl","pct":17.5,"votes":17897},{"party":"gps","pct":12.5,"votes":12784}]},
+        {"name":"Graubünden","abbr":"GR","winner":"svp","margin":10.3,"turnout":42.2,"votes":95408,"results":[{"party":"svp","pct":31.2,"votes":29767},{"party":"gps","pct":20.9,"votes":19940},{"party":"sp","pct":19.5,"votes":18605},{"party":"mitte","pct":14.9,"votes":14216},{"party":"fdpl","pct":13.5,"votes":12880}]},
+        {"name":"Jura","abbr":"JU","winner":"sp","margin":7.8,"turnout":45.7,"votes":100763,"results":[{"party":"sp","pct":30.8,"votes":31035},{"party":"svp","pct":23,"votes":23175},{"party":"fdpl","pct":21.8,"votes":21966},{"party":"mitte","pct":18.3,"votes":18440},{"party":"gps","pct":6.1,"votes":6147}]},
+        {"name":"Lucerne","abbr":"LU","winner":"mitte","margin":2.4,"turnout":51.7,"votes":101523,"results":[{"party":"mitte","pct":24.9,"votes":25279},{"party":"svp","pct":22.5,"votes":22843},{"party":"sp","pct":21.9,"votes":22234},{"party":"fdpl","pct":19.4,"votes":19695},{"party":"gps","pct":11.2,"votes":11371}]},
+        {"name":"Neuchâtel","abbr":"NE","winner":"sp","margin":7,"turnout":45.5,"votes":96208,"results":[{"party":"sp","pct":39.9,"votes":38387},{"party":"svp","pct":32.9,"votes":31652},{"party":"fdpl","pct":12.1,"votes":11641},{"party":"gps","pct":8.1,"votes":7793},{"party":"mitte","pct":7.1,"votes":6831}]},
+        {"name":"Nidwalden","abbr":"NW","winner":"mitte","margin":7.5,"turnout":49.7,"votes":107417,"results":[{"party":"mitte","pct":36.8,"votes":39529},{"party":"svp","pct":29.3,"votes":31473},{"party":"fdpl","pct":11.4,"votes":12246},{"party":"sp","pct":11.3,"votes":12138},{"party":"gps","pct":11.2,"votes":12031}]},
+        {"name":"Obwalden","abbr":"OW","winner":"svp","margin":8.7,"turnout":51.1,"votes":101831,"results":[{"party":"svp","pct":36.7,"votes":37372},{"party":"sp","pct":28,"votes":28513},{"party":"gps","pct":16,"votes":16293},{"party":"fdpl","pct":11.2,"votes":11405},{"party":"mitte","pct":8.1,"votes":8248}]},
+        {"name":"Schaffhausen","abbr":"SH","winner":"svp","margin":1.4,"turnout":41.3,"votes":95116,"results":[{"party":"svp","pct":29.2,"votes":27774},{"party":"sp","pct":27.8,"votes":26442},{"party":"fdpl","pct":19.6,"votes":18643},{"party":"mitte","pct":13.3,"votes":12650},{"party":"gps","pct":10,"votes":9512}]},
+        {"name":"Schwyz","abbr":"SZ","winner":"svp","margin":4.7,"turnout":52.5,"votes":107645,"results":[{"party":"svp","pct":29.8,"votes":32078},{"party":"mitte","pct":25.1,"votes":27019},{"party":"sp","pct":20.2,"votes":21744},{"party":"fdpl","pct":18.6,"votes":20022},{"party":"gps","pct":6.3,"votes":6782}]},
+        {"name":"Solothurn","abbr":"SO","winner":"svp","margin":14.8,"turnout":45.9,"votes":101009,"results":[{"party":"svp","pct":37.5,"votes":37878},{"party":"sp","pct":22.7,"votes":22929},{"party":"mitte","pct":13.9,"votes":14040},{"party":"gps","pct":13.9,"votes":14040},{"party":"fdpl","pct":12,"votes":12121}]},
+        {"name":"St. Gallen","abbr":"SG","winner":"svp","margin":7.9,"turnout":41.7,"votes":107871,"results":[{"party":"svp","pct":33.1,"votes":35705},{"party":"sp","pct":25.2,"votes":27183},{"party":"gps","pct":16.3,"votes":17583},{"party":"mitte","pct":13.3,"votes":14347},{"party":"fdpl","pct":12.2,"votes":13160}]},
+        {"name":"Thurgau","abbr":"TG","winner":"svp","margin":8.6,"turnout":53.1,"votes":111789,"results":[{"party":"svp","pct":28.7,"votes":32083},{"party":"mitte","pct":20.1,"votes":22470},{"party":"sp","pct":19.8,"votes":22134},{"party":"fdpl","pct":19.1,"votes":21352},{"party":"gps","pct":12.2,"votes":13638}]},
+        {"name":"Ticino","abbr":"TI","winner":"fdpl","margin":2.9,"turnout":44.1,"votes":106890,"results":[{"party":"fdpl","pct":32.3,"votes":34525},{"party":"svp","pct":29.4,"votes":31426},{"party":"mitte","pct":16,"votes":17102},{"party":"sp","pct":14.6,"votes":15606},{"party":"gps","pct":7.7,"votes":8231}]},
+        {"name":"Uri","abbr":"UR","winner":"mitte","margin":4.1,"turnout":45.8,"votes":110796,"results":[{"party":"mitte","pct":32.5,"votes":36009},{"party":"sp","pct":28.4,"votes":31466},{"party":"svp","pct":19.1,"votes":21162},{"party":"fdpl","pct":10.2,"votes":11301},{"party":"gps","pct":9.8,"votes":10858}]},
+        {"name":"Valais","abbr":"VS","winner":"mitte","margin":3.4,"turnout":45,"votes":88871,"results":[{"party":"mitte","pct":31.3,"votes":27817},{"party":"svp","pct":27.9,"votes":24795},{"party":"sp","pct":23.8,"votes":21151},{"party":"fdpl","pct":12.2,"votes":10842},{"party":"gps","pct":4.7,"votes":4177}]},
+        {"name":"Vaud","abbr":"VD","winner":"sp","margin":5.6,"turnout":49.1,"votes":104249,"results":[{"party":"sp","pct":31.3,"votes":32630},{"party":"svp","pct":25.7,"votes":26792},{"party":"mitte","pct":18.6,"votes":19390},{"party":"fdpl","pct":13.2,"votes":13761},{"party":"gps","pct":11.2,"votes":11676}]},
+        {"name":"Zug","abbr":"ZG","winner":"svp","margin":8.2,"turnout":53.3,"votes":107522,"results":[{"party":"svp","pct":33.1,"votes":35590},{"party":"sp","pct":24.9,"votes":26773},{"party":"fdpl","pct":22.5,"votes":24192},{"party":"gps","pct":11.3,"votes":12150},{"party":"mitte","pct":8.2,"votes":8817}]},
+        {"name":"Zürich","abbr":"ZH","winner":"svp","margin":5,"turnout":43.5,"votes":115295,"results":[{"party":"svp","pct":31.7,"votes":36549},{"party":"mitte","pct":26.7,"votes":30784},{"party":"fdpl","pct":15.5,"votes":17871},{"party":"gps","pct":13.3,"votes":15334},{"party":"sp","pct":12.8,"votes":14758}]}
+      ]
+    },
+    {
+      "id": "ch-council-of-states-2023",
+      "office": "Council of States",
+      "kind": "legislative",
+      "date": "2023-10-22",
+      "status": "final",
+      "reporting": 100,
+      "system": "46 seats, two per canton, one per half-canton",
+      "totalSeats": 46,
+      "majority": 24,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Federal Statistical Office",
+        "url": "https://en.wikipedia.org/wiki/2023_Swiss_federal_election"
+      },
+      "candidates": [
+        {
+          "name": "The Centre",
+          "party": "mitte",
+          "votes": null,
+          "pct": null,
+          "seats": 15,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "The Liberals",
+          "party": "fdpl",
+          "votes": null,
+          "pct": null,
+          "seats": 11,
+          "change": -1
+        },
+        {
+          "name": "Social Democratic Party",
+          "party": "sp",
+          "votes": null,
+          "pct": null,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Swiss People's Party",
+          "party": "svp",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Green Party",
+          "party": "gps",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": -2
+        },
+        {
+          "name": "Geneva Citizens' Movement",
+          "party": "mcg",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Green Liberal Party",
+          "party": "glp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        }
+      ],
+      "regions": [
+        {"name":"Aargau","abbr":"AG","winner":"mitte","margin":15.6,"turnout":59.9,"results":[{"party":"mitte","pct":39.1},{"party":"fdpl","pct":23.5},{"party":"sp","pct":17.9},{"party":"svp","pct":12.8},{"party":"gps","pct":6.7}]},
+        {"name":"Appenzell Ausserrhoden","abbr":"AR","winner":"fdpl","margin":15.1,"turnout":66.9,"results":[{"party":"fdpl","pct":36.9},{"party":"mitte","pct":21.8},{"party":"svp","pct":20.5},{"party":"sp","pct":13.9},{"party":"gps","pct":6.9}]},
+        {"name":"Appenzell Innerrhoden","abbr":"AI","winner":"mitte","margin":1,"turnout":57.9,"results":[{"party":"mitte","pct":31.2},{"party":"fdpl","pct":30.2},{"party":"sp","pct":21},{"party":"svp","pct":11.6},{"party":"gps","pct":6.1}]},
+        {"name":"Basel-Landschaft","abbr":"BL","winner":"gps","margin":3.1,"turnout":65.5,"results":[{"party":"gps","pct":31.2},{"party":"mitte","pct":28.1},{"party":"svp","pct":15.8},{"party":"fdpl","pct":12.9},{"party":"sp","pct":12}]},
+        {"name":"Basel-Stadt","abbr":"BS","winner":"sp","margin":7.8,"turnout":56.5,"results":[{"party":"sp","pct":37.9},{"party":"fdpl","pct":30.1},{"party":"mitte","pct":18.6},{"party":"svp","pct":8.4},{"party":"gps","pct":5}]},
+        {"name":"Bern","abbr":"BE","winner":"fdpl","margin":8.1,"turnout":60.5,"results":[{"party":"fdpl","pct":33},{"party":"mitte","pct":24.9},{"party":"sp","pct":23.9},{"party":"svp","pct":14},{"party":"gps","pct":4.2}]},
+        {"name":"Fribourg","abbr":"FR","winner":"sp","margin":1.5,"turnout":55.1,"results":[{"party":"sp","pct":26.5},{"party":"mitte","pct":25},{"party":"svp","pct":23.7},{"party":"fdpl","pct":18.3},{"party":"gps","pct":6.5}]},
+        {"name":"Geneva","abbr":"GE","winner":"mitte","margin":4.5,"turnout":62.2,"results":[{"party":"mitte","pct":34.2},{"party":"fdpl","pct":29.7},{"party":"sp","pct":12.8},{"party":"svp","pct":12.1},{"party":"gps","pct":11.2}]},
+        {"name":"Glarus","abbr":"GL","winner":"mitte","margin":24,"turnout":63.4,"results":[{"party":"mitte","pct":43.7},{"party":"fdpl","pct":19.7},{"party":"sp","pct":15.3},{"party":"svp","pct":13.5},{"party":"gps","pct":7.8}]},
+        {"name":"Graubünden","abbr":"GR","winner":"mitte","margin":9.1,"turnout":61.6,"results":[{"party":"mitte","pct":33},{"party":"fdpl","pct":23.9},{"party":"sp","pct":21},{"party":"gps","pct":11.5},{"party":"svp","pct":10.5}]},
+        {"name":"Jura","abbr":"JU","winner":"mitte","margin":1.6,"turnout":58.8,"results":[{"party":"mitte","pct":32.1},{"party":"fdpl","pct":30.5},{"party":"svp","pct":17.4},{"party":"sp","pct":14.9},{"party":"gps","pct":5.1}]},
+        {"name":"Lucerne","abbr":"LU","winner":"mitte","margin":23.8,"turnout":58.4,"results":[{"party":"mitte","pct":45.6},{"party":"fdpl","pct":21.8},{"party":"svp","pct":13.2},{"party":"sp","pct":11.3},{"party":"gps","pct":8}]},
+        {"name":"Neuchâtel","abbr":"NE","winner":"mitte","margin":5.7,"turnout":55.7,"results":[{"party":"mitte","pct":36.1},{"party":"fdpl","pct":30.4},{"party":"sp","pct":17.4},{"party":"svp","pct":8.3},{"party":"gps","pct":7.7}]},
+        {"name":"Nidwalden","abbr":"NW","winner":"fdpl","margin":10,"turnout":60.3,"results":[{"party":"fdpl","pct":35.2},{"party":"mitte","pct":25.2},{"party":"sp","pct":20.8},{"party":"svp","pct":12.1},{"party":"gps","pct":6.7}]},
+        {"name":"Obwalden","abbr":"OW","winner":"mitte","margin":13.7,"turnout":56.3,"results":[{"party":"mitte","pct":37.2},{"party":"fdpl","pct":23.5},{"party":"svp","pct":18.4},{"party":"sp","pct":16.3},{"party":"gps","pct":4.5}]},
+        {"name":"Schaffhausen","abbr":"SH","winner":"mitte","margin":7.8,"turnout":55.8,"results":[{"party":"mitte","pct":36.9},{"party":"fdpl","pct":29.1},{"party":"sp","pct":14.4},{"party":"svp","pct":11.7},{"party":"gps","pct":8}]},
+        {"name":"Schwyz","abbr":"SZ","winner":"mitte","margin":7.5,"turnout":65,"results":[{"party":"mitte","pct":36.3},{"party":"fdpl","pct":28.8},{"party":"sp","pct":18.3},{"party":"svp","pct":11.5},{"party":"gps","pct":5.3}]},
+        {"name":"Solothurn","abbr":"SO","winner":"mitte","margin":4.8,"turnout":53.6,"results":[{"party":"mitte","pct":33.7},{"party":"sp","pct":28.9},{"party":"fdpl","pct":20.9},{"party":"gps","pct":9.5},{"party":"svp","pct":6.9}]},
+        {"name":"St. Gallen","abbr":"SG","winner":"fdpl","margin":3.6,"turnout":58,"results":[{"party":"fdpl","pct":28},{"party":"mitte","pct":24.4},{"party":"sp","pct":23},{"party":"svp","pct":17.4},{"party":"gps","pct":7.2}]},
+        {"name":"Thurgau","abbr":"TG","winner":"mitte","margin":7.3,"turnout":58.3,"results":[{"party":"mitte","pct":39.6},{"party":"fdpl","pct":32.3},{"party":"sp","pct":12.2},{"party":"gps","pct":8.3},{"party":"svp","pct":7.5}]},
+        {"name":"Ticino","abbr":"TI","winner":"sp","margin":8.1,"turnout":62.3,"results":[{"party":"sp","pct":30.6},{"party":"mitte","pct":22.5},{"party":"svp","pct":19.6},{"party":"fdpl","pct":19.3},{"party":"gps","pct":7.9}]},
+        {"name":"Uri","abbr":"UR","winner":"mitte","margin":13,"turnout":57.5,"results":[{"party":"mitte","pct":34.7},{"party":"fdpl","pct":21.7},{"party":"sp","pct":20.5},{"party":"svp","pct":17.6},{"party":"gps","pct":5.5}]},
+        {"name":"Valais","abbr":"VS","winner":"mitte","margin":9.8,"turnout":57.3,"results":[{"party":"mitte","pct":37.6},{"party":"fdpl","pct":27.8},{"party":"sp","pct":21.6},{"party":"svp","pct":9.9},{"party":"gps","pct":3.1}]},
+        {"name":"Vaud","abbr":"VD","winner":"fdpl","margin":11.8,"turnout":54.8,"results":[{"party":"fdpl","pct":36.2},{"party":"sp","pct":24.4},{"party":"mitte","pct":18.1},{"party":"svp","pct":17.4},{"party":"gps","pct":3.8}]},
+        {"name":"Zug","abbr":"ZG","winner":"mitte","margin":18.7,"turnout":64.1,"results":[{"party":"mitte","pct":41.1},{"party":"sp","pct":22.4},{"party":"fdpl","pct":18.6},{"party":"svp","pct":13.4},{"party":"gps","pct":4.6}]},
+        {"name":"Zürich","abbr":"ZH","winner":"fdpl","margin":2.8,"turnout":64.1,"results":[{"party":"fdpl","pct":30.6},{"party":"sp","pct":27.8},{"party":"mitte","pct":22.2},{"party":"svp","pct":10.5},{"party":"gps","pct":8.9}]}
+      ]
+    }
+  ]
+}

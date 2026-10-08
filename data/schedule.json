@@ -852,5 +852,24 @@
     "pollsClose": "20:00",
     "basedOn": "fi-president-2024",
     "tentative": true
+  },
+  {
+    "country": "CH",
+    "office": "National Council",
+    "kind": "legislative",
+    "date": "2027-10-24",
+    "timezone": "Europe/Zurich",
+    "pollsClose": "12:00",
+    "basedOn": "ch-national-council-2023"
+  },
+  {
+    "country": "CH",
+    "office": "Council of States",
+    "kind": "legislative",
+    "date": "2027-10-24",
+    "note": "First round",
+    "timezone": "Europe/Zurich",
+    "pollsClose": "12:00",
+    "basedOn": "ch-council-of-states-2023"
   }
 ]

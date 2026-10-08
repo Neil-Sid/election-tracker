@@ -3,8 +3,8 @@ import { nextText } from './status.js';
 import { fmtInt, fmtPct, fmtDate, fmtFullDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
 import { chamber, duel, historyRows, pollChart } from './charts.js';
 
-// Others, vacant seats and seats a source has no results for list after the parties.
-const rest = c => ['oth', 'nis', 'vac', 'vacant'].includes(c.party);
+// Others, "Against all", vacant seats and seats a source has no results for list after the parties.
+const rest = c => ['oth', 'against', 'nis', 'vac', 'vacant'].includes(c.party);
 
 export function renderCountry(panel, ctx, { meta, country: initial, archive, electionId }) {
   const { schedule, globe } = ctx;
@@ -563,8 +563,8 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       ['Legislature', about.legislature],
       ['Voting age', about.votingAge],
       ['Voting', about.compulsory ? 'Compulsory' : 'Voluntary'],
-      ['Registered voters', fmtCompact(about.registered)]
-    ] : [];
+      ['Registered voters', about.registered && fmtCompact(about.registered)]
+    ].filter(([, v]) => v != null) : [];
 
     const pollFrom = poll ? new Date(poll.series[0].points[0][0]).toLocaleDateString('en-GB', { day: 'numeric', month: 'long' }) : '';
 

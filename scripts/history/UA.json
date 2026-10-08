@@ -1,0 +1,2390 @@
+{
+ "code": "UA",
+ "parties": {
+  "against": {
+   "name": "Against all",
+   "color": "#4A4A4F"
+  },
+  "batk": {
+   "name": "Batkivshchyna",
+   "color": "#ED1C24",
+   "article": "Batkivshchyna"
+  },
+  "byut": {
+   "name": "Yulia Tymoshenko Bloc",
+   "color": "#CC193B",
+   "article": "Yulia Tymoshenko Bloc"
+  },
+  "civpos": {
+   "name": "Civil Position",
+   "color": "#FFDD00",
+   "article": "Civil Position"
+  },
+  "demblok": {
+   "name": "Democratic Bloc",
+   "color": "#0087DC",
+   "article": "Democratic Bloc (Ukraine)"
+  },
+  "dpu": {
+   "name": "Democratic Party of Ukraine",
+   "color": "#025BAB",
+   "article": "Democratic Party of Ukraine"
+  },
+  "dpuds": {
+   "name": "Democratic Party of Ukraine–Democratic Union",
+   "color": "#025BAB"
+  },
+  "es": {
+   "name": "European Solidarity",
+   "color": "#1B3892",
+   "article": "European Solidarity"
+  },
+  "fewerwords": {
+   "name": "Fewer Words",
+   "color": "#A08903"
+  },
+  "hromada": {
+   "name": "Hromada",
+   "color": "#FD8401",
+   "article": "Hromada (political party)"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "indbabych": {
+   "name": "Independent",
+   "color": "#8D6E63",
+   "article": "Valeriy Babych"
+  },
+  "indbohomolets": {
+   "name": "Independent",
+   "color": "#EC407A",
+   "article": "Olha Bohomolets"
+  },
+  "indhrytsenko": {
+   "name": "Independent",
+   "color": "#C0A000",
+   "article": "Anatoliy Hrytsenko"
+  },
+  "indkostenko": {
+   "name": "Independent",
+   "color": "#9CCC65",
+   "article": "Yuriy Kostenko"
+  },
+  "indkravchuk": {
+   "name": "Independent",
+   "color": "#00897B",
+   "article": "Leonid Kravchuk"
+  },
+  "indkuchma": {
+   "name": "Independent",
+   "color": "#E08A2E",
+   "article": "Leonid Kuchma"
+  },
+  "indlanovyi": {
+   "name": "Independent",
+   "color": "#7E57C2",
+   "article": "Volodymyr Lanovyi"
+  },
+  "indmarchuk": {
+   "name": "Independent",
+   "color": "#5C6BC0",
+   "article": "Yevhen Marchuk"
+  },
+  "indplyushch": {
+   "name": "Independent",
+   "color": "#F48FB1",
+   "article": "Ivan Plyushch"
+  },
+  "indporoshenko": {
+   "name": "Independent",
+   "color": "#B1161E",
+   "article": "Petro Poroshenko"
+  },
+  "indrabinovich": {
+   "name": "Independent",
+   "color": "#6D4C41",
+   "article": "Vadim Rabinovich"
+  },
+  "indtihipko": {
+   "name": "Independent",
+   "color": "#4FA3E0",
+   "article": "Serhiy Tihipko"
+  },
+  "indyatsenyuk": {
+   "name": "Independent",
+   "color": "#43A047",
+   "article": "Arseniy Yatsenyuk"
+  },
+  "indyushchenko": {
+   "name": "Independent",
+   "color": "#FFA500",
+   "article": "Viktor Yushchenko"
+  },
+  "khdpu": {
+   "name": "Christian Democratic Party of Ukraine",
+   "color": "#00695C",
+   "article": "All-Ukrainian Union \"Cherkashchany\""
+  },
+  "kpu": {
+   "name": "Communist Party of Ukraine",
+   "color": "#B70100",
+   "article": "Communist Party of Ukraine"
+  },
+  "kpuo": {
+   "name": "Communist Party of Ukraine (renewed)",
+   "color": "#FF0000",
+   "article": "Communist Party of Ukraine (renewed)"
+  },
+  "kpus": {
+   "name": "Communist Party of Ukraine (Soviet era)",
+   "color": "#CD0000",
+   "article": "Communist Party of Ukraine (Soviet Union)"
+  },
+  "kun": {
+   "name": "Congress of Ukrainian Nationalists",
+   "color": "#B30027",
+   "article": "Congress of Ukrainian Nationalists"
+  },
+  "kzp": {
+   "name": "Team of Winter Generation",
+   "color": "#40715E",
+   "article": "Team of Winter Generation"
+  },
+  "lytvyn": {
+   "name": "Lytvyn Bloc",
+   "color": "#01B8A4",
+   "article": "Lytvyn Bloc"
+  },
+  "natfront": {
+   "name": "National Front",
+   "color": "#B30027"
+  },
+  "nbnv": {
+   "name": "People's Opposition Bloc of Natalia Vitrenko",
+   "color": "#808000",
+   "article": "People's Opposition Bloc of Natalia Vitrenko"
+  },
+  "ndp": {
+   "name": "People's Democratic Party",
+   "color": "#87C86E",
+   "article": "People's Democratic Party (Ukraine)"
+  },
+  "nep": {
+   "name": "Bloc of Democratic Parties – NEP",
+   "color": "#80CBC4"
+  },
+  "netak": {
+   "name": "Ne Tak",
+   "color": "#4B0082",
+   "article": "Ne Tak"
+  },
+  "nf": {
+   "name": "People's Front",
+   "color": "#E0BF40",
+   "article": "People's Front (Ukraine)"
+  },
+  "np": {
+   "name": "People's Party",
+   "color": "#01B8A4",
+   "article": "People's Party (Ukraine)"
+  },
+  "nu": {
+   "name": "Our Ukraine",
+   "color": "#FFA914",
+   "article": "Our Ukraine (political party)"
+  },
+  "nuns": {
+   "name": "Our Ukraine–People's Self-Defense Bloc",
+   "color": "#FF8C00",
+   "article": "Our Ukraine – People's Self-Defense Bloc"
+  },
+  "ob": {
+   "name": "Opposition Bloc",
+   "color": "#7E57C2",
+   "article": "Opposition Bloc"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "pdvu": {
+   "name": "Party of Democratic Revival of Ukraine",
+   "color": "#3949AB",
+   "article": "Party of Democratic Revival of Ukraine"
+  },
+  "pner": {
+   "name": "Party of National Economic Development of Ukraine",
+   "color": "#EA38AF",
+   "article": "All-Ukrainian Union \"Democrats\""
+  },
+  "pora": {
+   "name": "Civil Bloc PORA–PRP",
+   "color": "#FFFF00"
+  },
+  "pr": {
+   "name": "Party of Regions",
+   "color": "#003F81",
+   "article": "Party of Regions"
+  },
+  "prp": {
+   "name": "Reforms and Order Party",
+   "color": "#AD1457",
+   "article": "Reforms and Order Party"
+  },
+  "ps": {
+   "name": "Right Sector",
+   "color": "#110C17",
+   "article": "Right Sector"
+  },
+  "pspu": {
+   "name": "Progressive Socialist Party of Ukraine",
+   "color": "#EF1635",
+   "article": "Progressive Socialist Party of Ukraine"
+  },
+  "ptu": {
+   "name": "Party of Labor",
+   "color": "#D1CA46",
+   "article": "Party of Labor (Ukraine)"
+  },
+  "pvd": {
+   "name": "Party of Free Democrats",
+   "color": "#0A721D",
+   "article": "Party of Free Democrats"
+  },
+  "pzu": {
+   "name": "Party of Greens of Ukraine",
+   "color": "#02A24E",
+   "article": "Party of Greens of Ukraine"
+  },
+  "razom": {
+   "name": "Razom",
+   "color": "#0000FF"
+  },
+  "rpl": {
+   "name": "Radical Party of Oleh Liashko",
+   "color": "#F3534D",
+   "article": "Radical Party of Oleh Liashko"
+  },
+  "rukh": {
+   "name": "People's Movement of Ukraine",
+   "color": "#0091D5",
+   "article": "People's Movement of Ukraine"
+  },
+  "samopomich": {
+   "name": "Self Reliance",
+   "color": "#006B2D",
+   "article": "Self Reliance (political party)"
+  },
+  "sdpu": {
+   "name": "Social Democratic Party of Ukraine",
+   "color": "#FE0002",
+   "article": "Social Democratic Party of Ukraine"
+  },
+  "sdpuo": {
+   "name": "Social Democratic Party of Ukraine (united)",
+   "color": "#4B0082",
+   "article": "Social Democratic Party of Ukraine (united)"
+  },
+  "selpu": {
+   "name": "Peasant Party of Ukraine",
+   "color": "#9CCC65",
+   "article": "Peasant Party of Ukraine"
+  },
+  "slavic": {
+   "name": "Slavic Party",
+   "color": "#F528C3",
+   "article": "Slavic Party"
+  },
+  "slon": {
+   "name": "SLON – Social Liberal Association",
+   "color": "#008DA2"
+  },
+  "soyuz": {
+   "name": "Soyuz",
+   "color": "#302686",
+   "article": "Soyuz (political party)"
+  },
+  "spu": {
+   "name": "Socialist Party of Ukraine",
+   "color": "#640000",
+   "article": "Socialist Party of Ukraine"
+  },
+  "spuselpu": {
+   "name": "Socialist Party – Peasant Party",
+   "color": "#F6584D",
+   "article": "Socialist Party – Peasant Party"
+  },
+  "su": {
+   "name": "Strong Ukraine",
+   "color": "#0080FF",
+   "article": "Strong Ukraine"
+  },
+  "svoboda": {
+   "name": "Svoboda",
+   "color": "#0E294D",
+   "article": "Svoboda (Ukraine)"
+  },
+  "trudova": {
+   "name": "Labour Ukraine",
+   "color": "#800080",
+   "article": "Labour Ukraine"
+  },
+  "trudukr": {
+   "name": "Laborious Ukraine",
+   "color": "#872558",
+   "article": "Laborious Ukraine Electoral Bloc"
+  },
+  "udar": {
+   "name": "UDAR",
+   "color": "#C93732",
+   "article": "Ukrainian Democratic Alliance for Reform"
+  },
+  "uf": {
+   "name": "Ukraine – Forward!",
+   "color": "#6A5ACD",
+   "article": "Ukraine – Forward!"
+  },
+  "ukrp": {
+   "name": "Ukrainian Conservative Republican Party",
+   "color": "#2E7D32",
+   "article": "Ukrainian Conservative Republican Party"
+  },
+  "ump": {
+   "name": "Ukrainian Marine Party",
+   "color": "#3249B3",
+   "article": "Ukrainian Marine Party"
+  },
+  "una": {
+   "name": "Ukrainian National Assembly",
+   "color": "#4E342E",
+   "article": "Ukrainian National Assembly – Ukrainian People's Self-Defence"
+  },
+  "unbkp": {
+   "name": "Ukrainian National Bloc of Kostenko and Plyushch",
+   "color": "#0000FF",
+   "article": "Ukrainian National Bloc of Kostenko and Plyushch"
+  },
+  "urp": {
+   "name": "Ukrainian Republican Party",
+   "color": "#FEBF10",
+   "article": "Ukrainian Republican Party"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#E5E5EA"
+  },
+  "viche": {
+   "name": "Viche",
+   "color": "#008DA2",
+   "article": "Aktsent"
+  },
+  "vitrenko02": {
+   "name": "Nataliya Vitrenko Bloc",
+   "color": "#EF1635"
+  },
+  "vpered": {
+   "name": "Forward Ukraine!",
+   "color": "#B39DDB"
+  },
+  "yc": {
+   "name": "United Centre",
+   "color": "#008000",
+   "article": "Andriy Baloha's Team"
+  },
+  "yednist": {
+   "name": "Unity",
+   "color": "#827717"
+  },
+  "zastup": {
+   "name": "Spade",
+   "color": "#4C834C",
+   "article": "Spade (political party)"
+  },
+  "zayedu": {
+   "name": "For United Ukraine!",
+   "color": "#026CAA",
+   "article": "For United Ukraine!"
+  },
+  "zmb": {
+   "name": "Women for the Future",
+   "color": "#E91E8C",
+   "article": "Social-Conservative Party of Ukraine \"Gerts\""
+  }
+ },
+ "elections": [
+  {
+   "id": "ua-president-1991",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1991-12-01",
+   "turnout": 84.18,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1991_Ukrainian_presidential_election",
+    "revid": 1378526121
+   },
+   "candidates": [
+    {
+     "name": "Leonid Kravchuk",
+     "party": "indkravchuk",
+     "votes": 19643481,
+     "pct": 61.59,
+     "winner": true
+    },
+    {
+     "name": "Viacheslav Chornovil",
+     "party": "rukh",
+     "votes": 7420727,
+     "pct": 23.27
+    },
+    {
+     "name": "Levko Lukianenko",
+     "party": "urp",
+     "votes": 1432556,
+     "pct": 4.49
+    },
+    {
+     "name": "Volodymyr Hrynyov",
+     "party": "pdvu",
+     "votes": 1329758,
+     "pct": 4.17
+    },
+    {
+     "name": "Against all and invalid votes",
+     "party": "against",
+     "votes": 1327788,
+     "pct": 4.16
+    },
+    {
+     "name": "Ihor Yukhnovskyi",
+     "party": "pdvu",
+     "votes": 554719,
+     "pct": 1.74
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 182713,
+     "pct": 0.57
+    }
+   ],
+   "regionWinners": {
+    "12": "indkravchuk",
+    "14": "indkravchuk",
+    "18": "indkravchuk",
+    "21": "indkravchuk",
+    "23": "indkravchuk",
+    "26": "rukh",
+    "30": "indkravchuk",
+    "32": "indkravchuk",
+    "35": "indkravchuk",
+    "40": "indkravchuk",
+    "43": "indkravchuk",
+    "46": "rukh",
+    "48": "indkravchuk",
+    "51": "indkravchuk",
+    "53": "indkravchuk",
+    "56": "indkravchuk",
+    "59": "indkravchuk",
+    "61": "rukh",
+    "63": "indkravchuk",
+    "65": "indkravchuk",
+    "68": "indkravchuk",
+    "71": "indkravchuk",
+    "74": "indkravchuk",
+    "77": "indkravchuk",
+    "05": "indkravchuk",
+    "07": "indkravchuk",
+    "09": "indkravchuk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1991_Ukrainian_presidential_election",
+   "notes": "One round. The table's last row combines votes against all candidates with invalid ballots (1,327,788), and its shares are of all ballots, so that row is kept as \"Against all and invalid votes\". Hrynyov and Yukhnovskyi are both listed under the Party of Democratic Revival of Ukraine, as in the table. Turnout is the table's (84.18%). Others: 1 candidate (Leopold Taburyanskyi). Region winners are the leading candidate in each region, from the article's results-by-region table (percentages). That table lists Sevastopol apart from Crimea, and the Black Sea Fleet's vote, which is left out."
+  },
+  {
+   "id": "ua-president-1994",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1994-06-26",
+   "turnout": 71.63,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1994_Ukrainian_presidential_election",
+    "revid": 1375630868
+   },
+   "candidates": [
+    {
+     "name": "Leonid Kuchma",
+     "party": "indkuchma",
+     "votes": 14016850,
+     "pct": 52.35,
+     "winner": true
+    },
+    {
+     "name": "Leonid Kravchuk",
+     "party": "indkravchuk",
+     "votes": 12111603,
+     "pct": 45.24
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 645508,
+     "pct": 2.41
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "1994-06-26",
+     "candidates": [
+      {
+       "name": "Leonid Kravchuk",
+       "party": "indkravchuk",
+       "votes": 9977766,
+       "pct": 38.36
+      },
+      {
+       "name": "Leonid Kuchma",
+       "party": "indkuchma",
+       "votes": 8274806,
+       "pct": 31.81
+      },
+      {
+       "name": "Oleksandr Moroz",
+       "party": "spu",
+       "votes": 3466541,
+       "pct": 13.33
+      },
+      {
+       "name": "Volodymyr Lanovyi",
+       "party": "indlanovyi",
+       "votes": 2483986,
+       "pct": 9.55
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 697564,
+       "pct": 2.68
+      },
+      {
+       "name": "Valeriy Babych",
+       "party": "indbabych",
+       "votes": 644263,
+       "pct": 2.48
+      },
+      {
+       "name": "Ivan Plyushch",
+       "party": "indplyushch",
+       "votes": 321886,
+       "pct": 1.24
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 143361,
+       "pct": 0.55
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "1994-07-10",
+     "candidates": [
+      {
+       "name": "Leonid Kuchma",
+       "party": "indkuchma",
+       "votes": 14016850,
+       "pct": 52.35,
+       "winner": true
+      },
+      {
+       "name": "Leonid Kravchuk",
+       "party": "indkravchuk",
+       "votes": 12111603,
+       "pct": 45.24
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 645508,
+       "pct": 2.41
+      }
+     ]
+    }
+   ],
+   "notes": "Shares include votes against all candidates, which the table counts with the valid votes; invalid ballots are excluded. Kravchuk and Kuchma ran as independents; the table's footnotes say Rukh and other blocs backed Kravchuk, and the Communist Party backed Kuchma in the run-off. Turnout is the deciding round's, from the table (first round 70.37%, run-off 71.63%). First-round Others: 1 candidate (Petro Talanchuk). The article has no results-by-region table, so no region winners."
+  },
+  {
+   "id": "ua-president-1999",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1999-10-31",
+   "note": "Marred by abuse of state resources",
+   "turnout": 74.87,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1999_Ukrainian_presidential_election",
+    "revid": 1375630902
+   },
+   "candidates": [
+    {
+     "name": "Leonid Kuchma",
+     "party": "indkuchma",
+     "votes": 15870722,
+     "pct": 57.7,
+     "winner": true
+    },
+    {
+     "name": "Petro Symonenko",
+     "party": "kpu",
+     "votes": 10665420,
+     "pct": 38.77
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 970181,
+     "pct": 3.53
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "1999-10-31",
+     "candidates": [
+      {
+       "name": "Leonid Kuchma",
+       "party": "indkuchma",
+       "votes": 9598672,
+       "pct": 37.99
+      },
+      {
+       "name": "Petro Symonenko",
+       "party": "kpu",
+       "votes": 5849077,
+       "pct": 23.15
+      },
+      {
+       "name": "Oleksandr Moroz",
+       "party": "spu",
+       "votes": 2969896,
+       "pct": 11.75
+      },
+      {
+       "name": "Nataliya Vitrenko",
+       "party": "pspu",
+       "votes": 2886972,
+       "pct": 11.43
+      },
+      {
+       "name": "Yevhen Marchuk",
+       "party": "indmarchuk",
+       "votes": 2138356,
+       "pct": 8.46
+      },
+      {
+       "name": "Yuriy Kostenko",
+       "party": "indkostenko",
+       "votes": 570623,
+       "pct": 2.26
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 477019,
+       "pct": 1.89
+      },
+      {
+       "name": "Hennadiy Udovenko",
+       "party": "rukh",
+       "votes": 319778,
+       "pct": 1.27
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 456021,
+       "pct": 1.8
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "1999-11-14",
+     "candidates": [
+      {
+       "name": "Leonid Kuchma",
+       "party": "indkuchma",
+       "votes": 15870722,
+       "pct": 57.7,
+       "winner": true
+      },
+      {
+       "name": "Petro Symonenko",
+       "party": "kpu",
+       "votes": 10665420,
+       "pct": 38.77
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 970181,
+       "pct": 3.53
+      }
+     ]
+    }
+   ],
+   "regionWinners": {
+    "12": "indkuchma",
+    "14": "indkuchma",
+    "18": "indkuchma",
+    "21": "indkuchma",
+    "23": "kpu",
+    "26": "indkuchma",
+    "30": "indkuchma",
+    "32": "indkuchma",
+    "35": "kpu",
+    "40": "indkuchma",
+    "43": "kpu",
+    "46": "indkuchma",
+    "48": "kpu",
+    "51": "indkuchma",
+    "53": "kpu",
+    "56": "indkuchma",
+    "59": "indkuchma",
+    "61": "indkuchma",
+    "63": "indkuchma",
+    "65": "kpu",
+    "68": "indkuchma",
+    "71": "kpu",
+    "74": "kpu",
+    "77": "indkuchma",
+    "05": "kpu",
+    "07": "indkuchma",
+    "09": "kpu"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Ukrainian_presidential_election",
+   "notes": "Shares include votes against all candidates; invalid ballots are excluded. Kuchma, Marchuk and Kostenko ran as independents; Udovenko was the joint candidate of Rukh and Reforms and Order (filed under Rukh). The lead says Kuchma used state resources against his opponents and the Parliamentary Assembly of the Council of Europe called the conduct of the election \"a disgrace\". Turnout is the deciding round's, from the table (first round 70.15%, run-off 74.87%). First-round Others: 6 candidates (Vasyl Onopenko, Oleksandr Rzhavskyy, Yuriy Karmazin, Vitaliy Kononov, Oleksandr Bazyliuk, Mykola Haber). Region winners are the leading candidate in each region in the run-off, from the article's results-by-region table."
+  },
+  {
+   "id": "ua-president-2004",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2004-10-31",
+   "note": "Run-off annulled for falsification; re-run held",
+   "turnout": 77.28,
+   "source": {
+    "name": "Wikipedia, citing the Central Election Commission",
+    "url": "https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election",
+    "revid": 1375630922
+   },
+   "candidates": [
+    {
+     "name": "Viktor Yushchenko",
+     "party": "indyushchenko",
+     "votes": 15115712,
+     "pct": 52.77,
+     "winner": true
+    },
+    {
+     "name": "Viktor Yanukovych",
+     "party": "pr",
+     "votes": 12848528,
+     "pct": 44.85
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 682239,
+     "pct": 2.38
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "2004-10-31",
+     "candidates": [
+      {
+       "name": "Viktor Yushchenko",
+       "party": "indyushchenko",
+       "votes": 11188675,
+       "pct": 41.13
+      },
+      {
+       "name": "Viktor Yanukovych",
+       "party": "pr",
+       "votes": 11008731,
+       "pct": 40.47
+      },
+      {
+       "name": "Oleksandr Moroz",
+       "party": "spu",
+       "votes": 1632098,
+       "pct": 6
+      },
+      {
+       "name": "Petro Symonenko",
+       "party": "kpu",
+       "votes": 1396135,
+       "pct": 5.13
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 556962,
+       "pct": 2.05
+      },
+      {
+       "name": "Nataliya Vitrenko",
+       "party": "pspu",
+       "votes": 429794,
+       "pct": 1.58
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 988363,
+       "pct": 3.63
+      }
+     ]
+    },
+    {
+     "label": "Run-off (annulled)",
+     "date": "2004-11-21",
+     "candidates": [
+      {
+       "name": "Viktor Yanukovych",
+       "party": "pr",
+       "votes": 15093691,
+       "pct": 50.27
+      },
+      {
+       "name": "Viktor Yushchenko",
+       "party": "indyushchenko",
+       "votes": 14222289,
+       "pct": 47.37
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 707284,
+       "pct": 2.36
+      }
+     ]
+    },
+    {
+     "label": "Repeat run-off",
+     "date": "2004-12-26",
+     "candidates": [
+      {
+       "name": "Viktor Yushchenko",
+       "party": "indyushchenko",
+       "votes": 15115712,
+       "pct": 52.77,
+       "winner": true
+      },
+      {
+       "name": "Viktor Yanukovych",
+       "party": "pr",
+       "votes": 12848528,
+       "pct": 44.85
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 682239,
+       "pct": 2.38
+      }
+     ]
+    }
+   ],
+   "notes": "The Central Election Commission declared Yanukovych the winner of the 21 November run-off, but the Supreme Court annulled that round for widespread falsification (the lead's words) and ordered the repeat run-off of 26 December, which Yushchenko won; the annulled round flags no winner. Shares include votes against all candidates; invalid ballots are excluded. Yushchenko ran as an independent. Turnout is the deciding round's, from the table (first round 74.54%, run-off (annulled) 81.12%, repeat run-off 77.28%). First-round Others: 19 candidates. The article has no results-by-region table, so no region winners."
+  },
+  {
+   "id": "ua-president-2010",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2010-01-17",
+   "turnout": 68.81,
+   "source": {
+    "name": "Wikipedia, citing the Central Election Commission",
+    "url": "https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election",
+    "revid": 1378449421
+   },
+   "candidates": [
+    {
+     "name": "Viktor Yanukovych",
+     "party": "pr",
+     "votes": 12481266,
+     "pct": 49.55,
+     "winner": true
+    },
+    {
+     "name": "Yulia Tymoshenko",
+     "party": "batk",
+     "votes": 11593357,
+     "pct": 46.03
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 1113055,
+     "pct": 4.42
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "2010-01-17",
+     "candidates": [
+      {
+       "name": "Viktor Yanukovych",
+       "party": "pr",
+       "votes": 8686642,
+       "pct": 35.92
+      },
+      {
+       "name": "Yulia Tymoshenko",
+       "party": "batk",
+       "votes": 6159810,
+       "pct": 25.47
+      },
+      {
+       "name": "Serhiy Tihipko",
+       "party": "su",
+       "votes": 3211198,
+       "pct": 13.28
+      },
+      {
+       "name": "Arseniy Yatsenyuk",
+       "party": "indyatsenyuk",
+       "votes": 1711737,
+       "pct": 7.08
+      },
+      {
+       "name": "Viktor Yushchenko",
+       "party": "indyushchenko",
+       "votes": 1341534,
+       "pct": 5.55
+      },
+      {
+       "name": "Petro Symonenko",
+       "party": "kpu",
+       "votes": 872877,
+       "pct": 3.61
+      },
+      {
+       "name": "Volodymyr Lytvyn",
+       "party": "np",
+       "votes": 578883,
+       "pct": 2.39
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 542819,
+       "pct": 2.24
+      },
+      {
+       "name": "Oleh Tyahnybok",
+       "party": "svoboda",
+       "votes": 352282,
+       "pct": 1.46
+      },
+      {
+       "name": "Anatoliy Hrytsenko",
+       "party": "indhrytsenko",
+       "votes": 296412,
+       "pct": 1.23
+      },
+      {
+       "name": "Others",
+       "party": "oth",
+       "votes": 428275,
+       "pct": 1.77
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "2010-02-07",
+     "candidates": [
+      {
+       "name": "Viktor Yanukovych",
+       "party": "pr",
+       "votes": 12481266,
+       "pct": 49.55,
+       "winner": true
+      },
+      {
+       "name": "Yulia Tymoshenko",
+       "party": "batk",
+       "votes": 11593357,
+       "pct": 46.03
+      },
+      {
+       "name": "Against all",
+       "party": "against",
+       "votes": 1113055,
+       "pct": 4.42
+      }
+     ]
+    }
+   ],
+   "regionWinners": {
+    "12": "pr",
+    "14": "pr",
+    "18": "batk",
+    "21": "batk",
+    "23": "pr",
+    "26": "batk",
+    "30": "batk",
+    "32": "batk",
+    "35": "batk",
+    "40": "pr",
+    "43": "pr",
+    "46": "batk",
+    "48": "pr",
+    "51": "pr",
+    "53": "batk",
+    "56": "batk",
+    "59": "batk",
+    "61": "batk",
+    "63": "pr",
+    "65": "pr",
+    "68": "batk",
+    "71": "batk",
+    "74": "batk",
+    "77": "batk",
+    "09": "pr",
+    "05": "batk",
+    "07": "batk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election",
+   "notes": "Shares include votes against all candidates; invalid ballots are excluded. The lead says Tymoshenko appealed the result, the Supreme Administrative Court suspended the commission's ruling, and she then withdrew her appeal. Turnout is the deciding round's, from the table (first round 66.51%, run-off 68.81%). First-round Others: 9 candidates. Region winners are the leading candidate in each region in the run-off, from the article's results-by-region table."
+  },
+  {
+   "id": "ua-president-2014",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2014-05-25",
+   "note": "No vote in Crimea or occupied Donbas",
+   "turnout": 59.88,
+   "source": {
+    "name": "Wikipedia, citing the Central Election Commission",
+    "url": "https://en.wikipedia.org/wiki/2014_Ukrainian_presidential_election",
+    "revid": 1375630977
+   },
+   "candidates": [
+    {
+     "name": "Petro Poroshenko",
+     "party": "indporoshenko",
+     "votes": 9857308,
+     "pct": 55.46,
+     "winner": true
+    },
+    {
+     "name": "Yulia Tymoshenko",
+     "party": "batk",
+     "votes": 2310050,
+     "pct": 13
+    },
+    {
+     "name": "Oleh Liashko",
+     "party": "rpl",
+     "votes": 1500377,
+     "pct": 8.44
+    },
+    {
+     "name": "Anatoliy Hrytsenko",
+     "party": "civpos",
+     "votes": 989029,
+     "pct": 5.56
+    },
+    {
+     "name": "Serhiy Tihipko",
+     "party": "indtihipko",
+     "votes": 943430,
+     "pct": 5.31
+    },
+    {
+     "name": "Mykhailo Dobkin",
+     "party": "pr",
+     "votes": 546138,
+     "pct": 3.07
+    },
+    {
+     "name": "Vadim Rabinovich",
+     "party": "indrabinovich",
+     "votes": 406301,
+     "pct": 2.29
+    },
+    {
+     "name": "Olha Bohomolets",
+     "party": "indbohomolets",
+     "votes": 345384,
+     "pct": 1.94
+    },
+    {
+     "name": "Petro Symonenko",
+     "party": "kpu",
+     "votes": 272723,
+     "pct": 1.53
+    },
+    {
+     "name": "Oleh Tyahnybok",
+     "party": "svoboda",
+     "votes": 210476,
+     "pct": 1.18
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 393629,
+     "pct": 2.21
+    }
+   ],
+   "voted": [
+    "71",
+    "74",
+    "77",
+    "12",
+    "14",
+    "26",
+    "63",
+    "65",
+    "68",
+    "35",
+    "30",
+    "32",
+    "09",
+    "46",
+    "48",
+    "51",
+    "53",
+    "56",
+    "59",
+    "61",
+    "05",
+    "07",
+    "21",
+    "23",
+    "18"
+   ],
+   "regionWinners": {
+    "12": "indporoshenko",
+    "14": "indporoshenko",
+    "18": "indporoshenko",
+    "21": "indporoshenko",
+    "23": "indporoshenko",
+    "26": "indporoshenko",
+    "30": "indporoshenko",
+    "32": "indporoshenko",
+    "35": "indporoshenko",
+    "46": "indporoshenko",
+    "48": "indporoshenko",
+    "51": "indporoshenko",
+    "53": "indporoshenko",
+    "56": "indporoshenko",
+    "59": "indporoshenko",
+    "61": "indporoshenko",
+    "63": "indporoshenko",
+    "65": "indporoshenko",
+    "68": "indporoshenko",
+    "71": "indporoshenko",
+    "74": "indporoshenko",
+    "77": "indporoshenko",
+    "09": "indporoshenko",
+    "05": "indporoshenko",
+    "07": "indporoshenko"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2014_Ukrainian_presidential_election",
+   "notes": "Snap election, decided in one round. The lead says it was not held everywhere: there was no voting in Crimea or Sevastopol (annexed by Russia) nor in much of Donetsk and Luhansk oblasts; those two oblasts count as having voted because parts of them did. Poroshenko and Tihipko ran as independents, backed by UDAR and Strong Ukraine respectively, as the table notes. There was no \"against all\" option. Turnout is the table's (59.88%). Others: 11 candidates. Region winners are the leading candidate in each region, from the article's results-by-region table."
+  },
+  {
+   "id": "ua-verkhovna-rada-1990",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "1990-03-04",
+   "note": "Supreme Soviet of the Ukrainian SSR",
+   "totalSeats": 450,
+   "turnout": 85,
+   "source": {
+    "name": "Wikipedia, citing Kalinichenko and Potichnyj",
+    "url": "https://en.wikipedia.org/wiki/1990_Ukrainian_Supreme_Soviet_election",
+    "revid": 1346462326
+   },
+   "candidates": [
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpus",
+     "votes": null,
+     "pct": null,
+     "seats": 331,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic Bloc",
+     "party": "demblok",
+     "votes": null,
+     "pct": null,
+     "seats": 111,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 8,
+     "change": null
+    }
+   ],
+   "notes": "The article has no results table. Its text says 442 of the 450 seats were filled in two rounds (4 March and 10–18 March), with the Communists winning 331 and the Democratic Bloc 111, and that eight seats stayed vacant because of low turnout (further rounds in six of them were set for 22 April). Deputies were elected in single-member constituencies, so there are no party votes. Turnout is the infobox's first-round figure (85%; 79% in the second round). The infobox shows the Communists down 119 seats, but there is no change column, so changes are null."
+  },
+  {
+   "id": "ua-verkhovna-rada-1994",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "1994-03-27",
+   "totalSeats": 450,
+   "turnout": 75.81,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1994_Ukrainian_parliamentary_election",
+    "revid": 1357972339
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 168,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 112,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": null,
+     "pct": null,
+     "seats": 86,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "People's Movement of Ukraine",
+     "party": "rukh",
+     "votes": null,
+     "pct": null,
+     "seats": 20,
+     "change": null
+    },
+    {
+     "name": "Peasant Party of Ukraine",
+     "party": "selpu",
+     "votes": null,
+     "pct": null,
+     "seats": 19,
+     "change": null
+    },
+    {
+     "name": "Socialist Party of Ukraine",
+     "party": "spu",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Ukrainian Republican Party",
+     "party": "urp",
+     "votes": null,
+     "pct": null,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Congress of Ukrainian Nationalists",
+     "party": "kun",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Party of Democratic Revival of Ukraine",
+     "party": "pdvu",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Party of Labor",
+     "party": "ptu",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Democratic Party of Ukraine",
+     "party": "dpu",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Social Democratic Party of Ukraine",
+     "party": "sdpu",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Ukrainian Conservative Republican Party",
+     "party": "ukrp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Civil Congress of Ukraine",
+     "party": "slavic",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Ukrainian National Assembly",
+     "party": "una",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party of Ukraine",
+     "party": "khdpu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Every seat was elected in single-member constituencies, with no party list, so votes are null (the table's figures are the constituency votes of each party's candidates). Seats are the 338 decided in the first two rounds, as the article's lead says; the other 112 were still vacant, and some districts stayed unrepresented for the whole term. Repeat elections are not included. Independents won the most seats, so they are flagged; the largest party was the Communist Party. The article has no party-list results by region, so no region winners. Turnout is the table's."
+  },
+  {
+   "id": "ua-verkhovna-rada-1998",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "1998-03-29",
+   "totalSeats": 450,
+   "turnout": 70.78,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver and the University of Essex",
+    "url": "https://en.wikipedia.org/wiki/1998_Ukrainian_parliamentary_election",
+    "revid": 1359315079
+   },
+   "candidates": [
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": 6550353,
+     "pct": 25.44,
+     "seats": 121,
+     "change": 35,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 111,
+     "change": -57
+    },
+    {
+     "name": "People's Movement of Ukraine",
+     "party": "rukh",
+     "votes": 2498262,
+     "pct": 9.7,
+     "seats": 46,
+     "change": 26
+    },
+    {
+     "name": "Socialist Party – Peasant Party",
+     "party": "spuselpu",
+     "votes": 2273788,
+     "pct": 8.83,
+     "seats": 34,
+     "change": 1
+    },
+    {
+     "name": "People's Democratic Party",
+     "party": "ndp",
+     "votes": 1331460,
+     "pct": 5.17,
+     "seats": 28,
+     "change": 24
+    },
+    {
+     "name": "Hromada",
+     "party": "hromada",
+     "votes": 1242235,
+     "pct": 4.82,
+     "seats": 24,
+     "change": null
+    },
+    {
+     "name": "Party of Greens of Ukraine",
+     "party": "pzu",
+     "votes": 1444264,
+     "pct": 5.61,
+     "seats": 19,
+     "change": 19
+    },
+    {
+     "name": "Social Democratic Party of Ukraine (united)",
+     "party": "sdpuo",
+     "votes": 1066113,
+     "pct": 4.14,
+     "seats": 17,
+     "change": null
+    },
+    {
+     "name": "Progressive Socialist Party of Ukraine",
+     "party": "pspu",
+     "votes": 1075118,
+     "pct": 4.18,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Agrarian Party of Ukraine",
+     "party": "np",
+     "votes": 978330,
+     "pct": 3.8,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "National Front (KUN–UKRP–URP)",
+     "party": "natfront",
+     "votes": 721966,
+     "pct": 2.8,
+     "seats": 5,
+     "change": -10
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Reforms and Order Party",
+     "party": "prp",
+     "votes": 832574,
+     "pct": 3.23,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Forward Ukraine! (KDS–UKDP)",
+     "party": "vpered",
+     "votes": 461924,
+     "pct": 1.79,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Christian Democratic Party of Ukraine",
+     "party": "khdpu",
+     "votes": 344826,
+     "pct": 1.34,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Party of Regional Revival of Ukraine",
+     "party": "pr",
+     "votes": 241262,
+     "pct": 0.94,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Laborious Ukraine (GKU–UPS)",
+     "party": "trudukr",
+     "votes": 813326,
+     "pct": 3.16,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Razom (LPU–PP)",
+     "party": "razom",
+     "votes": 502969,
+     "pct": 1.95,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "Bloc of Democratic Parties – NEP (DPU–PEV)",
+     "party": "nep",
+     "votes": 326489,
+     "pct": 1.27,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "SLON – Social Liberal Association (Viche–MBR)",
+     "party": "slon",
+     "votes": 241367,
+     "pct": 0.94,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Soyuz",
+     "party": "soyuz",
+     "votes": 186249,
+     "pct": 0.72,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Fewer Words (SNPU–DSU)",
+     "party": "fewerwords",
+     "votes": 45155,
+     "pct": 0.18,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 1396592,
+     "pct": 5.42,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1174952,
+     "pct": 4.56,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the party-list vote; seats are each party's total, 225 list plus 225 constituency seats. Independents won constituency seats only, so they have no list votes. Shares include 1,396,592 list votes against all, which the table counts as valid; invalid ballots are excluded. Changes are the table's; \"New\" is shown as no change. The table lists 5 seats as vacant. Electoral blocs are listed under their own names, as in the table: National Front (KUN–UKRP–URP); Forward Ukraine! (KDS–UKDP); Razom (LPU–PP); Bloc of Democratic Parties – NEP (DPU–PEV); SLON – Social Liberal Association (Viche–MBR); Fewer Words (SNPU–DSU). The table links \"Party of Regional Revival of Ukraine\" to the Party of Regions and \"Agrarian Party of Ukraine\" to the People's Party, so they share those keys. The article has no party-list results by region, so no region winners. Turnout is the table's, for the list vote."
+  },
+  {
+   "id": "ua-verkhovna-rada-2002",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "2002-03-31",
+   "totalSeats": 450,
+   "turnout": 69.27,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver and CLEA",
+    "url": "https://en.wikipedia.org/wiki/2002_Ukrainian_parliamentary_election",
+    "revid": 1335913281
+   },
+   "candidates": [
+    {
+     "name": "Bloc of Viktor Yushchenko \"Our Ukraine\"",
+     "party": "nuns",
+     "votes": 6108088,
+     "pct": 24.49,
+     "seats": 113,
+     "change": 51,
+     "winner": true
+    },
+    {
+     "name": "For United Ukraine!",
+     "party": "zayedu",
+     "votes": 3051056,
+     "pct": 12.23,
+     "seats": 101,
+     "change": 65
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 94,
+     "change": -17
+    },
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": 5178074,
+     "pct": 20.76,
+     "seats": 64,
+     "change": -58
+    },
+    {
+     "name": "Social Democratic Party of Ukraine (united)",
+     "party": "sdpuo",
+     "votes": 1626721,
+     "pct": 6.52,
+     "seats": 24,
+     "change": 7
+    },
+    {
+     "name": "Socialist Party of Ukraine",
+     "party": "spu",
+     "votes": 1780642,
+     "pct": 7.14,
+     "seats": 23,
+     "change": 6
+    },
+    {
+     "name": "Yulia Tymoshenko Bloc",
+     "party": "byut",
+     "votes": 1882087,
+     "pct": 7.54,
+     "seats": 22,
+     "change": null
+    },
+    {
+     "name": "Democratic Party of Ukraine–Democratic Union",
+     "party": "dpuds",
+     "votes": 227393,
+     "pct": 0.91,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Unity (Ye–SDS–UPS)",
+     "party": "yednist",
+     "votes": 282491,
+     "pct": 1.13,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Ukrainian Marine Party",
+     "party": "ump",
+     "votes": 29025,
+     "pct": 0.12,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Party of National Economic Development of Ukraine",
+     "party": "pner",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Nataliya Vitrenko Bloc (PSPU–YeU)",
+     "party": "vitrenko02",
+     "votes": 836198,
+     "pct": 3.35,
+     "seats": 0,
+     "change": -17
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 635199,
+     "pct": 2.55,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Women for the Future",
+     "party": "zmb",
+     "votes": 547916,
+     "pct": 2.2,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Team of Winter Generation",
+     "party": "kzp",
+     "votes": 525025,
+     "pct": 2.1,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Communist Party of Ukraine (renewed)",
+     "party": "kpuo",
+     "votes": 362712,
+     "pct": 1.45,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Party of Greens of Ukraine",
+     "party": "pzu",
+     "votes": 338252,
+     "pct": 1.36,
+     "seats": 0,
+     "change": -19
+    },
+    {
+     "name": "Apple",
+     "party": "pvd",
+     "votes": 299764,
+     "pct": 1.2,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Peasant Party of Ukraine",
+     "party": "selpu",
+     "votes": 98428,
+     "pct": 0.39,
+     "seats": 0,
+     "change": -12
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1136874,
+     "pct": 4.56,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the party-list vote; seats are each party's total, 225 list plus 225 constituency seats. Independents won constituency seats only, so they have no list votes. Shares include 635,199 list votes against all, which the table counts as valid; invalid ballots are excluded. Changes are the table's; \"New\" is shown as no change. Electoral blocs are listed under their own names, as in the table: Democratic Party of Ukraine–Democratic Union; Unity (Ye–SDS–UPS); Nataliya Vitrenko Bloc (PSPU–YeU). The article has no party-list results by region, so no region winners. Turnout is the table's, for the list vote."
+  },
+  {
+   "id": "ua-verkhovna-rada-2006",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "2006-03-26",
+   "totalSeats": 450,
+   "turnout": 67.55,
+   "source": {
+    "name": "Wikipedia, citing the Central Election Commission",
+    "url": "https://en.wikipedia.org/wiki/2006_Ukrainian_parliamentary_election",
+    "revid": 1366058452
+   },
+   "candidates": [
+    {
+     "name": "Party of Regions",
+     "party": "pr",
+     "votes": 8148745,
+     "pct": 32.78,
+     "seats": 186,
+     "change": 150,
+     "winner": true
+    },
+    {
+     "name": "Yulia Tymoshenko Bloc",
+     "party": "byut",
+     "votes": 5652876,
+     "pct": 22.74,
+     "seats": 129,
+     "change": 107
+    },
+    {
+     "name": "Our Ukraine",
+     "party": "nuns",
+     "votes": 3539140,
+     "pct": 14.24,
+     "seats": 81,
+     "change": -31
+    },
+    {
+     "name": "Socialist Party of Ukraine",
+     "party": "spu",
+     "votes": 1444224,
+     "pct": 5.81,
+     "seats": 33,
+     "change": 11
+    },
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": 929591,
+     "pct": 3.74,
+     "seats": 21,
+     "change": -44
+    },
+    {
+     "name": "People's Opposition Bloc of Natalia Vitrenko",
+     "party": "nbnv",
+     "votes": 743704,
+     "pct": 2.99,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "People's Bloc of Lytvyn",
+     "party": "lytvyn",
+     "votes": 619905,
+     "pct": 2.49,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Ukrainian National Bloc of Kostenko and Plyushch",
+     "party": "unbkp",
+     "votes": 476155,
+     "pct": 1.92,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 449650,
+     "pct": 1.81,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Viche",
+     "party": "viche",
+     "votes": 441912,
+     "pct": 1.78,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Civil Bloc \"PORA–PRP\"",
+     "party": "pora",
+     "votes": 373478,
+     "pct": 1.5,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Opposition Bloc \"Ne Tak\"",
+     "party": "netak",
+     "votes": 257106,
+     "pct": 1.03,
+     "seats": 0,
+     "change": -27
+    },
+    {
+     "name": "Labour Ukraine",
+     "party": "trudova",
+     "votes": 24942,
+     "pct": 0.1,
+     "seats": 0,
+     "change": -10
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1758737,
+     "pct": 7.07,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "All 450 seats were elected by party-list proportional representation. Shares include 449,650 list votes against all, which the table counts as valid; invalid ballots are excluded. Changes are the table's; \"New\" is shown as no change. Electoral blocs are listed under their own names, as in the table: Civil Bloc \"PORA–PRP\". The article has no party-list results by region, so no region winners. Turnout is the table's."
+  },
+  {
+   "id": "ua-verkhovna-rada-2007",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "2007-09-30",
+   "totalSeats": 450,
+   "turnout": 62.03,
+   "source": {
+    "name": "Wikipedia, citing the Central Election Commission",
+    "url": "https://en.wikipedia.org/wiki/2007_Ukrainian_parliamentary_election",
+    "revid": 1375065061
+   },
+   "candidates": [
+    {
+     "name": "Party of Regions",
+     "party": "pr",
+     "votes": 8013895,
+     "pct": 34.94,
+     "seats": 175,
+     "change": -11,
+     "winner": true
+    },
+    {
+     "name": "Yulia Tymoshenko Bloc",
+     "party": "byut",
+     "votes": 7162193,
+     "pct": 31.23,
+     "seats": 156,
+     "change": 27
+    },
+    {
+     "name": "Our Ukraine — People's Self-Defense",
+     "party": "nuns",
+     "votes": 3301282,
+     "pct": 14.39,
+     "seats": 72,
+     "change": -9
+    },
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": 1257291,
+     "pct": 5.48,
+     "seats": 27,
+     "change": 6
+    },
+    {
+     "name": "Lytvyn Bloc",
+     "party": "lytvyn",
+     "votes": 924538,
+     "pct": 4.03,
+     "seats": 20,
+     "change": 20
+    },
+    {
+     "name": "Socialist Party of Ukraine",
+     "party": "spu",
+     "votes": 668234,
+     "pct": 2.91,
+     "seats": 0,
+     "change": -33
+    },
+    {
+     "name": "Against all",
+     "party": "against",
+     "votes": 637185,
+     "pct": 2.78,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Progressive Socialist Party of Ukraine",
+     "party": "pspu",
+     "votes": 309008,
+     "pct": 1.35,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 661928,
+     "pct": 2.89,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "12": "pr",
+    "14": "pr",
+    "18": "byut",
+    "21": "nuns",
+    "23": "pr",
+    "26": "byut",
+    "30": "byut",
+    "32": "byut",
+    "35": "byut",
+    "40": "pr",
+    "43": "pr",
+    "46": "byut",
+    "48": "pr",
+    "51": "pr",
+    "53": "byut",
+    "56": "byut",
+    "59": "byut",
+    "61": "byut",
+    "63": "pr",
+    "65": "pr",
+    "68": "byut",
+    "71": "byut",
+    "74": "byut",
+    "77": "byut",
+    "09": "pr",
+    "05": "byut",
+    "07": "byut"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2007_Ukrainian_parliamentary_election",
+   "notes": "All 450 seats were elected by party-list proportional representation. Shares include 637,185 list votes against all, which the table counts as valid; invalid ballots are excluded. Changes are the table's; \"New\" is shown as no change. Region winners are the party with the most list votes in each region, from the article's by-region table (percentages for the six largest parties). Turnout is the table's."
+  },
+  {
+   "id": "ua-verkhovna-rada-2012",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "2012-10-28",
+   "totalSeats": 450,
+   "turnout": 57.43,
+   "source": {
+    "name": "Wikipedia, citing CLEA",
+    "url": "https://en.wikipedia.org/wiki/2012_Ukrainian_parliamentary_election",
+    "revid": 1372568219
+   },
+   "candidates": [
+    {
+     "name": "Party of Regions",
+     "party": "pr",
+     "votes": 6116746,
+     "pct": 30,
+     "seats": 185,
+     "change": 10,
+     "winner": true
+    },
+    {
+     "name": "Batkivshchyna",
+     "party": "batk",
+     "votes": 5209090,
+     "pct": 25.55,
+     "seats": 101,
+     "change": -55
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 43,
+     "change": null
+    },
+    {
+     "name": "Ukrainian Democratic Alliance for Reform",
+     "party": "udar",
+     "votes": 2847979,
+     "pct": 13.97,
+     "seats": 40,
+     "change": null
+    },
+    {
+     "name": "Svoboda",
+     "party": "svoboda",
+     "votes": 2129933,
+     "pct": 10.45,
+     "seats": 37,
+     "change": 37
+    },
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": 2687269,
+     "pct": 13.18,
+     "seats": 32,
+     "change": 5
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "United Centre",
+     "party": "yc",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "People's Party",
+     "party": "np",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -18
+    },
+    {
+     "name": "Radical Party of Oleh Liashko",
+     "party": "rpl",
+     "votes": 221144,
+     "pct": 1.08,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Soyuz",
+     "party": "soyuz",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Ukraine – Forward!",
+     "party": "uf",
+     "votes": 322198,
+     "pct": 1.58,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Our Ukraine",
+     "party": "nu",
+     "votes": 226492,
+     "pct": 1.11,
+     "seats": 0,
+     "change": -72
+    },
+    {
+     "name": "People's Movement of Ukraine",
+     "party": "rukh",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 627168,
+     "pct": 3.08,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "12": "pr",
+    "14": "pr",
+    "18": "batk",
+    "21": "pr",
+    "23": "pr",
+    "26": "batk",
+    "30": "batk",
+    "32": "batk",
+    "35": "batk",
+    "40": "pr",
+    "43": "pr",
+    "46": "svoboda",
+    "48": "pr",
+    "51": "pr",
+    "53": "batk",
+    "56": "batk",
+    "59": "batk",
+    "61": "batk",
+    "63": "pr",
+    "65": "pr",
+    "68": "batk",
+    "71": "batk",
+    "74": "batk",
+    "77": "batk",
+    "09": "pr",
+    "05": "batk",
+    "07": "batk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2012_Ukrainian_parliamentary_election",
+   "notes": "Votes and shares are the party-list vote; seats are each party's total, 225 list plus 225 constituency seats. Independents won constituency seats only, so they have no list votes. Invalid ballots are excluded from the shares. Changes are the table's; \"New\" is shown as no change. The 5 vacant seats are the constituencies where, the article says, the commission could not establish results and ordered repeat elections (held in December 2013, not included). Region winners are the party with the most list votes in each region, from the article's by-region table. Turnout is the table's, for the list vote."
+  },
+  {
+   "id": "ua-verkhovna-rada-2014",
+   "office": "Verkhovna Rada",
+   "kind": "legislative",
+   "date": "2014-10-26",
+   "note": "No vote in Crimea or occupied Donbas",
+   "totalSeats": 450,
+   "turnout": 51.91,
+   "source": {
+    "name": "Wikipedia, citing CLEA",
+    "url": "https://en.wikipedia.org/wiki/2014_Ukrainian_parliamentary_election",
+    "revid": 1374507931
+   },
+   "candidates": [
+    {
+     "name": "Petro Poroshenko Bloc",
+     "party": "es",
+     "votes": 3437521,
+     "pct": 21.82,
+     "seats": 131,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 97,
+     "change": 54
+    },
+    {
+     "name": "People's Front",
+     "party": "nf",
+     "votes": 3488114,
+     "pct": 22.14,
+     "seats": 82,
+     "change": null
+    },
+    {
+     "name": "Self Reliance",
+     "party": "samopomich",
+     "votes": 1729271,
+     "pct": 10.98,
+     "seats": 33,
+     "change": null
+    },
+    {
+     "name": "Opposition Bloc",
+     "party": "ob",
+     "votes": 1486203,
+     "pct": 9.43,
+     "seats": 29,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 27,
+     "change": null
+    },
+    {
+     "name": "Radical Party of Oleh Liashko",
+     "party": "rpl",
+     "votes": 1173131,
+     "pct": 7.45,
+     "seats": 22,
+     "change": 21
+    },
+    {
+     "name": "Batkivshchyna",
+     "party": "batk",
+     "votes": 894837,
+     "pct": 5.68,
+     "seats": 20,
+     "change": -81
+    },
+    {
+     "name": "Svoboda",
+     "party": "svoboda",
+     "votes": 742022,
+     "pct": 4.71,
+     "seats": 6,
+     "change": -31
+    },
+    {
+     "name": "Strong Ukraine",
+     "party": "su",
+     "votes": 491471,
+     "pct": 3.12,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Spade",
+     "party": "zastup",
+     "votes": 418301,
+     "pct": 2.66,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Right Sector",
+     "party": "ps",
+     "votes": 284943,
+     "pct": 1.81,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Communist Party of Ukraine",
+     "party": "kpu",
+     "votes": 611923,
+     "pct": 3.88,
+     "seats": 0,
+     "change": -32
+    },
+    {
+     "name": "Civil Position",
+     "party": "civpos",
+     "votes": 489523,
+     "pct": 3.11,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 506541,
+     "pct": 3.22,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "voted": [
+    "71",
+    "74",
+    "77",
+    "12",
+    "14",
+    "26",
+    "63",
+    "65",
+    "68",
+    "35",
+    "30",
+    "32",
+    "09",
+    "46",
+    "48",
+    "51",
+    "53",
+    "56",
+    "59",
+    "61",
+    "05",
+    "07",
+    "21",
+    "23",
+    "18"
+   ],
+   "regionWinners": {
+    "12": "ob",
+    "14": "ob",
+    "18": "nf",
+    "21": "es",
+    "23": "ob",
+    "26": "nf",
+    "30": "es",
+    "32": "nf",
+    "35": "nf",
+    "46": "nf",
+    "48": "es",
+    "51": "es",
+    "53": "nf",
+    "56": "nf",
+    "59": "es",
+    "61": "nf",
+    "63": "ob",
+    "65": "es",
+    "68": "nf",
+    "71": "nf",
+    "74": "es",
+    "77": "nf",
+    "09": "ob",
+    "05": "es",
+    "07": "nf"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2014_Ukrainian_parliamentary_election",
+   "notes": "Votes and shares are the party-list vote; seats are each party's total, 225 list plus 225 constituency seats. Independents won constituency seats only, so they have no list votes. Invalid ballots are excluded from the shares. Changes are the table's; \"New\" is shown as no change. The 27 vacant seats are constituencies in occupied areas where, the infobox says, the election could not take place (Crimea, Sevastopol and parts of Donetsk and Luhansk oblasts). The Petro Poroshenko Bloc is today's European Solidarity (same article). The lead says voting did not take place in Crimea, Sevastopol or large parts of Donetsk and Luhansk oblasts; those two oblasts count as having voted because parts of them did. Region winners are the party with the most list votes in each region, from the article's by-region table. Turnout is the table's, for the list vote."
+  }
+ ]
+}

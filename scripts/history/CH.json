@@ -1,0 +1,4052 @@
+{
+ "code": "CH",
+ "parties": {
+  "ajura": {
+   "name": "Jura Alliance",
+   "color": "#FF9999",
+   "article": "Jura Alliance"
+  },
+  "bdp": {
+   "name": "Conservative Democratic Party",
+   "color": "#333333",
+   "article": "Conservative Democratic Party of Switzerland"
+  },
+  "bgb": {
+   "name": "Party of Farmers, Traders and Independents",
+   "color": "#8DB600",
+   "article": "Party of Farmers, Traders and Independents"
+  },
+  "csp": {
+   "name": "Christian Social Party",
+   "color": "#0F95A7",
+   "article": "Christian Social Party (Switzerland)"
+  },
+  "cspow": {
+   "name": "Christian Social Party of Obwalden",
+   "color": "#BF3235",
+   "article": "Christian Social Party of Obwalden"
+  },
+  "cvp": {
+   "name": "Christian Democratic People's Party",
+   "color": "#EF7D00",
+   "article": "Christian Democratic People's Party of Switzerland"
+  },
+  "dellberg": {
+   "name": "Dellberg List",
+   "color": "#FA1360",
+   "article": "Dellberg List"
+  },
+  "edu": {
+   "name": "Federal Democratic Union",
+   "color": "#C71585",
+   "article": "Federal Democratic Union of Switzerland"
+  },
+  "evp": {
+   "name": "Evangelical People's Party",
+   "color": "#EFDA18",
+   "article": "Evangelical People's Party of Switzerland"
+  },
+  "fdp": {
+   "name": "Free Democratic Party",
+   "color": "#007AD2",
+   "article": "Free Democratic Party of Switzerland"
+  },
+  "fdpl": {
+   "name": "FDP.The Liberals",
+   "color": "#0E52A0",
+   "article": "The Liberals (Switzerland)"
+  },
+  "fga": {
+   "name": "Feminist and Green Alternative Groups",
+   "color": "#54A32F",
+   "article": "Feminist and Green Alternative Groups"
+  },
+  "fps": {
+   "name": "Freedom Party",
+   "color": "#8D1919",
+   "article": "Freedom Party of Switzerland"
+  },
+  "frap": {
+   "name": "Frauen Macht Politik!",
+   "color": "#F49BC2",
+   "article": "Frauen Macht Politik!"
+  },
+  "ga": {
+   "name": "Green Alliance",
+   "color": "#11BB44",
+   "article": "Green Alliance (Switzerland)"
+  },
+  "glp": {
+   "name": "Green Liberal Party",
+   "color": "#B4DC00",
+   "article": "Green Liberal Party of Switzerland"
+  },
+  "gps": {
+   "name": "Green Party",
+   "color": "#84B414",
+   "article": "Green Party of Switzerland"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#DCDCDC",
+   "article": "Independent politician"
+  },
+  "ldu": {
+   "name": "Alliance of Independents",
+   "color": "#C08A3E",
+   "article": "Alliance of Independents"
+  },
+  "lega": {
+   "name": "Ticino League",
+   "color": "#4682B4",
+   "article": "Ticino League"
+  },
+  "lps": {
+   "name": "Liberal Party",
+   "color": "#134B94",
+   "article": "Liberal Party of Switzerland"
+  },
+  "maeder": {
+   "name": "Herbert Mäder Committee",
+   "color": "#99FF99",
+   "article": "Herbert Mäder Committee"
+  },
+  "mcg": {
+   "name": "Geneva Citizens' Movement",
+   "color": "#CE9D24",
+   "article": "Geneva Citizens' Movement"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "pda": {
+   "name": "Swiss Party of Labour",
+   "color": "#E93C1A",
+   "article": "Swiss Party of Labour"
+  },
+  "poch": {
+   "name": "Progressive Organizations of Switzerland",
+   "color": "#B5263B",
+   "article": "Progressive Organizations of Switzerland"
+  },
+  "psa": {
+   "name": "Autonomous Socialist Party",
+   "color": "#8B1C62",
+   "article": "Autonomous Socialist Party (Ticino)"
+  },
+  "rep": {
+   "name": "Republican Movement",
+   "color": "#61380B",
+   "article": "Republican Movement (Switzerland)"
+  },
+  "sd": {
+   "name": "Swiss Democrats",
+   "color": "#CD5B45",
+   "article": "Swiss Democrats"
+  },
+  "sol": {
+   "name": "Solidarity",
+   "color": "#FF6F91",
+   "article": "Solidarity (Switzerland)"
+  },
+  "sp": {
+   "name": "Social Democratic Party",
+   "color": "#E4002B",
+   "article": "Social Democratic Party of Switzerland"
+  },
+  "spg": {
+   "name": "Social-Political Group",
+   "color": "#0B3861",
+   "article": "Social-Political Group"
+  },
+  "svp": {
+   "name": "Swiss People's Party",
+   "color": "#009F4F",
+   "article": "Swiss People's Party"
+  }
+ },
+ "elections": [
+  {
+   "id": "ch-national-council-1951",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1951-10-28",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 196,
+   "turnout": 71.2,
+   "source": {
+    "name": "Wikipedia, citing Mackie & Rose and Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1951_Swiss_federal_election",
+    "revid": 1273430153
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 230687,
+     "pct": 23.99,
+     "seats": 51,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 249857,
+     "pct": 25.99,
+     "seats": 49,
+     "change": 1
+    },
+    {
+     "name": "Conservative People's Party",
+     "party": "cvp",
+     "votes": 216616,
+     "pct": 22.53,
+     "seats": 48,
+     "change": 4
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": 120819,
+     "pct": 12.57,
+     "seats": 23,
+     "change": 2
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 49100,
+     "pct": 5.11,
+     "seats": 10,
+     "change": 2
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 25659,
+     "pct": 2.67,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "lps",
+     "votes": 24813,
+     "pct": 2.58,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": 21606,
+     "pct": 2.25,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 9559,
+     "pct": 0.99,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 12782,
+     "pct": 1.33,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "fdp",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "sp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1951_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 961,498 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Liberal Socialist Party, and the table's other parties. Only men could vote; the 1971 article says that was the first federal election in which women could vote. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both; no winner for GL (elected unopposed), SH (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1955",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1955-10-30",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 196,
+   "turnout": 70.08,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1955_Swiss_federal_election",
+    "revid": 1273430281
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 263664,
+     "pct": 27.02,
+     "seats": 53,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 227370,
+     "pct": 23.3,
+     "seats": 50,
+     "change": -1
+    },
+    {
+     "name": "Conservative People's Party",
+     "party": "cvp",
+     "votes": 226122,
+     "pct": 23.17,
+     "seats": 47,
+     "change": -1
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": 117847,
+     "pct": 12.08,
+     "seats": 22,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 53450,
+     "pct": 5.48,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "lps",
+     "votes": 21688,
+     "pct": 2.22,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 25060,
+     "pct": 2.57,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": 21003,
+     "pct": 2.15,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 10581,
+     "pct": 1.08,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 9110,
+     "pct": 0.93,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "fdp",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "sp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1955_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 975,895 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Liberal Socialist Party, and the table's other parties. Only men could vote; the 1971 article says that was the first federal election in which women could vote. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both; no winner for GL (elected unopposed), SH (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1959",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1959-10-25",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 196,
+   "turnout": 68.46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1959_Swiss_federal_election",
+    "revid": 1273430453
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 259139,
+     "pct": 26.38,
+     "seats": 51,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 232557,
+     "pct": 23.67,
+     "seats": 51,
+     "change": 1
+    },
+    {
+     "name": "Conservative Christian Social Party",
+     "party": "cvp",
+     "votes": 229088,
+     "pct": 23.32,
+     "seats": 47,
+     "change": 0
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": 113611,
+     "pct": 11.56,
+     "seats": 23,
+     "change": 1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 54049,
+     "pct": 5.5,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "lps",
+     "votes": 22934,
+     "pct": 2.33,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": 21170,
+     "pct": 2.15,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 26346,
+     "pct": 2.68,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 14038,
+     "pct": 1.43,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 9438,
+     "pct": 0.96,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "fdp",
+    "GL": "sp",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "sp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1959_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 982,370 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Social Democratic Party and Free Democratic Party won 51 seats each; the one with more votes is flagged as the winner. Only men could vote; the 1971 article says that was the first federal election in which women could vote. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both; no winner for AR (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1963",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1963-10-27",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 200,
+   "turnout": 66.11,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1963_Swiss_federal_election",
+    "revid": 1273430575
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 256063,
+     "pct": 26.62,
+     "seats": 53,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 230200,
+     "pct": 23.94,
+     "seats": 51,
+     "change": 0
+    },
+    {
+     "name": "Conservative Christian Social Party",
+     "party": "cvp",
+     "votes": 225160,
+     "pct": 23.41,
+     "seats": 48,
+     "change": 1
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": 109202,
+     "pct": 11.35,
+     "seats": 22,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 48224,
+     "pct": 5.01,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": 21501,
+     "pct": 2.24,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 21088,
+     "pct": 2.19,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": 16978,
+     "pct": 1.77,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 15690,
+     "pct": 1.63,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 17643,
+     "pct": 1.83,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "sp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1963_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 961,749 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Only men could vote; the 1971 article says that was the first federal election in which women could vote. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both; no winner for AR (elected unopposed), GL (elected unopposed), ZG (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1967",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1967-10-29",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 200,
+   "turnout": 65.72,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1967_Swiss_federal_election",
+    "revid": 1273430709
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 233873,
+     "pct": 23.53,
+     "seats": 50,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 230095,
+     "pct": 23.15,
+     "seats": 49,
+     "change": -2
+    },
+    {
+     "name": "Conservative Christian Social Party",
+     "party": "cvp",
+     "votes": 219184,
+     "pct": 22.05,
+     "seats": 45,
+     "change": -3
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": 109621,
+     "pct": 11.03,
+     "seats": 21,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 89950,
+     "pct": 9.05,
+     "seats": 16,
+     "change": 6
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": 23208,
+     "pct": 2.34,
+     "seats": 6,
+     "change": 0
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 28723,
+     "pct": 2.89,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 15728,
+     "pct": 1.58,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": 14270,
+     "pct": 1.44,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "National Action",
+     "party": "sd",
+     "votes": 6275,
+     "pct": 0.63,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Dellberg List",
+     "party": "dellberg",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 22921,
+     "pct": 2.31,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "pda",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "sp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "ldu"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1967_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 993,848 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Republican Movement, and the table's other parties. The table gives one figure (21,225 votes) for the Dellberg List and \"other parties\" together; it is counted in Others, so the Dellberg List's row has no votes of its own. Only men could vote; the 1971 article says that was the first federal election in which women could vote. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both; no winner for AR (elected unopposed), GL (elected unopposed), SZ (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1971",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1971-10-31",
+   "totalSeats": 200,
+   "turnout": 56.86,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1971_Swiss_federal_election",
+    "revid": 1273430800
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 432259,
+     "pct": 21.7,
+     "seats": 49,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 456233,
+     "pct": 22.9,
+     "seats": 46,
+     "change": -4
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 407225,
+     "pct": 20.44,
+     "seats": 44,
+     "change": -1
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 220487,
+     "pct": 11.07,
+     "seats": 23,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 152086,
+     "pct": 7.63,
+     "seats": 13,
+     "change": -3
+    },
+    {
+     "name": "Republican Movement",
+     "party": "rep",
+     "votes": 84700,
+     "pct": 4.25,
+     "seats": 7,
+     "change": 7
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": 43710,
+     "pct": 2.19,
+     "seats": 6,
+     "change": 0
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 51341,
+     "pct": 2.58,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "National Action",
+     "party": "sd",
+     "votes": 63781,
+     "pct": 3.2,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 42778,
+     "pct": 2.15,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 37716,
+     "pct": 1.89,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "pda",
+    "GL": "sp",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1971_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,992,316 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Independent Social-Christian Party, Autonomous Socialist Party, Swiss Progressive Organisations, and the table's other parties. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both; no winner for ZG (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1975",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1975-10-26",
+   "totalSeats": 200,
+   "turnout": 52.36,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1975_Swiss_federal_election",
+    "revid": 1342357959
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 480396,
+     "pct": 24.87,
+     "seats": 55,
+     "change": 9,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 428919,
+     "pct": 22.21,
+     "seats": 47,
+     "change": -2
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 407286,
+     "pct": 21.09,
+     "seats": 46,
+     "change": 2
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 192053,
+     "pct": 9.94,
+     "seats": 21,
+     "change": -2
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 117217,
+     "pct": 6.07,
+     "seats": 11,
+     "change": -2
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": 47256,
+     "pct": 2.45,
+     "seats": 6,
+     "change": 0
+    },
+    {
+     "name": "Republican Movement",
+     "party": "rep",
+     "votes": 57192,
+     "pct": 2.96,
+     "seats": 4,
+     "change": -3
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 45799,
+     "pct": 2.37,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 37959,
+     "pct": 1.97,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "National Action",
+     "party": "sd",
+     "votes": 47796,
+     "pct": 2.47,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "Autonomous Socialist Party",
+     "party": "psa",
+     "votes": 6706,
+     "pct": 0.35,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 62808,
+     "pct": 3.25,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "sp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "sp",
+    "GR": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "fdp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "sp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1975_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,931,387 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Swiss Progressive Organisations, Federal Democratic Union, Independent Social-Christian Party, Vaud People's Movement for the Environment, and the table's other parties. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); Jura was part of the canton of Bern until 1979, so it has no winner of its own and Bern's covers both."
+  },
+  {
+   "id": "ch-national-council-1979",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1979-10-21",
+   "totalSeats": 200,
+   "turnout": 48.05,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1979_Swiss_federal_election",
+    "revid": 1273431137
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 447990,
+     "pct": 24.44,
+     "seats": 51,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 440099,
+     "pct": 24.01,
+     "seats": 51,
+     "change": 4
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 390281,
+     "pct": 21.29,
+     "seats": 44,
+     "change": -2
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 212705,
+     "pct": 11.6,
+     "seats": 23,
+     "change": 2
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 74623,
+     "pct": 4.07,
+     "seats": 8,
+     "change": -3
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 51258,
+     "pct": 2.8,
+     "seats": 8,
+     "change": 2
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 40744,
+     "pct": 2.22,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 38187,
+     "pct": 2.08,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Swiss Progressive Organisations",
+     "party": "poch",
+     "votes": 31128,
+     "pct": 1.7,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "National Action",
+     "party": "sd",
+     "votes": 24257,
+     "pct": 1.32,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Republican Movement",
+     "party": "rep",
+     "votes": 11587,
+     "pct": 0.63,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 11583,
+     "pct": 0.63,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Autonomous Socialist Party",
+     "party": "psa",
+     "votes": 8147,
+     "pct": 0.44,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 50602,
+     "pct": 2.76,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "svp",
+    "GR": "cvp",
+    "JU": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,833,191 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Federal Democratic Union, Feminist and Green Alternative Groups, and the table's other parties. \"Other parties\" won 2 seats as a group the table doesn't break down; they are in Others. The infobox names them: Entente Jurassienne and Jurassic Unity, one seat each. Social Democratic Party and Free Democratic Party won 51 seats each; the one with more votes is flagged as the winner. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); no winner for AR (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1983",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1983-10-23",
+   "totalSeats": 200,
+   "turnout": 48.91,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1983_Swiss_federal_election",
+    "revid": 1342358088
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 457283,
+     "pct": 23.33,
+     "seats": 54,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 447634,
+     "pct": 22.84,
+     "seats": 47,
+     "change": -4
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 396281,
+     "pct": 20.22,
+     "seats": 42,
+     "change": -2
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 217166,
+     "pct": 11.08,
+     "seats": 23,
+     "change": 0
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 78292,
+     "pct": 3.99,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 55326,
+     "pct": 2.82,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "National Action",
+     "party": "sd",
+     "votes": 57592,
+     "pct": 2.94,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Swiss Progressive Organisations",
+     "party": "poch",
+     "votes": 43694,
+     "pct": 2.23,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 40837,
+     "pct": 2.08,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Federation of Swiss Green Parties",
+     "party": "gps",
+     "votes": 37079,
+     "pct": 1.89,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 17488,
+     "pct": 0.89,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Republican Movement",
+     "party": "rep",
+     "votes": 10148,
+     "pct": 0.52,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Autonomous Socialist Party",
+     "party": "psa",
+     "votes": 9962,
+     "pct": 0.51,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Feminist and Green Alternative Groups",
+     "party": "fga",
+     "votes": 20063,
+     "pct": 1.02,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 70997,
+     "pct": 3.62,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "sp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "svp",
+    "GR": "cvp",
+    "JU": "fdp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "sp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1983_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,959,842 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Independent Social-Christian Party, Federal Democratic Union, and the table's other parties. \"Other parties\" won 2 seats as a group the table doesn't break down; they are in Others. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette)."
+  },
+  {
+   "id": "ch-national-council-1987",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1987-10-18",
+   "totalSeats": 200,
+   "turnout": 46.47,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1987_Swiss_federal_election",
+    "revid": 1291891692
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 443617,
+     "pct": 22.93,
+     "seats": 51,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 378822,
+     "pct": 19.58,
+     "seats": 42,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 356266,
+     "pct": 18.42,
+     "seats": 41,
+     "change": -6
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 213253,
+     "pct": 11.02,
+     "seats": 25,
+     "change": 2
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 94378,
+     "pct": 4.88,
+     "seats": 9,
+     "change": 5
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 52532,
+     "pct": 2.72,
+     "seats": 9,
+     "change": 1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 80691,
+     "pct": 4.17,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Green Alliance",
+     "party": "ga",
+     "votes": 77451,
+     "pct": 4,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "National Action",
+     "party": "sd",
+     "votes": 49104,
+     "pct": 2.54,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 37265,
+     "pct": 1.93,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Swiss Motorists' Party",
+     "party": "fps",
+     "votes": 50372,
+     "pct": 2.6,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 15528,
+     "pct": 0.8,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Autonomous Socialist Party",
+     "party": "psa",
+     "votes": 10879,
+     "pct": 0.56,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 74291,
+     "pct": 3.84,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "svp",
+    "GR": "cvp",
+    "JU": "fdp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "cvp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "fdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1987_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,934,449 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Federal Democratic Union, Republican Movement, Independent Social-Christian Party, and the table's other parties. \"Other parties\" won 1 seat as a group the table doesn't break down; it is in Others. The infobox names it: the Herbert Maeder Committee. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); no winner for AR (elected unopposed)."
+  },
+  {
+   "id": "ch-national-council-1991",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1991-10-20",
+   "totalSeats": 200,
+   "turnout": 46.05,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1991_Swiss_federal_election",
+    "revid": 1273431695
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 429072,
+     "pct": 20.99,
+     "seats": 44,
+     "change": -7,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 377968,
+     "pct": 18.49,
+     "seats": 41,
+     "change": 0
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 367928,
+     "pct": 18,
+     "seats": 35,
+     "change": -7
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 243268,
+     "pct": 11.9,
+     "seats": 25,
+     "change": 0
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 124149,
+     "pct": 6.07,
+     "seats": 14,
+     "change": 5
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 62073,
+     "pct": 3.04,
+     "seats": 10,
+     "change": 1
+    },
+    {
+     "name": "Swiss Motorists' Party",
+     "party": "fps",
+     "votes": 103585,
+     "pct": 5.07,
+     "seats": 8,
+     "change": 6
+    },
+    {
+     "name": "Swiss Democrats",
+     "party": "sd",
+     "votes": 69297,
+     "pct": 3.39,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 57819,
+     "pct": 2.83,
+     "seats": 5,
+     "change": -3
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 38681,
+     "pct": 1.89,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 28290,
+     "pct": 1.38,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 15871,
+     "pct": 0.78,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 20395,
+     "pct": 1,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Unitarian Socialist Party",
+     "party": "psa",
+     "votes": 12006,
+     "pct": 0.59,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Independent Social-Christian Party",
+     "party": "csp",
+     "votes": 8039,
+     "pct": 0.39,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Jura Alliance",
+     "party": "ajura",
+     "votes": 5258,
+     "pct": 0.26,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Frauen Macht Politik!",
+     "party": "frap",
+     "votes": 5211,
+     "pct": 0.25,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Herbert Mäder Committee",
+     "party": "maeder",
+     "votes": 5162,
+     "pct": 0.25,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Swiss Progressive Organisations",
+     "party": "poch",
+     "votes": 24946,
+     "pct": 1.22,
+     "seats": 0,
+     "change": -4
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45083,
+     "pct": 2.21,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "svp",
+    "AI": "cvp",
+    "BL": "fdp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "sp",
+    "GR": "cvp",
+    "JU": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "cvp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "svp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1991_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 2,044,101 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); no winner for AR (top list \"Herbert Maeder Committee\" is not a party)."
+  },
+  {
+   "id": "ch-national-council-1995",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1995-10-22",
+   "totalSeats": 200,
+   "turnout": 42.22,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1995_Swiss_federal_election",
+    "revid": 1273432749
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 415226,
+     "pct": 21.79,
+     "seats": 54,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 384515,
+     "pct": 20.18,
+     "seats": 45,
+     "change": 1
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 319972,
+     "pct": 16.79,
+     "seats": 34,
+     "change": -1
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 283902,
+     "pct": 14.9,
+     "seats": 29,
+     "change": 4
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 96069,
+     "pct": 5.04,
+     "seats": 8,
+     "change": -6
+    },
+    {
+     "name": "Freedom Party",
+     "party": "fps",
+     "votes": 75641,
+     "pct": 3.97,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 51182,
+     "pct": 2.69,
+     "seats": 7,
+     "change": -3
+    },
+    {
+     "name": "Swiss Democrats",
+     "party": "sd",
+     "votes": 59613,
+     "pct": 3.13,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 34801,
+     "pct": 1.83,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 22850,
+     "pct": 1.2,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 34071,
+     "pct": 1.79,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Feminist and Green Alternative Groups",
+     "party": "fga",
+     "votes": 28076,
+     "pct": 1.47,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 24795,
+     "pct": 1.3,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 17940,
+     "pct": 0.94,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Independent Social-Christian Party",
+     "party": "csp",
+     "votes": 5625,
+     "pct": 0.3,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 51046,
+     "pct": 2.68,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "svp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "sp",
+    "GR": "svp",
+    "JU": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "fdp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "cvp",
+    "SO": "fdp",
+    "SG": "cvp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "svp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1995_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,905,324 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Solidarity, and the table's other parties. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette)."
+  },
+  {
+   "id": "ch-national-council-1999",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "1999-10-24",
+   "totalSeats": 200,
+   "turnout": 43.3,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1999_Swiss_federal_election",
+    "revid": 1273432983
+   },
+   "candidates": [
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 438560,
+     "pct": 22.48,
+     "seats": 51,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 440159,
+     "pct": 22.56,
+     "seats": 44,
+     "change": 15
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 388780,
+     "pct": 19.93,
+     "seats": 43,
+     "change": -2
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 309118,
+     "pct": 15.84,
+     "seats": 35,
+     "change": 1
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 96807,
+     "pct": 4.96,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 43870,
+     "pct": 2.25,
+     "seats": 6,
+     "change": -1
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 35679,
+     "pct": 1.83,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 18569,
+     "pct": 0.95,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 17118,
+     "pct": 0.88,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Swiss Democrats",
+     "party": "sd",
+     "votes": 35883,
+     "pct": 1.84,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 24355,
+     "pct": 1.25,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": 14439,
+     "pct": 0.74,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Solidarity",
+     "party": "sol",
+     "votes": 9138,
+     "pct": 0.47,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Christian Social Party",
+     "party": "csp",
+     "votes": 8212,
+     "pct": 0.42,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Feminist and Green Alternative Groups",
+     "party": "fga",
+     "votes": 6257,
+     "pct": 0.32,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Freedom Party",
+     "party": "fps",
+     "votes": 16887,
+     "pct": 0.87,
+     "seats": 0,
+     "change": -7
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 47120,
+     "pct": 2.42,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "svp",
+    "AR": "svp",
+    "AI": "cvp",
+    "BL": "sp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "sp",
+    "GR": "svp",
+    "JU": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "fdp",
+    "OW": "cvp",
+    "SH": "fdp",
+    "SZ": "svp",
+    "SO": "sp",
+    "SG": "svp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "fdp",
+    "VS": "cvp",
+    "ZG": "cvp",
+    "ZH": "svp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 1,950,951 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); OW elected its member unopposed, so the winner is the only party elected."
+  },
+  {
+   "id": "ch-national-council-2003",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "2003-10-19",
+   "totalSeats": 200,
+   "turnout": 45.23,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/2003_Swiss_federal_election",
+    "revid": 1273433222
+   },
+   "candidates": [
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 560750,
+     "pct": 26.68,
+     "seats": 55,
+     "change": 11,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 490385,
+     "pct": 23.33,
+     "seats": 52,
+     "change": 1
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 364493,
+     "pct": 17.34,
+     "seats": 36,
+     "change": -7
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 301652,
+     "pct": 14.35,
+     "seats": 28,
+     "change": -7
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 156226,
+     "pct": 7.43,
+     "seats": 13,
+     "change": 5
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 45864,
+     "pct": 2.18,
+     "seats": 4,
+     "change": -2
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 47838,
+     "pct": 2.28,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 26590,
+     "pct": 1.26,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 14595,
+     "pct": 0.69,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Swiss Democrats",
+     "party": "sd",
+     "votes": 20177,
+     "pct": 0.96,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Feminist and Green Alternative Groups",
+     "party": "fga",
+     "votes": 11153,
+     "pct": 0.53,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Solidarity",
+     "party": "sol",
+     "votes": 10562,
+     "pct": 0.5,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Christian Social Party",
+     "party": "csp",
+     "votes": 7539,
+     "pct": 0.36,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 7304,
+     "pct": 0.35,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 36913,
+     "pct": 1.76,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "svp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "svp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "sp",
+    "GL": "sp",
+    "GR": "svp",
+    "JU": "cvp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "fdp",
+    "OW": "cvp",
+    "SH": "sp",
+    "SZ": "svp",
+    "SO": "sp",
+    "SG": "svp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "sp",
+    "VS": "cvp",
+    "ZG": "svp",
+    "ZH": "svp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2003_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 2,102,041 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Freedom Party, and the table's other parties. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette)."
+  },
+  {
+   "id": "ch-national-council-2007",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "2007-10-21",
+   "totalSeats": 200,
+   "turnout": 48.28,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/2007_Swiss_federal_election",
+    "revid": 1375392589
+   },
+   "candidates": [
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 666318,
+     "pct": 28.59,
+     "seats": 62,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 450116,
+     "pct": 19.32,
+     "seats": 43,
+     "change": -9
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": 361103,
+     "pct": 15.5,
+     "seats": 31,
+     "change": -5
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 332920,
+     "pct": 14.29,
+     "seats": 31,
+     "change": 3
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 220785,
+     "pct": 9.47,
+     "seats": 20,
+     "change": 7
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": 42356,
+     "pct": 1.82,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Green Liberal Party",
+     "party": "glp",
+     "votes": 49314,
+     "pct": 2.12,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 56361,
+     "pct": 2.42,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 29548,
+     "pct": 1.27,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 16649,
+     "pct": 0.71,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 13031,
+     "pct": 0.56,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Christian Social Party",
+     "party": "csp",
+     "votes": 9985,
+     "pct": 0.43,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 81897,
+     "pct": 3.51,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "svp",
+    "AR": "fdp",
+    "AI": "cvp",
+    "BL": "svp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "cvp",
+    "GE": "svp",
+    "GL": "sp",
+    "GR": "svp",
+    "JU": "sp",
+    "LU": "cvp",
+    "NE": "sp",
+    "NW": "fdp",
+    "OW": "svp",
+    "SH": "svp",
+    "SZ": "svp",
+    "SO": "svp",
+    "SG": "svp",
+    "TI": "fdp",
+    "TG": "svp",
+    "UR": "fdp",
+    "VD": "svp",
+    "VS": "cvp",
+    "ZG": "svp",
+    "ZH": "svp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2007_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 2,330,383 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette); NW elected its member unopposed, so the winner is the only party elected."
+  },
+  {
+   "id": "ch-national-council-2011",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "2011-10-23",
+   "totalSeats": 200,
+   "turnout": 48.5,
+   "source": {
+    "name": "Wikipedia, citing the Federal Statistical Office",
+    "url": "https://en.wikipedia.org/wiki/2011_Swiss_federal_election",
+    "revid": 1273433630
+   },
+   "candidates": [
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 648675,
+     "pct": 26.61,
+     "seats": 54,
+     "change": -8,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 457317,
+     "pct": 18.76,
+     "seats": 46,
+     "change": 3
+    },
+    {
+     "name": "FDP.The Liberals",
+     "party": "fdpl",
+     "votes": 368951,
+     "pct": 15.13,
+     "seats": 30,
+     "change": -1
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 300544,
+     "pct": 12.33,
+     "seats": 28,
+     "change": -3
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 205984,
+     "pct": 8.45,
+     "seats": 15,
+     "change": -5
+    },
+    {
+     "name": "Green Liberal Party",
+     "party": "glp",
+     "votes": 131436,
+     "pct": 5.39,
+     "seats": 12,
+     "change": 9
+    },
+    {
+     "name": "Conservative Democratic Party",
+     "party": "bdp",
+     "votes": 132279,
+     "pct": 5.43,
+     "seats": 9,
+     "change": 9
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 48789,
+     "pct": 2,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 19657,
+     "pct": 0.81,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Geneva Citizens' Movement",
+     "party": "mcg",
+     "votes": 10714,
+     "pct": 0.44,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 31056,
+     "pct": 1.27,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 82352,
+     "pct": 3.38,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "AG": "svp",
+    "AR": "fdpl",
+    "AI": "cvp",
+    "BL": "svp",
+    "BS": "sp",
+    "BE": "svp",
+    "FR": "sp",
+    "GE": "sp",
+    "GL": "bdp",
+    "GR": "svp",
+    "JU": "cvp",
+    "LU": "cvp",
+    "NE": "fdpl",
+    "NW": "svp",
+    "OW": "cvp",
+    "SH": "svp",
+    "SZ": "svp",
+    "SO": "svp",
+    "SG": "svp",
+    "TI": "fdpl",
+    "TG": "svp",
+    "UR": "fdpl",
+    "VD": "sp",
+    "VS": "cvp",
+    "ZG": "svp",
+    "ZH": "svp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Swiss_federal_election",
+   "notes": "Votes and shares are the article's table (shares of 2,437,754 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its national votes column counts. Voters cast one vote per seat in their canton, and the article's by-constituency table counts those party votes, which are much larger than the national figures. Others: Swiss Party of Labour, Christian Social Party, and the table's other parties. \"Others\" won 1 seat as a group the table doesn't break down; it is in Others. The infobox names it: the Christian Social Party of Obwalden. Region winners are the party with the most votes in each canton, from the article's by-constituency table (party votes, cited to the Federal Gazette)."
+  },
+  {
+   "id": "ch-national-council-2015",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "2015-10-18",
+   "totalSeats": 200,
+   "turnout": 47.62,
+   "source": {
+    "name": "Wikipedia, citing politik-stat.ch, ch.ch (the federal portal) and IFES",
+    "url": "https://en.wikipedia.org/wiki/2015_Swiss_federal_election",
+    "revid": 1373030965
+   },
+   "candidates": [
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 734171,
+     "pct": 29.43,
+     "seats": 65,
+     "change": 11,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 470339,
+     "pct": 18.86,
+     "seats": 43,
+     "change": -3
+    },
+    {
+     "name": "FDP.The Liberals",
+     "party": "fdpl",
+     "votes": 408793,
+     "pct": 16.39,
+     "seats": 33,
+     "change": 3
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 289719,
+     "pct": 11.61,
+     "seats": 27,
+     "change": -1
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 176075,
+     "pct": 7.06,
+     "seats": 11,
+     "change": -4
+    },
+    {
+     "name": "Green Liberal Party",
+     "party": "glp",
+     "votes": 115604,
+     "pct": 4.63,
+     "seats": 7,
+     "change": -5
+    },
+    {
+     "name": "Conservative Democratic Party",
+     "party": "bdp",
+     "votes": 102598,
+     "pct": 4.11,
+     "seats": 7,
+     "change": -2
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 47355,
+     "pct": 1.9,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 24713,
+     "pct": 0.99,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 20199,
+     "pct": 0.81,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Christian Social Party of Obwalden",
+     "party": "cspow",
+     "votes": 9911,
+     "pct": 0.4,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Geneva Citizens' Movement",
+     "party": "mcg",
+     "votes": 8069,
+     "pct": 0.32,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 29701,
+     "pct": 1.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 57170,
+     "pct": 2.29,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes and shares are the article's table (shares of 2,494,417 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its votes column counts (voters cast one vote per seat in their canton). Others: Pirate Party, Alternative List, Christian Social Party, Ecopop, Swiss Democrats, 39 smaller lists, and the table's other parties. The table gives one joint figure (20,199 votes, 0.83%) for Solidarity and the Party of Labour, which ran joint lists; it is shown on the Party of Labour's row, and Solidarity (no seats) is in Others. The article has no results by canton for the National Council (only the members elected), so no region winners."
+  },
+  {
+   "id": "ch-national-council-2019",
+   "office": "National Council",
+   "kind": "legislative",
+   "date": "2019-10-20",
+   "totalSeats": 200,
+   "turnout": 45.11,
+   "source": {
+    "name": "Wikipedia, citing the Federal Statistical Office",
+    "url": "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+    "revid": 1279326026
+   },
+   "candidates": [
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": 620343,
+     "pct": 25.59,
+     "seats": 53,
+     "change": -12,
+     "winner": true
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": 408128,
+     "pct": 16.84,
+     "seats": 39,
+     "change": -4
+    },
+    {
+     "name": "FDP.The Liberals",
+     "party": "fdpl",
+     "votes": 366303,
+     "pct": 15.11,
+     "seats": 29,
+     "change": -4
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": 321018,
+     "pct": 13.24,
+     "seats": 28,
+     "change": 17
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": 275842,
+     "pct": 11.38,
+     "seats": 25,
+     "change": -2
+    },
+    {
+     "name": "Green Liberal Party",
+     "party": "glp",
+     "votes": 189162,
+     "pct": 7.8,
+     "seats": 16,
+     "change": 9
+    },
+    {
+     "name": "Conservative Democratic Party",
+     "party": "bdp",
+     "votes": 59852,
+     "pct": 2.47,
+     "seats": 3,
+     "change": -4
+    },
+    {
+     "name": "Evangelical People's Party",
+     "party": "evp",
+     "votes": 50317,
+     "pct": 2.08,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Federal Democratic Union",
+     "party": "edu",
+     "votes": 25434,
+     "pct": 1.05,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Swiss Party of Labour",
+     "party": "pda",
+     "votes": 25427,
+     "pct": 1.05,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": 18187,
+     "pct": 0.75,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Solidarity",
+     "party": "sol",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 64238,
+     "pct": 2.65,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the article's table (shares of 2,424,260 valid votes); turnout is the table's, from its electorate and ballots. The article doesn't say what its votes column counts (voters cast one vote per seat in their canton). Others: Alternative List, Pirate Party, Christian Social Party, Geneva Citizens' Movement, Swiss Democrats, 41 smaller lists, and the table's other parties. The table gives one joint figure (25,427 votes) for the Party of Labour and Solidarity, which ran joint lists; it is shown on the Party of Labour's row, and Solidarity's row has no votes of its own. The article has no results by canton for the National Council (only the members elected), so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1951",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1951-10-28",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1951_Swiss_federal_election",
+    "revid": 1273430153
+   },
+   "candidates": [
+    {
+     "name": "Swiss Conservative People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. The article notes that in several cantons the members were chosen by the cantonal parliaments. Others: Other parties (2). Only men could vote; the 1971 article says that was the first federal election in which women could vote. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1955",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1955-10-30",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1955_Swiss_federal_election",
+    "revid": 1273430281
+   },
+   "candidates": [
+    {
+     "name": "Swiss Conservative People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. Others: Other parties (2). Only men could vote; the 1971 article says that was the first federal election in which women could vote. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1959",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1959-10-25",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1959_Swiss_federal_election",
+    "revid": 1273430453
+   },
+   "candidates": [
+    {
+     "name": "Conservative Christian Social Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": 1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 1
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. Others: Other parties (3). Only men could vote; the 1971 article says that was the first federal election in which women could vote. The article doesn't state the council's size; 44 is the sum of the table's seats. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1963",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1963-10-27",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1963_Swiss_federal_election",
+    "revid": 1273430575
+   },
+   "candidates": [
+    {
+     "name": "Conservative Christian Social Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": 0
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 2
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. Only men could vote; the 1971 article says that was the first federal election in which women could vote. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1967",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1967-10-29",
+   "note": "Men only; women voted from 1971",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1967_Swiss_federal_election",
+    "revid": 1273430709
+   },
+   "candidates": [
+    {
+     "name": "Conservative Christian Social Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": 1
+    },
+    {
+     "name": "Party of Farmers, Traders and Independents",
+     "party": "bgb",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Social-Political Group",
+     "party": "spg",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. Only men could vote; the 1971 article says that was the first federal election in which women could vote. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1971",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1971-10-31",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1971_Swiss_federal_election",
+    "revid": 1273430800
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": 1
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1975",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1975-10-26",
+   "totalSeats": 44,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1975_Swiss_federal_election",
+    "revid": 1342357959
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": 0
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Liberal Democratic Union",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Jura had no seats until its first election in 1979. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1979",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1979-10-21",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1979_Swiss_federal_election",
+    "revid": 1273431137
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 11,
+     "change": -4
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": 4
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 2
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1983",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1983-10-23",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1983_Swiss_federal_election",
+    "revid": 1342358088
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": 3
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": -3
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1987",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1987-10-18",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1987_Swiss_federal_election",
+    "revid": 1291891692
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 19,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1991",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1991-10-20",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1991_Swiss_federal_election",
+    "revid": 1273431695
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 18,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": -3
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Ticino League",
+     "party": "lega",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1995",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1995-10-22",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1995_Swiss_federal_election",
+    "revid": 1273432749
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": 0
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lps",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Alliance of Independents",
+     "party": "ldu",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-1999",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "1999-10-24",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/1999_Swiss_federal_election",
+    "revid": 1273432983
+   },
+   "candidates": [
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": -1
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 7,
+     "change": 2
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Others: Other parties (1). The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-2003",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "2003-10-19",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/2003_Swiss_federal_election",
+    "revid": 1273433222
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": -3
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": 3
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 8,
+     "change": 1
+    }
+   ],
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. The article has no results by canton for this council, so no region winners."
+  },
+  {
+   "id": "ch-council-of-states-2007",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "2007-10-21",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver",
+    "url": "https://en.wikipedia.org/wiki/2007_Swiss_federal_election",
+    "revid": 1375392589
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Free Democratic Party",
+     "party": "fdp",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": -2
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 7,
+     "change": -1
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Green Liberal Party",
+     "party": "glp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    }
+   ],
+   "regionWinners": {
+    "UR": "cvp",
+    "OW": "fdp",
+    "NW": "cvp",
+    "BS": "sp",
+    "BL": "sp",
+    "AI": "cvp",
+    "AR": "fdp",
+    "VS": "cvp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2007_Swiss_federal_election",
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it (Nohlen & Stöver); the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Zug and Appenzell Innerrhoden elected their members earlier (October 2006 and April 2007), as the article notes. Region winners: the party holding all of a canton's seats, from the article's by-canton table; cantons whose seats are split have none."
+  },
+  {
+   "id": "ch-council-of-states-2011",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "2011-10-23",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing politik-stat.ch",
+    "url": "https://en.wikipedia.org/wiki/2011_Swiss_federal_election",
+    "revid": 1273433630
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "FDP.The Liberals",
+     "party": "fdpl",
+     "votes": null,
+     "pct": null,
+     "seats": 11,
+     "change": -1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 11,
+     "change": 2
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Green Liberal Party",
+     "party": "glp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Conservative Democratic Party",
+     "party": "bdp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    }
+   ],
+   "regionWinners": {
+    "SZ": "svp",
+    "OW": "fdpl",
+    "NW": "cvp",
+    "BS": "sp",
+    "BL": "sp",
+    "AI": "cvp",
+    "AR": "fdpl",
+    "VS": "cvp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Swiss_federal_election",
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it; the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Region winners: the party holding all of a canton's seats, from the article's by-canton table; cantons whose seats are split have none."
+  },
+  {
+   "id": "ch-council-of-states-2015",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "2015-10-18",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing politik-stat.ch",
+    "url": "https://en.wikipedia.org/wiki/2015_Swiss_federal_election",
+    "revid": 1373030965
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "FDP.The Liberals",
+     "party": "fdpl",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": 2
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 1
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Conservative Democratic Party",
+     "party": "bdp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "regionWinners": {
+    "SZ": "svp",
+    "OW": "fdpl",
+    "NW": "cvp",
+    "BS": "sp",
+    "BL": "sp",
+    "AR": "fdpl",
+    "AI": "cvp",
+    "VS": "cvp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2015_Swiss_federal_election",
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it; the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Christian Democratic People's Party and FDP.The Liberals have 13 seats each; with no votes to separate them, the table's first is flagged as the winner. Region winners: the party holding all of a canton's seats, from the article's by-canton table; cantons whose seats are split have none."
+  },
+  {
+   "id": "ch-council-of-states-2019",
+   "office": "Council of States",
+   "kind": "legislative",
+   "date": "2019-10-20",
+   "totalSeats": 46,
+   "source": {
+    "name": "Wikipedia, citing ch.ch (the federal portal)",
+    "url": "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+    "revid": 1279326026
+   },
+   "candidates": [
+    {
+     "name": "Christian Democratic People's Party",
+     "party": "cvp",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "FDP.The Liberals",
+     "party": "fdpl",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": -1
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sp",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": -3
+    },
+    {
+     "name": "Swiss People's Party",
+     "party": "svp",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "Green Party",
+     "party": "gps",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 4
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "regionWinners": {
+    "AR": "fdpl",
+    "AI": "cvp",
+    "BL": "gps",
+    "BS": "sp",
+    "NW": "fdpl",
+    "OW": "cvp",
+    "VS": "cvp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+   "notes": "Seats are the council's party composition after all rounds, as the article's table gives it; the table has no votes. Members are elected canton by canton, mostly by majority vote with run-offs, so the date is the National Council's polling day. Region winners: the party holding all of a canton's seats, from the article's list of members elected in each canton; cantons whose seats are split have none."
+  }
+ ]
+}

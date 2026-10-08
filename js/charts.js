@@ -40,7 +40,7 @@ export function chamber({ cands, total, majority, chamberSize, annulled, seatLab
   const fills = cands.flatMap(c => Array(Math.max(0, c.seats ?? 0)).fill(party(c.party).color));
   const circles = dots.map((d, i) =>
     `<circle cx="${d.x.toFixed(4)}" cy="${d.y.toFixed(4)}" r="${r.toFixed(4)}"${fills[i] ? ` fill="${fills[i]}"` : ' class="empty"'}/>`).join('');
-  const lead = [...cands].sort((a, b) => (b.seats ?? 0) - (a.seats ?? 0))[0];
+  const lead = cands.find(c => c.winner) ?? [...cands].sort((a, b) => (b.seats ?? 0) - (a.seats ?? 0))[0];
   const short = annulled ? 'Annulled' : chamberSize ? (lead.winner ? 'Most seats won' : 'Leading') : lead.seats >= majority ? 'Majority' : lead.winner ? 'Largest party' : 'Leading';
   const caption = chamberSize
     ? `${fmtInt(total)} of ${fmtInt(chamberSize)} ${seatLabel.toLowerCase()} were up`

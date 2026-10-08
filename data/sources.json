@@ -363,6 +363,22 @@
       "url": "https://tulospalvelu.vaalit.fi",
       "role": "Official results",
       "note": "Publishes the count on its Election Information and Results Service as votes are counted."
+    },
+    "CH": {
+      "access": "public",
+      "name": "Federal Statistical Office",
+      "short": "FSO",
+      "url": "https://www.elections.admin.ch/en/ch/",
+      "role": "Official results",
+      "note": "Publishes the National Council and Council of States results on elections.admin.ch as the cantons count them."
+    },
+    "UA": {
+      "access": "public",
+      "name": "Central Election Commission of Ukraine",
+      "short": "CEC",
+      "url": "https://www.cvk.gov.ua",
+      "role": "Official results",
+      "note": "Publishes the official count and final results. Under martial law, in force since February 2022, no national election can be held."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

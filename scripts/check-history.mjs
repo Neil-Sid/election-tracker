@@ -101,7 +101,8 @@ for (const file of files) {
       const seats = el.candidates.reduce((n, c) => n + (c.seats ?? 0), 0);
       if (!Number.isInteger(el.totalSeats)) errors.push(`${at}: totalSeats missing`);
       else if (seats !== el.totalSeats) errors.push(`${at}: seats add up to ${seats}, totalSeats is ${el.totalSeats}`);
-      const top = [...el.candidates].filter(c => c.party !== 'oth').sort((a, b) => (b.seats ?? 0) - (a.seats ?? 0))[0];
+      // The winner is the largest party, so independents and empty seats may outnumber it.
+      const top = [...el.candidates].filter(c => !['oth', 'ind', 'vac', 'vacant', 'nis'].includes(c.party)).sort((a, b) => (b.seats ?? 0) - (a.seats ?? 0))[0];
       if (winners[0] && top && (winners[0].seats ?? 0) < (top.seats ?? 0)) errors.push(`${at}: winner ${winners[0].party} has fewer seats than ${top.party}`);
     }
     for (const [abbr, party] of Object.entries(el.regionWinners ?? {})) {

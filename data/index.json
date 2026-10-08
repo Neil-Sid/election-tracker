@@ -851,6 +851,48 @@
         "regions"
       ],
       "history": true
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "atlasId": "756",
+      "marker": [
+        8.2,
+        46.8
+      ],
+      "view": {
+        "center": [
+          8.2,
+          46.8
+        ],
+        "span": 2.1
+      },
+      "regionTerm": [
+        "canton",
+        "cantons"
+      ],
+      "history": true
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "atlasId": "804",
+      "marker": [
+        31.2,
+        49
+      ],
+      "view": {
+        "center": [
+          31.3,
+          48.4
+        ],
+        "span": 8
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
     }
   ]
 }

@@ -20,7 +20,7 @@ const DISTRICT_ELECTIONS = {
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const countriesDir = path.join(root, 'data', 'countries');
-const CODES = ['US', 'CA', 'BR', 'AR', 'GB', 'ES', 'FR', 'DE', 'AU', ...Object.keys(NEW), 'NO', 'NZ', 'RU', 'PH', 'CL', 'BO', 'CO', 'PE', 'CZ', 'SK', 'HU', 'GR', 'BE', 'RO', 'DK', 'FI'];
+const CODES = ['US', 'CA', 'BR', 'AR', 'GB', 'ES', 'FR', 'DE', 'AU', ...Object.keys(NEW), 'NO', 'NZ', 'RU', 'PH', 'CL', 'BO', 'CO', 'PE', 'CZ', 'SK', 'HU', 'GR', 'BE', 'RO', 'DK', 'FI', 'CH', 'UA'];
 const SEED_KEYS = ['winners', 'defaultWinner', 'regionSeats', 'partial'];
 
 // Which regions were up, and who won, for races that did not have a region list.
