@@ -86,7 +86,7 @@ js/app.js                   boot, hash router (#/, #/US, #/US/us-senate-2024), l
 js/globe.js                 canvas orthographic globe: drag, inertia, zoom, fly-to, hit-testing, layers
 js/world.js                 loads outlines, regions and districts, with level-of-detail copies
 js/home.js                  home panel: next vote, calendar, roster, latest results
-js/country.js               country panel: results, regions and districts, history, simulation
+js/country.js               country panel: results, regions and districts, history, and an election-night replay with ?debug
 js/charts.js                seat chamber, head-to-head bar, history bars, polling chart
 js/data.js                  loaders; overlays data/live onto data/countries
 js/status.js                live / today / soon / scheduled per country

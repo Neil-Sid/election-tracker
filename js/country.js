@@ -7,6 +7,9 @@ import { chamber, duel, historyRows, pollChart } from './charts.js';
 // has no results for list after the parties.
 const rest = c => ['oth', 'against', 'nota', 'nis', 'vac', 'vacant'].includes(c.party);
 
+// The election-night replay is a debugging aid, shown only with ?debug.
+const debug = new URLSearchParams(location.search).has('debug');
+
 export function renderCountry(panel, ctx, { meta, country: initial, archive, electionId }) {
   const { schedule, globe } = ctx;
   const [term, terms] = meta.regionTerm;
@@ -613,7 +616,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
             <li><span>${u.office}${u.note ? ` · ${u.note}` : ''}</span><span class="muted">${u.tentative ? `Expected ${u.date.slice(0, 4)}` : u.days <= 120 ? `${fmtDate(u.date)} · in ${u.days} days` : fmtDate(u.date)}</span></li>`).join('')}
           </ul>
         </section>` : ''}
-      ${picked ? '' : `
+      ${picked || !debug ? '' : `
         <section class="block sim-block">
           <div>
             <h2 class="block-title">Election night preview</h2>

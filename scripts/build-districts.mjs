@@ -90,6 +90,8 @@ export const SOURCES = {
     source: 'Elections Canada federal electoral districts, 2023 Representation Order',
     simplify: '1.2%',
     land: 'CAN',
+    // Thousands of small Arctic islands cost more to draw than they show.
+    islands: '1000km2',
     map: p => {
       const region = { 10: 'NL', 11: 'PE', 12: 'NS', 13: 'NB', 24: 'QC', 35: 'ON', 46: 'MB', 47: 'SK', 48: 'AB', 59: 'BC', 60: 'YT', 61: 'NT', 62: 'NU' }[String(p.FED_NUM).slice(0, 2)];
       return region ? { key: String(p.FED_NUM), name: p.ED_NAMEE, region } : null;
@@ -236,7 +238,7 @@ async function main() {
     if (!landFile) throw new Error(`${code} districts run out over the sea: pass --land=<Natural Earth admin-1 file>`);
     const ne = JSON.parse(await readFile(landFile, 'utf8'));
     const land = { type: 'FeatureCollection', features: ne.features.filter(f => f.properties.adm0_a3 === cfg.land) };
-    shapes = JSON.parse((await mapshaper.applyCommands('-i in.json -clip land.json -o out.json format=geojson',
+    shapes = JSON.parse((await mapshaper.applyCommands(`-i in.json -clip land.json ${cfg.islands ? `-filter-islands min-area=${cfg.islands} ` : ''}-o out.json format=geojson`,
       { 'in.json': cleaned, 'land.json': land }))['out.json']);
     const lost = cleaned.features.filter(f => !shapes.features.some(g => g.properties.id === f.properties.id && g.geometry));
     if (lost.length) throw new Error(`Clipping to land removed ${lost.map(f => f.properties.name).join(', ')}`);
