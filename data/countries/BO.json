@@ -1,0 +1,635 @@
+{
+  "code": "BO",
+  "name": "Bolivia",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "Plurinational Legislative Assembly: Chamber of Deputies (130) and Chamber of Senators (36)",
+    "votingAge": 18,
+    "compulsory": true,
+    "registered": 7936515,
+    "offices": {
+      "President": "Elected with the vice-president for a five-year term in a modified two-round system: a candidate wins outright with more than 50% of the vote, or at least 40% and a ten-point lead; otherwise the top two meet in a run-off. Until 2009 Congress chose the president when no candidate won a majority.",
+      "Chamber of Deputies": "The 130 deputies are elected for five years by a mixed system: 63 in single-member districts, 60 from closed departmental lists topped up in proportion to the presidential vote, and 7 indigenous seats chosen by customary law. It makes the laws together with the Chamber of Senators.",
+      "Senate": "The 36 senators, four from each of the nine departments, are elected from closed party lists by the d'Hondt method, with seats awarded on the presidential vote. The Senate shares law-making with the Chamber of Deputies."
+    }
+  },
+  "parties": {
+    "mnr": {
+      "name": "Revolutionary Nationalist Movement",
+      "color": "#F19CBB"
+    },
+    "purs": {
+      "name": "Socialist Republican Union Party",
+      "color": "#FF0000"
+    },
+    "pir": {
+      "name": "Revolutionary Left Party",
+      "color": "#8B0000"
+    },
+    "pl": {
+      "name": "Liberal Party",
+      "color": "#FFD700"
+    },
+    "psd": {
+      "name": "Social Democratic Party",
+      "color": "#49796B"
+    },
+    "fsb": {
+      "name": "Bolivian Socialist Falange",
+      "color": "#0047AB"
+    },
+    "acb": {
+      "name": "Bolivian Civic Action",
+      "color": "#008080"
+    },
+    "pcb": {
+      "name": "Communist Party",
+      "color": "#FF0000"
+    },
+    "pdc": {
+      "name": "Christian Democratic Party",
+      "color": "#016167"
+    },
+    "pra": {
+      "name": "Authentic Revolutionary Party",
+      "color": "#5A4FCF"
+    },
+    "fab": {
+      "name": "Anti-Communist Bolivian Front",
+      "color": "#5866B1"
+    },
+    "ucn": {
+      "name": "National Civic Union",
+      "color": "#C49A6C"
+    },
+    "prin": {
+      "name": "Revolutionary Party of the National Left",
+      "color": "#5D6D7E"
+    },
+    "frb": {
+      "name": "Front of the Bolivian Revolution",
+      "color": "#FF8C00"
+    },
+    "cdc": {
+      "name": "Christian Democratic Community",
+      "color": "#00008B"
+    },
+    "mnrp": {
+      "name": "Revolutionary Nationalist Movement of the People",
+      "color": "#AA336A"
+    },
+    "flin": {
+      "name": "Liberation Front of the National Left",
+      "color": "#0047AB"
+    },
+    "aid": {
+      "name": "Democratic Institutionalist Alliance",
+      "color": "#C70000"
+    },
+    "unp": {
+      "name": "Nationalist Union of the People",
+      "color": "#869A8F"
+    },
+    "udp": {
+      "name": "Democratic and Popular Unity",
+      "color": "#FFA500"
+    },
+    "adrn": {
+      "name": "Democratic Alliance of the National Revolution",
+      "color": "#F19CBB"
+    },
+    "fri": {
+      "name": "Revolutionary Left Front",
+      "color": "#FF0000"
+    },
+    "mitka": {
+      "name": "Túpac Katari Indian Movement",
+      "color": "#DECE34"
+    },
+    "ps1": {
+      "name": "Socialist Party – 1",
+      "color": "#DF0024"
+    },
+    "mnri": {
+      "name": "Left-wing Revolutionary Nationalist Movement",
+      "color": "#996633"
+    },
+    "mnral": {
+      "name": "Revolutionary Nationalist Movement – Alliance",
+      "color": "#F19CBB"
+    },
+    "adn": {
+      "name": "Nationalist Democratic Action",
+      "color": "#000000"
+    },
+    "apin": {
+      "name": "Popular Alliance for National Integration",
+      "color": "#0047AB"
+    },
+    "pub": {
+      "name": "Bolivian Union Party",
+      "color": "#6B8E23"
+    },
+    "vo": {
+      "name": "Workers' Vanguard",
+      "color": "#8B5A2B"
+    },
+    "fdrna": {
+      "name": "Democratic Revolutionary Front – New Alternative",
+      "color": "#008080"
+    },
+    "mnru": {
+      "name": "United Revolutionary Nationalist Movement",
+      "color": "#EB23BC"
+    },
+    "afin": {
+      "name": "Alliance of Nationalist Left Forces of the MNR",
+      "color": "#EB737E"
+    },
+    "mitka1": {
+      "name": "Túpac Katari Indian Movement – 1",
+      "color": "#D48FF7"
+    },
+    "mir": {
+      "name": "Revolutionary Left Movement",
+      "color": "#FF8000"
+    },
+    "vr9a": {
+      "name": "Revolutionary Vanguard of 9 April",
+      "color": "#9C0EE3"
+    },
+    "fpu": {
+      "name": "United People's Front",
+      "color": "#8C2020"
+    },
+    "mrtkl": {
+      "name": "Túpac Katari Revolutionary Liberation Movement",
+      "color": "#A57DAD"
+    },
+    "mrtk": {
+      "name": "Túpac Katari Revolutionary Movement",
+      "color": "#800080"
+    },
+    "condepa": {
+      "name": "Conscience of Fatherland",
+      "color": "#B8860B"
+    },
+    "iu": {
+      "name": "United Left",
+      "color": "#FFE44A"
+    },
+    "fulka": {
+      "name": "Katarist United Liberation Front",
+      "color": "#A0785A"
+    },
+    "ap": {
+      "name": "Patriotic Accord",
+      "color": "#9B2335"
+    },
+    "ucs": {
+      "name": "Solidarity Civic Unity",
+      "color": "#00A8EC"
+    },
+    "mbl": {
+      "name": "Free Bolivia Movement",
+      "color": "#BDB76B"
+    },
+    "arbol": {
+      "name": "Bolivian Renewal Alliance",
+      "color": "#286B50"
+    },
+    "asd": {
+      "name": "Alternative to Democratic Socialism",
+      "color": "#EE82EE"
+    },
+    "eje": {
+      "name": "Pachakuti Axis",
+      "color": "#8B0000"
+    },
+    "vsb": {
+      "name": "Bolivian Socialist Vanguard",
+      "color": "#EE82EE"
+    },
+    "nfr": {
+      "name": "New Republican Force",
+      "color": "#8C479B"
+    },
+    "mas": {
+      "name": "Movement for Socialism",
+      "color": "#143A83"
+    },
+    "mip": {
+      "name": "Pachakuti Indigenous Movement",
+      "color": "#F13E42"
+    },
+    "ps71": {
+      "name": "Socialist Party",
+      "color": "#8B1A4A"
+    },
+    "plj": {
+      "name": "Freedom and Justice Party",
+      "color": "#EAFF33"
+    },
+    "podemos": {
+      "name": "Social Democratic Power",
+      "color": "#F0001C"
+    },
+    "un": {
+      "name": "National Unity Front",
+      "color": "#FFD700"
+    },
+    "ppb": {
+      "name": "Plan Progress for Bolivia – National Convergence",
+      "color": "#E20A17"
+    },
+    "as": {
+      "name": "Social Alliance",
+      "color": "#008000"
+    },
+    "ud": {
+      "name": "Democratic Unity",
+      "color": "#FFD700"
+    },
+    "msm": {
+      "name": "Fearless Movement",
+      "color": "#8EC641"
+    },
+    "pvb": {
+      "name": "Green Party of Bolivia",
+      "color": "#027E42"
+    },
+    "cc": {
+      "name": "Civic Community",
+      "color": "#F26524"
+    },
+    "mds": {
+      "name": "Social Democratic Movement",
+      "color": "#4CBB17"
+    },
+    "mts": {
+      "name": "Third System Movement",
+      "color": "#D08B62"
+    },
+    "fpv": {
+      "name": "Front for Victory",
+      "color": "#05654A"
+    },
+    "creemos": {
+      "name": "Creemos",
+      "color": "#D02D69"
+    },
+    "unidad": {
+      "name": "Unity",
+      "color": "#FDB713"
+    },
+    "libre": {
+      "name": "Libre",
+      "color": "#C92B22"
+    },
+    "apop": {
+      "name": "Popular Alliance",
+      "color": "#8DC63F"
+    },
+    "apbs": {
+      "name": "APB Súmate",
+      "color": "#511865"
+    },
+    "bia": {
+      "name": "Yuqui Bia Recuate Indigenous Council",
+      "color": "#EF84AE"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "bo-president-2025",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2025-08-17",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 85.32,
+      "system": "Two-round popular vote, five-year term",
+      "cite": {
+        "name": "the Plurinational Electoral Organ (OEP)",
+        "url": "https://en.wikipedia.org/wiki/2025_Bolivian_general_election"
+      },
+      "candidates": [
+        {
+          "name": "Rodrigo Paz",
+          "party": "pdc",
+          "votes": 3519534,
+          "pct": 54.96,
+          "winner": true
+        },
+        {
+          "name": "Jorge Quiroga",
+          "party": "libre",
+          "votes": 2884661,
+          "pct": 45.04
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2025-08-17",
+          "candidates": [
+            {
+              "name": "Rodrigo Paz",
+              "party": "pdc",
+              "votes": 1717432,
+              "pct": 32.06
+            },
+            {
+              "name": "Jorge Quiroga",
+              "party": "libre",
+              "votes": 1430176,
+              "pct": 26.7
+            },
+            {
+              "name": "Samuel Doria Medina",
+              "party": "unidad",
+              "votes": 1054568,
+              "pct": 19.69
+            },
+            {
+              "name": "Andrónico Rodríguez",
+              "party": "apop",
+              "votes": 456002,
+              "pct": 8.51
+            },
+            {
+              "name": "Manfred Reyes Villa",
+              "party": "apbs",
+              "votes": 361640,
+              "pct": 6.75
+            },
+            {
+              "name": "Eduardo Del Castillo",
+              "party": "mas",
+              "votes": 169887,
+              "pct": 3.17
+            },
+            {
+              "name": "Jhonny Fernández",
+              "party": "ucs",
+              "votes": 89253,
+              "pct": 1.67
+            },
+            {
+              "name": "Pavel Aracena",
+              "party": "adn",
+              "votes": 77576,
+              "pct": 1.45
+            }
+          ],
+          "regions": [
+            {"name":"Beni","abbr":"B","winner":"pdc","margin":3.5,"turnout":79.4,"votes":709597,"results":[{"party":"pdc","pct":36.4,"votes":258293},{"party":"libre","pct":32.9,"votes":233457},{"party":"unidad","pct":18.2,"votes":129147},{"party":"apop","pct":9.3,"votes":65993},{"party":"apbs","pct":3.3,"votes":23417}]},
+            {"name":"Chuquisaca","abbr":"H","winner":"pdc","margin":27,"turnout":84.1,"votes":550474,"results":[{"party":"pdc","pct":48.2,"votes":265328},{"party":"unidad","pct":21.2,"votes":116700},{"party":"libre","pct":20.8,"votes":114499},{"party":"apop","pct":5.2,"votes":28625},{"party":"apbs","pct":4.5,"votes":24771}]},
+            {"name":"Cochabamba","abbr":"C","winner":"pdc","margin":31.2,"turnout":88.7,"votes":573871,"results":[{"party":"pdc","pct":49.8,"votes":285788},{"party":"unidad","pct":18.6,"votes":106740},{"party":"libre","pct":16,"votes":91819},{"party":"apop","pct":9.5,"votes":54518},{"party":"apbs","pct":6.1,"votes":35006}]},
+            {"name":"La Paz","abbr":"L","winner":"libre","margin":10.4,"turnout":79.2,"votes":587678,"results":[{"party":"libre","pct":36.5,"votes":214502},{"party":"unidad","pct":26.1,"votes":153384},{"party":"pdc","pct":17.6,"votes":103431},{"party":"apop","pct":11.6,"votes":68171},{"party":"apbs","pct":8.2,"votes":48190}]},
+            {"name":"Oruro","abbr":"O","winner":"pdc","margin":9.6,"turnout":85.4,"votes":534782,"results":[{"party":"pdc","pct":39.3,"votes":210169},{"party":"libre","pct":29.7,"votes":158830},{"party":"unidad","pct":17.2,"votes":91983},{"party":"apop","pct":7.3,"votes":39039},{"party":"apbs","pct":6.4,"votes":34226}]},
+            {"name":"Pando","abbr":"N","winner":"libre","margin":0.4,"turnout":87.8,"votes":573965,"results":[{"party":"libre","pct":30.4,"votes":174485},{"party":"pdc","pct":30,"votes":172190},{"party":"unidad","pct":20.2,"votes":115941},{"party":"apop","pct":11,"votes":63136},{"party":"apbs","pct":8.5,"votes":48787}]},
+            {"name":"Potosí","abbr":"P","winner":"pdc","margin":9.4,"turnout":83.3,"votes":479233,"results":[{"party":"pdc","pct":39.6,"votes":189776},{"party":"libre","pct":30.2,"votes":144728},{"party":"unidad","pct":14.9,"votes":71406},{"party":"apop","pct":10,"votes":47923},{"party":"apbs","pct":5.3,"votes":25399}]},
+            {"name":"Santa Cruz","abbr":"S","winner":"pdc","margin":14.7,"turnout":86.9,"votes":709053,"results":[{"party":"pdc","pct":41.7,"votes":295675},{"party":"libre","pct":27,"votes":191444},{"party":"unidad","pct":17.9,"votes":126920},{"party":"apbs","pct":7,"votes":49634},{"party":"apop","pct":6.3,"votes":44670}]},
+            {"name":"Tarija","abbr":"T","winner":"libre","margin":0.2,"turnout":91.7,"votes":606252,"results":[{"party":"libre","pct":28.8,"votes":174601},{"party":"pdc","pct":28.6,"votes":173388},{"party":"unidad","pct":24.7,"votes":149744},{"party":"apbs","pct":10.7,"votes":64869},{"party":"apop","pct":7.2,"votes":43650}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2025-10-19",
+          "candidates": [
+            {
+              "name": "Rodrigo Paz",
+              "party": "pdc",
+              "votes": 3519534,
+              "pct": 54.96,
+              "winner": true
+            },
+            {
+              "name": "Jorge Quiroga",
+              "party": "libre",
+              "votes": 2884661,
+              "pct": 45.04
+            }
+          ],
+          "regions": [
+            {"name":"Beni","abbr":"B","winner":"pdc","margin":12.6,"turnout":81,"votes":608886,"results":[{"party":"pdc","pct":56.3,"votes":342803},{"party":"libre","pct":43.7,"votes":266083}]},
+            {"name":"Chuquisaca","abbr":"H","winner":"libre","margin":1.8,"turnout":87.7,"votes":573468,"results":[{"party":"libre","pct":50.9,"votes":291895},{"party":"pdc","pct":49.1,"votes":281573}]},
+            {"name":"Cochabamba","abbr":"C","winner":"pdc","margin":20.8,"turnout":88.5,"votes":646175,"results":[{"party":"pdc","pct":60.4,"votes":390290},{"party":"libre","pct":39.6,"votes":255885}]},
+            {"name":"La Paz","abbr":"L","winner":"pdc","margin":36.6,"turnout":79.7,"votes":676054,"results":[{"party":"pdc","pct":68.3,"votes":461745},{"party":"libre","pct":31.7,"votes":214309}]},
+            {"name":"Oruro","abbr":"O","winner":"libre","margin":8.2,"turnout":83,"votes":660855,"results":[{"party":"libre","pct":54.1,"votes":357523},{"party":"pdc","pct":45.9,"votes":303332}]},
+            {"name":"Pando","abbr":"N","winner":"libre","margin":4.6,"turnout":78.5,"votes":645566,"results":[{"party":"libre","pct":52.3,"votes":337631},{"party":"pdc","pct":47.7,"votes":307935}]},
+            {"name":"Potosí","abbr":"P","winner":"libre","margin":26,"turnout":84.4,"votes":714106,"results":[{"party":"libre","pct":63,"votes":449887},{"party":"pdc","pct":37,"votes":264219}]},
+            {"name":"Santa Cruz","abbr":"S","winner":"pdc","margin":48.8,"turnout":80,"votes":581744,"results":[{"party":"pdc","pct":74.4,"votes":432818},{"party":"libre","pct":25.6,"votes":148926}]},
+            {"name":"Tarija","abbr":"T","winner":"pdc","margin":50.2,"turnout":83.7,"votes":691773,"results":[{"party":"pdc","pct":75.1,"votes":519522},{"party":"libre","pct":24.9,"votes":172251}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo-chamber-2025",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2025-08-17",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 88.96,
+      "system": "130 seats, mixed-member proportional",
+      "totalSeats": 130,
+      "majority": 66,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Plurinational Electoral Organ (OEP)",
+        "url": "https://en.wikipedia.org/wiki/2025_Bolivian_general_election"
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1683891,
+          "pct": 32.15,
+          "seats": 49,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Libre – Liberty and Democracy",
+          "party": "libre",
+          "votes": 1397226,
+          "pct": 26.68,
+          "seats": 39,
+          "change": null
+        },
+        {
+          "name": "Unity Bloc",
+          "party": "unidad",
+          "votes": 1039426,
+          "pct": 19.85,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Popular Alliance",
+          "party": "apop",
+          "votes": 439388,
+          "pct": 8.39,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Autonomy for Bolivia – Súmate",
+          "party": "apbs",
+          "votes": 347574,
+          "pct": 6.64,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Movimiento al Socialismo",
+          "party": "mas",
+          "votes": 166917,
+          "pct": 3.19,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Yuqui Bia Recuate Indigenous Council",
+          "party": "bia",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Force of the People",
+          "party": "ucs",
+          "votes": 86154,
+          "pct": 1.65,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Liberty and Progress ADN",
+          "party": "adn",
+          "votes": 76349,
+          "pct": 1.46,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Beni","abbr":"B","winner":"pdc","margin":15.4,"turnout":82.2,"votes":609163,"results":[{"party":"pdc","pct":44.1,"votes":268641},{"party":"libre","pct":28.7,"votes":174830},{"party":"unidad","pct":12.9,"votes":78582},{"party":"apop","pct":9.5,"votes":57870},{"party":"apbs","pct":4.9,"votes":29849}]},
+        {"name":"Chuquisaca","abbr":"H","winner":"pdc","margin":6.7,"turnout":90,"votes":507872,"results":[{"party":"pdc","pct":34.7,"votes":176232},{"party":"libre","pct":28,"votes":142204},{"party":"unidad","pct":17.6,"votes":89385},{"party":"apop","pct":10.3,"votes":52311},{"party":"apbs","pct":9.3,"votes":47232}]},
+        {"name":"Cochabamba","abbr":"C","winner":"libre","margin":2.2,"turnout":85.2,"votes":564358,"results":[{"party":"libre","pct":31.8,"votes":179466},{"party":"pdc","pct":29.6,"votes":167050},{"party":"unidad","pct":23.3,"votes":131495},{"party":"apop","pct":10.7,"votes":60386},{"party":"apbs","pct":4.6,"votes":25960}]},
+        {"name":"La Paz","abbr":"L","winner":"unidad","margin":7.3,"turnout":88.7,"votes":525033,"results":[{"party":"unidad","pct":36.6,"votes":192162},{"party":"pdc","pct":29.3,"votes":153835},{"party":"libre","pct":17.4,"votes":91356},{"party":"apbs","pct":10.7,"votes":56179},{"party":"apop","pct":6,"votes":31502}]},
+        {"name":"Oruro","abbr":"O","winner":"libre","margin":5.2,"turnout":83.1,"votes":530220,"results":[{"party":"libre","pct":35.6,"votes":188758},{"party":"pdc","pct":30.4,"votes":161187},{"party":"unidad","pct":19.4,"votes":102863},{"party":"apop","pct":7.7,"votes":40827},{"party":"apbs","pct":6.9,"votes":36585}]},
+        {"name":"Pando","abbr":"N","winner":"pdc","margin":11.6,"turnout":88.7,"votes":550754,"results":[{"party":"pdc","pct":34.6,"votes":190561},{"party":"libre","pct":23,"votes":126673},{"party":"unidad","pct":21.3,"votes":117311},{"party":"apop","pct":14.3,"votes":78758},{"party":"apbs","pct":6.9,"votes":38002}]},
+        {"name":"Potosí","abbr":"P","winner":"libre","margin":0.6,"turnout":89.7,"votes":468946,"results":[{"party":"libre","pct":32.7,"votes":153345},{"party":"pdc","pct":32.1,"votes":150532},{"party":"unidad","pct":23.1,"votes":108327},{"party":"apop","pct":7.7,"votes":36109},{"party":"apbs","pct":4.5,"votes":21103}]},
+        {"name":"Santa Cruz","abbr":"S","winner":"pdc","margin":0.1,"turnout":84.9,"votes":598964,"results":[{"party":"pdc","pct":37.9,"votes":227007},{"party":"libre","pct":37.8,"votes":226408},{"party":"unidad","pct":12,"votes":71876},{"party":"apbs","pct":8,"votes":47917},{"party":"apop","pct":4.3,"votes":25755}]},
+        {"name":"Tarija","abbr":"T","winner":"pdc","margin":19.2,"turnout":93.2,"votes":509025,"results":[{"party":"pdc","pct":42.6,"votes":216845},{"party":"unidad","pct":23.4,"votes":119112},{"party":"libre","pct":22.7,"votes":115549},{"party":"apbs","pct":5.8,"votes":29523},{"party":"apop","pct":5.5,"votes":27996}]}
+      ]
+    },
+    {
+      "id": "bo-senate-2025",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2025-08-17",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 88.96,
+      "system": "36 seats, four per department",
+      "totalSeats": 36,
+      "majority": 19,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Plurinational Electoral Organ (OEP)",
+        "url": "https://en.wikipedia.org/wiki/2025_Bolivian_general_election"
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1683891,
+          "pct": 32.15,
+          "seats": 16,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Libre – Liberty and Democracy",
+          "party": "libre",
+          "votes": 1397226,
+          "pct": 26.68,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Unity Bloc",
+          "party": "unidad",
+          "votes": 1039426,
+          "pct": 19.85,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Autonomy for Bolivia – Súmate",
+          "party": "apbs",
+          "votes": 347574,
+          "pct": 6.64,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Popular Alliance",
+          "party": "apop",
+          "votes": 439388,
+          "pct": 8.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Movimiento al Socialismo",
+          "party": "mas",
+          "votes": 166917,
+          "pct": 3.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Force of the People",
+          "party": "ucs",
+          "votes": 86154,
+          "pct": 1.65,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Liberty and Progress ADN",
+          "party": "adn",
+          "votes": 76349,
+          "pct": 1.46,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Beni","abbr":"B","winner":"pdc","margin":5.8,"turnout":84.1,"votes":604304,"results":[{"party":"pdc","pct":33.4,"votes":201838},{"party":"unidad","pct":27.6,"votes":166788},{"party":"libre","pct":18.9,"votes":114213},{"party":"apop","pct":11.1,"votes":67078},{"party":"apbs","pct":8.9,"votes":53783}]},
+        {"name":"Chuquisaca","abbr":"H","winner":"libre","margin":4.8,"turnout":85.7,"votes":622519,"results":[{"party":"libre","pct":34.4,"votes":214147},{"party":"pdc","pct":29.6,"votes":184266},{"party":"apop","pct":13.6,"votes":84663},{"party":"unidad","pct":13.2,"votes":82173},{"party":"apbs","pct":9.2,"votes":57272}]},
+        {"name":"Cochabamba","abbr":"C","winner":"pdc","margin":4.2,"turnout":86.3,"votes":666717,"results":[{"party":"pdc","pct":29.4,"votes":196015},{"party":"unidad","pct":25.2,"votes":168013},{"party":"libre","pct":24.8,"votes":165346},{"party":"apop","pct":13.4,"votes":89340},{"party":"apbs","pct":7.2,"votes":48004}]},
+        {"name":"La Paz","abbr":"L","winner":"libre","margin":2.5,"turnout":95.2,"votes":666520,"results":[{"party":"libre","pct":31.3,"votes":208621},{"party":"unidad","pct":28.8,"votes":191958},{"party":"pdc","pct":23.6,"votes":157299},{"party":"apbs","pct":8.6,"votes":57321},{"party":"apop","pct":7.7,"votes":51322}]},
+        {"name":"Oruro","abbr":"O","winner":"pdc","margin":21.4,"turnout":91.6,"votes":474406,"results":[{"party":"pdc","pct":45.7,"votes":216804},{"party":"libre","pct":24.3,"votes":115281},{"party":"unidad","pct":13.6,"votes":64519},{"party":"apbs","pct":9.8,"votes":46492},{"party":"apop","pct":6.7,"votes":31785}]},
+        {"name":"Pando","abbr":"N","winner":"libre","margin":1.9,"turnout":94.9,"votes":610852,"results":[{"party":"libre","pct":32.7,"votes":199749},{"party":"pdc","pct":30.8,"votes":188142},{"party":"unidad","pct":18.9,"votes":115451},{"party":"apop","pct":11.5,"votes":70248},{"party":"apbs","pct":6.1,"votes":37262}]},
+        {"name":"Potosí","abbr":"P","winner":"libre","margin":12.6,"turnout":94.7,"votes":607583,"results":[{"party":"libre","pct":39.7,"votes":241210},{"party":"pdc","pct":27.1,"votes":164655},{"party":"unidad","pct":14.4,"votes":87492},{"party":"apbs","pct":9.8,"votes":59543},{"party":"apop","pct":9,"votes":54682}]},
+        {"name":"Santa Cruz","abbr":"S","winner":"libre","margin":12.7,"turnout":89.8,"votes":644073,"results":[{"party":"libre","pct":33.9,"votes":218341},{"party":"unidad","pct":21.2,"votes":136543},{"party":"pdc","pct":20.9,"votes":134611},{"party":"apop","pct":13.2,"votes":85018},{"party":"apbs","pct":10.7,"votes":68916}]},
+        {"name":"Tarija","abbr":"T","winner":"pdc","margin":16.4,"turnout":82.9,"votes":527781,"results":[{"party":"pdc","pct":42.7,"votes":225362},{"party":"libre","pct":26.3,"votes":138806},{"party":"unidad","pct":17.2,"votes":90778},{"party":"apbs","pct":8.7,"votes":45917},{"party":"apop","pct":5,"votes":26389}]}
+      ]
+    }
+  ]
+}

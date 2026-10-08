@@ -1,0 +1,4330 @@
+{
+ "code": "BO",
+ "parties": {
+  "mnr": {
+   "name": "Revolutionary Nationalist Movement",
+   "color": "#F19CBB",
+   "article": "Revolutionary Nationalist Movement"
+  },
+  "purs": {
+   "name": "Socialist Republican Union Party",
+   "color": "#FF0000",
+   "article": "Socialist Republican Union Party"
+  },
+  "pir": {
+   "name": "Revolutionary Left Party",
+   "color": "#8B0000",
+   "article": "Revolutionary Left Party"
+  },
+  "pl": {
+   "name": "Liberal Party",
+   "color": "#FFD700",
+   "article": "Liberal Party (Bolivia)"
+  },
+  "psd": {
+   "name": "Social Democratic Party",
+   "color": "#49796B",
+   "article": "Social Democratic Party (Bolivia)"
+  },
+  "fsb": {
+   "name": "Bolivian Socialist Falange",
+   "color": "#0047AB",
+   "article": "Bolivian Socialist Falange"
+  },
+  "acb": {
+   "name": "Bolivian Civic Action",
+   "color": "#008080",
+   "article": "Bolivian Civic Action"
+  },
+  "pcb": {
+   "name": "Communist Party",
+   "color": "#FF0000",
+   "article": "Communist Party of Bolivia"
+  },
+  "pdc": {
+   "name": "Christian Democratic Party",
+   "color": "#016167",
+   "article": "Christian Democratic Party (Bolivia)"
+  },
+  "pra": {
+   "name": "Authentic Revolutionary Party",
+   "color": "#5A4FCF",
+   "article": "Authentic Revolutionary Party"
+  },
+  "fab": {
+   "name": "Anti-Communist Bolivian Front",
+   "color": "#5866B1",
+   "article": "Anti-Communist Bolivian Front"
+  },
+  "ucn": {
+   "name": "National Civic Union",
+   "color": "#C49A6C",
+   "article": "National Civic Union (Bolivia)"
+  },
+  "prin": {
+   "name": "Revolutionary Party of the National Left",
+   "color": "#5D6D7E",
+   "article": "Revolutionary Party of the National Left"
+  },
+  "frb": {
+   "name": "Front of the Bolivian Revolution",
+   "color": "#FF8C00",
+   "article": "Front of the Bolivian Revolution"
+  },
+  "cdc": {
+   "name": "Christian Democratic Community",
+   "color": "#00008B",
+   "article": "Christian Democratic Community"
+  },
+  "mnrp": {
+   "name": "Revolutionary Nationalist Movement of the People",
+   "color": "#AA336A",
+   "article": "Revolutionary Nationalist Movement of the People"
+  },
+  "flin": {
+   "name": "Liberation Front of the National Left",
+   "color": "#0047AB",
+   "article": "Liberation Front of the National Left"
+  },
+  "aid": {
+   "name": "Democratic Institutionalist Alliance",
+   "color": "#C70000",
+   "article": "Democratic Institutionalist Alliance"
+  },
+  "unp": {
+   "name": "Nationalist Union of the People",
+   "color": "#869A8F",
+   "article": "Nationalist Union of the People"
+  },
+  "udp": {
+   "name": "Democratic and Popular Unity",
+   "color": "#FFA500",
+   "article": "Democratic and Popular Unity"
+  },
+  "adrn": {
+   "name": "Democratic Alliance of the National Revolution",
+   "color": "#F19CBB",
+   "article": "Democratic Alliance of the National Revolution"
+  },
+  "fri": {
+   "name": "Revolutionary Left Front",
+   "color": "#FF0000",
+   "article": "Revolutionary Left Front (Bolivia)"
+  },
+  "mitka": {
+   "name": "Túpac Katari Indian Movement",
+   "color": "#DECE34",
+   "article": "Túpac Katari Indian Movement"
+  },
+  "ps1": {
+   "name": "Socialist Party – 1",
+   "color": "#DF0024",
+   "article": "Socialist Party – 1"
+  },
+  "mnri": {
+   "name": "Left-wing Revolutionary Nationalist Movement",
+   "color": "#996633",
+   "article": "Left-wing Revolutionary Nationalist Movement"
+  },
+  "mnral": {
+   "name": "Revolutionary Nationalist Movement – Alliance",
+   "color": "#F19CBB",
+   "article": "Revolutionary Nationalist Movement – Alliance"
+  },
+  "adn": {
+   "name": "Nationalist Democratic Action",
+   "color": "#000000",
+   "article": "Nationalist Democratic Action"
+  },
+  "apin": {
+   "name": "Popular Alliance for National Integration",
+   "color": "#0047AB",
+   "article": "Popular Alliance for National Integration"
+  },
+  "pub": {
+   "name": "Bolivian Union Party",
+   "color": "#6B8E23",
+   "article": "Bolivian Union Party"
+  },
+  "vo": {
+   "name": "Workers' Vanguard",
+   "color": "#8B5A2B",
+   "article": "Workers' Vanguard (political party)"
+  },
+  "fdrna": {
+   "name": "Democratic Revolutionary Front – New Alternative",
+   "color": "#008080",
+   "article": "Democratic Revolutionary Front – New Alternative"
+  },
+  "mnru": {
+   "name": "United Revolutionary Nationalist Movement",
+   "color": "#EB23BC",
+   "article": "United Revolutionary Nationalist Movement"
+  },
+  "afin": {
+   "name": "Alliance of Nationalist Left Forces of the MNR",
+   "color": "#EB737E",
+   "article": "Alliance of Nationalist Left Forces of the MNR"
+  },
+  "mitka1": {
+   "name": "Túpac Katari Indian Movement – 1",
+   "color": "#D48FF7",
+   "article": "Túpac Katari Indian Movement – 1"
+  },
+  "mir": {
+   "name": "Revolutionary Left Movement",
+   "color": "#FF8000",
+   "article": "Revolutionary Left Movement (Bolivia)"
+  },
+  "vr9a": {
+   "name": "Revolutionary Vanguard of 9 April",
+   "color": "#9C0EE3"
+  },
+  "fpu": {
+   "name": "United People's Front",
+   "color": "#8C2020",
+   "article": "MISSING:United People's Front (Bolivia)"
+  },
+  "mrtkl": {
+   "name": "Túpac Katari Revolutionary Liberation Movement",
+   "color": "#A57DAD",
+   "article": "Túpac Katari Revolutionary Liberation Movement"
+  },
+  "mrtk": {
+   "name": "Túpac Katari Revolutionary Movement",
+   "color": "#800080",
+   "article": "Túpac Katari Revolutionary Movement"
+  },
+  "condepa": {
+   "name": "Conscience of Fatherland",
+   "color": "#B8860B",
+   "article": "Conscience of Fatherland"
+  },
+  "iu": {
+   "name": "United Left",
+   "color": "#FFE44A",
+   "article": "United Left (Bolivia)"
+  },
+  "fulka": {
+   "name": "Katarist United Liberation Front",
+   "color": "#A0785A",
+   "article": "Katarist United Liberation Front"
+  },
+  "ap": {
+   "name": "Patriotic Accord",
+   "color": "#9B2335",
+   "article": "Patriotic Accord"
+  },
+  "ucs": {
+   "name": "Solidarity Civic Unity",
+   "color": "#00A8EC",
+   "article": "Solidarity Civic Unity"
+  },
+  "mbl": {
+   "name": "Free Bolivia Movement",
+   "color": "#BDB76B",
+   "article": "Free Bolivia Movement"
+  },
+  "arbol": {
+   "name": "Bolivian Renewal Alliance",
+   "color": "#286B50",
+   "article": "MISSING:Bolivian Renewal Alliance"
+  },
+  "asd": {
+   "name": "Alternative to Democratic Socialism",
+   "color": "#EE82EE",
+   "article": "MISSING:Alternative to Democratic Socialism"
+  },
+  "eje": {
+   "name": "Pachakuti Axis",
+   "color": "#8B0000",
+   "article": "MISSING:Pachakuti Axis"
+  },
+  "vsb": {
+   "name": "Bolivian Socialist Vanguard",
+   "color": "#EE82EE"
+  },
+  "nfr": {
+   "name": "New Republican Force",
+   "color": "#8C479B",
+   "article": "New Republican Force"
+  },
+  "mas": {
+   "name": "Movement for Socialism",
+   "color": "#143A83",
+   "article": "Movimiento al Socialismo"
+  },
+  "mip": {
+   "name": "Pachakuti Indigenous Movement",
+   "color": "#F13E42",
+   "article": "Pachakuti Indigenous Movement"
+  },
+  "ps71": {
+   "name": "Socialist Party",
+   "color": "#8B1A4A",
+   "article": "Socialist Party (Bolivia, 1971)"
+  },
+  "plj": {
+   "name": "Freedom and Justice Party",
+   "color": "#EAFF33"
+  },
+  "podemos": {
+   "name": "Social Democratic Power",
+   "color": "#F0001C",
+   "article": "Social Democratic Power"
+  },
+  "un": {
+   "name": "National Unity Front",
+   "color": "#FFD700",
+   "article": "National Unity Front"
+  },
+  "ppb": {
+   "name": "Plan Progress for Bolivia – National Convergence",
+   "color": "#E20A17",
+   "article": "Plan Progress for Bolivia – National Convergence"
+  },
+  "as": {
+   "name": "Social Alliance",
+   "color": "#008000",
+   "article": "Social Alliance"
+  },
+  "ud": {
+   "name": "Democratic Unity",
+   "color": "#FFD700",
+   "article": "Democratic Unity"
+  },
+  "msm": {
+   "name": "Fearless Movement",
+   "color": "#8EC641",
+   "article": "Fearless Movement"
+  },
+  "pvb": {
+   "name": "Green Party of Bolivia",
+   "color": "#027E42",
+   "article": "Green Party of Bolivia"
+  },
+  "cc": {
+   "name": "Civic Community",
+   "color": "#F26524",
+   "article": "Civic Community"
+  },
+  "mds": {
+   "name": "Social Democratic Movement",
+   "color": "#4CBB17",
+   "article": "Social Democratic Movement"
+  },
+  "mts": {
+   "name": "Third System Movement",
+   "color": "#D08B62"
+  },
+  "fpv": {
+   "name": "Front for Victory",
+   "color": "#05654A"
+  },
+  "creemos": {
+   "name": "Creemos",
+   "color": "#D02D69",
+   "article": "Creemos"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "bo-chamber-1949",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1949-05-01",
+   "note": "Restricted franchise",
+   "totalSeats": 111,
+   "source": {
+    "name": "Wikipedia, citing the New International Year Book and the Political Handbook of the World",
+    "url": "https://en.wikipedia.org/wiki/1949_Bolivian_legislative_election",
+    "revid": 1359110812
+   },
+   "candidates": [
+    {
+     "name": "Republican Socialist Unity Party",
+     "party": "purs",
+     "seats": 56,
+     "change": 11,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Left Party",
+     "party": "pir",
+     "seats": 21,
+     "change": -15
+    },
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "seats": 9,
+     "change": 5
+    },
+    {
+     "name": "Liberal Party",
+     "party": "pl",
+     "seats": 9,
+     "change": -7
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "psd",
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "seats": 13,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Chamber's composition after the election (the table's Total column); half the seats (56 of 111) were elected. The table gives no votes. Until 1956 Bolivia had a restricted (\"qualified\") franchise, per the 1951 election article."
+  },
+  {
+   "id": "bo-senate-1949",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1949-05-01",
+   "note": "Restricted franchise",
+   "totalSeats": 27,
+   "source": {
+    "name": "Wikipedia, citing the New International Year Book and the Political Handbook of the World",
+    "url": "https://en.wikipedia.org/wiki/1949_Bolivian_legislative_election",
+    "revid": 1359110812
+   },
+   "candidates": [
+    {
+     "name": "Republican Socialist Unity Party",
+     "party": "purs",
+     "seats": 14,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "pl",
+     "seats": 6,
+     "change": -1
+    },
+    {
+     "name": "Revolutionary Left Party",
+     "party": "pir",
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (the table's Total column); a third of the seats (9 of 27) were elected. The table gives no votes. Until 1956 Bolivia had a restricted (\"qualified\") franchise, per the 1951 election article."
+  },
+  {
+   "id": "bo-president-1951",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1951-05-06",
+   "note": "Annulled; restricted franchise",
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1951_Bolivian_general_election",
+    "revid": 1366581105
+   },
+   "candidates": [
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "mnr",
+     "votes": 54129,
+     "pct": 42.92,
+     "winner": true
+    },
+    {
+     "name": "Gabriel Gosálvez",
+     "party": "purs",
+     "votes": 40381,
+     "pct": 32.02
+    },
+    {
+     "name": "Bernardino Bilbao Rioja",
+     "party": "fsb",
+     "votes": 13259,
+     "pct": 10.51
+    },
+    {
+     "name": "Guillermo Gutiérrez Vea Murguía",
+     "party": "acb",
+     "votes": 6654,
+     "pct": 5.28
+    },
+    {
+     "name": "Tomás Manuel Elío",
+     "party": "pl",
+     "votes": 6530,
+     "pct": 5.18
+    },
+    {
+     "name": "José Antonio Arze",
+     "party": "pir",
+     "votes": 5170,
+     "pct": 4.1
+    }
+   ],
+   "notes": "No candidate won a majority, so Congress was to choose the president from the top three; on 16 May a military junta took power, and a decree of 7 June 1951 dissolved Congress and annulled the results. Paz Estenssoro is flagged as he won the most votes; he took office after the 1952 revolution. Until 1956 Bolivia had a restricted (\"qualified\") franchise. The table has no invalid-vote figure, so no turnout."
+  },
+  {
+   "id": "bo-chamber-1956",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1956-06-17",
+   "totalSeats": 68,
+   "turnout": 85.08,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1956_Bolivian_general_election",
+    "revid": 1359032097
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 787792,
+     "pct": 84.45,
+     "seats": 61,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 130494,
+     "pct": 13.99,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 12273,
+     "pct": 1.32,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2329,
+     "pct": 0.25,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The table has no change column. Shares are of valid votes; 25,532 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-1956",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1956-06-17",
+   "turnout": 85.08,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1956_Bolivian_general_election",
+    "revid": 1359032097
+   },
+   "candidates": [
+    {
+     "name": "Hernán Siles Zuazo",
+     "party": "mnr",
+     "votes": 787792,
+     "pct": 84.45,
+     "winner": true
+    },
+    {
+     "name": "Óscar Únzaga",
+     "party": "fsb",
+     "votes": 130494,
+     "pct": 13.99
+    },
+    {
+     "name": "Felipe Iñíguez Medrano",
+     "party": "pcb",
+     "votes": 12273,
+     "pct": 1.32
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2329,
+     "pct": 0.25
+    }
+   ],
+   "notes": "Shares are of valid votes; 25,532 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-senate-1956",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1956-06-17",
+   "totalSeats": 18,
+   "turnout": 85.08,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1956_Bolivian_general_election",
+    "revid": 1359032097
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 787792,
+     "pct": 84.45,
+     "seats": 18,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 130494,
+     "pct": 13.99,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 12273,
+     "pct": 1.32,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2329,
+     "pct": 0.25,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The table has no change column. Shares are of valid votes; 25,532 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-chamber-1958",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1958-06-20",
+   "totalSeats": 68,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas and the Political Handbook of the World",
+    "url": "https://en.wikipedia.org/wiki/1958_Bolivian_legislative_election",
+    "revid": 1367413566
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 371450,
+     "pct": 85.4,
+     "seats": 65,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 53264,
+     "pct": 12.25,
+     "seats": 3,
+     "change": -4
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 5343,
+     "pct": 1.23,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4882,
+     "pct": 1.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Chamber's composition after the election (the table's Total column); 34 of the 68 seats were elected. Shares are the table's. No electorate, so no turnout."
+  },
+  {
+   "id": "bo-senate-1958",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1958-06-20",
+   "totalSeats": 18,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas and the Political Handbook of the World",
+    "url": "https://en.wikipedia.org/wiki/1958_Bolivian_legislative_election",
+    "revid": 1367413566
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 371450,
+     "pct": 85.4,
+     "seats": 18,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 53264,
+     "pct": 12.25,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 5343,
+     "pct": 1.23,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4882,
+     "pct": 1.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (the table's Total column); 6 of the 18 seats were elected. Shares are the table's. No electorate, so no turnout."
+  },
+  {
+   "id": "bo-chamber-1960",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1960-06-05",
+   "totalSeats": 68,
+   "turnout": 75.98,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1960_Bolivian_general_election",
+    "revid": 1347730969
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 735619,
+     "pct": 76.1,
+     "seats": 51,
+     "change": -14,
+     "winner": true
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 139713,
+     "pct": 14.45,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 78963,
+     "pct": 8.17,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 10934,
+     "pct": 1.13,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1420,
+     "pct": 0.15,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Chamber's composition after the election (the table's Total column); 34 of the 68 seats were elected. Shares and turnout are the table's."
+  },
+  {
+   "id": "bo-president-1960",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1960-06-05",
+   "turnout": 75.98,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1960_Bolivian_general_election",
+    "revid": 1347730969
+   },
+   "candidates": [
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "mnr",
+     "votes": 746553,
+     "pct": 77.23,
+     "winner": true
+    },
+    {
+     "name": "Wálter Guevara",
+     "party": "pra",
+     "votes": 139713,
+     "pct": 14.45
+    },
+    {
+     "name": "Mario Gutiérrez",
+     "party": "fsb",
+     "votes": 78963,
+     "pct": 8.17
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1420,
+     "pct": 0.15
+    }
+   ],
+   "notes": "Paz Estenssoro's row adds his Revolutionary Nationalist Movement votes (735,619) and the Communist Party's (10,934), which also ran him as its candidate; the table lists them separately. Turnout is the table's."
+  },
+  {
+   "id": "bo-senate-1960",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1960-06-05",
+   "totalSeats": 18,
+   "turnout": 75.98,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1960_Bolivian_general_election",
+    "revid": 1347730969
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 735619,
+     "pct": 76.1,
+     "seats": 18,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 139713,
+     "pct": 14.45,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 78963,
+     "pct": 8.17,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 10934,
+     "pct": 1.13,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1420,
+     "pct": 0.15,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (the table's Total column); 6 of the 18 seats were elected. Shares and turnout are the table's."
+  },
+  {
+   "id": "bo-chamber-1962",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1962-06-04",
+   "totalSeats": 72,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Ruddle and the Political Handbook of the World",
+    "url": "https://en.wikipedia.org/wiki/1962_Bolivian_legislative_election",
+    "revid": 1364144588
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 886572,
+     "pct": 84.79,
+     "seats": 64,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 74178,
+     "pct": 7.09,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 44296,
+     "pct": 4.24,
+     "seats": 3,
+     "change": -11
+    },
+    {
+     "name": "Social Christian Party",
+     "party": "pdc",
+     "votes": 19825,
+     "pct": 1.9,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 20352,
+     "pct": 1.95,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 378,
+     "pct": 0.04,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Chamber's composition after the election (the table's Total column); 38 of the 72 seats were elected. Shares are the table's. No electorate, so no turnout."
+  },
+  {
+   "id": "bo-senate-1962",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1962-06-04",
+   "totalSeats": 27,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, Ruddle and the Political Handbook of the World",
+    "url": "https://en.wikipedia.org/wiki/1962_Bolivian_legislative_election",
+    "revid": 1364144588
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 886572,
+     "pct": 84.79,
+     "seats": 27,
+     "change": 9,
+     "winner": true
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 74178,
+     "pct": 7.09,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 44296,
+     "pct": 4.24,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Communist Party",
+     "party": "pcb",
+     "votes": 20352,
+     "pct": 1.95,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Social Christian Party",
+     "party": "pdc",
+     "votes": 19825,
+     "pct": 1.9,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 378,
+     "pct": 0.04,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (the table's Total column); 15 of the 27 seats were elected. Shares are the table's. No electorate, so no turnout."
+  },
+  {
+   "id": "bo-chamber-1964",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1964-05-31",
+   "totalSeats": 73,
+   "turnout": 91.91,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1964_Bolivian_general_election",
+    "revid": 1363875405
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 1114717,
+     "pct": 97.85,
+     "seats": 57,
+     "change": -7,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Party of the Nationalist Left",
+     "party": "prin",
+     "votes": 23,
+     "pct": 0,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 613,
+     "pct": 0.05,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 92,
+     "pct": 0.01,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "National Civic Union",
+     "party": "ucn",
+     "votes": 11142,
+     "pct": 0.98,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Social Christian Party",
+     "party": "pdc",
+     "votes": 228,
+     "pct": 0.02,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Anti-Communist Bolivian Front",
+     "party": "fab",
+     "votes": 12245,
+     "pct": 1.07,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 97,
+     "pct": 0.01,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Chamber's composition after the election (the table's Total column); 37 of the 73 seats were elected. The Revolutionary Party of the National Left held 9 seats with 23 votes, as the table gives it. Shares and turnout are the table's."
+  },
+  {
+   "id": "bo-president-1964",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1964-05-31",
+   "note": "Sole candidate",
+   "turnout": 91.91,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1964_Bolivian_general_election",
+    "revid": 1363875405
+   },
+   "candidates": [
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "mnr",
+     "votes": 1114717,
+     "pct": 97.85,
+     "winner": true
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 24440,
+     "pct": 2.15
+    }
+   ],
+   "notes": "Paz Estenssoro was the only presidential candidate. Others are the votes of parties that ran no presidential candidate. Turnout is the table's. General René Barrientos removed Paz in a coup in November 1964."
+  },
+  {
+   "id": "bo-senate-1964",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1964-05-31",
+   "totalSeats": 27,
+   "turnout": 91.91,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1964_Bolivian_general_election",
+    "revid": 1363875405
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 1114717,
+     "pct": 97.85,
+     "seats": 22,
+     "change": -7,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Party of the Nationalist Left",
+     "party": "prin",
+     "votes": 23,
+     "pct": 0,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Anti-Communist Bolivian Front",
+     "party": "fab",
+     "votes": 12245,
+     "pct": 1.07,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 12172,
+     "pct": 1.07,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (the table's Total column); 9 of the 27 seats were elected. Shares and turnout are the table's."
+  },
+  {
+   "id": "bo-chamber-1966",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1966-07-03",
+   "note": "Major opposition excluded",
+   "totalSeats": 102,
+   "turnout": 86.57,
+   "source": {
+    "name": "Wikipedia, citing Hofmeister and Bamberger",
+    "url": "https://en.wikipedia.org/wiki/1966_Bolivian_general_election",
+    "revid": 1363866991
+   },
+   "candidates": [
+    {
+     "name": "Front of the Bolivian Revolution",
+     "party": "frb",
+     "votes": 677805,
+     "pct": 67.14,
+     "seats": 82,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Christian Democratic Community",
+     "party": "cdc",
+     "votes": 138001,
+     "pct": 13.67,
+     "seats": 19,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement of the People",
+     "party": "mnrp",
+     "votes": 60505,
+     "pct": 5.99,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement–Andrade",
+     "party": "mnr",
+     "votes": 88392,
+     "pct": 8.76,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Liberation Front of the National Left",
+     "party": "flin",
+     "votes": 33458,
+     "pct": 3.31,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Democratic Institutionalist Alliance",
+     "party": "aid",
+     "votes": 11330,
+     "pct": 1.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The table has no change column. Shares are of valid votes; 90,503 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-1966",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1966-07-03",
+   "note": "Major opposition excluded",
+   "turnout": 86.57,
+   "source": {
+    "name": "Wikipedia, citing Hofmeister and Bamberger",
+    "url": "https://en.wikipedia.org/wiki/1966_Bolivian_general_election",
+    "revid": 1363866991
+   },
+   "candidates": [
+    {
+     "name": "René Barrientos",
+     "party": "frb",
+     "votes": 677805,
+     "pct": 67.14,
+     "winner": true
+    },
+    {
+     "name": "Bernardino Bilbao Rioja",
+     "party": "cdc",
+     "votes": 138001,
+     "pct": 13.67
+    },
+    {
+     "name": "Víctor Andrade",
+     "party": "mnr",
+     "votes": 88392,
+     "pct": 8.76
+    },
+    {
+     "name": "Mario Díez de Medina",
+     "party": "mnrp",
+     "votes": 60505,
+     "pct": 5.99
+    },
+    {
+     "name": "Felipe Iñíguez",
+     "party": "flin",
+     "votes": 33458,
+     "pct": 3.31
+    },
+    {
+     "name": "Enrique Hertzog",
+     "party": "aid",
+     "votes": 11330,
+     "pct": 1.12
+    }
+   ],
+   "notes": "Held after the 1964 coup; James Dunkerley, cited by the article, describes the election as not free and fair because a major segment of the opposition was excluded. The Revolutionary Nationalist Movement–Andrade row links to the MNR article (key mnr). Shares are of valid votes; 90,503 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-senate-1966",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1966-07-03",
+   "note": "Major opposition excluded",
+   "totalSeats": 27,
+   "turnout": 86.57,
+   "source": {
+    "name": "Wikipedia, citing Hofmeister and Bamberger",
+    "url": "https://en.wikipedia.org/wiki/1966_Bolivian_general_election",
+    "revid": 1363866991
+   },
+   "candidates": [
+    {
+     "name": "Front of the Bolivian Revolution",
+     "party": "frb",
+     "votes": 677805,
+     "pct": 67.14,
+     "seats": 18,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Christian Democratic Community",
+     "party": "cdc",
+     "votes": 138001,
+     "pct": 13.67,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement of the People",
+     "party": "mnrp",
+     "votes": 60505,
+     "pct": 5.99,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement–Andrade",
+     "party": "mnr",
+     "votes": 88392,
+     "pct": 8.76,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Liberation Front of the National Left",
+     "party": "flin",
+     "votes": 33458,
+     "pct": 3.31,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Democratic Institutionalist Alliance",
+     "party": "aid",
+     "votes": 11330,
+     "pct": 1.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The table has no change column. Shares are of valid votes; 90,503 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-1978",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1978-07-09",
+   "note": "Annulled",
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1978_Bolivian_general_election",
+    "revid": 1321623727
+   },
+   "candidates": [
+    {
+     "name": "Juan Pereda",
+     "party": "unp",
+     "votes": 1027045,
+     "pct": 53.01,
+     "winner": true
+    },
+    {
+     "name": "Hernán Siles Zuazo",
+     "party": "udp",
+     "votes": 484383,
+     "pct": 25
+    },
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "adrn",
+     "votes": 213622,
+     "pct": 11.03
+    },
+    {
+     "name": "René Bernal Escalante",
+     "party": "pdc",
+     "votes": 168302,
+     "pct": 8.69
+    },
+    {
+     "name": "Casiano Amurrio",
+     "party": "fri",
+     "votes": 23459,
+     "pct": 1.21
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20530,
+     "pct": 1.06
+    }
+   ],
+   "notes": "The National Electoral Court annulled the results on 19 July over fraud; Pereda took power in a coup the next day. Pereda's row adds his Nationalist Union of the People (986,140) and MNRP (40,905) ballots, and Bernal's his PDC–PRB (167,131) and Eastern Rural Party (1,171) ballots, as the infobox does. The official count recorded more votes than registered voters (turnout 102.62%), so no turnout is given. Shares are of valid votes; 53,330 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-1979",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1979-07-01",
+   "totalSeats": 117,
+   "turnout": 90.19,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas and Mesa Gisbert",
+    "url": "https://en.wikipedia.org/wiki/1979_Bolivian_general_election",
+    "revid": 1329321334
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement–Alliance",
+     "party": "mnral",
+     "votes": 527184,
+     "pct": 35.87,
+     "seats": 48,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic and Popular Union",
+     "party": "udp",
+     "votes": 528696,
+     "pct": 35.97,
+     "seats": 38,
+     "change": null
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 218857,
+     "pct": 14.89,
+     "seats": 19,
+     "change": null
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 70765,
+     "pct": 4.82,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Popular Alliance for National Integration",
+     "party": "apin",
+     "votes": 60262,
+     "pct": 4.1,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Túpac Katari Indian Movement",
+     "party": "mitka",
+     "votes": 28344,
+     "pct": 1.93,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Bolivian Union Party",
+     "party": "pub",
+     "votes": 18976,
+     "pct": 1.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Workers' Vanguard",
+     "party": "vo",
+     "votes": 16560,
+     "pct": 1.13,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The table has no change column. Turnout is the infobox's. Shares are of valid votes; 223,856 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. Under the single vote for president and Congress the same shares apply to the Chamber list vote.",
+   "regionWinners": {
+    "B": "mnral",
+    "H": "mnral",
+    "C": "udp",
+    "L": "udp",
+    "O": "mnral",
+    "N": "mnral",
+    "P": "mnral",
+    "S": "mnral",
+    "T": "mnral"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Bolivian_general_election"
+  },
+  {
+   "id": "bo-president-1979",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1979-07-01",
+   "note": "No majority; Congress deadlocked",
+   "turnout": 90.19,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas and Mesa Gisbert",
+    "url": "https://en.wikipedia.org/wiki/1979_Bolivian_general_election",
+    "revid": 1329321334
+   },
+   "candidates": [
+    {
+     "name": "Hernán Siles Zuazo",
+     "party": "udp",
+     "votes": 528696,
+     "pct": 35.97,
+     "winner": true
+    },
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "mnral",
+     "votes": 527184,
+     "pct": 35.87
+    },
+    {
+     "name": "Hugo Banzer",
+     "party": "adn",
+     "votes": 218857,
+     "pct": 14.89
+    },
+    {
+     "name": "Marcelo Quiroga Santa Cruz",
+     "party": "ps1",
+     "votes": 70765,
+     "pct": 4.82
+    },
+    {
+     "name": "René Bernal Escalante",
+     "party": "apin",
+     "votes": 60262,
+     "pct": 4.1
+    },
+    {
+     "name": "Luciano Tapia Quisbert",
+     "party": "mitka",
+     "votes": 28344,
+     "pct": 1.93
+    },
+    {
+     "name": "Walter Gonzáles Valda",
+     "party": "pub",
+     "votes": 18976,
+     "pct": 1.29
+    },
+    {
+     "name": "Ricardo Catoira",
+     "party": "vo",
+     "votes": 16560,
+     "pct": 1.13
+    }
+   ],
+   "notes": "No candidate won a majority, and after six congressional ballots none was chosen; in the vote the table gives, Paz Estenssoro had 64 votes, Siles Zuazo 46 and Banzer 22, with 12 abstentions. On 6 August Congress made Senate president Wálter Guevara interim president. Siles Zuazo is flagged as he won the most votes. Turnout is the infobox's; the table's votes and electorate give 90.51%. Shares are of valid votes; 223,856 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column.",
+   "regionWinners": {
+    "B": "mnral",
+    "H": "mnral",
+    "C": "udp",
+    "L": "udp",
+    "O": "mnral",
+    "N": "mnral",
+    "P": "mnral",
+    "S": "mnral",
+    "T": "mnral"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1979_Bolivian_general_election"
+  },
+  {
+   "id": "bo-senate-1979",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1979-07-01",
+   "totalSeats": 27,
+   "turnout": 90.19,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas and Mesa Gisbert",
+    "url": "https://en.wikipedia.org/wiki/1979_Bolivian_general_election",
+    "revid": 1329321334
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement–Alliance",
+     "party": "mnral",
+     "votes": 527184,
+     "pct": 35.87,
+     "seats": 16,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic and Popular Union",
+     "party": "udp",
+     "votes": 528696,
+     "pct": 35.97,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 218857,
+     "pct": 14.89,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 70765,
+     "pct": 4.82,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Popular Alliance for National Integration",
+     "party": "apin",
+     "votes": 60262,
+     "pct": 4.1,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Túpac Katari Indian Movement",
+     "party": "mitka",
+     "votes": 28344,
+     "pct": 1.93,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Union Party",
+     "party": "pub",
+     "votes": 18976,
+     "pct": 1.29,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Workers' Vanguard",
+     "party": "vo",
+     "votes": 16560,
+     "pct": 1.13,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The table has no change column. Turnout is the infobox's. Shares are of valid votes; 223,856 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-1980",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1980-06-29",
+   "totalSeats": 130,
+   "turnout": 74.32,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ and Nohlen",
+    "url": "https://en.wikipedia.org/wiki/1980_Bolivian_general_election",
+    "revid": 1329321410
+   },
+   "candidates": [
+    {
+     "name": "Democratic and Popular Union",
+     "party": "udp",
+     "votes": 507173,
+     "pct": 38.74,
+     "seats": 47,
+     "change": 9,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Nationalist Movement–Alliance",
+     "party": "mnral",
+     "votes": 263706,
+     "pct": 20.15,
+     "seats": 34,
+     "change": -14
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 220309,
+     "pct": 16.83,
+     "seats": 24,
+     "change": 5
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 113959,
+     "pct": 8.71,
+     "seats": 10,
+     "change": 5
+    },
+    {
+     "name": "Democratic Revolutionary Front–New Alternative",
+     "party": "fdrna",
+     "votes": 39401,
+     "pct": 3.01,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 36443,
+     "pct": 2.78,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 21372,
+     "pct": 1.63,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "MNRU–MIN",
+     "party": "mnru",
+     "votes": 24542,
+     "pct": 1.87,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Túpac Katari Indian Movement – 1",
+     "party": "mitka1",
+     "votes": 17023,
+     "pct": 1.3,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Túpac Katari Indian Movement",
+     "party": "mitka",
+     "votes": 15852,
+     "pct": 1.21,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Alliance of Nationalist Left Forces of the MNR",
+     "party": "afin",
+     "votes": 17150,
+     "pct": 1.31,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Union Party",
+     "party": "pub",
+     "votes": 16380,
+     "pct": 1.25,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Revolutionary Party of the Nationalist Left",
+     "party": "prin",
+     "votes": 15724,
+     "pct": 1.2,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The Congress elected in 1980 was recalled by the military and reconvened on 23 September 1982. Turnout is the infobox's. Shares are of valid votes; 180,450 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. Under the single vote for president and Congress the same shares apply to the Chamber list vote.",
+   "regionWinners": {
+    "B": "mnral",
+    "H": "udp",
+    "C": "udp",
+    "L": "udp",
+    "O": "udp",
+    "N": "mnral",
+    "P": "udp",
+    "S": "mnral",
+    "T": "mnral"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1980_Bolivian_general_election"
+  },
+  {
+   "id": "bo-president-1980",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1980-06-29",
+   "chosenBy": "Congress",
+   "turnout": 74.32,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ and Nohlen",
+    "url": "https://en.wikipedia.org/wiki/1980_Bolivian_general_election",
+    "revid": 1329321410
+   },
+   "candidates": [
+    {
+     "name": "Hernán Siles Zuazo",
+     "party": "udp",
+     "votes": 507173,
+     "pct": 38.74,
+     "winner": true
+    },
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "mnral",
+     "votes": 263706,
+     "pct": 20.15
+    },
+    {
+     "name": "Hugo Banzer",
+     "party": "adn",
+     "votes": 220309,
+     "pct": 16.83
+    },
+    {
+     "name": "Marcelo Quiroga Santa Cruz",
+     "party": "ps1",
+     "votes": 113959,
+     "pct": 8.71
+    },
+    {
+     "name": "Luis Adolfo Siles Salinas",
+     "party": "fdrna",
+     "votes": 39401,
+     "pct": 3.01
+    },
+    {
+     "name": "Wálter Guevara",
+     "party": "pra",
+     "votes": 36443,
+     "pct": 2.78
+    },
+    {
+     "name": "Guillermo Bedregal",
+     "party": "mnru",
+     "votes": 24542,
+     "pct": 1.87
+    },
+    {
+     "name": "Carlos Valverde",
+     "party": "fsb",
+     "votes": 21372,
+     "pct": 1.63
+    },
+    {
+     "name": "Roberto Jordán Pando",
+     "party": "afin",
+     "votes": 17150,
+     "pct": 1.31
+    },
+    {
+     "name": "Constantino Lima",
+     "party": "mitka1",
+     "votes": 17023,
+     "pct": 1.3
+    },
+    {
+     "name": "Walter Gonzáles Valda",
+     "party": "pub",
+     "votes": 16380,
+     "pct": 1.25
+    },
+    {
+     "name": "Luciano Tapia Quisbert",
+     "party": "mitka",
+     "votes": 15852,
+     "pct": 1.21
+    },
+    {
+     "name": "Juan Lechín Oquendo",
+     "party": "prin",
+     "votes": 15724,
+     "pct": 1.2
+    }
+   ],
+   "notes": "No candidate won a majority. Luis García Meza's coup of 17 July 1980 stopped Congress from meeting; the 1980 Congress was recalled in 1982 and elected Siles Zuazo on 5 October 1982 with 113 votes to Banzer's 29 (4 invalid, 11 abstentions). Turnout is the infobox's. Shares are of valid votes; 180,450 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column.",
+   "regionWinners": {
+    "B": "mnral",
+    "H": "udp",
+    "C": "udp",
+    "L": "udp",
+    "O": "udp",
+    "N": "mnral",
+    "P": "udp",
+    "S": "mnral",
+    "T": "mnral"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1980_Bolivian_general_election"
+  },
+  {
+   "id": "bo-senate-1980",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1980-06-29",
+   "totalSeats": 27,
+   "turnout": 74.32,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ and Nohlen",
+    "url": "https://en.wikipedia.org/wiki/1980_Bolivian_general_election",
+    "revid": 1329321410
+   },
+   "candidates": [
+    {
+     "name": "Democratic and Popular Union",
+     "party": "udp",
+     "votes": 507173,
+     "pct": 38.74,
+     "seats": 10,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Nationalist Movement–Alliance",
+     "party": "mnral",
+     "votes": 263706,
+     "pct": 20.15,
+     "seats": 10,
+     "change": -6
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 220309,
+     "pct": 16.83,
+     "seats": 6,
+     "change": 3
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 113959,
+     "pct": 8.71,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Democratic Revolutionary Front–New Alternative",
+     "party": "fdrna",
+     "votes": 39401,
+     "pct": 3.01,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Authentic Revolutionary Party",
+     "party": "pra",
+     "votes": 36443,
+     "pct": 2.78,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "MNRU–MIN",
+     "party": "mnru",
+     "votes": 24542,
+     "pct": 1.87,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 21372,
+     "pct": 1.63,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Alliance of Nationalist Left Forces of the MNR",
+     "party": "afin",
+     "votes": 17150,
+     "pct": 1.31,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Túpac Katari Indian Movement – 1",
+     "party": "mitka1",
+     "votes": 17023,
+     "pct": 1.3,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Union Party",
+     "party": "pub",
+     "votes": 16380,
+     "pct": 1.25,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Túpac Katari Indian Movement",
+     "party": "mitka",
+     "votes": 15852,
+     "pct": 1.21,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Revolutionary Party of the Nationalist Left",
+     "party": "prin",
+     "votes": 15724,
+     "pct": 1.2,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The Congress elected in 1980 was recalled by the military and reconvened on 23 September 1982. Turnout is the infobox's. Shares are of valid votes; 180,450 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-1985",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1985-07-14",
+   "totalSeats": 130,
+   "turnout": 81.97,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1985_Bolivian_general_election",
+    "revid": 1377364173
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 456704,
+     "pct": 30.36,
+     "seats": 43,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 493735,
+     "pct": 32.83,
+     "seats": 41,
+     "change": 17
+    },
+    {
+     "name": "Revolutionary Left Movement",
+     "party": "mir",
+     "votes": 153143,
+     "pct": 10.18,
+     "seats": 15,
+     "change": null
+    },
+    {
+     "name": "Left-wing Revolutionary Nationalist Movement",
+     "party": "mnri",
+     "votes": 82418,
+     "pct": 5.48,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement–Vanguard",
+     "party": "vr9a",
+     "votes": 72197,
+     "pct": 4.8,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 38786,
+     "pct": 2.58,
+     "seats": 5,
+     "change": -5
+    },
+    {
+     "name": "United People's Front",
+     "party": "fpu",
+     "votes": 38124,
+     "pct": 2.53,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 24079,
+     "pct": 1.6,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 19985,
+     "pct": 1.33,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Túpac Katari Revolutionary Liberation Movement",
+     "party": "mrtkl",
+     "votes": 31678,
+     "pct": 2.11,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Tupac Katari Revolutionary Movement",
+     "party": "mrtk",
+     "votes": 16269,
+     "pct": 1.08,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 76938,
+     "pct": 5.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. Turnout is the infobox's. Shares are of valid votes; 224,309 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. H, O skipped: Others outpolled every named party. Under the single vote for president and Congress the same shares apply to the Chamber list vote.",
+   "regionWinners": {
+    "B": "mnr",
+    "C": "adn",
+    "L": "adn",
+    "N": "mnr",
+    "P": "mnr",
+    "S": "mnr",
+    "T": "mnr"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1985_Bolivian_general_election"
+  },
+  {
+   "id": "bo-president-1985",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1985-07-14",
+   "chosenBy": "Congress",
+   "turnout": 81.97,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1985_Bolivian_general_election",
+    "revid": 1377364173
+   },
+   "candidates": [
+    {
+     "name": "Hugo Banzer",
+     "party": "adn",
+     "votes": 493735,
+     "pct": 32.83
+    },
+    {
+     "name": "Víctor Paz Estenssoro",
+     "party": "mnr",
+     "votes": 456704,
+     "pct": 30.36,
+     "winner": true
+    },
+    {
+     "name": "Jaime Paz Zamora",
+     "party": "mir",
+     "votes": 153143,
+     "pct": 10.18
+    },
+    {
+     "name": "Roberto Jordán Pando",
+     "party": "mnri",
+     "votes": 82418,
+     "pct": 5.48
+    },
+    {
+     "name": "Carlos Serrate",
+     "party": "vr9a",
+     "votes": 72197,
+     "pct": 4.8
+    },
+    {
+     "name": "Ramiro Velasco Romero",
+     "party": "ps1",
+     "votes": 38786,
+     "pct": 2.58
+    },
+    {
+     "name": "Antonio Araníbar Quiroga",
+     "party": "fpu",
+     "votes": 38124,
+     "pct": 2.53
+    },
+    {
+     "name": "Jenaro Flores Santos",
+     "party": "mrtkl",
+     "votes": 31678,
+     "pct": 2.11
+    },
+    {
+     "name": "Luis Ossio",
+     "party": "pdc",
+     "votes": 24079,
+     "pct": 1.6
+    },
+    {
+     "name": "David Añez Pedraza",
+     "party": "fsb",
+     "votes": 19985,
+     "pct": 1.33
+    },
+    {
+     "name": "Macabeo Chila Prieto",
+     "party": "mrtk",
+     "votes": 16269,
+     "pct": 1.08
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 76938,
+     "pct": 5.12
+    }
+   ],
+   "notes": "No candidate won a majority; Congress chose Paz Estenssoro, second in the popular vote, over Banzer by 94 votes to 51. Turnout is the infobox's. Shares are of valid votes; 224,309 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. H, O skipped: Others outpolled every named party.",
+   "regionWinners": {
+    "B": "mnr",
+    "C": "adn",
+    "L": "adn",
+    "N": "mnr",
+    "P": "mnr",
+    "S": "mnr",
+    "T": "mnr"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1985_Bolivian_general_election"
+  },
+  {
+   "id": "bo-senate-1985",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1985-07-14",
+   "totalSeats": 27,
+   "turnout": 81.97,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1985_Bolivian_general_election",
+    "revid": 1377364173
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 456704,
+     "pct": 30.36,
+     "seats": 16,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 493735,
+     "pct": 32.83,
+     "seats": 10,
+     "change": 4
+    },
+    {
+     "name": "Revolutionary Left Movement",
+     "party": "mir",
+     "votes": 153143,
+     "pct": 10.18,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Left-wing Revolutionary Nationalist Movement",
+     "party": "mnri",
+     "votes": 82418,
+     "pct": 5.48,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement–Vanguard",
+     "party": "vr9a",
+     "votes": 72197,
+     "pct": 4.8,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 38786,
+     "pct": 2.58,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "United People's Front",
+     "party": "fpu",
+     "votes": 38124,
+     "pct": 2.53,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Túpac Katari Revolutionary Liberation Movement",
+     "party": "mrtkl",
+     "votes": 31678,
+     "pct": 2.11,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 24079,
+     "pct": 1.6,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 19985,
+     "pct": 1.33,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Tupac Katari Revolutionary Movement",
+     "party": "mrtk",
+     "votes": 16269,
+     "pct": 1.08,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 76938,
+     "pct": 5.12,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. Turnout is the infobox's. Shares are of valid votes; 224,309 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-1989",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1989-05-07",
+   "totalSeats": 130,
+   "turnout": 73.64,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1989_Bolivian_general_election",
+    "revid": 1348537281
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 363113,
+     "pct": 25.65,
+     "seats": 40,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 357298,
+     "pct": 25.24,
+     "seats": 38,
+     "change": -3
+    },
+    {
+     "name": "Revolutionary Left Movement",
+     "party": "mir",
+     "votes": 309033,
+     "pct": 21.83,
+     "seats": 33,
+     "change": 18
+    },
+    {
+     "name": "United Left",
+     "party": "iu",
+     "votes": 113509,
+     "pct": 8.02,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 173459,
+     "pct": 12.25,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 39763,
+     "pct": 2.81,
+     "seats": 0,
+     "change": -5
+    },
+    {
+     "name": "Túpac Katari Revolutionary Liberation Movement",
+     "party": "mrtkl",
+     "votes": 22983,
+     "pct": 1.62,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Katarist United Liberation Front",
+     "party": "fulka",
+     "votes": 16416,
+     "pct": 1.16,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20295,
+     "pct": 1.43,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. Turnout is the infobox's. Shares are of valid votes; 157,921 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. H skipped: Others outpolled every named party. Under the single vote for president and Congress the same shares apply to the Chamber list vote.",
+   "regionWinners": {
+    "B": "adn",
+    "C": "mnr",
+    "L": "condepa",
+    "O": "mir",
+    "N": "adn",
+    "P": "mir",
+    "S": "mnr",
+    "T": "mnr"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1989_Bolivian_general_election"
+  },
+  {
+   "id": "bo-president-1989",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1989-05-07",
+   "chosenBy": "Congress",
+   "turnout": 73.64,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1989_Bolivian_general_election",
+    "revid": 1348537281
+   },
+   "candidates": [
+    {
+     "name": "Gonzalo Sánchez de Lozada",
+     "party": "mnr",
+     "votes": 363113,
+     "pct": 25.65
+    },
+    {
+     "name": "Hugo Banzer",
+     "party": "adn",
+     "votes": 357298,
+     "pct": 25.24
+    },
+    {
+     "name": "Jaime Paz Zamora",
+     "party": "mir",
+     "votes": 309033,
+     "pct": 21.83,
+     "winner": true
+    },
+    {
+     "name": "Carlos Palenque",
+     "party": "condepa",
+     "votes": 173459,
+     "pct": 12.25
+    },
+    {
+     "name": "Antonio Aranibar Quiroga",
+     "party": "iu",
+     "votes": 113509,
+     "pct": 8.02
+    },
+    {
+     "name": "Roger Cortéz Hurtado",
+     "party": "ps1",
+     "votes": 39763,
+     "pct": 2.81
+    },
+    {
+     "name": "Víctor Hugo Cárdenas",
+     "party": "mrtkl",
+     "votes": 22983,
+     "pct": 1.62
+    },
+    {
+     "name": "Jenaro Flores Santos",
+     "party": "fulka",
+     "votes": 16416,
+     "pct": 1.16
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20295,
+     "pct": 1.43
+    }
+   ],
+   "notes": "No candidate won a majority; on 6 August Congress chose Paz Zamora, third in the popular vote, over Sánchez de Lozada by 97 votes to 50, with the support of Nationalist Democratic Action and Conscience of Fatherland. Turnout is the infobox's. Shares are of valid votes; 157,921 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. H skipped: Others outpolled every named party.",
+   "regionWinners": {
+    "B": "adn",
+    "C": "mnr",
+    "L": "condepa",
+    "O": "mir",
+    "N": "adn",
+    "P": "mir",
+    "S": "mnr",
+    "T": "mnr"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1989_Bolivian_general_election"
+  },
+  {
+   "id": "bo-senate-1989",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1989-05-07",
+   "totalSeats": 27,
+   "turnout": 73.64,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1989_Bolivian_general_election",
+    "revid": 1348537281
+   },
+   "candidates": [
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 363113,
+     "pct": 25.65,
+     "seats": 9,
+     "change": -7,
+     "winner": true
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 357298,
+     "pct": 25.24,
+     "seats": 8,
+     "change": -2
+    },
+    {
+     "name": "Revolutionary Left Movement",
+     "party": "mir",
+     "votes": 309033,
+     "pct": 21.83,
+     "seats": 8,
+     "change": 7
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 173459,
+     "pct": 12.25,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "United Left",
+     "party": "iu",
+     "votes": 113509,
+     "pct": 8.02,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Socialist Party – 1",
+     "party": "ps1",
+     "votes": 39763,
+     "pct": 2.81,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Túpac Katari Revolutionary Liberation Movement",
+     "party": "mrtkl",
+     "votes": 22983,
+     "pct": 1.62,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Katarist United Liberation Front",
+     "party": "fulka",
+     "votes": 16416,
+     "pct": 1.16,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20295,
+     "pct": 1.43,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. Turnout is the infobox's. Shares are of valid votes; 157,921 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-1993",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1993-06-06",
+   "totalSeats": 130,
+   "turnout": 72.16,
+   "source": {
+    "name": "Wikipedia (the results table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1993_Bolivian_general_election",
+    "revid": 1348537706
+   },
+   "candidates": [
+    {
+     "name": "MNR–MRTKL",
+     "party": "mnr",
+     "votes": 585837,
+     "pct": 35.55,
+     "seats": 52,
+     "change": 12,
+     "winner": true
+    },
+    {
+     "name": "Patriotic Accord",
+     "party": "ap",
+     "votes": 346865,
+     "pct": 21.05,
+     "seats": 35,
+     "change": -36
+    },
+    {
+     "name": "Solidarity Civic Unity",
+     "party": "ucs",
+     "votes": 226816,
+     "pct": 13.77,
+     "seats": 20,
+     "change": null
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 235427,
+     "pct": 14.29,
+     "seats": 13,
+     "change": 4
+    },
+    {
+     "name": "Free Bolivia Movement",
+     "party": "mbl",
+     "votes": 88260,
+     "pct": 5.36,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Bolivian Renewal Alliance",
+     "party": "arbol",
+     "votes": 30867,
+     "pct": 1.87,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Alternative to Democratic Socialism",
+     "party": "asd",
+     "votes": 30286,
+     "pct": 1.84,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Pachakuti Axis",
+     "party": "eje",
+     "votes": 18176,
+     "pct": 1.1,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Vanguard of 9 April",
+     "party": "vr9a",
+     "votes": 21100,
+     "pct": 1.28,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 20947,
+     "pct": 1.27,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "United Left",
+     "party": "iu",
+     "votes": 16137,
+     "pct": 0.98,
+     "seats": 0,
+     "change": -10
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 26992,
+     "pct": 1.64,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The MNR row is its alliance with the MRTKL; the Patriotic Accord was the alliance of Nationalist Democratic Action and the Revolutionary Left Movement. Turnout is the infobox's. Shares are of valid votes; 83,599 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column. Under the single vote for president and Congress the same shares apply to the Chamber list vote.",
+   "regionWinners": {
+    "B": "mnr",
+    "H": "mnr",
+    "C": "mnr",
+    "L": "mnr",
+    "O": "mnr",
+    "N": "ap",
+    "P": "mnr",
+    "S": "mnr",
+    "T": "mnr"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1993_Bolivian_general_election"
+  },
+  {
+   "id": "bo-president-1993",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1993-06-06",
+   "chosenBy": "Congress",
+   "turnout": 72.16,
+   "source": {
+    "name": "Wikipedia (the results table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1993_Bolivian_general_election",
+    "revid": 1348537706
+   },
+   "candidates": [
+    {
+     "name": "Gonzalo Sánchez de Lozada",
+     "party": "mnr",
+     "votes": 585837,
+     "pct": 35.55,
+     "winner": true
+    },
+    {
+     "name": "Hugo Banzer",
+     "party": "ap",
+     "votes": 346865,
+     "pct": 21.05
+    },
+    {
+     "name": "Carlos Palenque",
+     "party": "condepa",
+     "votes": 235427,
+     "pct": 14.29
+    },
+    {
+     "name": "Max Fernández",
+     "party": "ucs",
+     "votes": 226816,
+     "pct": 13.77
+    },
+    {
+     "name": "Antonio Araníbar Quiroga",
+     "party": "mbl",
+     "votes": 88260,
+     "pct": 5.36
+    },
+    {
+     "name": "Casiano Ancalle Choque",
+     "party": "arbol",
+     "votes": 30867,
+     "pct": 1.87
+    },
+    {
+     "name": "Jerjes Justiniano Talavera",
+     "party": "asd",
+     "votes": 30286,
+     "pct": 1.84
+    },
+    {
+     "name": "Carlos Serrate",
+     "party": "vr9a",
+     "votes": 21100,
+     "pct": 1.28
+    },
+    {
+     "name": "José Mario Serrate Paz",
+     "party": "fsb",
+     "votes": 20947,
+     "pct": 1.27
+    },
+    {
+     "name": "Félix Cárdenas Aguilar",
+     "party": "eje",
+     "votes": 18176,
+     "pct": 1.1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 43129,
+     "pct": 2.62
+    }
+   ],
+   "notes": "No candidate won a majority; on 6 August Congress elected Sánchez de Lozada, the only candidate voted on, with 97 votes. He ran for the MNR–MRTKL alliance; Banzer for the Patriotic Accord of Nationalist Democratic Action and the Revolutionary Left Movement. Turnout is the infobox's. Shares are of valid votes; 83,599 invalid votes are excluded. Region winners are the party with the largest share in each department, from the article's results-by-department table (citing the Constituency-Level Election Archive), which lists the main parties and an Others column.",
+   "regionWinners": {
+    "B": "mnr",
+    "H": "mnr",
+    "C": "mnr",
+    "L": "mnr",
+    "O": "mnr",
+    "N": "ap",
+    "P": "mnr",
+    "S": "mnr",
+    "T": "mnr"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1993_Bolivian_general_election"
+  },
+  {
+   "id": "bo-senate-1993",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1993-06-06",
+   "totalSeats": 27,
+   "turnout": 72.16,
+   "source": {
+    "name": "Wikipedia (the results table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1993_Bolivian_general_election",
+    "revid": 1348537706
+   },
+   "candidates": [
+    {
+     "name": "MNR–MRTKL",
+     "party": "mnr",
+     "votes": 585837,
+     "pct": 35.55,
+     "seats": 17,
+     "change": 8,
+     "winner": true
+    },
+    {
+     "name": "Patriotic Accord",
+     "party": "ap",
+     "votes": 346865,
+     "pct": 21.05,
+     "seats": 8,
+     "change": -8
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 235427,
+     "pct": 14.29,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Solidarity Civic Unity",
+     "party": "ucs",
+     "votes": 226816,
+     "pct": 13.77,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Free Bolivia Movement",
+     "party": "mbl",
+     "votes": 88260,
+     "pct": 5.36,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Renewal Alliance",
+     "party": "arbol",
+     "votes": 30867,
+     "pct": 1.87,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Alternative to Democratic Socialism",
+     "party": "asd",
+     "votes": 30286,
+     "pct": 1.84,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Vanguard of 9 April",
+     "party": "vr9a",
+     "votes": 21100,
+     "pct": 1.28,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bolivian Socialist Falange",
+     "party": "fsb",
+     "votes": 20947,
+     "pct": 1.27,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Pachakuti Axis",
+     "party": "eje",
+     "votes": 18176,
+     "pct": 1.1,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 43129,
+     "pct": 2.62,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the one vote cast for each party and its presidential candidate (the double simultaneous vote, as the 1997 election article describes it), as the table gives them. The MNR row is its alliance with the MRTKL; the Patriotic Accord was the alliance of Nationalist Democratic Action and the Revolutionary Left Movement. Turnout is the infobox's. Shares are of valid votes; 83,599 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-1997",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "1997-06-01",
+   "totalSeats": 130,
+   "turnout": 71.36,
+   "source": {
+    "name": "Wikipedia, citing Nohlen, the OEP, Election Passport and FUNDEMOS",
+    "url": "https://en.wikipedia.org/wiki/1997_Bolivian_general_election",
+    "revid": 1373228078
+   },
+   "candidates": [
+    {
+     "name": "ADN–PDC–NFR",
+     "party": "adn",
+     "votes": 484705,
+     "pct": 22.26,
+     "seats": 32,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 396235,
+     "pct": 18.2,
+     "seats": 26,
+     "change": -26
+    },
+    {
+     "name": "Revolutionary Left Movement",
+     "party": "mir",
+     "votes": 365005,
+     "pct": 16.77,
+     "seats": 23,
+     "change": null
+    },
+    {
+     "name": "Solidarity Civic Unity",
+     "party": "ucs",
+     "votes": 350728,
+     "pct": 16.11,
+     "seats": 21,
+     "change": 1
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 373528,
+     "pct": 17.16,
+     "seats": 19,
+     "change": 6
+    },
+    {
+     "name": "Free Bolivia Movement",
+     "party": "mbl",
+     "votes": 67244,
+     "pct": 3.09,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "United Left",
+     "party": "iu",
+     "votes": 80806,
+     "pct": 3.71,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Bolivian Socialist Vanguard",
+     "party": "vsb",
+     "votes": 30212,
+     "pct": 1.39,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 28708,
+     "pct": 1.32,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "First election under the mixed system for the Chamber: votes and shares are the party (list) vote, seats are list plus constituency seats. The ADN row is its alliance with the PDC and NFR. Shares are of valid votes; 76,743 blank and 67,203 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-1997",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1997-06-01",
+   "chosenBy": "Congress",
+   "turnout": 71.36,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1997_Bolivian_general_election",
+    "revid": 1373228078
+   },
+   "candidates": [
+    {
+     "name": "Hugo Banzer",
+     "party": "adn",
+     "votes": 484705,
+     "pct": 22.26,
+     "winner": true
+    },
+    {
+     "name": "Juan Carlos Durán",
+     "party": "mnr",
+     "votes": 396235,
+     "pct": 18.2
+    },
+    {
+     "name": "Remedios Loza",
+     "party": "condepa",
+     "votes": 373528,
+     "pct": 17.16
+    },
+    {
+     "name": "Jaime Paz Zamora",
+     "party": "mir",
+     "votes": 365005,
+     "pct": 16.77
+    },
+    {
+     "name": "Ivo Kuljis Fuchner",
+     "party": "ucs",
+     "votes": 350728,
+     "pct": 16.11
+    },
+    {
+     "name": "Alejo Véliz",
+     "party": "iu",
+     "votes": 80806,
+     "pct": 3.71
+    },
+    {
+     "name": "Miguel Urioste Fernández",
+     "party": "mbl",
+     "votes": 67244,
+     "pct": 3.09
+    },
+    {
+     "name": "Jerjes Justiniano Talavera",
+     "party": "vsb",
+     "votes": 30212,
+     "pct": 1.39
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 28708,
+     "pct": 1.32
+    }
+   ],
+   "notes": "No candidate won a majority; Congress chose Banzer, who ran for the ADN–PDC–NFR alliance, over Durán by 118 votes to 30. Turnout is the infobox's. Shares are of valid votes; 143,946 invalid votes are excluded."
+  },
+  {
+   "id": "bo-senate-1997",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1997-06-01",
+   "totalSeats": 27,
+   "turnout": 71.36,
+   "source": {
+    "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+    "url": "https://en.wikipedia.org/wiki/1997_Bolivian_general_election",
+    "revid": 1373228078
+   },
+   "candidates": [
+    {
+     "name": "ADN–PDC–NFR",
+     "party": "adn",
+     "votes": 484705,
+     "pct": 22.26,
+     "seats": 11,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Revolutionary Left Movement",
+     "party": "mir",
+     "votes": 365005,
+     "pct": 16.77,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 396235,
+     "pct": 18.2,
+     "seats": 4,
+     "change": -13
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 373528,
+     "pct": 17.16,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Solidarity Civic Unity",
+     "party": "ucs",
+     "votes": 350728,
+     "pct": 16.11,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "United Left",
+     "party": "iu",
+     "votes": 80806,
+     "pct": 3.71,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Free Bolivia Movement",
+     "party": "mbl",
+     "votes": 67244,
+     "pct": 3.09,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Bolivian Socialist Vanguard",
+     "party": "vsb",
+     "votes": 30212,
+     "pct": 1.39,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 28708,
+     "pct": 1.32,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the party vote the table gives (the same as the presidential vote). The ADN row is its alliance with the PDC and NFR. Turnout is the infobox's. Shares are of valid votes; 143,946 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-2002",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "2002-06-30",
+   "totalSeats": 130,
+   "turnout": 72.06,
+   "source": {
+    "name": "Wikipedia, citing Election Passport and the IPU",
+    "url": "https://en.wikipedia.org/wiki/2002_Bolivian_general_election",
+    "revid": 1369187948
+   },
+   "candidates": [
+    {
+     "name": "MNR–MBL",
+     "party": "mnr",
+     "votes": 624126,
+     "pct": 22.46,
+     "seats": 36,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 581884,
+     "pct": 20.94,
+     "seats": 27,
+     "change": null
+    },
+    {
+     "name": "MIR–FRI",
+     "party": "mir",
+     "votes": 453375,
+     "pct": 16.32,
+     "seats": 26,
+     "change": 3
+    },
+    {
+     "name": "New Republican Force",
+     "party": "nfr",
+     "votes": 581163,
+     "pct": 20.91,
+     "seats": 25,
+     "change": null
+    },
+    {
+     "name": "Pachakuti Indigenous Movement",
+     "party": "mip",
+     "votes": 169239,
+     "pct": 6.09,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "UCS–FSB",
+     "party": "ucs",
+     "votes": 153210,
+     "pct": 5.51,
+     "seats": 5,
+     "change": -16
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 94386,
+     "pct": 3.4,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps71",
+     "votes": 18162,
+     "pct": 0.65,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Freedom and Justice Party",
+     "party": "plj",
+     "votes": 75522,
+     "pct": 2.72,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Conscience of Fatherland",
+     "party": "condepa",
+     "votes": 10336,
+     "pct": 0.37,
+     "seats": 0,
+     "change": -19
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 17405,
+     "pct": 0.63,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the list vote; seats are list plus constituency seats. Rows are the MNR–MBL, MIR–FRI and UCS–FSB alliances. Shares are of valid votes; 130,685 blank and 84,572 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-2002",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2002-06-30",
+   "chosenBy": "Congress",
+   "turnout": 72.06,
+   "source": {
+    "name": "Wikipedia, citing the Political Database of the Americas",
+    "url": "https://en.wikipedia.org/wiki/2002_Bolivian_general_election",
+    "revid": 1369187948
+   },
+   "candidates": [
+    {
+     "name": "Gonzalo Sánchez de Lozada",
+     "party": "mnr",
+     "votes": 624126,
+     "pct": 22.46,
+     "winner": true
+    },
+    {
+     "name": "Evo Morales",
+     "party": "mas",
+     "votes": 581884,
+     "pct": 20.94
+    },
+    {
+     "name": "Manfred Reyes Villa",
+     "party": "nfr",
+     "votes": 581163,
+     "pct": 20.91
+    },
+    {
+     "name": "Jaime Paz Zamora",
+     "party": "mir",
+     "votes": 453375,
+     "pct": 16.32
+    },
+    {
+     "name": "Felipe Quispe",
+     "party": "mip",
+     "votes": 169239,
+     "pct": 6.09
+    },
+    {
+     "name": "Jhonny Fernández",
+     "party": "ucs",
+     "votes": 153210,
+     "pct": 5.51
+    },
+    {
+     "name": "Ronald MacLean Abaroa",
+     "party": "adn",
+     "votes": 94386,
+     "pct": 3.4
+    },
+    {
+     "name": "Alberto Costa",
+     "party": "plj",
+     "votes": 75522,
+     "pct": 2.72
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45903,
+     "pct": 1.65
+    }
+   ],
+   "notes": "No candidate won a majority; Congress chose Sánchez de Lozada (MNR–MBL) over Morales by 84 votes to 43; 26 votes cast for Reyes Villa were declared invalid. Paz Zamora ran for MIR–FRI and Fernández for UCS–FSB. Turnout is the infobox's. Shares are of valid votes; 130,685 blank and 84,572 invalid votes are excluded."
+  },
+  {
+   "id": "bo-senate-2002",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2002-06-30",
+   "totalSeats": 27,
+   "turnout": 72.06,
+   "source": {
+    "name": "Wikipedia (the Senate table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/2002_Bolivian_general_election",
+    "revid": 1369187948
+   },
+   "candidates": [
+    {
+     "name": "MNR–MBL",
+     "party": "mnr",
+     "votes": 624126,
+     "pct": 22.46,
+     "seats": 11,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 581884,
+     "pct": 20.94,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "MIR–FRI",
+     "party": "mir",
+     "votes": 453375,
+     "pct": 16.32,
+     "seats": 5,
+     "change": -1
+    },
+    {
+     "name": "New Republican Force",
+     "party": "nfr",
+     "votes": 581163,
+     "pct": 20.91,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Nationalist Democratic Action",
+     "party": "adn",
+     "votes": 94386,
+     "pct": 3.4,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Pachakuti Indigenous Movement",
+     "party": "mip",
+     "votes": 169239,
+     "pct": 6.09,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "UCS–FSB",
+     "party": "ucs",
+     "votes": 153210,
+     "pct": 5.51,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Freedom and Justice Party",
+     "party": "plj",
+     "votes": 75522,
+     "pct": 2.72,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45903,
+     "pct": 1.65,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the party vote the table gives, the same figures as the presidential table. Rows are the MNR–MBL, MIR–FRI and UCS–FSB alliances. Turnout is the infobox's. Shares are of valid votes; 130,685 blank and 84,572 invalid votes are excluded."
+  },
+  {
+   "id": "bo-chamber-2005",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "2005-12-18",
+   "totalSeats": 130,
+   "turnout": 84.51,
+   "source": {
+    "name": "Wikipedia, citing Election Passport and the IPU",
+    "url": "https://en.wikipedia.org/wiki/2005_Bolivian_general_election",
+    "revid": 1331947114
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 1544374,
+     "pct": 53.74,
+     "seats": 72,
+     "change": 45,
+     "winner": true
+    },
+    {
+     "name": "Social and Democratic Power",
+     "party": "podemos",
+     "votes": 821745,
+     "pct": 28.59,
+     "seats": 43,
+     "change": 39
+    },
+    {
+     "name": "National Unity Front",
+     "party": "un",
+     "votes": 224090,
+     "pct": 7.8,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 185859,
+     "pct": 6.47,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Pachakuti Indigenous Movement",
+     "party": "mip",
+     "votes": 61948,
+     "pct": 2.16,
+     "seats": 0,
+     "change": -6
+    },
+    {
+     "name": "New Republican Force",
+     "party": "nfr",
+     "votes": 19667,
+     "pct": 0.68,
+     "seats": 0,
+     "change": -25
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 16118,
+     "pct": 0.56,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the proportional (list) vote; seats are list plus constituency seats. Shares are of valid votes; 124,046 blank and 104,570 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-2005",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2005-12-18",
+   "turnout": 84.5,
+   "source": {
+    "name": "Wikipedia, citing IFES",
+    "url": "https://en.wikipedia.org/wiki/2005_Bolivian_general_election",
+    "revid": 1331947114
+   },
+   "candidates": [
+    {
+     "name": "Evo Morales",
+     "party": "mas",
+     "votes": 1544374,
+     "pct": 53.74,
+     "winner": true
+    },
+    {
+     "name": "Jorge Quiroga",
+     "party": "podemos",
+     "votes": 821745,
+     "pct": 28.59
+    },
+    {
+     "name": "Samuel Doria Medina",
+     "party": "un",
+     "votes": 224090,
+     "pct": 7.8
+    },
+    {
+     "name": "Michiaki Nagatani",
+     "party": "mnr",
+     "votes": 185859,
+     "pct": 6.47
+    },
+    {
+     "name": "Felipe Quispe",
+     "party": "mip",
+     "votes": 61948,
+     "pct": 2.16
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 35785,
+     "pct": 1.25
+    }
+   ],
+   "notes": "Morales won an outright majority. Turnout is the infobox's. Shares are of valid votes; 124,046 blank and 104,570 invalid votes are excluded."
+  },
+  {
+   "id": "bo-senate-2005",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2005-12-18",
+   "totalSeats": 27,
+   "turnout": 84.51,
+   "source": {
+    "name": "Wikipedia, citing IFES",
+    "url": "https://en.wikipedia.org/wiki/2005_Bolivian_general_election",
+    "revid": 1331947114
+   },
+   "candidates": [
+    {
+     "name": "Social and Democratic Power",
+     "party": "podemos",
+     "votes": 821745,
+     "pct": 28.59,
+     "seats": 13,
+     "change": 12,
+     "winner": true
+    },
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 1544374,
+     "pct": 53.74,
+     "seats": 12,
+     "change": 4
+    },
+    {
+     "name": "National Unity Front",
+     "party": "un",
+     "votes": 224090,
+     "pct": 7.8,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Revolutionary Nationalist Movement",
+     "party": "mnr",
+     "votes": 185859,
+     "pct": 6.47,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Pachakuti Indigenous Movement",
+     "party": "mip",
+     "votes": 61948,
+     "pct": 2.16,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 35785,
+     "pct": 1.25,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the party vote the table gives (the same as the presidential vote). Shares are of valid votes; 124,046 blank and 104,570 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-chamber-2009",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "2009-12-06",
+   "totalSeats": 130,
+   "turnout": 95.25,
+   "source": {
+    "name": "Wikipedia, citing the CNE, Election Passport and Psephos",
+    "url": "https://en.wikipedia.org/wiki/2009_Bolivian_general_election",
+    "revid": 1371687635
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 2851996,
+     "pct": 63.91,
+     "seats": 88,
+     "change": 16,
+     "winner": true
+    },
+    {
+     "name": "Plan Progress for Bolivia – National Convergence",
+     "party": "ppb",
+     "votes": 1190603,
+     "pct": 26.68,
+     "seats": 37,
+     "change": 30
+    },
+    {
+     "name": "National Unity Front",
+     "party": "un",
+     "votes": 255299,
+     "pct": 5.72,
+     "seats": 3,
+     "change": -5
+    },
+    {
+     "name": "Social Alliance",
+     "party": "as",
+     "votes": 104952,
+     "pct": 2.35,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 59561,
+     "pct": 1.33,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the proportional (list) vote; seats are list, constituency and indigenous seats. Shares are of valid votes; 271,928 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-2009",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2009-12-06",
+   "turnout": 94.54,
+   "source": {
+    "name": "Wikipedia, citing the National Electoral Court (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2009_Bolivian_general_election",
+    "revid": 1371687635
+   },
+   "candidates": [
+    {
+     "name": "Evo Morales",
+     "party": "mas",
+     "votes": 2943209,
+     "pct": 64.22,
+     "winner": true
+    },
+    {
+     "name": "Manfred Reyes Villa",
+     "party": "ppb",
+     "votes": 1212795,
+     "pct": 26.46
+    },
+    {
+     "name": "Samuel Doria Medina",
+     "party": "un",
+     "votes": 258971,
+     "pct": 5.65
+    },
+    {
+     "name": "René Joaquino Carlos",
+     "party": "as",
+     "votes": 106027,
+     "pct": 2.31
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 61784,
+     "pct": 1.35
+    }
+   ],
+   "notes": "Turnout is the infobox's. Shares are of valid votes; 156,290 blank and 120,364 invalid votes are excluded."
+  },
+  {
+   "id": "bo-senate-2009",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2009-12-06",
+   "totalSeats": 36,
+   "turnout": 95.25,
+   "source": {
+    "name": "Wikipedia, citing the National Electoral Court (CNE)",
+    "url": "https://en.wikipedia.org/wiki/2009_Bolivian_general_election",
+    "revid": 1371687635
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 2851996,
+     "pct": 63.91,
+     "seats": 26,
+     "change": 14,
+     "winner": true
+    },
+    {
+     "name": "Plan Progress for Bolivia – National Convergence",
+     "party": "ppb",
+     "votes": 1190603,
+     "pct": 26.68,
+     "seats": 10,
+     "change": 9
+    },
+    {
+     "name": "National Unity Front",
+     "party": "un",
+     "votes": 255299,
+     "pct": 5.72,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Social Alliance",
+     "party": "as",
+     "votes": 104952,
+     "pct": 2.35,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 59561,
+     "pct": 1.33,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The Senate had 36 seats, up from 27 in 2005. Votes are the proportional (list) vote the table gives. Shares are of valid votes; 155,089 blank and 116,839 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-chamber-2014",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "2014-10-12",
+   "totalSeats": 130,
+   "turnout": 89.08,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2014_Bolivian_general_election",
+    "revid": 1331947455
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 3057618,
+     "pct": 61.01,
+     "seats": 88,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Democratic Unity",
+     "party": "ud",
+     "votes": 1228634,
+     "pct": 24.52,
+     "seats": 32,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 454233,
+     "pct": 9.06,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Fearless Movement",
+     "party": "msm",
+     "votes": 135997,
+     "pct": 2.71,
+     "seats": 0,
+     "change": -4
+    },
+    {
+     "name": "Green Party of Bolivia",
+     "party": "pvb",
+     "votes": 134906,
+     "pct": 2.69,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the proportional (list) vote; seats are list, constituency and indigenous seats. Shares are of valid votes; 106,268 blank and 201,485 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-2014",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2014-10-12",
+   "turnout": 87.9,
+   "source": {
+    "name": "Wikipedia, citing the Supreme Electoral Tribunal (TSE)",
+    "url": "https://en.wikipedia.org/wiki/2014_Bolivian_general_election",
+    "revid": 1331947455
+   },
+   "candidates": [
+    {
+     "name": "Evo Morales",
+     "party": "mas",
+     "votes": 3173304,
+     "pct": 61.36,
+     "winner": true
+    },
+    {
+     "name": "Samuel Doria Medina",
+     "party": "ud",
+     "votes": 1253288,
+     "pct": 24.23
+    },
+    {
+     "name": "Jorge Quiroga",
+     "party": "pdc",
+     "votes": 467311,
+     "pct": 9.04
+    },
+    {
+     "name": "Juan del Granado",
+     "party": "msm",
+     "votes": 140285,
+     "pct": 2.71
+    },
+    {
+     "name": "Fernando Vargas",
+     "party": "pvb",
+     "votes": 137240,
+     "pct": 2.65
+    }
+   ],
+   "notes": "Turnout is the infobox's. Shares are of valid votes; 108,187 blank and 208,061 invalid votes are excluded."
+  },
+  {
+   "id": "bo-senate-2014",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2014-10-12",
+   "totalSeats": 36,
+   "turnout": 89.08,
+   "source": {
+    "name": "Wikipedia, citing the Supreme Electoral Tribunal (TSE)",
+    "url": "https://en.wikipedia.org/wiki/2014_Bolivian_general_election",
+    "revid": 1331947455
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 3057618,
+     "pct": 61.01,
+     "seats": 25,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Democratic Unity",
+     "party": "ud",
+     "votes": 1228634,
+     "pct": 24.52,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 454233,
+     "pct": 9.06,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Fearless Movement",
+     "party": "msm",
+     "votes": 135997,
+     "pct": 2.71,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Green Party of Bolivia",
+     "party": "pvb",
+     "votes": 134906,
+     "pct": 2.69,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are the proportional (list) vote the table gives. Shares are of valid votes; 106,268 blank and 201,485 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-chamber-2019",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "2019-10-20",
+   "note": "Annulled",
+   "totalSeats": 130,
+   "turnout": 89.62,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2019_Bolivian_general_election",
+    "revid": 1374651127
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 2768712,
+     "pct": 46.64,
+     "seats": 67,
+     "change": -21,
+     "winner": true
+    },
+    {
+     "name": "Civic Community",
+     "party": "cc",
+     "votes": 2186352,
+     "pct": 36.83,
+     "seats": 50,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 522582,
+     "pct": 8.8,
+     "seats": 9,
+     "change": -1
+    },
+    {
+     "name": "Social Democratic Movement",
+     "party": "mds",
+     "votes": 256937,
+     "pct": 4.33,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Third System Movement",
+     "party": "mts",
+     "votes": 75532,
+     "pct": 1.27,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 125927,
+     "pct": 2.12,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The 2019 general election was annulled and repeated in 2020. Votes and shares are the proportional (list) vote; seats are list, constituency and indigenous seats. Shares are of valid votes; 91,640 blank and 222,882 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-president-2019",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2019-10-20",
+   "note": "Annulled",
+   "turnout": 88.31,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2019_Bolivian_general_election",
+    "revid": 1374651127
+   },
+   "candidates": [
+    {
+     "name": "Evo Morales",
+     "party": "mas",
+     "votes": 2889359,
+     "pct": 47.08,
+     "winner": true
+    },
+    {
+     "name": "Carlos Mesa",
+     "party": "cc",
+     "votes": 2240920,
+     "pct": 36.51
+    },
+    {
+     "name": "Chi Hyun Chung",
+     "party": "pdc",
+     "votes": 539081,
+     "pct": 8.78
+    },
+    {
+     "name": "Óscar Ortiz Antelo",
+     "party": "mds",
+     "votes": 260316,
+     "pct": 4.24
+    },
+    {
+     "name": "Félix Patzi",
+     "party": "mts",
+     "votes": 76827,
+     "pct": 1.25
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 131168,
+     "pct": 2.14
+    }
+   ],
+   "notes": "Official results gave Morales a first-round win with a lead of over 10 points; after disputes over the count, an OAS audit and protests, the results were annulled and new elections were held in 2020. Turnout is the infobox's. Shares are of valid votes; 93,507 blank and 229,337 invalid votes are excluded."
+  },
+  {
+   "id": "bo-senate-2019",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2019-10-20",
+   "note": "Annulled",
+   "totalSeats": 36,
+   "turnout": 89.62,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2019_Bolivian_general_election",
+    "revid": 1374651127
+   },
+   "candidates": [
+    {
+     "name": "Movement for Socialism",
+     "party": "mas",
+     "votes": 2768712,
+     "pct": 46.64,
+     "seats": 21,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Civic Community",
+     "party": "cc",
+     "votes": 2186352,
+     "pct": 36.83,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Social Democratic Movement",
+     "party": "mds",
+     "votes": 256937,
+     "pct": 4.33,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "pdc",
+     "votes": 522582,
+     "pct": 8.8,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Third System Movement",
+     "party": "mts",
+     "votes": 75532,
+     "pct": 1.27,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 125927,
+     "pct": 2.12,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The 2019 general election was annulled and repeated in 2020. Votes are the proportional (list) vote the table gives. Shares are of valid votes; 91,640 blank and 222,882 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  },
+  {
+   "id": "bo-chamber-2020",
+   "office": "Chamber of Deputies",
+   "kind": "legislative",
+   "date": "2020-10-18",
+   "totalSeats": 130,
+   "turnout": 89.79,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2020_Bolivian_general_election",
+    "revid": 1375430367
+   },
+   "candidates": [
+    {
+     "name": "Movimiento al Socialismo",
+     "party": "mas",
+     "votes": 3281803,
+     "pct": 54.73,
+     "seats": 75,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Civic Community",
+     "party": "cc",
+     "votes": 1748678,
+     "pct": 29.16,
+     "seats": 39,
+     "change": -11
+    },
+    {
+     "name": "Creemos",
+     "party": "creemos",
+     "votes": 843170,
+     "pct": 14.06,
+     "seats": 16,
+     "change": 7
+    },
+    {
+     "name": "Front For Victory",
+     "party": "fpv",
+     "votes": 92604,
+     "pct": 1.54,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 30147,
+     "pct": 0.5,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The Chamber table repeats the presidential electorate (7,332,926), so turnout uses the Senate table's electorate (7,031,295) with the same list votes and invalid and blank votes (317,057 in all). Votes and shares are the proportional (list) vote; seats are list, constituency and indigenous seats. Seven lists that ran only for constituency or indigenous seats (Libre 21 and six indigenous organisations) won no seats and have no list votes; they are left out. Shares are of valid votes; 317,057 invalid votes are excluded."
+  },
+  {
+   "id": "bo-president-2020",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2020-10-18",
+   "turnout": 88.42,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2020_Bolivian_general_election",
+    "revid": 1375430367
+   },
+   "candidates": [
+    {
+     "name": "Luis Arce",
+     "party": "mas",
+     "votes": 3394052,
+     "pct": 55.11,
+     "winner": true
+    },
+    {
+     "name": "Carlos Mesa",
+     "party": "cc",
+     "votes": 1775953,
+     "pct": 28.83
+    },
+    {
+     "name": "Luis Fernando Camacho",
+     "party": "creemos",
+     "votes": 862186,
+     "pct": 14
+    },
+    {
+     "name": "Chi Hyun Chung",
+     "party": "fpv",
+     "votes": 95255,
+     "pct": 1.55
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 31765,
+     "pct": 0.52
+    }
+   ],
+   "notes": "Turnout is the infobox's. Shares are of valid votes; 91,419 blank and 233,378 invalid votes are excluded. Region winners are the candidate with the most votes in each department, from the article's results-by-department table.",
+   "regionWinners": {
+    "B": "cc",
+    "H": "mas",
+    "C": "mas",
+    "L": "mas",
+    "O": "mas",
+    "N": "mas",
+    "P": "mas",
+    "S": "creemos",
+    "T": "cc"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2020_Bolivian_general_election"
+  },
+  {
+   "id": "bo-senate-2020",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2020-10-18",
+   "totalSeats": 36,
+   "turnout": 89.79,
+   "source": {
+    "name": "Wikipedia, citing the Plurinational Electoral Organ (OEP)",
+    "url": "https://en.wikipedia.org/wiki/2020_Bolivian_general_election",
+    "revid": 1375430367
+   },
+   "candidates": [
+    {
+     "name": "Movimiento al Socialismo",
+     "party": "mas",
+     "votes": 3281803,
+     "pct": 54.73,
+     "seats": 21,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Civic Community",
+     "party": "cc",
+     "votes": 1748678,
+     "pct": 29.16,
+     "seats": 11,
+     "change": -3
+    },
+    {
+     "name": "Creemos",
+     "party": "creemos",
+     "votes": 843170,
+     "pct": 14.06,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Front For Victory",
+     "party": "fpv",
+     "votes": 92604,
+     "pct": 1.54,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 30147,
+     "pct": 0.5,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are the proportional (list) vote the table gives. Shares are of valid votes; 90,296 blank and 226,761 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+  }
+ ]
+}

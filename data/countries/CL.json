@@ -1,0 +1,915 @@
+{
+  "code": "CL",
+  "name": "Chile",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "National Congress: Chamber of Deputies (155) and Senate (50)",
+    "votingAge": 18,
+    "compulsory": true,
+    "registered": 15779102,
+    "offices": {
+      "President": "Elected by popular vote for a four-year term, with a run-off between the top two if no candidate wins more than half the valid votes; a president may run again only after a term out of office. The president is head of state and head of government.",
+      "Chamber of Deputies": "All 155 deputies are elected for four years in 28 multi-member districts of three to eight seats by open-list proportional representation (d'Hondt). Together with the Senate it makes the laws.",
+      "Senate": "The 50 senators serve staggered eight-year terms: about half are elected at each general election, in 16 regional constituencies of two to five seats under the same proportional rules. It shares law-making with the Chamber of Deputies."
+    }
+  },
+  "parties": {
+    "pr": {
+      "name": "Radical Party",
+      "color": "#CD5C5C"
+    },
+    "prsd": {
+      "name": "Social Democrat Radical Party",
+      "color": "#CD5C5C"
+    },
+    "pdc": {
+      "name": "Christian Democratic Party",
+      "color": "#1E90FF"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#CE0021"
+    },
+    "pc": {
+      "name": "Communist Party",
+      "color": "#B22222"
+    },
+    "ppd": {
+      "name": "Party for Democracy",
+      "color": "#FFA500"
+    },
+    "rn": {
+      "name": "National Renewal",
+      "color": "#0054D6"
+    },
+    "udi": {
+      "name": "Independent Democratic Union",
+      "color": "#29398A"
+    },
+    "pl": {
+      "name": "Liberal Party",
+      "color": "#FFD700"
+    },
+    "pl13": {
+      "name": "Liberal Party",
+      "color": "#F5D60A"
+    },
+    "pcu": {
+      "name": "United Conservative Party",
+      "color": "#0000FF"
+    },
+    "pcsc": {
+      "name": "Social Christian Conservative Party",
+      "color": "#00008B"
+    },
+    "pct": {
+      "name": "Traditionalist Conservative Party",
+      "color": "#0000FF"
+    },
+    "pal": {
+      "name": "Agrarian Labor Party",
+      "color": "#008000"
+    },
+    "dr": {
+      "name": "Radical Democracy",
+      "color": "#00E2C8"
+    },
+    "psp": {
+      "name": "Popular Socialist Party",
+      "color": "#C71585"
+    },
+    "pdo": {
+      "name": "Democratic Party",
+      "color": "#00FF00"
+    },
+    "pdm": {
+      "name": "Democrat Party",
+      "color": "#E3431F"
+    },
+    "fn": {
+      "name": "National Falange",
+      "color": "#0080FF"
+    },
+    "pdp": {
+      "name": "People's Democratic Party",
+      "color": "#013068"
+    },
+    "psa": {
+      "name": "Authentic Socialist Party",
+      "color": "#8B0000"
+    },
+    "plp": {
+      "name": "Progressive Liberal Party",
+      "color": "#BDB76B"
+    },
+    "prd": {
+      "name": "Radical Doctrinaire Party",
+      "color": "#FF69B4"
+    },
+    "plab": {
+      "name": "Laborista Party",
+      "color": "#B8860B"
+    },
+    "arc": {
+      "name": "Chilean Renovating Action",
+      "color": "#000000"
+    },
+    "mni": {
+      "name": "National Ibañista Movement",
+      "color": "#556B2F"
+    },
+    "uni": {
+      "name": "National Union of Independents",
+      "color": "#808080"
+    },
+    "mnp": {
+      "name": "People's National Movement",
+      "color": "#7B3F9E"
+    },
+    "pcn": {
+      "name": "Christian National Party",
+      "color": "#40E0D0"
+    },
+    "pa": {
+      "name": "Agrarian Party",
+      "color": "#9ACD32"
+    },
+    "pun": {
+      "name": "People's Unity",
+      "color": "#8B4513"
+    },
+    "ptrab": {
+      "name": "Labour Party",
+      "color": "#8B0000"
+    },
+    "mr": {
+      "name": "Republican Movement",
+      "color": "#FFA500"
+    },
+    "padena": {
+      "name": "National Democratic Party",
+      "color": "#013068"
+    },
+    "vnp": {
+      "name": "National Vanguard of the People",
+      "color": "#9C6B30"
+    },
+    "pn": {
+      "name": "National Party",
+      "color": "#00008B"
+    },
+    "usp": {
+      "name": "Popular Socialist Union",
+      "color": "#FF1100"
+    },
+    "api": {
+      "name": "Independent Popular Action",
+      "color": "#228B22"
+    },
+    "psd": {
+      "name": "Social Democrat Party",
+      "color": "#E75480"
+    },
+    "psdch": {
+      "name": "Chilean Social Democracy Party",
+      "color": "#FF6347"
+    },
+    "mapu": {
+      "name": "Popular Unitary Action Movement",
+      "color": "#71C837"
+    },
+    "ic": {
+      "name": "Christian Left",
+      "color": "#BB98C7"
+    },
+    "up": {
+      "name": "Popular Unity",
+      "color": "#DC0C0C"
+    },
+    "ph": {
+      "name": "Humanist Party",
+      "color": "#FF4500"
+    },
+    "pais": {
+      "name": "Broad Party of Socialist Left",
+      "color": "#8B1A1A"
+    },
+    "psur": {
+      "name": "Party of the South",
+      "color": "#00C100"
+    },
+    "ucc": {
+      "name": "Union of the Centrist Center",
+      "color": "#DAA520"
+    },
+    "ahv": {
+      "name": "Humanist Green Alliance",
+      "color": "#FF8000"
+    },
+    "pev": {
+      "name": "Green Ecologist Party",
+      "color": "#03BF00"
+    },
+    "parch": {
+      "name": "Regionalist Action Party",
+      "color": "#FDFA2F"
+    },
+    "pri": {
+      "name": "Independent Regionalist Party",
+      "color": "#6B8E23"
+    },
+    "mas": {
+      "name": "MAS Region",
+      "color": "#8E44AD"
+    },
+    "pro": {
+      "name": "Progressive Party",
+      "color": "#FF1493"
+    },
+    "pi": {
+      "name": "Equality Party",
+      "color": "#000000"
+    },
+    "evo": {
+      "name": "Evópoli",
+      "color": "#0CB8E6"
+    },
+    "rd": {
+      "name": "Democratic Revolution",
+      "color": "#1D4C4F"
+    },
+    "pod": {
+      "name": "Citizen Power",
+      "color": "#412560"
+    },
+    "paisn": {
+      "name": "País",
+      "color": "#C11469"
+    },
+    "frvs": {
+      "name": "Social Green Regionalist Federation",
+      "color": "#83B926"
+    },
+    "amp": {
+      "name": "Amplitude",
+      "color": "#FCE883"
+    },
+    "ciu": {
+      "name": "Citizens",
+      "color": "#9932CC"
+    },
+    "prid": {
+      "name": "Democratic Independent Regionalist Party",
+      "color": "#B5651D"
+    },
+    "comunes": {
+      "name": "Comunes",
+      "color": "#412560"
+    },
+    "cs": {
+      "name": "Social Convergence",
+      "color": "#FF1455"
+    },
+    "rep": {
+      "name": "Republican Party",
+      "color": "#22446D"
+    },
+    "pcc": {
+      "name": "Christian Conservative Party",
+      "color": "#000080"
+    },
+    "pdg": {
+      "name": "Party of the People",
+      "color": "#6D4C41"
+    },
+    "cu": {
+      "name": "United Centre",
+      "color": "#037E3B"
+    },
+    "fa": {
+      "name": "Frente Amplio",
+      "color": "#05BC93"
+    },
+    "pnl": {
+      "name": "National Libertarian Party",
+      "color": "#2D2D2D"
+    },
+    "psc": {
+      "name": "Christian Social Party",
+      "color": "#7A4FA3"
+    },
+    "dem": {
+      "name": "Democrats",
+      "color": "#DA1764"
+    },
+    "ah": {
+      "name": "Humanist Action",
+      "color": "#E8A0BF"
+    },
+    "pcap": {
+      "name": "Chilean Communist Party (Proletarian Action)",
+      "color": "#D40000"
+    },
+    "alianza": {
+      "name": "Alliance",
+      "color": "#4682B4"
+    },
+    "chv": {
+      "name": "Chile Vamos",
+      "color": "#006BB0"
+    },
+    "nm": {
+      "name": "New Majority",
+      "color": "#FFA500"
+    },
+    "fac": {
+      "name": "Broad Front",
+      "color": "#05BC93"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "indibanez": {
+      "name": "Independent",
+      "color": "#7A7A7A"
+    },
+    "indalessandri": {
+      "name": "Independent",
+      "color": "#5A7D9A"
+    },
+    "indzamorano": {
+      "name": "Independent",
+      "color": "#9C8F6E"
+    },
+    "inderrazuriz": {
+      "name": "Independent",
+      "color": "#B22222"
+    },
+    "indjpinera": {
+      "name": "Independent",
+      "color": "#8E8E93"
+    },
+    "indparisi": {
+      "name": "Independent",
+      "color": "#8E8E93"
+    },
+    "indkast": {
+      "name": "Independent",
+      "color": "#22446D"
+    },
+    "indmaynenicholls": {
+      "name": "Independent",
+      "color": "#8E8E93"
+    },
+    "indmeo": {
+      "name": "Independent",
+      "color": "#FF1493"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "appointed": {
+      "name": "Appointed senators",
+      "color": "#78787F"
+    },
+    "lifesen": {
+      "name": "Former presidents",
+      "color": "#B0A090"
+    }
+  },
+  "elections": [
+    {
+      "id": "cl-president-2025",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2025-11-16",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 85.14,
+      "system": "Two-round popular vote, four-year term",
+      "cite": {
+        "name": "the Election Certification Court (Tricel)",
+        "url": "https://en.wikipedia.org/wiki/2025_Chilean_general_election"
+      },
+      "candidates": [
+        {
+          "name": "José Antonio Kast",
+          "party": "rep",
+          "votes": 7263236,
+          "pct": 58.17,
+          "winner": true
+        },
+        {
+          "name": "Jeannette Jara",
+          "party": "pc",
+          "votes": 5222558,
+          "pct": 41.83
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2025-11-16",
+          "candidates": [
+            {
+              "name": "Jeannette Jara",
+              "party": "pc",
+              "votes": 3483490,
+              "pct": 26.85
+            },
+            {
+              "name": "José Antonio Kast",
+              "party": "rep",
+              "votes": 3104458,
+              "pct": 23.93
+            },
+            {
+              "name": "Franco Parisi",
+              "party": "pdg",
+              "votes": 2557737,
+              "pct": 19.71
+            },
+            {
+              "name": "Johannes Kaiser",
+              "party": "pnl",
+              "votes": 1808434,
+              "pct": 13.94
+            },
+            {
+              "name": "Evelyn Matthei",
+              "party": "udi",
+              "votes": 1617720,
+              "pct": 12.47
+            },
+            {
+              "name": "Harold Mayne-Nicholls",
+              "party": "indmaynenicholls",
+              "votes": 163105,
+              "pct": 1.26
+            },
+            {
+              "name": "Marco Enríquez-Ominami",
+              "party": "indmeo",
+              "votes": 154698,
+              "pct": 1.19
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 85392,
+              "pct": 0.66
+            }
+          ],
+          "regions": [
+            {"name":"Antofagasta","abbr":"AN","winner":"pc","margin":15.3,"turnout":82.3,"votes":661613,"results":[{"party":"pc","pct":34.6,"votes":228918},{"party":"rep","pct":19.3,"votes":127691},{"party":"udi","pct":18.8,"votes":124383},{"party":"pdg","pct":18.6,"votes":123060},{"party":"pnl","pct":8.7,"votes":57560}]},
+            {"name":"Araucanía","abbr":"AR","winner":"pc","margin":4.8,"turnout":88.9,"votes":838095,"results":[{"party":"pc","pct":29.8,"votes":249752},{"party":"pdg","pct":25,"votes":209524},{"party":"rep","pct":20.2,"votes":169295},{"party":"udi","pct":13.5,"votes":113143},{"party":"pnl","pct":11.5,"votes":96381}]},
+            {"name":"Arica y Parinacota","abbr":"AP","winner":"rep","margin":9,"turnout":86.5,"votes":767486,"results":[{"party":"rep","pct":32.8,"votes":251735},{"party":"pdg","pct":23.8,"votes":182662},{"party":"pc","pct":20.8,"votes":159637},{"party":"pnl","pct":12.9,"votes":99006},{"party":"udi","pct":9.8,"votes":75214}]},
+            {"name":"Atacama","abbr":"AT","winner":"rep","margin":5.8,"turnout":89.2,"votes":890718,"results":[{"party":"rep","pct":27.4,"votes":244057},{"party":"pc","pct":21.6,"votes":192395},{"party":"pdg","pct":18.1,"votes":161220},{"party":"pnl","pct":16.6,"votes":147859},{"party":"udi","pct":16.3,"votes":145187}]},
+            {"name":"Aysén","abbr":"AI","winner":"pc","margin":14.2,"turnout":78.3,"votes":877890,"results":[{"party":"pc","pct":38.2,"votes":335354},{"party":"pdg","pct":24,"votes":210694},{"party":"rep","pct":14.1,"votes":123782},{"party":"udi","pct":13.8,"votes":121149},{"party":"pnl","pct":10,"votes":87789}]},
+            {"name":"Biobío","abbr":"BI","winner":"pc","margin":3.2,"turnout":80.8,"votes":743810,"results":[{"party":"pc","pct":25.4,"votes":188928},{"party":"rep","pct":22.2,"votes":165126},{"party":"pnl","pct":18.4,"votes":136861},{"party":"pdg","pct":17.6,"votes":130911},{"party":"udi","pct":16.4,"votes":121985}]},
+            {"name":"Coquimbo","abbr":"CO","winner":"pc","margin":11.2,"turnout":89.5,"votes":959164,"results":[{"party":"pc","pct":32,"votes":306932},{"party":"udi","pct":20.8,"votes":199506},{"party":"rep","pct":19.1,"votes":183200},{"party":"pdg","pct":14.3,"votes":137160},{"party":"pnl","pct":13.7,"votes":131405}]},
+            {"name":"Los Lagos","abbr":"LL","winner":"pc","margin":8.1,"turnout":78.6,"votes":700521,"results":[{"party":"pc","pct":32.1,"votes":224867},{"party":"pdg","pct":24,"votes":168125},{"party":"rep","pct":20,"votes":140104},{"party":"udi","pct":15.3,"votes":107180},{"party":"pnl","pct":8.6,"votes":60245}]},
+            {"name":"Los Ríos","abbr":"LR","winner":"rep","margin":20.2,"turnout":79.2,"votes":905978,"results":[{"party":"rep","pct":40.4,"votes":366015},{"party":"pc","pct":20.2,"votes":183008},{"party":"udi","pct":15.4,"votes":139521},{"party":"pdg","pct":13.2,"votes":119589},{"party":"pnl","pct":10.8,"votes":97846}]},
+            {"name":"Magallanes","abbr":"MA","winner":"rep","margin":2,"turnout":89.4,"votes":829048,"results":[{"party":"rep","pct":29.2,"votes":242082},{"party":"pdg","pct":27.2,"votes":225501},{"party":"pc","pct":18.7,"votes":155032},{"party":"pnl","pct":17,"votes":140938},{"party":"udi","pct":7.9,"votes":65495}]},
+            {"name":"Maule","abbr":"ML","winner":"pc","margin":20.3,"turnout":83.6,"votes":962528,"results":[{"party":"pc","pct":36.9,"votes":355173},{"party":"pdg","pct":16.6,"votes":159780},{"party":"pnl","pct":16.6,"votes":159780},{"party":"rep","pct":15.1,"votes":145342},{"party":"udi","pct":14.7,"votes":141492}]},
+            {"name":"Ñuble","abbr":"NB","winner":"pc","margin":4,"turnout":78.3,"votes":827947,"results":[{"party":"pc","pct":29.6,"votes":245072},{"party":"rep","pct":25.6,"votes":211954},{"party":"pdg","pct":17.1,"votes":141579},{"party":"pnl","pct":15.9,"votes":131644},{"party":"udi","pct":11.8,"votes":97698}]},
+            {"name":"O'Higgins","abbr":"LI","winner":"rep","margin":1.6,"turnout":87.7,"votes":851830,"results":[{"party":"rep","pct":27.7,"votes":235957},{"party":"pc","pct":26.1,"votes":222328},{"party":"pdg","pct":22.1,"votes":188254},{"party":"udi","pct":16.5,"votes":140552},{"party":"pnl","pct":7.6,"votes":64739}]},
+            {"name":"Santiago Metropolitan","abbr":"RM","winner":"pc","margin":8.7,"turnout":81,"votes":749168,"results":[{"party":"pc","pct":27.5,"votes":206021},{"party":"udi","pct":18.8,"votes":140844},{"party":"pdg","pct":18.4,"votes":137847},{"party":"pnl","pct":18.2,"votes":136349},{"party":"rep","pct":17.1,"votes":128108}]},
+            {"name":"Tarapacá","abbr":"TA","winner":"rep","margin":6.8,"turnout":89.7,"votes":739219,"results":[{"party":"rep","pct":30.1,"votes":222505},{"party":"pc","pct":23.3,"votes":172238},{"party":"pdg","pct":17.4,"votes":128624},{"party":"pnl","pct":16.2,"votes":119753},{"party":"udi","pct":13,"votes":96098}]},
+            {"name":"Valparaíso","abbr":"VS","winner":"rep","margin":10.6,"turnout":82.4,"votes":881252,"results":[{"party":"rep","pct":33.4,"votes":294338},{"party":"pc","pct":22.8,"votes":200925},{"party":"pdg","pct":17.3,"votes":152457},{"party":"pnl","pct":14.5,"votes":127782},{"party":"udi","pct":12.1,"votes":106631}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2025-12-14",
+          "candidates": [
+            {
+              "name": "José Antonio Kast",
+              "party": "rep",
+              "votes": 7263236,
+              "pct": 58.17,
+              "winner": true
+            },
+            {
+              "name": "Jeannette Jara",
+              "party": "pc",
+              "votes": 5222558,
+              "pct": 41.83
+            }
+          ],
+          "regions": [
+            {"name":"Antofagasta","abbr":"AN","winner":"rep","margin":38.4,"turnout":85.6,"votes":883308,"results":[{"party":"rep","pct":69.2,"votes":611249},{"party":"pc","pct":30.8,"votes":272059}]},
+            {"name":"Araucanía","abbr":"AR","winner":"rep","margin":20,"turnout":83.7,"votes":734292,"results":[{"party":"rep","pct":60,"votes":440575},{"party":"pc","pct":40,"votes":293717}]},
+            {"name":"Arica y Parinacota","abbr":"AP","winner":"rep","margin":28.4,"turnout":79,"votes":839598,"results":[{"party":"rep","pct":64.2,"votes":539022},{"party":"pc","pct":35.8,"votes":300576}]},
+            {"name":"Atacama","abbr":"AT","winner":"rep","margin":16.4,"turnout":91.2,"votes":913341,"results":[{"party":"rep","pct":58.2,"votes":531564},{"party":"pc","pct":41.8,"votes":381777}]},
+            {"name":"Aysén","abbr":"AI","winner":"pc","margin":9.2,"turnout":86.7,"votes":716903,"results":[{"party":"pc","pct":54.6,"votes":391429},{"party":"rep","pct":45.4,"votes":325474}]},
+            {"name":"Biobío","abbr":"BI","winner":"pc","margin":32.6,"turnout":78.6,"votes":667349,"results":[{"party":"pc","pct":66.3,"votes":442452},{"party":"rep","pct":33.7,"votes":224897}]},
+            {"name":"Coquimbo","abbr":"CO","winner":"pc","margin":7,"turnout":91.7,"votes":848234,"results":[{"party":"pc","pct":53.5,"votes":453805},{"party":"rep","pct":46.5,"votes":394429}]},
+            {"name":"Los Lagos","abbr":"LL","winner":"rep","margin":53.6,"turnout":81.6,"votes":857604,"results":[{"party":"rep","pct":76.8,"votes":658640},{"party":"pc","pct":23.2,"votes":198964}]},
+            {"name":"Los Ríos","abbr":"LR","winner":"rep","margin":2.6,"turnout":88.6,"votes":909719,"results":[{"party":"rep","pct":51.3,"votes":466686},{"party":"pc","pct":48.7,"votes":443033}]},
+            {"name":"Magallanes","abbr":"MA","winner":"rep","margin":43.4,"turnout":80.8,"votes":876637,"results":[{"party":"rep","pct":71.7,"votes":628549},{"party":"pc","pct":28.3,"votes":248088}]},
+            {"name":"Maule","abbr":"ML","winner":"rep","margin":19.6,"turnout":88.8,"votes":642788,"results":[{"party":"rep","pct":59.8,"votes":384387},{"party":"pc","pct":40.2,"votes":258401}]},
+            {"name":"Ñuble","abbr":"NB","winner":"rep","margin":53.8,"turnout":85.7,"votes":859910,"results":[{"party":"rep","pct":76.9,"votes":661271},{"party":"pc","pct":23.1,"votes":198639}]},
+            {"name":"O'Higgins","abbr":"LI","winner":"rep","margin":1.6,"turnout":84,"votes":857524,"results":[{"party":"rep","pct":50.8,"votes":435622},{"party":"pc","pct":49.2,"votes":421902}]},
+            {"name":"Santiago Metropolitan","abbr":"RM","winner":"pc","margin":5,"turnout":91.3,"votes":827032,"results":[{"party":"pc","pct":52.5,"votes":434192},{"party":"rep","pct":47.5,"votes":392840}]},
+            {"name":"Tarapacá","abbr":"TA","winner":"rep","margin":3.8,"turnout":85,"votes":730147,"results":[{"party":"rep","pct":51.9,"votes":378946},{"party":"pc","pct":48.1,"votes":351201}]},
+            {"name":"Valparaíso","abbr":"VS","winner":"rep","margin":55,"turnout":88.4,"votes":864649,"results":[{"party":"rep","pct":77.5,"votes":670103},{"party":"pc","pct":22.5,"votes":194546}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cl-chamber-2025",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2025-11-16",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 85.82,
+      "system": "155 seats, list proportional by district",
+      "totalSeats": 155,
+      "majority": 78,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2025_Chilean_general_election"
+      },
+      "candidates": [
+        {
+          "name": "Republican Party",
+          "party": "rep",
+          "votes": 1424832,
+          "pct": 13.29,
+          "seats": 31,
+          "change": 17,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 895233,
+          "pct": 8.35,
+          "seats": 18,
+          "change": -5
+        },
+        {
+          "name": "Frente Amplio",
+          "party": "fa",
+          "votes": 807731,
+          "pct": 7.54,
+          "seats": 17,
+          "change": -6
+        },
+        {
+          "name": "Party of the People",
+          "party": "pdg",
+          "votes": 1285464,
+          "pct": 11.99,
+          "seats": 14,
+          "change": 8
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 868240,
+          "pct": 8.1,
+          "seats": 13,
+          "change": -12
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 586348,
+          "pct": 5.47,
+          "seats": 11,
+          "change": -2
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 538793,
+          "pct": 5.03,
+          "seats": 11,
+          "change": -1
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 430524,
+          "pct": 4.02,
+          "seats": 9,
+          "change": 2
+        },
+        {
+          "name": "National Libertarian Party",
+          "party": "pnl",
+          "votes": 679500,
+          "pct": 6.34,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 454544,
+          "pct": 4.24,
+          "seats": 8,
+          "change": 0
+        },
+        {
+          "name": "Christian Social Party",
+          "party": "psc",
+          "votes": 362888,
+          "pct": 3.39,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl13",
+          "votes": 237343,
+          "pct": 2.21,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Social Green Regionalist Federation",
+          "party": "frvs",
+          "votes": 458537,
+          "pct": 4.28,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Evópoli",
+          "party": "evo",
+          "votes": 280261,
+          "pct": 2.61,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Radical Party",
+          "party": "prsd",
+          "votes": 225361,
+          "pct": 2.1,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Humanist Action",
+          "party": "ah",
+          "votes": 282468,
+          "pct": 2.64,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 212930,
+          "pct": 1.99,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 73475,
+          "pct": 0.69,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 199680,
+          "pct": 1.86,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 413879,
+          "pct": 3.86,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Antofagasta","abbr":"AN","winner":"pdg","margin":9.6,"turnout":87.8,"votes":612954,"results":[{"party":"pdg","pct":34.7,"votes":212695},{"party":"rep","pct":25.1,"votes":153851},{"party":"rn","pct":17.3,"votes":106041},{"party":"udi","pct":13.3,"votes":81523},{"party":"fa","pct":9.7,"votes":59457}]},
+        {"name":"Araucanía","abbr":"AR","winner":"rep","margin":7.5,"turnout":90,"votes":739137,"results":[{"party":"rep","pct":29.2,"votes":215828},{"party":"rn","pct":21.7,"votes":160393},{"party":"pdg","pct":19,"votes":140436},{"party":"fa","pct":16.8,"votes":124175},{"party":"udi","pct":13.3,"votes":98305}]},
+        {"name":"Arica y Parinacota","abbr":"AP","winner":"pdg","margin":15.9,"turnout":80.7,"votes":797645,"results":[{"party":"pdg","pct":34.6,"votes":275985},{"party":"rep","pct":18.7,"votes":149160},{"party":"fa","pct":17.8,"votes":141981},{"party":"udi","pct":16.9,"votes":134802},{"party":"rn","pct":11.9,"votes":94920}]},
+        {"name":"Atacama","abbr":"AT","winner":"pdg","margin":2.4,"turnout":82.5,"votes":691423,"results":[{"party":"pdg","pct":28.7,"votes":198438},{"party":"rep","pct":26.3,"votes":181844},{"party":"udi","pct":19.7,"votes":136210},{"party":"rn","pct":14.3,"votes":98873},{"party":"fa","pct":11,"votes":76057}]},
+        {"name":"Aysén","abbr":"AI","winner":"pdg","margin":2,"turnout":84.1,"votes":756853,"results":[{"party":"pdg","pct":28.5,"votes":215703},{"party":"rep","pct":26.5,"votes":200566},{"party":"rn","pct":17.8,"votes":134720},{"party":"udi","pct":14.9,"votes":112771},{"party":"fa","pct":12.2,"votes":92336}]},
+        {"name":"Biobío","abbr":"BI","winner":"rep","margin":15.8,"turnout":83.1,"votes":652459,"results":[{"party":"rep","pct":35.4,"votes":230970},{"party":"pdg","pct":19.6,"votes":127882},{"party":"rn","pct":17.4,"votes":113528},{"party":"fa","pct":16,"votes":104393},{"party":"udi","pct":11.6,"votes":75685}]},
+        {"name":"Coquimbo","abbr":"CO","winner":"pdg","margin":7.5,"turnout":81.6,"votes":658270,"results":[{"party":"pdg","pct":36.4,"votes":239610},{"party":"rep","pct":28.9,"votes":190240},{"party":"udi","pct":12.8,"votes":84259},{"party":"fa","pct":11.2,"votes":73726},{"party":"rn","pct":10.7,"votes":70435}]},
+        {"name":"Los Lagos","abbr":"LL","winner":"pdg","margin":7.9,"turnout":82.2,"votes":634810,"results":[{"party":"pdg","pct":33.3,"votes":211392},{"party":"rn","pct":25.4,"votes":161242},{"party":"rep","pct":21,"votes":133310},{"party":"fa","pct":10.8,"votes":68559},{"party":"udi","pct":9.5,"votes":60307}]},
+        {"name":"Los Ríos","abbr":"LR","winner":"rep","margin":14,"turnout":82.4,"votes":682289,"results":[{"party":"rep","pct":33.2,"votes":226520},{"party":"rn","pct":19.2,"votes":130999},{"party":"fa","pct":17.8,"votes":121447},{"party":"pdg","pct":16.3,"votes":111213},{"party":"udi","pct":13.5,"votes":92109}]},
+        {"name":"Magallanes","abbr":"MA","winner":"rep","margin":11,"turnout":87.6,"votes":718422,"results":[{"party":"rep","pct":30.7,"votes":220556},{"party":"pdg","pct":19.7,"votes":141529},{"party":"udi","pct":18.1,"votes":130034},{"party":"rn","pct":17.5,"votes":125724},{"party":"fa","pct":14,"votes":100579}]},
+        {"name":"Maule","abbr":"ML","winner":"rep","margin":10.7,"turnout":91.1,"votes":595742,"results":[{"party":"rep","pct":30.8,"votes":183489},{"party":"fa","pct":20.1,"votes":119744},{"party":"rn","pct":17.4,"votes":103659},{"party":"pdg","pct":15.9,"votes":94723},{"party":"udi","pct":15.8,"votes":94127}]},
+        {"name":"Ñuble","abbr":"NB","winner":"pdg","margin":10.9,"turnout":80.6,"votes":691347,"results":[{"party":"pdg","pct":30.3,"votes":209478},{"party":"rn","pct":19.4,"votes":134121},{"party":"udi","pct":18.5,"votes":127899},{"party":"fa","pct":17.6,"votes":121677},{"party":"rep","pct":14.1,"votes":97480}]},
+        {"name":"O'Higgins","abbr":"LI","winner":"rep","margin":10.9,"turnout":90,"votes":711038,"results":[{"party":"rep","pct":33,"votes":234643},{"party":"pdg","pct":22.1,"votes":157139},{"party":"udi","pct":16,"votes":113766},{"party":"rn","pct":14.5,"votes":103101},{"party":"fa","pct":14.5,"votes":103101}]},
+        {"name":"Santiago Metropolitan","abbr":"RM","winner":"rep","margin":19.9,"turnout":81.2,"votes":619367,"results":[{"party":"rep","pct":40.9,"votes":253321},{"party":"udi","pct":21,"votes":130067},{"party":"pdg","pct":14.9,"votes":92286},{"party":"fa","pct":13.5,"votes":83615},{"party":"rn","pct":9.7,"votes":60079}]},
+        {"name":"Tarapacá","abbr":"TA","winner":"rep","margin":13.6,"turnout":92.2,"votes":562161,"results":[{"party":"rep","pct":34.3,"votes":192821},{"party":"udi","pct":20.7,"votes":116367},{"party":"rn","pct":18.8,"votes":105686},{"party":"pdg","pct":13.3,"votes":74767},{"party":"fa","pct":13,"votes":73081}]},
+        {"name":"Valparaíso","abbr":"VS","winner":"rep","margin":18.5,"turnout":80.9,"votes":728520,"results":[{"party":"rep","pct":37.8,"votes":275381},{"party":"fa","pct":19.3,"votes":140604},{"party":"rn","pct":15.9,"votes":115835},{"party":"udi","pct":14.2,"votes":103450},{"party":"pdg","pct":12.7,"votes":92522}]}
+      ]
+    },
+    {
+      "id": "cl-senate-2025",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2025-11-16",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 85.56,
+      "system": "50 seats, renewed by halves every four years",
+      "totalSeats": 50,
+      "majority": 26,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2025_Chilean_general_election"
+      },
+      "candidates": [
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 431539,
+          "pct": 13.93,
+          "seats": 8,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 222833,
+          "pct": 7.19,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Republican Party",
+          "party": "rep",
+          "votes": 534981,
+          "pct": 17.27,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 231239,
+          "pct": 7.46,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 147244,
+          "pct": 4.75,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 258229,
+          "pct": 8.34,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 93550,
+          "pct": 3.02,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Social Green Regionalist Federation",
+          "party": "frvs",
+          "votes": 80295,
+          "pct": 2.59,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Frente Amplio",
+          "party": "fa",
+          "votes": 155053,
+          "pct": 5,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Christian Social Party",
+          "party": "psc",
+          "votes": 80426,
+          "pct": 2.6,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Democrats",
+          "party": "dem",
+          "votes": 77986,
+          "pct": 2.52,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 65019,
+          "pct": 2.1,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Political Evolution",
+          "party": "evo",
+          "votes": 11253,
+          "pct": 0.36,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "National Libertarian Party",
+          "party": "pnl",
+          "votes": 171602,
+          "pct": 5.54,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl13",
+          "votes": 75036,
+          "pct": 2.42,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Party of the People",
+          "party": "pdg",
+          "votes": 325676,
+          "pct": 10.51,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Radical Party",
+          "party": "prsd",
+          "votes": 45485,
+          "pct": 1.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Humanist Action",
+          "party": "ah",
+          "votes": 42923,
+          "pct": 1.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 47705,
+          "pct": 1.54,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Antofagasta","abbr":"AN","contested":false,"winner":null},
+        {"name":"Araucanía","abbr":"AR","winner":"rep","margin":15.2,"turnout":90.9,"votes":162200,"results":[{"party":"rep","pct":40.2,"votes":65204},{"party":"rn","pct":25,"votes":40550},{"party":"pdg","pct":18.1,"votes":29358},{"party":"pc","pct":9.9,"votes":16058},{"party":"udi","pct":6.8,"votes":11030}],"contested":true},
+        {"name":"Arica y Parinacota","abbr":"AP","winner":"rn","margin":4,"turnout":87.8,"votes":168327,"results":[{"party":"rn","pct":25.8,"votes":43428},{"party":"pdg","pct":21.8,"votes":36695},{"party":"udi","pct":19.5,"votes":32824},{"party":"pc","pct":17.3,"votes":29121},{"party":"rep","pct":15.6,"votes":26259}],"contested":true},
+        {"name":"Atacama","abbr":"AT","winner":"rn","margin":0.2,"turnout":87.3,"votes":220743,"results":[{"party":"rn","pct":30.4,"votes":67106},{"party":"rep","pct":30.2,"votes":66664},{"party":"pdg","pct":15.1,"votes":33332},{"party":"udi","pct":14.3,"votes":31566},{"party":"pc","pct":10.1,"votes":22295}],"contested":true},
+        {"name":"Aysén","abbr":"AI","winner":"rn","margin":5.6,"turnout":92.6,"votes":180125,"results":[{"party":"rn","pct":33.2,"votes":59802},{"party":"rep","pct":27.6,"votes":49715},{"party":"pc","pct":16.5,"votes":29721},{"party":"udi","pct":13.6,"votes":24497},{"party":"pdg","pct":9,"votes":16211}],"contested":true},
+        {"name":"Biobío","abbr":"BI","contested":false,"winner":null},
+        {"name":"Coquimbo","abbr":"CO","contested":false,"winner":null},
+        {"name":"Los Lagos","abbr":"LL","contested":false,"winner":null},
+        {"name":"Los Ríos","abbr":"LR","contested":false,"winner":null},
+        {"name":"Magallanes","abbr":"MA","contested":false,"winner":null},
+        {"name":"Maule","abbr":"ML","winner":"rep","margin":19,"turnout":86.6,"votes":200727,"results":[{"party":"rep","pct":37.6,"votes":75473},{"party":"pdg","pct":18.6,"votes":37335},{"party":"rn","pct":15.7,"votes":31514},{"party":"udi","pct":15.7,"votes":31514},{"party":"pc","pct":12.3,"votes":24689}],"contested":true},
+        {"name":"Ñuble","abbr":"NB","contested":false,"winner":null},
+        {"name":"O'Higgins","abbr":"LI","contested":false,"winner":null},
+        {"name":"Santiago Metropolitan","abbr":"RM","contested":false,"winner":null},
+        {"name":"Tarapacá","abbr":"TA","winner":"pdg","margin":3.7,"turnout":80.3,"votes":220127,"results":[{"party":"pdg","pct":26.9,"votes":59214},{"party":"rn","pct":23.2,"votes":51069},{"party":"rep","pct":21.8,"votes":47988},{"party":"pc","pct":19.1,"votes":42044},{"party":"udi","pct":8.9,"votes":19591}],"contested":true},
+        {"name":"Valparaíso","abbr":"VS","winner":"rep","margin":15.6,"turnout":89.3,"votes":218288,"results":[{"party":"rep","pct":34.3,"votes":74873},{"party":"rn","pct":18.7,"votes":40820},{"party":"pdg","pct":17.6,"votes":38419},{"party":"udi","pct":17.3,"votes":37764},{"party":"pc","pct":12.1,"votes":26413}],"contested":true}
+      ]
+    }
+  ]
+}

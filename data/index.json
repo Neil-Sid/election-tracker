@@ -599,6 +599,48 @@
         "regions"
       ],
       "history": true
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "atlasId": "152",
+      "marker": [
+        -71,
+        -35
+      ],
+      "view": {
+        "center": [
+          -71,
+          -36.5
+        ],
+        "span": 19.5
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "atlasId": "068",
+      "marker": [
+        -65,
+        -17
+      ],
+      "view": {
+        "center": [
+          -64.5,
+          -16.5
+        ],
+        "span": 7
+      },
+      "regionTerm": [
+        "department",
+        "departments"
+      ],
+      "history": true
     }
   ]
 }

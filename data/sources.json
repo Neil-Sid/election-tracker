@@ -268,6 +268,22 @@
       "url": "https://comelec.gov.ph/",
       "role": "Official results",
       "note": "Congress, as the national board of canvassers, proclaims the president and vice president; COMELEC canvasses the Senate and party-list votes."
+    },
+    "CL": {
+      "access": "public",
+      "name": "Electoral Service of Chile",
+      "short": "Servel",
+      "url": "https://www.servel.cl",
+      "role": "Official results",
+      "note": "Servel publishes the count on election night; the Election Certification Court (Tricel) certifies the final results."
+    },
+    "BO": {
+      "access": "public",
+      "name": "Plurinational Electoral Organ",
+      "short": "OEP",
+      "url": "https://www.oep.org.bo",
+      "role": "Official results",
+      "note": "Its Supreme Electoral Tribunal (TSE) publishes the official count (cómputo)."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

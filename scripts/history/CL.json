@@ -1,0 +1,4784 @@
+{
+  "code": "CL",
+  "parties": {
+    "pr": {
+      "name": "Radical Party",
+      "color": "#CD5C5C",
+      "article": "Radical Party of Chile"
+    },
+    "prsd": {
+      "name": "Social Democrat Radical Party",
+      "color": "#CD5C5C",
+      "article": "Radical Party of Chile (2018)"
+    },
+    "pdc": {
+      "name": "Christian Democratic Party",
+      "color": "#1E90FF",
+      "article": "Christian Democratic Party (Chile)"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#CE0021",
+      "article": "Socialist Party of Chile"
+    },
+    "pc": {
+      "name": "Communist Party",
+      "color": "#B22222",
+      "article": "Communist Party of Chile"
+    },
+    "ppd": {
+      "name": "Party for Democracy",
+      "color": "#FFA500",
+      "article": "Party for Democracy (Chile)"
+    },
+    "rn": {
+      "name": "National Renewal",
+      "color": "#0054D6",
+      "article": "National Renewal (Chile)"
+    },
+    "udi": {
+      "name": "Independent Democratic Union",
+      "color": "#29398A",
+      "article": "Independent Democratic Union"
+    },
+    "pl": {
+      "name": "Liberal Party",
+      "color": "#FFD700",
+      "article": "Liberal Party (Chile, 1849)"
+    },
+    "pl13": {
+      "name": "Liberal Party",
+      "color": "#F5D60A",
+      "article": "Liberal Party (Chile, 2013)"
+    },
+    "pcu": {
+      "name": "United Conservative Party",
+      "color": "#0000FF",
+      "article": "United Conservative Party (Chile)"
+    },
+    "pcsc": {
+      "name": "Social Christian Conservative Party",
+      "color": "#00008B",
+      "article": "Social Christian Conservative Party"
+    },
+    "pct": {
+      "name": "Traditionalist Conservative Party",
+      "color": "#0000FF",
+      "article": "Traditionalist Conservative Party"
+    },
+    "pal": {
+      "name": "Agrarian Labor Party",
+      "color": "#008000",
+      "article": "Agrarian Labor Party (Chile)"
+    },
+    "dr": {
+      "name": "Radical Democracy",
+      "color": "#00E2C8",
+      "article": "Radical Democracy (Chile)"
+    },
+    "psp": {
+      "name": "Popular Socialist Party",
+      "color": "#C71585",
+      "article": "Popular Socialist Party (Chile)"
+    },
+    "pdo": {
+      "name": "Democratic Party",
+      "color": "#00FF00",
+      "article": "Democratic Party (Chile)"
+    },
+    "pdm": {
+      "name": "Democrat Party",
+      "color": "#E3431F",
+      "article": "Democrat Party (Chile)"
+    },
+    "fn": {
+      "name": "National Falange",
+      "color": "#0080FF",
+      "article": "National Falange"
+    },
+    "pdp": {
+      "name": "People's Democratic Party",
+      "color": "#013068",
+      "article": "People's Democratic Party (Chile)"
+    },
+    "psa": {
+      "name": "Authentic Socialist Party",
+      "color": "#8B0000",
+      "article": "MISSING:Authentic Socialist Party (Chile)"
+    },
+    "plp": {
+      "name": "Progressive Liberal Party",
+      "color": "#BDB76B",
+      "article": "MISSING:Progressive Liberal Party (Chile)"
+    },
+    "prd": {
+      "name": "Radical Doctrinaire Party",
+      "color": "#FF69B4",
+      "article": "MISSING:Radical Doctrinaire Party"
+    },
+    "plab": {
+      "name": "Laborista Party",
+      "color": "#B8860B",
+      "article": "MISSING:Laborista Party"
+    },
+    "arc": {
+      "name": "Chilean Renovating Action",
+      "color": "#000000"
+    },
+    "mni": {
+      "name": "National Ibañista Movement",
+      "color": "#556B2F",
+      "article": "MISSING:National Ibañista Movement"
+    },
+    "uni": {
+      "name": "National Union of Independents",
+      "color": "#808080",
+      "article": "MISSING:National Union of Independents (Chile)"
+    },
+    "mnp": {
+      "name": "People's National Movement",
+      "color": "#7B3F9E",
+      "article": "MISSING:People's National Movement (Chile)"
+    },
+    "pcn": {
+      "name": "Christian National Party",
+      "color": "#40E0D0",
+      "article": "MISSING:Christian National Party (Chile)"
+    },
+    "pa": {
+      "name": "Agrarian Party",
+      "color": "#9ACD32",
+      "article": "Agrarian Party (Chile)"
+    },
+    "pun": {
+      "name": "People's Unity",
+      "color": "#8B4513",
+      "article": "MISSING:People's Unity (Chile)"
+    },
+    "ptrab": {
+      "name": "Labour Party",
+      "color": "#8B0000",
+      "article": "MISSING:Labour Party (Chile)"
+    },
+    "mr": {
+      "name": "Republican Movement",
+      "color": "#FFA500",
+      "article": "MISSING:Republican Movement (Chile)"
+    },
+    "padena": {
+      "name": "National Democratic Party",
+      "color": "#013068",
+      "article": "National Democratic Party (Chile)"
+    },
+    "vnp": {
+      "name": "National Vanguard of the People",
+      "color": "#9C6B30",
+      "article": "MISSING:National Vanguard of the People"
+    },
+    "pn": {
+      "name": "National Party",
+      "color": "#00008B",
+      "article": "National Party (Chile, 1966)"
+    },
+    "usp": {
+      "name": "Popular Socialist Union",
+      "color": "#FF1100",
+      "article": "Popular Socialist Union (Chile)"
+    },
+    "api": {
+      "name": "Independent Popular Action",
+      "color": "#228B22",
+      "article": "Independent Popular Action"
+    },
+    "psd": {
+      "name": "Social Democrat Party",
+      "color": "#E75480",
+      "article": "Social Democratic Party (Chile)"
+    },
+    "psdch": {
+      "name": "Chilean Social Democracy Party",
+      "color": "#FF6347",
+      "article": "Chilean Social Democracy Party"
+    },
+    "mapu": {
+      "name": "Popular Unitary Action Movement",
+      "color": "#71C837",
+      "article": "Popular Unitary Action Movement"
+    },
+    "ic": {
+      "name": "Christian Left",
+      "color": "#BB98C7",
+      "article": "Citizen Left"
+    },
+    "up": {
+      "name": "Popular Unity",
+      "color": "#DC0C0C",
+      "article": "Popular Unity (Chile)"
+    },
+    "ph": {
+      "name": "Humanist Party",
+      "color": "#FF4500",
+      "article": "Humanist Party (Chile)"
+    },
+    "pais": {
+      "name": "Broad Party of Socialist Left",
+      "color": "#8B1A1A",
+      "article": "Broad Party of Socialist Left"
+    },
+    "psur": {
+      "name": "Party of the South",
+      "color": "#00C100",
+      "article": "Party of the South (Chile)"
+    },
+    "ucc": {
+      "name": "Union of the Centrist Center",
+      "color": "#DAA520",
+      "article": "Union of the Centrist Center"
+    },
+    "ahv": {
+      "name": "Humanist Green Alliance",
+      "color": "#FF8000",
+      "article": "Humanist Green Alliance"
+    },
+    "pev": {
+      "name": "Green Ecologist Party",
+      "color": "#03BF00",
+      "article": "Green Ecologist Party (Chile)"
+    },
+    "parch": {
+      "name": "Regionalist Action Party",
+      "color": "#FDFA2F",
+      "article": "Regionalist Action Party of Chile"
+    },
+    "pri": {
+      "name": "Independent Regionalist Party",
+      "color": "#6B8E23",
+      "article": "Independent Regionalist Party"
+    },
+    "mas": {
+      "name": "MAS Region",
+      "color": "#8E44AD",
+      "article": "MAS Region"
+    },
+    "pro": {
+      "name": "Progressive Party",
+      "color": "#FF1493",
+      "article": "Progressive Party (Chile)"
+    },
+    "pi": {
+      "name": "Equality Party",
+      "color": "#000000",
+      "article": "Equality Party (Chile)"
+    },
+    "evo": {
+      "name": "Evópoli",
+      "color": "#0CB8E6",
+      "article": "Evópoli"
+    },
+    "rd": {
+      "name": "Democratic Revolution",
+      "color": "#1D4C4F",
+      "article": "Democratic Revolution"
+    },
+    "pod": {
+      "name": "Citizen Power",
+      "color": "#412560",
+      "article": "Citizen Power (political party)"
+    },
+    "paisn": {
+      "name": "País",
+      "color": "#C11469",
+      "article": "País"
+    },
+    "frvs": {
+      "name": "Social Green Regionalist Federation",
+      "color": "#83B926",
+      "article": "Social Green Regionalist Federation"
+    },
+    "amp": {
+      "name": "Amplitude",
+      "color": "#FCE883",
+      "article": "Amplitude (political party)"
+    },
+    "ciu": {
+      "name": "Citizens",
+      "color": "#9932CC",
+      "article": "Citizens (Chilean political party)"
+    },
+    "prid": {
+      "name": "Democratic Independent Regionalist Party",
+      "color": "#B5651D",
+      "article": "Democratic Independent Regionalist Party"
+    },
+    "comunes": {
+      "name": "Comunes",
+      "color": "#412560",
+      "article": "Comunes (Chile)"
+    },
+    "cs": {
+      "name": "Social Convergence",
+      "color": "#FF1455",
+      "article": "Social Convergence"
+    },
+    "rep": {
+      "name": "Republican Party",
+      "color": "#22446D",
+      "article": "Republican Party of Chile"
+    },
+    "pcc": {
+      "name": "Christian Conservative Party",
+      "color": "#000080",
+      "article": "Christian Conservative Party (Chile)"
+    },
+    "pdg": {
+      "name": "Party of the People",
+      "color": "#6D4C41",
+      "article": "Party of the People (Chile)"
+    },
+    "cu": {
+      "name": "United Centre",
+      "color": "#037E3B",
+      "article": "United Centre (Chile)"
+    },
+    "pcap": {
+      "name": "Chilean Communist Party (Proletarian Action)",
+      "color": "#D40000",
+      "article": "Chilean Communist Party (Proletarian Action)"
+    },
+    "alianza": {
+      "name": "Alliance",
+      "color": "#4682B4",
+      "article": "Alliance (Chile)"
+    },
+    "chv": {
+      "name": "Chile Vamos",
+      "color": "#006BB0",
+      "article": "Chile Vamos"
+    },
+    "nm": {
+      "name": "New Majority",
+      "color": "#FFA500",
+      "article": "Nueva Mayoría"
+    },
+    "fac": {
+      "name": "Broad Front",
+      "color": "#05BC93",
+      "article": "Frente Amplio (Chilean political coalition)"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "indibanez": {
+      "name": "Independent",
+      "color": "#7A7A7A"
+    },
+    "indalessandri": {
+      "name": "Independent",
+      "color": "#5A7D9A"
+    },
+    "indzamorano": {
+      "name": "Independent",
+      "color": "#9C8F6E"
+    },
+    "inderrazuriz": {
+      "name": "Independent",
+      "color": "#B22222"
+    },
+    "indjpinera": {
+      "name": "Independent",
+      "color": "#8E8E93"
+    },
+    "indparisi": {
+      "name": "Independent",
+      "color": "#8E8E93"
+    },
+    "indkast": {
+      "name": "Independent",
+      "color": "#22446D"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "appointed": {
+      "name": "Appointed senators",
+      "color": "#78787F"
+    },
+    "lifesen": {
+      "name": "Former presidents",
+      "color": "#B0A090"
+    }
+  },
+  "elections": [
+    {
+      "id": "cl-chamber-1949",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1949-03-06",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 147,
+      "turnout": 79.46,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1949_Chilean_parliamentary_election",
+        "revid": 1378246794
+      },
+      "candidates": [
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 100869,
+          "pct": 21.7,
+          "seats": 34,
+          "change": -5,
+          "winner": true
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 83582,
+          "pct": 17.98,
+          "seats": 33,
+          "change": 2
+        },
+        {
+          "name": "Social Christian Conservative Party",
+          "party": "pcsc",
+          "votes": 98118,
+          "pct": 21.11,
+          "seats": 31,
+          "change": -5
+        },
+        {
+          "name": "Agrarian Labor Party",
+          "party": "pal",
+          "votes": 38742,
+          "pct": 8.33,
+          "seats": 14,
+          "change": 11
+        },
+        {
+          "name": "Radical Democracy",
+          "party": "dr",
+          "votes": 23248,
+          "pct": 5,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "psp",
+          "votes": 22631,
+          "pct": 4.87,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pdo",
+          "votes": 20682,
+          "pct": 4.45,
+          "seats": 6,
+          "change": 0
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 15676,
+          "pct": 3.37,
+          "seats": 5,
+          "change": -1
+        },
+        {
+          "name": "National Falange",
+          "party": "fn",
+          "votes": 18221,
+          "pct": 3.92,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Traditionalist Conservative Party",
+          "party": "pct",
+          "votes": 7485,
+          "pct": 1.61,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Progressive Liberal Party",
+          "party": "plp",
+          "votes": 6431,
+          "pct": 1.38,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "People's Democratic Party",
+          "party": "pdp",
+          "votes": 8536,
+          "pct": 1.84,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Authentic Socialist Party",
+          "party": "psa",
+          "votes": 5125,
+          "pct": 1.1,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 15526,
+          "pct": 3.34,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "The table has no total row; its seats add up to 147. The table gives one seat jointly to the Laborista Party (5,105 votes), the Radical Doctrinaire Party (4,424) and the Social Christian Movement (2,018) without saying which won it; the three are counted in Others, which therefore holds that seat. First parliamentary election with women's suffrage; the Communist Party had been banned in 1948. Shares are of valid votes; 5,504 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-senate-1949",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1949-03-06",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 20,
+      "chamberSize": 45,
+      "turnout": 79.99,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1949_Chilean_parliamentary_election",
+        "revid": 1378246794
+      },
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 42930,
+          "pct": 17.13,
+          "seats": 6,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 42125,
+          "pct": 16.81,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Social Christian Conservative Party",
+          "party": "pcsc",
+          "votes": 55825,
+          "pct": 22.28,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Agrarian Labor Party",
+          "party": "pal",
+          "votes": 42230,
+          "pct": 16.85,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Radical Democracy",
+          "party": "dr",
+          "votes": 10445,
+          "pct": 4.17,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "psp",
+          "votes": 8772,
+          "pct": 3.5,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Falange",
+          "party": "fn",
+          "votes": 2222,
+          "pct": 0.89,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Authentic Socialist Party",
+          "party": "psa",
+          "votes": 15318,
+          "pct": 6.11,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pdo",
+          "votes": 9252,
+          "pct": 3.69,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Radical Doctrinaire Party",
+          "party": "prd",
+          "votes": 8613,
+          "pct": 3.44,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 6818,
+          "pct": 2.72,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Progressive Liberal Party",
+          "party": "plp",
+          "votes": 6002,
+          "pct": 2.4,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are seats won: the article says 20 of the 45 seats were up for election. The table has no change column. The electorate (316,186) is that of the provinces that elected senators. Shares are of valid votes; 2,351 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-president-1952",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1952-09-04",
+      "note": "Voting age 21; literate citizens only",
+      "chosenBy": "Congress",
+      "turnout": 86.61,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas and the Chilean Electoral Database",
+        "url": "https://en.wikipedia.org/wiki/1952_Chilean_presidential_election",
+        "revid": 1378246901
+      },
+      "candidates": [
+        {
+          "name": "Carlos Ibáñez del Campo",
+          "party": "indibanez",
+          "votes": 446439,
+          "pct": 46.79,
+          "winner": true
+        },
+        {
+          "name": "Arturo Matte Larraín",
+          "party": "pl",
+          "votes": 265357,
+          "pct": 27.81
+        },
+        {
+          "name": "Pedro Enrique Alfonso Barrios",
+          "party": "pr",
+          "votes": 190360,
+          "pct": 19.95
+        },
+        {
+          "name": "Salvador Allende",
+          "party": "ps",
+          "votes": 51975,
+          "pct": 5.45
+        }
+      ],
+      "notes": "No candidate won a majority, so Congress in joint session chose between the top two on 24 October: Ibáñez 132 votes, Matte 12, 30 invalid. Ibáñez ran as an independent; Matte for the Liberal Party. Shares are of valid votes; 2,971 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-chamber-1953",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1953-03-01",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 147,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1953_Chilean_parliamentary_election",
+        "revid": 1378246821
+      },
+      "candidates": [
+        {
+          "name": "Agrarian Labor Party",
+          "party": "pal",
+          "votes": 118483,
+          "pct": 15.2,
+          "seats": 26,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 84924,
+          "pct": 10.89,
+          "seats": 23,
+          "change": -10
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "psp",
+          "votes": 68218,
+          "pct": 8.75,
+          "seats": 20,
+          "change": 14
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 103650,
+          "pct": 13.29,
+          "seats": 18,
+          "change": -16
+        },
+        {
+          "name": "Traditionalist Conservative Party",
+          "party": "pct",
+          "votes": 78833,
+          "pct": 10.11,
+          "seats": 16,
+          "change": 14
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 41676,
+          "pct": 5.35,
+          "seats": 9,
+          "change": 4
+        },
+        {
+          "name": "National Ibañista Movement",
+          "party": "mni",
+          "votes": 28976,
+          "pct": 3.72,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "National Union of Independents",
+          "party": "uni",
+          "votes": 39877,
+          "pct": 5.11,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "People's Democratic Party",
+          "party": "pdp",
+          "votes": 31961,
+          "pct": 4.1,
+          "seats": 5,
+          "change": 4
+        },
+        {
+          "name": "Christian National Party",
+          "party": "pcn",
+          "votes": 21381,
+          "pct": 2.74,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "National Falange",
+          "party": "fn",
+          "votes": 22353,
+          "pct": 2.87,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Radical Doctrinaire Party",
+          "party": "prd",
+          "votes": 17882,
+          "pct": 2.29,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Social Christian Conservative Party",
+          "party": "pcsc",
+          "votes": 33332,
+          "pct": 4.28,
+          "seats": 2,
+          "change": -29
+        },
+        {
+          "name": "Agrarian Party",
+          "party": "pa",
+          "votes": 8125,
+          "pct": 1.04,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "People's National Movement",
+          "party": "mnp",
+          "votes": 19238,
+          "pct": 2.47,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democrat Party",
+          "party": "pdm",
+          "votes": 11570,
+          "pct": 1.48,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Laborista Party",
+          "party": "plab",
+          "votes": 8171,
+          "pct": 1.05,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "People's Unity",
+          "party": "pun",
+          "votes": 2344,
+          "pct": 0.3,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 38627,
+          "pct": 4.95,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "The table has no total row; its seats add up to 147. The table's 'Other parties' row (38,627 votes, 1 seat) is part of Others. The table has no invalid-vote figure, so no turnout. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-senate-1953",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1953-03-01",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 24,
+      "chamberSize": 45,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1953_Chilean_parliamentary_election",
+        "revid": 1378246821
+      },
+      "candidates": [
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 42993,
+          "pct": 12.78,
+          "seats": 5,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 59270,
+          "pct": 17.62,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Traditionalist Conservative Party",
+          "party": "pct",
+          "votes": 41278,
+          "pct": 12.27,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Agrarian Labor Party",
+          "party": "pal",
+          "votes": 55775,
+          "pct": 16.58,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "psp",
+          "votes": 31608,
+          "pct": 9.4,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "National Ibañista Movement",
+          "party": "mni",
+          "votes": 29861,
+          "pct": 8.88,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "People's Democratic Party",
+          "party": "pdp",
+          "votes": 17138,
+          "pct": 5.1,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Union of Independents",
+          "party": "uni",
+          "votes": 11342,
+          "pct": 3.37,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "People's National Movement",
+          "party": "mnp",
+          "votes": 10556,
+          "pct": 3.14,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Christian Conservative Party",
+          "party": "pcsc",
+          "votes": 19123,
+          "pct": 5.69,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Chilean Renovating Action",
+          "party": "arc",
+          "votes": 6915,
+          "pct": 2.06,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pdo",
+          "votes": 3840,
+          "pct": 1.14,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6660,
+          "pct": 1.98,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are seats won. The article says 25 of the 45 seats were up for election, but the table's seats add up to 24, so totalSeats is 24. The table has no invalid-vote figure, so no turnout, and no change column. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-chamber-1957",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1957-03-03",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 147,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1957_Chilean_parliamentary_election",
+        "revid": 1378246817
+      },
+      "candidates": [
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 188526,
+          "pct": 21.47,
+          "seats": 36,
+          "change": 18,
+          "winner": true
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 134741,
+          "pct": 15.34,
+          "seats": 30,
+          "change": 7
+        },
+        {
+          "name": "United Conservative Party",
+          "party": "pcu",
+          "votes": 121223,
+          "pct": 13.8,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "National Falange",
+          "party": "fn",
+          "votes": 82710,
+          "pct": 9.42,
+          "seats": 17,
+          "change": 14
+        },
+        {
+          "name": "Agrarian Labor Party",
+          "party": "pal",
+          "votes": 68602,
+          "pct": 7.81,
+          "seats": 10,
+          "change": -16
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 38783,
+          "pct": 4.42,
+          "seats": 7,
+          "change": -2
+        },
+        {
+          "name": "National Union of Independents",
+          "party": "uni",
+          "votes": 37975,
+          "pct": 4.32,
+          "seats": 7,
+          "change": 2
+        },
+        {
+          "name": "Popular Socialist Party",
+          "party": "psp",
+          "votes": 55004,
+          "pct": 6.26,
+          "seats": 5,
+          "change": -15
+        },
+        {
+          "name": "Democratic Party",
+          "party": "pdo",
+          "votes": 44213,
+          "pct": 5.03,
+          "seats": 5,
+          "change": 4
+        },
+        {
+          "name": "Labour Party",
+          "party": "ptrab",
+          "votes": 17785,
+          "pct": 2.03,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Social Christian Conservative Party",
+          "party": "pcsc",
+          "votes": 33654,
+          "pct": 3.83,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 17304,
+          "pct": 1.97,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Republican Movement",
+          "party": "mr",
+          "votes": 10393,
+          "pct": 1.18,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Christian National Party",
+          "party": "pcn",
+          "votes": 9085,
+          "pct": 1.03,
+          "seats": 0,
+          "change": -4
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 18231,
+          "pct": 2.08,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table has no invalid-vote figure, so no turnout. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-president-1958",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1958-09-04",
+      "note": "Voting age 21; literate citizens only",
+      "chosenBy": "Congress",
+      "turnout": 83.5,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas and the Chilean Electoral Database",
+        "url": "https://en.wikipedia.org/wiki/1958_Chilean_presidential_election",
+        "revid": 1360986079
+      },
+      "candidates": [
+        {
+          "name": "Jorge Alessandri",
+          "party": "indalessandri",
+          "votes": 389909,
+          "pct": 31.56,
+          "winner": true
+        },
+        {
+          "name": "Salvador Allende",
+          "party": "ps",
+          "votes": 356493,
+          "pct": 28.85
+        },
+        {
+          "name": "Eduardo Frei Montalva",
+          "party": "pdc",
+          "votes": 255769,
+          "pct": 20.7
+        },
+        {
+          "name": "Luis Bossay",
+          "party": "pr",
+          "votes": 192077,
+          "pct": 15.55
+        },
+        {
+          "name": "Antonio Zamorano",
+          "party": "indzamorano",
+          "votes": 41304,
+          "pct": 3.34
+        }
+      ],
+      "notes": "No candidate won a majority, so Congress chose between the top two: Alessandri 147 votes, Allende 26, 14 invalid. Alessandri ran as an independent backed by the Liberal and Conservative parties; Zamorano as an independent. Shares are of valid votes; 14,798 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-chamber-1961",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1961-03-05",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 147,
+      "turnout": 74.54,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1961_Chilean_parliamentary_election",
+        "revid": 1378246816
+      },
+      "candidates": [
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 296828,
+          "pct": 22.15,
+          "seats": 39,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 222485,
+          "pct": 16.6,
+          "seats": 28,
+          "change": -2
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 213468,
+          "pct": 15.93,
+          "seats": 23,
+          "change": 4
+        },
+        {
+          "name": "United Conservative Party",
+          "party": "pcu",
+          "votes": 198260,
+          "pct": 14.8,
+          "seats": 17,
+          "change": -4
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 157572,
+          "pct": 11.76,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 149122,
+          "pct": 11.13,
+          "seats": 12,
+          "change": 5
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "padena",
+          "votes": 95179,
+          "pct": 7.1,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Democrat Party",
+          "party": "pdm",
+          "votes": 772,
+          "pct": 0.06,
+          "seats": 0,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 6210,
+          "pct": 0.46,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "The table has no total row; its seats add up to 147. Shares are of valid votes; 45,780 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-senate-1961",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1961-03-05",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 45,
+      "turnout": 75.48,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas and Whelan",
+        "url": "https://en.wikipedia.org/wiki/1961_Chilean_parliamentary_election",
+        "revid": 1378246816
+      },
+      "candidates": [
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 146373,
+          "pct": 23.79,
+          "seats": 13,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 103688,
+          "pct": 16.85,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 83456,
+          "pct": 13.56,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "United Conservative Party",
+          "party": "pcu",
+          "votes": 79303,
+          "pct": 12.89,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 90211,
+          "pct": 14.66,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 75123,
+          "pct": 12.21,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "National Vanguard of the People",
+          "party": "vnp",
+          "votes": 17299,
+          "pct": 2.81,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "padena",
+          "votes": 17325,
+          "pct": 2.82,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 2594,
+          "pct": 0.42,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); the table's Won column gives 24 seats contested, as the article says. Independents held 3 seats but have no votes in the table. The table has no change column. Shares are of valid votes; 24,335 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-president-1964",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1964-09-04",
+      "note": "Voting age 21; literate citizens only",
+      "turnout": 86.81,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1964_Chilean_presidential_election",
+        "revid": 1361007066
+      },
+      "candidates": [
+        {
+          "name": "Eduardo Frei Montalva",
+          "party": "pdc",
+          "votes": 1409012,
+          "pct": 56.09,
+          "winner": true
+        },
+        {
+          "name": "Salvador Allende",
+          "party": "ps",
+          "votes": 977902,
+          "pct": 38.93
+        },
+        {
+          "name": "Julio Durán",
+          "party": "pr",
+          "votes": 125233,
+          "pct": 4.99
+        }
+      ],
+      "notes": "Shares are of valid votes; 18,550 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-chamber-1965",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1965-03-07",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 147,
+      "turnout": 80.57,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1965_Chilean_parliamentary_election",
+        "revid": 1378246809
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 995187,
+          "pct": 43.6,
+          "seats": 82,
+          "change": 59,
+          "winner": true
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 312912,
+          "pct": 13.71,
+          "seats": 20,
+          "change": -19
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 290635,
+          "pct": 12.73,
+          "seats": 18,
+          "change": 2
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 241593,
+          "pct": 10.58,
+          "seats": 15,
+          "change": 3
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "votes": 171979,
+          "pct": 7.53,
+          "seats": 6,
+          "change": -22
+        },
+        {
+          "name": "United Conservative Party",
+          "party": "pcu",
+          "votes": 121882,
+          "pct": 5.34,
+          "seats": 3,
+          "change": -14
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "padena",
+          "votes": 74585,
+          "pct": 3.27,
+          "seats": 3,
+          "change": -9
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 73670,
+          "pct": 3.23,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Shares are of valid votes; 70,680 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-senate-1965",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1965-03-07",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 45,
+      "source": {
+        "name": "Wikipedia, citing Whelan's Out of the Ashes",
+        "url": "https://en.wikipedia.org/wiki/1965_Chilean_parliamentary_election",
+        "revid": 1378246809
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "seats": 13,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "seats": 9,
+          "change": -4
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "seats": 7,
+          "change": 0
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "seats": 5,
+          "change": 2
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl",
+          "seats": 5,
+          "change": -4
+        },
+        {
+          "name": "United Conservative Party",
+          "party": "pcu",
+          "seats": 2,
+          "change": -3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "padena",
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "National Vanguard of the People",
+          "party": "vnp",
+          "seats": 1,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); 21 seats were contested. The table gives no votes, so no shares or turnout. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-chamber-1969",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1969-03-02",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 150,
+      "turnout": 74.15,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1969_Chilean_parliamentary_election",
+        "revid": 1378246805
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 716547,
+          "pct": 31.05,
+          "seats": 56,
+          "change": -26,
+          "winner": true
+        },
+        {
+          "name": "National Party",
+          "party": "pn",
+          "votes": 480523,
+          "pct": 20.82,
+          "seats": 33,
+          "change": 24
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 313559,
+          "pct": 13.59,
+          "seats": 24,
+          "change": 4
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 383049,
+          "pct": 16.6,
+          "seats": 22,
+          "change": 4
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 294448,
+          "pct": 12.76,
+          "seats": 15,
+          "change": 0
+        },
+        {
+          "name": "Popular Socialist Union",
+          "party": "usp",
+          "votes": 51904,
+          "pct": 2.25,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "National Democratic Party",
+          "party": "padena",
+          "votes": 44818,
+          "pct": 1.94,
+          "seats": 0,
+          "change": -3
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 22664,
+          "pct": 0.98,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Shares are of valid votes; 98,617 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-senate-1969",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1969-03-02",
+      "note": "Voting age 21; literate citizens only",
+      "totalSeats": 50,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas and Whelan",
+        "url": "https://en.wikipedia.org/wiki/1969_Chilean_parliamentary_election",
+        "revid": 1378246805
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 345248,
+          "pct": 34.32,
+          "seats": 22,
+          "change": 9,
+          "winner": true
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 173386,
+          "pct": 17.23,
+          "seats": 9,
+          "change": 0
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 181488,
+          "pct": 18.04,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "National Party",
+          "party": "pn",
+          "votes": 160875,
+          "pct": 15.99,
+          "seats": 5,
+          "change": -2
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 120629,
+          "pct": 11.99,
+          "seats": 4,
+          "change": -3
+        },
+        {
+          "name": "Popular Socialist Union",
+          "party": "usp",
+          "votes": 24423,
+          "pct": 2.43,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independent Popular Action",
+          "party": "api",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Democrat Party",
+          "party": "psd",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); the table's Won column gives 30 seats contested (the article's text says 25 of 50). Independent Popular Action and the Social Democrat Party each held one seat but have no votes in the table. The table has no invalid-vote figure, so no turnout. The franchise note follows the article Elections in Chile: from 1949 literate men and women over 21 could vote, and from 1970 the voting age was 18 with no literacy requirement."
+    },
+    {
+      "id": "cl-president-1970",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1970-09-04",
+      "chosenBy": "Congress",
+      "turnout": 83.47,
+      "source": {
+        "name": "Wikipedia, citing Servel, the Election Certification Court and Nohlen",
+        "url": "https://en.wikipedia.org/wiki/1970_Chilean_presidential_election",
+        "revid": 1359468430
+      },
+      "candidates": [
+        {
+          "name": "Salvador Allende",
+          "party": "up",
+          "votes": 1070334,
+          "pct": 36.61,
+          "winner": true
+        },
+        {
+          "name": "Jorge Alessandri",
+          "party": "pn",
+          "votes": 1031159,
+          "pct": 35.27
+        },
+        {
+          "name": "Radomiro Tomic",
+          "party": "pdc",
+          "votes": 821801,
+          "pct": 28.11
+        }
+      ],
+      "notes": "No candidate won a majority, so Congress chose between the top two on 24 October: Allende 153 votes, Alessandri 35, 7 invalid. Allende (Socialist Party) ran for Popular Unity; the table lists Alessandri as an independent backed by the National Party. Shares are of valid votes; 31,505 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-1973",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1973-03-04",
+      "totalSeats": 150,
+      "turnout": 81.75,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Service",
+        "url": "https://en.wikipedia.org/wiki/1973_Chilean_parliamentary_election",
+        "revid": 1378246801
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1055120,
+          "pct": 29.07,
+          "seats": 50,
+          "change": -6,
+          "winner": true
+        },
+        {
+          "name": "National Party",
+          "party": "pn",
+          "votes": 780480,
+          "pct": 21.51,
+          "seats": 34,
+          "change": 1
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 678796,
+          "pct": 18.7,
+          "seats": 28,
+          "change": 13
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 593738,
+          "pct": 16.36,
+          "seats": 25,
+          "change": 3
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 133745,
+          "pct": 3.69,
+          "seats": 5,
+          "change": -19
+        },
+        {
+          "name": "Popular Unitary Action Movement",
+          "party": "mapu",
+          "votes": 92592,
+          "pct": 2.55,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Radical Democracy",
+          "party": "dr",
+          "votes": 70582,
+          "pct": 1.94,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independent Popular Action",
+          "party": "api",
+          "votes": 29972,
+          "pct": 0.83,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Radical Left Party",
+          "party": "psdch",
+          "votes": 60166,
+          "pct": 1.66,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Christian Left",
+          "party": "ic",
+          "votes": 41589,
+          "pct": 1.15,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 92269,
+          "pct": 2.54,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran on two alliance lists, the opposition Confederation of Democracy (CODE: 87 seats) and Popular Unity (63). Each alliance's 'list votes' rows (33,895 and 34,738) are in Others. Last election before the 1973 coup; Congress was dissolved in September 1973. Shares are of valid votes; 58,056 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-1973",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1973-03-04",
+      "totalSeats": 50,
+      "source": {
+        "name": "Wikipedia, citing the Electoral Service and the US State Department",
+        "url": "https://en.wikipedia.org/wiki/1973_Chilean_parliamentary_election",
+        "revid": 1378246801
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 745274,
+          "pct": 33.88,
+          "seats": 19,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 380460,
+          "pct": 17.29,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "National Party",
+          "party": "pn",
+          "votes": 417311,
+          "pct": 18.97,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 392469,
+          "pct": 17.84,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Radical Left Party",
+          "party": "psdch",
+          "votes": 34334,
+          "pct": 1.56,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Radical Party",
+          "party": "pr",
+          "votes": 126961,
+          "pct": 5.77,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Christian Left",
+          "party": "ic",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Popular Socialist Union",
+          "party": "usp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Radical Democracy",
+          "party": "dr",
+          "votes": 47992,
+          "pct": 2.18,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Popular Unitary Action Movement",
+          "party": "mapu",
+          "votes": 23191,
+          "pct": 1.05,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 31863,
+          "pct": 1.45,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); 25 seats were contested. The opposition Confederation of Democracy held 30 seats, Popular Unity 19 and the Popular Socialist Union 1. Each alliance's 'list votes' rows (14,432 and 17,431) are in Others. The Christian Left and the Popular Socialist Union held seats but have no votes in the table. No invalid-vote figure, so no turnout."
+    },
+    {
+      "id": "cl-chamber-1989",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1989-12-14",
+      "totalSeats": 120,
+      "turnout": 94.73,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/1989_Chilean_general_election",
+        "revid": 1378246746
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1766347,
+          "pct": 25.99,
+          "seats": 38,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 1242432,
+          "pct": 18.28,
+          "seats": 29,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 1462986,
+          "pct": 21.52,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 778501,
+          "pct": 11.45,
+          "seats": 16,
+          "change": null
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 667369,
+          "pct": 9.82,
+          "seats": 11,
+          "change": null
+        },
+        {
+          "name": "Radical Party of Chile",
+          "party": "pr",
+          "votes": 268103,
+          "pct": 3.94,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Broad Party of Socialist Left",
+          "party": "pais",
+          "votes": 297897,
+          "pct": 4.38,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 52225,
+          "pct": 0.77,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 261262,
+          "pct": 3.84,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First election after the military dictatorship. Parties ran in alliances, chiefly the Concertación (69 seats) and Democracy and Progress (48). The table has no change column. Independents combines the table's independent rows: Concertación (619,595 votes, 9 seats), Democracy and Progress (413,780 votes, 8 seats), Unity for Democracy (61,374 votes, 0 seats), Liberal–Socialist (148,503 votes, 0 seats), Alliance of the Centre (91,793 votes, 0 seats), unaligned (127,941 votes, 1 seat). Shares are of valid votes; 361,524 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-president-1989",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1989-12-14",
+      "turnout": 94.72,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/1989_Chilean_general_election",
+        "revid": 1378246746
+      },
+      "candidates": [
+        {
+          "name": "Patricio Aylwin",
+          "party": "pdc",
+          "votes": 3850571,
+          "pct": 55.17,
+          "winner": true
+        },
+        {
+          "name": "Hernán Büchi",
+          "party": "alianza",
+          "votes": 2052116,
+          "pct": 29.4
+        },
+        {
+          "name": "Francisco Javier Errázuriz",
+          "party": "inderrazuriz",
+          "votes": 1077172,
+          "pct": 15.43
+        }
+      ],
+      "notes": "Aylwin (Christian Democrat) ran for the Concertación; Büchi as an independent for Democracy and Progress, the alliance Wikipedia covers as Alliance (Chile); Errázuriz as an independent. Shares are of valid votes; 178,868 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate. Region winners are the candidate with the most votes in each region, from the article's results-by-region table; Tarapacá, Biobío and Los Lagos are left out because those regions were later split and no longer match the map.",
+      "regionWinners": {
+        "AN": "pdc",
+        "AT": "pdc",
+        "CO": "pdc",
+        "VS": "pdc",
+        "LI": "pdc",
+        "ML": "pdc",
+        "AR": "pdc",
+        "AI": "pdc",
+        "MA": "pdc",
+        "RM": "pdc"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/1989_Chilean_general_election"
+    },
+    {
+      "id": "cl-senate-1989",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1989-12-14",
+      "totalSeats": 47,
+      "turnout": 94.73,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1989_Chilean_general_election",
+        "revid": 1378246746
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 2188329,
+          "pct": 32.18,
+          "seats": 13,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 2108170,
+          "pct": 31,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Appointed senators",
+          "party": "appointed",
+          "votes": null,
+          "pct": null,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 731678,
+          "pct": 10.76,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 820393,
+          "pct": 12.06,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 347445,
+          "pct": 5.11,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Radical Party of Chile",
+          "party": "pr",
+          "votes": 147364,
+          "pct": 2.17,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Broad Party of Socialist Left",
+          "party": "pais",
+          "votes": 288397,
+          "pct": 4.24,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 168634,
+          "pct": 2.48,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "All 38 elected seats were contested; the table adds the 9 appointed senators, giving the Senate's 47 seats. Parties ran in alliances, chiefly the Concertación (22 elected) and Democracy and Progress (16). Independents combines the table's independent rows: Concertación (523,369 votes, 3 seats), Democracy and Progress (1,290,886 votes, 9 seats), Liberal–Socialist (199,618 votes, 0 seats), Alliance of the Centre (62,015 votes, 0 seats), unaligned (32,282 votes, 0 seats). Shares are of valid votes; 358,032 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-1993",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1993-12-11",
+      "totalSeats": 120,
+      "turnout": 91.34,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/1993_Chilean_general_election",
+        "revid": 1372210647
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1827373,
+          "pct": 27.12,
+          "seats": 37,
+          "change": -1,
+          "winner": true
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 1098852,
+          "pct": 16.31,
+          "seats": 29,
+          "change": 0
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 816104,
+          "pct": 12.11,
+          "seats": 15,
+          "change": 4
+        },
+        {
+          "name": "Socialist Party of Chile",
+          "party": "ps",
+          "votes": 803719,
+          "pct": 11.93,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 798206,
+          "pct": 11.84,
+          "seats": 15,
+          "change": -1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 495016,
+          "pct": 7.35,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Union of the Centrist Center",
+          "party": "ucc",
+          "votes": 216639,
+          "pct": 3.21,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Radical Party of Chile",
+          "party": "pr",
+          "votes": 200837,
+          "pct": 2.98,
+          "seats": 2,
+          "change": -3
+        },
+        {
+          "name": "Communist Party of Chile",
+          "party": "pc",
+          "votes": 336034,
+          "pct": 4.99,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Humanist Green Alliance",
+          "party": "ahv",
+          "votes": 67733,
+          "pct": 1.01,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 78346,
+          "pct": 1.16,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly the Concertación (70 seats) and the Union for the Progress of Chile (50). Independents combines the table's independent rows: Concertación (49,764 votes, 1 seat), Union for the Progress of Chile (324,084 votes, 4 seats), Leftist Democratic Alternative (87,817 votes, 0 seats), The New Left (26,247 votes, 0 seats), unaligned (7,104 votes, 0 seats). Shares are of valid votes; 646,157 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-president-1993",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1993-12-11",
+      "turnout": 91.23,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/1993_Chilean_general_election",
+        "revid": 1372210647
+      },
+      "candidates": [
+        {
+          "name": "Eduardo Frei Ruiz-Tagle",
+          "party": "pdc",
+          "votes": 4040497,
+          "pct": 57.98,
+          "winner": true
+        },
+        {
+          "name": "Arturo Alessandri Besa",
+          "party": "alianza",
+          "votes": 1701324,
+          "pct": 24.41
+        },
+        {
+          "name": "José Piñera",
+          "party": "indjpinera",
+          "votes": 430950,
+          "pct": 6.18
+        },
+        {
+          "name": "Manfred Max Neef",
+          "party": "pev",
+          "votes": 387102,
+          "pct": 5.55
+        },
+        {
+          "name": "Eugenio Pizarro",
+          "party": "pc",
+          "votes": 327402,
+          "pct": 4.7
+        },
+        {
+          "name": "Cristián Reitze",
+          "party": "ahv",
+          "votes": 81675,
+          "pct": 1.17
+        }
+      ],
+      "notes": "Frei (Christian Democrat) ran for the Concertación; Alessandri as an independent for the Union for the Progress of Chile (Alliance); Pizarro as an independent for the Communist-led Leftist Democratic Alternative; Max-Neef for the Ecologist Movement, which links to the Green Ecologist Party article. Shares are of valid votes; 407,741 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-1993",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1993-12-11",
+      "totalSeats": 46,
+      "turnout": 90.29,
+      "source": {
+        "name": "Wikipedia, citing Servel and Nohlen's Elections in the Americas",
+        "url": "https://en.wikipedia.org/wiki/1993_Chilean_general_election",
+        "revid": 1372210647
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 378987,
+          "pct": 20.22,
+          "seats": 13,
+          "change": 0,
+          "winner": true
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 279580,
+          "pct": 14.92,
+          "seats": 11,
+          "change": 6
+        },
+        {
+          "name": "Appointed senators",
+          "party": "appointed",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "Socialist Party of Chile",
+          "party": "ps",
+          "votes": 238405,
+          "pct": 12.72,
+          "seats": 5,
+          "change": 5
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 190283,
+          "pct": 10.15,
+          "seats": 3,
+          "change": 1
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 275727,
+          "pct": 14.71,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 216091,
+          "pct": 11.53,
+          "seats": 2,
+          "change": -10
+        },
+        {
+          "name": "Radical Party of Chile",
+          "party": "pr",
+          "votes": 119459,
+          "pct": 6.37,
+          "seats": 1,
+          "change": -1
+        },
+        {
+          "name": "Union of the Centrist Center",
+          "party": "ucc",
+          "votes": 46455,
+          "pct": 2.48,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Communist Party of Chile",
+          "party": "pc",
+          "votes": 65073,
+          "pct": 3.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Party of the South",
+          "party": "psur",
+          "votes": 52509,
+          "pct": 2.8,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 11558,
+          "pct": 0.62,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column, including 8 appointed senators); 18 seats were contested. The electorate is that of the regions that elected senators. Independents combines the table's independent rows: Concertación (27,253 votes, 0 seats), Union for the Progress of Chile (130,587 votes, 2 seats), Leftist Democratic Alternative (13,278 votes, 0 seats), The New Left (3,740 votes, 0 seats), unaligned (41,233 votes, 0 seats). Its change is the sum of their changes. Shares are of valid votes; 171,554 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-1997",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "1997-12-11",
+      "totalSeats": 120,
+      "turnout": 87.23,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/1997_Chilean_parliamentary_election",
+        "revid": 1319299357
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1331745,
+          "pct": 22.98,
+          "seats": 38,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 971903,
+          "pct": 16.77,
+          "seats": 23,
+          "change": -6
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 837736,
+          "pct": 14.45,
+          "seats": 17,
+          "change": 2
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 727293,
+          "pct": 12.55,
+          "seats": 16,
+          "change": 1
+        },
+        {
+          "name": "Socialist Party of Chile",
+          "party": "ps",
+          "votes": 640397,
+          "pct": 11.05,
+          "seats": 11,
+          "change": -4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 439370,
+          "pct": 7.58,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Radical Party",
+          "party": "prsd",
+          "votes": 181538,
+          "pct": 3.13,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Progressive Union of the Centrist Center",
+          "party": "ucc",
+          "votes": 68822,
+          "pct": 1.19,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Party of the South",
+          "party": "psur",
+          "votes": 20813,
+          "pct": 0.36,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Communist Party of Chile",
+          "party": "pc",
+          "votes": 398588,
+          "pct": 6.88,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 168597,
+          "pct": 2.91,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 8971,
+          "pct": 0.15,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly the Concertación (69 seats) and the Union for Chile (47). The Union of the Centrist Center row is the table's Progressive Union of the Centrist Center (Chile 2000 list). Independents combines the table's independent rows: Concertación (46,719 votes, 0 seats), Union for Chile (270,940 votes, 6 seats), The Left (26,589 votes, 0 seats), Chile 2000 (55,100 votes, 0 seats), unaligned (40,022 votes, 2 seats). Shares are of valid votes; 1,250,578 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-1997",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "1997-12-11",
+      "totalSeats": 48,
+      "turnout": 88.06,
+      "source": {
+        "name": "Wikipedia, citing Nohlen's Elections in the Americas, Servel and the IPU",
+        "url": "https://en.wikipedia.org/wiki/1997_Chilean_parliamentary_election",
+        "revid": 1319299357
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1238540,
+          "pct": 29.22,
+          "seats": 14,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Appointed senators",
+          "party": "appointed",
+          "votes": null,
+          "pct": null,
+          "seats": 9,
+          "change": 1
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 629394,
+          "pct": 14.85,
+          "seats": 7,
+          "change": -4
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 728680,
+          "pct": 17.19,
+          "seats": 5,
+          "change": 2
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 296674,
+          "pct": 7,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Socialist Party of Chile",
+          "party": "ps",
+          "votes": 617947,
+          "pct": 14.58,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 182076,
+          "pct": 4.29,
+          "seats": 2,
+          "change": 0
+        },
+        {
+          "name": "Progressive Union of the Centrist Center",
+          "party": "ucc",
+          "votes": 18023,
+          "pct": 0.43,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Former presidents",
+          "party": "lifesen",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Communist Party of Chile",
+          "party": "pc",
+          "votes": 357825,
+          "pct": 8.44,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 94116,
+          "pct": 2.22,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Social Democrat Radical Party",
+          "party": "prsd",
+          "votes": 76091,
+          "pct": 1.79,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column), including 9 appointed senators and one former president as senator for life; 20 elected seats were contested. The electorate is that of the regions that elected senators. Independents combines the table's independent rows: Union for Chile (195,118 votes, 5 seats), The Left (8,406 votes, 0 seats), Chile 2000 (93,150 votes, 0 seats). Shares are of valid votes; 863,540 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-president-1999",
+      "office": "President",
+      "kind": "presidential",
+      "date": "1999-12-12",
+      "label": "1999–2000",
+      "turnout": 90.63,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/1999–2000_Chilean_presidential_election",
+        "revid": 1339160053
+      },
+      "candidates": [
+        {
+          "name": "Ricardo Lagos",
+          "party": "ppd",
+          "votes": 3683158,
+          "pct": 51.31,
+          "winner": true
+        },
+        {
+          "name": "Joaquín Lavín",
+          "party": "udi",
+          "votes": 3495569,
+          "pct": 48.69
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "1999-12-12",
+          "candidates": [
+            {
+              "name": "Ricardo Lagos",
+              "party": "ppd",
+              "votes": 3383339,
+              "pct": 47.96
+            },
+            {
+              "name": "Joaquín Lavín",
+              "party": "udi",
+              "votes": 3352199,
+              "pct": 47.51
+            },
+            {
+              "name": "Gladys Marín",
+              "party": "pc",
+              "votes": 225224,
+              "pct": 3.19
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 94366,
+              "pct": 1.34
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2000-01-16",
+          "candidates": [
+            {
+              "name": "Ricardo Lagos",
+              "party": "ppd",
+              "votes": 3683158,
+              "pct": 51.31,
+              "winner": true
+            },
+            {
+              "name": "Joaquín Lavín",
+              "party": "udi",
+              "votes": 3495569,
+              "pct": 48.69
+            }
+          ]
+        }
+      ],
+      "notes": "First run-off under the 1980 constitution. Lagos (Party for Democracy) ran for the Concertación; Lavín (Independent Democratic Union) for the Alliance for Chile; Marín (Communist) for The Left. Turnout is for the run-off; the first round's was 89.95%. Shares are of valid votes; in the first round 216,456 invalid votes are excluded, and in the run-off 148,026 invalid. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-2001",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2001-12-16",
+      "totalSeats": 120,
+      "turnout": 87.11,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2001_Chilean_parliamentary_election",
+        "revid": 1323356845
+      },
+      "candidates": [
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 1547209,
+          "pct": 25.18,
+          "seats": 31,
+          "change": 14,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1162210,
+          "pct": 18.92,
+          "seats": 23,
+          "change": -15
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 782333,
+          "pct": 12.73,
+          "seats": 20,
+          "change": 4
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 845865,
+          "pct": 13.77,
+          "seats": 18,
+          "change": -5
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 549276,
+          "pct": 8.94,
+          "seats": 12,
+          "change": 4
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 614434,
+          "pct": 10,
+          "seats": 10,
+          "change": -1
+        },
+        {
+          "name": "Social Democratic Radical Party",
+          "party": "prsd",
+          "votes": 248821,
+          "pct": 4.05,
+          "seats": 6,
+          "change": 2
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 320688,
+          "pct": 5.22,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 69692,
+          "pct": 1.13,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 3475,
+          "pct": 0.06,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly the Concertación (62 seats) and the Alliance for Chile (57). The Social Democrat Radical Party links to the article Radical Party of Chile (2018), its later name. Independents combines the table's independent rows: Concertación (135,191 votes, 3 seats), Alliance for Chile (327,121 votes, 8 seats), unaligned (86,964 votes, 1 seat). Its change is the sum of their changes. Shares are of valid votes; 890,289 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-2001",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2001-12-16",
+      "totalSeats": 49,
+      "turnout": 85.6,
+      "source": {
+        "name": "Wikipedia, citing Servel, Nohlen's Elections in the Americas and the IPU",
+        "url": "https://en.wikipedia.org/wiki/2001_Chilean_parliamentary_election",
+        "revid": 1323356845
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 395728,
+          "pct": 22.84,
+          "seats": 12,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 263035,
+          "pct": 15.18,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Appointed senators",
+          "party": "appointed",
+          "votes": null,
+          "pct": null,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 342045,
+          "pct": 19.74,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 254905,
+          "pct": 14.71,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 219335,
+          "pct": 12.66,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 184735,
+          "pct": 10.66,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Former presidents",
+          "party": "lifesen",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 45735,
+          "pct": 2.64,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Social Democrat Radical Party",
+          "party": "prsd",
+          "votes": 19025,
+          "pct": 1.1,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 7872,
+          "pct": 0.45,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column), including 9 appointed senators and 2 former presidents as senators for life; 18 elected seats were contested. The table has no change column. The electorate is that of the regions that elected senators. Independents combines the table's independent rows: Alliance for Chile (157,639 votes, 2 seats), unaligned (27,096 votes, 0 seats). Shares are of valid votes; 242,602 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-2005",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2005-12-11",
+      "totalSeats": 120,
+      "turnout": 87.67,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2005–06_Chilean_general_election",
+        "revid": 1368637890
+      },
+      "candidates": [
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 1475901,
+          "pct": 22.36,
+          "seats": 33,
+          "change": 2,
+          "winner": true
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 1017956,
+          "pct": 15.42,
+          "seats": 21,
+          "change": 1
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1370501,
+          "pct": 20.76,
+          "seats": 20,
+          "change": -3
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 932422,
+          "pct": 14.12,
+          "seats": 19,
+          "change": 1
+        },
+        {
+          "name": "Socialist Party of Chile",
+          "party": "ps",
+          "votes": 663561,
+          "pct": 10.05,
+          "seats": 15,
+          "change": 5
+        },
+        {
+          "name": "Social Democratic Radical Party",
+          "party": "prsd",
+          "votes": 233564,
+          "pct": 3.54,
+          "seats": 7,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 418628,
+          "pct": 6.34,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Regionalist Action Party of Chile",
+          "party": "parch",
+          "votes": 26698,
+          "pct": 0.4,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Communist Party of Chile",
+          "party": "pc",
+          "votes": 339547,
+          "pct": 5.14,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 102842,
+          "pct": 1.56,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 20191,
+          "pct": 0.31,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly the Concertación (65 seats) and the Alliance (54). Independents combines the table's independent rows: Concertación (131,625 votes, 2 seats), Alliance (148,063 votes, 2 seats), Juntos Podemos Más (46,229 votes, 0 seats), Independent Regionalist Force (30,324 votes, 0 seats), unaligned (62,387 votes, 0 seats). Shares are of valid votes; 605,540 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-president-2005",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2005-12-11",
+      "label": "2005–06",
+      "turnout": 87.12,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2005–06_Chilean_general_election",
+        "revid": 1368637890
+      },
+      "candidates": [
+        {
+          "name": "Michelle Bachelet",
+          "party": "ps",
+          "votes": 3723019,
+          "pct": 53.5,
+          "winner": true
+        },
+        {
+          "name": "Sebastián Piñera",
+          "party": "rn",
+          "votes": 3236394,
+          "pct": 46.5
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2005-12-11",
+          "candidates": [
+            {
+              "name": "Michelle Bachelet",
+              "party": "ps",
+              "votes": 3190691,
+              "pct": 45.96
+            },
+            {
+              "name": "Sebastián Piñera",
+              "party": "rn",
+              "votes": 1763694,
+              "pct": 25.41
+            },
+            {
+              "name": "Joaquín Lavín",
+              "party": "udi",
+              "votes": 1612608,
+              "pct": 23.23
+            },
+            {
+              "name": "Tomás Hirsch",
+              "party": "ph",
+              "votes": 375048,
+              "pct": 5.4
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2006-01-15",
+          "candidates": [
+            {
+              "name": "Michelle Bachelet",
+              "party": "ps",
+              "votes": 3723019,
+              "pct": 53.5,
+              "winner": true
+            },
+            {
+              "name": "Sebastián Piñera",
+              "party": "rn",
+              "votes": 3236394,
+              "pct": 46.5
+            }
+          ]
+        }
+      ],
+      "notes": "Bachelet (Socialist Party) ran for the Concertación; Hirsch (Humanist Party) for Juntos Podemos Más. Turnout is for the run-off; the first round's was 87.67%. Shares are of valid votes; in the first round 265,237 invalid votes are excluded, and in the run-off 202,932 invalid. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-2005",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2005-12-11",
+      "totalSeats": 38,
+      "turnout": 88.38,
+      "source": {
+        "name": "Wikipedia, citing Election Resources and Psephos",
+        "url": "https://en.wikipedia.org/wiki/2005–06_Chilean_general_election",
+        "revid": 1368637890
+      },
+      "candidates": [
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 1028925,
+          "pct": 21.57,
+          "seats": 9,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 576045,
+          "pct": 12.07,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 515185,
+          "pct": 10.8,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 1418089,
+          "pct": 29.72,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 512296,
+          "pct": 10.74,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Radical Party",
+          "party": "prsd",
+          "votes": 114515,
+          "pct": 2.4,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 418236,
+          "pct": 8.77,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 104687,
+          "pct": 2.19,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 69927,
+          "pct": 1.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 13076,
+          "pct": 0.27,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column, 38 elected senators; appointed and lifetime seats were abolished from 2006); 20 seats were contested. The table's Independent Regionalist Force alliance total (60,688) is double its party rows (30,344); the party rows are used. No change column. The electorate is that of the regions that elected senators. Independents combines the table's independent rows: Concertación (38,053 votes, 0 seats), Alliance (233,180 votes, 0 seats), Juntos Podemos Más (111,460 votes, 0 seats), Independent Regionalist Force (17,268 votes, 0 seats), unaligned (18,275 votes, 1 seat). Shares are of valid votes; 411,243 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-2009",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2009-12-13",
+      "totalSeats": 120,
+      "turnout": 87.67,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2009–10_Chilean_general_election",
+        "revid": 1372237258
+      },
+      "candidates": [
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 1525000,
+          "pct": 23.05,
+          "seats": 37,
+          "change": 4,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 940265,
+          "pct": 14.21,
+          "seats": 19,
+          "change": -1
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 1178392,
+          "pct": 17.81,
+          "seats": 18,
+          "change": -1
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 839744,
+          "pct": 12.69,
+          "seats": 18,
+          "change": -3
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 653367,
+          "pct": 9.88,
+          "seats": 11,
+          "change": -4
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 685995,
+          "pct": 10.37,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Social Democratic Radical Party",
+          "party": "prsd",
+          "votes": 251456,
+          "pct": 3.8,
+          "seats": 5,
+          "change": -2
+        },
+        {
+          "name": "Regionalist Independent Party",
+          "party": "pri",
+          "votes": 264466,
+          "pct": 4,
+          "seats": 3,
+          "change": 2
+        },
+        {
+          "name": "Communist Party of Chile",
+          "party": "pc",
+          "votes": 133718,
+          "pct": 2.02,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 95177,
+          "pct": 1.44,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 48276,
+          "pct": 0.73,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly the Concertación–Juntos Podemos list (57 seats) and the Coalition for Change (58). ChileFirst links to the Liberal Party (2013) article (key pl13). Independents combines the table's independent rows: Concertación & Juntos Podemos (115,828 votes, 1 seat), Coalition for Change (153,261 votes, 3 seats), Clean Chile, Vote Happy (65,892 votes, 0 seats), New Majority for Chile (203,635 votes, 0 seats), unaligned (147,379 votes, 2 seats). Shares are of valid votes; 647,681 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-president-2009",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2009-12-13",
+      "label": "2009–10",
+      "turnout": 86.94,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2009–10_Chilean_general_election",
+        "revid": 1372237258
+      },
+      "candidates": [
+        {
+          "name": "Sebastián Piñera",
+          "party": "rn",
+          "votes": 3591182,
+          "pct": 51.61,
+          "winner": true
+        },
+        {
+          "name": "Eduardo Frei Ruiz-Tagle",
+          "party": "pdc",
+          "votes": 3367790,
+          "pct": 48.39
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2009-12-13",
+          "candidates": [
+            {
+              "name": "Sebastián Piñera",
+              "party": "rn",
+              "votes": 3074164,
+              "pct": 44.06
+            },
+            {
+              "name": "Eduardo Frei Ruiz-Tagle",
+              "party": "pdc",
+              "votes": 2065061,
+              "pct": 29.6
+            },
+            {
+              "name": "Marco Enríquez-Ominami",
+              "party": "pro",
+              "votes": 1405124,
+              "pct": 20.14
+            },
+            {
+              "name": "Jorge Arrate",
+              "party": "pc",
+              "votes": 433195,
+              "pct": 6.21
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2010-01-17",
+          "candidates": [
+            {
+              "name": "Sebastián Piñera",
+              "party": "rn",
+              "votes": 3591182,
+              "pct": 51.61,
+              "winner": true
+            },
+            {
+              "name": "Eduardo Frei Ruiz-Tagle",
+              "party": "pdc",
+              "votes": 3367790,
+              "pct": 48.39
+            }
+          ]
+        }
+      ],
+      "notes": "Piñera (National Renewal) ran for the Coalition for Change; Frei (Christian Democrat) for the Concertación; Arrate (Communist) for Juntos Podemos Más. The table lists Enríquez-Ominami as an independent for New Majority for Chile, linked to the Progressive Party he later founded (key pro). Turnout is for the run-off; the first round's was 87.68%. Shares are of valid votes; in the first round 286,592 invalid votes are excluded, and in the run-off 244,399 invalid. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-2009",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2009-12-13",
+      "totalSeats": 38,
+      "turnout": 85.83,
+      "source": {
+        "name": "Wikipedia, citing Servel, the IPU and Election Resources",
+        "url": "https://en.wikipedia.org/wiki/2009–10_Chilean_general_election",
+        "revid": 1372237258
+      },
+      "candidates": [
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 314145,
+          "pct": 16.57,
+          "seats": 9,
+          "change": 3,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 403741,
+          "pct": 21.3,
+          "seats": 8,
+          "change": -1
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 382728,
+          "pct": 20.19,
+          "seats": 8,
+          "change": 0
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 175017,
+          "pct": 9.23,
+          "seats": 5,
+          "change": -3
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 262503,
+          "pct": 13.85,
+          "seats": 4,
+          "change": 1
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 229162,
+          "pct": 12.09,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Social Democrat Radical Party",
+          "party": "prsd",
+          "votes": 68482,
+          "pct": 3.61,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "MAS Region",
+          "party": "mas",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Independent Regionalist Party",
+          "party": "pri",
+          "votes": 46730,
+          "pct": 2.47,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 12974,
+          "pct": 0.68,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); 18 seats were contested. MAS Region held a seat not up for election and has no votes in the table. The electorate is that of the regions that elected senators. Independents combines the table's independent rows: Coalition for Change (70,124 votes, 0 seats), Clean Chile, Vote Happy (75,311 votes, 0 seats), New Majority for Chile (79,266 votes, 0 seats), unaligned (4,461 votes, 2 seats). Its change is the sum of their changes. Shares are of valid votes; 157,998 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-chamber-2013",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2013-11-17",
+      "totalSeats": 120,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2013_Chilean_general_election",
+        "revid": 1371438761
+      },
+      "candidates": [
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 1179342,
+          "pct": 18.96,
+          "seats": 29,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 967003,
+          "pct": 15.55,
+          "seats": 21,
+          "change": null
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 928037,
+          "pct": 14.92,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 691713,
+          "pct": 11.12,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 685804,
+          "pct": 11.03,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 646640,
+          "pct": 10.4,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 255914,
+          "pct": 4.11,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Social Democrat Radical Party",
+          "party": "prsd",
+          "votes": 225955,
+          "pct": 3.63,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl13",
+          "votes": 16664,
+          "pct": 0.27,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pro",
+          "votes": 235722,
+          "pct": 3.79,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 208879,
+          "pct": 3.36,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Regionalist Party of the Independents",
+          "party": "pri",
+          "votes": 72306,
+          "pct": 1.16,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Equality Party",
+          "party": "pi",
+          "votes": 67094,
+          "pct": 1.08,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 39149,
+          "pct": 0.63,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly Nueva Mayoría (67 seats) and the Alliance (49). The Broad Social Movement links to the MAS Region article. The table has no change column. Independents combines the table's independent rows: Nueva Mayoría (135,120 votes, 4 seats), Alliance (146,402 votes, 1 seat), If You Want It, Chile Changes (85,437 votes, 0 seats), New Constitution for Chile (73,047 votes, 0 seats), unaligned (206,634 votes, 3 seats). Shares are of valid votes; 257,434 blank and 220,868 invalid votes are excluded."
+    },
+    {
+      "id": "cl-president-2013",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2013-11-17",
+      "turnout": 41.98,
+      "source": {
+        "name": "Wikipedia, citing the Election Certification Court (Tricel)",
+        "url": "https://en.wikipedia.org/wiki/2013_Chilean_general_election",
+        "revid": 1371438761
+      },
+      "candidates": [
+        {
+          "name": "Michelle Bachelet",
+          "party": "ps",
+          "votes": 3470379,
+          "pct": 62.17,
+          "winner": true
+        },
+        {
+          "name": "Evelyn Matthei",
+          "party": "udi",
+          "votes": 2111891,
+          "pct": 37.83
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2013-11-17",
+          "candidates": [
+            {
+              "name": "Michelle Bachelet",
+              "party": "ps",
+              "votes": 3075839,
+              "pct": 46.7
+            },
+            {
+              "name": "Evelyn Matthei",
+              "party": "udi",
+              "votes": 1648481,
+              "pct": 25.03
+            },
+            {
+              "name": "Marco Enríquez-Ominami",
+              "party": "pro",
+              "votes": 723542,
+              "pct": 10.99
+            },
+            {
+              "name": "Franco Parisi",
+              "party": "indparisi",
+              "votes": 666015,
+              "pct": 10.11
+            },
+            {
+              "name": "Marcel Claude",
+              "party": "ph",
+              "votes": 185072,
+              "pct": 2.81
+            },
+            {
+              "name": "Alfredo Sfeir",
+              "party": "pev",
+              "votes": 154648,
+              "pct": 2.35
+            },
+            {
+              "name": "Roxana Miranda",
+              "party": "pi",
+              "votes": 81873,
+              "pct": 1.24
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 50338,
+              "pct": 0.76
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2013-12-15",
+          "candidates": [
+            {
+              "name": "Michelle Bachelet",
+              "party": "ps",
+              "votes": 3470379,
+              "pct": 62.17,
+              "winner": true
+            },
+            {
+              "name": "Evelyn Matthei",
+              "party": "udi",
+              "votes": 2111891,
+              "pct": 37.83
+            }
+          ]
+        }
+      ],
+      "notes": "Bachelet (Socialist Party) ran for Nueva Mayoría; Matthei (Independent Democratic Union) for the Alliance; Parisi as an independent. First presidential election with voluntary voting and automatic registration. Turnout is for the run-off; the first round's was 49.35%. Shares are of valid votes; in the first round 46,268 blank and 66,935 invalid votes are excluded, and in the run-off 32,565 blank and 82,916 invalid. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-2013",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2013-11-17",
+      "totalSeats": 38,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2013_Chilean_general_election",
+        "revid": 1371438761
+      },
+      "candidates": [
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 733726,
+          "pct": 16.27,
+          "seats": 8,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 662447,
+          "pct": 14.69,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 744261,
+          "pct": 16.51,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 728455,
+          "pct": 16.16,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 556131,
+          "pct": 12.33,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 684376,
+          "pct": 15.18,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Broad Social Movement",
+          "party": "mas",
+          "votes": 156372,
+          "pct": 3.47,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 156336,
+          "pct": 3.47,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Equality Party",
+          "party": "pi",
+          "votes": 70692,
+          "pct": 1.57,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 16318,
+          "pct": 0.36,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); 20 seats in 10 of the 19 constituencies were contested. The Broad Social Movement links to the MAS Region article. The table gives no electorate, so no turnout, and no change column. Independents combines the table's independent rows: Nueva Mayoría (91,112 votes, 2 seats), Alliance (319,528 votes, 0 seats), New Constitution for Chile (95,328 votes, 0 seats), If You Want It, Chile Changes (109,702 votes, 0 seats), unaligned (68,706 votes, 1 seat). Shares are of valid votes; 176,649 blank and 166,402 invalid votes are excluded."
+    },
+    {
+      "id": "cl-chamber-2017",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2017-11-19",
+      "totalSeats": 155,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2017_Chilean_general_election",
+        "revid": 1378501641
+      },
+      "candidates": [
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 1067270,
+          "pct": 17.8,
+          "seats": 36,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 957245,
+          "pct": 15.96,
+          "seats": 30,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 585128,
+          "pct": 9.76,
+          "seats": 19,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 616550,
+          "pct": 10.28,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Democratic Revolution",
+          "party": "rd",
+          "votes": 343019,
+          "pct": 5.72,
+          "seats": 10,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 365988,
+          "pct": 6.1,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 275096,
+          "pct": 4.59,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Social Democrat Radical Party",
+          "party": "prsd",
+          "votes": 216355,
+          "pct": 3.61,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Evópoli",
+          "party": "evo",
+          "votes": 255221,
+          "pct": 4.26,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 253787,
+          "pct": 4.23,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Social Green Regionalist Federation",
+          "party": "frvs",
+          "votes": 94666,
+          "pct": 1.58,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl13",
+          "votes": 46605,
+          "pct": 0.78,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Progressive Party",
+          "party": "pro",
+          "votes": 199566,
+          "pct": 3.33,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Equality Party",
+          "party": "pi",
+          "votes": 129232,
+          "pct": 2.16,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Green Ecologist Party",
+          "party": "pev",
+          "votes": 128629,
+          "pct": 2.14,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 104717,
+          "pct": 1.75,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Citizen Power",
+          "party": "pod",
+          "votes": 87456,
+          "pct": 1.46,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Amplitude",
+          "party": "amp",
+          "votes": 61319,
+          "pct": 1.02,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 208861,
+          "pct": 3.48,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "First election under proportional representation, with the Chamber enlarged from 120 to 155 seats. The table is marked as revised provisional results and has no independent rows within alliances and no change column. Parties ran in alliances, chiefly Chile Vamos (72 seats), The Force of the Majority (43) and the Broad Front (20). Shares are of valid votes; 360,694 blank and 317,742 invalid votes are excluded."
+    },
+    {
+      "id": "cl-president-2017",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2017-11-19",
+      "turnout": 49.02,
+      "source": {
+        "name": "Wikipedia, citing the Election Certification Court (Tricel)",
+        "url": "https://en.wikipedia.org/wiki/2017_Chilean_general_election",
+        "revid": 1378501641
+      },
+      "candidates": [
+        {
+          "name": "Sebastián Piñera",
+          "party": "chv",
+          "votes": 3796918,
+          "pct": 54.57,
+          "winner": true
+        },
+        {
+          "name": "Alejandro Guillier",
+          "party": "nm",
+          "votes": 3160628,
+          "pct": 45.43
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2017-11-19",
+          "candidates": [
+            {
+              "name": "Sebastián Piñera",
+              "party": "chv",
+              "votes": 2418540,
+              "pct": 36.64
+            },
+            {
+              "name": "Alejandro Guillier",
+              "party": "nm",
+              "votes": 1498040,
+              "pct": 22.7
+            },
+            {
+              "name": "Beatriz Sánchez",
+              "party": "fac",
+              "votes": 1338037,
+              "pct": 20.27
+            },
+            {
+              "name": "José Antonio Kast",
+              "party": "indkast",
+              "votes": 523375,
+              "pct": 7.93
+            },
+            {
+              "name": "Carolina Goic",
+              "party": "pdc",
+              "votes": 387784,
+              "pct": 5.88
+            },
+            {
+              "name": "Marco Enríquez-Ominami",
+              "party": "pro",
+              "votes": 376871,
+              "pct": 5.71
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 57633,
+              "pct": 0.87
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2017-12-17",
+          "candidates": [
+            {
+              "name": "Sebastián Piñera",
+              "party": "chv",
+              "votes": 3796918,
+              "pct": 54.57,
+              "winner": true
+            },
+            {
+              "name": "Alejandro Guillier",
+              "party": "nm",
+              "votes": 3160628,
+              "pct": 45.43
+            }
+          ]
+        }
+      ],
+      "notes": "The table lists Piñera, Guillier and Sánchez as independents backed by Chile Vamos, The Force of the Majority (linked to Nueva Mayoría) and the Broad Front; their rows use those coalitions. Kast ran as an independent. Turnout is for the run-off; the first round's was 46.72%. Shares are of valid votes; in the first round 38,543 blank and 64,504 invalid votes are excluded, and in the run-off 18,892 blank and 56,440 invalid. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-2017",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2017-11-19",
+      "totalSeats": 43,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2017_Chilean_general_election",
+        "revid": 1378501641
+      },
+      "candidates": [
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 210897,
+          "pct": 12.66,
+          "seats": 9,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 349622,
+          "pct": 20.98,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 200299,
+          "pct": 12.02,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 125247,
+          "pct": 7.52,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 237983,
+          "pct": 14.28,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Evópoli",
+          "party": "evo",
+          "votes": 67801,
+          "pct": 4.07,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 88701,
+          "pct": 5.32,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Revolution",
+          "party": "rd",
+          "votes": 38224,
+          "pct": 2.29,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Social Democrat Radical Party",
+          "party": "prsd",
+          "votes": 34448,
+          "pct": 2.07,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "País",
+          "party": "paisn",
+          "votes": 6970,
+          "pct": 0.42,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Amplitude",
+          "party": "amp",
+          "votes": 62601,
+          "pct": 3.76,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 62223,
+          "pct": 3.73,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Citizens",
+          "party": "ciu",
+          "votes": 45636,
+          "pct": 2.74,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl13",
+          "votes": 28774,
+          "pct": 1.73,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Citizen Power",
+          "party": "pod",
+          "votes": 28472,
+          "pct": 1.71,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Equality Party",
+          "party": "pi",
+          "votes": 26640,
+          "pct": 1.6,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 20209,
+          "pct": 1.21,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 31596,
+          "pct": 1.9,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); 23 seats in 7 regions were contested, and the Senate grew from 38 to 43 seats. The table is marked as revised provisional results, gives no electorate (so no turnout) and has no change column. Shares are of valid votes; 81,964 blank and 70,958 invalid votes are excluded. Seven regions elected senators in 2017. Region winners are the party that won the most seats in each region's results table (ties broken by the party's votes there); the other regions had no Senate race.",
+      "regionWinners": {
+        "AP": "ps",
+        "TA": "ppd",
+        "AT": "pdc",
+        "VS": "rn",
+        "ML": "rn",
+        "AR": "evo",
+        "AI": "udi"
+      },
+      "regionSource": "https://en.wikipedia.org/wiki/2017_Chilean_general_election",
+      "partial": true
+    },
+    {
+      "id": "cl-chamber-2021",
+      "office": "Chamber of Deputies",
+      "kind": "legislative",
+      "date": "2021-11-21",
+      "totalSeats": 155,
+      "turnout": 47.05,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2021_Chilean_general_election",
+        "revid": 1374621579
+      },
+      "candidates": [
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 693474,
+          "pct": 10.96,
+          "seats": 25,
+          "change": -11,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 671502,
+          "pct": 10.61,
+          "seats": 23,
+          "change": -7
+        },
+        {
+          "name": "Republican Party",
+          "party": "rep",
+          "votes": 666726,
+          "pct": 10.54,
+          "seats": 14,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 343437,
+          "pct": 5.43,
+          "seats": 13,
+          "change": -6
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 464885,
+          "pct": 7.35,
+          "seats": 12,
+          "change": 4
+        },
+        {
+          "name": "Social Convergence",
+          "party": "cs",
+          "votes": 287190,
+          "pct": 4.54,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 264985,
+          "pct": 4.19,
+          "seats": 8,
+          "change": -6
+        },
+        {
+          "name": "Democratic Revolution",
+          "party": "rd",
+          "votes": 257854,
+          "pct": 4.07,
+          "seats": 8,
+          "change": -2
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 242927,
+          "pct": 3.84,
+          "seats": 7,
+          "change": -1
+        },
+        {
+          "name": "Party of the People",
+          "party": "pdg",
+          "votes": 534881,
+          "pct": 8.45,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Comunes",
+          "party": "comunes",
+          "votes": 207607,
+          "pct": 3.28,
+          "seats": 6,
+          "change": 5
+        },
+        {
+          "name": "Evópoli",
+          "party": "evo",
+          "votes": 221284,
+          "pct": 3.5,
+          "seats": 4,
+          "change": -2
+        },
+        {
+          "name": "Radical Party",
+          "party": "prsd",
+          "votes": 111117,
+          "pct": 1.76,
+          "seats": 4,
+          "change": -4
+        },
+        {
+          "name": "Liberal Party",
+          "party": "pl13",
+          "votes": 96010,
+          "pct": 1.52,
+          "seats": 4,
+          "change": 2
+        },
+        {
+          "name": "Humanist Party",
+          "party": "ph",
+          "votes": 195409,
+          "pct": 3.09,
+          "seats": 3,
+          "change": -2
+        },
+        {
+          "name": "Green Ecologist Party",
+          "party": "pev",
+          "votes": 305443,
+          "pct": 4.83,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Social Green Regionalist Federation",
+          "party": "frvs",
+          "votes": 107696,
+          "pct": 1.7,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "United Centre",
+          "party": "cu",
+          "votes": 177105,
+          "pct": 2.8,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 90960,
+          "pct": 1.44,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Christian Conservative Party",
+          "party": "pcc",
+          "votes": 40560,
+          "pct": 0.64,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Citizens",
+          "party": "ciu",
+          "votes": 27502,
+          "pct": 0.43,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Democratic Independent Regionalist Party",
+          "party": "prid",
+          "votes": 23222,
+          "pct": 0.37,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Equality Party",
+          "party": "pi",
+          "votes": 127506,
+          "pct": 2.01,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 168714,
+          "pct": 2.67,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Parties ran in alliances, chiefly Chile Podemos Más (53 seats), Apruebo Dignidad (37) and the New Social Pact (37). The table marks the results as 99.98% counted. Shares are of valid votes; 404,762 blank and 339,470 invalid votes are excluded. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-president-2021",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2021-11-21",
+      "turnout": 55.64,
+      "source": {
+        "name": "Wikipedia, citing the Election Certification Court (Tricel) and Servel",
+        "url": "https://en.wikipedia.org/wiki/2021_Chilean_general_election",
+        "revid": 1374621579
+      },
+      "candidates": [
+        {
+          "name": "Gabriel Boric",
+          "party": "cs",
+          "votes": 4620890,
+          "pct": 55.87,
+          "winner": true
+        },
+        {
+          "name": "José Antonio Kast",
+          "party": "rep",
+          "votes": 3650088,
+          "pct": 44.13
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2021-11-21",
+          "candidates": [
+            {
+              "name": "José Antonio Kast",
+              "party": "rep",
+              "votes": 1961779,
+              "pct": 27.91
+            },
+            {
+              "name": "Gabriel Boric",
+              "party": "cs",
+              "votes": 1815024,
+              "pct": 25.82
+            },
+            {
+              "name": "Franco Parisi",
+              "party": "pdg",
+              "votes": 900064,
+              "pct": 12.81
+            },
+            {
+              "name": "Sebastián Sichel",
+              "party": "chv",
+              "votes": 898635,
+              "pct": 12.79
+            },
+            {
+              "name": "Yasna Provoste",
+              "party": "pdc",
+              "votes": 815563,
+              "pct": 11.6
+            },
+            {
+              "name": "Marco Enríquez-Ominami",
+              "party": "pro",
+              "votes": 534383,
+              "pct": 7.6
+            },
+            {
+              "name": "Eduardo Artés",
+              "party": "pcap",
+              "votes": 102897,
+              "pct": 1.46
+            }
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2021-12-19",
+          "candidates": [
+            {
+              "name": "Gabriel Boric",
+              "party": "cs",
+              "votes": 4620890,
+              "pct": 55.87,
+              "winner": true
+            },
+            {
+              "name": "José Antonio Kast",
+              "party": "rep",
+              "votes": 3650088,
+              "pct": 44.13
+            }
+          ]
+        }
+      ],
+      "notes": "Kast (Republican Party) ran for the Christian Social Front; Boric (Social Convergence) for Apruebo Dignidad; Sichel for Chile Podemos Más, which Wikipedia treats as Chile Vamos (key chv); Provoste (Christian Democrat) for the New Social Pact; Artés (PC-AP) for the Patriotic Union. Turnout is for the run-off; the first round's was 47.33%. Shares are of valid votes; in the first round 30,493 blank and 55,480 invalid votes are excluded, and in the run-off 24,130 blank and 68,802 invalid. Turnout is computed from the table's votes cast and electorate."
+    },
+    {
+      "id": "cl-senate-2021",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2021-11-21",
+      "totalSeats": 50,
+      "source": {
+        "name": "Wikipedia, citing Servel (the Electoral Service)",
+        "url": "https://en.wikipedia.org/wiki/2021_Chilean_general_election",
+        "revid": 1374621579
+      },
+      "candidates": [
+        {
+          "name": "National Renewal",
+          "party": "rn",
+          "votes": 549553,
+          "pct": 11.8,
+          "seats": 12,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Independent Democratic Union",
+          "party": "udi",
+          "votes": 354812,
+          "pct": 7.62,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Socialist Party",
+          "party": "ps",
+          "votes": 314114,
+          "pct": 6.74,
+          "seats": 7,
+          "change": null
+        },
+        {
+          "name": "Party for Democracy",
+          "party": "ppd",
+          "votes": 111910,
+          "pct": 2.4,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "pdc",
+          "votes": 214180,
+          "pct": 4.6,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Evópoli",
+          "party": "evo",
+          "votes": 368024,
+          "pct": 7.9,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 433448,
+          "pct": 9.31,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Communist Party",
+          "party": "pc",
+          "votes": 335709,
+          "pct": 7.21,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Social Green Regionalist Federation",
+          "party": "frvs",
+          "votes": 188308,
+          "pct": 4.04,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Republican Party",
+          "party": "rep",
+          "votes": 336305,
+          "pct": 7.22,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Revolution",
+          "party": "rd",
+          "votes": 156256,
+          "pct": 3.35,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Party of the People",
+          "party": "pdg",
+          "votes": 378378,
+          "pct": 8.12,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Green Ecologist Party",
+          "party": "pev",
+          "votes": 198710,
+          "pct": 4.27,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Comunes",
+          "party": "comunes",
+          "votes": 172054,
+          "pct": 3.69,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "United Centre",
+          "party": "cu",
+          "votes": 158134,
+          "pct": 3.39,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Equality Party",
+          "party": "pi",
+          "votes": 82785,
+          "pct": 1.78,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Christian Conservative Party",
+          "party": "pcc",
+          "votes": 65262,
+          "pct": 1.4,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Social Convergence",
+          "party": "cs",
+          "votes": 59489,
+          "pct": 1.28,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Radical Party",
+          "party": "prsd",
+          "votes": 58077,
+          "pct": 1.25,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 122426,
+          "pct": 2.63,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "notes": "Seats are the Senate's composition after the election (the table's Total column); 27 seats were contested and the Senate reached 50 seats. The table's electorate is the national figure although only some regions elected senators, so no turnout is given. No change column. Shares are of valid votes; 233,086 blank and 227,995 invalid votes are excluded. The regions that elected senators are the nine not renewed in 2017, as senators serve eight years.",
+      "voted": [
+        "AN",
+        "BI",
+        "CO",
+        "LL",
+        "LR",
+        "MA",
+        "NB",
+        "LI",
+        "RM"
+      ]
+    }
+  ]
+}

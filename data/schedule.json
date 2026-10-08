@@ -605,5 +605,71 @@
     "timezone": "Asia/Manila",
     "pollsClose": "19:00",
     "basedOn": "ph-house-2025"
+  },
+  {
+    "country": "CL",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2029-11-18",
+    "note": "Due in November 2029; the date is not yet set",
+    "timezone": "America/Santiago",
+    "pollsClose": "18:00",
+    "basedOn": "cl-president-2025",
+    "tentative": true
+  },
+  {
+    "country": "CL",
+    "office": "Chamber of Deputies",
+    "kind": "legislative",
+    "date": "2029-11-18",
+    "note": "Due in November 2029; the date is not yet set",
+    "timezone": "America/Santiago",
+    "pollsClose": "18:00",
+    "basedOn": "cl-chamber-2025",
+    "tentative": true
+  },
+  {
+    "country": "CL",
+    "office": "Senate",
+    "kind": "legislative",
+    "date": "2029-11-18",
+    "note": "About half the seats; due in November 2029, date not yet set",
+    "timezone": "America/Santiago",
+    "pollsClose": "18:00",
+    "basedOn": "cl-senate-2025",
+    "tentative": true
+  },
+  {
+    "country": "BO",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2030-08-18",
+    "note": "Due in 2030; the date is not yet set",
+    "timezone": "America/La_Paz",
+    "pollsClose": "16:00",
+    "basedOn": "bo-president-2025",
+    "tentative": true
+  },
+  {
+    "country": "BO",
+    "office": "Chamber of Deputies",
+    "kind": "legislative",
+    "date": "2030-08-18",
+    "note": "Due in 2030; the date is not yet set",
+    "timezone": "America/La_Paz",
+    "pollsClose": "16:00",
+    "basedOn": "bo-chamber-2025",
+    "tentative": true
+  },
+  {
+    "country": "BO",
+    "office": "Senate",
+    "kind": "legislative",
+    "date": "2030-08-18",
+    "note": "Due in 2030; the date is not yet set",
+    "timezone": "America/La_Paz",
+    "pollsClose": "16:00",
+    "basedOn": "bo-senate-2025",
+    "tentative": true
   }
 ]
