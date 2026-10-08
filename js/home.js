@@ -18,7 +18,6 @@ export function renderHome(panel, ctx) {
       <header class="intro">
         <p class="eyebrow">National elections</p>
         <h1>Elections around the world.</h1>
-        <p class="lede">Spin the globe and pick a country to see who won, state by state, in its latest election and every national election since 1948.${ctx.index.asOf ? ` Results as of ${fmtFullDate(ctx.index.asOf)}.` : ''}</p>
       </header>
       <dl class="stats"></dl>
       <a class="feature"></a>
@@ -34,7 +33,7 @@ export function renderHome(panel, ctx) {
         <h2 class="block-title">Latest results</h2>
         <ul class="recent"><li class="muted">Loading…</li></ul>
       </section>
-      <p class="fineprint">National results are official figures. Each country page names its source and says which parts of its map are illustrative.</p>
+      <p class="fineprint">National results are official figures${ctx.index.asOf ? `, as of ${fmtFullDate(ctx.index.asOf)}` : ''}. Each country page names its source and says which parts of its map are illustrative.</p>
     </div>`;
 
   const stats = panel.querySelector('.stats');
@@ -110,7 +109,6 @@ export function renderHome(panel, ctx) {
 
     stats.innerHTML = [
       ['Countries', index.countries.length],
-      ['Races ahead', upcoming.length],
       live.length ? ['Counting now', live.length] : ['Next vote', upcoming[0] ? `${upcoming[0].days} days` : '—']
     ].map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('');
 

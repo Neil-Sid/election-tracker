@@ -218,7 +218,6 @@ canvas.globe.grabbing { cursor: grabbing; }
 .globe-legend .k.live { background: var(--tracked-live); }
 .globe-legend .k.uncalled { background: var(--uncalled); }
 .globe-legend .k.not-up { background: repeating-linear-gradient(45deg, var(--hatch-line) 0 2px, var(--hatch-bg) 2px 5px); }
-.globe-legend .legend-note { color: var(--muted); }
 
 .globe-controls {
   position: absolute; right: 16px; bottom: 16px;
@@ -277,9 +276,8 @@ canvas.globe.grabbing { cursor: grabbing; }
 /* ---------- home ---------- */
 
 .intro h1 { margin-top: 10px; font: 600 38px/1.08 var(--font-display); letter-spacing: -0.035em; }
-.lede { margin-top: 14px; font-size: 16px; line-height: 1.55; color: var(--fg2); }
 
-.stats { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 28px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.stats { display: grid; grid-template-columns: repeat(2, 1fr); margin-top: 28px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .stats div + div { padding-left: 16px; border-left: 1px solid var(--line); }
 .stats dt { font-size: 12px; color: var(--muted); }
 .stats dd { margin-top: 2px; font: 600 24px/1.2 var(--font-display); letter-spacing: -0.03em; font-variant-numeric: tabular-nums; }

@@ -510,8 +510,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       ${wins.map(([p]) => `<span><i class="k" style="background:${party(p).color}"></i>${nameFor(p, view)}</span>`).join('')}
       ${leading ? '<span><i class="k lead"></i>Leading, not called</span>' : ''}
       ${uncalled ? '<span><i class="k uncalled"></i>No votes yet</span>' : ''}
-      ${notUp ? '<span><i class="k not-up"></i>No race</span>' : ''}
-      ${wins.length ? '<span class="legend-note">Deeper shade, wider margin</span>' : ''}`;
+      ${notUp ? '<span><i class="k not-up"></i>No race</span>' : ''}`;
   }
 
   function renderExtras() {
