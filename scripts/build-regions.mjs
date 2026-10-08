@@ -107,6 +107,7 @@ const IR = {
   Tehran: '23', Ardabil: '24', Qom: '25', Qazvin: '26', Golestan: '27', 'North Khorasan': '28', 'South Khorasan': '29',
   Alborz: '30'
 };
+const MA_NAMES = { '05': 'Fès-Boulemane', 10: 'Doukkala-Abda', 13: 'Souss-Massa-Drâa' };
 const IQ_NAMES = { AN: 'Anbar', BB: 'Babil', MU: 'Muthanna', QA: 'Al-Qadisiyyah' };
 
 // Natural Earth spells some names without diacritics or with typos.
@@ -122,6 +123,7 @@ const RENAME = {
 
 const iso = p => p.iso_3166_2.split('-')[1];
 const own = cc => p => [cc, iso(p), p.name];
+const english = cc => p => [cc, iso(p), p.name_en ?? p.name];
 const merged = (cc, table, field) => p => [cc, ...(table[p[field]] ?? [])];
 const lettersOnly = cc => p => [cc, /^[A-Z]+$/.test(iso(p)) ? iso(p) : null, p.name];
 
@@ -171,6 +173,15 @@ const KEY = {
   UKR: UA,
   IRN: p => ['IR', IR[p.name_en], p.name_en],
   IRQ: p => ['IQ', iso(p), IQ_NAMES[iso(p)] ?? p.name_en ?? p.name],
+  BWA: english('BW'),
+  // Kenya's eight former provinces and DR Congo's eleven pre-2015 provinces:
+  // today's counties and provinces each sit inside one of them.
+  KEN: english('KE'),
+  COD: english('CD'),
+  NGA: p => ['NG', iso(p), (p.name_en ?? p.name).replace(/ State$/, '')],
+  MAR: p => ['MA', iso(p), MA_NAMES[iso(p)] ?? p.name_en ?? p.name],
+  MYS: english('MY'),
+  THA: english('TH'),
   // The 16 regions; outlying islands and the Chatham Islands are left off.
   NZL: p => ['NZ', p.iso_3166_2.startsWith('NZ-') && !p.iso_3166_2.includes('~') && p.iso_3166_2 !== 'NZ-CIT' ? iso(p) : null, p.name_en ?? p.name]
 };
@@ -199,6 +210,15 @@ for (const f of geo.features) {
   const id = `${cc}-${abbr}`;
   features.push({ type: 'Feature', properties: { id, name: RENAME[id] ?? name }, geometry: f.geometry });
 }
+
+// Natural Earth extends three Moroccan regions into Western Sahara, which the
+// world outline draws on its own. They stop at Morocco's recognised border,
+// the 27°40′ parallel.
+const moroccan = f => f.properties.id.startsWith('MA-');
+const clipped = await mapshaper.applyCommands('-i ma.json -clip bbox=-20,27.6667,0,37 -o out.json format=geojson',
+  { 'ma.json': { type: 'FeatureCollection', features: features.filter(moroccan) } });
+features.splice(0, features.length, ...features.filter(f => !moroccan(f)),
+  ...JSON.parse(clipped['out.json']).features.filter(f => f.geometry));
 
 for (const [cc, file] of Object.entries(replacements)) {
   const cfg = REPLACE[cc];
