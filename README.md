@@ -1,19 +1,22 @@
 # Election Tracker
 
-A draggable globe of national elections in 23 countries: the US, Canada, Brazil,
-Argentina, the UK, Spain, France, Germany, Australia, India, Japan, Mexico, Italy,
-South Korea, Indonesia, South Africa, Türkiye, Poland, the Netherlands, Sweden,
-Portugal, Ireland and Austria. Pick a country and the globe flies in and colours it by
-who won, shaded by margin: by state, province or region, and for chambers elected in
-single-member seats, by official district (US congressional districts, UK and French
-constituencies, Canadian ridings, Australian divisions, German Wahlkreise, Indian Lok
-Sabha seats and Japanese districts). The side panel shows the national result, the
-breakdown, the closest races, past results and how the system works. Results are as of
-the date at the top of `data/index.json` (`asOf`), shown on the home page.
+A draggable globe of national elections in 43 countries: the US, Canada, Mexico,
+Brazil, Argentina, Chile, Colombia, Peru and Bolivia; the UK, Ireland, France, Spain,
+Portugal, Italy, Germany, Austria, Switzerland, the Netherlands, Belgium, Denmark,
+Norway, Sweden, Finland, Poland, Czechia, Slovakia, Hungary, Romania, Greece, Ukraine
+and Russia; Türkiye, Iran, Iraq, India, Indonesia, the Philippines, South Korea and
+Japan; and South Africa, Australia and New Zealand. Pick a country and the globe flies
+in and colours it by who won, shaded by margin: by state, province or region, and for
+chambers elected in single-member seats, by official district (US congressional
+districts, UK and French constituencies, Canadian ridings, Australian divisions,
+German Wahlkreise, Indian Lok Sabha seats and Japanese districts). The side panel
+shows the national result, the breakdown, the closest races, past results and how the
+system works. Results are as of the date at the top of `data/index.json` (`asOf`),
+shown on the home page.
 
 ![The 2024 US House of Representatives: seats by party, and the map by congressional district](docs/screenshot.png)
 
-National totals are official results in all 23 countries, and the page names the
+National totals are official results in every country, and the page names the
 source under each one. Each lists every party that won a seat, took at least 1% of the
 vote or lost five or more seats, and sums the rest into Others. Where the source says
 who won each state or region, the map uses it and the page says so. For the US House
@@ -22,7 +25,7 @@ each state, nation, province or community are real too. The rest of the state, r
 and district detail is sample data. No API is used for results or race calls.
 
 The tracker also has every national election since 1948 for each office it shows, in
-all 23 countries. See [Past elections](#past-elections).
+every country. See [Past elections](#past-elections).
 
 ## Run it
 
@@ -251,7 +254,7 @@ geographically.
 
 ## Past elections
 
-Every country has every national election since 1948 for each office it shows, 845 in
+Every country has every national election since 1948 for each office it shows, 1,441 in
 all. On a country page, pick a year on the rail under the office tabs (each year is marked
 in the winner's colour), or a row under Past results. A past election opens like the
 current one, with its seat chart, full results and the globe painted by region, at its
@@ -269,7 +272,8 @@ independents, a few merged rows) and Others.
 **Results by region** are illustrative. Borders and units have changed since 1948, so
 `scripts/build-history.mjs` draws each region's result from the national split on
 today's map. Where the source has a results-by-region table that matches today's units,
-the real winner of each region is used (`regionWinners`), and the page says so.
+the real winner of each region is used (`regionWinners`), and the page says so; when only
+some regions have one, it says how many.
 Regional parties are kept to the regions they stood in (`RULES` in the same script).
 Regions show a winner and shares only, with no vote counts, so nothing generated looks
 like a real count.

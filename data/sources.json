@@ -379,6 +379,22 @@
       "url": "https://www.cvk.gov.ua",
       "role": "Official results",
       "note": "Publishes the official count and final results. Under martial law, in force since February 2022, no national election can be held."
+    },
+    "IR": {
+      "access": "public",
+      "name": "Ministry of Interior",
+      "short": "Interior Ministry",
+      "url": "https://www.moi.ir",
+      "role": "Official results",
+      "note": "Runs the elections and announces the results; the Guardian Council vets candidates and supervises the vote."
+    },
+    "IQ": {
+      "access": "public",
+      "name": "Independent High Electoral Commission",
+      "short": "IHEC",
+      "url": "https://ihec.iq",
+      "role": "Official results",
+      "note": "Runs the elections and announces the results; the Federal Supreme Court ratifies them."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

@@ -871,5 +871,35 @@
     "timezone": "Europe/Zurich",
     "pollsClose": "12:00",
     "basedOn": "ch-council-of-states-2023"
+  },
+  {
+    "country": "IR",
+    "office": "Parliament",
+    "kind": "legislative",
+    "date": "2028-03-01",
+    "timezone": "Asia/Tehran",
+    "pollsClose": "18:00",
+    "basedOn": "ir-parliament-2024",
+    "tentative": true
+  },
+  {
+    "country": "IR",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2028-06-01",
+    "timezone": "Asia/Tehran",
+    "pollsClose": "18:00",
+    "basedOn": "ir-president-2024",
+    "tentative": true
+  },
+  {
+    "country": "IQ",
+    "office": "Council of Representatives",
+    "kind": "legislative",
+    "date": "2029-11-01",
+    "timezone": "Asia/Baghdad",
+    "pollsClose": "18:00",
+    "basedOn": "iq-council-of-representatives-2025",
+    "tentative": true
   }
 ]

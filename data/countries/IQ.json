@@ -1,0 +1,998 @@
+{
+  "code": "IQ",
+  "name": "Iraq",
+  "subtitle": "Parliamentary elections",
+  "about": {
+    "system": "Federal parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Council of Representatives (329)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 21406882,
+    "offices": {
+      "Council of Representatives": "Its 329 members are elected for four years by list proportional representation (a modified Sainte-Laguë method) in 18 governorate constituencies, with 83 seats reserved for women and 9 for minorities. It passes federal laws, oversees the executive and elects the president, who then appoints the prime minister."
+    }
+  },
+  "parties": {
+    "aak": {
+      "name": "Arab Alliance in Kirkuk",
+      "color": "#78C247"
+    },
+    "aakirkuk": {
+      "name": "Arab Alliance of Kirkuk",
+      "color": "#A547C2"
+    },
+    "alanbarid": {
+      "name": "Al-Anbar Is Our Identity Alliance",
+      "color": "#DAA520"
+    },
+    "alc": {
+      "name": "Anbar Loyalty Coalition",
+      "color": "#2E419E"
+    },
+    "alusi": {
+      "name": "Mithal al-Alusi List",
+      "color": "#C1CA72"
+    },
+    "ami": {
+      "name": "Assembly of the Men of Iraq",
+      "color": "#C472CA"
+    },
+    "anbarid": {
+      "name": "Anbar is Our Identity",
+      "color": "#C24750"
+    },
+    "ansf": {
+      "name": "Alliance of Nation State Forces",
+      "color": "#106CB7"
+    },
+    "appt": {
+      "name": "Appointed members for the Kurdish governorates",
+      "color": "#412E9E"
+    },
+    "arabiya": {
+      "name": "Al-Arabiya Coalition",
+      "color": "#57888D"
+    },
+    "arabproject": {
+      "name": "Arab Project",
+      "color": "#9E080A"
+    },
+    "atr": {
+      "name": "Alliance Towards Reforms",
+      "color": "#2EDBEB"
+    },
+    "azem": {
+      "name": "Azem Alliance",
+      "color": "#CA72B2"
+    },
+    "baath": {
+      "name": "Ba'ath Party",
+      "color": "#017B48"
+    },
+    "babylon": {
+      "name": "Babylon Movement",
+      "color": "#0241AB"
+    },
+    "badr": {
+      "name": "Badr Organization",
+      "color": "#250F1B"
+    },
+    "baghdadall": {
+      "name": "Baghdad Alliance",
+      "color": "#316172"
+    },
+    "banners": {
+      "name": "Banners of Benevolence",
+      "color": "#CA7287"
+    },
+    "bnm": {
+      "name": "Biladi National Movement",
+      "color": "#8A5298"
+    },
+    "ccc": {
+      "name": "Coalition of Competencies for Change",
+      "color": "#2E9E8B"
+    },
+    "cda": {
+      "name": "Civil Democratic Alliance",
+      "color": "#FFA500"
+    },
+    "cdj": {
+      "name": "National Coalition",
+      "color": "#9FD1A4"
+    },
+    "cfs": {
+      "name": "Council of Free Shabaks",
+      "color": "#B8AE58"
+    },
+    "chaldean": {
+      "name": "Chaldean List",
+      "color": "#72CA7B"
+    },
+    "civic": {
+      "name": "Civic Party",
+      "color": "#9E9E2E"
+    },
+    "civilized": {
+      "name": "Civilized Alliance",
+      "color": "#47A1C2"
+    },
+    "csapc": {
+      "name": "Chaldean Syriac Assyrian Popular Council",
+      "color": "#98528F"
+    },
+    "cup": {
+      "name": "Constitutional Union Party",
+      "color": "#A52A2A"
+    },
+    "dawa": {
+      "name": "Islamic Dawa Party",
+      "color": "#009900"
+    },
+    "demapproach": {
+      "name": "Democratic Approach",
+      "color": "#D1BD9F"
+    },
+    "dfc": {
+      "name": "Diyala First Coalition",
+      "color": "#F1BE85"
+    },
+    "diyalaid": {
+      "name": "Diyala Is Our Identity",
+      "color": "#C247A1"
+    },
+    "dpak": {
+      "name": "Democratic Patriotic Alliance of Kurdistan",
+      "color": "#CCFF33"
+    },
+    "elites": {
+      "name": "Elites Movement",
+      "color": "#000000"
+    },
+    "emtidad": {
+      "name": "Emtidad Movement",
+      "color": "#00607A"
+    },
+    "eradaa": {
+      "name": "Eradaa Movement",
+      "color": "#BA47C2"
+    },
+    "esm": {
+      "name": "Equitable State Movement",
+      "color": "#9E792E"
+    },
+    "ewp": {
+      "name": "Eqtadar Watan Party",
+      "color": "#CA7278"
+    },
+    "fadhila": {
+      "name": "Islamic Virtue Party",
+      "color": "#2929FD"
+    },
+    "fatah": {
+      "name": "Fatah Alliance",
+      "color": "#3C5E37"
+    },
+    "furatayn": {
+      "name": "Furatayn Movement",
+      "color": "#3B92A8"
+    },
+    "fzc": {
+      "name": "Al-Faw Zakho Coalition",
+      "color": "#CA7B72"
+    },
+    "gni": {
+      "name": "Good News, Iraq",
+      "color": "#FDBD13"
+    },
+    "gorran": {
+      "name": "Gorran Movement",
+      "color": "#1F1C50"
+    },
+    "hikma": {
+      "name": "National Wisdom Movement",
+      "color": "#274698"
+    },
+    "hmr": {
+      "name": "Hasim Movement for Reform",
+      "color": "#9E2E53"
+    },
+    "homeland": {
+      "name": "Homeland Party",
+      "color": "#9E8B2E"
+    },
+    "iaf": {
+      "name": "Iraqi Accord Front",
+      "color": "#F47C20"
+    },
+    "iao": {
+      "name": "Islamic Action Organization – Central Command",
+      "color": "#47C291"
+    },
+    "icac": {
+      "name": "Independent Civil Alternative Coalition",
+      "color": "#D29B08"
+    },
+    "icp": {
+      "name": "Iraqi Communist Party",
+      "color": "#FF0000"
+    },
+    "ida": {
+      "name": "Iraqi Decision Alliance",
+      "color": "#723140"
+    },
+    "idraak": {
+      "name": "Idraak Movement",
+      "color": "#16CEF0"
+    },
+    "ifc": {
+      "name": "Iraqi Fundamental Coalition",
+      "color": "#00777D"
+    },
+    "ilc": {
+      "name": "Iraqi Loyalty Coalition",
+      "color": "#7295CA"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "indbloc": {
+      "name": "Independents and bloc parties",
+      "color": "#2E2E9E"
+    },
+    "indf": {
+      "name": "Iraqi National Dialogue Front",
+      "color": "#00009F"
+    },
+    "inl": {
+      "name": "Iraqi National List",
+      "color": "#000000"
+    },
+    "inm": {
+      "name": "Iraqi National Movement",
+      "color": "#00009F"
+    },
+    "inp": {
+      "name": "Iraqi National Project",
+      "color": "#723731"
+    },
+    "iraqall": {
+      "name": "Iraq Alliance",
+      "color": "#C26847"
+    },
+    "iraqilist": {
+      "name": "Iraqi List",
+      "color": "#9E2E41"
+    },
+    "iraqis": {
+      "name": "The Iraqis",
+      "color": "#C2A547"
+    },
+    "ishraqat": {
+      "name": "Ishraqat Kanoon",
+      "color": "#423172"
+    },
+    "istiqlal": {
+      "name": "Independence Party",
+      "color": "#000000"
+    },
+    "itf": {
+      "name": "Iraqi Turkmen Front",
+      "color": "#00B8FD"
+    },
+    "karama": {
+      "name": "Karama Alliance",
+      "color": "#2375DD"
+    },
+    "kdp": {
+      "name": "Kurdistan Democratic Party",
+      "color": "#FFDB00"
+    },
+    "khalas": {
+      "name": "Khalas Coalition",
+      "color": "#47B6C2"
+    },
+    "kiu": {
+      "name": "Kurdistan Islamic Union",
+      "color": "#673301"
+    },
+    "kjc": {
+      "name": "Kafa'at & Jamahir Coalition",
+      "color": "#8C3231"
+    },
+    "kjg": {
+      "name": "Kurdistan Justice Group",
+      "color": "#987352"
+    },
+    "kl": {
+      "name": "Kurdistan List",
+      "color": "#CCFF33"
+    },
+    "kpl": {
+      "name": "Kurdistani Peace List",
+      "color": "#D1C59F"
+    },
+    "krp": {
+      "name": "Kurdistan Revolutionary Party",
+      "color": "#800000"
+    },
+    "kurdcoal": {
+      "name": "Kurdistani Coalition",
+      "color": "#9E2E2E"
+    },
+    "lcb": {
+      "name": "Loyalty and Change Bloc",
+      "color": "#CAA772"
+    },
+    "liberal": {
+      "name": "Liberal Party",
+      "color": "#FF8000"
+    },
+    "mandean": {
+      "name": "Mandean List",
+      "color": "#E8A29E"
+    },
+    "min": {
+      "name": "Minority quota seats",
+      "color": "#4750C2"
+    },
+    "muttahidoon": {
+      "name": "Muttahidoon",
+      "color": "#0D4E76"
+    },
+    "muwatin": {
+      "name": "Al-Muwatin",
+      "color": "#47C2A5"
+    },
+    "naa": {
+      "name": "National Approach Alliance",
+      "color": "#B6C247"
+    },
+    "nas": {
+      "name": "National Alliance of Saladin",
+      "color": "#3C602A"
+    },
+    "nasr": {
+      "name": "Victory Alliance",
+      "color": "#0472B3"
+    },
+    "natidentity": {
+      "name": "National Identity",
+      "color": "#77225D"
+    },
+    "nca": {
+      "name": "National Contract Alliance",
+      "color": "#BBD19F"
+    },
+    "ncs": {
+      "name": "National Coalition in Saladin",
+      "color": "#529867"
+    },
+    "nda": {
+      "name": "National Determination Alliance",
+      "color": "#892F2F"
+    },
+    "ndp": {
+      "name": "National Democratic Party",
+      "color": "#FF0000"
+    },
+    "nfc": {
+      "name": "National Fortress Coalition",
+      "color": "#CAC472"
+    },
+    "ngm": {
+      "name": "New Generation Movement",
+      "color": "#FF681F"
+    },
+    "nhb": {
+      "name": "National Hopes Bloc",
+      "color": "#C27C47"
+    },
+    "nia": {
+      "name": "National Iraqi Alliance",
+      "color": "#008000"
+    },
+    "nice": {
+      "name": "National Independent Cadres and Elites",
+      "color": "#314072"
+    },
+    "ninevehid": {
+      "name": "Nineveh Is Our Identity",
+      "color": "#C29147"
+    },
+    "ninevehpeople": {
+      "name": "Nineveh for Its People",
+      "color": "#315672"
+    },
+    "nka": {
+      "name": "Nineveh Kurdistan Alliance",
+      "color": "#9872CA"
+    },
+    "nna": {
+      "name": "National Nineveh Alliance",
+      "color": "#CA7295"
+    },
+    "npg": {
+      "name": "National Partnership Gathering",
+      "color": "#8DC247"
+    },
+    "npm": {
+      "name": "National Party of the Masses",
+      "color": "#726E31"
+    },
+    "npp": {
+      "name": "National Product Party",
+      "color": "#9E2E79"
+    },
+    "npu": {
+      "name": "Nineveh's People Union",
+      "color": "#F01E27"
+    },
+    "nrt": {
+      "name": "National Reform Trend",
+      "color": "#AEDBFB"
+    },
+    "nsa": {
+      "name": "National Support Alliance",
+      "color": "#D19FAA"
+    },
+    "nsm": {
+      "name": "National Stance Movement",
+      "color": "#7F0284"
+    },
+    "nuf": {
+      "name": "National Union Front",
+      "color": "#3F8E32"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "ourpeople": {
+      "name": "Our People are Our Identity",
+      "color": "#47C2BA"
+    },
+    "passing": {
+      "name": "The Passing",
+      "color": "#9E2E66"
+    },
+    "pu": {
+      "name": "People's Union",
+      "color": "#CA72C1"
+    },
+    "puk": {
+      "name": "Patriotic Union of Kurdistan",
+      "color": "#00A550"
+    },
+    "pup": {
+      "name": "Popular Unity Party",
+      "color": "#5447C2"
+    },
+    "qadimun": {
+      "name": "Qadimun",
+      "color": "#50C247"
+    },
+    "qimam": {
+      "name": "Qimam Coalition",
+      "color": "#72A4CA"
+    },
+    "rafidain": {
+      "name": "Rafidain List",
+      "color": "#5F21A9"
+    },
+    "rdc": {
+      "name": "Reconstruction and Development Coalition",
+      "color": "#42B6AD"
+    },
+    "rights": {
+      "name": "Rights Movement",
+      "color": "#B49FD1"
+    },
+    "risalyun": {
+      "name": "The Upholders of the Message",
+      "color": "#C24778"
+    },
+    "rlb": {
+      "name": "Reconciliation and Liberation Bloc",
+      "color": "#31726E"
+    },
+    "sadiqoun": {
+      "name": "Al-Sadiqoun Bloc",
+      "color": "#B5CA7F"
+    },
+    "sadr": {
+      "name": "Sadrist Movement",
+      "color": "#723156"
+    },
+    "saladinid": {
+      "name": "Saladin Is Our Identity",
+      "color": "#D19FA2"
+    },
+    "services": {
+      "name": "Services Alliance",
+      "color": "#BFDA0F"
+    },
+    "sic": {
+      "name": "Solidarity in Iraq Coalition",
+      "color": "#C24764"
+    },
+    "snp": {
+      "name": "Socialist Nation Party",
+      "color": "#EE82EE"
+    },
+    "sol": {
+      "name": "State of Law Coalition",
+      "color": "#538727"
+    },
+    "sovereignty": {
+      "name": "National Sovereignty Alliance",
+      "color": "#010E2E"
+    },
+    "spa": {
+      "name": "Saladin Partnership Alliance",
+      "color": "#00641E"
+    },
+    "ssb": {
+      "name": "State Support Bloc",
+      "color": "#9147C2"
+    },
+    "sua": {
+      "name": "Saladin Unified Alliance",
+      "color": "#4C6F5B"
+    },
+    "sumerian": {
+      "name": "Sumerian Movement",
+      "color": "#9FD1B4"
+    },
+    "tafawq": {
+      "name": "Tafawq Alliance",
+      "color": "#72CA8A"
+    },
+    "taqaddum": {
+      "name": "Progress Party",
+      "color": "#F6851D"
+    },
+    "tasmim": {
+      "name": "Tasmim Alliance",
+      "color": "#F7C76C"
+    },
+    "tfk": {
+      "name": "Turkmen Front of Kirkuk",
+      "color": "#8A72CA"
+    },
+    "thabitun": {
+      "name": "Thabitun",
+      "color": "#C247B6"
+    },
+    "uai": {
+      "name": "Unity Alliance of Iraq",
+      "color": "#C2478D"
+    },
+    "uitf": {
+      "name": "Unified Iraqi Turkmen Front",
+      "color": "#7B72CA"
+    },
+    "upf": {
+      "name": "United Popular Front",
+      "color": "#FFFF00"
+    },
+    "usi": {
+      "name": "Unity of the Sons of Iraq",
+      "color": "#9FD1BD"
+    },
+    "waa": {
+      "name": "Wasit Ajmal Alliance",
+      "color": "#831D45"
+    },
+    "wataniya": {
+      "name": "Al-Wataniya",
+      "color": "#CD9FD1"
+    },
+    "wib": {
+      "name": "Wasit Independents Bloc",
+      "color": "#95CA72"
+    },
+    "yca": {
+      "name": "Yazidi Cause Alliance",
+      "color": "#4D3936"
+    },
+    "ymrp": {
+      "name": "Yazidi Movement for Reform and Progress",
+      "color": "#D61D16"
+    },
+    "ypp": {
+      "name": "Yazidi Progress Party",
+      "color": "#52985B"
+    }
+  },
+  "elections": [
+    {
+      "id": "iq-council-of-representatives-2025",
+      "office": "Council of Representatives",
+      "kind": "legislative",
+      "date": "2025-11-11",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 56.04,
+      "system": "329 seats, list proportional by governorate",
+      "totalSeats": 329,
+      "majority": 165,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Independent High Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2025_Iraqi_parliamentary_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_Iraqi_parliamentary_election",
+      "candidates": [
+        {
+          "name": "Reconstruction and Development Coalition",
+          "party": "rdc",
+          "votes": 1318687,
+          "pct": 11.74,
+          "seats": 46,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "State of Law Coalition",
+          "party": "sol",
+          "votes": 728446,
+          "pct": 6.49,
+          "seats": 29,
+          "change": null
+        },
+        {
+          "name": "Progress Party",
+          "party": "taqaddum",
+          "votes": 939810,
+          "pct": 8.37,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "Al-Sadiqoun Bloc",
+          "party": "sadiqoun",
+          "votes": 686902,
+          "pct": 6.12,
+          "seats": 27,
+          "change": null
+        },
+        {
+          "name": "Kurdistan Democratic Party",
+          "party": "kdp",
+          "votes": 1101357,
+          "pct": 9.81,
+          "seats": 26,
+          "change": null
+        },
+        {
+          "name": "Badr Organization",
+          "party": "badr",
+          "votes": 556850,
+          "pct": 4.96,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Alliance of Nation State Forces",
+          "party": "ansf",
+          "votes": 513715,
+          "pct": 4.57,
+          "seats": 18,
+          "change": null
+        },
+        {
+          "name": "Patriotic Union of Kurdistan",
+          "party": "puk",
+          "votes": 548928,
+          "pct": 4.89,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Azem Alliance",
+          "party": "azem",
+          "votes": 483737,
+          "pct": 4.31,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "National Sovereignty Alliance",
+          "party": "sovereignty",
+          "votes": 316415,
+          "pct": 2.82,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Minority quota seats",
+          "party": "min",
+          "votes": 270066,
+          "pct": 2.4,
+          "seats": 9,
+          "change": null
+        },
+        {
+          "name": "Iraqi Fundamental Coalition",
+          "party": "ifc",
+          "votes": 291128,
+          "pct": 2.59,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Ishraqat Kanoon",
+          "party": "ishraqat",
+          "votes": 199335,
+          "pct": 1.78,
+          "seats": 8,
+          "change": null
+        },
+        {
+          "name": "Rights Movement",
+          "party": "rights",
+          "votes": 231013,
+          "pct": 2.06,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "Tasmim Alliance",
+          "party": "tasmim",
+          "votes": 173761,
+          "pct": 1.55,
+          "seats": 6,
+          "change": null
+        },
+        {
+          "name": "National Determination Alliance",
+          "party": "nda",
+          "votes": 226469,
+          "pct": 2.02,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Services Alliance",
+          "party": "services",
+          "votes": 190707,
+          "pct": 1.7,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "National Stance Movement",
+          "party": "nsm",
+          "votes": 156995,
+          "pct": 1.4,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Good News, Iraq",
+          "party": "gni",
+          "votes": 211276,
+          "pct": 1.88,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Kurdistan Islamic Union",
+          "party": "kiu",
+          "votes": 166954,
+          "pct": 1.49,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "Wasit Ajmal Alliance",
+          "party": "waa",
+          "votes": 106152,
+          "pct": 0.95,
+          "seats": 4,
+          "change": null
+        },
+        {
+          "name": "New Generation Movement",
+          "party": "ngm",
+          "votes": 139247,
+          "pct": 1.24,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Al-Anbar Is Our Identity Alliance",
+          "party": "alanbarid",
+          "votes": 128325,
+          "pct": 1.14,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Nineveh for Its People",
+          "party": "ninevehpeople",
+          "votes": 111125,
+          "pct": 0.99,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "National Party of the Masses",
+          "party": "npm",
+          "votes": 104749,
+          "pct": 0.93,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Qimam Coalition",
+          "party": "qimam",
+          "votes": 97635,
+          "pct": 0.87,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Tafawq Alliance",
+          "party": "tafawq",
+          "votes": 84326,
+          "pct": 0.75,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Sumerian Movement",
+          "party": "sumerian",
+          "votes": 66468,
+          "pct": 0.59,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Unified Iraqi Turkmen Front",
+          "party": "uitf",
+          "votes": 66179,
+          "pct": 0.59,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Nineveh's People Union",
+          "party": "npu",
+          "votes": 56420,
+          "pct": 0.5,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Al-Faw Zakho Coalition",
+          "party": "fzc",
+          "votes": 64263,
+          "pct": 0.57,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Saladin Unified Alliance",
+          "party": "sua",
+          "votes": 57150,
+          "pct": 0.51,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Arab Project",
+          "party": "arabproject",
+          "votes": 54573,
+          "pct": 0.49,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Diyala First Coalition",
+          "party": "dfc",
+          "votes": 53469,
+          "pct": 0.48,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Arab Alliance in Kirkuk",
+          "party": "aak",
+          "votes": 53046,
+          "pct": 0.47,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Saladin Partnership Alliance",
+          "party": "spa",
+          "votes": 50980,
+          "pct": 0.45,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Identity",
+          "party": "natidentity",
+          "votes": 50200,
+          "pct": 0.45,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Kurdistan Justice Group",
+          "party": "kjg",
+          "votes": 49756,
+          "pct": 0.44,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Yazidi Cause Alliance",
+          "party": "yca",
+          "votes": 49211,
+          "pct": 0.44,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Thabitun",
+          "party": "thabitun",
+          "votes": 30449,
+          "pct": 0.27,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Idraak Movement",
+          "party": "idraak",
+          "votes": 28491,
+          "pct": 0.25,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "State Support Bloc",
+          "party": "ssb",
+          "votes": 21615,
+          "pct": 0.19,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 393529,
+          "pct": 3.5,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Al-Qadisiyyah","abbr":"QA","winner":"rdc","margin":13,"turnout":55.1,"votes":707697,"results":[{"party":"rdc","pct":37,"votes":261848},{"party":"kdp","pct":24,"votes":169847},{"party":"sol","pct":17.9,"votes":126678},{"party":"taqaddum","pct":11.5,"votes":81385},{"party":"sadiqoun","pct":9.7,"votes":68647}]},
+        {"name":"Anbar","abbr":"AN","winner":"taqaddum","margin":6.6,"turnout":59.6,"votes":703696,"results":[{"party":"taqaddum","pct":30.3,"votes":213220},{"party":"rdc","pct":23.7,"votes":166776},{"party":"kdp","pct":17.3,"votes":121739},{"party":"sol","pct":14.4,"votes":101332},{"party":"sadiqoun","pct":14.3,"votes":100629}]},
+        {"name":"Babil","abbr":"BB","winner":"rdc","margin":4.9,"turnout":54.6,"votes":716783,"results":[{"party":"rdc","pct":30,"votes":215035},{"party":"kdp","pct":25.1,"votes":179913},{"party":"taqaddum","pct":19,"votes":136189},{"party":"sol","pct":13.4,"votes":96049},{"party":"sadiqoun","pct":12.6,"votes":90315}]},
+        {"name":"Baghdad","abbr":"BG","winner":"rdc","margin":0.8,"turnout":53.7,"votes":535405,"results":[{"party":"rdc","pct":28.3,"votes":151520},{"party":"kdp","pct":27.5,"votes":147236},{"party":"taqaddum","pct":18.2,"votes":97444},{"party":"sol","pct":15.2,"votes":81382},{"party":"sadiqoun","pct":10.8,"votes":57824}]},
+        {"name":"Basra","abbr":"BA","winner":"tasmim","margin":5.3,"turnout":56.5,"votes":703118,"results":[{"party":"tasmim","pct":24.4,"votes":171561},{"party":"rdc","pct":19.1,"votes":134296},{"party":"sol","pct":17.9,"votes":125858},{"party":"kdp","pct":17.2,"votes":120936},{"party":"taqaddum","pct":11.3,"votes":79452},{"party":"sadiqoun","pct":10,"votes":70312}]},
+        {"name":"Dhi Qar","abbr":"DQ","winner":"rdc","margin":8.3,"turnout":57.9,"votes":523320,"results":[{"party":"rdc","pct":36.2,"votes":189442},{"party":"kdp","pct":27.9,"votes":146006},{"party":"taqaddum","pct":21,"votes":109897},{"party":"sol","pct":7.7,"votes":40296},{"party":"sadiqoun","pct":7.2,"votes":37679}]},
+        {"name":"Diyala","abbr":"DI","winner":"badr","margin":6.6,"turnout":49.7,"votes":626728,"results":[{"party":"badr","pct":30.9,"votes":193659},{"party":"rdc","pct":24.3,"votes":152295},{"party":"kdp","pct":14.7,"votes":92129},{"party":"taqaddum","pct":11.7,"votes":73327},{"party":"sol","pct":11.5,"votes":72074},{"party":"sadiqoun","pct":7,"votes":43871}]},
+        {"name":"Duhok","abbr":"DA","winner":"kdp","margin":5.6,"turnout":53.6,"votes":738404,"results":[{"party":"kdp","pct":37.9,"votes":279855},{"party":"rdc","pct":32.3,"votes":238504},{"party":"sol","pct":11,"votes":81224},{"party":"sadiqoun","pct":9.4,"votes":69410},{"party":"taqaddum","pct":9.3,"votes":68672}]},
+        {"name":"Erbil","abbr":"AR","winner":"kdp","margin":2,"turnout":58.8,"votes":720087,"results":[{"party":"kdp","pct":24.8,"votes":178582},{"party":"rdc","pct":22.8,"votes":164180},{"party":"sadiqoun","pct":20.4,"votes":146898},{"party":"taqaddum","pct":19.3,"votes":138977},{"party":"sol","pct":12.6,"votes":90731}]},
+        {"name":"Karbala","abbr":"KA","winner":"rdc","margin":1.2,"turnout":53.1,"votes":565994,"results":[{"party":"rdc","pct":25.9,"votes":146592},{"party":"taqaddum","pct":24.7,"votes":139801},{"party":"kdp","pct":21.6,"votes":122255},{"party":"sol","pct":15.8,"votes":89427},{"party":"sadiqoun","pct":12.1,"votes":68485}]},
+        {"name":"Kirkuk","abbr":"TS","winner":"puk","margin":3.7,"turnout":61,"votes":560079,"results":[{"party":"puk","pct":24.3,"votes":136099},{"party":"sadiqoun","pct":20.6,"votes":115376},{"party":"sol","pct":16.7,"votes":93533},{"party":"rdc","pct":15.9,"votes":89053},{"party":"kdp","pct":12.3,"votes":68890},{"party":"taqaddum","pct":10.3,"votes":57688}]},
+        {"name":"Maysan","abbr":"MA","winner":"rdc","margin":4.3,"turnout":51.9,"votes":544868,"results":[{"party":"rdc","pct":28,"votes":152563},{"party":"taqaddum","pct":23.7,"votes":129134},{"party":"sadiqoun","pct":18,"votes":98076},{"party":"kdp","pct":17,"votes":92628},{"party":"sol","pct":13.3,"votes":72467}]},
+        {"name":"Muthanna","abbr":"MU","winner":"rdc","margin":11.7,"turnout":55.5,"votes":510780,"results":[{"party":"rdc","pct":36.2,"votes":184902},{"party":"sol","pct":24.5,"votes":125141},{"party":"kdp","pct":14.7,"votes":75085},{"party":"taqaddum","pct":12.9,"votes":65891},{"party":"sadiqoun","pct":11.7,"votes":59761}]},
+        {"name":"Najaf","abbr":"NA","winner":"rdc","margin":5.8,"turnout":54.7,"votes":689992,"results":[{"party":"rdc","pct":30.1,"votes":207688},{"party":"kdp","pct":24.3,"votes":167668},{"party":"taqaddum","pct":20.1,"votes":138688},{"party":"sadiqoun","pct":16.7,"votes":115229},{"party":"sol","pct":8.8,"votes":60719}]},
+        {"name":"Nineveh","abbr":"NI","winner":"kdp","margin":0.7,"turnout":51.3,"votes":548859,"results":[{"party":"kdp","pct":26.1,"votes":143252},{"party":"rdc","pct":25.4,"votes":139410},{"party":"taqaddum","pct":21.4,"votes":117456},{"party":"sol","pct":16.9,"votes":92757},{"party":"sadiqoun","pct":10.3,"votes":56532}]},
+        {"name":"Saladin","abbr":"SD","winner":"taqaddum","margin":2.2,"turnout":61.2,"votes":718740,"results":[{"party":"taqaddum","pct":25.1,"votes":180404},{"party":"sol","pct":22.9,"votes":164591},{"party":"kdp","pct":22.7,"votes":163154},{"party":"rdc","pct":15.8,"votes":113561},{"party":"sadiqoun","pct":13.5,"votes":97030}]},
+        {"name":"Sulaymaniyah","abbr":"SU","winner":"puk","margin":7.6,"turnout":50.8,"votes":666330,"results":[{"party":"puk","pct":33.9,"votes":225886},{"party":"rdc","pct":26.3,"votes":175245},{"party":"sadiqoun","pct":14.4,"votes":95952},{"party":"kdp","pct":9.5,"votes":63301},{"party":"taqaddum","pct":9.3,"votes":61969},{"party":"sol","pct":6.6,"votes":43978}]},
+        {"name":"Wasit","abbr":"WA","winner":"waa","margin":2.4,"turnout":58.1,"votes":510869,"results":[{"party":"waa","pct":22.4,"votes":114435},{"party":"kdp","pct":20,"votes":102174},{"party":"taqaddum","pct":19.3,"votes":98598},{"party":"rdc","pct":17.6,"votes":89913},{"party":"sadiqoun","pct":10.8,"votes":55174},{"party":"sol","pct":9.9,"votes":50576}]}
+      ]
+    }
+  ]
+}

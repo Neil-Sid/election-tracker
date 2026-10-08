@@ -1,0 +1,458 @@
+{
+  "code": "IR",
+  "name": "Iran",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary presidential theocratic Islamic republic",
+    "headOfState": "Supreme Leader",
+    "headOfGovernment": "President",
+    "legislature": "Islamic Consultative Assembly (290)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 61452321,
+    "offices": {
+      "President": "Elected by popular vote for a four-year term, renewable once in a row; a candidate needs more than half of all ballots cast, otherwise the top two meet in a run-off. The Guardian Council must approve every candidate, and the president, who heads the government, ranks below the Supreme Leader.",
+      "Parliament": "The Islamic Consultative Assembly (Majlis) has 290 members elected for four years in single- and multi-member constituencies, five of them in seats reserved for religious minorities; a candidate needs a quarter of the votes to win in the first round, otherwise a run-off is held. The Guardian Council approves all candidates and the laws the Majlis passes."
+    }
+  },
+  "parties": {
+    "abii": {
+      "name": "Alliance of Builders of Islamic Iran",
+      "color": "#3835BA"
+    },
+    "acc": {
+      "name": "Association of Combatant Clerics",
+      "color": "#098CDC"
+    },
+    "adrv": {
+      "name": "Association for Defence of Revolution Values",
+      "color": "#FFA500"
+    },
+    "both": {
+      "name": "Endorsed by both the Principlists Grand Coalition and the List of Hope",
+      "color": "#000000"
+    },
+    "cca": {
+      "name": "Combatant Clergy Association",
+      "color": "#7996E2"
+    },
+    "ccirf": {
+      "name": "Coalition Council of Islamic Revolution Forces",
+      "color": "#134479"
+    },
+    "ccrf": {
+      "name": "Council for Coordinating the Reforms Front",
+      "color": "#2E8B57"
+    },
+    "ecp": {
+      "name": "Executives of Construction Party",
+      "color": "#E20C23"
+    },
+    "fflil": {
+      "name": "Front of Followers of the Line of the Imam and the Leader",
+      "color": "#FFA500"
+    },
+    "firs": {
+      "name": "Front of Islamic Revolution Stability",
+      "color": "#B0C4DE"
+    },
+    "icp": {
+      "name": "Islamic Coalition Party",
+      "color": "#009900"
+    },
+    "iipf": {
+      "name": "Islamic Iran Participation Front",
+      "color": "#43438B"
+    },
+    "ilp": {
+      "name": "Islamic Law Party",
+      "color": "#00008B"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "indbanisadr": {
+      "name": "Independent",
+      "color": "#C0392B"
+    },
+    "indghalibaf": {
+      "name": "Independent",
+      "color": "#186D34"
+    },
+    "indgharazi": {
+      "name": "Independent",
+      "color": "#A0522D"
+    },
+    "indjalili": {
+      "name": "Independent",
+      "color": "#E73232"
+    },
+    "indjassbi": {
+      "name": "Independent",
+      "color": "#B8860B"
+    },
+    "indmadani": {
+      "name": "Independent",
+      "color": "#E27C56"
+    },
+    "indmoeen": {
+      "name": "Independent",
+      "color": "#9ACD32"
+    },
+    "indpezeshkian": {
+      "name": "Independent",
+      "color": "#48D1CC"
+    },
+    "indrezaee": {
+      "name": "Independent",
+      "color": "#23ABA1"
+    },
+    "indshamkhani": {
+      "name": "Independent",
+      "color": "#556B2F"
+    },
+    "indsheibani": {
+      "name": "Independent",
+      "color": "#8E6C8A"
+    },
+    "indtaheri": {
+      "name": "Independent",
+      "color": "#8B4513"
+    },
+    "indtavakkoli": {
+      "name": "Independent",
+      "color": "#6B8E23"
+    },
+    "indzavarei": {
+      "name": "Independent",
+      "color": "#708090"
+    },
+    "irannovin": {
+      "name": "Iran Novin Party",
+      "color": "#0087DC"
+    },
+    "irp": {
+      "name": "Islamic Republican Party",
+      "color": "#000000"
+    },
+    "irpallies": {
+      "name": "Islamic Republican Party allies",
+      "color": "#353535"
+    },
+    "ise": {
+      "name": "Islamic Society of Engineers",
+      "color": "#EBD54C"
+    },
+    "loh": {
+      "name": "List of Hope",
+      "color": "#3CB8C2"
+    },
+    "mardom": {
+      "name": "People's Party",
+      "color": "#FF8000"
+    },
+    "mdp": {
+      "name": "Moderation and Development Party",
+      "color": "#B666D2"
+    },
+    "melliyun": {
+      "name": "Nationalists' Party",
+      "color": "#4169E1"
+    },
+    "min": {
+      "name": "Religious minorities (reserved seats)",
+      "color": "#D3E300"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "paniranist": {
+      "name": "Pan-Iranist Party",
+      "color": "#008000"
+    },
+    "pgc": {
+      "name": "Principlists Grand Coalition",
+      "color": "#1F4E9C"
+    },
+    "pjp": {
+      "name": "Progress and Justice Population of Islamic Iran",
+      "color": "#186D34"
+    },
+    "prin": {
+      "name": "Principlists",
+      "color": "#0077B6"
+    },
+    "rastakhiz": {
+      "name": "Rastakhiz Party",
+      "color": "#0000FF"
+    },
+    "ref": {
+      "name": "Reformists",
+      "color": "#48D1CC"
+    },
+    "rfii": {
+      "name": "Resistance Front of Islamic Iran",
+      "color": "#23ABA1"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "von": {
+      "name": "Voice of the Nation",
+      "color": "#FDC238"
+    }
+  },
+  "elections": [
+    {
+      "id": "ir-president-2024",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2024-06-28",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 49.68,
+      "system": "Two-round popular vote, four-year term",
+      "cite": {
+        "name": "ISNA (Ministry of Interior results)",
+        "url": "https://en.wikipedia.org/wiki/2024_Iranian_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2024_Iranian_presidential_election",
+      "candidates": [
+        {
+          "name": "Masoud Pezeshkian",
+          "party": "indpezeshkian",
+          "votes": 16384403,
+          "pct": 54.76,
+          "winner": true
+        },
+        {
+          "name": "Saeed Jalili",
+          "party": "indjalili",
+          "votes": 13538179,
+          "pct": 45.24
+        }
+      ],
+      "rounds": [
+        {
+          "label": "First round",
+          "date": "2024-06-28",
+          "candidates": [
+            {
+              "name": "Masoud Pezeshkian",
+              "party": "indpezeshkian",
+              "votes": 10415991,
+              "pct": 44.36
+            },
+            {
+              "name": "Saeed Jalili",
+              "party": "indjalili",
+              "votes": 9473298,
+              "pct": 40.35
+            },
+            {
+              "name": "Mohammad Bagher Ghalibaf",
+              "party": "pjp",
+              "votes": 3383340,
+              "pct": 14.41
+            },
+            {
+              "name": "Others",
+              "party": "oth",
+              "votes": 206397,
+              "pct": 0.88
+            }
+          ],
+          "regions": [
+            {"name":"Alborz","abbr":"30","winner":"indpezeshkian","margin":26,"turnout":46.3,"votes":792981,"results":[{"party":"indpezeshkian","pct":58.2,"votes":461515},{"party":"indjalili","pct":32.2,"votes":255340},{"party":"pjp","pct":9.1,"votes":72161},{"party":"oth","pct":0.5,"votes":3965}]},
+            {"name":"Ardabil","abbr":"24","winner":"indpezeshkian","margin":32.6,"turnout":47.4,"votes":770360,"results":[{"party":"indpezeshkian","pct":57.4,"votes":442187},{"party":"indjalili","pct":24.8,"votes":191049},{"party":"pjp","pct":17.2,"votes":132502},{"party":"oth","pct":0.7,"votes":5393}]},
+            {"name":"Bushehr","abbr":"18","winner":"indjalili","margin":6,"turnout":54.4,"votes":857480,"results":[{"party":"indjalili","pct":47,"votes":403016},{"party":"indpezeshkian","pct":41,"votes":351567},{"party":"pjp","pct":11.6,"votes":99468},{"party":"oth","pct":0.5,"votes":4287}]},
+            {"name":"Chaharmahal and Bakhtiari","abbr":"14","winner":"indpezeshkian","margin":17.3,"turnout":48.1,"votes":767649,"results":[{"party":"indpezeshkian","pct":47.1,"votes":361563},{"party":"indjalili","pct":29.8,"votes":228759},{"party":"pjp","pct":22.4,"votes":171953},{"party":"oth","pct":0.8,"votes":6141}]},
+            {"name":"East Azerbaijan","abbr":"03","winner":"indjalili","margin":4.3,"turnout":46.3,"votes":664744,"results":[{"party":"indjalili","pct":46.4,"votes":308441},{"party":"indpezeshkian","pct":42.1,"votes":279857},{"party":"pjp","pct":10.7,"votes":71128},{"party":"oth","pct":0.9,"votes":5983}]},
+            {"name":"Fars","abbr":"07","winner":"indpezeshkian","margin":15.7,"turnout":52.2,"votes":726808,"results":[{"party":"indpezeshkian","pct":50.8,"votes":369218},{"party":"indjalili","pct":35.1,"votes":255110},{"party":"pjp","pct":13.5,"votes":98119},{"party":"oth","pct":0.6,"votes":4361}]},
+            {"name":"Gilan","abbr":"01","winner":"indpezeshkian","margin":2.7,"turnout":46.1,"votes":609162,"results":[{"party":"indpezeshkian","pct":45,"votes":274123},{"party":"indjalili","pct":42.3,"votes":257676},{"party":"pjp","pct":11.5,"votes":70054},{"party":"oth","pct":1.2,"votes":7310}]},
+            {"name":"Golestan","abbr":"27","winner":"indjalili","margin":33.5,"turnout":47.8,"votes":753546,"results":[{"party":"indjalili","pct":61.8,"votes":465691},{"party":"indpezeshkian","pct":28.3,"votes":213254},{"party":"pjp","pct":8.5,"votes":64051},{"party":"oth","pct":1.3,"votes":9796}]},
+            {"name":"Hamadan","abbr":"13","winner":"indpezeshkian","margin":18.6,"turnout":49.9,"votes":885536,"results":[{"party":"indpezeshkian","pct":47.2,"votes":417973},{"party":"indjalili","pct":28.6,"votes":253263},{"party":"pjp","pct":22.9,"votes":202788},{"party":"oth","pct":1.4,"votes":12398}]},
+            {"name":"Hormozgan","abbr":"22","winner":"indpezeshkian","margin":46.9,"turnout":44.4,"votes":876242,"results":[{"party":"indpezeshkian","pct":68.5,"votes":600226},{"party":"indjalili","pct":21.6,"votes":189268},{"party":"pjp","pct":9,"votes":78862},{"party":"oth","pct":0.8,"votes":7010}]},
+            {"name":"Ilam","abbr":"16","winner":"indjalili","margin":33.1,"turnout":55.2,"votes":882514,"results":[{"party":"indjalili","pct":59.2,"votes":522448},{"party":"indpezeshkian","pct":26.1,"votes":230336},{"party":"pjp","pct":13.5,"votes":119139},{"party":"oth","pct":1.3,"votes":11473}]},
+            {"name":"Isfahan","abbr":"10","winner":"indpezeshkian","margin":5.7,"turnout":53,"votes":892484,"results":[{"party":"indpezeshkian","pct":37.6,"votes":335574},{"party":"indjalili","pct":31.9,"votes":284702},{"party":"pjp","pct":28.8,"votes":257035},{"party":"oth","pct":1.8,"votes":16065}]},
+            {"name":"Kerman","abbr":"08","winner":"indjalili","margin":8.5,"turnout":51.4,"votes":657568,"results":[{"party":"indjalili","pct":49.5,"votes":325496},{"party":"indpezeshkian","pct":41,"votes":269603},{"party":"pjp","pct":8.5,"votes":55893},{"party":"oth","pct":1,"votes":6576}]},
+            {"name":"Kermanshah","abbr":"05","winner":"indjalili","margin":18.9,"turnout":48.8,"votes":883815,"results":[{"party":"indjalili","pct":50.4,"votes":445443},{"party":"indpezeshkian","pct":31.5,"votes":278402},{"party":"pjp","pct":17.3,"votes":152900},{"party":"oth","pct":0.8,"votes":7071}]},
+            {"name":"Khuzestan","abbr":"06","winner":"indpezeshkian","margin":10,"turnout":54.6,"votes":606832,"results":[{"party":"indpezeshkian","pct":48.5,"votes":294314},{"party":"indjalili","pct":38.5,"votes":233630},{"party":"pjp","pct":12.1,"votes":73427},{"party":"oth","pct":0.9,"votes":5461}]},
+            {"name":"Kohgiluyeh and Boyer-Ahmad","abbr":"17","winner":"indpezeshkian","margin":1.2,"turnout":44.3,"votes":724625,"results":[{"party":"indpezeshkian","pct":45.8,"votes":331878},{"party":"indjalili","pct":44.6,"votes":323183},{"party":"pjp","pct":8.9,"votes":64492},{"party":"oth","pct":0.7,"votes":5072}]},
+            {"name":"Kurdistan","abbr":"12","winner":"indjalili","margin":2.1,"turnout":50.5,"votes":823343,"results":[{"party":"indjalili","pct":42.6,"votes":350744},{"party":"indpezeshkian","pct":40.5,"votes":333454},{"party":"pjp","pct":15.9,"votes":130912},{"party":"oth","pct":1.1,"votes":9057}]},
+            {"name":"Lorestan","abbr":"15","winner":"indpezeshkian","margin":25.7,"turnout":44.4,"votes":886620,"results":[{"party":"indpezeshkian","pct":53.4,"votes":473455},{"party":"indjalili","pct":27.7,"votes":245594},{"party":"pjp","pct":18.2,"votes":161365},{"party":"oth","pct":0.8,"votes":7093}]},
+            {"name":"Markazi","abbr":"00","winner":"indjalili","margin":6.2,"turnout":43.4,"votes":681235,"results":[{"party":"indjalili","pct":43.3,"votes":294975},{"party":"indpezeshkian","pct":37.1,"votes":252738},{"party":"pjp","pct":18.7,"votes":127391},{"party":"oth","pct":1,"votes":6812}]},
+            {"name":"Mazandaran","abbr":"02","winner":"indjalili","margin":19.7,"turnout":53.4,"votes":647155,"results":[{"party":"indjalili","pct":54.5,"votes":352699},{"party":"indpezeshkian","pct":34.8,"votes":225210},{"party":"pjp","pct":9.4,"votes":60833},{"party":"oth","pct":1.3,"votes":8413}]},
+            {"name":"North Khorasan","abbr":"28","winner":"indpezeshkian","margin":7.5,"turnout":56.1,"votes":766747,"results":[{"party":"indpezeshkian","pct":46.9,"votes":359604},{"party":"indjalili","pct":39.4,"votes":302098},{"party":"pjp","pct":13.3,"votes":101977},{"party":"oth","pct":0.4,"votes":3067}]},
+            {"name":"Qazvin","abbr":"26","winner":"indpezeshkian","margin":23.8,"turnout":46.1,"votes":776244,"results":[{"party":"indpezeshkian","pct":52.8,"votes":409857},{"party":"indjalili","pct":29,"votes":225111},{"party":"pjp","pct":17.1,"votes":132738},{"party":"oth","pct":1.2,"votes":9315}]},
+            {"name":"Qom","abbr":"25","winner":"indpezeshkian","margin":16.4,"turnout":54,"votes":742477,"results":[{"party":"indpezeshkian","pct":50.8,"votes":377178},{"party":"indjalili","pct":34.4,"votes":255412},{"party":"pjp","pct":13.9,"votes":103204},{"party":"oth","pct":0.9,"votes":6682}]},
+            {"name":"Razavi Khorasan","abbr":"09","winner":"indpezeshkian","margin":5.7,"turnout":43.8,"votes":724989,"results":[{"party":"indpezeshkian","pct":44.4,"votes":321895},{"party":"indjalili","pct":38.7,"votes":280571},{"party":"pjp","pct":15.9,"votes":115273},{"party":"oth","pct":0.9,"votes":6525}]},
+            {"name":"Semnan","abbr":"20","winner":"indpezeshkian","margin":17.2,"turnout":46.4,"votes":764025,"results":[{"party":"indpezeshkian","pct":52.5,"votes":401113},{"party":"indjalili","pct":35.3,"votes":269701},{"party":"pjp","pct":10.9,"votes":83279},{"party":"oth","pct":1.2,"votes":9168}]},
+            {"name":"Sistan and Baluchestan","abbr":"11","winner":"indjalili","margin":5.2,"turnout":55.8,"votes":622745,"results":[{"party":"indjalili","pct":46.9,"votes":292067},{"party":"indpezeshkian","pct":41.7,"votes":259685},{"party":"pjp","pct":10.3,"votes":64143},{"party":"oth","pct":1.1,"votes":6850}]},
+            {"name":"South Khorasan","abbr":"29","winner":"indpezeshkian","margin":15.1,"turnout":56.4,"votes":643963,"results":[{"party":"indpezeshkian","pct":51.9,"votes":334217},{"party":"indjalili","pct":36.8,"votes":236978},{"party":"pjp","pct":10.9,"votes":70192},{"party":"oth","pct":0.4,"votes":2576}]},
+            {"name":"Tehran","abbr":"23","winner":"indpezeshkian","margin":25.8,"turnout":44,"votes":778126,"results":[{"party":"indpezeshkian","pct":58.6,"votes":455982},{"party":"indjalili","pct":32.8,"votes":255225},{"party":"pjp","pct":8,"votes":62250},{"party":"oth","pct":0.6,"votes":4669}]},
+            {"name":"West Azerbaijan","abbr":"04","winner":"indpezeshkian","margin":1.7,"turnout":50.5,"votes":764185,"results":[{"party":"indpezeshkian","pct":46.8,"votes":357639},{"party":"indjalili","pct":45.1,"votes":344647},{"party":"pjp","pct":7.1,"votes":54257},{"party":"oth","pct":1.1,"votes":8406}]},
+            {"name":"Yazd","abbr":"21","winner":"indpezeshkian","margin":30.1,"turnout":51.7,"votes":716080,"results":[{"party":"indpezeshkian","pct":56.9,"votes":407450},{"party":"indjalili","pct":26.8,"votes":191909},{"party":"pjp","pct":15.5,"votes":110992},{"party":"oth","pct":0.8,"votes":5729}]},
+            {"name":"Zanjan","abbr":"19","winner":"indpezeshkian","margin":8.7,"turnout":51.9,"votes":649266,"results":[{"party":"indpezeshkian","pct":45.6,"votes":296065},{"party":"indjalili","pct":36.9,"votes":239579},{"party":"pjp","pct":16.2,"votes":105181},{"party":"oth","pct":1.3,"votes":8440}]}
+          ]
+        },
+        {
+          "label": "Run-off",
+          "date": "2024-07-05",
+          "candidates": [
+            {
+              "name": "Masoud Pezeshkian",
+              "party": "indpezeshkian",
+              "votes": 16384403,
+              "pct": 54.76,
+              "winner": true
+            },
+            {
+              "name": "Saeed Jalili",
+              "party": "indjalili",
+              "votes": 13538179,
+              "pct": 45.24
+            }
+          ],
+          "regions": [
+            {"name":"Alborz","abbr":"30","winner":"indpezeshkian","margin":0.6,"turnout":50.7,"votes":999213,"results":[{"party":"indpezeshkian","pct":50.3,"votes":502604},{"party":"indjalili","pct":49.7,"votes":496609}]},
+            {"name":"Ardabil","abbr":"24","winner":"indpezeshkian","margin":8,"turnout":52,"votes":1068905,"results":[{"party":"indpezeshkian","pct":54,"votes":577209},{"party":"indjalili","pct":46,"votes":491696}]},
+            {"name":"Bushehr","abbr":"18","winner":"indjalili","margin":12.8,"turnout":43.3,"votes":1151637,"results":[{"party":"indjalili","pct":56.4,"votes":649523},{"party":"indpezeshkian","pct":43.6,"votes":502114}]},
+            {"name":"Chaharmahal and Bakhtiari","abbr":"14","winner":"indpezeshkian","margin":6.2,"turnout":47.9,"votes":861208,"results":[{"party":"indpezeshkian","pct":53.1,"votes":457301},{"party":"indjalili","pct":46.9,"votes":403907}]},
+            {"name":"East Azerbaijan","abbr":"03","winner":"indpezeshkian","margin":28.4,"turnout":48.2,"votes":842342,"results":[{"party":"indpezeshkian","pct":64.2,"votes":540784},{"party":"indjalili","pct":35.8,"votes":301558}]},
+            {"name":"Fars","abbr":"07","winner":"indpezeshkian","margin":31.6,"turnout":44.2,"votes":1035758,"results":[{"party":"indpezeshkian","pct":65.8,"votes":681529},{"party":"indjalili","pct":34.2,"votes":354229}]},
+            {"name":"Gilan","abbr":"01","winner":"indpezeshkian","margin":8.2,"turnout":44,"votes":810800,"results":[{"party":"indpezeshkian","pct":54.1,"votes":438643},{"party":"indjalili","pct":45.9,"votes":372157}]},
+            {"name":"Golestan","abbr":"27","winner":"indpezeshkian","margin":1.8,"turnout":49.1,"votes":947490,"results":[{"party":"indpezeshkian","pct":50.9,"votes":482272},{"party":"indjalili","pct":49.1,"votes":465218}]},
+            {"name":"Hamadan","abbr":"13","winner":"indjalili","margin":18.4,"turnout":47.2,"votes":835137,"results":[{"party":"indjalili","pct":59.2,"votes":494401},{"party":"indpezeshkian","pct":40.8,"votes":340736}]},
+            {"name":"Hormozgan","abbr":"22","winner":"indjalili","margin":8.2,"turnout":50.7,"votes":847912,"results":[{"party":"indjalili","pct":54.1,"votes":458720},{"party":"indpezeshkian","pct":45.9,"votes":389192}]},
+            {"name":"Ilam","abbr":"16","winner":"indpezeshkian","margin":45.6,"turnout":51.6,"votes":1117138,"results":[{"party":"indpezeshkian","pct":72.8,"votes":813276},{"party":"indjalili","pct":27.2,"votes":303862}]},
+            {"name":"Isfahan","abbr":"10","winner":"indjalili","margin":1.6,"turnout":54,"votes":1036778,"results":[{"party":"indjalili","pct":50.8,"votes":526683},{"party":"indpezeshkian","pct":49.2,"votes":510095}]},
+            {"name":"Kerman","abbr":"08","winner":"indjalili","margin":14.8,"turnout":53.1,"votes":994112,"results":[{"party":"indjalili","pct":57.4,"votes":570620},{"party":"indpezeshkian","pct":42.6,"votes":423492}]},
+            {"name":"Kermanshah","abbr":"05","winner":"indpezeshkian","margin":17.6,"turnout":47.6,"votes":1046531,"results":[{"party":"indpezeshkian","pct":58.8,"votes":615360},{"party":"indjalili","pct":41.2,"votes":431171}]},
+            {"name":"Khuzestan","abbr":"06","winner":"indjalili","margin":5.8,"turnout":42.7,"votes":1083217,"results":[{"party":"indjalili","pct":52.9,"votes":573022},{"party":"indpezeshkian","pct":47.1,"votes":510195}]},
+            {"name":"Kohgiluyeh and Boyer-Ahmad","abbr":"17","winner":"indjalili","margin":8.8,"turnout":46,"votes":1027145,"results":[{"party":"indjalili","pct":54.4,"votes":558767},{"party":"indpezeshkian","pct":45.6,"votes":468378}]},
+            {"name":"Kurdistan","abbr":"12","winner":"indpezeshkian","margin":46.8,"turnout":51.5,"votes":894998,"results":[{"party":"indpezeshkian","pct":73.4,"votes":656929},{"party":"indjalili","pct":26.6,"votes":238069}]},
+            {"name":"Lorestan","abbr":"15","winner":"indjalili","margin":10.6,"turnout":52.1,"votes":869564,"results":[{"party":"indjalili","pct":55.3,"votes":480869},{"party":"indpezeshkian","pct":44.7,"votes":388695}]},
+            {"name":"Markazi","abbr":"00","winner":"indjalili","margin":5.2,"turnout":44.7,"votes":1126605,"results":[{"party":"indjalili","pct":52.6,"votes":592594},{"party":"indpezeshkian","pct":47.4,"votes":534011}]},
+            {"name":"Mazandaran","abbr":"02","winner":"indpezeshkian","margin":47.2,"turnout":55,"votes":1131152,"results":[{"party":"indpezeshkian","pct":73.6,"votes":832528},{"party":"indjalili","pct":26.4,"votes":298624}]},
+            {"name":"North Khorasan","abbr":"28","winner":"indjalili","margin":17.2,"turnout":44.9,"votes":1093505,"results":[{"party":"indjalili","pct":58.6,"votes":640794},{"party":"indpezeshkian","pct":41.4,"votes":452711}]},
+            {"name":"Qazvin","abbr":"26","winner":"indpezeshkian","margin":37,"turnout":52.2,"votes":983751,"results":[{"party":"indpezeshkian","pct":68.5,"votes":673869},{"party":"indjalili","pct":31.5,"votes":309882}]},
+            {"name":"Qom","abbr":"25","winner":"indjalili","margin":2.8,"turnout":50.1,"votes":803270,"results":[{"party":"indjalili","pct":51.4,"votes":412881},{"party":"indpezeshkian","pct":48.6,"votes":390389}]},
+            {"name":"Razavi Khorasan","abbr":"09","winner":"indjalili","margin":14.6,"turnout":47,"votes":1063170,"results":[{"party":"indjalili","pct":57.3,"votes":609196},{"party":"indpezeshkian","pct":42.7,"votes":453974}]},
+            {"name":"Semnan","abbr":"20","winner":"indjalili","margin":15.2,"turnout":43.2,"votes":871650,"results":[{"party":"indjalili","pct":57.6,"votes":502070},{"party":"indpezeshkian","pct":42.4,"votes":369580}]},
+            {"name":"Sistan and Baluchestan","abbr":"11","winner":"indpezeshkian","margin":37.6,"turnout":46.1,"votes":943978,"results":[{"party":"indpezeshkian","pct":68.8,"votes":649457},{"party":"indjalili","pct":31.2,"votes":294521}]},
+            {"name":"South Khorasan","abbr":"29","winner":"indjalili","margin":0.8,"turnout":46.8,"votes":911586,"results":[{"party":"indjalili","pct":50.4,"votes":459439},{"party":"indpezeshkian","pct":49.6,"votes":452147}]},
+            {"name":"Tehran","abbr":"23","winner":"indpezeshkian","margin":0.2,"turnout":46.8,"votes":786231,"results":[{"party":"indpezeshkian","pct":50.1,"votes":393902},{"party":"indjalili","pct":49.9,"votes":392329}]},
+            {"name":"West Azerbaijan","abbr":"04","winner":"indpezeshkian","margin":6.8,"turnout":52.5,"votes":892289,"results":[{"party":"indpezeshkian","pct":53.4,"votes":476482},{"party":"indjalili","pct":46.6,"votes":415807}]},
+            {"name":"Yazd","abbr":"21","winner":"indjalili","margin":11.6,"turnout":54,"votes":914141,"results":[{"party":"indjalili","pct":55.8,"votes":510091},{"party":"indpezeshkian","pct":44.2,"votes":404050}]},
+            {"name":"Zanjan","abbr":"19","winner":"indpezeshkian","margin":28.2,"turnout":45.1,"votes":880828,"results":[{"party":"indpezeshkian","pct":64.1,"votes":564611},{"party":"indjalili","pct":35.9,"votes":316217}]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ir-parliament-2024",
+      "office": "Parliament",
+      "kind": "legislative",
+      "date": "2024-03-01",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 40.64,
+      "system": "290 seats in district races with run-offs",
+      "totalSeats": 290,
+      "majority": 146,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "ISNA and The Guardian",
+        "url": "https://en.wikipedia.org/wiki/2024_Iranian_legislative_election"
+      },
+      "candidates": [
+        {
+          "name": "Coalition Council of Islamic Revolution Forces",
+          "party": "ccirf",
+          "votes": null,
+          "pct": null,
+          "seats": 107,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "People's Alliance of Islamic Revolution",
+          "party": "firs",
+          "votes": null,
+          "pct": null,
+          "seats": 79,
+          "change": null
+        },
+        {
+          "name": "Voice of the Nation",
+          "party": "von",
+          "votes": null,
+          "pct": null,
+          "seats": 47,
+          "change": null
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 39,
+          "change": null
+        },
+        {
+          "name": "Unity Council",
+          "party": "cca",
+          "votes": null,
+          "pct": null,
+          "seats": 13,
+          "change": null
+        },
+        {
+          "name": "Religious minorities (reserved seats)",
+          "party": "min",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Alborz","abbr":"30","winner":"firs","margin":3.8,"turnout":40.3,"results":[{"party":"firs","pct":34.8},{"party":"ccirf","pct":31},{"party":"von","pct":17.2},{"party":"ind","pct":10},{"party":"cca","pct":6.9}]},
+        {"name":"Ardabil","abbr":"24","winner":"ccirf","margin":25.8,"turnout":36,"results":[{"party":"ccirf","pct":45.2},{"party":"firs","pct":19.4},{"party":"von","pct":18.1},{"party":"ind","pct":15},{"party":"cca","pct":2.4}]},
+        {"name":"Bushehr","abbr":"18","winner":"ccirf","margin":30,"turnout":46.6,"results":[{"party":"ccirf","pct":47.3},{"party":"ind","pct":17.3},{"party":"firs","pct":17.2},{"party":"von","pct":15.6},{"party":"cca","pct":2.6}]},
+        {"name":"Chaharmahal and Bakhtiari","abbr":"14","winner":"firs","margin":4.3,"turnout":40.5,"results":[{"party":"firs","pct":29.3},{"party":"ccirf","pct":25},{"party":"von","pct":23.5},{"party":"ind","pct":15.1},{"party":"cca","pct":7.1}]},
+        {"name":"East Azerbaijan","abbr":"03","winner":"ccirf","margin":12.3,"turnout":46.5,"results":[{"party":"ccirf","pct":35.5},{"party":"firs","pct":23.2},{"party":"ind","pct":20},{"party":"von","pct":13.8},{"party":"cca","pct":7.4}]},
+        {"name":"Fars","abbr":"07","winner":"firs","margin":12.4,"turnout":35,"results":[{"party":"firs","pct":37.9},{"party":"ccirf","pct":25.5},{"party":"von","pct":20.4},{"party":"ind","pct":12.7},{"party":"cca","pct":3.4}]},
+        {"name":"Gilan","abbr":"01","winner":"firs","margin":12.3,"turnout":44.6,"results":[{"party":"firs","pct":41.6},{"party":"ccirf","pct":29.3},{"party":"von","pct":16},{"party":"ind","pct":7.1},{"party":"cca","pct":6.1}]},
+        {"name":"Golestan","abbr":"27","winner":"firs","margin":0.6,"turnout":35,"results":[{"party":"firs","pct":32.7},{"party":"ccirf","pct":32.1},{"party":"von","pct":17.8},{"party":"ind","pct":11.5},{"party":"cca","pct":6}]},
+        {"name":"Hamadan","abbr":"13","winner":"ccirf","margin":9.9,"turnout":36.4,"results":[{"party":"ccirf","pct":35.4},{"party":"von","pct":25.5},{"party":"firs","pct":19.4},{"party":"ind","pct":15.2},{"party":"cca","pct":4.5}]},
+        {"name":"Hormozgan","abbr":"22","winner":"ccirf","margin":13.4,"turnout":36.8,"results":[{"party":"ccirf","pct":42.4},{"party":"firs","pct":29},{"party":"ind","pct":15.4},{"party":"von","pct":10.2},{"party":"cca","pct":3.1}]},
+        {"name":"Ilam","abbr":"16","winner":"ccirf","margin":15.4,"turnout":35,"results":[{"party":"ccirf","pct":45.4},{"party":"firs","pct":30},{"party":"von","pct":14.2},{"party":"ind","pct":6.3},{"party":"cca","pct":4}]},
+        {"name":"Isfahan","abbr":"10","winner":"firs","margin":16,"turnout":44.4,"results":[{"party":"firs","pct":37.8},{"party":"ccirf","pct":21.8},{"party":"von","pct":18.5},{"party":"ind","pct":16.9},{"party":"cca","pct":5}]},
+        {"name":"Kerman","abbr":"08","winner":"ccirf","margin":28.8,"turnout":35.3,"results":[{"party":"ccirf","pct":45.8},{"party":"ind","pct":17},{"party":"von","pct":16.8},{"party":"firs","pct":14.4},{"party":"cca","pct":6}]},
+        {"name":"Kermanshah","abbr":"05","winner":"ccirf","margin":25.9,"turnout":44.9,"results":[{"party":"ccirf","pct":46.5},{"party":"firs","pct":20.6},{"party":"ind","pct":15.4},{"party":"von","pct":14},{"party":"cca","pct":3.5}]},
+        {"name":"Khuzestan","abbr":"06","winner":"firs","margin":8.1,"turnout":44.4,"results":[{"party":"firs","pct":38.9},{"party":"ccirf","pct":30.8},{"party":"ind","pct":14.4},{"party":"von","pct":11.5},{"party":"cca","pct":4.4}]},
+        {"name":"Kohgiluyeh and Boyer-Ahmad","abbr":"17","winner":"ccirf","margin":20.6,"turnout":47,"results":[{"party":"ccirf","pct":44.7},{"party":"firs","pct":24.1},{"party":"von","pct":18.1},{"party":"ind","pct":10.8},{"party":"cca","pct":2.4}]},
+        {"name":"Kurdistan","abbr":"12","winner":"ccirf","margin":5.1,"turnout":36.5,"results":[{"party":"ccirf","pct":34.6},{"party":"firs","pct":29.5},{"party":"von","pct":16.9},{"party":"ind","pct":13.8},{"party":"cca","pct":5.2}]},
+        {"name":"Lorestan","abbr":"15","winner":"ccirf","margin":11.8,"turnout":41.7,"results":[{"party":"ccirf","pct":40.6},{"party":"firs","pct":28.8},{"party":"ind","pct":14.8},{"party":"von","pct":13.8},{"party":"cca","pct":2}]},
+        {"name":"Markazi","abbr":"00","winner":"ccirf","margin":17,"turnout":46.9,"results":[{"party":"ccirf","pct":39},{"party":"firs","pct":22},{"party":"von","pct":22},{"party":"ind","pct":14.5},{"party":"cca","pct":2.4}]},
+        {"name":"Mazandaran","abbr":"02","winner":"ccirf","margin":0.9,"turnout":45.1,"results":[{"party":"ccirf","pct":34.1},{"party":"firs","pct":33.2},{"party":"ind","pct":15.5},{"party":"von","pct":10.4},{"party":"cca","pct":6.8}]},
+        {"name":"North Khorasan","abbr":"28","winner":"ccirf","margin":27.6,"turnout":43.9,"results":[{"party":"ccirf","pct":48.4},{"party":"firs","pct":20.8},{"party":"von","pct":17.7},{"party":"ind","pct":7.2},{"party":"cca","pct":5.8}]},
+        {"name":"Qazvin","abbr":"26","winner":"ccirf","margin":0.3,"turnout":41.3,"results":[{"party":"ccirf","pct":29.3},{"party":"firs","pct":29},{"party":"von","pct":18.5},{"party":"ind","pct":18.3},{"party":"cca","pct":4.9}]},
+        {"name":"Qom","abbr":"25","winner":"ccirf","margin":23.4,"turnout":35.4,"results":[{"party":"ccirf","pct":48.3},{"party":"firs","pct":24.9},{"party":"ind","pct":13.3},{"party":"von","pct":9},{"party":"cca","pct":4.4}]},
+        {"name":"Razavi Khorasan","abbr":"09","winner":"ccirf","margin":16.2,"turnout":44.7,"results":[{"party":"ccirf","pct":38.7},{"party":"von","pct":22.5},{"party":"firs","pct":21.2},{"party":"ind","pct":13.5},{"party":"cca","pct":4.1}]},
+        {"name":"Semnan","abbr":"20","winner":"ccirf","margin":2.5,"turnout":44.1,"results":[{"party":"ccirf","pct":36.1},{"party":"firs","pct":33.6},{"party":"von","pct":15.1},{"party":"ind","pct":9.2},{"party":"cca","pct":5.9}]},
+        {"name":"Sistan and Baluchestan","abbr":"11","winner":"ccirf","margin":12,"turnout":47,"results":[{"party":"ccirf","pct":36.1},{"party":"von","pct":24.1},{"party":"ind","pct":21},{"party":"firs","pct":15.7},{"party":"cca","pct":3.1}]},
+        {"name":"South Khorasan","abbr":"29","winner":"ccirf","margin":15.3,"turnout":37.2,"results":[{"party":"ccirf","pct":38.7},{"party":"firs","pct":23.4},{"party":"von","pct":19},{"party":"ind","pct":11.6},{"party":"cca","pct":7.3}]},
+        {"name":"Tehran","abbr":"23","winner":"firs","margin":17.1,"turnout":37.2,"results":[{"party":"firs","pct":42},{"party":"ccirf","pct":24.9},{"party":"von","pct":15.6},{"party":"ind","pct":9.5},{"party":"cca","pct":7.9}]},
+        {"name":"West Azerbaijan","abbr":"04","winner":"firs","margin":5.5,"turnout":47,"results":[{"party":"firs","pct":35},{"party":"ccirf","pct":29.5},{"party":"ind","pct":16.4},{"party":"von","pct":13.6},{"party":"cca","pct":5.5}]},
+        {"name":"Yazd","abbr":"21","winner":"ccirf","margin":10.1,"turnout":43.4,"results":[{"party":"ccirf","pct":38},{"party":"firs","pct":27.9},{"party":"von","pct":18.2},{"party":"ind","pct":12.7},{"party":"cca","pct":3.2}]},
+        {"name":"Zanjan","abbr":"19","winner":"ccirf","margin":3.9,"turnout":37.4,"results":[{"party":"ccirf","pct":28.1},{"party":"ind","pct":24.2},{"party":"von","pct":22.4},{"party":"firs","pct":22},{"party":"cca","pct":3.4}]}
+      ]
+    }
+  ]
+}

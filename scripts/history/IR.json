@@ -1,0 +1,1624 @@
+{
+ "code": "IR",
+ "parties": {
+  "abii": {
+   "name": "Alliance of Builders of Islamic Iran",
+   "color": "#3835BA",
+   "article": "Alliance of Builders of Islamic Iran"
+  },
+  "acc": {
+   "name": "Association of Combatant Clerics",
+   "color": "#098CDC",
+   "article": "Association of Combatant Clerics"
+  },
+  "adrv": {
+   "name": "Association for Defence of Revolution Values",
+   "color": "#FFA500",
+   "article": "Association for Defence of Revolution Values"
+  },
+  "both": {
+   "name": "Endorsed by both the Principlists Grand Coalition and the List of Hope",
+   "color": "#000000"
+  },
+  "cca": {
+   "name": "Combatant Clergy Association",
+   "color": "#7996E2",
+   "article": "Combatant Clergy Association"
+  },
+  "ccrf": {
+   "name": "Council for Coordinating the Reforms Front",
+   "color": "#2E8B57",
+   "article": "Council for Coordinating the Reforms Front"
+  },
+  "ecp": {
+   "name": "Executives of Construction Party",
+   "color": "#E20C23",
+   "article": "Executives of Construction Party"
+  },
+  "fflil": {
+   "name": "Front of Followers of the Line of the Imam and the Leader",
+   "color": "#FFA500",
+   "article": "Front of Followers of the Line of the Imam and the Leader"
+  },
+  "firs": {
+   "name": "Front of Islamic Revolution Stability",
+   "color": "#B0C4DE",
+   "article": "Front of Islamic Revolution Stability"
+  },
+  "icp": {
+   "name": "Islamic Coalition Party",
+   "color": "#009900",
+   "article": "Islamic Coalition Party"
+  },
+  "iipf": {
+   "name": "Islamic Iran Participation Front",
+   "color": "#43438B",
+   "article": "Islamic Iran Participation Front"
+  },
+  "ilp": {
+   "name": "Islamic Law Party",
+   "color": "#00008B"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "indbanisadr": {
+   "name": "Independent",
+   "color": "#C0392B",
+   "article": "Abolhassan Banisadr"
+  },
+  "indghalibaf": {
+   "name": "Independent",
+   "color": "#186D34",
+   "article": "Mohammad Bagher Ghalibaf"
+  },
+  "indgharazi": {
+   "name": "Independent",
+   "color": "#A0522D",
+   "article": "Mohammad Gharazi"
+  },
+  "indjassbi": {
+   "name": "Independent",
+   "color": "#B8860B",
+   "article": "Abdollah Jassbi"
+  },
+  "indmadani": {
+   "name": "Independent",
+   "color": "#E27C56",
+   "article": "Ahmad Madani"
+  },
+  "indmoeen": {
+   "name": "Independent",
+   "color": "#9ACD32",
+   "article": "Mostafa Moeen"
+  },
+  "indrezaee": {
+   "name": "Independent",
+   "color": "#23ABA1",
+   "article": "Mohsen Rezaee"
+  },
+  "indshamkhani": {
+   "name": "Independent",
+   "color": "#556B2F",
+   "article": "Ali Shamkhani"
+  },
+  "indsheibani": {
+   "name": "Independent",
+   "color": "#8E6C8A",
+   "article": "Abbas Sheibani"
+  },
+  "indtaheri": {
+   "name": "Independent",
+   "color": "#8B4513",
+   "article": "Rajabali Taheri"
+  },
+  "indtavakkoli": {
+   "name": "Independent",
+   "color": "#6B8E23",
+   "article": "Ahmad Tavakkoli"
+  },
+  "indzavarei": {
+   "name": "Independent",
+   "color": "#708090",
+   "article": "Reza Zavarei"
+  },
+  "irannovin": {
+   "name": "Iran Novin Party",
+   "color": "#0087DC",
+   "article": "Iran Novin Party"
+  },
+  "irp": {
+   "name": "Islamic Republican Party",
+   "color": "#000000",
+   "article": "Islamic Republican Party"
+  },
+  "irpallies": {
+   "name": "Islamic Republican Party allies",
+   "color": "#353535",
+   "article": "Islamic Republican Party"
+  },
+  "ise": {
+   "name": "Islamic Society of Engineers",
+   "color": "#EBD54C",
+   "article": "Islamic Society of Engineers"
+  },
+  "loh": {
+   "name": "List of Hope",
+   "color": "#3CB8C2",
+   "article": "Pervasive Coalition of Reformists"
+  },
+  "mardom": {
+   "name": "People's Party",
+   "color": "#FF8000",
+   "article": "People's Party (Iran)"
+  },
+  "mdp": {
+   "name": "Moderation and Development Party",
+   "color": "#B666D2",
+   "article": "Moderation and Development Party"
+  },
+  "melliyun": {
+   "name": "Nationalists' Party",
+   "color": "#4169E1",
+   "article": "Nationalists' Party"
+  },
+  "min": {
+   "name": "Religious minorities (reserved seats)",
+   "color": "#D3E300",
+   "article": "Iranian Parliament religious minority reserved seats"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "paniranist": {
+   "name": "Pan-Iranist Party",
+   "color": "#008000",
+   "article": "Pan-Iranist Party"
+  },
+  "pgc": {
+   "name": "Principlists Grand Coalition",
+   "color": "#1F4E9C",
+   "article": "Principlists Grand Coalition"
+  },
+  "pjp": {
+   "name": "Progress and Justice Population of Islamic Iran",
+   "color": "#186D34",
+   "article": "Progress and Justice Population of Islamic Iran"
+  },
+  "prin": {
+   "name": "Principlists",
+   "color": "#0077B6",
+   "article": "Iranian principlists"
+  },
+  "rastakhiz": {
+   "name": "Rastakhiz Party",
+   "color": "#0000FF",
+   "article": "Rastakhiz Party"
+  },
+  "ref": {
+   "name": "Reformists",
+   "color": "#48D1CC",
+   "article": "Iranian reformists"
+  },
+  "rfii": {
+   "name": "Resistance Front of Islamic Iran",
+   "color": "#23ABA1",
+   "article": "Resistance Front of Islamic Iran"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#E5E5EA"
+  },
+  "von": {
+   "name": "Voice of the Nation",
+   "color": "#FDC238",
+   "article": "Voice of the Nation"
+  }
+ },
+ "elections": [
+  {
+   "id": "ir-parliament-1960",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1960-08-20",
+   "note": "National Consultative Assembly; rigged, then annulled",
+   "annulled": true,
+   "totalSeats": 157,
+   "source": {
+    "name": "Wikipedia, citing Zonis (1971) and Mehrdad (1980)",
+    "url": "https://en.wikipedia.org/wiki/1960_Iranian_general_election",
+    "revid": 1378246476
+   },
+   "candidates": [
+    {
+     "name": "Party of Nationalists",
+     "party": "melliyun",
+     "votes": null,
+     "pct": null,
+     "seats": 104,
+     "change": null
+    },
+    {
+     "name": "People's Party",
+     "party": "mardom",
+     "votes": null,
+     "pct": null,
+     "seats": 50,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    }
+   ],
+   "notes": "Held between 30 July and 20 August 1960; the date is the last day. The lead says the elections \"were extensively and clumsily rigged\" and the Shah annulled the results; fresh elections followed in 1961. The chamber had 200 seats, but the table (Zonis 1971 and Mehrdad 1980) lists only 157 (the results announced before the annulment), so the total here is 157. A second table (Chehabi 1990) gives the Nationalists 104 and the People's Party 25. No votes, change column or turnout in the source."
+  },
+  {
+   "id": "ir-parliament-1961",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1961-02-04",
+   "note": "National Consultative Assembly",
+   "totalSeats": 200,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1961_Iranian_legislative_election",
+    "revid": 1378246472
+   },
+   "candidates": [
+    {
+     "name": "Party of Nationalists",
+     "party": "melliyun",
+     "votes": null,
+     "pct": null,
+     "seats": 75,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "People's Party",
+     "party": "mardom",
+     "votes": null,
+     "pct": null,
+     "seats": 65,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 32,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 28,
+     "change": null
+    }
+   ],
+   "notes": "Held from 10 January to 4 February 1961 (infobox); the date is the last day. Seats are the Nohlen et al. table, which adds up to the 200-seat chamber; \"Others\" is the table's own row. The article also gives Zonis/Mehrdad (69, 64, 1 Iran Party, 31 independents; 165 seats) and Chehabi (seat percentages). The table has no change column (the infobox's +29 and +15 are not used). No votes or turnout in the source."
+  },
+  {
+   "id": "ir-parliament-1963",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1963-09-17",
+   "note": "National Consultative Assembly; described as rigged",
+   "turnout": 91.7,
+   "totalSeats": 200,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1963_Iranian_general_election",
+    "revid": 1378246468
+   },
+   "candidates": [
+    {
+     "name": "Iran Novin Party",
+     "party": "irannovin",
+     "votes": null,
+     "pct": null,
+     "seats": 140,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 44,
+     "change": 12
+    },
+    {
+     "name": "People's Party",
+     "party": "mardom",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": -49
+    }
+   ],
+   "notes": "The lead says opposition activists were jailed, no genuine opposition candidates were permitted and the elections were \"rigged and far from a legitimate process\". The table has no votes by party (5,593,826 votes in total). The Iran Novin Party's change is \"New\" (stored as null). Turnout is the lead's 91.7% (Nohlen et al.)."
+  },
+  {
+   "id": "ir-parliament-1967",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1967-08-04",
+   "note": "National Consultative Assembly",
+   "totalSeats": 219,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1967_Iranian_general_election",
+    "revid": 1378246463
+   },
+   "candidates": [
+    {
+     "name": "Iran Novin Party",
+     "party": "irannovin",
+     "votes": null,
+     "pct": null,
+     "seats": 180,
+     "change": 40,
+     "winner": true
+    },
+    {
+     "name": "People's Party",
+     "party": "mardom",
+     "votes": null,
+     "pct": null,
+     "seats": 31,
+     "change": 15
+    },
+    {
+     "name": "Pan-Iranist Party",
+     "party": "paniranist",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 5
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -41
+    }
+   ],
+   "notes": "Majlis table only (a Senate and a Constitutional Assembly were elected at the same time). No votes in the table. The lead gives turnout as \"around 35%\", so no turnout is set."
+  },
+  {
+   "id": "ir-parliament-1971",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1971-07-09",
+   "note": "National Consultative Assembly; described as rigged",
+   "totalSeats": 268,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1971_Iranian_general_election",
+    "revid": 1378246467
+   },
+   "candidates": [
+    {
+     "name": "Iran Novin Party",
+     "party": "irannovin",
+     "votes": null,
+     "pct": null,
+     "seats": 230,
+     "change": 50,
+     "winner": true
+    },
+    {
+     "name": "People's Party",
+     "party": "mardom",
+     "votes": null,
+     "pct": null,
+     "seats": 37,
+     "change": 6
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -2
+    }
+   ],
+   "notes": "The lead says the Pan-Iranist Party boycotted the election and that the elections were \"rigged and far from a legitimate process\". Majlis table only (30 Senate seats were elected at the same time). No votes in the table. The lead gives turnout as \"around 35%\", so no turnout is set."
+  },
+  {
+   "id": "ir-parliament-1975",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1975-06-20",
+   "note": "National Consultative Assembly, single party",
+   "turnout": 78.6,
+   "totalSeats": 268,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001) and the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1975_Iranian_general_election",
+    "revid": 1364303980
+   },
+   "candidates": [
+    {
+     "name": "Rastakhiz Party",
+     "party": "rastakhiz",
+     "votes": null,
+     "pct": 100,
+     "seats": 268,
+     "change": null,
+     "winner": true
+    }
+   ],
+   "notes": "The Rastakhiz Party was the only legal party and won all 268 seats; the table gives it 100% but no vote count (6,805,651 votes in total). Its change is \"New\" (stored as null). Turnout is the lead's 78.6% (Nohlen et al.)."
+  },
+  {
+   "id": "ir-parliament-1980",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1980-03-14",
+   "turnout": 52.14,
+   "totalSeats": 270,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1980_Iranian_legislative_election",
+    "revid": 1312911246
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 140,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Islamic Republican Party",
+     "party": "irp",
+     "votes": null,
+     "pct": null,
+     "seats": 85,
+     "change": null
+    },
+    {
+     "name": "Islamic Republican Party allies",
+     "party": "irpallies",
+     "votes": null,
+     "pct": null,
+     "seats": 45,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 9 May 1980; the date is the first round. Seats are the Nohlen et al. table, the only one of the article's four that adds up to the 270-seat chamber; independents hold the most seats there, while the lead calls the result a victory for the Islamic Republican Party, which with its allies won 130. Other tables: Ettela'at (Grand Coalition 85, independents 115, pro-Banisadr 33, Eponym Group 20), Thapar and Abrahamian. Elections in 23 constituencies in Kurdistan and Sistan and Baluchestan were postponed. No votes or change column. Turnout is the infobox's 52.14% (Iran Social Science Data Portal); the Nohlen table gives 50.00%."
+  },
+  {
+   "id": "ir-parliament-1984",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1984-04-15",
+   "note": "One-party election",
+   "turnout": 64.64,
+   "totalSeats": 270,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1984_Iranian_legislative_election",
+    "revid": 1329012108
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 140,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Islamic Republican Party",
+     "party": "irp",
+     "votes": null,
+     "pct": null,
+     "seats": 130,
+     "change": 45
+    }
+   ],
+   "notes": "Run-off on 17 May 1984; the date is the first round. The lead says independents won most seats and the Islamic Republican Party was the only party to win any; other parties had been banned or dissolved, the Freedom Movement boycotted, and the article files it under one-party elections. Changes are the table's (against Nohlen's 1980 figures). No votes by party. Turnout is the infobox's 64.64% (Iran Social Science Data Portal); the lead gives 65.1% for the first round."
+  },
+  {
+   "id": "ir-parliament-1992",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1992-04-10",
+   "turnout": 57.71,
+   "totalSeats": 270,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1992_Iranian_legislative_election",
+    "revid": 1272790998
+   },
+   "candidates": [
+    {
+     "name": "Combatant Clergy Association and allies",
+     "party": "cca",
+     "votes": null,
+     "pct": null,
+     "seats": 150,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 120,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 8 May 1992; the date is the first round. Seats are the Nohlen et al. table, the only complete count in the article; Others is the Association of Combatant Clerics and allies, which that table credits with 0 seats (other sources in the article give the left 40 or 79). No votes or change column. Turnout is the infobox's 57.71% (Iran Social Science Data Portal)."
+  },
+  {
+   "id": "ir-parliament-1996",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1996-03-08",
+   "turnout": 71.1,
+   "totalSeats": 270,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (2001)",
+    "url": "https://en.wikipedia.org/wiki/1996_Iranian_legislative_election",
+    "revid": 1292618548
+   },
+   "candidates": [
+    {
+     "name": "Combatant Clergy Association and allies",
+     "party": "cca",
+     "votes": null,
+     "pct": null,
+     "seats": 110,
+     "change": -40,
+     "winner": true
+    },
+    {
+     "name": "Combatant Clerics of Tehran and allies",
+     "party": "acc",
+     "votes": null,
+     "pct": null,
+     "seats": 80,
+     "change": 80
+    },
+    {
+     "name": "Executives of Construction Party and allies",
+     "party": "ecp",
+     "votes": null,
+     "pct": null,
+     "seats": 80,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 19 April 1996; the date is the first round. Seats are the Nohlen et al. table, which counts independents as allies of the three groups. \"Combatant Clerics of Tehran\" links to the Association of Combatant Clerics. The Executives of Construction Party's change is \"New\" (stored as null). Other estimates in the article give ranges. Turnout is the infobox's 71.10% (Iran Social Science Data Portal)."
+  },
+  {
+   "id": "ir-parliament-2000",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2000-02-18",
+   "turnout": 69.27,
+   "totalSeats": 290,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2000_Iranian_legislative_election",
+    "revid": 1338629207
+   },
+   "candidates": [
+    {
+     "name": "2nd of Khordad Front",
+     "party": "ccrf",
+     "votes": null,
+     "pct": null,
+     "seats": 222,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Front of Followers of the Line of the Imam and the Leader",
+     "party": "fflil",
+     "votes": null,
+     "pct": null,
+     "seats": 54,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 5 May 2000; the date is the first round. Seats are the Inter-Parliamentary Union table's total seats won (first and second rounds), which add up to the 290-seat chamber. The 2nd of Khordad Front links to the Council for Coordinating the Reforms Front. Nohlen et al. instead give the Islamic Iran Participation Front and allies 216 and the Combatant Clergy Association and allies 74, counting independents as allies. No votes or change column. Turnout is the infobox's 69.27%."
+  },
+  {
+   "id": "ir-parliament-2004",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2004-02-20",
+   "turnout": 51.21,
+   "totalSeats": 290,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2004_Iranian_legislative_election",
+    "revid": 1311395560
+   },
+   "candidates": [
+    {
+     "name": "Conservatives",
+     "party": "prin",
+     "votes": null,
+     "pct": null,
+     "seats": 196,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Reformists",
+     "party": "ref",
+     "votes": null,
+     "pct": null,
+     "seats": 47,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 40,
+     "change": null
+    },
+    {
+     "name": "Religious minorities (reserved seats)",
+     "party": "min",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Undecided",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 7 May 2004; the date is the first round. Seats are the Inter-Parliamentary Union table's totals after both rounds, by the candidates' orientation; \"Conservatives\" links to the principlists' article. The table's four reserved-seat rows (Armenians 2, Assyrians 1, Jewish 1, Zoroastrian 1) are combined into one row. 2 seats were still undecided after the run-off (shown as vacant, as the table lists them). The lead notes that about 2,500 reformist candidates were disqualified beforehand. No votes or change column. Turnout is the infobox's 51.21% (Iran Social Science Data Portal)."
+  },
+  {
+   "id": "ir-parliament-2008",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2008-03-14",
+   "turnout": 51,
+   "totalSeats": 290,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/2008_Iranian_legislative_election",
+    "revid": 1360588302
+   },
+   "candidates": [
+    {
+     "name": "Conservatives",
+     "party": "prin",
+     "votes": null,
+     "pct": null,
+     "seats": 195,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Reformists",
+     "party": "ref",
+     "votes": null,
+     "pct": null,
+     "seats": 51,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 39,
+     "change": null
+    },
+    {
+     "name": "Religious minorities (reserved seats)",
+     "party": "min",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 25 April 2008; the date is the first round. Seats are the Inter-Parliamentary Union table's totals after both rounds, by the candidates' orientation; \"Conservatives\" links to the principlists' article. The table's four reserved-seat rows (Armenians 2, Assyrians 1, Jewish 1, Zoroastrian 1) are combined into one row. The lead notes that the most prominent reformist candidates were disqualified. No votes or change column. Turnout is the infobox's 51% (Ehteshami, citing the Ministry of Interior's 22,350,254 votes from 43,824,254 voters); the table's total row says 60% and the article discusses other claims."
+  },
+  {
+   "id": "ir-parliament-2012",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2012-03-02",
+   "totalSeats": 290,
+   "source": {
+    "name": "Wikipedia, citing Mizan Online",
+    "url": "https://en.wikipedia.org/wiki/2012_Iranian_legislative_election",
+    "revid": 1371043827
+   },
+   "candidates": [
+    {
+     "name": "Conservatives",
+     "party": "prin",
+     "votes": null,
+     "pct": null,
+     "seats": 182,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 88,
+     "change": null
+    },
+    {
+     "name": "Reformists",
+     "party": "ref",
+     "votes": null,
+     "pct": null,
+     "seats": 13,
+     "change": null
+    },
+    {
+     "name": "Religious minorities (reserved seats)",
+     "party": "min",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 4 May 2012; the date is the first round. None of the article's tables gives a complete count (its lists overlap, or cover 225 seats), so seats are from the article's text citing Mizan Online, the judiciary's news agency: 182 conservatives, 13 reformists and 88 independents, plus 5 religious-minority seats and 2 vacant seats. The lead says few if any reformist candidates were allowed to run. No votes or change column. No turnout: the infobox's 66.2% does not match the article's official counts (26,472,760 of 48,288,799 eligible voters)."
+  },
+  {
+   "id": "ir-parliament-2016",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2016-02-26",
+   "turnout": 61.64,
+   "totalSeats": 290,
+   "source": {
+    "name": "Wikipedia, citing Khabaronline",
+    "url": "https://en.wikipedia.org/wiki/2016_Iranian_legislative_election",
+    "revid": 1283441110
+   },
+   "candidates": [
+    {
+     "name": "List of Hope",
+     "party": "loh",
+     "votes": null,
+     "pct": null,
+     "seats": 119,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Principlists Grand Coalition",
+     "party": "pgc",
+     "votes": null,
+     "pct": null,
+     "seats": 84,
+     "change": null
+    },
+    {
+     "name": "Independents and minor lists",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 65,
+     "change": null
+    },
+    {
+     "name": "People's Voice Coalition",
+     "party": "von",
+     "votes": null,
+     "pct": null,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Religious minorities (reserved seats)",
+     "party": "min",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Endorsed by both the Principlists Grand Coalition and the List of Hope",
+     "party": "both",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    }
+   ],
+   "notes": "Run-off on 29 April 2016; the date is the first round. Seats are the article's final results table, which adds up to 286; the text below it says four seats are vacant (shown as Vacant). The List of Hope links to the Pervasive Coalition of Reformists, and People's Voice to Voice of the Nation. The table has no votes or change column. Turnout is the infobox's first-round 61.64% (Iran Data Portal; 59% in the run-off). The Principlists Grand Coalition has no Wikipedia colour; its colour is picked by hand."
+  },
+  {
+   "id": "ir-parliament-2020",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2020-02-21",
+   "turnout": 42.57,
+   "totalSeats": 290,
+   "source": {
+    "name": "Wikipedia, citing ICANA (quoted by The Wall Street Journal)",
+    "url": "https://en.wikipedia.org/wiki/2020_Iranian_legislative_election",
+    "revid": 1295616905
+   },
+   "candidates": [
+    {
+     "name": "Conservatives",
+     "party": "prin",
+     "votes": null,
+     "pct": null,
+     "seats": 226,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 42,
+     "change": null
+    },
+    {
+     "name": "Reformists",
+     "party": "ref",
+     "votes": null,
+     "pct": null,
+     "seats": 21,
+     "change": null
+    },
+    {
+     "name": "Vacant (invalidated)",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "The run-off was postponed to 11 September 2020 because of COVID-19; the date is the first round. Seats add the article's first-round table (Conservatives 221, Reformists 20, Independents 38; 11 undecided) and second-round table (Conservatives 5, Reformists 1, Independents 4); the eleventh undecided seat was invalidated, as the text says, and is shown as vacant. Religious-minority seats are not listed separately. No votes or change column. Turnout is the infobox's and text's 42.57%; the text's own counts (24,512,404 of 57,918,159) give 42.32%."
+  },
+  {
+   "id": "ir-president-1980",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1980-01-25",
+   "turnout": 67.42,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. and the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/1980_Iranian_presidential_election",
+    "revid": 1359130074
+   },
+   "candidates": [
+    {
+     "name": "Abolhassan Banisadr",
+     "party": "indbanisadr",
+     "votes": 10709330,
+     "pct": 76.51,
+     "winner": true
+    },
+    {
+     "name": "Ahmad Madani",
+     "party": "indmadani",
+     "votes": 2224554,
+     "pct": 15.89
+    },
+    {
+     "name": "Hassan Habibi",
+     "party": "irp",
+     "votes": 674859,
+     "pct": 4.82
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 388181,
+     "pct": 2.77
+    }
+   ],
+   "notes": "Shares are recomputed from the votes: the table's percentage column does not match its own votes (it gives Habibi 3.35% for 674,859 votes) and does not add up to 100. The table's valid-vote total (13,994,814) leaves out the 2,110 votes for other candidates, so shares here are of all candidate votes (13,996,924). Others: Dariush Forouhar 133,478, Sadeq Tabatabaei 114,776, Kazem Sami 89,270, Sadegh Ghotbzadeh 48,547, Other candidates 2,110. Turnout is the table's and the infobox's figure. No results by province (the article's second table covers Tehran only), so no region winners."
+  },
+  {
+   "id": "ir-president-1981-07",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1981-07-24",
+   "label": "July 1981",
+   "note": "One-party election",
+   "turnout": 64.24,
+   "source": {
+    "name": "Wikipedia, citing the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/July_1981_Iranian_presidential_election",
+    "revid": 1356518347
+   },
+   "candidates": [
+    {
+     "name": "Mohammad-Ali Rajai",
+     "party": "irp",
+     "votes": 12779050,
+     "pct": 91.11,
+     "winner": true
+    },
+    {
+     "name": "Abbas Sheibani",
+     "party": "irp",
+     "votes": 658498,
+     "pct": 4.69
+    },
+    {
+     "name": "Ali-Akbar Parvaresh",
+     "party": "irp",
+     "votes": 339646,
+     "pct": 2.42
+    },
+    {
+     "name": "Habibollah Asgaroladi",
+     "party": "irp",
+     "votes": 249457,
+     "pct": 1.78
+    }
+   ],
+   "notes": "Votes are the table's ISSDP column (the table also gives Nohlen et al.'s figures); its candidate votes and 547,152 blank or invalid votes add up to its 14,573,803 total. Shares are recomputed as shares of valid votes (14,026,651); the table's percentages are of all ballots including blank and invalid ones. The table lists all four candidates under the Islamic Republican Party; the article says other parties were in effect banned and files it under one-party elections. The infobox uses the ISSDP figures. Turnout is the infobox figure (ISSDP). No results by province in the article, so no region winners."
+  },
+  {
+   "id": "ir-president-1981-10",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1981-10-02",
+   "label": "October 1981",
+   "note": "One-party election",
+   "turnout": 74.26,
+   "source": {
+    "name": "Wikipedia, citing the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/October_1981_Iranian_presidential_election",
+    "revid": 1356517562
+   },
+   "candidates": [
+    {
+     "name": "Ali Khamenei",
+     "party": "irp",
+     "votes": 16008579,
+     "pct": 97.08,
+     "winner": true
+    },
+    {
+     "name": "Ali Akbar Parvaresh",
+     "party": "icp",
+     "votes": 341874,
+     "pct": 2.07
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 139603,
+     "pct": 0.85
+    }
+   ],
+   "notes": "Votes are the table's ISSDP column (the table also gives Nohlen et al.'s figures); its candidate votes and 357,661 blank or invalid votes add up to its 16,847,717 total. Shares are recomputed as shares of valid votes (16,490,056); the table's percentages are of all ballots including blank and invalid ones. Others: Hassan Ghafourifard 80,545, Reza Zavare'i 59,058. Held after President Rajai's assassination. The article files it under one-party elections. The infobox quotes Nohlen et al.'s votes instead (16,007,072 for Khamenei). Turnout is the infobox figure (ISSDP). No results by province in the article, so no region winners."
+  },
+  {
+   "id": "ir-president-1985",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1985-08-16",
+   "note": "One-party election",
+   "turnout": 54.78,
+   "source": {
+    "name": "Wikipedia, citing the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/1985_Iranian_presidential_election",
+    "revid": 1362673903
+   },
+   "candidates": [
+    {
+     "name": "Ali Khamenei",
+     "party": "irp",
+     "votes": 12205012,
+     "pct": 87.89,
+     "winner": true
+    },
+    {
+     "name": "Mahmoud Kashani",
+     "party": "irp",
+     "votes": 1402953,
+     "pct": 10.1
+    },
+    {
+     "name": "Habibollah Asgaroladi",
+     "party": "irp",
+     "votes": 278113,
+     "pct": 2
+    }
+   ],
+   "notes": "Votes are the table's ISSDP column (the table also gives Nohlen et al.'s figures); its candidate votes and 352,509 blank or invalid votes add up to its 14,238,587 total. Shares are recomputed as shares of valid votes (13,886,078); the table's percentages are of all ballots including blank and invalid ones. The table lists all three candidates under the Islamic Republican Party (the infobox calls Kashani an independent); the article files it under one-party elections. The ISSDP column gives Khamenei 85.00%, which does not match its own votes. The infobox quotes Nohlen et al.'s votes. Turnout is the infobox figure (ISSDP). No results by province in the article, so no region winners."
+  },
+  {
+   "id": "ir-president-1989",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1989-07-28",
+   "turnout": 54.59,
+   "source": {
+    "name": "Wikipedia, citing the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/1989_Iranian_presidential_election",
+    "revid": 1356516911
+   },
+   "candidates": [
+    {
+     "name": "Akbar Hashemi Rafsanjani",
+     "party": "cca",
+     "votes": 15550528,
+     "pct": 96.08,
+     "winner": true
+    },
+    {
+     "name": "Abbas Sheibani",
+     "party": "indsheibani",
+     "votes": 635165,
+     "pct": 3.92
+    }
+   ],
+   "notes": "Votes are the table's ISSDP column (the table also gives Nohlen et al.'s figures); its candidate votes and 266,984 blank or invalid votes add up to its 16,452,677 total. Shares are recomputed as shares of valid votes (16,185,693); the table's percentages are of all ballots including blank and invalid ones. Only two candidates were approved by the Guardian Council. The infobox quotes Nohlen et al.'s votes. Turnout is the infobox figure (ISSDP). No results by province in the article, so no region winners."
+  },
+  {
+   "id": "ir-president-1993",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1993-06-11",
+   "turnout": 50.66,
+   "source": {
+    "name": "Wikipedia, citing the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/1993_Iranian_presidential_election",
+    "revid": 1369491768
+   },
+   "candidates": [
+    {
+     "name": "Akbar Hashemi Rafsanjani",
+     "party": "cca",
+     "votes": 10566499,
+     "pct": 64.12,
+     "winner": true
+    },
+    {
+     "name": "Ahmad Tavakkoli",
+     "party": "indtavakkoli",
+     "votes": 4026879,
+     "pct": 24.44
+    },
+    {
+     "name": "Abdollah Jassbi",
+     "party": "indjassbi",
+     "votes": 1498084,
+     "pct": 9.09
+    },
+    {
+     "name": "Rajabali Taheri",
+     "party": "indtaheri",
+     "votes": 387655,
+     "pct": 2.35
+    }
+   ],
+   "notes": "Votes are the table's ISSDP column (the table also gives Nohlen et al.'s figures and UPI/IRNA figures); its candidate votes and 317,670 blank or invalid votes add up to its 16,796,787 total. Shares are recomputed as shares of valid votes (16,479,117); the table's percentages are of all ballots including blank and invalid ones. The infobox quotes Nohlen et al.'s votes and also gives a 57.6% turnout from UPI. Turnout is the infobox figure (ISSDP). No results by province in the article, so no region winners."
+  },
+  {
+   "id": "ir-president-1997",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1997-05-23",
+   "turnout": 79.92,
+   "source": {
+    "name": "Wikipedia, citing the Iran Social Science Data Portal",
+    "url": "https://en.wikipedia.org/wiki/1997_Iranian_presidential_election",
+    "revid": 1372162338
+   },
+   "candidates": [
+    {
+     "name": "Mohammad Khatami",
+     "party": "acc",
+     "votes": 20138784,
+     "pct": 69.67,
+     "winner": true
+    },
+    {
+     "name": "Ali Akbar Nategh-Nouri",
+     "party": "cca",
+     "votes": 7248317,
+     "pct": 25.08
+    },
+    {
+     "name": "Reza Zavarei",
+     "party": "indzavarei",
+     "votes": 772707,
+     "pct": 2.67
+    },
+    {
+     "name": "Mohammad Reyshahri",
+     "party": "adrv",
+     "votes": 744205,
+     "pct": 2.57
+    }
+   ],
+   "notes": "Votes are the table's ISSDP column (the table also gives Nohlen et al.'s figures); its candidate votes and 241,732 blank or invalid votes add up to its 29,145,745 total. Shares are recomputed as shares of valid votes (28,904,013); the table's percentages are of all ballots including blank and invalid ones. The infobox quotes Nohlen et al.'s votes. Turnout is the infobox figure (ISSDP). No results by province in the article, so no region winners."
+  },
+  {
+   "id": "ir-president-2001",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2001-06-08",
+   "turnout": 66.78,
+   "source": {
+    "name": "Wikipedia, citing Sahliyeh (Electoral Studies) and Ehteshami & Molavi",
+    "url": "https://en.wikipedia.org/wiki/2001_Iranian_presidential_election",
+    "revid": 1311393561
+   },
+   "candidates": [
+    {
+     "name": "Mohammad Khatami",
+     "party": "acc",
+     "votes": 21656476,
+     "pct": 78.28,
+     "winner": true
+    },
+    {
+     "name": "Ahmad Tavakkoli",
+     "party": "indtavakkoli",
+     "votes": 4387112,
+     "pct": 15.86
+    },
+    {
+     "name": "Ali Shamkhani",
+     "party": "indshamkhani",
+     "votes": 737051,
+     "pct": 2.66
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 884910,
+     "pct": 3.2
+    }
+   ],
+   "notes": "Shares are of valid votes (27,665,549); 493,740 invalid ballots are excluded. Turnout is computed from the table's electorate (42,170,230) and ballots cast; the infobox gives the same 66.78%. Khatami's party (Association of Combatant Clerics) is from the infobox; the article gives no party for Tavakkoli or Shamkhani, so they are independents here. Others: Abdollah Jassbi 259,759, Mahmoud Kashani 237,660, Hassan Ghafourifard 129,155, Mansour Razavi 114,616, Shahabedin Sadr 60,546, Ali Fallahian 55,225, Mostafa Hashemitaba 27,949. The article has turnout by province but no votes by province, so no region winners."
+  },
+  {
+   "id": "ir-president-2005",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2005-06-17",
+   "turnout": 59.84,
+   "source": {
+    "name": "Wikipedia, citing IFES (ElectionGuide)",
+    "url": "https://en.wikipedia.org/wiki/2005_Iranian_presidential_election",
+    "revid": 1371345672
+   },
+   "candidates": [
+    {
+     "name": "Mahmoud Ahmadinejad",
+     "party": "abii",
+     "votes": 17284782,
+     "pct": 63.24,
+     "winner": true
+    },
+    {
+     "name": "Akbar Hashemi Rafsanjani",
+     "party": "cca",
+     "votes": 10046701,
+     "pct": 36.76
+    }
+   ],
+   "rounds": [
+    {
+     "label": "First round",
+     "date": "2005-06-17",
+     "candidates": [
+      {
+       "name": "Akbar Hashemi Rafsanjani",
+       "party": "cca",
+       "votes": 6179653,
+       "pct": 22
+      },
+      {
+       "name": "Mahmoud Ahmadinejad",
+       "party": "abii",
+       "votes": 5710354,
+       "pct": 20.33
+      },
+      {
+       "name": "Mehdi Karroubi",
+       "party": "acc",
+       "votes": 5056686,
+       "pct": 18
+      },
+      {
+       "name": "Mohammad Bagher Ghalibaf",
+       "party": "indghalibaf",
+       "votes": 4075189,
+       "pct": 14.5
+      },
+      {
+       "name": "Mostafa Moeen",
+       "party": "indmoeen",
+       "votes": 4069699,
+       "pct": 14.49
+      },
+      {
+       "name": "Ali Larijani",
+       "party": "ise",
+       "votes": 1716081,
+       "pct": 6.11
+      },
+      {
+       "name": "Mohsen Mehralizadeh",
+       "party": "iipf",
+       "votes": 1287440,
+       "pct": 4.58
+      }
+     ]
+    },
+    {
+     "label": "Run-off",
+     "date": "2005-06-24",
+     "candidates": [
+      {
+       "name": "Mahmoud Ahmadinejad",
+       "party": "abii",
+       "votes": 17284782,
+       "pct": 63.24,
+       "winner": true
+      },
+      {
+       "name": "Akbar Hashemi Rafsanjani",
+       "party": "cca",
+       "votes": 10046701,
+       "pct": 36.76
+      }
+     ]
+    }
+   ],
+   "notes": "First run-off in the Islamic Republic's history. Shares are of valid votes (28,095,102 in the first round, 27,331,483 in the run-off); invalid ballots (1,221,937 and 663,770) are excluded. Turnout is the run-off's, computed from the table's electorate; the first round's was 62.66% (the infobox gives 62.66% and 59.84%). Parties: Ahmadinejad (Alliance of Builders of Islamic Iran) and Rafsanjani (Combatant Clergy Association) from the infobox; Karroubi (secretary-general of the Association of Combatant Clerics), Larijani (Islamic Society of Engineers) and Mehralizadeh (member of the Islamic Iran Participation Front) from the candidate list; Ghalibaf and Moeen are listed only as supported by groups, so they are independents here. The article's by-province table covers the first round only, so no region winners for the run-off."
+  },
+  {
+   "id": "ir-president-2009",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2009-06-12",
+   "note": "Disputed result",
+   "turnout": 85.22,
+   "source": {
+    "name": "Wikipedia, citing the Iran Data Portal",
+    "url": "https://en.wikipedia.org/wiki/Results_of_the_2009_Iranian_presidential_election",
+    "revid": 1318246417
+   },
+   "candidates": [
+    {
+     "name": "Mahmoud Ahmadinejad",
+     "party": "abii",
+     "votes": 24592793,
+     "pct": 63.14,
+     "winner": true
+    },
+    {
+     "name": "Mir-Hossein Mousavi",
+     "party": "ccrf",
+     "votes": 13338121,
+     "pct": 34.24
+    },
+    {
+     "name": "Mohsen Rezaee",
+     "party": "indrezaee",
+     "votes": 681851,
+     "pct": 1.75
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 338278,
+     "pct": 0.87
+    }
+   ],
+   "notes": "The 2009 article transcludes its results from \"Results of the 2009 Iranian presidential election\", which is the cited page. The lead describes large irregularities, protests and fraud allegations; the Guardian Council recounted 10% of the votes and upheld the result. Shares are of valid votes (38,951,043); 420,171 invalid ballots are excluded. Turnout is computed from the table's electorate; the infobox gives the same 85.22%. Parties: Ahmadinejad (Alliance of Builders of Islamic Iran) and Mousavi (Council for Coordinating the Reforms Front) from the infobox; Rezaee is listed only as supported by the Islamic Society of Engineers, so he is an independent here. Others: Mehdi Karroubi 338,278. Region winners are each province's leader in the results page's provincial table (which is marked citation needed); Tehran province then still included Alborz (split off in 2010), so neither has a winner.",
+   "regionWinners": {
+    "10": "abii",
+    "11": "ccrf",
+    "12": "abii",
+    "13": "abii",
+    "14": "abii",
+    "15": "abii",
+    "16": "abii",
+    "17": "abii",
+    "18": "abii",
+    "19": "abii",
+    "20": "abii",
+    "21": "abii",
+    "22": "abii",
+    "24": "abii",
+    "25": "abii",
+    "26": "abii",
+    "27": "abii",
+    "28": "abii",
+    "29": "abii",
+    "03": "abii",
+    "04": "ccrf",
+    "07": "abii",
+    "01": "abii",
+    "08": "abii",
+    "05": "abii",
+    "09": "abii",
+    "06": "abii",
+    "00": "abii",
+    "02": "abii"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2009_Iranian_presidential_election"
+  },
+  {
+   "id": "ir-president-2013",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2013-06-14",
+   "turnout": 72.71,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Interior",
+    "url": "https://en.wikipedia.org/wiki/2013_Iranian_presidential_election",
+    "revid": 1365468898
+   },
+   "candidates": [
+    {
+     "name": "Hassan Rouhani",
+     "party": "mdp",
+     "votes": 18613329,
+     "pct": 52.49,
+     "winner": true
+    },
+    {
+     "name": "Mohammad Bagher Ghalibaf",
+     "party": "pjp",
+     "votes": 6077292,
+     "pct": 17.14
+    },
+    {
+     "name": "Saeed Jalili",
+     "party": "firs",
+     "votes": 4168946,
+     "pct": 11.76
+    },
+    {
+     "name": "Mohsen Rezaee",
+     "party": "rfii",
+     "votes": 3884412,
+     "pct": 10.95
+    },
+    {
+     "name": "Ali Akbar Velayati",
+     "party": "fflil",
+     "votes": 2268753,
+     "pct": 6.4
+    },
+    {
+     "name": "Mohammad Gharazi",
+     "party": "indgharazi",
+     "votes": 446015,
+     "pct": 1.26
+    }
+   ],
+   "notes": "Shares are of valid votes (35,458,747); 1,245,409 invalid ballots are excluded. The official 50.71% for Rouhani, quoted in the infobox, is of all ballots cast including invalid ones (the share that decided he needed no run-off). Turnout is computed from the table's electorate; the infobox gives 72.71%. Region winners are each province's leader in the article's official by-province table (31 provinces).",
+   "regionWinners": {
+    "10": "mdp",
+    "11": "mdp",
+    "12": "mdp",
+    "13": "mdp",
+    "14": "rfii",
+    "15": "mdp",
+    "16": "mdp",
+    "17": "rfii",
+    "18": "mdp",
+    "19": "mdp",
+    "20": "mdp",
+    "21": "mdp",
+    "22": "mdp",
+    "23": "mdp",
+    "24": "mdp",
+    "25": "mdp",
+    "26": "mdp",
+    "27": "mdp",
+    "28": "mdp",
+    "29": "mdp",
+    "30": "mdp",
+    "03": "mdp",
+    "04": "mdp",
+    "07": "mdp",
+    "01": "mdp",
+    "08": "mdp",
+    "05": "mdp",
+    "09": "mdp",
+    "06": "rfii",
+    "00": "mdp",
+    "02": "mdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2013_Iranian_presidential_election"
+  },
+  {
+   "id": "ir-president-2017",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2017-05-19",
+   "turnout": 73.33,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Interior",
+    "url": "https://en.wikipedia.org/wiki/2017_Iranian_presidential_election",
+    "revid": 1373749546
+   },
+   "candidates": [
+    {
+     "name": "Hassan Rouhani",
+     "party": "mdp",
+     "votes": 23636652,
+     "pct": 58.85,
+     "winner": true
+    },
+    {
+     "name": "Ebrahim Raisi",
+     "party": "cca",
+     "votes": 15835794,
+     "pct": 39.43
+    },
+    {
+     "name": "Mostafa Mir-Salim",
+     "party": "icp",
+     "votes": 478267,
+     "pct": 1.19
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 214441,
+     "pct": 0.53
+    }
+   ],
+   "notes": "Shares are of valid votes (40,165,154); 1,200,931 invalid ballots are excluded. Turnout is computed from the table's electorate; the article gives the same 73.33%. Others: Mostafa Hashemitaba (Executives of Construction Party) 214,441. Region winners are each province's leader in the article's provincial table; its Kerman row is empty, so Kerman has no winner (30 of 31 provinces).",
+   "regionWinners": {
+    "10": "mdp",
+    "11": "mdp",
+    "12": "mdp",
+    "13": "cca",
+    "14": "mdp",
+    "15": "mdp",
+    "16": "mdp",
+    "17": "mdp",
+    "18": "mdp",
+    "19": "cca",
+    "20": "cca",
+    "21": "mdp",
+    "22": "mdp",
+    "23": "mdp",
+    "24": "mdp",
+    "25": "cca",
+    "26": "mdp",
+    "27": "mdp",
+    "28": "cca",
+    "29": "cca",
+    "30": "mdp",
+    "03": "mdp",
+    "04": "mdp",
+    "07": "mdp",
+    "01": "mdp",
+    "05": "mdp",
+    "09": "cca",
+    "06": "mdp",
+    "00": "cca",
+    "02": "mdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2017_Iranian_presidential_election"
+  },
+  {
+   "id": "ir-president-2021",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2021-06-18",
+   "note": "Not free or fair, according to human rights groups",
+   "turnout": 48.48,
+   "source": {
+    "name": "Wikipedia, citing Fars News Agency",
+    "url": "https://en.wikipedia.org/wiki/2021_Iranian_presidential_election",
+    "revid": 1375977336
+   },
+   "candidates": [
+    {
+     "name": "Ebrahim Raisi",
+     "party": "cca",
+     "votes": 18021945,
+     "pct": 72.35,
+     "winner": true
+    },
+    {
+     "name": "Mohsen Rezaee",
+     "party": "rfii",
+     "votes": 3440835,
+     "pct": 13.81
+    },
+    {
+     "name": "Abdolnaser Hemmati",
+     "party": "ecp",
+     "votes": 2443387,
+     "pct": 9.81
+    },
+    {
+     "name": "Amir-Hossein Ghazizadeh Hashemi",
+     "party": "ilp",
+     "votes": 1003650,
+     "pct": 4.03
+    }
+   ],
+   "notes": "The lead says human rights organisations widely described the election as \"neither free nor fair\", a \"sham\" and a \"selection\", after the Guardian Council disqualified prominent candidates. Shares are of valid votes (24,909,817); a record 3,840,919 invalid ballots are excluded. Turnout is computed from the table's electorate; the infobox gives 48.48%. The Islamic Law Party has no article; its colour is the table's. The article gives turnout by province but no votes by province, so no region winners."
+  }
+ ]
+}

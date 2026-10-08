@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-08",
   "countries": [
     {
       "code": "US",
@@ -891,6 +891,48 @@
       "regionTerm": [
         "region",
         "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "atlasId": "364",
+      "marker": [
+        54,
+        32.6
+      ],
+      "view": {
+        "center": [
+          53.7,
+          32.4
+        ],
+        "span": 11
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "atlasId": "368",
+      "marker": [
+        43.8,
+        33.3
+      ],
+      "view": {
+        "center": [
+          43.7,
+          33.2
+        ],
+        "span": 5.6
+      },
+      "regionTerm": [
+        "governorate",
+        "governorates"
       ],
       "history": true
     }
