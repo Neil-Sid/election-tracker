@@ -32,9 +32,6 @@ let seq = 0;
 
 if (matchMedia('(pointer: coarse)').matches) hint.textContent = 'Drag to spin · Pinch to zoom';
 
-document.querySelector('.today').textContent = new Date()
-  .toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
-
 async function boot() {
   [ctx.index, ctx.schedule, ctx.sources] = await Promise.all([loadIndex(), loadSchedule(), loadSources(), loadLive()]);
   refreshStatuses();

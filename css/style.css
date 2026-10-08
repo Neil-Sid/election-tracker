@@ -500,7 +500,6 @@ button.hist-row:hover, button.hist-row.current { background: var(--soft); }
   html, body { height: auto; }
   body { display: block; overflow: auto; }
   .topbar { position: sticky; top: 0; }
-  .today { display: none; }
   .shell { display: flex; flex-direction: column-reverse; }
   .globe-pane { height: 56vh; min-height: 340px; }
   .panel { overflow: visible; border-right: 0; border-top: 1px solid var(--line); }
