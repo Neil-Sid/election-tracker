@@ -213,9 +213,9 @@ canvas.globe.grabbing { cursor: grabbing; }
 .eyebrow { display: flex; align-items: center; gap: 7px; font-size: 12px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
 
 .block { margin-top: 40px; }
-.block-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.block-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 12px; }
 .block-head .muted { font-size: 13px; }
-.block-title { font-size: 19px; font-weight: 600; letter-spacing: -0.02em; }
+.block-title { font-size: 19px; font-weight: 600; letter-spacing: -0.02em; white-space: nowrap; }
 .sub-title { margin-top: 24px; font-size: 13px; font-weight: 600; color: var(--muted); }
 .sub-title.row { display: flex; justify-content: space-between; align-items: center; }
 .sub-title h3 { font-size: inherit; font-weight: inherit; }

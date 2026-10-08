@@ -1,0 +1,292 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Federal parliamentary constitutional monarchy",
+    "headOfState": "Yang di-Pertuan Agong (King)",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Parliament: Dewan Rakyat (222), Dewan Negara (70)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 21173638,
+    "offices": {
+      "Dewan Rakyat": "Its 222 members are elected for five-year terms by first past the post in single-member constituencies, and coalitions normally agree not to contest the same seats. The party or coalition with a majority forms the federal government, and its leader is appointed Prime Minister by the Yang di-Pertuan Agong."
+    }
+  },
+  "parties": {
+    "alliance": {
+      "name": "Alliance Party",
+      "color": "#000080"
+    },
+    "apu": {
+      "name": "Angkatan Perpaduan Ummah",
+      "color": "#FFFF00"
+    },
+    "ba": {
+      "name": "Barisan Alternatif",
+      "color": "#F2003C"
+    },
+    "bn": {
+      "name": "Barisan Nasional",
+      "color": "#000080"
+    },
+    "dap": {
+      "name": "Democratic Action Party",
+      "color": "#ED1C24"
+    },
+    "gerakan": {
+      "name": "Gerakan",
+      "color": "#FF0000"
+    },
+    "gps": {
+      "name": "Gabungan Parti Sarawak",
+      "color": "#FF6060"
+    },
+    "gr": {
+      "name": "Gagasan Rakyat",
+      "color": "#ADD8E6"
+    },
+    "grs": {
+      "name": "Gabungan Rakyat Sabah",
+      "color": "#4682B4"
+    },
+    "gs": {
+      "name": "Gagasan Sejahtera",
+      "color": "#008800"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "kdm": {
+      "name": "Social Democratic Harmony Party (KDM)",
+      "color": "#F6787F"
+    },
+    "malayanparty": {
+      "name": "Malayan Party",
+      "color": "#000000"
+    },
+    "natperak": {
+      "name": "National Association of Perak",
+      "color": "#8B4513"
+    },
+    "negara": {
+      "name": "Parti Negara",
+      "color": "#FFFF00"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "pajar": {
+      "name": "Parti Anak Jati Sarawak",
+      "color": "#DAA520"
+    },
+    "pap": {
+      "name": "People's Action Party",
+      "color": "#2C59AC"
+    },
+    "pas": {
+      "name": "Malaysian Islamic Party (PAS)",
+      "color": "#009000"
+    },
+    "pbb": {
+      "name": "Parti Pesaka Bumiputera Bersatu",
+      "color": "#FDEF8B"
+    },
+    "pbm": {
+      "name": "Parti Bangsa Malaysia",
+      "color": "#622CA8"
+    },
+    "pbs": {
+      "name": "United Sabah Party",
+      "color": "#ADD8E6"
+    },
+    "pekemas": {
+      "name": "Malaysian Social Justice Party (Pekemas)",
+      "color": "#C00000"
+    },
+    "ph": {
+      "name": "Pakatan Harapan",
+      "color": "#D7282F"
+    },
+    "pn": {
+      "name": "Perikatan Nasional",
+      "color": "#031E61"
+    },
+    "ppp": {
+      "name": "People's Progressive Party",
+      "color": "#DAA520"
+    },
+    "pr": {
+      "name": "Pakatan Rakyat",
+      "color": "#FF6600"
+    },
+    "prm": {
+      "name": "Parti Rakyat Malaysia",
+      "color": "#B22222"
+    },
+    "sca": {
+      "name": "Sabah Chinese Association",
+      "color": "#FF4500"
+    },
+    "sf": {
+      "name": "Malayan Peoples' Socialist Front",
+      "color": "#C00000"
+    },
+    "snap": {
+      "name": "Sarawak National Party",
+      "color": "#717190"
+    },
+    "spo": {
+      "name": "Sarawak People's Organisation",
+      "color": "#A600A6"
+    },
+    "supp": {
+      "name": "Sarawak United Peoples' Party",
+      "color": "#FFFF00"
+    },
+    "udp": {
+      "name": "United Democratic Party",
+      "color": "#FF0000"
+    },
+    "usa": {
+      "name": "United Sabah Alliance",
+      "color": "#1A1A1A"
+    },
+    "usno": {
+      "name": "United Sabah National Organisation",
+      "color": "#228B22"
+    },
+    "warisan": {
+      "name": "Heritage Party (Warisan)",
+      "color": "#A4E5FC"
+    }
+  },
+  "elections": [
+    {
+      "id": "my-dewan-rakyat-2022",
+      "office": "Dewan Rakyat",
+      "kind": "legislative",
+      "date": "2022-11-19",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 74.7,
+      "system": "222 seats, first past the post",
+      "totalSeats": 222,
+      "majority": 112,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "ElectionData.MY",
+        "url": "https://en.wikipedia.org/wiki/2022_Malaysian_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/Results_of_the_2022_Malaysian_general_election_by_parliamentary_constituency",
+      "statesSourced": {
+        "n": 15,
+        "of": 16
+      },
+      "candidates": [
+        {
+          "name": "Pakatan Harapan",
+          "party": "ph",
+          "votes": 5931856,
+          "pct": 37.99,
+          "seats": 82,
+          "change": -19,
+          "winner": true
+        },
+        {
+          "name": "Perikatan Nasional",
+          "party": "pn",
+          "votes": 4719665,
+          "pct": 30.23,
+          "seats": 74,
+          "change": 43
+        },
+        {
+          "name": "Barisan Nasional",
+          "party": "bn",
+          "votes": 3459988,
+          "pct": 22.16,
+          "seats": 30,
+          "change": -28
+        },
+        {
+          "name": "Gabungan Parti Sarawak",
+          "party": "gps",
+          "votes": 662601,
+          "pct": 4.24,
+          "seats": 23,
+          "change": 4
+        },
+        {
+          "name": "Gabungan Rakyat Sabah",
+          "party": "grs",
+          "votes": 194652,
+          "pct": 1.25,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "Heritage Party",
+          "party": "warisan",
+          "votes": 281611,
+          "pct": 1.8,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 111390,
+          "pct": 0.71,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Social Democratic Harmony Party",
+          "party": "kdm",
+          "votes": 52054,
+          "pct": 0.33,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Parti Bangsa Malaysia",
+          "party": "pbm",
+          "votes": 16437,
+          "pct": 0.11,
+          "seats": 1,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 183726,
+          "pct": 1.18,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "regions": [
+        {"name":"Johor","abbr":"01","winner":"ph","margin":17,"turnout":74,"votes":1081636,"results":[{"party":"ph","pct":49.2,"votes":532165},{"party":"pn","pct":32.2,"votes":348287},{"party":"bn","pct":11.9,"votes":128715},{"party":"gps","pct":5.5,"votes":59490},{"party":"warisan","pct":1.2,"votes":12980}]},
+        {"name":"Kedah","abbr":"02","winner":"pn","margin":4.9,"turnout":71.5,"votes":1036190,"results":[{"party":"pn","pct":39,"votes":404114},{"party":"ph","pct":34.1,"votes":353341},{"party":"bn","pct":18.9,"votes":195840},{"party":"gps","pct":5.8,"votes":60099},{"party":"warisan","pct":2.1,"votes":21760}]},
+        {"name":"Kelantan","abbr":"03","winner":"pn","margin":4.3,"turnout":74.7,"votes":999752,"results":[{"party":"pn","pct":42.5,"votes":424895},{"party":"ph","pct":38.2,"votes":381905},{"party":"bn","pct":14.2,"votes":141965},{"party":"gps","pct":3.4,"votes":33992},{"party":"warisan","pct":1.7,"votes":16996}]},
+        {"name":"Kuala Lumpur","abbr":"14","winner":"ph","margin":15.3,"turnout":71.7,"votes":1077579,"results":[{"party":"ph","pct":45.9,"votes":494609},{"party":"pn","pct":30.6,"votes":329739},{"party":"bn","pct":20.8,"votes":224136},{"party":"gps","pct":1.8,"votes":19396},{"party":"warisan","pct":1,"votes":10776}]},
+        {"name":"Labuan","abbr":"15","winner":"pn","margin":7.8,"turnout":69.6,"votes":1082560,"results":[{"party":"pn","pct":42.5,"votes":460088},{"party":"ph","pct":34.7,"votes":375648},{"party":"bn","pct":18.5,"votes":200274},{"party":"gps","pct":3.1,"votes":33559},{"party":"warisan","pct":1.3,"votes":14073}]},
+        {"name":"Melaka","abbr":"04","winner":"pn","margin":6.3,"turnout":73.8,"votes":1137312,"results":[{"party":"pn","pct":35.9,"votes":408295},{"party":"bn","pct":29.6,"votes":336644},{"party":"ph","pct":29.5,"votes":335507},{"party":"gps","pct":4.2,"votes":47767},{"party":"warisan","pct":0.9,"votes":10236}]},
+        {"name":"Negeri Sembilan","abbr":"05","winner":"bn","margin":6.2,"turnout":77.8,"votes":892884,"results":[{"party":"bn","pct":38.1,"votes":340189},{"party":"pn","pct":31.9,"votes":284830},{"party":"ph","pct":25.6,"votes":228578},{"party":"gps","pct":2.7,"votes":24108},{"party":"warisan","pct":1.8,"votes":16072}]},
+        {"name":"Pahang","abbr":"06","winner":"pn","margin":4,"turnout":79,"votes":1007601,"results":[{"party":"pn","pct":33.9,"votes":341577},{"party":"ph","pct":29.9,"votes":301273},{"party":"bn","pct":27.8,"votes":280113},{"party":"gps","pct":5.5,"votes":55418},{"party":"warisan","pct":2.9,"votes":29220}]},
+        {"name":"Penang","abbr":"07","winner":"ph","margin":5.1,"turnout":74.1,"votes":975636,"results":[{"party":"ph","pct":36.6,"votes":357083},{"party":"bn","pct":31.5,"votes":307325},{"party":"pn","pct":27,"votes":263422},{"party":"gps","pct":3.8,"votes":37074},{"party":"warisan","pct":1,"votes":9756}]},
+        {"name":"Perak","abbr":"08","winner":"ph","margin":18.8,"turnout":68.5,"votes":928867,"results":[{"party":"ph","pct":46.9,"votes":435639},{"party":"pn","pct":28.1,"votes":261012},{"party":"bn","pct":19.8,"votes":183916},{"party":"gps","pct":3.6,"votes":33439},{"party":"warisan","pct":1.6,"votes":14862}]},
+        {"name":"Perlis","abbr":"09","winner":"pn","margin":14.7,"turnout":68.5,"votes":952056,"results":[{"party":"pn","pct":47.7,"votes":454131},{"party":"ph","pct":33,"votes":314178},{"party":"bn","pct":16.6,"votes":158041},{"party":"gps","pct":1.4,"votes":13329},{"party":"warisan","pct":1.4,"votes":13329}]},
+        {"name":"Putrajaya","abbr":"16","winner":"pn","margin":2.9,"turnout":77.7,"votes":1140341,"results":[{"party":"pn","pct":33.9,"votes":386576},{"party":"ph","pct":31,"votes":353506},{"party":"bn","pct":29.1,"votes":331839},{"party":"gps","pct":4.3,"votes":49035},{"party":"warisan","pct":1.7,"votes":19386}]},
+        {"name":"Sabah","abbr":"12","winner":"bn","margin":10.8,"turnout":79.2,"votes":792297,"results":[{"party":"bn","pct":42.1,"votes":333557},{"party":"ph","pct":31.3,"votes":247989},{"party":"pn","pct":22.9,"votes":181436},{"party":"gps","pct":2,"votes":15846},{"party":"warisan","pct":1.8,"votes":14261}]},
+        {"name":"Sarawak","abbr":"13","winner":"gps","margin":2.6,"turnout":76.3,"votes":962105,"results":[{"party":"gps","pct":30.2,"votes":290556},{"party":"ph","pct":27.6,"votes":265541},{"party":"pn","pct":26.8,"votes":257844},{"party":"bn","pct":14.1,"votes":135657},{"party":"warisan","pct":1.3,"votes":12507}]},
+        {"name":"Selangor","abbr":"10","winner":"ph","margin":6,"turnout":75.2,"votes":861771,"results":[{"party":"ph","pct":40.7,"votes":350741},{"party":"pn","pct":34.7,"votes":299035},{"party":"bn","pct":18.1,"votes":155981},{"party":"gps","pct":3.5,"votes":30162},{"party":"warisan","pct":2.9,"votes":24991}]},
+        {"name":"Terengganu","abbr":"11","winner":"pn","margin":4.3,"turnout":77,"votes":1032883,"results":[{"party":"pn","pct":36.8,"votes":380101},{"party":"ph","pct":32.5,"votes":335687},{"party":"bn","pct":26.4,"votes":272681},{"party":"gps","pct":3.5,"votes":36151},{"party":"warisan","pct":0.8,"votes":8263}]}
+      ]
+    }
+  ]
+}

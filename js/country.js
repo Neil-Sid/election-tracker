@@ -3,8 +3,9 @@ import { nextText } from './status.js';
 import { fmtInt, fmtPct, fmtDate, fmtFullDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
 import { chamber, duel, historyRows, pollChart } from './charts.js';
 
-// Others, "Against all", vacant seats and seats a source has no results for list after the parties.
-const rest = c => ['oth', 'against', 'nis', 'vac', 'vacant'].includes(c.party);
+// Others, "Against all", "None of the above", vacant seats and seats a source
+// has no results for list after the parties.
+const rest = c => ['oth', 'against', 'nota', 'nis', 'vac', 'vacant'].includes(c.party);
 
 export function renderCountry(panel, ctx, { meta, country: initial, archive, electionId }) {
   const { schedule, globe } = ctx;
@@ -355,9 +356,13 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const cap = w => w[0].toUpperCase() + w.slice(1);
     const up = regs.filter(r => r.contested !== false);
     const called = up.filter(r => r.winner);
-    const status = live || sim
-      ? `${called.length} of ${up.length} called`
-      : up.length < regs.length ? `${up.length} ${up.length === 1 ? unit : units} voted` : '';
+    // A few regions that didn't vote are named; a count of the rest could miscall
+    // a capital district or territory a state.
+    const off = regs.filter(r => r.contested === false).map(r => r.name);
+    const status = live || sim ? `${called.length} of ${up.length} called`
+      : !off.length ? ''
+      : off.length <= 3 ? `${off.length > 1 ? `${off.slice(0, -1).join(', ')} and ${off.at(-1)}` : off[0]} didn't vote`
+      : `${up.length} ${up.length === 1 ? unit : units} voted`;
 
     const tally = d3.rollups(called, v => ({ n: v.length, seats: d3.sum(v, r => r.seats ?? 0) }), r => r.winner)
       .sort((a, b) => b[1].n - a[1].n)

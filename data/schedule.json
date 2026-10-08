@@ -939,5 +939,25 @@
     "pollsClose": "19:00",
     "basedOn": "ma-house-of-representatives-2026",
     "tentative": true
+  },
+  {
+    "country": "TH",
+    "office": "House of Representatives",
+    "kind": "legislative",
+    "date": "2030-03-25",
+    "timezone": "Asia/Bangkok",
+    "pollsClose": "17:00",
+    "basedOn": "th-house-of-representatives-2026",
+    "tentative": true
+  },
+  {
+    "country": "MY",
+    "office": "Dewan Rakyat",
+    "kind": "legislative",
+    "date": "2028-02-17",
+    "timezone": "Asia/Kuala_Lumpur",
+    "pollsClose": "17:00",
+    "basedOn": "my-dewan-rakyat-2022",
+    "tentative": true
   }
 ]

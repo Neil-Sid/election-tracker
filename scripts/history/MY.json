@@ -1,0 +1,1415 @@
+{
+ "code": "MY",
+ "parties": {
+  "alliance": {
+   "name": "Alliance Party",
+   "color": "#000080",
+   "article": "Alliance Party (Malaysia)"
+  },
+  "apu": {
+   "name": "Angkatan Perpaduan Ummah",
+   "color": "#FFFF00",
+   "article": "Angkatan Perpaduan Ummah"
+  },
+  "ba": {
+   "name": "Barisan Alternatif",
+   "color": "#F2003C",
+   "article": "Barisan Alternatif"
+  },
+  "bn": {
+   "name": "Barisan Nasional",
+   "color": "#000080",
+   "article": "Barisan Nasional"
+  },
+  "dap": {
+   "name": "Democratic Action Party",
+   "color": "#ED1C24",
+   "article": "Democratic Action Party"
+  },
+  "gerakan": {
+   "name": "Gerakan",
+   "color": "#FF0000",
+   "article": "Parti Gerakan Rakyat Malaysia"
+  },
+  "gr": {
+   "name": "Gagasan Rakyat",
+   "color": "#ADD8E6",
+   "article": "Gagasan Rakyat"
+  },
+  "gs": {
+   "name": "Gagasan Sejahtera",
+   "color": "#008800",
+   "article": "Gagasan Sejahtera"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "malayanparty": {
+   "name": "Malayan Party",
+   "color": "#000000",
+   "article": "Malayan Party"
+  },
+  "natperak": {
+   "name": "National Association of Perak",
+   "color": "#8B4513"
+  },
+  "negara": {
+   "name": "Parti Negara",
+   "color": "#FFFF00",
+   "article": "Parti Negara"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "pajar": {
+   "name": "Parti Anak Jati Sarawak",
+   "color": "#DAA520"
+  },
+  "pap": {
+   "name": "People's Action Party",
+   "color": "#2C59AC",
+   "article": "People's Action Party"
+  },
+  "pas": {
+   "name": "Malaysian Islamic Party (PAS)",
+   "color": "#009000",
+   "article": "Malaysian Islamic Party"
+  },
+  "pbb": {
+   "name": "Parti Pesaka Bumiputera Bersatu",
+   "color": "#FDEF8B",
+   "article": "Parti Pesaka Bumiputera Bersatu"
+  },
+  "pbs": {
+   "name": "United Sabah Party",
+   "color": "#ADD8E6",
+   "article": "United Sabah Party"
+  },
+  "pekemas": {
+   "name": "Malaysian Social Justice Party (Pekemas)",
+   "color": "#C00000",
+   "article": "Malaysian Social Justice Party"
+  },
+  "ph": {
+   "name": "Pakatan Harapan",
+   "color": "#D7282F",
+   "article": "Pakatan Harapan"
+  },
+  "ppp": {
+   "name": "People's Progressive Party",
+   "color": "#DAA520",
+   "article": "People's Progressive Party (Malaysia)"
+  },
+  "pr": {
+   "name": "Pakatan Rakyat",
+   "color": "#FF6600",
+   "article": "Pakatan Rakyat"
+  },
+  "prm": {
+   "name": "Parti Rakyat Malaysia",
+   "color": "#B22222",
+   "article": "Parti Rakyat Malaysia"
+  },
+  "sca": {
+   "name": "Sabah Chinese Association",
+   "color": "#FF4500",
+   "article": "Sabah Chinese Association"
+  },
+  "sf": {
+   "name": "Malayan Peoples' Socialist Front",
+   "color": "#C00000",
+   "article": "Malayan Peoples' Socialist Front"
+  },
+  "snap": {
+   "name": "Sarawak National Party",
+   "color": "#717190",
+   "article": "Sarawak National Party"
+  },
+  "spo": {
+   "name": "Sarawak People's Organisation",
+   "color": "#A600A6"
+  },
+  "supp": {
+   "name": "Sarawak United Peoples' Party",
+   "color": "#FFFF00",
+   "article": "Sarawak United Peoples' Party"
+  },
+  "udp": {
+   "name": "United Democratic Party",
+   "color": "#FF0000",
+   "article": "United Democratic Party (Malaysia)"
+  },
+  "usa": {
+   "name": "United Sabah Alliance",
+   "color": "#1A1A1A",
+   "article": "United Sabah Alliance"
+  },
+  "usno": {
+   "name": "United Sabah National Organisation",
+   "color": "#228B22",
+   "article": "United Sabah National Organisation"
+  },
+  "warisan": {
+   "name": "Heritage Party (Warisan)",
+   "color": "#A4E5FC",
+   "article": "Heritage Party (Malaysia)"
+  }
+ },
+ "elections": [
+  {
+   "id": "my-dewan-rakyat-1955",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1955-07-27",
+   "note": "Federal Legislative Council, before independence",
+   "totalSeats": 52,
+   "turnout": 82.84,
+   "source": {
+    "name": "Wikipedia, citing Carnell, The Malayan Elections (1955)",
+    "url": "https://en.wikipedia.org/wiki/1955_Malayan_general_election",
+    "revid": 1364463052
+   },
+   "candidates": [
+    {
+     "name": "Alliance Party",
+     "party": "alliance",
+     "votes": 818013,
+     "pct": 81.68,
+     "seats": 51,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Pan-Malayan Islamic Party",
+     "party": "pas",
+     "votes": 40667,
+     "pct": 4.06,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Parti Negara",
+     "party": "negara",
+     "votes": 78909,
+     "pct": 7.88,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 31642,
+     "pct": 3.16,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "National Association of Perak",
+     "party": "natperak",
+     "votes": 20996,
+     "pct": 2.1,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 11300,
+     "pct": 1.13,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "alliance",
+    "01": "alliance",
+    "02": "alliance",
+    "03": "alliance",
+    "04": "alliance",
+    "05": "alliance",
+    "06": "alliance",
+    "07": "alliance",
+    "08": "alliance",
+    "09": "alliance"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1955_Malayan_general_election",
+   "voted": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "14",
+    "16"
+   ],
+   "notes": "Seats are the 52 elected seats of the 98-member Federal Legislative Council; the other members were not elected. The Alliance row is the table's subtotal for UMNO, the MCA and the MIC. No seat-change column. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor. Only the states of Malaya voted (Kuala Lumpur and Putrajaya were then part of Selangor), so Sabah, Sarawak and Labuan show no race."
+  },
+  {
+   "id": "my-dewan-rakyat-1959",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1959-08-19",
+   "totalSeats": 104,
+   "turnout": 73.34,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1959_Malayan_general_election",
+    "revid": 1364305582
+   },
+   "candidates": [
+    {
+     "name": "Alliance Party",
+     "party": "alliance",
+     "votes": 800944,
+     "pct": 51.77,
+     "seats": 74,
+     "change": 23,
+     "winner": true
+    },
+    {
+     "name": "Pan-Malayan Islamic Party",
+     "party": "pas",
+     "votes": 329070,
+     "pct": 21.27,
+     "seats": 13,
+     "change": 12
+    },
+    {
+     "name": "Malayan Peoples' Socialist Front",
+     "party": "sf",
+     "votes": 199688,
+     "pct": 12.91,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "People's Progressive Party",
+     "party": "ppp",
+     "votes": 97391,
+     "pct": 6.29,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 74194,
+     "pct": 4.8,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "Parti Negara",
+     "party": "negara",
+     "votes": 32578,
+     "pct": 2.11,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Malayan Party",
+     "party": "malayanparty",
+     "votes": 13404,
+     "pct": 0.87,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "pas",
+    "01": "alliance",
+    "02": "alliance",
+    "03": "pas",
+    "04": "alliance",
+    "05": "alliance",
+    "06": "alliance",
+    "07": "alliance",
+    "08": "alliance",
+    "09": "alliance"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1959_Malayan_general_election",
+   "voted": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "14",
+    "16"
+   ],
+   "notes": "Coalition rows are the table's subtotals (Alliance: UMNO, MCA, MIC; Socialist Front: Labour Party and Parti Ra'ayat). Polling in Kedah Tengah was delayed to 30 September (lead). Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor. Only the states of Malaya voted (Kuala Lumpur and Putrajaya were then part of Selangor), so Sabah, Sarawak and Labuan show no race."
+  },
+  {
+   "id": "my-dewan-rakyat-1964",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1964-04-25",
+   "note": "Only Malaya voted",
+   "totalSeats": 104,
+   "turnout": 80.03,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1964_Malaysian_general_election",
+    "revid": 1329548351
+   },
+   "candidates": [
+    {
+     "name": "Alliance Party",
+     "party": "alliance",
+     "votes": 1204340,
+     "pct": 58.53,
+     "seats": 89,
+     "change": 15,
+     "winner": true
+    },
+    {
+     "name": "Pan-Malayan Islamic Party",
+     "party": "pas",
+     "votes": 301187,
+     "pct": 14.64,
+     "seats": 9,
+     "change": -4
+    },
+    {
+     "name": "Malayan Peoples' Socialist Front",
+     "party": "sf",
+     "votes": 330898,
+     "pct": 16.08,
+     "seats": 2,
+     "change": -6
+    },
+    {
+     "name": "People's Progressive Party",
+     "party": "ppp",
+     "votes": 69898,
+     "pct": 3.4,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "United Democratic Party",
+     "party": "udp",
+     "votes": 88223,
+     "pct": 4.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Action Party",
+     "party": "pap",
+     "votes": 42130,
+     "pct": 2.05,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20828,
+     "pct": 1.01,
+     "seats": 0,
+     "change": -4
+    }
+   ],
+   "regionWinners": {
+    "11": "alliance",
+    "01": "alliance",
+    "02": "alliance",
+    "03": "pas",
+    "04": "alliance",
+    "05": "alliance",
+    "06": "alliance",
+    "07": "alliance",
+    "08": "alliance",
+    "09": "alliance"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1964_Malaysian_general_election",
+   "voted": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "14",
+    "16"
+   ],
+   "notes": "Voting took place in 104 of the 159 constituencies; no elections were held in Sabah, Sarawak or Singapore, whose 55 members (shown in the table's Appointed column) are left out, so seats are the 104 elected seats. Coalition rows are the table's subtotals. Turnout is the infobox's figure; the table gives 78.92% of the electorate in contested seats. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor. Only the states of Malaya voted (Kuala Lumpur and Putrajaya were then part of Selangor), so Sabah, Sarawak and Labuan show no race."
+  },
+  {
+   "id": "my-dewan-rakyat-1969",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1969-05-10",
+   "totalSeats": 144,
+   "turnout": 73.59,
+   "source": {
+    "name": "Wikipedia, citing the Constituency-Level Elections Archive (CLEA)",
+    "url": "https://en.wikipedia.org/wiki/1969_Malaysian_general_election",
+    "revid": 1339829306
+   },
+   "candidates": [
+    {
+     "name": "Alliance Party",
+     "party": "alliance",
+     "votes": 1077499,
+     "pct": 44.96,
+     "seats": 74,
+     "change": -22,
+     "winner": true
+    },
+    {
+     "name": "Democratic Action Party",
+     "party": "dap",
+     "votes": 286606,
+     "pct": 11.96,
+     "seats": 13,
+     "change": 12
+    },
+    {
+     "name": "United Sabah National Organisation",
+     "party": "usno",
+     "votes": 13634,
+     "pct": 0.57,
+     "seats": 13,
+     "change": 7
+    },
+    {
+     "name": "Pan-Malayan Islamic Party",
+     "party": "pas",
+     "votes": 501123,
+     "pct": 20.91,
+     "seats": 12,
+     "change": 3
+    },
+    {
+     "name": "Sarawak National Party",
+     "party": "snap",
+     "votes": 64593,
+     "pct": 2.69,
+     "seats": 9,
+     "change": 5
+    },
+    {
+     "name": "Parti Gerakan Rakyat Malaysia",
+     "party": "gerakan",
+     "votes": 178971,
+     "pct": 7.47,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Sarawak United Peoples' Party",
+     "party": "supp",
+     "votes": 72754,
+     "pct": 3.04,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "People's Progressive Party",
+     "party": "ppp",
+     "votes": 80756,
+     "pct": 3.37,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Sabah Chinese Association",
+     "party": "sca",
+     "votes": 18313,
+     "pct": 0.76,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Parti Pesaka Sarawak",
+     "party": "pbb",
+     "votes": 30765,
+     "pct": 1.28,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 42904,
+     "pct": 1.79,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Parti Sosialis Rakyat Malaysia",
+     "party": "prm",
+     "votes": 27110,
+     "pct": 1.13,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1808,
+     "pct": 0.08,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "alliance",
+    "13": "snap",
+    "01": "alliance",
+    "02": "alliance",
+    "03": "pas",
+    "04": "alliance",
+    "06": "alliance",
+    "07": "gerakan",
+    "08": "alliance",
+    "09": "alliance"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1969_Malaysian_general_election",
+   "notes": "Peninsular Malaysia voted on 10 May 1969; polling in Sabah and Sarawak was postponed and held between 6 June and 4 July 1970 (lead), and the table includes those seats. The Alliance row is the table's figure for the whole coalition, including its Sarawak partners (the table notes the Sarawak Alliance contested under the Alliance flag); the Sabah parties USNO and the Sabah Chinese Association are separate rows in the table. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Sabah, Selangor. Tied: Negri Sembilan."
+  },
+  {
+   "id": "my-dewan-rakyat-1974",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1974-09-14",
+   "totalSeats": 154,
+   "turnout": 75.01,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook, and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1974_Malaysian_general_election",
+    "revid": 1364305606
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 1287463,
+     "pct": 60.73,
+     "seats": 135,
+     "change": 14,
+     "winner": true
+    },
+    {
+     "name": "Democratic Action Party",
+     "party": "dap",
+     "votes": 387845,
+     "pct": 18.3,
+     "seats": 9,
+     "change": -4
+    },
+    {
+     "name": "Sarawak National Party",
+     "party": "snap",
+     "votes": 117503,
+     "pct": 5.54,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Malaysian Social Justice Party",
+     "party": "pekemas",
+     "votes": 108709,
+     "pct": 5.13,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 124202,
+     "pct": 5.86,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Parti Sosialis Rakyat Malaysia",
+     "party": "prm",
+     "votes": 84206,
+     "pct": 3.97,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 9981,
+     "pct": 0.47,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "bn",
+    "13": "bn",
+    "01": "bn",
+    "02": "bn",
+    "03": "bn",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "bn",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1974_Malaysian_general_election",
+   "notes": "Polling ran from 24 August to 14 September 1974; the last day is used. Candidates were returned unopposed in 47 constituencies (lead). The Barisan Nasional row is the table's figure for the whole coalition. Turnout is the infobox's figure; the table gives 75.10% of the electorate in contested seats. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Sabah, Selangor. Tied: Kuala Lumpur."
+  },
+  {
+   "id": "my-dewan-rakyat-1978",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1978-07-22",
+   "totalSeats": 154,
+   "turnout": 75.3,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1978_Malaysian_general_election",
+    "revid": 1361380782
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 1987907,
+     "pct": 57.23,
+     "seats": 130,
+     "change": -5,
+     "winner": true
+    },
+    {
+     "name": "Democratic Action Party",
+     "party": "dap",
+     "votes": 664433,
+     "pct": 19.13,
+     "seats": 16,
+     "change": 7
+    },
+    {
+     "name": "Pan-Malaysian Islamic Party",
+     "party": "pas",
+     "votes": 537720,
+     "pct": 15.48,
+     "seats": 5,
+     "change": -8
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 160370,
+     "pct": 4.62,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Sarawak People's Organisation",
+     "party": "spo",
+     "votes": 10150,
+     "pct": 0.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Parti Anak Jati Sarawak",
+     "party": "pajar",
+     "votes": 35009,
+     "pct": 1.01,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 77841,
+     "pct": 2.24,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "bn",
+    "13": "bn",
+    "14": "dap",
+    "01": "bn",
+    "02": "bn",
+    "03": "bn",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1978_Malaysian_general_election",
+   "notes": "Polling ran from 8 to 22 July 1978; the last day is used. The Barisan Nasional row is the table's subtotal. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Sabah, Selangor. Tied: Penang."
+  },
+  {
+   "id": "my-dewan-rakyat-1982",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1982-04-26",
+   "totalSeats": 154,
+   "turnout": 74.39,
+   "source": {
+    "name": "Wikipedia, citing the Constituency-Level Elections Archive (CLEA)",
+    "url": "https://en.wikipedia.org/wiki/1982_Malaysian_general_election",
+    "revid": 1362432366
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 2522079,
+     "pct": 60.54,
+     "seats": 132,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Democratic Action Party",
+     "party": "dap",
+     "votes": 815473,
+     "pct": 19.58,
+     "seats": 9,
+     "change": -7
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 157229,
+     "pct": 3.77,
+     "seats": 8,
+     "change": 6
+    },
+    {
+     "name": "Pan-Malaysian Islamic Party",
+     "party": "pas",
+     "votes": 602530,
+     "pct": 14.46,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 68386,
+     "pct": 1.64,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "bn",
+    "13": "bn",
+    "14": "dap",
+    "01": "bn",
+    "02": "bn",
+    "03": "bn",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "bn",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1982_Malaysian_general_election",
+   "notes": "Polling ran from 22 to 26 April 1982; the last day is used. The Barisan Nasional row is the table's subtotal. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Sabah, Selangor."
+  },
+  {
+   "id": "my-dewan-rakyat-1986",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1986-08-03",
+   "totalSeats": 177,
+   "turnout": 69.97,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook, and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1986_Malaysian_general_election",
+    "revid": 1361451733
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 2649238,
+     "pct": 57.28,
+     "seats": 148,
+     "change": 16,
+     "winner": true
+    },
+    {
+     "name": "Democratic Action Party",
+     "party": "dap",
+     "votes": 975544,
+     "pct": 21.09,
+     "seats": 24,
+     "change": 15
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 146903,
+     "pct": 3.18,
+     "seats": 4,
+     "change": -4
+    },
+    {
+     "name": "Pan-Malaysian Islamic Party",
+     "party": "pas",
+     "votes": 716952,
+     "pct": 15.5,
+     "seats": 1,
+     "change": -4
+    },
+    {
+     "name": "Parti Sosialis Rakyat Malaysia",
+     "party": "prm",
+     "votes": 59156,
+     "pct": 1.28,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 77479,
+     "pct": 1.68,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "bn",
+    "12": "bn",
+    "13": "bn",
+    "14": "dap",
+    "15": "ind",
+    "01": "bn",
+    "02": "bn",
+    "03": "bn",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "dap",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1986_Malaysian_general_election",
+   "notes": "Polling ran on 2 and 3 August 1986; the last day is used. The Barisan Nasional row is the table's subtotal. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor."
+  },
+  {
+   "id": "my-dewan-rakyat-1990",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1990-10-21",
+   "totalSeats": 180,
+   "turnout": 72.98,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook, and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1990_Malaysian_general_election",
+    "revid": 1364305675
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 2985382,
+     "pct": 53.38,
+     "seats": 127,
+     "change": -21,
+     "winner": true
+    },
+    {
+     "name": "Gagasan Rakyat",
+     "party": "gr",
+     "votes": 1113488,
+     "pct": 19.91,
+     "seats": 34,
+     "change": null
+    },
+    {
+     "name": "Angkatan Perpaduan Ummah",
+     "party": "apu",
+     "votes": 1218211,
+     "pct": 21.78,
+     "seats": 15,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 179239,
+     "pct": 3.2,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 40435,
+     "pct": 0.72,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "bn",
+    "12": "gr",
+    "13": "bn",
+    "14": "gr",
+    "15": "bn",
+    "01": "bn",
+    "02": "bn",
+    "03": "apu",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "gr",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1990_Malaysian_general_election",
+   "notes": "Polling ran on 20 and 21 October 1990; the last day is used. The table's coalition subtotals do not match its party rows: it lists Semangat 46 (825,215 votes, 8 seats) on its own while its Angkatan Perpaduan Ummah subtotal (1,218,211 votes) includes it, and its Gagasan Rakyat subtotal (1,050,198) is less than its DAP, PBS, PRM and AMIPF rows (1,178,458). Coalitions here follow the infobox: Angkatan Perpaduan Ummah with Semangat 46 (1,218,211 votes, 15 seats, 21.78%) and Gagasan Rakyat (1,113,488 votes, 34 seats, 19.91%); Barisan Nasional is the table's subtotal (2,985,382; the infobox has 2,985,392). Shares are of the table's total of 5,593,217 party votes, so they add up to 98.99%. Seat changes are the table's, where it gives them. Turnout is the table's figure (the infobox gives none). Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor."
+  },
+  {
+   "id": "my-dewan-rakyat-1995",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1995-04-25",
+   "totalSeats": 192,
+   "turnout": 68.27,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook, and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1995_Malaysian_general_election",
+    "revid": 1367194893
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 3881214,
+     "pct": 65.16,
+     "seats": 162,
+     "change": 35,
+     "winner": true
+    },
+    {
+     "name": "Gagasan Rakyat",
+     "party": "gr",
+     "votes": 910769,
+     "pct": 15.29,
+     "seats": 17,
+     "change": -17
+    },
+    {
+     "name": "Angkatan Perpaduan Ummah",
+     "party": "apu",
+     "votes": 1046687,
+     "pct": 17.57,
+     "seats": 13,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 118025,
+     "pct": 1.98,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "bn",
+    "12": "bn",
+    "13": "bn",
+    "14": "bn",
+    "15": "bn",
+    "01": "bn",
+    "02": "bn",
+    "03": "apu",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "bn",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1995_Malaysian_general_election",
+   "notes": "Polling ran on 24 and 25 April 1995; the last day is used. Coalition rows are the table's figures. The table gives Parti Rakyat Malaysia and the independents a single vote count (113,068), so both are in Others. Turnout is the table's figure (the infobox gives none). Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor."
+  },
+  {
+   "id": "my-dewan-rakyat-1999",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "1999-11-29",
+   "totalSeats": 193,
+   "turnout": 71.19,
+   "source": {
+    "name": "Wikipedia, citing Election Passport",
+    "url": "https://en.wikipedia.org/wiki/1999_Malaysian_general_election",
+    "revid": 1342537280
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 3763003,
+     "pct": 56.52,
+     "seats": 148,
+     "change": -14,
+     "winner": true
+    },
+    {
+     "name": "Barisan Alternatif",
+     "party": "ba",
+     "votes": 2681460,
+     "pct": 40.28,
+     "seats": 42,
+     "change": 26
+    },
+    {
+     "name": "United Sabah Party",
+     "party": "pbs",
+     "votes": 143338,
+     "pct": 2.15,
+     "seats": 3,
+     "change": -5
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 69692,
+     "pct": 1.05,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "ba",
+    "12": "bn",
+    "13": "bn",
+    "14": "bn",
+    "15": "bn",
+    "01": "bn",
+    "02": "ba",
+    "03": "ba",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "bn",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1999_Malaysian_general_election",
+   "notes": "Coalition rows are the table's subtotals. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Left out because the state's boundaries differed from today's (Federal territories of Malaysia: Kuala Lumpur split from Selangor in 1974, Labuan from Sabah in 1984, Putrajaya from Selangor in 2001): Selangor."
+  },
+  {
+   "id": "my-dewan-rakyat-2004",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "2004-03-21",
+   "totalSeats": 219,
+   "turnout": 72.95,
+   "source": {
+    "name": "Wikipedia, citing the Constituency-Level Elections Archive (CLEA)",
+    "url": "https://en.wikipedia.org/wiki/2004_Malaysian_general_election",
+    "revid": 1354679135
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 4437919,
+     "pct": 63.82,
+     "seats": 198,
+     "change": 50,
+     "winner": true
+    },
+    {
+     "name": "Democratic Action Party",
+     "party": "dap",
+     "votes": 687350,
+     "pct": 9.88,
+     "seats": 12,
+     "change": 2
+    },
+    {
+     "name": "Barisan Alternatif",
+     "party": "ba",
+     "votes": 1672350,
+     "pct": 24.05,
+     "seats": 8,
+     "change": -34
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 110567,
+     "pct": 1.59,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 38544,
+     "pct": 0.55,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "10": "bn",
+    "11": "bn",
+    "12": "bn",
+    "13": "bn",
+    "14": "bn",
+    "15": "bn",
+    "16": "bn",
+    "01": "bn",
+    "02": "bn",
+    "03": "bn",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "bn",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2004_Malaysian_general_election",
+   "notes": "Coalition rows are the table's subtotals. The Barisan Alternatif subtotal (1,672,350) is 6,897 less than its PAS and PKR rows; shares are of the table's total of 6,953,627 party votes. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition."
+  },
+  {
+   "id": "my-dewan-rakyat-2008",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "2008-03-08",
+   "totalSeats": 222,
+   "turnout": 75.99,
+   "source": {
+    "name": "Wikipedia, citing ElectionData.MY",
+    "url": "https://en.wikipedia.org/wiki/2008_Malaysian_general_election",
+    "revid": 1368246891
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 4082371,
+     "pct": 51.38,
+     "seats": 140,
+     "change": -58,
+     "winner": true
+    },
+    {
+     "name": "Pakatan Rakyat",
+     "party": "pr",
+     "votes": 3768222,
+     "pct": 47.43,
+     "seats": 82,
+     "change": 62
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 94088,
+     "pct": 1.18,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "10": "pr",
+    "11": "bn",
+    "12": "bn",
+    "13": "bn",
+    "14": "pr",
+    "15": "bn",
+    "16": "bn",
+    "01": "bn",
+    "02": "pr",
+    "03": "pr",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "pr",
+    "08": "bn",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2008_Malaysian_general_election",
+   "notes": "Coalition rows are the table's subtotals. Turnout is the infobox's figure; the table gives 75.62%. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition."
+  },
+  {
+   "id": "my-dewan-rakyat-2013",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "2013-05-05",
+   "note": "Followed by protests and accusations of gerrymandering",
+   "totalSeats": 222,
+   "turnout": 84.84,
+   "source": {
+    "name": "Wikipedia, citing ElectionData.MY",
+    "url": "https://en.wikipedia.org/wiki/2013_Malaysian_general_election",
+    "revid": 1368246945
+   },
+   "candidates": [
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 5237678,
+     "pct": 47.38,
+     "seats": 133,
+     "change": -5,
+     "winner": true
+    },
+    {
+     "name": "Pakatan Rakyat",
+     "party": "pr",
+     "votes": 5624319,
+     "pct": 50.88,
+     "seats": 89,
+     "change": 7
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 192890,
+     "pct": 1.74,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "10": "pr",
+    "12": "bn",
+    "13": "bn",
+    "14": "pr",
+    "15": "bn",
+    "16": "bn",
+    "01": "bn",
+    "02": "bn",
+    "03": "pr",
+    "04": "bn",
+    "05": "bn",
+    "06": "bn",
+    "07": "pr",
+    "09": "bn"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2013_Malaysian_general_election",
+   "notes": "Coalition rows are the table's subtotals. Pakatan Rakyat won more votes but fewer seats than Barisan Nasional, and the lead says the election was followed by protests and accusations of gerrymandering. Turnout is the infobox's figure; the table gives 84.63%. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state's results table, with member parties counted under their national coalition. Tied: Perak, Terengganu."
+  },
+  {
+   "id": "my-dewan-rakyat-2018",
+   "office": "Dewan Rakyat",
+   "kind": "legislative",
+   "date": "2018-05-09",
+   "totalSeats": 222,
+   "turnout": 82.33,
+   "source": {
+    "name": "Wikipedia, citing ElectionData.MY",
+    "url": "https://en.wikipedia.org/wiki/2018_Malaysian_general_election",
+    "revid": 1375500097
+   },
+   "candidates": [
+    {
+     "name": "Pakatan Harapan",
+     "party": "ph",
+     "votes": 5518906,
+     "pct": 45.68,
+     "seats": 113,
+     "change": 45,
+     "winner": true
+    },
+    {
+     "name": "Barisan Nasional",
+     "party": "bn",
+     "votes": 4081063,
+     "pct": 33.78,
+     "seats": 79,
+     "change": -54
+    },
+    {
+     "name": "Gagasan Sejahtera",
+     "party": "gs",
+     "votes": 2041200,
+     "pct": 16.89,
+     "seats": 18,
+     "change": -3
+    },
+    {
+     "name": "Sabah Heritage Party",
+     "party": "warisan",
+     "votes": 280520,
+     "pct": 2.32,
+     "seats": 8,
+     "change": 8
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 71153,
+     "pct": 0.59,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "United Sabah Alliance",
+     "party": "usa",
+     "votes": 67175,
+     "pct": 0.56,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 22962,
+     "pct": 0.19,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "10": "ph",
+    "11": "gs",
+    "12": "bn",
+    "13": "bn",
+    "14": "ph",
+    "15": "bn",
+    "16": "bn",
+    "09": "bn",
+    "02": "ph",
+    "03": "gs",
+    "08": "ph",
+    "06": "bn",
+    "05": "ph",
+    "04": "ph",
+    "01": "ph",
+    "07": "ph"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2018_Malaysian_general_election_by_parliamentary_constituency",
+   "notes": "Coalition rows are the table's subtotals; Warisan, which the infobox lists alongside Pakatan Harapan, has its own row in the table. Changes marked \"New\" in the table are stored as null. Region winners: the coalition or party with the most seats in each state and federal territory, counted from the seat summaries for each state (Penang's winners counted from its table) on the constituency results page."
+  }
+ ]
+}

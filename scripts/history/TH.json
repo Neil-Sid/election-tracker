@@ -1,0 +1,3540 @@
+{
+ "code": "TH",
+ "parties": {
+  "act": {
+   "name": "Action Coalition Party",
+   "color": "#2A3994",
+   "article": "Action Coalition Party"
+  },
+  "agri": {
+   "name": "Agriculturalist Party",
+   "color": "#AFEEEE"
+  },
+  "bjt": {
+   "name": "Bhumjaithai Party",
+   "color": "#082680",
+   "article": "Bhumjaithai Party"
+  },
+  "chartpattana": {
+   "name": "Chart Pattana Party",
+   "color": "#FA8072",
+   "article": "Chart Pattana Party (2007)"
+  },
+  "chartthai": {
+   "name": "Thai Nation Party",
+   "color": "#FF69B4",
+   "article": "Thai Nation Party"
+  },
+  "citizen": {
+   "name": "Citizen Party",
+   "color": "#707070"
+  },
+  "civilized": {
+   "name": "Thai Civilized Party",
+   "color": "#EDC65D",
+   "article": "Thai Civilized Party"
+  },
+  "community": {
+   "name": "Community Action",
+   "color": "#8B008B"
+  },
+  "ctp": {
+   "name": "Chart Thai Pattana Party",
+   "color": "#E20884",
+   "article": "Chart Thai Pattana Party"
+  },
+  "dem": {
+   "name": "Democrat Party",
+   "color": "#00A1F1",
+   "article": "Democrat Party (Thailand)"
+  },
+  "demaction": {
+   "name": "Democratic Action",
+   "color": "#BA55D3"
+  },
+  "demfront": {
+   "name": "Democratic Front",
+   "color": "#FE9059"
+  },
+  "democracy": {
+   "name": "Democracy",
+   "color": "#EE82EE"
+  },
+  "dharmacracy": {
+   "name": "Dharmacracy Party",
+   "color": "#8FBC8F"
+  },
+  "econ57": {
+   "name": "Economist Party",
+   "color": "#FFFFCC",
+   "article": "Economist Party"
+  },
+  "econ75": {
+   "name": "Economist Party (1975)",
+   "color": "#F4FF18"
+  },
+  "economic": {
+   "name": "Economic Party",
+   "color": "#FEBD00",
+   "article": "Economic Party (Thailand)"
+  },
+  "fair": {
+   "name": "Fair Party",
+   "color": "#0C4DA1"
+  },
+  "farmer": {
+   "name": "Farmer Party",
+   "color": "#AACC99"
+  },
+  "ffp": {
+   "name": "Future Forward Party",
+   "color": "#F47933",
+   "article": "Future Forward Party"
+  },
+  "forthenation": {
+   "name": "For the Nation Party",
+   "color": "#68B4AA"
+  },
+  "freepeople75": {
+   "name": "Free People's Party",
+   "color": "#D2B48C"
+  },
+  "freepeople83": {
+   "name": "Free People Party",
+   "color": "#8B008B"
+  },
+  "hydepark": {
+   "name": "Hyde Park Movement Party",
+   "color": "#000000",
+   "article": "Hyde Park Movement Party"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "indparty": {
+   "name": "Independent Party",
+   "color": "#6A59A7"
+  },
+  "jef": {
+   "name": "Joint Economic Front",
+   "color": "#A6FCF9"
+  },
+  "jup": {
+   "name": "Justice Unity Party",
+   "color": "#32CD32",
+   "article": "Justice Unity Party"
+  },
+  "labdem": {
+   "name": "Labour Democrat Party",
+   "color": "#8B4513"
+  },
+  "labour": {
+   "name": "Labour Party",
+   "color": "#DC143C",
+   "article": "Labour Party (Thailand)"
+  },
+  "ldp": {
+   "name": "Liberal Democratic Party",
+   "color": "#FFD700",
+   "article": "Liberal Democratic Party (Thailand)"
+  },
+  "leadingthai": {
+   "name": "Leading Thai Party",
+   "color": "#DEB887"
+  },
+  "liberal": {
+   "name": "Liberal Party",
+   "color": "#0000CD",
+   "article": "Liberal Party (Thailand)"
+  },
+  "localpower": {
+   "name": "Thai Local Power Party",
+   "color": "#32CD32",
+   "article": "Thai Local Power Party"
+  },
+  "mahachon": {
+   "name": "Mahachon Party",
+   "color": "#B22222",
+   "article": "Mahachon Party"
+  },
+  "mass": {
+   "name": "Mass Party",
+   "color": "#FF0000",
+   "article": "Mass Party"
+  },
+  "matchima": {
+   "name": "Neutral Democratic Party",
+   "color": "#FF0000",
+   "article": "Neutral Democratic Party"
+  },
+  "matubhum": {
+   "name": "Matubhum Party",
+   "color": "#0000CD",
+   "article": "Matubhum Party"
+  },
+  "mfp": {
+   "name": "Move Forward Party",
+   "color": "#FF7F2A",
+   "article": "Move Forward Party"
+  },
+  "motherland": {
+   "name": "Thai Motherland Party",
+   "color": "#90EE90"
+  },
+  "nap": {
+   "name": "New Aspiration Party",
+   "color": "#FFFF00",
+   "article": "New Aspiration Party"
+  },
+  "natdem": {
+   "name": "National Democrat Party",
+   "color": "#800000"
+  },
+  "nationalist": {
+   "name": "Nationalist Party",
+   "color": "#DFAB53",
+   "article": "Nationalist Party (Thailand)"
+  },
+  "natrecon": {
+   "name": "National Reconstruction",
+   "color": "#7B68EE"
+  },
+  "ndp": {
+   "name": "National Development Party",
+   "color": "#FFA500",
+   "article": "National Development Party (Thailand)"
+  },
+  "newdem": {
+   "name": "New Democracy Party",
+   "color": "#A0522D",
+   "article": "New Democracy Party (Thailand)"
+  },
+  "neweconomics": {
+   "name": "New Economics Party",
+   "color": "#7C2D89",
+   "article": "New Economics Party (Thailand)"
+  },
+  "newforce": {
+   "name": "New Force Party",
+   "color": "#008000",
+   "article": "New Force Party"
+  },
+  "newparty": {
+   "name": "New Party",
+   "color": "#172E58",
+   "article": "New Party (Thailand)"
+  },
+  "newpdp": {
+   "name": "New Palangdharma Party",
+   "color": "#008080",
+   "article": "New Palangdharma Party"
+  },
+  "newsiam": {
+   "name": "New Siam Party",
+   "color": "#FFA07A"
+  },
+  "nota": {
+   "name": "None of the above",
+   "color": "#D8D8DD"
+  },
+  "nsp": {
+   "name": "New Social Power Party",
+   "color": "#A51D33"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "palangchon": {
+   "name": "Palang Burapha Party",
+   "color": "#00BFFF",
+   "article": "Palang Burapha Party"
+  },
+  "pdp": {
+   "name": "Palang Dharma Party",
+   "color": "#B0E0E6",
+   "article": "Palang Dharma Party"
+  },
+  "peoplereform": {
+   "name": "People Reform Party",
+   "color": "#000465",
+   "article": "People Reform Party"
+  },
+  "peoplesnation": {
+   "name": "People's Nation Party",
+   "color": "#ADFF2F"
+  },
+  "pforce": {
+   "name": "People's Force",
+   "color": "#FFB6C1"
+  },
+  "pheuchartthai": {
+   "name": "Pheu Chart Thai Party",
+   "color": "#5A2B0B"
+  },
+  "pjp": {
+   "name": "People's Justice Party",
+   "color": "#FFE4B5"
+  },
+  "pp47": {
+   "name": "People's Party (1947)",
+   "color": "#0000FF"
+  },
+  "pp88": {
+   "name": "People's Party (1988)",
+   "color": "#0000FF"
+  },
+  "ppp": {
+   "name": "People's Power Party",
+   "color": "#FF4500",
+   "article": "People's Power Party (Thailand)"
+  },
+  "pprp": {
+   "name": "Palang Pracharath Party",
+   "color": "#006738",
+   "article": "Palang Pracharath Party"
+  },
+  "prachachat": {
+   "name": "Prachachat Party",
+   "color": "#BA810D",
+   "article": "Prachachat Party"
+  },
+  "prachakorn": {
+   "name": "Thai Citizen Party",
+   "color": "#00BFFF",
+   "article": "Thai Citizen Party"
+  },
+  "prachaniyom": {
+   "name": "Prachaniyom Party",
+   "color": "#EE1D23"
+  },
+  "pracharaj": {
+   "name": "Pracharaj Party",
+   "color": "#000000",
+   "article": "Pracharaj Party"
+  },
+  "progress": {
+   "name": "Progress Party",
+   "color": "#4040FF",
+   "article": "Progress Party (Thailand, 1983)"
+  },
+  "progressive": {
+   "name": "People Progressive Party",
+   "color": "#228B22"
+  },
+  "provdev": {
+   "name": "Provincial Development Party",
+   "color": "#FFD700"
+  },
+  "pt": {
+   "name": "Pheu Thai Party",
+   "color": "#E30613",
+   "article": "Pheu Thai Party"
+  },
+  "pueachat": {
+   "name": "Puea Chat Party",
+   "color": "#DDA0DD"
+  },
+  "pueapandin": {
+   "name": "Puea Pandin Party",
+   "color": "#1F1FB5",
+   "article": "Puea Pandin Party"
+  },
+  "raksanti": {
+   "name": "Rak Santi Party",
+   "color": "#008000",
+   "article": "Rak Santi Party"
+  },
+  "rakthailand": {
+   "name": "Rak Thailand Party",
+   "color": "#0000FF",
+   "article": "Rak Thailand Party"
+  },
+  "rassadorn": {
+   "name": "People Party (1986)",
+   "color": "#228B22"
+  },
+  "sahaphum": {
+   "name": "Sahaphum Party",
+   "color": "#AACC99",
+   "article": "Sahaphum Party"
+  },
+  "santichon": {
+   "name": "Peaceful People's Party",
+   "color": "#556B2F"
+  },
+  "sap": {
+   "name": "Social Action Party",
+   "color": "#00008B",
+   "article": "Social Action Party"
+  },
+  "sdf": {
+   "name": "Social Democratic Force",
+   "color": "#8B4513"
+  },
+  "sdp": {
+   "name": "Social Democratic Party",
+   "color": "#FF0000",
+   "article": "Social Democratic Party (Thailand)"
+  },
+  "seritham79": {
+   "name": "Seritham Party (1979)",
+   "color": "#FF0000"
+  },
+  "seritham92": {
+   "name": "Seritham Party (1992)",
+   "color": "#FF4500"
+  },
+  "sf": {
+   "name": "Socialist Front",
+   "color": "#FF4500",
+   "article": "Socialist Front (Thailand)"
+  },
+  "siamdem": {
+   "name": "Siam Democrat Party",
+   "color": "#030B59"
+  },
+  "sjp": {
+   "name": "Social Justice Party",
+   "color": "#32CD32",
+   "article": "Social Justice Party (Thailand)"
+  },
+  "smp": {
+   "name": "Seri Manangkhasila Party",
+   "color": "#FF0800",
+   "article": "Seri Manangkhasila Party"
+  },
+  "socagr": {
+   "name": "Social Agrarian Party",
+   "color": "#D3D3D3"
+  },
+  "socialthai": {
+   "name": "Social Thai Party",
+   "color": "#DFAB53"
+  },
+  "socnat": {
+   "name": "Social Nationalist Party",
+   "color": "#F0E68C"
+  },
+  "socprog": {
+   "name": "Social Progress Party",
+   "color": "#D2B48C"
+  },
+  "solidarity": {
+   "name": "Solidarity Party",
+   "color": "#FFD700",
+   "article": "Solidarity Party (Thailand)"
+  },
+  "sovereign": {
+   "name": "Sovereign Party",
+   "color": "#7CFC00"
+  },
+  "spt": {
+   "name": "Socialist Party of Thailand",
+   "color": "#FF0000",
+   "article": "Socialist Party of Thailand"
+  },
+  "teachers": {
+   "name": "Thai Teachers for People Party",
+   "color": "#006400"
+  },
+  "thai74": {
+   "name": "Thai Party (1974)",
+   "color": "#D2691E"
+  },
+  "thai96": {
+   "name": "Thai Party (1996)",
+   "color": "#D2691E"
+  },
+  "thaicounties": {
+   "name": "Party of Thai Counties",
+   "color": "#008C44",
+   "article": "Party of Thai Counties"
+  },
+  "thaiearth": {
+   "name": "Thai Earth Party",
+   "color": "#708090"
+  },
+  "thaifarmer": {
+   "name": "Thai Farmer Party",
+   "color": "#556B2F"
+  },
+  "thaikaomai": {
+   "name": "Thai Kao Mai Party",
+   "color": "#FFFF00",
+   "article": "Thai Kao Mai Party"
+  },
+  "thaiprotect": {
+   "name": "Thai Protection Party",
+   "color": "#FFE4C4"
+  },
+  "thairuampalang": {
+   "name": "Thai Ruam Palang Party",
+   "color": "#260570",
+   "article": "Thai Ruam Palang Party"
+  },
+  "thammathibat": {
+   "name": "Thammathibat",
+   "color": "#FF4500"
+  },
+  "thammathipat": {
+   "name": "Thammathipat Party",
+   "color": "#8B4513"
+  },
+  "tlp": {
+   "name": "Thai Liberal Party",
+   "color": "#D8B720",
+   "article": "Thai Liberal Party"
+  },
+  "tnp": {
+   "name": "Thai Nation Power Party",
+   "color": "#2E8B57"
+  },
+  "tpj": {
+   "name": "Thai People Justice Party",
+   "color": "#FF0000"
+  },
+  "tppp": {
+   "name": "Thai People Power Party",
+   "color": "#4B0082"
+  },
+  "trt": {
+   "name": "Thai Rak Thai Party",
+   "color": "#FF0000",
+   "article": "Thai Rak Thai Party"
+  },
+  "tst": {
+   "name": "Thai Sang Thai Party",
+   "color": "#7D21E0",
+   "article": "Thai Sang Thai Party"
+  },
+  "udf": {
+   "name": "United Democratic Front",
+   "color": "#CFECEC"
+  },
+  "udp": {
+   "name": "United Democrat Party",
+   "color": "#000000"
+  },
+  "utn": {
+   "name": "United Thai Nation Party",
+   "color": "#663399",
+   "article": "United Thai Nation Party"
+  },
+  "utpp": {
+   "name": "United Thai People's Party",
+   "color": "#69A69D",
+   "article": "United Thai People's Party"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#E5E5EA"
+  }
+ },
+ "elections": [
+  {
+   "id": "th-house-of-representatives-1948",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1948-01-29",
+   "totalSeats": 100,
+   "turnout": 29.5,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (Elections in Asia) and Darling",
+    "url": "https://en.wikipedia.org/wiki/1948_Siamese_general_election",
+    "revid": 1318633585
+   },
+   "candidates": [
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": null,
+     "pct": null,
+     "seats": 53,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 30,
+     "change": null
+    },
+    {
+     "name": "People's Party",
+     "party": "pp47",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "Thammathipat Party",
+     "party": "thammathipat",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    }
+   ],
+   "notes": "Seats only: the results table gives no votes by party (2,117,464 votes were cast). Its four elected rows add up to 100 seats, one more than the 99-member elected House in the lead and infobox (\"99 of the 186 seats\"), so totalSeats is the sum of the rows. The table also lists 87 royal appointees, left out here; the lead describes the appointed members as a separate 100-seat Senate. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1952",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1952-02-26",
+   "note": "Non-partisan; another 123 members were appointed",
+   "totalSeats": 123,
+   "turnout": 38.95,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1952_Thai_general_election",
+    "revid": 1341093327
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 123,
+     "change": null,
+     "winner": true
+    }
+   ],
+   "notes": "No political parties existed, so all candidates ran as independents (lead). Seats are the 123 elected seats; the table also lists the 123 appointed members who made up the other half of the House (246), left out here. No votes by party; turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1957-02",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1957-02-26",
+   "label": "February 1957",
+   "note": "Turnout seen as a sign of heavy fraud; 123 appointed members not shown",
+   "totalSeats": 160,
+   "turnout": 57.5,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. (Elections in Asia) and Darling",
+    "url": "https://en.wikipedia.org/wiki/February_1957_Thai_general_election",
+    "revid": 1341098739
+   },
+   "candidates": [
+    {
+     "name": "Seri Manangkhasila Party",
+     "party": "smp",
+     "votes": null,
+     "pct": null,
+     "seats": 86,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": null,
+     "pct": null,
+     "seats": 30,
+     "change": null
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 11,
+     "change": null
+    },
+    {
+     "name": "Thammathibat",
+     "party": "thammathibat",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Economist Party",
+     "party": "econ57",
+     "votes": null,
+     "pct": null,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Nationalist Party",
+     "party": "nationalist",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Hyde Park Movement Party",
+     "party": "hydepark",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Independent Party",
+     "party": "indparty",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "regionWinners": {
+    "11": "smp",
+    "12": "thammathibat",
+    "13": "smp",
+    "14": "smp",
+    "15": "smp",
+    "16": "smp",
+    "17": "smp",
+    "18": "smp",
+    "19": "smp",
+    "20": "smp",
+    "21": "smp",
+    "22": "smp",
+    "23": "smp",
+    "24": "smp",
+    "26": "smp",
+    "30": "smp",
+    "31": "ldp",
+    "32": "smp",
+    "40": "econ57",
+    "42": "ldp",
+    "44": "indparty",
+    "45": "ldp",
+    "46": "dem",
+    "47": "ldp",
+    "50": "ind",
+    "51": "dem",
+    "52": "dem",
+    "55": "smp",
+    "58": "smp",
+    "60": "smp",
+    "61": "smp",
+    "62": "smp",
+    "63": "dem",
+    "65": "smp",
+    "66": "smp",
+    "70": "smp",
+    "71": "smp",
+    "72": "smp",
+    "74": "thammathibat",
+    "75": "smp",
+    "76": "smp",
+    "77": "smp",
+    "80": "thammathibat",
+    "81": "smp",
+    "82": "dem",
+    "83": "dem",
+    "85": "smp",
+    "86": "dem",
+    "91": "smp",
+    "92": "dem",
+    "93": "thammathibat",
+    "94": "smp",
+    "95": "smp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/February_1957_Thai_general_election",
+   "notes": "The lead says the high turnout was an indicator of heavy fraud. Seats are the 160 elected seats; the 123 appointed members of the previous parliament, who also sat in the House (283 in all), are left out. The table gives votes (in italics) for only two parties, Seri Manangkhasila 137,735 and Democrat 118,457, far below the 5,668,566 votes cast, so votes are left null. The infobox gives the Democrats 31 seats and the by-province table has Seri Manangkhasila 85 and the Democrats 31; the results table's 86 and 30 are used. No seat-change column. Turnout is the infobox's figure. Region winners: the party with the most constituency seats in each province, from the article's by-province table (53 provinces). Left out because their boundaries changed later (Provinces of Thailand): Bangkok, Chiang Rai, Nakhon Phanom, Nong Khai, Prachinburi, Ubon Ratchathani, Udon Thani (Bangkok then covered only Phra Nakhon, with Thonburi separate; the others later lost territory to new provinces). Left out because two parties tied for most seats or the table's Others column led: Chaiyaphum, Nakhon Pathom, Narathiwat, Phetchabun, Phrae, Sisaket, Songkhla, Sukhothai, Surat Thani, Uttaradit. The table's FD, T and IP columns match the Liberal Democratic, Thammathibat and Independent parties by order and totals."
+  },
+  {
+   "id": "th-house-of-representatives-1957-12",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1957-12-15",
+   "label": "December 1957",
+   "note": "121 appointed members not shown",
+   "totalSeats": 160,
+   "turnout": 44.07,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/December_1957_Thai_general_election",
+    "revid": 1313078990
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 59,
+     "change": 51
+    },
+    {
+     "name": "Sahaphum Party",
+     "party": "sahaphum",
+     "votes": null,
+     "pct": null,
+     "seats": 44,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": null,
+     "pct": null,
+     "seats": 39,
+     "change": 9
+    },
+    {
+     "name": "Economist Party",
+     "party": "econ57",
+     "votes": null,
+     "pct": null,
+     "seats": 6,
+     "change": 3
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -6
+    },
+    {
+     "name": "Seri Manangkhasila Party",
+     "party": "smp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": -82
+    },
+    {
+     "name": "Nationalist Party",
+     "party": "nationalist",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Hyde Park Movement Party",
+     "party": "hydepark",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Independent Party",
+     "party": "indparty",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    }
+   ],
+   "notes": "Seats only: the table gives no votes by party. Seats are the 160 elected seats; the table also lists 121 appointed members (House total 281), left out here. The lead says Sahaphum won 40 seats and gives 12 December as the date; the table's 44 and the infobox's 15 December are used. Independents (59) outnumbered every party. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1969",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1969-02-10",
+   "totalSeats": 219,
+   "turnout": 49.16,
+   "source": {
+    "name": "Wikipedia, citing the Inter-Parliamentary Union",
+    "url": "https://en.wikipedia.org/wiki/1969_Thai_general_election",
+    "revid": 1330200270
+   },
+   "candidates": [
+    {
+     "name": "United Thai People's Party",
+     "party": "utpp",
+     "votes": null,
+     "pct": null,
+     "seats": 75,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 72,
+     "change": 13
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": null,
+     "pct": null,
+     "seats": 57,
+     "change": 18
+    },
+    {
+     "name": "Democratic Front",
+     "party": "demfront",
+     "votes": null,
+     "pct": null,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Joint Economic Front",
+     "party": "jef",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Citizen Party",
+     "party": "citizen",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Farmer Party",
+     "party": "farmer",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Liberal Democratic Party",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -4
+    }
+   ],
+   "notes": "Seats only: the table gives no votes by party (6,857,133 valid votes). Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1975",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1975-01-26",
+   "totalSeats": 269,
+   "turnout": 47.18,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1975_Thai_general_election",
+    "revid": 1328202708
+   },
+   "candidates": [
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 3176398,
+     "pct": 17.23,
+     "seats": 72,
+     "change": 15,
+     "winner": true
+    },
+    {
+     "name": "Social Justice Party",
+     "party": "sjp",
+     "votes": 2669736,
+     "pct": 14.48,
+     "seats": 45,
+     "change": null
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 2220897,
+     "pct": 12.05,
+     "seats": 28,
+     "change": null
+    },
+    {
+     "name": "Social Agrarian Party",
+     "party": "socagr",
+     "votes": 1387451,
+     "pct": 7.53,
+     "seats": 19,
+     "change": null
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 1982168,
+     "pct": 10.75,
+     "seats": 18,
+     "change": null
+    },
+    {
+     "name": "Social Nationalist Party",
+     "party": "socnat",
+     "votes": 1299613,
+     "pct": 7.05,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Socialist Party of Thailand",
+     "party": "spt",
+     "votes": 819489,
+     "pct": 4.45,
+     "seats": 15,
+     "change": null
+    },
+    {
+     "name": "New Force Party",
+     "party": "newforce",
+     "votes": 1113653,
+     "pct": 6.04,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "Socialist Front",
+     "party": "sf",
+     "votes": 672313,
+     "pct": 3.65,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Peaceful People's Party",
+     "party": "santichon",
+     "votes": 509718,
+     "pct": 2.76,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "People's Justice Party",
+     "party": "pjp",
+     "votes": 297102,
+     "pct": 1.61,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Thai Party",
+     "party": "thai74",
+     "votes": 313904,
+     "pct": 1.7,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "National Reconstruction",
+     "party": "natrecon",
+     "votes": 369244,
+     "pct": 2,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Democracy",
+     "party": "democracy",
+     "votes": 283990,
+     "pct": 1.54,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Sovereign Party",
+     "party": "sovereign",
+     "votes": 141607,
+     "pct": 0.77,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Thai Earth Party",
+     "party": "thaiearth",
+     "votes": 92957,
+     "pct": 0.5,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "People's Force",
+     "party": "pforce",
+     "votes": 67127,
+     "pct": 0.36,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Labour Party",
+     "party": "labour",
+     "votes": 136783,
+     "pct": 0.74,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Agriculturalist Party",
+     "party": "agri",
+     "votes": 116062,
+     "pct": 0.63,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Free People's Party",
+     "party": "freepeople75",
+     "votes": 84599,
+     "pct": 0.46,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Economist Party",
+     "party": "econ75",
+     "votes": 60962,
+     "pct": 0.33,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Provincial Development Party",
+     "party": "provdev",
+     "votes": 30103,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 589145,
+     "pct": 3.2,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 18,435,021, more than the 8,412,633 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1976",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1976-04-04",
+   "totalSeats": 279,
+   "turnout": 43.99,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1976_Thai_general_election",
+    "revid": 1341140440
+   },
+   "candidates": [
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 4745990,
+     "pct": 25.31,
+     "seats": 114,
+     "change": 42,
+     "winner": true
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 3280134,
+     "pct": 17.49,
+     "seats": 56,
+     "change": 28
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 3272170,
+     "pct": 17.45,
+     "seats": 45,
+     "change": 27
+    },
+    {
+     "name": "Social Justice Party",
+     "party": "sjp",
+     "votes": 1725568,
+     "pct": 9.2,
+     "seats": 28,
+     "change": -17
+    },
+    {
+     "name": "Social Agrarian Party",
+     "party": "socagr",
+     "votes": 672259,
+     "pct": 3.59,
+     "seats": 9,
+     "change": -10
+    },
+    {
+     "name": "Social Nationalist Party",
+     "party": "socnat",
+     "votes": 642078,
+     "pct": 3.42,
+     "seats": 8,
+     "change": -8
+    },
+    {
+     "name": "New Force Party",
+     "party": "newforce",
+     "votes": 1276208,
+     "pct": 6.81,
+     "seats": 3,
+     "change": -9
+    },
+    {
+     "name": "People's Force",
+     "party": "pforce",
+     "votes": 746985,
+     "pct": 3.98,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Socialist Party of Thailand",
+     "party": "spt",
+     "votes": 357385,
+     "pct": 1.91,
+     "seats": 2,
+     "change": -13
+    },
+    {
+     "name": "Provincial Development Party",
+     "party": "provdev",
+     "votes": 100162,
+     "pct": 0.53,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Dharmacracy Party",
+     "party": "dharmacracy",
+     "votes": 264526,
+     "pct": 1.41,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Protection Party",
+     "party": "thaiprotect",
+     "votes": 223048,
+     "pct": 1.19,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "United Democratic Front",
+     "party": "udf",
+     "votes": 196998,
+     "pct": 1.05,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Socialist Front",
+     "party": "sf",
+     "votes": 174432,
+     "pct": 0.93,
+     "seats": 1,
+     "change": -9
+    },
+    {
+     "name": "Labour Party",
+     "party": "labour",
+     "votes": 161031,
+     "pct": 0.86,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Social Thai Party",
+     "party": "socialthai",
+     "votes": 125037,
+     "pct": 0.67,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "New Siam Party",
+     "party": "newsiam",
+     "votes": 72664,
+     "pct": 0.39,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Democracy",
+     "party": "democracy",
+     "votes": 59472,
+     "pct": 0.32,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Social Progress Party",
+     "party": "socprog",
+     "votes": 25028,
+     "pct": 0.13,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Peaceful Party",
+     "party": "santichon",
+     "votes": 104084,
+     "pct": 0.56,
+     "seats": 0,
+     "change": -8
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 525552,
+     "pct": 2.8,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 18,750,811, more than the 8,619,302 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1979",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1979-04-22",
+   "totalSeats": 301,
+   "turnout": 43.9,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1979_Thai_general_election",
+    "revid": 1378195338
+   },
+   "candidates": [
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 4179174,
+     "pct": 21.26,
+     "seats": 82,
+     "change": 37,
+     "winner": true
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 6197082,
+     "pct": 31.52,
+     "seats": 63,
+     "change": null
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 2213299,
+     "pct": 11.26,
+     "seats": 38,
+     "change": -18
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 2865248,
+     "pct": 14.57,
+     "seats": 33,
+     "change": -81
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 528210,
+     "pct": 2.69,
+     "seats": 32,
+     "change": null
+    },
+    {
+     "name": "Seritham Party",
+     "party": "seritham79",
+     "votes": 979398,
+     "pct": 4.98,
+     "seats": 20,
+     "change": null
+    },
+    {
+     "name": "People's Nation Party",
+     "party": "peoplesnation",
+     "votes": 759302,
+     "pct": 3.86,
+     "seats": 13,
+     "change": null
+    },
+    {
+     "name": "New Force Party",
+     "party": "newforce",
+     "votes": 544733,
+     "pct": 2.77,
+     "seats": 8,
+     "change": 5
+    },
+    {
+     "name": "Democratic Action",
+     "party": "demaction",
+     "votes": 274591,
+     "pct": 1.4,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Social Agrarian Party",
+     "party": "socagr",
+     "votes": 239122,
+     "pct": 1.22,
+     "seats": 3,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 880160,
+     "pct": 4.48,
+     "seats": 6,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 19,660,319, more than the 8,937,074 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1983",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1983-04-18",
+   "totalSeats": 324,
+   "turnout": 50.76,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1983_Thai_general_election",
+    "revid": 1364971254
+   },
+   "candidates": [
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 7103177,
+     "pct": 26.78,
+     "seats": 92,
+     "change": 10,
+     "winner": true
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 6315568,
+     "pct": 23.81,
+     "seats": 73,
+     "change": 35
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 4144414,
+     "pct": 15.63,
+     "seats": 56,
+     "change": 23
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 2395795,
+     "pct": 9.03,
+     "seats": 36,
+     "change": 4
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 2000290,
+     "pct": 7.54,
+     "seats": 24,
+     "change": -39
+    },
+    {
+     "name": "Siam Democrat Party",
+     "party": "siamdem",
+     "votes": 839915,
+     "pct": 3.17,
+     "seats": 18,
+     "change": null
+    },
+    {
+     "name": "National Democrat Party",
+     "party": "natdem",
+     "votes": 2137780,
+     "pct": 8.06,
+     "seats": 15,
+     "change": null
+    },
+    {
+     "name": "Thai People Party",
+     "party": "ndp",
+     "votes": 180364,
+     "pct": 0.68,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Progress Party",
+     "party": "progress",
+     "votes": 338140,
+     "pct": 1.28,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": 297332,
+     "pct": 1.12,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Free People Party",
+     "party": "freepeople83",
+     "votes": 474402,
+     "pct": 1.79,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "New Force Party",
+     "party": "newforce",
+     "votes": 195340,
+     "pct": 0.74,
+     "seats": 0,
+     "change": -8
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 98204,
+     "pct": 0.37,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 26,520,721, more than the 11,797,212 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1986",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1986-07-27",
+   "totalSeats": 347,
+   "turnout": 61.43,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1986_Thai_general_election",
+    "revid": 1368168709
+   },
+   "candidates": [
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 8477701,
+     "pct": 22.52,
+     "seats": 100,
+     "change": 44,
+     "winner": true
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 6496370,
+     "pct": 17.26,
+     "seats": 63,
+     "change": -10
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 4560615,
+     "pct": 12.12,
+     "seats": 51,
+     "change": -41
+    },
+    {
+     "name": "United Democrat Party",
+     "party": "udp",
+     "votes": 3814651,
+     "pct": 10.13,
+     "seats": 38,
+     "change": null
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 2612717,
+     "pct": 6.94,
+     "seats": 24,
+     "change": -12
+    },
+    {
+     "name": "Ruam Thai Party",
+     "party": "solidarity",
+     "votes": 1658812,
+     "pct": 4.41,
+     "seats": 19,
+     "change": null
+    },
+    {
+     "name": "People Party",
+     "party": "rassadorn",
+     "votes": 2786105,
+     "pct": 7.4,
+     "seats": 18,
+     "change": null
+    },
+    {
+     "name": "Community Action",
+     "party": "community",
+     "votes": 2268346,
+     "pct": 6.03,
+     "seats": 15,
+     "change": null
+    },
+    {
+     "name": "Progress Party",
+     "party": "progress",
+     "votes": 1998721,
+     "pct": 5.31,
+     "seats": 9,
+     "change": 6
+    },
+    {
+     "name": "National Democrat Party",
+     "party": "natdem",
+     "votes": 1078128,
+     "pct": 2.86,
+     "seats": 3,
+     "change": -12
+    },
+    {
+     "name": "Mass Party",
+     "party": "mass",
+     "votes": 723758,
+     "pct": 1.92,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Liberal Party",
+     "party": "liberal",
+     "votes": 404960,
+     "pct": 1.08,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Labour Democrat Party",
+     "party": "labdem",
+     "votes": 246512,
+     "pct": 0.65,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "New Force Party",
+     "party": "newforce",
+     "votes": 232027,
+     "pct": 0.62,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Thai People Party",
+     "party": "ndp",
+     "votes": 196527,
+     "pct": 0.52,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 85241,
+     "pct": 0.23,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 37,641,191, more than the 15,506,897 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1988",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1988-07-24",
+   "totalSeats": 357,
+   "turnout": 63.56,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1988_Thai_general_election",
+    "revid": 1355635622
+   },
+   "candidates": [
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 7612148,
+     "pct": 19.29,
+     "seats": 87,
+     "change": 24,
+     "winner": true
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 4651161,
+     "pct": 11.79,
+     "seats": 54,
+     "change": 3
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 4456077,
+     "pct": 11.29,
+     "seats": 48,
+     "change": -52
+    },
+    {
+     "name": "Ruam Thai Party",
+     "party": "solidarity",
+     "votes": 3988941,
+     "pct": 10.11,
+     "seats": 34,
+     "change": 15
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 2413520,
+     "pct": 6.12,
+     "seats": 31,
+     "change": 7
+    },
+    {
+     "name": "People Party",
+     "party": "rassadorn",
+     "votes": 2336962,
+     "pct": 5.92,
+     "seats": 21,
+     "change": 3
+    },
+    {
+     "name": "People's",
+     "party": "pp88",
+     "votes": 2454870,
+     "pct": 6.22,
+     "seats": 19,
+     "change": 19
+    },
+    {
+     "name": "Thai People Party",
+     "party": "ndp",
+     "votes": 3143851,
+     "pct": 7.97,
+     "seats": 17,
+     "change": 16
+    },
+    {
+     "name": "Palang Dharma Party",
+     "party": "pdp",
+     "votes": 3586878,
+     "pct": 9.09,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Community Action",
+     "party": "community",
+     "votes": 1127418,
+     "pct": 2.86,
+     "seats": 9,
+     "change": -6
+    },
+    {
+     "name": "Progress Party",
+     "party": "progress",
+     "votes": 1114468,
+     "pct": 2.82,
+     "seats": 8,
+     "change": -1
+    },
+    {
+     "name": "United Democrat Party",
+     "party": "udp",
+     "votes": 810547,
+     "pct": 2.05,
+     "seats": 6,
+     "change": -32
+    },
+    {
+     "name": "Mass Party",
+     "party": "mass",
+     "votes": 622933,
+     "pct": 1.58,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "liberal",
+     "votes": 690486,
+     "pct": 1.75,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Social Democratic Force",
+     "party": "sdf",
+     "votes": 273932,
+     "pct": 0.69,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 179563,
+     "pct": 0.46,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 39,463,755, more than the 16,350,143 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1992-03",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1992-03-22",
+   "label": "March 1992",
+   "totalSeats": 360,
+   "turnout": 59.24,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/March_1992_Thai_general_election",
+    "revid": 1341099753
+   },
+   "candidates": [
+    {
+     "name": "Justice Unity Party",
+     "party": "jup",
+     "votes": 8578529,
+     "pct": 19.27,
+     "seats": 79,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 7305674,
+     "pct": 16.41,
+     "seats": 74,
+     "change": -13
+    },
+    {
+     "name": "New Aspiration Party",
+     "party": "nap",
+     "votes": 9980150,
+     "pct": 22.42,
+     "seats": 72,
+     "change": null
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 4705376,
+     "pct": 10.57,
+     "seats": 44,
+     "change": -4
+    },
+    {
+     "name": "Palang Dharma Party",
+     "party": "pdp",
+     "votes": 5104849,
+     "pct": 11.47,
+     "seats": 41,
+     "change": 27
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 3586714,
+     "pct": 8.06,
+     "seats": 31,
+     "change": -23
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 2280887,
+     "pct": 5.12,
+     "seats": 7,
+     "change": -24
+    },
+    {
+     "name": "Solidarity Party",
+     "party": "solidarity",
+     "votes": 1315075,
+     "pct": 2.95,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "People Party",
+     "party": "rassadorn",
+     "votes": 376580,
+     "pct": 0.85,
+     "seats": 4,
+     "change": -17
+    },
+    {
+     "name": "Mass Party",
+     "party": "mass",
+     "votes": 443568,
+     "pct": 1,
+     "seats": 1,
+     "change": -4
+    },
+    {
+     "name": "Thai People Party",
+     "party": "ndp",
+     "votes": 158037,
+     "pct": 0.36,
+     "seats": 1,
+     "change": -16
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 681512,
+     "pct": 1.53,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 44,516,951, more than the 18,668,740 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure. The Thai People Party (1 seat) is filed under the National Development Party, which its article treats as the legal successor of the Thai People's Party; the table's change of –16 matches the Thai People Party's 17 seats in 1988."
+  },
+  {
+   "id": "th-house-of-representatives-1992-09",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1992-09-13",
+   "label": "September 1992",
+   "totalSeats": 360,
+   "turnout": 61.59,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/September_1992_Thai_general_election",
+    "revid": 1378214139
+   },
+   "candidates": [
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 9703672,
+     "pct": 21.02,
+     "seats": 79,
+     "change": 35,
+     "winner": true
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 7274474,
+     "pct": 15.76,
+     "seats": 77,
+     "change": 3
+    },
+    {
+     "name": "National Development Party",
+     "party": "ndp",
+     "votes": 7332388,
+     "pct": 15.88,
+     "seats": 60,
+     "change": 59
+    },
+    {
+     "name": "New Aspiration Party",
+     "party": "nap",
+     "votes": 6576092,
+     "pct": 14.24,
+     "seats": 51,
+     "change": -21
+    },
+    {
+     "name": "Palang Dharma Party",
+     "party": "pdp",
+     "votes": 8293457,
+     "pct": 17.96,
+     "seats": 47,
+     "change": 6
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 1863360,
+     "pct": 4.04,
+     "seats": 22,
+     "change": -9
+    },
+    {
+     "name": "Seritham Party",
+     "party": "seritham92",
+     "votes": 1645776,
+     "pct": 3.56,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Solidarity Party",
+     "party": "solidarity",
+     "votes": 1067237,
+     "pct": 2.31,
+     "seats": 8,
+     "change": 2
+    },
+    {
+     "name": "Mass Party",
+     "party": "mass",
+     "votes": 681718,
+     "pct": 1.48,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 1413032,
+     "pct": 3.06,
+     "seats": 3,
+     "change": -4
+    },
+    {
+     "name": "People Party",
+     "party": "rassadorn",
+     "votes": 242221,
+     "pct": 0.52,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 73460,
+     "pct": 0.16,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 46,166,887, more than the 19,118,798 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-1995",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1995-07-02",
+   "totalSeats": 391,
+   "turnout": 62.04,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1995_Thai_general_election",
+    "revid": 1376168853
+   },
+   "candidates": [
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 12630074,
+     "pct": 22.83,
+     "seats": 92,
+     "change": 15,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 12325423,
+     "pct": 22.28,
+     "seats": 86,
+     "change": 7
+    },
+    {
+     "name": "New Aspiration Party",
+     "party": "nap",
+     "votes": 6806621,
+     "pct": 12.3,
+     "seats": 57,
+     "change": 6
+    },
+    {
+     "name": "National Development Party",
+     "party": "ndp",
+     "votes": 6612504,
+     "pct": 11.95,
+     "seats": 53,
+     "change": -7
+    },
+    {
+     "name": "Palang Dharma Party",
+     "party": "pdp",
+     "votes": 4209135,
+     "pct": 7.61,
+     "seats": 23,
+     "change": -24
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 2201218,
+     "pct": 3.98,
+     "seats": 22,
+     "change": 0
+    },
+    {
+     "name": "Leading Thai Party",
+     "party": "leadingthai",
+     "votes": 3474142,
+     "pct": 6.28,
+     "seats": 18,
+     "change": null
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 2476218,
+     "pct": 4.48,
+     "seats": 18,
+     "change": 15
+    },
+    {
+     "name": "Seritham Party",
+     "party": "seritham92",
+     "votes": 1716786,
+     "pct": 3.1,
+     "seats": 11,
+     "change": 3
+    },
+    {
+     "name": "Solidarity Party",
+     "party": "solidarity",
+     "votes": 1361719,
+     "pct": 2.46,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Mass Party",
+     "party": "mass",
+     "votes": 1309381,
+     "pct": 2.37,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 195835,
+     "pct": 0.35,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 55,319,056, more than the 22,784,030 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure. The lead says vote buying was among the most prevalent to date."
+  },
+  {
+   "id": "th-house-of-representatives-1996",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1996-11-17",
+   "totalSeats": 393,
+   "turnout": 62.42,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1996_Thai_general_election",
+    "revid": 1340940884
+   },
+   "candidates": [
+    {
+     "name": "New Aspiration Party",
+     "party": "nap",
+     "votes": 16585528,
+     "pct": 29.14,
+     "seats": 125,
+     "change": 68,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 18087006,
+     "pct": 31.78,
+     "seats": 123,
+     "change": 37
+    },
+    {
+     "name": "National Development Party",
+     "party": "ndp",
+     "votes": 7044304,
+     "pct": 12.38,
+     "seats": 52,
+     "change": -1
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 5621890,
+     "pct": 9.88,
+     "seats": 39,
+     "change": -53
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 3036544,
+     "pct": 5.33,
+     "seats": 20,
+     "change": -2
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 2330135,
+     "pct": 4.09,
+     "seats": 18,
+     "change": 0
+    },
+    {
+     "name": "Solidarity Party",
+     "party": "solidarity",
+     "votes": 1011299,
+     "pct": 1.78,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Seritham Party",
+     "party": "seritham92",
+     "votes": 708430,
+     "pct": 1.24,
+     "seats": 4,
+     "change": -7
+    },
+    {
+     "name": "Mass Party",
+     "party": "mass",
+     "votes": 680204,
+     "pct": 1.2,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Palang Dharma Party",
+     "party": "pdp",
+     "votes": 1550170,
+     "pct": 2.72,
+     "seats": 1,
+     "change": -22
+    },
+    {
+     "name": "Thai Party",
+     "party": "thai96",
+     "votes": 164464,
+     "pct": 0.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 97602,
+     "pct": 0.17,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The parties' votes add up to 56,917,576, more than the 23,438,248 valid ballots, so they count votes cast for candidates rather than ballots; shares are of that total, as the table gives them. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-2001",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2001-01-06",
+   "totalSeats": 500,
+   "turnout": 69.43,
+   "source": {
+    "name": "Wikipedia, citing Nelson's study of the 2001 House elections",
+    "url": "https://en.wikipedia.org/wiki/2001_Thai_general_election",
+    "revid": 1335752031
+   },
+   "candidates": [
+    {
+     "name": "Thai Rak Thai",
+     "party": "trt",
+     "votes": 11565103,
+     "pct": 39.91,
+     "seats": 248,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 7494738,
+     "pct": 25.86,
+     "seats": 128,
+     "change": null
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 1516192,
+     "pct": 5.23,
+     "seats": 41,
+     "change": null
+    },
+    {
+     "name": "New Aspiration Party",
+     "party": "nap",
+     "votes": 1996227,
+     "pct": 6.89,
+     "seats": 36,
+     "change": null
+    },
+    {
+     "name": "National Development Party",
+     "party": "ndp",
+     "votes": 1752981,
+     "pct": 6.05,
+     "seats": 29,
+     "change": null
+    },
+    {
+     "name": "Seritham Party",
+     "party": "seritham92",
+     "votes": 821736,
+     "pct": 2.84,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "People's Party",
+     "party": "mahachon",
+     "votes": 358127,
+     "pct": 1.24,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Thai Motherland Party",
+     "party": "motherland",
+     "votes": 606679,
+     "pct": 2.09,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Social Action Party",
+     "party": "sap",
+     "votes": 45089,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 339199,
+     "pct": 1.17,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1935927,
+     "pct": 6.68,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Blank votes",
+     "party": "nota",
+     "votes": 544731,
+     "pct": 1.88
+    }
+   ],
+   "notes": "Votes and shares are the party-list vote; seats are the total of constituency and party-list seats. Shares are of the table's vote total, which counts 544,731 blank votes as valid; they are kept as their own row so shares add up. No seat-change column. Turnout is the infobox's figure."
+  },
+  {
+   "id": "th-house-of-representatives-2005",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2005-02-06",
+   "totalSeats": 500,
+   "turnout": 72.56,
+   "source": {
+    "name": "Wikipedia, citing the Election Commission of Thailand",
+    "url": "https://en.wikipedia.org/wiki/2005_Thai_general_election",
+    "revid": 1335751459
+   },
+   "candidates": [
+    {
+     "name": "Thai Rak Thai Party",
+     "party": "trt",
+     "votes": 18993073,
+     "pct": 60.48,
+     "seats": 377,
+     "change": 129,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 7210742,
+     "pct": 22.96,
+     "seats": 96,
+     "change": -32
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 2061559,
+     "pct": 6.56,
+     "seats": 25,
+     "change": -16
+    },
+    {
+     "name": "Mahachon Party",
+     "party": "mahachon",
+     "votes": 1346631,
+     "pct": 4.29,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "New Aspiration Party",
+     "party": "nap",
+     "votes": 88951,
+     "pct": 0.28,
+     "seats": 0,
+     "change": -36
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1347267,
+     "pct": 4.29,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Blank votes",
+     "party": "nota",
+     "votes": 357515,
+     "pct": 1.14
+    }
+   ],
+   "regionWinners": {
+    "10": "trt",
+    "11": "trt",
+    "12": "trt",
+    "13": "trt",
+    "14": "trt",
+    "16": "trt",
+    "17": "trt",
+    "18": "trt",
+    "19": "trt",
+    "20": "trt",
+    "21": "trt",
+    "22": "trt",
+    "23": "dem",
+    "24": "trt",
+    "25": "trt",
+    "26": "trt",
+    "27": "trt",
+    "30": "trt",
+    "31": "trt",
+    "32": "trt",
+    "33": "trt",
+    "34": "trt",
+    "35": "trt",
+    "36": "trt",
+    "37": "trt",
+    "39": "trt",
+    "40": "trt",
+    "41": "trt",
+    "42": "trt",
+    "44": "trt",
+    "45": "trt",
+    "46": "trt",
+    "47": "trt",
+    "48": "trt",
+    "50": "trt",
+    "51": "trt",
+    "52": "trt",
+    "53": "trt",
+    "54": "trt",
+    "55": "trt",
+    "56": "trt",
+    "57": "trt",
+    "58": "trt",
+    "60": "trt",
+    "62": "trt",
+    "63": "dem",
+    "64": "trt",
+    "65": "trt",
+    "66": "trt",
+    "67": "trt",
+    "70": "trt",
+    "71": "trt",
+    "72": "chartthai",
+    "73": "trt",
+    "74": "trt",
+    "75": "dem",
+    "76": "dem",
+    "77": "dem",
+    "80": "dem",
+    "81": "dem",
+    "83": "dem",
+    "84": "dem",
+    "85": "dem",
+    "86": "dem",
+    "90": "dem",
+    "91": "dem",
+    "92": "dem",
+    "93": "dem",
+    "94": "dem",
+    "95": "dem",
+    "96": "dem"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2005_Thai_general_election",
+   "notes": "Votes and shares are the party-list vote; seats are the total of constituency and party-list seats. Shares are of the table's vote total, which counts 357,515 blank votes as valid; they are kept as their own row so shares add up. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure. Region winners: the party with the most constituency seats in each province, from the article's by-province table (71 provinces). Left out because their boundaries changed later (Provinces of Thailand): Nong Khai (Nong Khai then included Bueng Kan, split off in 2011). Left out because two parties tied for most seats or the table's Others column led: Ang Thong, Mukdahan, Phang Nga, Uthai Thani."
+  },
+  {
+   "id": "th-house-of-representatives-2006",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2006-04-02",
+   "note": "Annulled by the Constitutional Court; main opposition parties boycotted",
+   "annulled": true,
+   "totalSeats": 500,
+   "turnout": 64.77,
+   "source": {
+    "name": "Wikipedia, citing Psephos and Thai Rath",
+    "url": "https://en.wikipedia.org/wiki/2006_Thai_general_election",
+    "revid": 1368797370
+   },
+   "candidates": [
+    {
+     "name": "Thai Rak Thai Party",
+     "party": "trt",
+     "votes": 16420755,
+     "pct": 59.91,
+     "seats": 461,
+     "change": null
+    },
+    {
+     "name": "Thai Farmer Party",
+     "party": "thaifarmer",
+     "votes": 675662,
+     "pct": 2.47,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "People's Power Party",
+     "party": "ppp",
+     "votes": 305015,
+     "pct": 1.11,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Thai Citizen Party",
+     "party": "prachakorn",
+     "votes": 292895,
+     "pct": 1.07,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 662075,
+     "pct": 2.42,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Blank votes",
+     "party": "nota",
+     "votes": 9051706,
+     "pct": 33.03
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "seats": 39
+    }
+   ],
+   "notes": "Votes and shares are the party-list vote; seats are the total of constituency and party-list seats. Shares are of the table's vote total, which counts 9,051,706 blank votes as valid; they are kept as their own row so shares add up. No seat-change column. Turnout is the infobox's figure. The Democrat, Thai Nation and Mahachon parties boycotted the election, and many voters used the abstain option, recorded here as None of the above (the table's \"Blank votes\"). The Constitutional Court invalidated the result and the new election set for October 2006 was cancelled by the coup. The table's \"Vacant seats\" row (39 constituency seats left unfilled; the lead says TRT candidates in a number of southern seats failed to reach the required 20% of registered voters) is kept as Vacant. Thai Rak Thai won 461 seats; no winner is flagged because the election was annulled."
+  },
+  {
+   "id": "th-house-of-representatives-2007",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2007-12-23",
+   "totalSeats": 480,
+   "turnout": 72.4,
+   "source": {
+    "name": "Wikipedia, citing the Election Commission of Thailand",
+    "url": "https://en.wikipedia.org/wiki/2007_Thai_general_election",
+    "revid": 1378981817
+   },
+   "candidates": [
+    {
+     "name": "People's Power Party",
+     "party": "ppp",
+     "votes": 12338903,
+     "pct": 39.84,
+     "seats": 233,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 12148504,
+     "pct": 39.23,
+     "seats": 164,
+     "change": null
+    },
+    {
+     "name": "Thai Nation Party",
+     "party": "chartthai",
+     "votes": 1213532,
+     "pct": 3.92,
+     "seats": 34,
+     "change": null
+    },
+    {
+     "name": "Puea Pandin Party",
+     "party": "pueapandin",
+     "votes": 1596500,
+     "pct": 5.16,
+     "seats": 24,
+     "change": null
+    },
+    {
+     "name": "Neutral Democratic Party",
+     "party": "matchima",
+     "votes": 450382,
+     "pct": 1.45,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "Ruam Jai Thai Chart Pattana Party",
+     "party": "chartpattana",
+     "votes": 740461,
+     "pct": 2.39,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Pracharaj Party",
+     "party": "pracharaj",
+     "votes": 408851,
+     "pct": 1.32,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1136365,
+     "pct": 3.67,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Blank votes",
+     "party": "nota",
+     "votes": 935306,
+     "pct": 3.02
+    }
+   ],
+   "regionWinners": {
+    "10": "dem",
+    "11": "ppp",
+    "12": "ppp",
+    "13": "ppp",
+    "14": "ppp",
+    "15": "chartthai",
+    "16": "ppp",
+    "17": "chartthai",
+    "18": "chartthai",
+    "20": "dem",
+    "21": "dem",
+    "22": "dem",
+    "23": "dem",
+    "24": "ppp",
+    "25": "ppp",
+    "27": "pracharaj",
+    "30": "pueapandin",
+    "31": "ppp",
+    "32": "ppp",
+    "33": "ppp",
+    "34": "ppp",
+    "35": "pueapandin",
+    "36": "ppp",
+    "39": "ppp",
+    "40": "ppp",
+    "41": "ppp",
+    "42": "ppp",
+    "44": "ppp",
+    "45": "ppp",
+    "46": "ppp",
+    "47": "ppp",
+    "48": "ppp",
+    "50": "ppp",
+    "51": "ppp",
+    "52": "ppp",
+    "53": "ppp",
+    "54": "ppp",
+    "55": "ppp",
+    "56": "ppp",
+    "57": "ppp",
+    "61": "chartthai",
+    "62": "dem",
+    "63": "dem",
+    "64": "dem",
+    "65": "dem",
+    "66": "chartthai",
+    "67": "ppp",
+    "70": "dem",
+    "71": "ppp",
+    "72": "chartthai",
+    "73": "ppp",
+    "74": "dem",
+    "75": "dem",
+    "76": "dem",
+    "77": "dem",
+    "80": "dem",
+    "81": "dem",
+    "82": "dem",
+    "83": "dem",
+    "84": "dem",
+    "85": "dem",
+    "86": "dem",
+    "90": "dem",
+    "91": "dem",
+    "92": "dem",
+    "93": "dem",
+    "95": "dem",
+    "96": "chartthai"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2007_Thai_general_election",
+   "notes": "Votes and shares are the proportional vote; seats are the total of constituency and proportional seats. Shares are of the table's vote total, which counts 935,306 blank votes as valid; they are kept as their own row so shares add up. No seat-change column. Turnout is the infobox's figure. Constituencies elected up to three members each (Electoral system section), so the proportional vote, cast for eight regional lists, is used. The lead and the by-province table (citing the National Assembly) give different seat totals (Democrats 165, Thai Nation 37, Neutral Democratic 7, Pracharaj 5); the results table, citing the Election Commission, is used for national figures. Region winners: the party with the most constituency seats in each province, from the article's by-province table (68 provinces). Left out because their boundaries changed later (Provinces of Thailand): Nong Khai (Nong Khai then included Bueng Kan, split off in 2011). Left out because two parties tied for most seats or the table's Others column led: Amnat Charoen, Mae Hong Son, Mukdahan, Nakhon Nayok, Nakhon Sawan, Pattani, Saraburi."
+  },
+  {
+   "id": "th-house-of-representatives-2011",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2011-07-03",
+   "totalSeats": 500,
+   "turnout": 75.03,
+   "source": {
+    "name": "Wikipedia, citing the Election Commission of Thailand",
+    "url": "https://en.wikipedia.org/wiki/2011_Thai_general_election",
+    "revid": 1378982512
+   },
+   "candidates": [
+    {
+     "name": "Pheu Thai Party",
+     "party": "pt",
+     "votes": 15752470,
+     "pct": 47.03,
+     "seats": 265,
+     "change": 32,
+     "winner": true
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 11435640,
+     "pct": 34.14,
+     "seats": 159,
+     "change": -5
+    },
+    {
+     "name": "Bhumjaithai Party",
+     "party": "bjt",
+     "votes": 1281652,
+     "pct": 3.83,
+     "seats": 34,
+     "change": null
+    },
+    {
+     "name": "Chartthaipattana Party",
+     "party": "ctp",
+     "votes": 907106,
+     "pct": 2.71,
+     "seats": 19,
+     "change": -15
+    },
+    {
+     "name": "Chart Pattana Puea Pandin Party",
+     "party": "chartpattana",
+     "votes": 495762,
+     "pct": 1.48,
+     "seats": 7,
+     "change": -26
+    },
+    {
+     "name": "Phalang Chon Party",
+     "party": "palangchon",
+     "votes": 178042,
+     "pct": 0.53,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Rak Thailand Party",
+     "party": "rakthailand",
+     "votes": 998668,
+     "pct": 2.98,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Matubhum Party",
+     "party": "matubhum",
+     "votes": 251674,
+     "pct": 0.75,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Rak Santi Party",
+     "party": "raksanti",
+     "votes": 284100,
+     "pct": 0.85,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Mahachon Party",
+     "party": "mahachon",
+     "votes": 133752,
+     "pct": 0.4,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "New Democracy Party",
+     "party": "newdem",
+     "votes": 125753,
+     "pct": 0.38,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 690608,
+     "pct": 2.06,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Blank votes",
+     "party": "nota",
+     "votes": 958213,
+     "pct": 2.86
+    }
+   ],
+   "regionWinners": {
+    "10": "dem",
+    "11": "pt",
+    "12": "pt",
+    "13": "pt",
+    "14": "pt",
+    "15": "ctp",
+    "17": "pt",
+    "18": "bjt",
+    "19": "pt",
+    "20": "palangchon",
+    "21": "dem",
+    "22": "dem",
+    "23": "dem",
+    "25": "bjt",
+    "26": "bjt",
+    "27": "pt",
+    "30": "pt",
+    "31": "bjt",
+    "32": "pt",
+    "33": "pt",
+    "34": "pt",
+    "35": "pt",
+    "36": "pt",
+    "38": "pt",
+    "39": "pt",
+    "40": "pt",
+    "41": "pt",
+    "42": "pt",
+    "43": "pt",
+    "44": "pt",
+    "45": "pt",
+    "46": "pt",
+    "47": "pt",
+    "48": "pt",
+    "49": "pt",
+    "50": "pt",
+    "51": "pt",
+    "52": "pt",
+    "53": "pt",
+    "54": "pt",
+    "55": "pt",
+    "56": "pt",
+    "57": "pt",
+    "58": "dem",
+    "60": "pt",
+    "62": "pt",
+    "63": "dem",
+    "65": "dem",
+    "66": "ctp",
+    "67": "pt",
+    "70": "bjt",
+    "71": "dem",
+    "72": "ctp",
+    "73": "pt",
+    "74": "dem",
+    "75": "dem",
+    "76": "dem",
+    "77": "dem",
+    "80": "dem",
+    "81": "dem",
+    "82": "dem",
+    "83": "dem",
+    "84": "dem",
+    "85": "dem",
+    "86": "dem",
+    "90": "dem",
+    "92": "dem",
+    "93": "dem",
+    "94": "dem",
+    "95": "dem",
+    "96": "dem"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2011_Thai_general_election",
+   "notes": "Votes and shares are the party-list vote; seats are the total of constituency and party-list seats. Shares are of the table's vote total, which counts 958,213 blank votes as valid; they are kept as their own row so shares add up. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure. Region winners: the party with the most constituency seats in each province, from the article's by-province table (71 provinces). Left out because two parties tied for most seats or the table's Others column led: Amnat Charoen, Chachoengsao, Lopburi, Satun, Sukhothai, Uthai Thani."
+  },
+  {
+   "id": "th-house-of-representatives-2019",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2019-03-24",
+   "note": "Widely seen as a skewed race favouring junta leader Prayut",
+   "totalSeats": 500,
+   "turnout": 74.69,
+   "source": {
+    "name": "Wikipedia, citing the Election Commission of Thailand",
+    "url": "https://en.wikipedia.org/wiki/2019_Thai_general_election",
+    "revid": 1378185167
+   },
+   "candidates": [
+    {
+     "name": "Pheu Thai Party",
+     "party": "pt",
+     "votes": 7920630,
+     "pct": 21.92,
+     "seats": 136,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Palang Pracharat Party",
+     "party": "pprp",
+     "votes": 8433137,
+     "pct": 23.34,
+     "seats": 116,
+     "change": null
+    },
+    {
+     "name": "Future Forward Party",
+     "party": "ffp",
+     "votes": 6265950,
+     "pct": 17.34,
+     "seats": 81,
+     "change": null
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 3947726,
+     "pct": 10.92,
+     "seats": 53,
+     "change": null
+    },
+    {
+     "name": "Bhumjaithai Party",
+     "party": "bjt",
+     "votes": 3732883,
+     "pct": 10.33,
+     "seats": 51,
+     "change": null
+    },
+    {
+     "name": "Thai Liberal Party",
+     "party": "tlp",
+     "votes": 826530,
+     "pct": 2.29,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Chartthaipattana Party",
+     "party": "ctp",
+     "votes": 782031,
+     "pct": 2.16,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Prachachart Party",
+     "party": "prachachat",
+     "votes": 485436,
+     "pct": 1.34,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "New Economics Party",
+     "party": "neweconomics",
+     "votes": 485664,
+     "pct": 1.34,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Puea Chat Party",
+     "party": "pueachat",
+     "votes": 419393,
+     "pct": 1.16,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Action Coalition for Thailand",
+     "party": "act",
+     "votes": 416324,
+     "pct": 1.15,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Chart Pattana Party",
+     "party": "chartpattana",
+     "votes": 252044,
+     "pct": 0.7,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Thai Local Power Party",
+     "party": "localpower",
+     "votes": 213129,
+     "pct": 0.59,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Thai Forest Conservation Party",
+     "party": "thaikaomai",
+     "votes": 136597,
+     "pct": 0.38,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Thai People Power Party",
+     "party": "tppp",
+     "votes": 81733,
+     "pct": 0.23,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Nation Power Party",
+     "party": "tnp",
+     "votes": 73871,
+     "pct": 0.2,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People Progressive Party",
+     "party": "progressive",
+     "votes": 69417,
+     "pct": 0.19,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Palang Thai Rak Thai Party",
+     "party": "pheuchartthai",
+     "votes": 60840,
+     "pct": 0.17,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Civilized Party",
+     "party": "civilized",
+     "votes": 60421,
+     "pct": 0.17,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Prachaniyom Party",
+     "party": "prachaniyom",
+     "votes": 56617,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Teachers for People Party",
+     "party": "teachers",
+     "votes": 56339,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai People Justice Party",
+     "party": "tpj",
+     "votes": 47848,
+     "pct": 0.13,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People Reform Party",
+     "party": "peoplereform",
+     "votes": 45508,
+     "pct": 0.13,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Citizens Power Party",
+     "party": "economic",
+     "votes": 44766,
+     "pct": 0.12,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "New Democracy Party",
+     "party": "newdem",
+     "votes": 39792,
+     "pct": 0.11,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "New Palangdharma Party",
+     "party": "newpdp",
+     "votes": 35533,
+     "pct": 0.1,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 542488,
+     "pct": 1.5,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "None of the above",
+     "party": "nota",
+     "votes": 605392,
+     "pct": 1.68
+    }
+   ],
+   "regionWinners": {
+    "10": "pprp",
+    "11": "pprp",
+    "12": "pt",
+    "13": "pt",
+    "15": "bjt",
+    "16": "bjt",
+    "17": "pprp",
+    "18": "pprp",
+    "19": "pprp",
+    "20": "pprp",
+    "21": "dem",
+    "22": "ffp",
+    "23": "ffp",
+    "25": "bjt",
+    "26": "pt",
+    "27": "pprp",
+    "30": "pprp",
+    "31": "bjt",
+    "32": "pt",
+    "33": "pt",
+    "34": "pt",
+    "35": "pt",
+    "36": "pt",
+    "37": "pt",
+    "38": "pt",
+    "39": "pt",
+    "40": "pt",
+    "41": "pt",
+    "42": "pt",
+    "43": "pt",
+    "44": "pt",
+    "45": "pt",
+    "46": "pt",
+    "47": "pt",
+    "48": "pt",
+    "49": "pt",
+    "50": "pt",
+    "51": "pt",
+    "52": "pt",
+    "53": "pt",
+    "54": "ffp",
+    "55": "pt",
+    "56": "pprp",
+    "57": "pt",
+    "58": "pprp",
+    "60": "pprp",
+    "61": "bjt",
+    "62": "pprp",
+    "63": "pprp",
+    "64": "pprp",
+    "66": "pprp",
+    "67": "pprp",
+    "70": "pprp",
+    "71": "pprp",
+    "72": "ctp",
+    "73": "ffp",
+    "74": "ffp",
+    "75": "dem",
+    "76": "pprp",
+    "77": "dem",
+    "80": "dem",
+    "82": "dem",
+    "83": "pprp",
+    "84": "dem",
+    "85": "bjt",
+    "86": "dem",
+    "90": "pprp",
+    "91": "bjt",
+    "92": "dem",
+    "93": "bjt",
+    "94": "prachachat",
+    "95": "prachachat"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2019_Thai_general_election",
+   "notes": "Voters cast one vote, which counted for both a constituency candidate and the party list (lead); seats are the total of 350 constituency and 150 list seats. Shares are of the table's vote total, which counts 605,392 \"none of the above\" votes as valid; they are kept as their own row so shares add up. No seat-change column. Turnout is the infobox's figure. Region winners: the party with the most constituency seats in each province, from the article's by-province table (72 provinces). Left out because two parties tied for most seats or the table's Others column led: Chachoengsao, Krabi, Narathiwat, Phitsanulok, Phra Nakhon Si Ayutthaya."
+  },
+  {
+   "id": "th-house-of-representatives-2023",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2023-05-14",
+   "totalSeats": 500,
+   "turnout": 75.64,
+   "source": {
+    "name": "Wikipedia, citing the Election Commission of Thailand",
+    "url": "https://en.wikipedia.org/wiki/2023_Thai_general_election",
+    "revid": 1378185814
+   },
+   "candidates": [
+    {
+     "name": "Move Forward Party",
+     "party": "mfp",
+     "votes": 14438851,
+     "pct": 37.99,
+     "seats": 151,
+     "change": 70,
+     "winner": true
+    },
+    {
+     "name": "Pheu Thai Party",
+     "party": "pt",
+     "votes": 10962522,
+     "pct": 28.84,
+     "seats": 141,
+     "change": 5
+    },
+    {
+     "name": "Bhumjaithai Party",
+     "party": "bjt",
+     "votes": 1138202,
+     "pct": 2.99,
+     "seats": 71,
+     "change": 20
+    },
+    {
+     "name": "Palang Pracharath Party",
+     "party": "pprp",
+     "votes": 537625,
+     "pct": 1.41,
+     "seats": 40,
+     "change": -76
+    },
+    {
+     "name": "United Thai Nation Party",
+     "party": "utn",
+     "votes": 4766408,
+     "pct": 12.54,
+     "seats": 36,
+     "change": null
+    },
+    {
+     "name": "Democrat Party",
+     "party": "dem",
+     "votes": 925349,
+     "pct": 2.43,
+     "seats": 25,
+     "change": -28
+    },
+    {
+     "name": "Chartthaipattana Party",
+     "party": "ctp",
+     "votes": 192497,
+     "pct": 0.51,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Prachachat Party",
+     "party": "prachachat",
+     "votes": 602645,
+     "pct": 1.59,
+     "seats": 9,
+     "change": 2
+    },
+    {
+     "name": "Thai Sang Thai Party",
+     "party": "tst",
+     "votes": 340178,
+     "pct": 0.9,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Chart Pattana Kla Party",
+     "party": "chartpattana",
+     "votes": 212676,
+     "pct": 0.56,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Pheu Thai Ruam Palang",
+     "party": "thairuampalang",
+     "votes": 67692,
+     "pct": 0.18,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Thai Liberal Party",
+     "party": "tlp",
+     "votes": 351376,
+     "pct": 0.92,
+     "seats": 1,
+     "change": -9
+    },
+    {
+     "name": "New Democracy Party",
+     "party": "newdem",
+     "votes": 273428,
+     "pct": 0.72,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "New Party",
+     "party": "newparty",
+     "votes": 249731,
+     "pct": 0.66,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Party of Thai Counties",
+     "party": "thaicounties",
+     "votes": 201411,
+     "pct": 0.53,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Fair Party",
+     "party": "fair",
+     "votes": 184817,
+     "pct": 0.49,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "New Social Power Party",
+     "party": "nsp",
+     "votes": 177379,
+     "pct": 0.47,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Thai Teachers for People Party",
+     "party": "teachers",
+     "votes": 175182,
+     "pct": 0.46,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "For the Nation Party",
+     "party": "forthenation",
+     "votes": 59571,
+     "pct": 0.16,
+     "seats": 0,
+     "change": -5
+    },
+    {
+     "name": "Action Coalition Party",
+     "party": "act",
+     "votes": 33844,
+     "pct": 0.09,
+     "seats": 0,
+     "change": -5
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1631350,
+     "pct": 4.29,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "None of the above",
+     "party": "nota",
+     "votes": 482303,
+     "pct": 1.27
+    }
+   ],
+   "regionWinners": {
+    "10": "mfp",
+    "11": "mfp",
+    "12": "mfp",
+    "13": "mfp",
+    "14": "bjt",
+    "15": "bjt",
+    "17": "pprp",
+    "20": "mfp",
+    "21": "mfp",
+    "22": "mfp",
+    "23": "mfp",
+    "24": "pt",
+    "25": "bjt",
+    "26": "pt",
+    "27": "pprp",
+    "30": "pt",
+    "31": "bjt",
+    "32": "bjt",
+    "33": "pt",
+    "34": "pt",
+    "36": "pt",
+    "37": "bjt",
+    "38": "bjt",
+    "39": "pt",
+    "40": "pt",
+    "41": "pt",
+    "42": "pt",
+    "43": "pt",
+    "44": "pt",
+    "45": "pt",
+    "46": "pt",
+    "47": "pt",
+    "50": "mfp",
+    "52": "mfp",
+    "53": "pt",
+    "54": "pt",
+    "55": "pt",
+    "56": "pprp",
+    "57": "pt",
+    "60": "bjt",
+    "61": "bjt",
+    "62": "pprp",
+    "63": "mfp",
+    "64": "pt",
+    "66": "bjt",
+    "67": "pprp",
+    "70": "pprp",
+    "71": "pt",
+    "72": "ctp",
+    "73": "ctp",
+    "74": "mfp",
+    "75": "mfp",
+    "76": "utn",
+    "77": "dem",
+    "80": "dem",
+    "81": "bjt",
+    "83": "mfp",
+    "84": "utn",
+    "85": "bjt",
+    "86": "utn",
+    "90": "dem",
+    "91": "bjt",
+    "92": "dem",
+    "93": "dem",
+    "94": "prachachat",
+    "95": "prachachat",
+    "96": "pprp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2023_Thai_general_election",
+   "notes": "Votes and shares are the party-list vote; seats are the total of constituency and party-list seats. Shares are of the table's vote total, which counts 482,303 \"none of the above\" votes as valid; they are kept as their own row so shares add up. Changes marked \"New\" in the table are stored as null. Turnout is the infobox's figure. The lead gives turnout as 75.22%; the infobox and results table give 75.64%, which is used. Region winners: the party with the most constituency seats in each province, from the article's by-province table (67 provinces). Left out because two parties tied for most seats or the table's Others column led: Chai Nat, Lamphun, Lopburi, Mae Hong Son, Mukdahan, Nakhon Phanom, Phang Nga, Phitsanulok, Saraburi, Yasothon."
+  }
+ ]
+}

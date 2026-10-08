@@ -1,0 +1,823 @@
+{
+  "code": "TH",
+  "name": "Thailand",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "National Assembly: House of Representatives (500), Senate (200)",
+    "votingAge": 18,
+    "compulsory": true,
+    "registered": 52933610,
+    "offices": {
+      "House of Representatives": "Its 500 members are elected for four years by parallel voting: 400 in single-member constituencies by first past the post and 100 by party-list proportional representation on a separate nationwide ballot. The House passes laws and the budget and, since the Senate's transitional vote lapsed, chooses the prime minister on its own."
+    }
+  },
+  "parties": {
+    "act": {
+      "name": "Action Coalition Party",
+      "color": "#2A3994"
+    },
+    "agri": {
+      "name": "Agriculturalist Party",
+      "color": "#AFEEEE"
+    },
+    "bjt": {
+      "name": "Bhumjaithai Party",
+      "color": "#082680"
+    },
+    "chartpattana": {
+      "name": "Chart Pattana Party",
+      "color": "#FA8072"
+    },
+    "chartthai": {
+      "name": "Thai Nation Party",
+      "color": "#FF69B4"
+    },
+    "citizen": {
+      "name": "Citizen Party",
+      "color": "#707070"
+    },
+    "civilized": {
+      "name": "Thai Civilized Party",
+      "color": "#EDC65D"
+    },
+    "community": {
+      "name": "Community Action",
+      "color": "#8B008B"
+    },
+    "ctp": {
+      "name": "Chart Thai Pattana Party",
+      "color": "#E20884"
+    },
+    "dem": {
+      "name": "Democrat Party",
+      "color": "#00A1F1"
+    },
+    "demaction": {
+      "name": "Democratic Action",
+      "color": "#BA55D3"
+    },
+    "demfront": {
+      "name": "Democratic Front",
+      "color": "#FE9059"
+    },
+    "democracy": {
+      "name": "Democracy",
+      "color": "#EE82EE"
+    },
+    "dharmacracy": {
+      "name": "Dharmacracy Party",
+      "color": "#8FBC8F"
+    },
+    "econ57": {
+      "name": "Economist Party",
+      "color": "#FFFFCC"
+    },
+    "econ75": {
+      "name": "Economist Party (1975)",
+      "color": "#F4FF18"
+    },
+    "economic": {
+      "name": "Economic Party",
+      "color": "#FEBD00"
+    },
+    "fair": {
+      "name": "Fair Party",
+      "color": "#0C4DA1"
+    },
+    "farmer": {
+      "name": "Farmer Party",
+      "color": "#AACC99"
+    },
+    "ffp": {
+      "name": "Future Forward Party",
+      "color": "#F47933"
+    },
+    "forthenation": {
+      "name": "For the Nation Party",
+      "color": "#68B4AA"
+    },
+    "freepeople75": {
+      "name": "Free People's Party",
+      "color": "#D2B48C"
+    },
+    "freepeople83": {
+      "name": "Free People Party",
+      "color": "#8B008B"
+    },
+    "hydepark": {
+      "name": "Hyde Park Movement Party",
+      "color": "#000000"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "indparty": {
+      "name": "Independent Party",
+      "color": "#6A59A7"
+    },
+    "jef": {
+      "name": "Joint Economic Front",
+      "color": "#A6FCF9"
+    },
+    "jup": {
+      "name": "Justice Unity Party",
+      "color": "#32CD32"
+    },
+    "klatham": {
+      "name": "Kla Tham Party",
+      "color": "#50C871"
+    },
+    "labdem": {
+      "name": "Labour Democrat Party",
+      "color": "#8B4513"
+    },
+    "labour": {
+      "name": "Labour Party",
+      "color": "#DC143C"
+    },
+    "ldp": {
+      "name": "Liberal Democratic Party",
+      "color": "#FFD700"
+    },
+    "leadingthai": {
+      "name": "Leading Thai Party",
+      "color": "#DEB887"
+    },
+    "liberal": {
+      "name": "Liberal Party",
+      "color": "#0000CD"
+    },
+    "localpower": {
+      "name": "Thai Local Power Party",
+      "color": "#32CD32"
+    },
+    "mahachon": {
+      "name": "Mahachon Party",
+      "color": "#B22222"
+    },
+    "mass": {
+      "name": "Mass Party",
+      "color": "#FF0000"
+    },
+    "matchima": {
+      "name": "Neutral Democratic Party",
+      "color": "#FF0000"
+    },
+    "matubhum": {
+      "name": "Matubhum Party",
+      "color": "#0000CD"
+    },
+    "mfp": {
+      "name": "Move Forward Party",
+      "color": "#FF7F2A"
+    },
+    "motherland": {
+      "name": "Thai Motherland Party",
+      "color": "#90EE90"
+    },
+    "nap": {
+      "name": "New Aspiration Party",
+      "color": "#FFFF00"
+    },
+    "natdem": {
+      "name": "National Democrat Party",
+      "color": "#800000"
+    },
+    "nationalist": {
+      "name": "Nationalist Party",
+      "color": "#DFAB53"
+    },
+    "natrecon": {
+      "name": "National Reconstruction",
+      "color": "#7B68EE"
+    },
+    "ndp": {
+      "name": "National Development Party",
+      "color": "#FFA500"
+    },
+    "newalt": {
+      "name": "New Alternative Party",
+      "color": "#1E90FF"
+    },
+    "newdem": {
+      "name": "New Democracy Party",
+      "color": "#A0522D"
+    },
+    "newdimension": {
+      "name": "New Dimension Party",
+      "color": "#2E3192"
+    },
+    "neweconomics": {
+      "name": "New Economics Party",
+      "color": "#7C2D89"
+    },
+    "newforce": {
+      "name": "New Force Party",
+      "color": "#008000"
+    },
+    "newopp": {
+      "name": "New Opportunity Party",
+      "color": "#F0666B"
+    },
+    "newparty": {
+      "name": "New Party",
+      "color": "#172E58"
+    },
+    "newpdp": {
+      "name": "New Palangdharma Party",
+      "color": "#008080"
+    },
+    "newsiam": {
+      "name": "New Siam Party",
+      "color": "#FFA07A"
+    },
+    "nota": {
+      "name": "None of the above",
+      "color": "#D8D8DD"
+    },
+    "nsp": {
+      "name": "New Social Power Party",
+      "color": "#A51D33"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "palangchon": {
+      "name": "Palang Burapha Party",
+      "color": "#00BFFF"
+    },
+    "pdp": {
+      "name": "Palang Dharma Party",
+      "color": "#B0E0E6"
+    },
+    "peoplereform": {
+      "name": "People Reform Party",
+      "color": "#000465"
+    },
+    "peoplesnation": {
+      "name": "People's Nation Party",
+      "color": "#ADFF2F"
+    },
+    "pforce": {
+      "name": "People's Force",
+      "color": "#FFB6C1"
+    },
+    "pheuchartthai": {
+      "name": "Pheu Chart Thai Party",
+      "color": "#5A2B0B"
+    },
+    "pjp": {
+      "name": "People's Justice Party",
+      "color": "#FFE4B5"
+    },
+    "pp": {
+      "name": "People's Party",
+      "color": "#FF640B"
+    },
+    "pp47": {
+      "name": "People's Party (1947)",
+      "color": "#0000FF"
+    },
+    "pp88": {
+      "name": "People's Party (1988)",
+      "color": "#0000FF"
+    },
+    "ppp": {
+      "name": "People's Power Party",
+      "color": "#FF4500"
+    },
+    "ppp25": {
+      "name": "People's Power Party (2025)",
+      "color": "#CD853F"
+    },
+    "pprp": {
+      "name": "Palang Pracharath Party",
+      "color": "#006738"
+    },
+    "prachachat": {
+      "name": "Prachachat Party",
+      "color": "#BA810D"
+    },
+    "prachakorn": {
+      "name": "Thai Citizen Party",
+      "color": "#00BFFF"
+    },
+    "prachaniyom": {
+      "name": "Prachaniyom Party",
+      "color": "#EE1D23"
+    },
+    "pracharaj": {
+      "name": "Pracharaj Party",
+      "color": "#000000"
+    },
+    "progress": {
+      "name": "Progress Party",
+      "color": "#4040FF"
+    },
+    "progressive": {
+      "name": "People Progressive Party",
+      "color": "#228B22"
+    },
+    "provdev": {
+      "name": "Provincial Development Party",
+      "color": "#FFD700"
+    },
+    "pt": {
+      "name": "Pheu Thai Party",
+      "color": "#E30613"
+    },
+    "pueachat": {
+      "name": "Puea Chat Party",
+      "color": "#DDA0DD"
+    },
+    "pueapandin": {
+      "name": "Puea Pandin Party",
+      "color": "#1F1FB5"
+    },
+    "raksanti": {
+      "name": "Rak Santi Party",
+      "color": "#008000"
+    },
+    "rakthailand": {
+      "name": "Rak Thailand Party",
+      "color": "#0000FF"
+    },
+    "rassadorn": {
+      "name": "People Party (1986)",
+      "color": "#228B22"
+    },
+    "ruamjaithai": {
+      "name": "Ruam Jai Thai Party",
+      "color": "#EB1B28"
+    },
+    "sahaphum": {
+      "name": "Sahaphum Party",
+      "color": "#AACC99"
+    },
+    "santichon": {
+      "name": "Peaceful People's Party",
+      "color": "#556B2F"
+    },
+    "sap": {
+      "name": "Social Action Party",
+      "color": "#00008B"
+    },
+    "sdf": {
+      "name": "Social Democratic Force",
+      "color": "#8B4513"
+    },
+    "sdp": {
+      "name": "Social Democratic Party",
+      "color": "#FF0000"
+    },
+    "seritham79": {
+      "name": "Seritham Party (1979)",
+      "color": "#FF0000"
+    },
+    "seritham92": {
+      "name": "Seritham Party (1992)",
+      "color": "#FF4500"
+    },
+    "sf": {
+      "name": "Socialist Front",
+      "color": "#FF4500"
+    },
+    "siamdem": {
+      "name": "Siam Democrat Party",
+      "color": "#030B59"
+    },
+    "sjp": {
+      "name": "Social Justice Party",
+      "color": "#32CD32"
+    },
+    "smp": {
+      "name": "Seri Manangkhasila Party",
+      "color": "#FF0800"
+    },
+    "socagr": {
+      "name": "Social Agrarian Party",
+      "color": "#D3D3D3"
+    },
+    "socialthai": {
+      "name": "Social Thai Party",
+      "color": "#DFAB53"
+    },
+    "socnat": {
+      "name": "Social Nationalist Party",
+      "color": "#F0E68C"
+    },
+    "socprog": {
+      "name": "Social Progress Party",
+      "color": "#D2B48C"
+    },
+    "solidarity": {
+      "name": "Solidarity Party",
+      "color": "#FFD700"
+    },
+    "sovereign": {
+      "name": "Sovereign Party",
+      "color": "#7CFC00"
+    },
+    "spt": {
+      "name": "Socialist Party of Thailand",
+      "color": "#FF0000"
+    },
+    "subthawee": {
+      "name": "Thai Subthawee Party",
+      "color": "#6120CC"
+    },
+    "teachers": {
+      "name": "Thai Teachers for People Party",
+      "color": "#006400"
+    },
+    "thai74": {
+      "name": "Thai Party (1974)",
+      "color": "#D2691E"
+    },
+    "thai96": {
+      "name": "Thai Party (1996)",
+      "color": "#D2691E"
+    },
+    "thaicounties": {
+      "name": "Party of Thai Counties",
+      "color": "#008C44"
+    },
+    "thaiearth": {
+      "name": "Thai Earth Party",
+      "color": "#708090"
+    },
+    "thaifarmer": {
+      "name": "Thai Farmer Party",
+      "color": "#556B2F"
+    },
+    "thaikaomai": {
+      "name": "Thai Kao Mai Party",
+      "color": "#FFFF00"
+    },
+    "thaipakdee": {
+      "name": "Thai Pakdee Party",
+      "color": "#03C13D"
+    },
+    "thaiprotect": {
+      "name": "Thai Protection Party",
+      "color": "#FFE4C4"
+    },
+    "thairuampalang": {
+      "name": "Thai Ruam Palang Party",
+      "color": "#260570"
+    },
+    "thammathibat": {
+      "name": "Thammathibat",
+      "color": "#FF4500"
+    },
+    "thammathipat": {
+      "name": "Thammathipat Party",
+      "color": "#8B4513"
+    },
+    "tlp": {
+      "name": "Thai Liberal Party",
+      "color": "#D8B720"
+    },
+    "tnp": {
+      "name": "Thai Nation Power Party",
+      "color": "#2E8B57"
+    },
+    "tpj": {
+      "name": "Thai People Justice Party",
+      "color": "#FF0000"
+    },
+    "tppp": {
+      "name": "Thai People Power Party",
+      "color": "#4B0082"
+    },
+    "trt": {
+      "name": "Thai Rak Thai Party",
+      "color": "#FF0000"
+    },
+    "tst": {
+      "name": "Thai Sang Thai Party",
+      "color": "#7D21E0"
+    },
+    "udf": {
+      "name": "United Democratic Front",
+      "color": "#CFECEC"
+    },
+    "udp": {
+      "name": "United Democrat Party",
+      "color": "#000000"
+    },
+    "utn": {
+      "name": "United Thai Nation Party",
+      "color": "#663399"
+    },
+    "utpp": {
+      "name": "United Thai People's Party",
+      "color": "#69A69D"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    }
+  },
+  "elections": [
+    {
+      "id": "th-house-of-representatives-2026",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2026-02-08",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 71.42,
+      "system": "500 seats: constituencies and party lists",
+      "totalSeats": 500,
+      "majority": 251,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Election Commission of Thailand",
+        "url": "https://en.wikipedia.org/wiki/2026_Thai_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2026_Thai_general_election",
+      "statesSourced": {
+        "n": 60,
+        "of": 77
+      },
+      "candidates": [
+        {
+          "name": "Bhumjaithai Party",
+          "party": "bjt",
+          "votes": 6468073,
+          "pct": 17.9,
+          "seats": 192,
+          "change": 121,
+          "winner": true
+        },
+        {
+          "name": "People's Party",
+          "party": "pp",
+          "votes": 11043309,
+          "pct": 30.56,
+          "seats": 120,
+          "change": -31
+        },
+        {
+          "name": "Pheu Thai Party",
+          "party": "pt",
+          "votes": 5575456,
+          "pct": 15.43,
+          "seats": 74,
+          "change": -67
+        },
+        {
+          "name": "Kla Tham Party",
+          "party": "klatham",
+          "votes": 648662,
+          "pct": 1.79,
+          "seats": 58,
+          "change": null
+        },
+        {
+          "name": "Democrat Party",
+          "party": "dem",
+          "votes": 3941928,
+          "pct": 10.91,
+          "seats": 21,
+          "change": -4
+        },
+        {
+          "name": "Thai Ruam Palang Party",
+          "party": "thairuampalang",
+          "votes": 166723,
+          "pct": 0.46,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "Prachachat Party",
+          "party": "prachachat",
+          "votes": 428848,
+          "pct": 1.19,
+          "seats": 5,
+          "change": -4
+        },
+        {
+          "name": "Palang Pracharath Party",
+          "party": "pprp",
+          "votes": 141082,
+          "pct": 0.39,
+          "seats": 5,
+          "change": -35
+        },
+        {
+          "name": "Economic Party",
+          "party": "economic",
+          "votes": 1133055,
+          "pct": 3.14,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "United Thai Nation Party",
+          "party": "utn",
+          "votes": 766078,
+          "pct": 2.12,
+          "seats": 2,
+          "change": -34
+        },
+        {
+          "name": "Pheu Chart Thai Party",
+          "party": "pheuchartthai",
+          "votes": 680256,
+          "pct": 1.88,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Thai Sang Thai Party",
+          "party": "tst",
+          "votes": 202626,
+          "pct": 0.56,
+          "seats": 2,
+          "change": -4
+        },
+        {
+          "name": "Ruam Jai Thai Party",
+          "party": "ruamjaithai",
+          "votes": 435225,
+          "pct": 1.2,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "New Party",
+          "party": "newparty",
+          "votes": 314430,
+          "pct": 0.87,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Thai Subthawee Party",
+          "party": "subthawee",
+          "votes": 305565,
+          "pct": 0.85,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "New Democracy Party",
+          "party": "newdem",
+          "votes": 256221,
+          "pct": 0.71,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "New Dimension Party",
+          "party": "newdimension",
+          "votes": 247365,
+          "pct": 0.68,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Thai Pakdee Party",
+          "party": "thaipakdee",
+          "votes": 246823,
+          "pct": 0.68,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "People's Power Party",
+          "party": "ppp25",
+          "votes": 197510,
+          "pct": 0.55,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Thai Liberal Party",
+          "party": "tlp",
+          "votes": 185705,
+          "pct": 0.51,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "New Alternative Party",
+          "party": "newalt",
+          "votes": 171061,
+          "pct": 0.47,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "New Opportunity Party",
+          "party": "newopp",
+          "votes": 80103,
+          "pct": 0.22,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1394475,
+          "pct": 3.86,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "None of the above",
+          "party": "nota",
+          "votes": 1108123,
+          "pct": 3.07
+        }
+      ],
+      "regions": [
+        {"name":"Amnat Charoen","abbr":"37","winner":"bjt","margin":9.2,"turnout":75.8,"votes":482403,"results":[{"party":"bjt","pct":38.8,"votes":187172},{"party":"pp","pct":29.6,"votes":142791},{"party":"pt","pct":16.3,"votes":78632},{"party":"dem","pct":11.4,"votes":54994},{"party":"oth","pct":3.9,"votes":18814}]},
+        {"name":"Ang Thong","abbr":"15","winner":"bjt","margin":13.7,"turnout":64.7,"votes":444593,"results":[{"party":"bjt","pct":44.3,"votes":196955},{"party":"pp","pct":30.6,"votes":136045},{"party":"pt","pct":13.8,"votes":61354},{"party":"dem","pct":9,"votes":40013},{"party":"oth","pct":2.2,"votes":9781}]},
+        {"name":"Bangkok","abbr":"10","winner":"pp","margin":13.7,"turnout":70.5,"votes":506047,"results":[{"party":"pp","pct":40.9,"votes":206973},{"party":"bjt","pct":27.2,"votes":137645},{"party":"dem","pct":16.8,"votes":85016},{"party":"pt","pct":10.5,"votes":53135},{"party":"oth","pct":4.6,"votes":23278}]},
+        {"name":"Bueng Kan","abbr":"38","winner":"bjt","margin":0.5,"turnout":73.2,"votes":375586,"results":[{"party":"bjt","pct":31.2,"votes":117183},{"party":"pp","pct":30.7,"votes":115305},{"party":"pt","pct":18.7,"votes":70235},{"party":"dem","pct":15.7,"votes":58967},{"party":"oth","pct":3.8,"votes":14272}]},
+        {"name":"Buri Ram","abbr":"31","winner":"bjt","margin":1.2,"turnout":73.4,"votes":538820,"results":[{"party":"bjt","pct":35.9,"votes":193436},{"party":"pp","pct":34.7,"votes":186971},{"party":"pt","pct":14.1,"votes":75974},{"party":"dem","pct":13.1,"votes":70585},{"party":"oth","pct":2.2,"votes":11854}]},
+        {"name":"Chachoengsao","abbr":"24","winner":"klatham","margin":2.1,"turnout":72.5,"votes":390364,"results":[{"party":"klatham","pct":28.8,"votes":112425},{"party":"pp","pct":26.7,"votes":104227},{"party":"bjt","pct":20.7,"votes":80805},{"party":"dem","pct":10.5,"votes":40988},{"party":"pt","pct":9.2,"votes":35913},{"party":"oth","pct":4.2,"votes":16395}]},
+        {"name":"Chai Nat","abbr":"18","winner":"bjt","margin":4.7,"turnout":65.2,"votes":491408,"results":[{"party":"bjt","pct":34.6,"votes":170027},{"party":"pp","pct":29.9,"votes":146931},{"party":"pt","pct":21.2,"votes":104178},{"party":"dem","pct":11.2,"votes":55038},{"party":"oth","pct":3,"votes":14742}]},
+        {"name":"Chaiyaphum","abbr":"36","winner":"pp","margin":27.4,"turnout":74.6,"votes":485238,"results":[{"party":"pp","pct":48.1,"votes":233399},{"party":"pt","pct":20.7,"votes":100444},{"party":"bjt","pct":15.2,"votes":73756},{"party":"dem","pct":13.7,"votes":66478},{"party":"oth","pct":2.3,"votes":11160}]},
+        {"name":"Chanthaburi","abbr":"22","winner":"bjt","margin":3.3,"turnout":77.6,"votes":429268,"results":[{"party":"bjt","pct":30.8,"votes":132215},{"party":"pp","pct":27.5,"votes":118049},{"party":"dem","pct":20.9,"votes":89717},{"party":"pt","pct":16.9,"votes":72546},{"party":"oth","pct":3.9,"votes":16741}]},
+        {"name":"Chiang Mai","abbr":"50","winner":"pp","margin":9,"turnout":75.7,"votes":434825,"results":[{"party":"pp","pct":34.6,"votes":150449},{"party":"pt","pct":25.6,"votes":111315},{"party":"dem","pct":17.3,"votes":75225},{"party":"bjt","pct":16,"votes":69572},{"party":"oth","pct":6.5,"votes":28264}]},
+        {"name":"Chiang Rai","abbr":"57","winner":"klatham","margin":13.2,"turnout":72,"votes":500048,"results":[{"party":"klatham","pct":37.8,"votes":189018},{"party":"pp","pct":24.6,"votes":123012},{"party":"bjt","pct":14.2,"votes":71007},{"party":"pt","pct":11.2,"votes":56005},{"party":"dem","pct":9.9,"votes":49505},{"party":"oth","pct":2.5,"votes":12501}]},
+        {"name":"Chon Buri","abbr":"20","winner":"pp","margin":18.2,"turnout":68.9,"votes":505921,"results":[{"party":"pp","pct":38.4,"votes":194274},{"party":"dem","pct":20.2,"votes":102196},{"party":"pt","pct":18.1,"votes":91572},{"party":"bjt","pct":16.2,"votes":81959},{"party":"oth","pct":7,"votes":35414}]},
+        {"name":"Chumphon","abbr":"86","winner":"bjt","margin":17.6,"turnout":66.7,"votes":426265,"results":[{"party":"bjt","pct":46.5,"votes":198213},{"party":"pp","pct":28.9,"votes":123191},{"party":"pt","pct":12.2,"votes":52004},{"party":"dem","pct":9.8,"votes":41774},{"party":"oth","pct":2.6,"votes":11083}]},
+        {"name":"Kalasin","abbr":"46","winner":"pt","margin":0.5,"turnout":75.8,"votes":439103,"results":[{"party":"pt","pct":31.1,"votes":136561},{"party":"pp","pct":30.6,"votes":134366},{"party":"bjt","pct":23,"votes":100994},{"party":"dem","pct":11.3,"votes":49619},{"party":"oth","pct":4,"votes":17564}]},
+        {"name":"Kamphaeng Phet","abbr":"62","winner":"pp","margin":10.3,"turnout":72.1,"votes":454817,"results":[{"party":"pp","pct":35,"votes":159186},{"party":"pt","pct":24.7,"votes":112340},{"party":"bjt","pct":19.5,"votes":88689},{"party":"dem","pct":15.4,"votes":70042},{"party":"oth","pct":5.4,"votes":24560}]},
+        {"name":"Kanchanaburi","abbr":"71","winner":"bjt","margin":4.4,"turnout":64.4,"votes":487698,"results":[{"party":"bjt","pct":34.9,"votes":170207},{"party":"pp","pct":30.5,"votes":148748},{"party":"pt","pct":16.2,"votes":79007},{"party":"dem","pct":14.9,"votes":72667},{"party":"oth","pct":3.4,"votes":16582}]},
+        {"name":"Khon Kaen","abbr":"40","winner":"pp","margin":8.9,"turnout":73.8,"votes":537970,"results":[{"party":"pp","pct":35.2,"votes":189365},{"party":"pt","pct":26.3,"votes":141486},{"party":"bjt","pct":20.2,"votes":108670},{"party":"dem","pct":10.8,"votes":58101},{"party":"oth","pct":7.5,"votes":40348}]},
+        {"name":"Krabi","abbr":"81","winner":"bjt","margin":13.9,"turnout":71.6,"votes":529358,"results":[{"party":"bjt","pct":46.9,"votes":248269},{"party":"pp","pct":33,"votes":174688},{"party":"pt","pct":9,"votes":47642},{"party":"dem","pct":7.3,"votes":38643},{"party":"oth","pct":3.9,"votes":20645}]},
+        {"name":"Lampang","abbr":"52","winner":"bjt","margin":0.8,"turnout":71.6,"votes":535096,"results":[{"party":"bjt","pct":26.4,"votes":141265},{"party":"pt","pct":25.6,"votes":136985},{"party":"pp","pct":24,"votes":128423},{"party":"dem","pct":18.4,"votes":98458},{"party":"oth","pct":5.5,"votes":29430}]},
+        {"name":"Lamphun","abbr":"51","winner":"pp","margin":17.8,"turnout":77,"votes":483858,"results":[{"party":"pp","pct":38.5,"votes":186285},{"party":"pt","pct":20.7,"votes":100159},{"party":"dem","pct":18.9,"votes":91449},{"party":"bjt","pct":15.9,"votes":76933},{"party":"oth","pct":6,"votes":29031}]},
+        {"name":"Loei","abbr":"42","winner":"pt","margin":13.8,"turnout":77.7,"votes":549958,"results":[{"party":"pt","pct":42.5,"votes":233732},{"party":"pp","pct":28.7,"votes":157838},{"party":"bjt","pct":17.1,"votes":94043},{"party":"dem","pct":8.6,"votes":47296},{"party":"oth","pct":3.1,"votes":17049}]},
+        {"name":"Lopburi","abbr":"16","winner":"bjt","margin":2.2,"turnout":67,"votes":555846,"results":[{"party":"bjt","pct":37.1,"votes":206219},{"party":"pp","pct":34.9,"votes":193990},{"party":"pt","pct":13.1,"votes":72816},{"party":"dem","pct":10.9,"votes":60587},{"party":"oth","pct":3.9,"votes":21678}]},
+        {"name":"Mae Hong Son","abbr":"58","winner":"pp","margin":23.5,"turnout":69.6,"votes":541564,"results":[{"party":"pp","pct":47.2,"votes":255618},{"party":"pt","pct":23.7,"votes":128351},{"party":"bjt","pct":13,"votes":70403},{"party":"dem","pct":10.4,"votes":56323},{"party":"oth","pct":5.7,"votes":30869}]},
+        {"name":"Maha Sarakham","abbr":"44","winner":"bjt","margin":4,"turnout":74.2,"votes":550275,"results":[{"party":"bjt","pct":42.2,"votes":232216},{"party":"pp","pct":38.2,"votes":210205},{"party":"pt","pct":8.9,"votes":48974},{"party":"dem","pct":8.6,"votes":47324},{"party":"oth","pct":2.2,"votes":12106}]},
+        {"name":"Mukdahan","abbr":"49","winner":"pp","margin":27.2,"turnout":72.3,"votes":545109,"results":[{"party":"pp","pct":46.3,"votes":252385},{"party":"bjt","pct":19.1,"votes":104116},{"party":"pt","pct":14.7,"votes":80131},{"party":"dem","pct":12.1,"votes":65958},{"party":"oth","pct":7.8,"votes":42519}]},
+        {"name":"Nakhon Nayok","abbr":"26","winner":"pp","margin":3.5,"turnout":74.6,"votes":562497,"results":[{"party":"pp","pct":32.6,"votes":183374},{"party":"bjt","pct":29.1,"votes":163687},{"party":"pt","pct":17.4,"votes":97874},{"party":"dem","pct":13.1,"votes":73687},{"party":"oth","pct":7.8,"votes":43875}]},
+        {"name":"Nakhon Pathom","abbr":"73","winner":"bjt","margin":10.6,"turnout":68.9,"votes":509085,"results":[{"party":"bjt","pct":35.1,"votes":178689},{"party":"pp","pct":24.5,"votes":124726},{"party":"dem","pct":19.2,"votes":97744},{"party":"pt","pct":16.4,"votes":83490},{"party":"oth","pct":4.8,"votes":24436}]},
+        {"name":"Nakhon Phanom","abbr":"48","winner":"pp","margin":9,"turnout":70,"votes":436861,"results":[{"party":"pp","pct":36.2,"votes":158144},{"party":"bjt","pct":27.2,"votes":118826},{"party":"pt","pct":25.9,"votes":113147},{"party":"dem","pct":7.4,"votes":32328},{"party":"oth","pct":3.3,"votes":14416}]},
+        {"name":"Nakhon Ratchasima","abbr":"30","winner":"pt","margin":3.3,"turnout":74,"votes":449518,"results":[{"party":"pt","pct":32.1,"votes":144295},{"party":"bjt","pct":28.8,"votes":129461},{"party":"pp","pct":18.1,"votes":81363},{"party":"dem","pct":14.8,"votes":66529},{"party":"oth","pct":6.3,"votes":28320}]},
+        {"name":"Nakhon Sawan","abbr":"60","winner":"bjt","margin":0.5,"turnout":65,"votes":562676,"results":[{"party":"bjt","pct":31.1,"votes":174992},{"party":"pp","pct":30.6,"votes":172179},{"party":"pt","pct":22.1,"votes":124351},{"party":"dem","pct":13.5,"votes":75961},{"party":"oth","pct":2.8,"votes":15755}]},
+        {"name":"Nakhon Si Thammarat","abbr":"80","winner":"pp","margin":26.3,"turnout":65.3,"votes":511879,"results":[{"party":"pp","pct":44.7,"votes":228810},{"party":"pt","pct":18.4,"votes":94186},{"party":"bjt","pct":16.6,"votes":84972},{"party":"dem","pct":13.7,"votes":70127},{"party":"oth","pct":6.6,"votes":33784}]},
+        {"name":"Nan","abbr":"55","winner":"pp","margin":19.2,"turnout":73.1,"votes":461691,"results":[{"party":"pp","pct":42.6,"votes":196680},{"party":"bjt","pct":23.4,"votes":108036},{"party":"pt","pct":18.7,"votes":86336},{"party":"dem","pct":12.6,"votes":58173},{"party":"oth","pct":2.8,"votes":12927}]},
+        {"name":"Narathiwat","abbr":"96","winner":"klatham","margin":14.7,"turnout":72.8,"votes":499060,"results":[{"party":"klatham","pct":41.3,"votes":206112},{"party":"pp","pct":26.6,"votes":132750},{"party":"bjt","pct":12.3,"votes":61384},{"party":"dem","pct":10.3,"votes":51403},{"party":"pt","pct":6.2,"votes":30942},{"party":"oth","pct":3.1,"votes":15471}]},
+        {"name":"Nong Bua Lam Phu","abbr":"39","winner":"klatham","margin":4.9,"turnout":69.8,"votes":397325,"results":[{"party":"klatham","pct":28.6,"votes":113635},{"party":"pp","pct":23.7,"votes":94166},{"party":"bjt","pct":21.4,"votes":85028},{"party":"pt","pct":11.8,"votes":46884},{"party":"dem","pct":9.7,"votes":38541},{"party":"oth","pct":4.8,"votes":19072}]},
+        {"name":"Nong Khai","abbr":"43","winner":"pprp","margin":11.6,"turnout":66.8,"votes":438954,"results":[{"party":"pprp","pct":32.5,"votes":142660},{"party":"pp","pct":20.9,"votes":91741},{"party":"bjt","pct":18,"votes":79012},{"party":"pt","pct":16,"votes":70233},{"party":"dem","pct":10.1,"votes":44334},{"party":"oth","pct":2.5,"votes":10974}]},
+        {"name":"Nonthaburi","abbr":"12","winner":"pp","margin":8.9,"turnout":75.2,"votes":424323,"results":[{"party":"pp","pct":39.6,"votes":168032},{"party":"bjt","pct":30.7,"votes":130267},{"party":"dem","pct":16,"votes":67892},{"party":"pt","pct":9.3,"votes":39462},{"party":"oth","pct":4.3,"votes":18246}]},
+        {"name":"Pathum Thani","abbr":"13","winner":"pp","margin":3.9,"turnout":75.8,"votes":546901,"results":[{"party":"pp","pct":33.5,"votes":183212},{"party":"pt","pct":29.6,"votes":161883},{"party":"bjt","pct":16.7,"votes":91332},{"party":"dem","pct":16.7,"votes":91332},{"party":"oth","pct":3.5,"votes":19142}]},
+        {"name":"Pattani","abbr":"94","winner":"bjt","margin":14.8,"turnout":64.6,"votes":480393,"results":[{"party":"bjt","pct":38.8,"votes":186392},{"party":"pp","pct":24,"votes":115294},{"party":"dem","pct":17.9,"votes":85990},{"party":"pt","pct":16.3,"votes":78304},{"party":"oth","pct":3,"votes":14412}]},
+        {"name":"Phang Nga","abbr":"82","winner":"bjt","margin":4.7,"turnout":74.6,"votes":473230,"results":[{"party":"bjt","pct":30.6,"votes":144808},{"party":"pp","pct":25.9,"votes":122567},{"party":"pt","pct":18.9,"votes":89440},{"party":"dem","pct":18.9,"votes":89440},{"party":"oth","pct":5.7,"votes":26974}]},
+        {"name":"Phatthalung","abbr":"93","winner":"bjt","margin":1.7,"turnout":74.8,"votes":375726,"results":[{"party":"bjt","pct":37.4,"votes":140522},{"party":"pp","pct":35.7,"votes":134134},{"party":"pt","pct":14.1,"votes":52977},{"party":"dem","pct":8.2,"votes":30810},{"party":"oth","pct":4.6,"votes":17283}]},
+        {"name":"Phayao","abbr":"56","winner":"klatham","margin":1.5,"turnout":74.6,"votes":516435,"results":[{"party":"klatham","pct":31.7,"votes":163710},{"party":"pp","pct":30.2,"votes":155963},{"party":"bjt","pct":15.6,"votes":80564},{"party":"pt","pct":10.7,"votes":55259},{"party":"dem","pct":8.8,"votes":45446},{"party":"oth","pct":3.1,"votes":16009}]},
+        {"name":"Phetchabun","abbr":"67","winner":"bjt","margin":13,"turnout":77.1,"votes":475144,"results":[{"party":"bjt","pct":39.4,"votes":187207},{"party":"pp","pct":26.4,"votes":125438},{"party":"pt","pct":17,"votes":80774},{"party":"dem","pct":13.8,"votes":65570},{"party":"oth","pct":3.5,"votes":16630}]},
+        {"name":"Phetchaburi","abbr":"76","winner":"bjt","margin":17.4,"turnout":71.2,"votes":410909,"results":[{"party":"bjt","pct":45.1,"votes":185320},{"party":"pp","pct":27.7,"votes":113822},{"party":"pt","pct":11.7,"votes":48076},{"party":"dem","pct":8.2,"votes":33695},{"party":"oth","pct":7.4,"votes":30407}]},
+        {"name":"Phichit","abbr":"66","winner":"bjt","margin":0.7,"turnout":70.5,"votes":481758,"results":[{"party":"bjt","pct":38.8,"votes":186922},{"party":"pp","pct":38.1,"votes":183550},{"party":"pt","pct":14.3,"votes":68891},{"party":"dem","pct":5.6,"votes":26978},{"party":"oth","pct":3.2,"votes":15416}]},
+        {"name":"Phitsanulok","abbr":"65","winner":"bjt","margin":2.8,"turnout":74.9,"votes":418236,"results":[{"party":"bjt","pct":35.4,"votes":148056},{"party":"pp","pct":32.6,"votes":136345},{"party":"pt","pct":18.7,"votes":78210},{"party":"dem","pct":9.2,"votes":38478},{"party":"oth","pct":4.1,"votes":17148}]},
+        {"name":"Phra Nakhon Si Ayutthaya","abbr":"14","winner":"bjt","margin":2.5,"turnout":67.4,"votes":480411,"results":[{"party":"bjt","pct":27.8,"votes":133554},{"party":"pt","pct":25.3,"votes":121544},{"party":"pp","pct":24.8,"votes":119142},{"party":"dem","pct":17.3,"votes":83111},{"party":"oth","pct":4.9,"votes":23540}]},
+        {"name":"Phrae","abbr":"54","winner":"bjt","margin":1,"turnout":75.5,"votes":428325,"results":[{"party":"bjt","pct":36.8,"votes":157624},{"party":"pp","pct":35.8,"votes":153340},{"party":"pt","pct":13.1,"votes":56111},{"party":"dem","pct":12.2,"votes":52256},{"party":"oth","pct":2.2,"votes":9423}]},
+        {"name":"Phuket","abbr":"83","winner":"pp","margin":22.5,"turnout":72.2,"votes":392719,"results":[{"party":"pp","pct":42.7,"votes":167691},{"party":"pt","pct":20.2,"votes":79329},{"party":"bjt","pct":19.2,"votes":75402},{"party":"dem","pct":15.6,"votes":61264},{"party":"oth","pct":2.3,"votes":9033}]},
+        {"name":"Prachin Buri","abbr":"25","winner":"bjt","margin":4.3,"turnout":73,"votes":442950,"results":[{"party":"bjt","pct":41.8,"votes":185153},{"party":"pp","pct":37.5,"votes":166106},{"party":"pt","pct":8.1,"votes":35879},{"party":"dem","pct":7.9,"votes":34993},{"party":"oth","pct":4.7,"votes":20819}]},
+        {"name":"Prachuap Khiri Khan","abbr":"77","winner":"bjt","margin":8.3,"turnout":77.8,"votes":549440,"results":[{"party":"bjt","pct":44.1,"votes":242303},{"party":"pp","pct":35.8,"votes":196700},{"party":"pt","pct":9.6,"votes":52746},{"party":"dem","pct":6,"votes":32966},{"party":"oth","pct":4.5,"votes":24725}]},
+        {"name":"Ranong","abbr":"85","winner":"bjt","margin":3.4,"turnout":66.1,"votes":427590,"results":[{"party":"bjt","pct":37,"votes":158208},{"party":"pp","pct":33.6,"votes":143670},{"party":"pt","pct":15.3,"votes":65421},{"party":"dem","pct":11.3,"votes":48318},{"party":"oth","pct":2.8,"votes":11973}]},
+        {"name":"Ratchaburi","abbr":"70","winner":"bjt","margin":4.8,"turnout":77.3,"votes":470465,"results":[{"party":"bjt","pct":34.5,"votes":162310},{"party":"pp","pct":29.7,"votes":139728},{"party":"pt","pct":19.2,"votes":90329},{"party":"dem","pct":11.4,"votes":53633},{"party":"oth","pct":5.3,"votes":24935}]},
+        {"name":"Rayong","abbr":"21","winner":"pp","margin":18.4,"turnout":68.2,"votes":386993,"results":[{"party":"pp","pct":39.7,"votes":153636},{"party":"bjt","pct":21.3,"votes":82430},{"party":"dem","pct":19.4,"votes":75077},{"party":"pt","pct":13.5,"votes":52244},{"party":"oth","pct":6.1,"votes":23607}]},
+        {"name":"Roi Et","abbr":"45","winner":"pt","margin":11.5,"turnout":77.2,"votes":537571,"results":[{"party":"pt","pct":45.4,"votes":244057},{"party":"pp","pct":33.9,"votes":182237},{"party":"dem","pct":11.1,"votes":59670},{"party":"bjt","pct":7.4,"votes":39780},{"party":"oth","pct":2.2,"votes":11827}]},
+        {"name":"Sa Kaeo","abbr":"27","winner":"pprp","margin":0.7,"turnout":65.3,"votes":482801,"results":[{"party":"pprp","pct":32.9,"votes":158842},{"party":"pp","pct":32.2,"votes":155462},{"party":"bjt","pct":11.8,"votes":56971},{"party":"pt","pct":10,"votes":48280},{"party":"dem","pct":8.4,"votes":40555},{"party":"oth","pct":4.8,"votes":23174}]},
+        {"name":"Sakon Nakhon","abbr":"47","winner":"pp","margin":6.2,"turnout":73.4,"votes":519498,"results":[{"party":"pp","pct":33.2,"votes":172473},{"party":"bjt","pct":27,"votes":140264},{"party":"dem","pct":18.9,"votes":98185},{"party":"pt","pct":14.4,"votes":74808},{"party":"oth","pct":6.6,"votes":34287}]},
+        {"name":"Samut Prakan","abbr":"11","winner":"pp","margin":4.9,"turnout":72,"votes":481095,"results":[{"party":"pp","pct":35.5,"votes":170789},{"party":"pt","pct":30.6,"votes":147215},{"party":"bjt","pct":14.8,"votes":71202},{"party":"dem","pct":14.4,"votes":69278},{"party":"oth","pct":4.6,"votes":22130}]},
+        {"name":"Samut Sakhon","abbr":"74","winner":"pp","margin":30.9,"turnout":68.8,"votes":530294,"results":[{"party":"pp","pct":49.5,"votes":262496},{"party":"bjt","pct":18.6,"votes":98635},{"party":"pt","pct":16.8,"votes":89089},{"party":"dem","pct":10.4,"votes":55151},{"party":"oth","pct":4.7,"votes":24924}]},
+        {"name":"Samut Songkhram","abbr":"75","winner":"pp","margin":5.5,"turnout":76,"votes":425630,"results":[{"party":"pp","pct":32.8,"votes":139607},{"party":"bjt","pct":27.3,"votes":116197},{"party":"dem","pct":21.2,"votes":90234},{"party":"pt","pct":11.4,"votes":48522},{"party":"oth","pct":7.3,"votes":31071}]},
+        {"name":"Saraburi","abbr":"19","winner":"bjt","margin":8.3,"turnout":77.9,"votes":496342,"results":[{"party":"bjt","pct":38.5,"votes":191092},{"party":"pp","pct":30.2,"votes":149895},{"party":"pt","pct":18.4,"votes":91327},{"party":"dem","pct":10,"votes":49634},{"party":"oth","pct":3,"votes":14890}]},
+        {"name":"Satun","abbr":"91","winner":"bjt","margin":9.7,"turnout":72.8,"votes":535419,"results":[{"party":"bjt","pct":43,"votes":230230},{"party":"pp","pct":33.3,"votes":178295},{"party":"pt","pct":10.9,"votes":58361},{"party":"dem","pct":9.3,"votes":49794},{"party":"oth","pct":3.5,"votes":18740}]},
+        {"name":"Si Sa Ket","abbr":"33","winner":"bjt","margin":1.2,"turnout":67.7,"votes":515872,"results":[{"party":"bjt","pct":37.9,"votes":195515},{"party":"pp","pct":36.7,"votes":189325},{"party":"pt","pct":15.7,"votes":80992},{"party":"dem","pct":6.8,"votes":35079},{"party":"oth","pct":2.9,"votes":14960}]},
+        {"name":"Sing Buri","abbr":"17","winner":"bjt","margin":18.4,"turnout":72.7,"votes":561614,"results":[{"party":"bjt","pct":46.2,"votes":259466},{"party":"pp","pct":27.8,"votes":156129},{"party":"dem","pct":12.7,"votes":71325},{"party":"pt","pct":8.8,"votes":49422},{"party":"oth","pct":4.5,"votes":25273}]},
+        {"name":"Songkhla","abbr":"90","winner":"bjt","margin":9.2,"turnout":68,"votes":543070,"results":[{"party":"bjt","pct":38.7,"votes":210168},{"party":"pp","pct":29.5,"votes":160206},{"party":"pt","pct":21.1,"votes":114588},{"party":"dem","pct":5.4,"votes":29326},{"party":"oth","pct":5.3,"votes":28783}]},
+        {"name":"Sukhothai","abbr":"64","winner":"pt","margin":3.1,"turnout":74.4,"votes":463966,"results":[{"party":"pt","pct":32.3,"votes":149861},{"party":"pp","pct":29.2,"votes":135478},{"party":"bjt","pct":17.4,"votes":80730},{"party":"dem","pct":15.5,"votes":71915},{"party":"oth","pct":5.6,"votes":25982}]},
+        {"name":"Suphan Buri","abbr":"72","winner":"bjt","margin":0.3,"turnout":65.5,"votes":551828,"results":[{"party":"bjt","pct":28.1,"votes":155064},{"party":"pp","pct":27.8,"votes":153408},{"party":"dem","pct":23.2,"votes":128024},{"party":"pt","pct":14.5,"votes":80015},{"party":"oth","pct":6.4,"votes":35317}]},
+        {"name":"Surat Thani","abbr":"84","winner":"bjt","margin":6.3,"turnout":66.5,"votes":384268,"results":[{"party":"bjt","pct":43.9,"votes":168694},{"party":"pp","pct":37.6,"votes":144485},{"party":"pt","pct":9.1,"votes":34968},{"party":"dem","pct":7,"votes":26899},{"party":"oth","pct":2.4,"votes":9222}]},
+        {"name":"Surin","abbr":"32","winner":"bjt","margin":10.1,"turnout":65.6,"votes":491356,"results":[{"party":"bjt","pct":43.2,"votes":212266},{"party":"pp","pct":33.1,"votes":162639},{"party":"pt","pct":13.6,"votes":66824},{"party":"dem","pct":5.7,"votes":28007},{"party":"oth","pct":4.3,"votes":21128}]},
+        {"name":"Tak","abbr":"63","winner":"klatham","margin":0.9,"turnout":70.2,"votes":458783,"results":[{"party":"klatham","pct":30.2,"votes":138552},{"party":"pp","pct":29.3,"votes":134423},{"party":"bjt","pct":17.3,"votes":79369},{"party":"pt","pct":15.3,"votes":70194},{"party":"dem","pct":5.7,"votes":26151},{"party":"oth","pct":2.1,"votes":9634}]},
+        {"name":"Trang","abbr":"92","winner":"pp","margin":13.3,"turnout":69.4,"votes":552583,"results":[{"party":"pp","pct":43.1,"votes":238163},{"party":"bjt","pct":29.8,"votes":164670},{"party":"pt","pct":14.9,"votes":82335},{"party":"dem","pct":9.5,"votes":52495},{"party":"oth","pct":2.7,"votes":14920}]},
+        {"name":"Trat","abbr":"23","winner":"bjt","margin":2.5,"turnout":64.5,"votes":504046,"results":[{"party":"bjt","pct":30.4,"votes":153230},{"party":"pp","pct":27.9,"votes":140629},{"party":"dem","pct":22.5,"votes":113410},{"party":"pt","pct":15.1,"votes":76111},{"party":"oth","pct":4.1,"votes":20666}]},
+        {"name":"Ubon Ratchathani","abbr":"34","winner":"pp","margin":22,"turnout":72.5,"votes":467852,"results":[{"party":"pp","pct":46.9,"votes":219423},{"party":"bjt","pct":24.9,"votes":116495},{"party":"dem","pct":16.4,"votes":76728},{"party":"pt","pct":8.3,"votes":38832},{"party":"oth","pct":3.4,"votes":15907}]},
+        {"name":"Udon Thani","abbr":"41","winner":"pp","margin":14.2,"turnout":65,"votes":503846,"results":[{"party":"pp","pct":38.7,"votes":194988},{"party":"bjt","pct":24.5,"votes":123442},{"party":"pt","pct":21.5,"votes":108327},{"party":"dem","pct":11.5,"votes":57942},{"party":"oth","pct":3.8,"votes":19146}]},
+        {"name":"Uthai Thani","abbr":"61","winner":"bjt","margin":0.8,"turnout":70.7,"votes":375899,"results":[{"party":"bjt","pct":37.6,"votes":141338},{"party":"pp","pct":36.8,"votes":138331},{"party":"pt","pct":12.6,"votes":47363},{"party":"dem","pct":10.5,"votes":39469},{"party":"oth","pct":2.5,"votes":9397}]},
+        {"name":"Uttaradit","abbr":"53","winner":"pp","margin":36.9,"turnout":65,"votes":442282,"results":[{"party":"pp","pct":53.8,"votes":237948},{"party":"pt","pct":16.9,"votes":74746},{"party":"bjt","pct":16.6,"votes":73419},{"party":"dem","pct":9.2,"votes":40690},{"party":"oth","pct":3.5,"votes":15480}]},
+        {"name":"Yala","abbr":"95","winner":"prachachat","margin":0.8,"turnout":73.5,"votes":518830,"results":[{"party":"prachachat","pct":23.6,"votes":122444},{"party":"pp","pct":22.8,"votes":118293},{"party":"bjt","pct":21.9,"votes":113624},{"party":"pt","pct":18.6,"votes":96502},{"party":"dem","pct":9.5,"votes":49289},{"party":"oth","pct":3.6,"votes":18678}]},
+        {"name":"Yasothon","abbr":"35","winner":"bjt","margin":4.1,"turnout":64.5,"votes":489407,"results":[{"party":"bjt","pct":35.7,"votes":174718},{"party":"pp","pct":31.6,"votes":154653},{"party":"pt","pct":16.4,"votes":80263},{"party":"dem","pct":12.8,"votes":62644},{"party":"oth","pct":3.5,"votes":17129}]}
+      ]
+    }
+  ]
+}

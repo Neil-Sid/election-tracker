@@ -998,6 +998,48 @@
         "regions"
       ],
       "history": true
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "atlasId": "764",
+      "marker": [
+        101,
+        15.5
+      ],
+      "view": {
+        "center": [
+          101,
+          13.2
+        ],
+        "span": 10
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "atlasId": "458",
+      "marker": [
+        102,
+        4
+      ],
+      "view": {
+        "center": [
+          109.5,
+          4
+        ],
+        "span": 13
+      },
+      "regionTerm": [
+        "state",
+        "states"
+      ],
+      "history": true
     }
   ]
 }

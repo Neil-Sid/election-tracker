@@ -419,6 +419,22 @@
       "url": "https://www.elections.ma",
       "role": "Official results",
       "note": "Organises the elections and publishes the official results on its elections portal."
+    },
+    "TH": {
+      "access": "public",
+      "name": "Election Commission of Thailand",
+      "short": "ECT",
+      "url": "https://www.ect.go.th",
+      "role": "Official results",
+      "note": "Runs national elections, publishes the count and certifies the winners; it can order re-runs and disqualify candidates."
+    },
+    "MY": {
+      "access": "public",
+      "name": "Election Commission of Malaysia",
+      "short": "SPR",
+      "url": "https://www.spr.gov.my",
+      "role": "Official results",
+      "note": "Suruhanjaya Pilihan Raya conducts federal and state elections and reviews constituency boundaries."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."
