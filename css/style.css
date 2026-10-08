@@ -254,10 +254,6 @@ canvas.globe.grabbing { cursor: grabbing; }
 
 .intro h1 { font: 600 38px/1.08 var(--font-display); letter-spacing: -0.035em; }
 
-.stats { display: grid; grid-template-columns: repeat(2, 1fr); margin-top: 28px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.stats div + div { padding-left: 16px; border-left: 1px solid var(--line); }
-.stats dt { font-size: 12px; color: var(--muted); }
-.stats dd { margin-top: 2px; font: 600 24px/1.2 var(--font-display); letter-spacing: -0.03em; font-variant-numeric: tabular-nums; }
 
 .feature { display: block; margin-top: 28px; }
 .feature .count { display: flex; align-items: baseline; gap: 8px; margin-top: 6px; }
