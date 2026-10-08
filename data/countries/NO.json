@@ -1,0 +1,255 @@
+{
+  "code": "NO",
+  "name": "Norway",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Storting (169)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 4059218,
+    "offices": {
+      "Storting": "The 169 members are elected for four years by party-list proportional representation (modified Sainte-Laguë) in 19 constituencies based on the pre-2018 counties, with 19 levelling seats for parties above 4% nationally. The Storting passes laws and the state budget, and the government needs its confidence."
+    }
+  },
+  "parties": {
+    "ap": {
+      "name": "Labour Party",
+      "color": "#E11926"
+    },
+    "frp": {
+      "name": "Progress Party",
+      "color": "#004F80"
+    },
+    "h": {
+      "name": "Conservative Party",
+      "color": "#87ADD7"
+    },
+    "sv": {
+      "name": "Socialist Left Party",
+      "color": "#B5317C"
+    },
+    "sp": {
+      "name": "Centre Party",
+      "color": "#00843D"
+    },
+    "r": {
+      "name": "Red Party",
+      "color": "#871212"
+    },
+    "mdg": {
+      "name": "Green Party",
+      "color": "#6A9325"
+    },
+    "krf": {
+      "name": "Christian Democratic Party",
+      "color": "#FDED34"
+    },
+    "v": {
+      "name": "Liberal Party",
+      "color": "#006666"
+    },
+    "nkp": {
+      "name": "Communist Party",
+      "color": "#990000"
+    },
+    "sf": {
+      "name": "Socialist People's Party",
+      "color": "#B5317C"
+    },
+    "dnf": {
+      "name": "Liberal People's Party",
+      "color": "#5FA8A0"
+    },
+    "rv": {
+      "name": "Red Electoral Alliance",
+      "color": "#A31F34"
+    },
+    "pp": {
+      "name": "Pensioners' Party",
+      "color": "#7E57C2"
+    },
+    "kyst": {
+      "name": "Coastal Party",
+      "color": "#00AD8E"
+    },
+    "fff": {
+      "name": "Future for Finnmark",
+      "color": "#FFB4CD"
+    },
+    "tf": {
+      "name": "Non-Partisan Deputies",
+      "color": "#A1887F"
+    },
+    "pf": {
+      "name": "Patient Focus",
+      "color": "#F69465"
+    },
+    "nd": {
+      "name": "Norway Democrats",
+      "color": "#001F5A"
+    },
+    "jbhv": {
+      "name": "Farmers–Conservatives–Liberals joint list",
+      "color": "#C2A878"
+    },
+    "jbh": {
+      "name": "Farmers–Conservatives joint list",
+      "color": "#8D6E63"
+    },
+    "jbv": {
+      "name": "Farmers–Liberals joint list",
+      "color": "#D7B8A0"
+    },
+    "jvh": {
+      "name": "Liberals–Conservatives joint list",
+      "color": "#B39DDB"
+    },
+    "jspv": {
+      "name": "Centre–Liberal joint list",
+      "color": "#8D9B6A"
+    },
+    "jkrfh": {
+      "name": "Christian Democratic–Conservative joint list",
+      "color": "#C9B458"
+    },
+    "jspvkrf": {
+      "name": "Centre–Liberal–Christian Democratic joint list",
+      "color": "#C08A5B"
+    },
+    "jns": {
+      "name": "Non-socialist joint lists",
+      "color": "#9C8C7A"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "no-storting-2025",
+      "office": "Storting",
+      "kind": "legislative",
+      "date": "2025-09-08",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 80.11,
+      "system": "169 seats, list proportional by county",
+      "totalSeats": 169,
+      "majority": 85,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "valgresultat.no (Norwegian Directorate of Elections)",
+        "url": "https://en.wikipedia.org/wiki/2025_Norwegian_parliamentary_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_Norwegian_parliamentary_election#Results_by_constituency",
+      "candidates": [
+        {
+          "name": "Labour Party",
+          "party": "ap",
+          "votes": 902296,
+          "pct": 28.02,
+          "seats": 53,
+          "change": 5,
+          "winner": true
+        },
+        {
+          "name": "Progress Party",
+          "party": "frp",
+          "votes": 767903,
+          "pct": 23.85,
+          "seats": 47,
+          "change": 26
+        },
+        {
+          "name": "Conservative Party",
+          "party": "h",
+          "votes": 471602,
+          "pct": 14.65,
+          "seats": 24,
+          "change": -12
+        },
+        {
+          "name": "Socialist Left Party",
+          "party": "sv",
+          "votes": 181192,
+          "pct": 5.63,
+          "seats": 9,
+          "change": -4
+        },
+        {
+          "name": "Centre Party",
+          "party": "sp",
+          "votes": 179994,
+          "pct": 5.59,
+          "seats": 9,
+          "change": -19
+        },
+        {
+          "name": "Red Party",
+          "party": "r",
+          "votes": 171342,
+          "pct": 5.32,
+          "seats": 9,
+          "change": 1
+        },
+        {
+          "name": "Green Party",
+          "party": "mdg",
+          "votes": 152782,
+          "pct": 4.74,
+          "seats": 8,
+          "change": 5
+        },
+        {
+          "name": "Christian Democratic Party",
+          "party": "krf",
+          "votes": 135230,
+          "pct": 4.2,
+          "seats": 7,
+          "change": 4
+        },
+        {
+          "name": "Liberal Party",
+          "party": "v",
+          "votes": 118941,
+          "pct": 3.69,
+          "seats": 3,
+          "change": -5
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 138606,
+          "pct": 4.3,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Akershus","abbr":"02","winner":"ap","margin":10,"turnout":86.4,"votes":164687,"results":[{"party":"ap","pct":37.3,"votes":61428},{"party":"h","pct":27.3,"votes":44960},{"party":"frp","pct":20.5,"votes":33761},{"party":"sv","pct":9.8,"votes":16139},{"party":"sp","pct":5,"votes":8234}]},
+        {"name":"Aust-Agder","abbr":"09","winner":"frp","margin":2.3,"turnout":80.4,"votes":161487,"results":[{"party":"frp","pct":40.1,"votes":64756},{"party":"ap","pct":37.8,"votes":61042},{"party":"h","pct":11.5,"votes":18571},{"party":"sv","pct":6.8,"votes":10981},{"party":"sp","pct":3.8,"votes":6137}]},
+        {"name":"Buskerud","abbr":"06","winner":"ap","margin":1.5,"turnout":75.9,"votes":148387,"results":[{"party":"ap","pct":33.6,"votes":49858},{"party":"frp","pct":32.1,"votes":47632},{"party":"h","pct":18.2,"votes":27006},{"party":"sv","pct":8.2,"votes":12168},{"party":"sp","pct":7.9,"votes":11723}]},
+        {"name":"Finnmark","abbr":"20","winner":"ap","margin":0.4,"turnout":85.6,"votes":141228,"results":[{"party":"ap","pct":35.9,"votes":50701},{"party":"frp","pct":35.5,"votes":50136},{"party":"h","pct":11.9,"votes":16806},{"party":"sv","pct":9.1,"votes":12852},{"party":"sp","pct":7.7,"votes":10875}]},
+        {"name":"Hedmark","abbr":"04","winner":"ap","margin":2.9,"turnout":74.5,"votes":151743,"results":[{"party":"ap","pct":37.2,"votes":56448},{"party":"frp","pct":34.3,"votes":52048},{"party":"h","pct":13.8,"votes":20941},{"party":"sv","pct":8.5,"votes":12898},{"party":"sp","pct":6.2,"votes":9408}]},
+        {"name":"Hordaland","abbr":"12","winner":"ap","margin":20.8,"turnout":81,"votes":187197,"results":[{"party":"ap","pct":43.7,"votes":81805},{"party":"h","pct":22.9,"votes":42868},{"party":"frp","pct":22.3,"votes":41745},{"party":"sp","pct":6.2,"votes":11606},{"party":"sv","pct":4.9,"votes":9173}]},
+        {"name":"Møre og Romsdal","abbr":"15","winner":"frp","margin":1.3,"turnout":81.8,"votes":156940,"results":[{"party":"frp","pct":35.4,"votes":55557},{"party":"ap","pct":34.1,"votes":53517},{"party":"h","pct":17.3,"votes":27151},{"party":"sv","pct":7.5,"votes":11771},{"party":"sp","pct":5.7,"votes":8946}]},
+        {"name":"Nord-Trøndelag","abbr":"17","winner":"ap","margin":19.5,"turnout":83.9,"votes":202155,"results":[{"party":"ap","pct":44.3,"votes":89555},{"party":"h","pct":24.8,"votes":50134},{"party":"frp","pct":17.6,"votes":35579},{"party":"sv","pct":8.3,"votes":16779},{"party":"sp","pct":4.9,"votes":9906}]},
+        {"name":"Nordland","abbr":"18","winner":"ap","margin":16.8,"turnout":86.5,"votes":169799,"results":[{"party":"ap","pct":40,"votes":67920},{"party":"frp","pct":23.2,"votes":39393},{"party":"h","pct":21.1,"votes":35828},{"party":"sv","pct":9.1,"votes":15452},{"party":"sp","pct":6.6,"votes":11207}]},
+        {"name":"Oppland","abbr":"05","winner":"ap","margin":13.6,"turnout":74.6,"votes":142133,"results":[{"party":"ap","pct":38.7,"votes":55005},{"party":"frp","pct":25.1,"votes":35675},{"party":"h","pct":19.8,"votes":28142},{"party":"sv","pct":9.8,"votes":13929},{"party":"sp","pct":6.6,"votes":9381}]},
+        {"name":"Oslo","abbr":"03","winner":"ap","margin":9.6,"turnout":77.4,"votes":172880,"results":[{"party":"ap","pct":40.6,"votes":70189},{"party":"frp","pct":31,"votes":53593},{"party":"h","pct":16.1,"votes":27834},{"party":"sv","pct":6.3,"votes":10891},{"party":"sp","pct":6,"votes":10373}]},
+        {"name":"Østfold","abbr":"01","winner":"ap","margin":12.5,"turnout":80.9,"votes":186971,"results":[{"party":"ap","pct":38.6,"votes":72171},{"party":"h","pct":26.1,"votes":48799},{"party":"frp","pct":18.9,"votes":35338},{"party":"sp","pct":8.8,"votes":16453},{"party":"sv","pct":7.5,"votes":14023}]},
+        {"name":"Rogaland","abbr":"11","winner":"frp","margin":12.5,"turnout":78.1,"votes":154881,"results":[{"party":"frp","pct":45.3,"votes":70161},{"party":"ap","pct":32.8,"votes":50801},{"party":"h","pct":8.4,"votes":13010},{"party":"sv","pct":7.7,"votes":11926},{"party":"sp","pct":5.8,"votes":8983}]},
+        {"name":"Sogn og Fjordane","abbr":"14","winner":"ap","margin":20.5,"turnout":73.7,"votes":161785,"results":[{"party":"ap","pct":44.7,"votes":72318},{"party":"frp","pct":24.2,"votes":39152},{"party":"h","pct":18.3,"votes":29607},{"party":"sp","pct":8.3,"votes":13428},{"party":"sv","pct":4.5,"votes":7280}]},
+        {"name":"Sør-Trøndelag","abbr":"16","winner":"ap","margin":3,"turnout":82.4,"votes":200571,"results":[{"party":"ap","pct":33.6,"votes":67392},{"party":"frp","pct":30.6,"votes":61375},{"party":"h","pct":23.2,"votes":46532},{"party":"sv","pct":8.5,"votes":17049},{"party":"sp","pct":4.1,"votes":8223}]},
+        {"name":"Telemark","abbr":"08","winner":"ap","margin":4.7,"turnout":85,"votes":159795,"results":[{"party":"ap","pct":36.4,"votes":58165},{"party":"frp","pct":31.7,"votes":50655},{"party":"h","pct":23.9,"votes":38191},{"party":"sp","pct":4.8,"votes":7670},{"party":"sv","pct":3.3,"votes":5273}]},
+        {"name":"Troms","abbr":"19","winner":"ap","margin":9.5,"turnout":76.1,"votes":147789,"results":[{"party":"ap","pct":36.7,"votes":54239},{"party":"h","pct":27.2,"votes":40199},{"party":"frp","pct":23.3,"votes":34435},{"party":"sv","pct":7.3,"votes":10789},{"party":"sp","pct":5.6,"votes":8276}]},
+        {"name":"Vest-Agder","abbr":"10","winner":"frp","margin":4.4,"turnout":80.3,"votes":165596,"results":[{"party":"frp","pct":43.3,"votes":71703},{"party":"ap","pct":38.9,"votes":64417},{"party":"h","pct":8.7,"votes":14407},{"party":"sv","pct":5.5,"votes":9108},{"party":"sp","pct":3.5,"votes":5796}]},
+        {"name":"Vestfold","abbr":"07","winner":"frp","margin":12.4,"turnout":84.1,"votes":201104,"results":[{"party":"frp","pct":36.9,"votes":74207},{"party":"h","pct":24.5,"votes":49270},{"party":"ap","pct":22,"votes":44243},{"party":"sv","pct":9.4,"votes":18904},{"party":"sp","pct":7.3,"votes":14681}]}
+      ]
+    }
+  ]
+}

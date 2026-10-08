@@ -1,0 +1,2312 @@
+{
+ "code": "NO",
+ "parties": {
+  "ap": {
+   "name": "Labour Party",
+   "color": "#E11926",
+   "article": "Labour Party (Norway)"
+  },
+  "h": {
+   "name": "Conservative Party",
+   "color": "#87ADD7",
+   "article": "Conservative Party (Norway)"
+  },
+  "frp": {
+   "name": "Progress Party",
+   "color": "#004F80",
+   "article": "Progress Party (Norway)"
+  },
+  "sv": {
+   "name": "Socialist Left Party",
+   "color": "#B5317C",
+   "article": "Socialist Left Party (Norway)"
+  },
+  "sp": {
+   "name": "Centre Party",
+   "color": "#00843D",
+   "article": "Centre Party (Norway)"
+  },
+  "r": {
+   "name": "Red Party",
+   "color": "#871212",
+   "article": "Red Party (Norway)"
+  },
+  "mdg": {
+   "name": "Green Party",
+   "color": "#6A9325",
+   "article": "Green Party (Norway)"
+  },
+  "krf": {
+   "name": "Christian Democratic Party",
+   "color": "#FDED34",
+   "article": "Christian Democratic Party (Norway)"
+  },
+  "v": {
+   "name": "Liberal Party",
+   "color": "#006666",
+   "article": "Liberal Party (Norway)"
+  },
+  "nkp": {
+   "name": "Communist Party",
+   "color": "#990000",
+   "article": "Communist Party of Norway"
+  },
+  "sf": {
+   "name": "Socialist People's Party",
+   "color": "#B5317C",
+   "article": "Socialist People's Party (Norway)"
+  },
+  "dnf": {
+   "name": "Liberal People's Party",
+   "color": "#5FA8A0",
+   "article": "Liberal People's Party (Norway, 1972)"
+  },
+  "rv": {
+   "name": "Red Electoral Alliance",
+   "color": "#A31F34",
+   "article": "Red Electoral Alliance"
+  },
+  "pp": {
+   "name": "Pensioners' Party",
+   "color": "#7E57C2",
+   "article": "Pensioners' Party (Norway)"
+  },
+  "kyst": {
+   "name": "Coastal Party",
+   "color": "#00AD8E",
+   "article": "Coastal Party"
+  },
+  "fff": {
+   "name": "Future for Finnmark",
+   "color": "#FFB4CD",
+   "article": "Future for Finnmark"
+  },
+  "tf": {
+   "name": "Non-Partisan Deputies",
+   "color": "#A1887F",
+   "article": "Non-Partisan Deputies"
+  },
+  "pf": {
+   "name": "Patient Focus",
+   "color": "#F69465",
+   "article": "Patient Focus (Norway)"
+  },
+  "nd": {
+   "name": "Norway Democrats",
+   "color": "#001F5A",
+   "article": "Norway Democrats"
+  },
+  "jbhv": {
+   "name": "Farmers–Conservatives–Liberals joint list",
+   "color": "#C2A878"
+  },
+  "jbh": {
+   "name": "Farmers–Conservatives joint list",
+   "color": "#8D6E63"
+  },
+  "jbv": {
+   "name": "Farmers–Liberals joint list",
+   "color": "#D7B8A0"
+  },
+  "jvh": {
+   "name": "Liberals–Conservatives joint list",
+   "color": "#B39DDB"
+  },
+  "jspv": {
+   "name": "Centre–Liberal joint list",
+   "color": "#8D9B6A"
+  },
+  "jkrfh": {
+   "name": "Christian Democratic–Conservative joint list",
+   "color": "#C9B458"
+  },
+  "jspvkrf": {
+   "name": "Centre–Liberal–Christian Democratic joint list",
+   "color": "#C08A5B"
+  },
+  "jns": {
+   "name": "Non-socialist joint lists",
+   "color": "#9C8C7A"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "no-storting-1949",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1949-10-10",
+   "totalSeats": 150,
+   "turnout": 82.02,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1949_Norwegian_parliamentary_election",
+    "revid": 1375609494
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 803471,
+     "pct": 45.69,
+     "seats": 85,
+     "change": 9,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 279790,
+     "pct": 15.91,
+     "seats": 21,
+     "change": -2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 218866,
+     "pct": 12.45,
+     "seats": 20,
+     "change": 1
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 147068,
+     "pct": 8.36,
+     "seats": 9,
+     "change": 1
+    },
+    {
+     "name": "Farmers' Party",
+     "party": "sp",
+     "votes": 85418,
+     "pct": 4.86,
+     "seats": 6,
+     "change": 2
+    },
+    {
+     "name": "Farmers–Conservatives–Liberals",
+     "party": "jbhv",
+     "votes": 45311,
+     "pct": 2.58,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Farmers–Conservatives",
+     "party": "jbh",
+     "votes": 35860,
+     "pct": 2.04,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Farmers–Liberals",
+     "party": "jbv",
+     "votes": 22408,
+     "pct": 1.27,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "nkp",
+     "votes": 102722,
+     "pct": 5.84,
+     "seats": 0,
+     "change": -11
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 17452,
+     "pct": 0.99,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Joint lists are shown as the table gives them. Farmers–Conservatives–Liberals won 4 seats (2 Conservative, 2 Farmers' Party); Farmers–Conservatives won 3 (all Farmers' Party); Farmers–Liberals won 2 (one each). Party seat changes in the table compare totals that include seats taken on joint lists. Others includes the Christians–Liberals joint list (4,334) and 30 wild votes. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article. Only Oslo is given: in 1949 the other county constituencies left out their market towns, which voted in separate town constituencies.",
+   "regionWinners": {
+    "03": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1953",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1953-10-12",
+   "totalSeats": 150,
+   "turnout": 79.33,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1953_Norwegian_parliamentary_election",
+    "revid": 1375584386
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 830448,
+     "pct": 46.66,
+     "seats": 77,
+     "change": -8,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 327971,
+     "pct": 18.43,
+     "seats": 26,
+     "change": 4
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 177662,
+     "pct": 9.98,
+     "seats": 15,
+     "change": -6
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 186627,
+     "pct": 10.49,
+     "seats": 14,
+     "change": 5
+    },
+    {
+     "name": "Farmers' Party",
+     "party": "sp",
+     "votes": 157018,
+     "pct": 8.82,
+     "seats": 14,
+     "change": 2
+    },
+    {
+     "name": "Communist Party",
+     "party": "nkp",
+     "votes": 90422,
+     "pct": 5.08,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "Farmers–Conservatives",
+     "party": "jbh",
+     "votes": 9661,
+     "pct": 0.54,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 22,
+     "pct": 0,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The Farmers–Conservatives joint list won 1 seat, taken by the Conservative Party. Party seat changes in the table compare totals that include seats taken on joint lists. Others includes 22 wild votes. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article. Hordaland is left out because Bergen was a separate constituency until 1973.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1957",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1957-10-07",
+   "totalSeats": 150,
+   "turnout": 78.32,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1957_Norwegian_parliamentary_election",
+    "revid": 1375584291
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 865675,
+     "pct": 48.33,
+     "seats": 78,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 301395,
+     "pct": 16.83,
+     "seats": 25,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 171407,
+     "pct": 9.57,
+     "seats": 15,
+     "change": 0
+    },
+    {
+     "name": "Farmers' Party",
+     "party": "sp",
+     "votes": 154761,
+     "pct": 8.64,
+     "seats": 14,
+     "change": 1
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 183243,
+     "pct": 10.23,
+     "seats": 12,
+     "change": -2
+    },
+    {
+     "name": "Farmers'–Conservatives",
+     "party": "jbh",
+     "votes": 45476,
+     "pct": 2.54,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "nkp",
+     "votes": 60060,
+     "pct": 3.35,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Liberals–Conservatives",
+     "party": "jvh",
+     "votes": 5884,
+     "pct": 0.33,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3227,
+     "pct": 0.18,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Farmers'–Conservatives won 4 seats (3 Conservative, 1 Farmers' Party); Liberals–Conservatives won 1 (Conservative). Party seat changes in the table compare totals that include seats taken on joint lists. Others includes 18 wild votes. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article. Hordaland is left out because Bergen was a separate constituency until 1973.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1961",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1961-09-11",
+   "totalSeats": 150,
+   "turnout": 79.07,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1961_Norwegian_parliamentary_election",
+    "revid": 1375584240
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 860526,
+     "pct": 46.76,
+     "seats": 74,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 354369,
+     "pct": 19.26,
+     "seats": 28,
+     "change": 0
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 171451,
+     "pct": 9.32,
+     "seats": 14,
+     "change": 3
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 132429,
+     "pct": 7.2,
+     "seats": 11,
+     "change": -1
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 125643,
+     "pct": 6.83,
+     "seats": 11,
+     "change": 1
+    },
+    {
+     "name": "Centrists–Liberals",
+     "party": "jspv",
+     "votes": 75822,
+     "pct": 4.12,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Socialist People's Party",
+     "party": "sf",
+     "votes": 43996,
+     "pct": 2.39,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Christians–Conservatives",
+     "party": "jkrfh",
+     "votes": 19409,
+     "pct": 1.05,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "nkp",
+     "votes": 53678,
+     "pct": 2.92,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2902,
+     "pct": 0.16,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The Farmers' Party was renamed the Centre Party in 1959. Centrists–Liberals won 8 seats (5 Centre, 3 Liberal); Christians–Conservatives won 2 (one each). Party seat changes in the table compare totals that include seats taken on joint lists. Socialist People's Party is \"New\" in the table's change column (stored as null). Others includes 64 wild votes. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article. Hordaland is left out because Bergen was a separate constituency until 1973. Vest-Agder's most-voted list was the Liberal–Centre joint list (18,770 votes to Labour's 18,569).",
+   "regionWinners": {
+    "10": "jspv",
+    "11": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1965",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1965-09-13",
+   "totalSeats": 150,
+   "turnout": 85.43,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1965_Norwegian_parliamentary_election",
+    "revid": 1375584199
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 883320,
+     "pct": 43.14,
+     "seats": 68,
+     "change": -6,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 415612,
+     "pct": 20.3,
+     "seats": 30,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 207834,
+     "pct": 10.15,
+     "seats": 18,
+     "change": 4
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 191702,
+     "pct": 9.36,
+     "seats": 17,
+     "change": 2
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 160331,
+     "pct": 7.83,
+     "seats": 12,
+     "change": -2
+    },
+    {
+     "name": "Socialist People's Party",
+     "party": "sf",
+     "votes": 122721,
+     "pct": 5.99,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Christians–Conservatives",
+     "party": "jkrfh",
+     "votes": 22800,
+     "pct": 1.11,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Centrists–Liberals",
+     "party": "jspv",
+     "votes": 14713,
+     "pct": 0.72,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Communist Party",
+     "party": "nkp",
+     "votes": 27996,
+     "pct": 1.37,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 365,
+     "pct": 0.02,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Christians–Conservatives won 2 seats (one each); Centrists–Liberals won 1 (Centre). Party seat changes in the table compare totals that include seats taken on joint lists. Others includes 8 wild votes. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article. Hordaland is left out because Bergen was a separate constituency until 1973.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1969",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1969-09-08",
+   "totalSeats": 150,
+   "turnout": 83.84,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1969_Norwegian_parliamentary_election",
+    "revid": 1345329911
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 1004348,
+     "pct": 46.53,
+     "seats": 74,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 406209,
+     "pct": 18.82,
+     "seats": 28,
+     "change": -2
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 194128,
+     "pct": 8.99,
+     "seats": 17,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 202553,
+     "pct": 9.38,
+     "seats": 13,
+     "change": -5
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 169303,
+     "pct": 7.84,
+     "seats": 12,
+     "change": 1
+    },
+    {
+     "name": "Christians–Conservatives and Centrists–Christians (joint lists)",
+     "party": "jns",
+     "votes": 83073,
+     "pct": 3.85,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Socialist People's Party",
+     "party": "sf",
+     "votes": 73284,
+     "pct": 3.39,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Communist Party",
+     "party": "nkp",
+     "votes": 21517,
+     "pct": 1,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4297,
+     "pct": 0.2,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The table gives one vote total (83,073) for two joint lists, Christians–Conservatives (2 seats, one each) and Centrists–Christians (4 seats: 3 Centre, 1 Christian Democratic), so they are one row here. Party seat changes in the table compare totals that include seats taken on joint lists. Others includes 6 wild votes. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article. Hordaland is left out because Bergen was a separate constituency until 1973.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1973",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1973-09-10",
+   "totalSeats": 155,
+   "turnout": 80.24,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1973_Norwegian_parliamentary_election",
+    "revid": 1345309017
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 759499,
+     "pct": 35.29,
+     "seats": 62,
+     "change": -12,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 370370,
+     "pct": 17.21,
+     "seats": 29,
+     "change": 0
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 255456,
+     "pct": 11.87,
+     "seats": 19,
+     "change": 6
+    },
+    {
+     "name": "Socialist Electoral League",
+     "party": "sv",
+     "votes": 241851,
+     "pct": 11.24,
+     "seats": 16,
+     "change": 16
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 146312,
+     "pct": 6.8,
+     "seats": 13,
+     "change": 1
+    },
+    {
+     "name": "Centrists–Liberals",
+     "party": "jspv",
+     "votes": 97639,
+     "pct": 4.54,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Anders Lange's Party",
+     "party": "frp",
+     "votes": 107784,
+     "pct": 5.01,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Centrists–Liberals–Christians",
+     "party": "jspvkrf",
+     "votes": 21783,
+     "pct": 1.01,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "New People's Party",
+     "party": "dnf",
+     "votes": 73854,
+     "pct": 3.43,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 49668,
+     "pct": 2.31,
+     "seats": 1,
+     "change": -11
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 27988,
+     "pct": 1.3,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Anders Lange's Party is today's Progress Party, and the Socialist Electoral League is today's Socialist Left Party. Centrists–Liberals won 7 seats (6 Centre, 1 Liberal); Centrists–Liberals–Christians won 3 (2 Centre, 1 Christian Democratic). Party seat changes in the table compare totals that include seats taken on joint lists. Change is \"New\" in the table for the Socialist Electoral League, Anders Lange's Party and the New People's Party (stored as null). Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1977",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1977-09-12",
+   "totalSeats": 155,
+   "turnout": 82.89,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1977_Norwegian_parliamentary_election",
+    "revid": 1345308141
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 972434,
+     "pct": 42.26,
+     "seats": 76,
+     "change": 14,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 563783,
+     "pct": 24.5,
+     "seats": 40,
+     "change": 12
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 224355,
+     "pct": 9.75,
+     "seats": 18,
+     "change": 2
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 184087,
+     "pct": 8,
+     "seats": 11,
+     "change": -9
+    },
+    {
+     "name": "Non-socialist joint lists",
+     "party": "jns",
+     "votes": 111412,
+     "pct": 4.84,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 96248,
+     "pct": 4.18,
+     "seats": 2,
+     "change": -14
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 54243,
+     "pct": 2.36,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 43351,
+     "pct": 1.88,
+     "seats": 0,
+     "change": -4
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 51197,
+     "pct": 2.22,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Non-socialist joint lists won 7 seats (4 Christian Democratic, and one each for the Centre, Conservative and Liberal parties). Party seat changes in the table compare totals that include seats taken on joint lists. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1981",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1981-09-14",
+   "totalSeats": 155,
+   "turnout": 81.99,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1981_Norwegian_parliamentary_election",
+    "revid": 1345307031
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 914749,
+     "pct": 37.2,
+     "seats": 66,
+     "change": -10,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 780372,
+     "pct": 31.74,
+     "seats": 53,
+     "change": 12
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 219179,
+     "pct": 8.91,
+     "seats": 15,
+     "change": -7
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 103753,
+     "pct": 4.22,
+     "seats": 6,
+     "change": -1
+    },
+    {
+     "name": "Non-socialist joint lists",
+     "party": "jns",
+     "votes": 88969,
+     "pct": 3.62,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 121561,
+     "pct": 4.94,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 109564,
+     "pct": 4.46,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 79064,
+     "pct": 3.22,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 41610,
+     "pct": 1.69,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Non-socialist joint lists won 5 seats, all taken by the Centre Party. Party seat changes in the table compare totals that include seats taken on joint lists. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "h",
+    "11": "h",
+    "12": "h",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "h",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "h",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1985",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1985-09-09",
+   "totalSeats": 157,
+   "turnout": 84.03,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1985_Norwegian_parliamentary_election",
+    "revid": 1345306198
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 1061712,
+     "pct": 40.81,
+     "seats": 71,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 791537,
+     "pct": 30.42,
+     "seats": 50,
+     "change": -3
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 214969,
+     "pct": 8.26,
+     "seats": 16,
+     "change": 1
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 171770,
+     "pct": 6.6,
+     "seats": 12,
+     "change": 1
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 141950,
+     "pct": 5.46,
+     "seats": 6,
+     "change": 2
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 96797,
+     "pct": 3.72,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 81202,
+     "pct": 3.12,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 41880,
+     "pct": 1.61,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The table gives one vote total (2,013) for four small lists; it is counted once in Others. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "h",
+    "11": "h",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "h",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "h",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1989",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1989-09-11",
+   "totalSeats": 165,
+   "turnout": 83.16,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1989_Norwegian_parliamentary_election",
+    "revid": 1369586501
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 907393,
+     "pct": 34.27,
+     "seats": 63,
+     "change": -8,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 588682,
+     "pct": 22.23,
+     "seats": 37,
+     "change": -13
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 345185,
+     "pct": 13.04,
+     "seats": 22,
+     "change": 20
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 266782,
+     "pct": 10.08,
+     "seats": 17,
+     "change": 11
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 224852,
+     "pct": 8.49,
+     "seats": 14,
+     "change": -2
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 171269,
+     "pct": 6.47,
+     "seats": 11,
+     "change": -1
+    },
+    {
+     "name": "Future for Finnmark",
+     "party": "fff",
+     "votes": 8817,
+     "pct": 0.33,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 84740,
+     "pct": 3.2,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 49884,
+     "pct": 1.88,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Future for Finnmark is \"New\" in the table's change column (stored as null). Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "h",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1993",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1993-09-13",
+   "totalSeats": 165,
+   "turnout": 75.85,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010) and the European Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1993_Norwegian_parliamentary_election",
+    "revid": 1364449616
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 908724,
+     "pct": 36.91,
+     "seats": 67,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 412187,
+     "pct": 16.74,
+     "seats": 32,
+     "change": 21
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 419373,
+     "pct": 17.03,
+     "seats": 28,
+     "change": -9
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 194633,
+     "pct": 7.91,
+     "seats": 13,
+     "change": -4
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 193885,
+     "pct": 7.88,
+     "seats": 13,
+     "change": -1
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 154497,
+     "pct": 6.28,
+     "seats": 10,
+     "change": -12
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 88985,
+     "pct": 3.61,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Red Electoral Alliance",
+     "party": "rv",
+     "votes": 26360,
+     "pct": 1.07,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Pensioners' Party",
+     "party": "pp",
+     "votes": 25835,
+     "pct": 1.05,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 37470,
+     "pct": 1.52,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "The table gives one vote total (5,663) for four small lists; it is counted once in Others. Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "ap",
+    "11": "ap",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-1997",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "1997-09-15",
+   "totalSeats": 165,
+   "turnout": 78.33,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010) and the European Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1997_Norwegian_parliamentary_election",
+    "revid": 1363695396
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 904362,
+     "pct": 35,
+     "seats": 65,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 395376,
+     "pct": 15.3,
+     "seats": 25,
+     "change": 15
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 353082,
+     "pct": 13.66,
+     "seats": 25,
+     "change": 12
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 370441,
+     "pct": 14.34,
+     "seats": 23,
+     "change": -5
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 204824,
+     "pct": 7.93,
+     "seats": 11,
+     "change": -21
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 155307,
+     "pct": 6.01,
+     "seats": 9,
+     "change": -4
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 115077,
+     "pct": 4.45,
+     "seats": 6,
+     "change": 5
+    },
+    {
+     "name": "Non-Partisan Deputies",
+     "party": "tf",
+     "votes": 9195,
+     "pct": 0.36,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Red Electoral Alliance",
+     "party": "rv",
+     "votes": 43252,
+     "pct": 1.67,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 33245,
+     "pct": 1.29,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "krf",
+    "11": "ap",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-2001",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "2001-09-10",
+   "totalSeats": 165,
+   "turnout": 75.54,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010) and the Storting",
+    "url": "https://en.wikipedia.org/wiki/2001_Norwegian_parliamentary_election",
+    "revid": 1360479417
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 612632,
+     "pct": 24.29,
+     "seats": 43,
+     "change": -22,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 534852,
+     "pct": 21.21,
+     "seats": 38,
+     "change": 15
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 369236,
+     "pct": 14.64,
+     "seats": 26,
+     "change": 1
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 316397,
+     "pct": 12.55,
+     "seats": 23,
+     "change": 14
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 312839,
+     "pct": 12.41,
+     "seats": 22,
+     "change": -3
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 140287,
+     "pct": 5.56,
+     "seats": 10,
+     "change": -1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 98486,
+     "pct": 3.91,
+     "seats": 2,
+     "change": -4
+    },
+    {
+     "name": "Coastal Party",
+     "party": "kyst",
+     "votes": 44010,
+     "pct": 1.75,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Red Electoral Alliance",
+     "party": "rv",
+     "votes": 30015,
+     "pct": 1.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 63066,
+     "pct": 2.5,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Coastal Party is \"New\" in the table's change column (stored as null). Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "krf",
+    "11": "h",
+    "12": "h",
+    "14": "ap",
+    "15": "krf",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "h",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "h",
+    "08": "ap",
+    "09": "h"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-2005",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "2005-09-12",
+   "totalSeats": 169,
+   "turnout": 77.43,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010) and the European Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2005_Norwegian_parliamentary_election",
+    "revid": 1348770250
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 862456,
+     "pct": 32.69,
+     "seats": 61,
+     "change": 18,
+     "winner": true
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 581896,
+     "pct": 22.06,
+     "seats": 38,
+     "change": 12
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 371948,
+     "pct": 14.1,
+     "seats": 23,
+     "change": -15
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 232971,
+     "pct": 8.83,
+     "seats": 15,
+     "change": -8
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 178885,
+     "pct": 6.78,
+     "seats": 11,
+     "change": -11
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 171063,
+     "pct": 6.48,
+     "seats": 11,
+     "change": 1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 156113,
+     "pct": 5.92,
+     "seats": 10,
+     "change": 8
+    },
+    {
+     "name": "Red Electoral Alliance",
+     "party": "rv",
+     "votes": 32355,
+     "pct": 1.23,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 50576,
+     "pct": 1.92,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "frp",
+    "11": "frp",
+    "12": "ap",
+    "14": "ap",
+    "15": "frp",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-2009",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "2009-09-14",
+   "totalSeats": 169,
+   "turnout": 76.37,
+   "source": {
+    "name": "Wikipedia, citing Statistics Norway",
+    "url": "https://en.wikipedia.org/wiki/2009_Norwegian_parliamentary_election",
+    "revid": 1320010897
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 949049,
+     "pct": 35.37,
+     "seats": 64,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 614717,
+     "pct": 22.91,
+     "seats": 41,
+     "change": 3
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 462458,
+     "pct": 17.24,
+     "seats": 30,
+     "change": 7
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 166361,
+     "pct": 6.2,
+     "seats": 11,
+     "change": -4
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 165006,
+     "pct": 6.15,
+     "seats": 11,
+     "change": 0
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 148748,
+     "pct": 5.54,
+     "seats": 10,
+     "change": -1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 104144,
+     "pct": 3.88,
+     "seats": 2,
+     "change": -8
+    },
+    {
+     "name": "Red Party",
+     "party": "r",
+     "votes": 36219,
+     "pct": 1.35,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 36201,
+     "pct": 1.35,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "frp",
+    "11": "frp",
+    "12": "ap",
+    "14": "ap",
+    "15": "ap",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "ap",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-2013",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "2013-09-09",
+   "totalSeats": 169,
+   "turnout": 78.32,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of Local Government (valgresultat.no)",
+    "url": "https://en.wikipedia.org/wiki/2013_Norwegian_parliamentary_election",
+    "revid": 1365825085
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 874769,
+     "pct": 30.84,
+     "seats": 55,
+     "change": -9,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 760232,
+     "pct": 26.81,
+     "seats": 48,
+     "change": 18
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 463560,
+     "pct": 16.35,
+     "seats": 29,
+     "change": -12
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 158475,
+     "pct": 5.59,
+     "seats": 10,
+     "change": 0
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 155357,
+     "pct": 5.48,
+     "seats": 10,
+     "change": -1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 148275,
+     "pct": 5.23,
+     "seats": 9,
+     "change": 7
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 116021,
+     "pct": 4.09,
+     "seats": 7,
+     "change": -4
+    },
+    {
+     "name": "Green Party",
+     "party": "mdg",
+     "votes": 79152,
+     "pct": 2.79,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Red Party",
+     "party": "r",
+     "votes": 30751,
+     "pct": 1.08,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 49437,
+     "pct": 1.74,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "h",
+    "11": "h",
+    "12": "h",
+    "14": "ap",
+    "15": "h",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "h",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-2017",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "2017-09-11",
+   "totalSeats": 169,
+   "turnout": 78.36,
+   "source": {
+    "name": "Wikipedia, citing valgresultat.no (Norwegian Directorate of Elections)",
+    "url": "https://en.wikipedia.org/wiki/2017_Norwegian_parliamentary_election",
+    "revid": 1353491507
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 800947,
+     "pct": 27.37,
+     "seats": 49,
+     "change": -6,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 732895,
+     "pct": 25.04,
+     "seats": 45,
+     "change": -3
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 444681,
+     "pct": 15.19,
+     "seats": 27,
+     "change": -2
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 302017,
+     "pct": 10.32,
+     "seats": 19,
+     "change": 9
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 176222,
+     "pct": 6.02,
+     "seats": 11,
+     "change": 4
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 127910,
+     "pct": 4.37,
+     "seats": 8,
+     "change": -1
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 122797,
+     "pct": 4.2,
+     "seats": 8,
+     "change": -2
+    },
+    {
+     "name": "Green Party",
+     "party": "mdg",
+     "votes": 94788,
+     "pct": 3.24,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Red Party",
+     "party": "r",
+     "votes": 70522,
+     "pct": 2.41,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 54057,
+     "pct": 1.85,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the results table for this election in each county's \"(Storting constituency)\" article.",
+   "regionWinners": {
+    "10": "h",
+    "11": "h",
+    "12": "h",
+    "14": "sp",
+    "15": "h",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "ap",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "h",
+    "08": "ap",
+    "09": "h"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Category:Storting_constituencies"
+  },
+  {
+   "id": "no-storting-2021",
+   "office": "Storting",
+   "kind": "legislative",
+   "date": "2021-09-13",
+   "totalSeats": 169,
+   "turnout": 77.17,
+   "source": {
+    "name": "Wikipedia, citing valgresultat.no (Norwegian Directorate of Elections)",
+    "url": "https://en.wikipedia.org/wiki/2021_Norwegian_parliamentary_election",
+    "revid": 1362488339
+   },
+   "candidates": [
+    {
+     "name": "Labour Party",
+     "party": "ap",
+     "votes": 783394,
+     "pct": 26.25,
+     "seats": 48,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Conservative Party",
+     "party": "h",
+     "votes": 607316,
+     "pct": 20.35,
+     "seats": 36,
+     "change": -9
+    },
+    {
+     "name": "Centre Party",
+     "party": "sp",
+     "votes": 402961,
+     "pct": 13.5,
+     "seats": 28,
+     "change": 9
+    },
+    {
+     "name": "Progress Party",
+     "party": "frp",
+     "votes": 346474,
+     "pct": 11.61,
+     "seats": 21,
+     "change": -6
+    },
+    {
+     "name": "Socialist Left Party",
+     "party": "sv",
+     "votes": 228063,
+     "pct": 7.64,
+     "seats": 13,
+     "change": 2
+    },
+    {
+     "name": "Red Party",
+     "party": "r",
+     "votes": 140931,
+     "pct": 4.72,
+     "seats": 8,
+     "change": 7
+    },
+    {
+     "name": "Liberal Party",
+     "party": "v",
+     "votes": 137433,
+     "pct": 4.61,
+     "seats": 8,
+     "change": 0
+    },
+    {
+     "name": "Green Party",
+     "party": "mdg",
+     "votes": 117647,
+     "pct": 3.94,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Christian Democratic Party",
+     "party": "krf",
+     "votes": 113344,
+     "pct": 3.8,
+     "seats": 3,
+     "change": -5
+    },
+    {
+     "name": "Patient Focus",
+     "party": "pf",
+     "votes": 4950,
+     "pct": 0.17,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Democrats in Norway",
+     "party": "nd",
+     "votes": 34068,
+     "pct": 1.14,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 67606,
+     "pct": 2.27,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Patient Focus is \"New\" in the table's change column (stored as null). Turnout is the results table's figure (votes cast over registered voters). County winners (most votes) come from the article's vote-share table by electoral district, and match the constituency articles.",
+   "regionWinners": {
+    "10": "h",
+    "11": "h",
+    "12": "h",
+    "14": "sp",
+    "15": "frp",
+    "16": "ap",
+    "17": "ap",
+    "18": "ap",
+    "19": "ap",
+    "20": "ap",
+    "01": "ap",
+    "02": "h",
+    "03": "h",
+    "04": "ap",
+    "05": "ap",
+    "06": "ap",
+    "07": "ap",
+    "08": "ap",
+    "09": "ap"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2021_Norwegian_parliamentary_election#By_electoral_district"
+  }
+ ]
+}

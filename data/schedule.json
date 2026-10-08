@@ -532,5 +532,26 @@
     "pollsClose": "19:00",
     "basedOn": "pt-president-2026",
     "tentative": true
+  },
+  {
+    "country": "NO",
+    "office": "Storting",
+    "kind": "legislative",
+    "date": "2029-09-10",
+    "note": "10 or 17 September 2029; the date is not yet set",
+    "timezone": "Europe/Oslo",
+    "pollsClose": "21:00",
+    "basedOn": "no-storting-2025",
+    "tentative": true
+  },
+  {
+    "country": "NZ",
+    "office": "House of Representatives",
+    "kind": "legislative",
+    "date": "2026-11-07",
+    "note": "General election",
+    "timezone": "Pacific/Auckland",
+    "pollsClose": "19:00",
+    "basedOn": "nz-house-2023"
   }
 ]

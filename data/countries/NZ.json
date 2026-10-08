@@ -1,0 +1,235 @@
+{
+  "code": "NZ",
+  "name": "New Zealand",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "House of Representatives (123)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 3688292,
+    "offices": {
+      "House of Representatives": "Elected every three years by mixed-member proportional representation: voters cast a party vote and an electorate vote, 72 MPs win electorates by first past the post, and list seats bring each party up to its share of the party vote if it passes 5% or wins an electorate. The single-chamber House passes laws and the budget, and the government needs its confidence."
+    }
+  },
+  "parties": {
+    "nat": {
+      "name": "National Party",
+      "color": "#00529F"
+    },
+    "lab": {
+      "name": "Labour Party",
+      "color": "#D82A20"
+    },
+    "grn": {
+      "name": "Green Party",
+      "color": "#098137"
+    },
+    "act": {
+      "name": "ACT New Zealand",
+      "color": "#FDE401"
+    },
+    "nzf": {
+      "name": "New Zealand First",
+      "color": "#000000"
+    },
+    "tpm": {
+      "name": "Te Pāti Māori",
+      "color": "#B2001A"
+    },
+    "top": {
+      "name": "Opportunity Party",
+      "color": "#00BCC1"
+    },
+    "loyal": {
+      "name": "NZ Loyal",
+      "color": "#A0522D"
+    },
+    "sc": {
+      "name": "Social Credit Party",
+      "color": "#CBE800"
+    },
+    "val": {
+      "name": "Values Party",
+      "color": "#4BB805"
+    },
+    "nzp": {
+      "name": "New Zealand Party",
+      "color": "#43A2FF"
+    },
+    "nlp": {
+      "name": "NewLabour Party",
+      "color": "#9C2752"
+    },
+    "all": {
+      "name": "Alliance",
+      "color": "#33CC66"
+    },
+    "chp": {
+      "name": "Christian Heritage Party",
+      "color": "#878FB8"
+    },
+    "cc": {
+      "name": "Christian Coalition",
+      "color": "#878FB8"
+    },
+    "cd": {
+      "name": "Christian Democrats",
+      "color": "#C71585"
+    },
+    "alcp": {
+      "name": "Legalise Cannabis Party",
+      "color": "#6B8E23"
+    },
+    "unz": {
+      "name": "United New Zealand",
+      "color": "#663377"
+    },
+    "uf": {
+      "name": "United Future",
+      "color": "#501557"
+    },
+    "prog": {
+      "name": "Progressive Party",
+      "color": "#5F9EA0"
+    },
+    "ornz": {
+      "name": "Outdoor Recreation NZ",
+      "color": "#8D6E63"
+    },
+    "mana": {
+      "name": "Mana Movement",
+      "color": "#770808"
+    },
+    "imp": {
+      "name": "Internet Mana",
+      "color": "#7F0000"
+    },
+    "cons": {
+      "name": "Conservative Party",
+      "color": "#00768B"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    }
+  },
+  "elections": [
+    {
+      "id": "nz-house-2023",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2023-10-14",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 78.2,
+      "system": "122 seats, mixed-member proportional",
+      "totalSeats": 122,
+      "majority": 62,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2023_New_Zealand_general_election"
+      },
+      "candidates": [
+        {
+          "name": "National",
+          "party": "nat",
+          "votes": 1085851,
+          "pct": 38.08,
+          "seats": 48,
+          "change": 15,
+          "winner": true
+        },
+        {
+          "name": "Labour",
+          "party": "lab",
+          "votes": 767540,
+          "pct": 26.92,
+          "seats": 34,
+          "change": -31
+        },
+        {
+          "name": "Green",
+          "party": "grn",
+          "votes": 330907,
+          "pct": 11.61,
+          "seats": 15,
+          "change": 5
+        },
+        {
+          "name": "ACT",
+          "party": "act",
+          "votes": 246473,
+          "pct": 8.64,
+          "seats": 11,
+          "change": 1
+        },
+        {
+          "name": "NZ First",
+          "party": "nzf",
+          "votes": 173553,
+          "pct": 6.09,
+          "seats": 8,
+          "change": 8
+        },
+        {
+          "name": "Te Pāti Māori",
+          "party": "tpm",
+          "votes": 87844,
+          "pct": 3.08,
+          "seats": 6,
+          "change": 4
+        },
+        {
+          "name": "Opportunities (TOP)",
+          "party": "top",
+          "votes": 63344,
+          "pct": 2.22,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "NZ Loyal",
+          "party": "loyal",
+          "votes": 34478,
+          "pct": 1.21,
+          "seats": 0,
+          "change": null
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 61221,
+          "pct": 2.15,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Auckland","abbr":"AUK","winner":"nat","margin":23.8,"turnout":78.9,"votes":213051,"results":[{"party":"nat","pct":47.1,"votes":100347},{"party":"lab","pct":23.3,"votes":49641},{"party":"grn","pct":13.8,"votes":29401},{"party":"act","pct":10.5,"votes":22370},{"party":"nzf","pct":5.3,"votes":11292}]},
+        {"name":"Bay of Plenty","abbr":"BOP","winner":"nat","margin":41.8,"turnout":75.5,"votes":190902,"results":[{"party":"nat","pct":57,"votes":108814},{"party":"lab","pct":15.2,"votes":29017},{"party":"act","pct":11.8,"votes":22526},{"party":"nzf","pct":8.7,"votes":16608},{"party":"grn","pct":7.2,"votes":13745}]},
+        {"name":"Canterbury","abbr":"CAN","winner":"nat","margin":31.4,"turnout":74.6,"votes":192683,"results":[{"party":"nat","pct":50.1,"votes":96534},{"party":"grn","pct":18.7,"votes":36032},{"party":"lab","pct":17.8,"votes":34298},{"party":"act","pct":9.7,"votes":18690},{"party":"nzf","pct":3.7,"votes":7129}]},
+        {"name":"Gisborne","abbr":"GIS","winner":"lab","margin":3.3,"turnout":85,"votes":207686,"results":[{"party":"lab","pct":36.9,"votes":76636},{"party":"nat","pct":33.6,"votes":69782},{"party":"grn","pct":12.2,"votes":25338},{"party":"act","pct":9.9,"votes":20561},{"party":"nzf","pct":7.4,"votes":15369}]},
+        {"name":"Hawke's Bay","abbr":"HKB","winner":"nat","margin":10.5,"turnout":84.3,"votes":194774,"results":[{"party":"nat","pct":39.9,"votes":77715},{"party":"lab","pct":29.4,"votes":57264},{"party":"grn","pct":17.2,"votes":33501},{"party":"act","pct":7.3,"votes":14219},{"party":"nzf","pct":6.1,"votes":11881}]},
+        {"name":"Manawatū-Whanganui","abbr":"MWT","winner":"lab","margin":3.6,"turnout":83.3,"votes":172051,"results":[{"party":"lab","pct":38.9,"votes":66928},{"party":"nat","pct":35.3,"votes":60734},{"party":"grn","pct":11.1,"votes":19098},{"party":"act","pct":9.9,"votes":17033},{"party":"nzf","pct":4.7,"votes":8086}]},
+        {"name":"Marlborough","abbr":"MBH","winner":"lab","margin":2.3,"turnout":74.8,"votes":184012,"results":[{"party":"lab","pct":35.9,"votes":66060},{"party":"nat","pct":33.6,"votes":61828},{"party":"grn","pct":15.9,"votes":29258},{"party":"act","pct":9.8,"votes":18033},{"party":"nzf","pct":4.7,"votes":8649}]},
+        {"name":"Nelson","abbr":"NSN","winner":"nat","margin":23.3,"turnout":75.1,"votes":187962,"results":[{"party":"nat","pct":49.3,"votes":92665},{"party":"lab","pct":26,"votes":48870},{"party":"grn","pct":11.3,"votes":21240},{"party":"nzf","pct":7.8,"votes":14661},{"party":"act","pct":5.6,"votes":10526}]},
+        {"name":"Northland","abbr":"NTL","winner":"lab","margin":11.5,"turnout":80.5,"votes":174823,"results":[{"party":"lab","pct":37.6,"votes":65733},{"party":"nat","pct":26.1,"votes":45629},{"party":"grn","pct":15.2,"votes":26573},{"party":"act","pct":12.7,"votes":22203},{"party":"nzf","pct":8.4,"votes":14685}]},
+        {"name":"Otago","abbr":"OTA","winner":"lab","margin":12.9,"turnout":76,"votes":181206,"results":[{"party":"lab","pct":43.6,"votes":79006},{"party":"nat","pct":30.7,"votes":55630},{"party":"grn","pct":13.6,"votes":24644},{"party":"act","pct":6.5,"votes":11778},{"party":"nzf","pct":5.5,"votes":9966}]},
+        {"name":"Southland","abbr":"STL","winner":"nat","margin":4.5,"turnout":79.8,"votes":199478,"results":[{"party":"nat","pct":38.5,"votes":76799},{"party":"lab","pct":34,"votes":67823},{"party":"grn","pct":15.2,"votes":30321},{"party":"nzf","pct":7.5,"votes":14961},{"party":"act","pct":4.7,"votes":9375}]},
+        {"name":"Taranaki","abbr":"TKI","winner":"lab","margin":13.6,"turnout":75.1,"votes":144610,"results":[{"party":"lab","pct":37.5,"votes":54229},{"party":"nat","pct":23.9,"votes":34562},{"party":"grn","pct":17.9,"votes":25885},{"party":"act","pct":11,"votes":15907},{"party":"nzf","pct":9.6,"votes":13883}]},
+        {"name":"Tasman","abbr":"TAS","winner":"nat","margin":7.5,"turnout":82.6,"votes":172700,"results":[{"party":"nat","pct":43.5,"votes":75125},{"party":"lab","pct":36,"votes":62172},{"party":"grn","pct":9.1,"votes":15716},{"party":"act","pct":6.1,"votes":10535},{"party":"nzf","pct":5.3,"votes":9153}]},
+        {"name":"Waikato","abbr":"WKO","winner":"nat","margin":20.9,"turnout":82.8,"votes":205133,"results":[{"party":"nat","pct":46.7,"votes":95797},{"party":"lab","pct":25.8,"votes":52924},{"party":"grn","pct":14.5,"votes":29744},{"party":"act","pct":7.3,"votes":14975},{"party":"nzf","pct":5.8,"votes":11898}]},
+        {"name":"Wellington","abbr":"WGN","winner":"nat","margin":35.3,"turnout":83.3,"votes":156734,"results":[{"party":"nat","pct":54,"votes":84636},{"party":"grn","pct":18.7,"votes":29309},{"party":"lab","pct":15.5,"votes":24294},{"party":"nzf","pct":6.3,"votes":9874},{"party":"act","pct":5.5,"votes":8620}]},
+        {"name":"West Coast","abbr":"WTC","winner":"nat","margin":21.1,"turnout":84.8,"votes":176274,"results":[{"party":"nat","pct":44.4,"votes":78266},{"party":"lab","pct":23.3,"votes":41072},{"party":"grn","pct":16.4,"votes":28909},{"party":"nzf","pct":9.9,"votes":17451},{"party":"act","pct":6,"votes":10576}]}
+      ]
+    }
+  ]
+}

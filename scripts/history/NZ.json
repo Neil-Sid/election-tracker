@@ -1,0 +1,1811 @@
+{
+ "code": "NZ",
+ "parties": {
+  "nat": {
+   "name": "National Party",
+   "color": "#00529F",
+   "article": "New Zealand National Party"
+  },
+  "lab": {
+   "name": "Labour Party",
+   "color": "#D82A20",
+   "article": "New Zealand Labour Party"
+  },
+  "grn": {
+   "name": "Green Party",
+   "color": "#098137",
+   "article": "Green Party of Aotearoa New Zealand"
+  },
+  "act": {
+   "name": "ACT New Zealand",
+   "color": "#FDE401",
+   "article": "ACT New Zealand"
+  },
+  "nzf": {
+   "name": "New Zealand First",
+   "color": "#000000",
+   "article": "New Zealand First"
+  },
+  "tpm": {
+   "name": "Te Pāti Māori",
+   "color": "#B2001A",
+   "article": "Te Pāti Māori"
+  },
+  "sc": {
+   "name": "Social Credit Party",
+   "color": "#CBE800",
+   "article": "Social Credit Party (New Zealand)"
+  },
+  "val": {
+   "name": "Values Party",
+   "color": "#4BB805",
+   "article": "Values Party"
+  },
+  "nzp": {
+   "name": "New Zealand Party",
+   "color": "#43A2FF",
+   "article": "New Zealand Party"
+  },
+  "nlp": {
+   "name": "NewLabour Party",
+   "color": "#9C2752",
+   "article": "NewLabour Party"
+  },
+  "all": {
+   "name": "Alliance",
+   "color": "#33CC66",
+   "article": "Alliance (New Zealand political party)"
+  },
+  "chp": {
+   "name": "Christian Heritage Party",
+   "color": "#878FB8",
+   "article": "Christian Heritage Party of New Zealand"
+  },
+  "cc": {
+   "name": "Christian Coalition",
+   "color": "#878FB8",
+   "article": "Christian Coalition (New Zealand)"
+  },
+  "cd": {
+   "name": "Christian Democrats",
+   "color": "#C71585",
+   "article": "Christian Democrat Party (New Zealand)"
+  },
+  "alcp": {
+   "name": "Legalise Cannabis Party",
+   "color": "#6B8E23",
+   "article": "Aotearoa Legalise Cannabis Party"
+  },
+  "unz": {
+   "name": "United New Zealand",
+   "color": "#663377",
+   "article": "United New Zealand"
+  },
+  "uf": {
+   "name": "United Future",
+   "color": "#501557",
+   "article": "United Future"
+  },
+  "prog": {
+   "name": "Progressive Party",
+   "color": "#5F9EA0",
+   "article": "Jim Anderton's Progressive Party"
+  },
+  "ornz": {
+   "name": "Outdoor Recreation NZ",
+   "color": "#8D6E63",
+   "article": "Outdoor Recreation New Zealand"
+  },
+  "mana": {
+   "name": "Mana Movement",
+   "color": "#770808",
+   "article": "Mana Movement"
+  },
+  "imp": {
+   "name": "Internet Mana",
+   "color": "#7F0000",
+   "article": "Internet Party and Mana Movement"
+  },
+  "cons": {
+   "name": "Conservative Party",
+   "color": "#00768B",
+   "article": "Conservative Party NZ"
+  },
+  "top": {
+   "name": "Opportunity Party",
+   "color": "#00BCC1",
+   "article": "Opportunity Party (New Zealand)"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "nz-house-1949",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1949-11-30",
+   "totalSeats": 80,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1949_New_Zealand_general_election",
+    "revid": 1375644176
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 556805,
+     "pct": 51.88,
+     "seats": 46,
+     "change": 8,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 506073,
+     "pct": 47.16,
+     "seats": 34,
+     "change": -8
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 10276,
+     "pct": 0.96,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Turnout is left out: the article says it is disputed (93.5% or 92.9% in different sources), and its infobox gives 96.3%."
+  },
+  {
+   "id": "nz-house-1951",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1951-09-01",
+   "totalSeats": 80,
+   "turnout": 89.1,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1951_New_Zealand_general_election",
+    "revid": 1375644250
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 577630,
+     "pct": 54,
+     "seats": 50,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 490143,
+     "pct": 45.8,
+     "seats": 30,
+     "change": -4
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2018,
+     "pct": 0.19,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1954",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1954-11-13",
+   "totalSeats": 80,
+   "turnout": 91.4,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1954_New_Zealand_general_election",
+    "revid": 1375644409
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 485630,
+     "pct": 44.3,
+     "seats": 45,
+     "change": -5,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 484028,
+     "pct": 44.1,
+     "seats": 35,
+     "change": 5
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 122573,
+     "pct": 11.2,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4608,
+     "pct": 0.42,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. The table's vote total (1,096,877) differs from the sum of its rows (1,096,839). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1957",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1957-11-30",
+   "totalSeats": 80,
+   "turnout": 92.9,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1957_New_Zealand_general_election",
+    "revid": 1370654425
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 559096,
+     "pct": 48.31,
+     "seats": 41,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 511699,
+     "pct": 44.21,
+     "seats": 39,
+     "change": -6
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 83498,
+     "pct": 7.21,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3072,
+     "pct": 0.27,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1960",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1960-11-26",
+   "totalSeats": 80,
+   "turnout": 89.8,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1960_New_Zealand_general_election",
+    "revid": 1371038228
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 557046,
+     "pct": 47.6,
+     "seats": 46,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 508179,
+     "pct": 43.4,
+     "seats": 34,
+     "change": -7
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 100905,
+     "pct": 8.6,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4373,
+     "pct": 0.37,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1963",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1963-11-30",
+   "totalSeats": 80,
+   "turnout": 89.6,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1963_New_Zealand_general_election",
+    "revid": 1370656983
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 563875,
+     "pct": 47.1,
+     "seats": 45,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 524066,
+     "pct": 43.7,
+     "seats": 35,
+     "change": 1
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 95176,
+     "pct": 7.9,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 14928,
+     "pct": 1.25,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. The table's vote total (1,196,631) differs from the sum of its rows (1,198,045). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1966",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1966-11-26",
+   "totalSeats": 80,
+   "turnout": 86,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1966_New_Zealand_general_election",
+    "revid": 1372102022
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 525945,
+     "pct": 43.64,
+     "seats": 44,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 499392,
+     "pct": 41.44,
+     "seats": 35,
+     "change": 0
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 174513,
+     "pct": 14.48,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 8410,
+     "pct": 0.7,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. The table's vote total (1,205,095) differs from the sum of its rows (1,208,260). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1969",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1969-11-29",
+   "totalSeats": 84,
+   "turnout": 88.94,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1969_New_Zealand_general_election",
+    "revid": 1353999431
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 605960,
+     "pct": 45.2,
+     "seats": 45,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 592055,
+     "pct": 44.2,
+     "seats": 39,
+     "change": 4
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 121576,
+     "pct": 9.1,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 15590,
+     "pct": 1.16,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. The table's vote total (1,340,168) differs from the sum of its rows (1,335,181). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1972",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1972-11-25",
+   "totalSeats": 87,
+   "turnout": 89.1,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1972_New_Zealand_general_election",
+    "revid": 1368827130
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 677669,
+     "pct": 48.37,
+     "seats": 55,
+     "change": 16,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 581422,
+     "pct": 41.5,
+     "seats": 32,
+     "change": -13
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 93231,
+     "pct": 6.65,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Values",
+     "party": "val",
+     "votes": 27467,
+     "pct": 1.96,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 21842,
+     "pct": 1.56,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Turnout is the article text's 89.1%; its infobox repeats the 1969 figures. The table's vote total (1,401,152) differs from the sum of its rows (1,401,631)."
+  },
+  {
+   "id": "nz-house-1975",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1975-11-29",
+   "totalSeats": 87,
+   "turnout": 82.11,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1975_New_Zealand_general_election",
+    "revid": 1378869557
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 763136,
+     "pct": 47.59,
+     "seats": 55,
+     "change": 23,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 634453,
+     "pct": 39.56,
+     "seats": 32,
+     "change": -23
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 119147,
+     "pct": 7.43,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Values",
+     "party": "val",
+     "votes": 83241,
+     "pct": 5.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4183,
+     "pct": 0.26,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. The table's vote total (1,603,733) differs from the sum of its rows (1,604,160). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1978",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1978-11-25",
+   "totalSeats": 92,
+   "turnout": 68.7,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1978_New_Zealand_general_election",
+    "revid": 1353999422
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 680991,
+     "pct": 39.82,
+     "seats": 51,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 691076,
+     "pct": 40.41,
+     "seats": 40,
+     "change": 8
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 274756,
+     "pct": 16.07,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Values",
+     "party": "val",
+     "votes": 41220,
+     "pct": 2.41,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 22130,
+     "pct": 1.29,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 22,
+     "pct": 0,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Labour won more votes than National but fewer seats. Turnout is the official 68.7%; the article says the roll was badly inflated and puts actual turnout at about 80%. The table's vote total (1,710,173) differs from the sum of its rows (1,710,195)."
+  },
+  {
+   "id": "nz-house-1981",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1981-11-28",
+   "totalSeats": 92,
+   "turnout": 91.4,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1981_New_Zealand_general_election",
+    "revid": 1378980153
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 698508,
+     "pct": 38.77,
+     "seats": 47,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 702630,
+     "pct": 39.01,
+     "seats": 43,
+     "change": null
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 372056,
+     "pct": 20.65,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 34785,
+     "pct": 1.93,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Labour won more votes than National but fewer seats. The table has no seat-change column. The table's vote total (1,801,303) differs from the sum of its rows (1,807,979). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1984",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1984-07-14",
+   "totalSeats": 95,
+   "turnout": 93.7,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1984_New_Zealand_general_election",
+    "revid": 1365933910
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 829154,
+     "pct": 42.98,
+     "seats": 56,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 692494,
+     "pct": 35.9,
+     "seats": 37,
+     "change": -10
+    },
+    {
+     "name": "Social Credit",
+     "party": "sc",
+     "votes": 147162,
+     "pct": 7.63,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "NZ Party",
+     "party": "nzp",
+     "votes": 236385,
+     "pct": 12.25,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 30448,
+     "pct": 1.58,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. The table's own Others row (1.07%) also includes independents. The table's vote total (1,929,201) differs from the sum of its rows (1,935,643). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1987",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1987-08-15",
+   "totalSeats": 97,
+   "turnout": 89.1,
+   "source": {
+    "name": "Wikipedia (the party totals table cites no source)",
+    "url": "https://en.wikipedia.org/wiki/1987_New_Zealand_general_election",
+    "revid": 1372217135
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 878448,
+     "pct": 47.96,
+     "seats": 57,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 806305,
+     "pct": 44.02,
+     "seats": 40,
+     "change": 3
+    },
+    {
+     "name": "Democrats",
+     "party": "sc",
+     "votes": 105091,
+     "pct": 5.74,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 51722,
+     "pct": 2.82,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Democrats is the renamed Social Credit Party. The table's vote total (1,831,777) differs from the sum of its rows (1,841,566). Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1990",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1990-10-27",
+   "totalSeats": 97,
+   "turnout": 85.2,
+   "source": {
+    "name": "Wikipedia, citing the New Zealand Election Study",
+    "url": "https://en.wikipedia.org/wiki/1990_New_Zealand_general_election",
+    "revid": 1368982763
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 872358,
+     "pct": 47.82,
+     "seats": 67,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 640915,
+     "pct": 35.14,
+     "seats": 29,
+     "change": null
+    },
+    {
+     "name": "NewLabour",
+     "party": "nlp",
+     "votes": 94171,
+     "pct": 5.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Greens",
+     "party": "grn",
+     "votes": 124915,
+     "pct": 6.85,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Democrats",
+     "party": "sc",
+     "votes": 30455,
+     "pct": 1.67,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 61278,
+     "pct": 3.36,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Democrats is the renamed Social Credit Party; the separate Social Credit-NZ list (0.98%) is in Others. The table has no seat-change column. Turnout is the figure the article text gives."
+  },
+  {
+   "id": "nz-house-1993",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1993-11-06",
+   "totalSeats": 99,
+   "turnout": 82.82,
+   "source": {
+    "name": "Wikipedia, citing Election Resources on the Internet",
+    "url": "https://en.wikipedia.org/wiki/1993_New_Zealand_general_election",
+    "revid": 1378339210
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 673892,
+     "pct": 35.05,
+     "seats": 50,
+     "change": -17,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 666759,
+     "pct": 34.68,
+     "seats": 45,
+     "change": 16
+    },
+    {
+     "name": "Alliance",
+     "party": "all",
+     "votes": 350064,
+     "pct": 18.21,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 161481,
+     "pct": 8.4,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Christian Heritage",
+     "party": "chp",
+     "votes": 38749,
+     "pct": 2.02,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 31851,
+     "pct": 1.66,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are each party's candidate votes under first past the post. Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-1996",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1996-10-12",
+   "totalSeats": 120,
+   "turnout": 88.28,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/1996_New_Zealand_general_election",
+    "revid": 1378257071
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 701315,
+     "pct": 33.84,
+     "seats": 44,
+     "change": -6,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 584159,
+     "pct": 28.19,
+     "seats": 37,
+     "change": -8
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 276603,
+     "pct": 13.35,
+     "seats": 17,
+     "change": 15
+    },
+    {
+     "name": "Alliance",
+     "party": "all",
+     "votes": 209347,
+     "pct": 10.1,
+     "seats": 13,
+     "change": 11
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 126442,
+     "pct": 6.1,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "United NZ",
+     "party": "unz",
+     "votes": 18245,
+     "pct": 0.88,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Christian Coalition",
+     "party": "cc",
+     "votes": 89716,
+     "pct": 4.33,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Legalise Cannabis",
+     "party": "alcp",
+     "votes": 34398,
+     "pct": 1.66,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 32134,
+     "pct": 1.55,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. First election under MMP; the House grew from 99 to 120 seats. Seat change is \"new\" in the table for ACT, United NZ, Legalise Cannabis (stored as null). Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-1999",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1999-11-27",
+   "totalSeats": 120,
+   "turnout": 84.77,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/1999_New_Zealand_general_election",
+    "revid": 1375667101
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 800199,
+     "pct": 38.74,
+     "seats": 49,
+     "change": 12,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 629932,
+     "pct": 30.5,
+     "seats": 39,
+     "change": -5
+    },
+    {
+     "name": "Alliance",
+     "party": "all",
+     "votes": 159859,
+     "pct": 7.74,
+     "seats": 10,
+     "change": -3
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 145493,
+     "pct": 7.04,
+     "seats": 9,
+     "change": 1
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 106560,
+     "pct": 5.16,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 87926,
+     "pct": 4.26,
+     "seats": 5,
+     "change": -12
+    },
+    {
+     "name": "United NZ",
+     "party": "unz",
+     "votes": 11065,
+     "pct": 0.54,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Christian Heritage",
+     "party": "chp",
+     "votes": 49154,
+     "pct": 2.38,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Christian Democrats",
+     "party": "cd",
+     "votes": 23033,
+     "pct": 1.12,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Legalise Cannabis",
+     "party": "alcp",
+     "votes": 22687,
+     "pct": 1.1,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 29586,
+     "pct": 1.43,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. \"Christian Democrats\" is the Future New Zealand list. Seat change is \"new\" in the table for Green, Christian Democrats (stored as null). Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2002",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2002-07-27",
+   "totalSeats": 120,
+   "turnout": 76.98,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2002_New_Zealand_general_election",
+    "revid": 1375666418
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 838219,
+     "pct": 41.26,
+     "seats": 52,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 425310,
+     "pct": 20.93,
+     "seats": 27,
+     "change": -12
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 210912,
+     "pct": 10.38,
+     "seats": 13,
+     "change": 8
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 145078,
+     "pct": 7.14,
+     "seats": 9,
+     "change": 0
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 142250,
+     "pct": 7,
+     "seats": 9,
+     "change": 2
+    },
+    {
+     "name": "United Future",
+     "party": "uf",
+     "votes": 135918,
+     "pct": 6.69,
+     "seats": 8,
+     "change": 7
+    },
+    {
+     "name": "Progressive",
+     "party": "prog",
+     "votes": 34542,
+     "pct": 1.7,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Christian Heritage",
+     "party": "chp",
+     "votes": 27492,
+     "pct": 1.35,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "ORNZ",
+     "party": "ornz",
+     "votes": 25985,
+     "pct": 1.28,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Alliance",
+     "party": "all",
+     "votes": 25888,
+     "pct": 1.27,
+     "seats": 0,
+     "change": -10
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20023,
+     "pct": 0.99,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Seat change is \"new\" in the table for Progressive, ORNZ (stored as null). Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2005",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2005-09-17",
+   "totalSeats": 121,
+   "turnout": 80.92,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2005_New_Zealand_general_election",
+    "revid": 1375665645
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 935319,
+     "pct": 41.1,
+     "seats": 50,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 889813,
+     "pct": 39.1,
+     "seats": 48,
+     "change": 21
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 130115,
+     "pct": 5.72,
+     "seats": 7,
+     "change": -6
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 120521,
+     "pct": 5.3,
+     "seats": 6,
+     "change": -3
+    },
+    {
+     "name": "Māori Party",
+     "party": "tpm",
+     "votes": 48263,
+     "pct": 2.12,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "United Future",
+     "party": "uf",
+     "votes": 60860,
+     "pct": 2.67,
+     "seats": 3,
+     "change": -5
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 34469,
+     "pct": 1.51,
+     "seats": 2,
+     "change": -7
+    },
+    {
+     "name": "Progressive",
+     "party": "prog",
+     "votes": 26441,
+     "pct": 1.16,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 29828,
+     "pct": 1.31,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Te Pāti Māori ran as the Māori Party. Seat change is \"new\" in the table for Māori Party (stored as null). Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2008",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2008-11-08",
+   "totalSeats": 122,
+   "turnout": 79.46,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2008_New_Zealand_general_election",
+    "revid": 1375664870
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 1053398,
+     "pct": 44.93,
+     "seats": 58,
+     "change": 10,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 796880,
+     "pct": 33.99,
+     "seats": 43,
+     "change": -7
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 157613,
+     "pct": 6.72,
+     "seats": 9,
+     "change": 3
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 85496,
+     "pct": 3.65,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "Māori Party",
+     "party": "tpm",
+     "votes": 55980,
+     "pct": 2.39,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Progressive",
+     "party": "prog",
+     "votes": 21241,
+     "pct": 0.91,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Future",
+     "party": "uf",
+     "votes": 20497,
+     "pct": 0.87,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 95356,
+     "pct": 4.07,
+     "seats": 0,
+     "change": -7
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 58105,
+     "pct": 2.48,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2011",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2011-11-26",
+   "totalSeats": 121,
+   "turnout": 74.21,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2011_New_Zealand_general_election",
+    "revid": 1375664115
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 1058636,
+     "pct": 47.31,
+     "seats": 59,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 614937,
+     "pct": 27.48,
+     "seats": 34,
+     "change": -9
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 247372,
+     "pct": 11.06,
+     "seats": 14,
+     "change": 5
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 147544,
+     "pct": 6.59,
+     "seats": 8,
+     "change": 8
+    },
+    {
+     "name": "Māori Party",
+     "party": "tpm",
+     "votes": 31982,
+     "pct": 1.43,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "Mana",
+     "party": "mana",
+     "votes": 24168,
+     "pct": 1.08,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 23889,
+     "pct": 1.07,
+     "seats": 1,
+     "change": -4
+    },
+    {
+     "name": "United Future",
+     "party": "uf",
+     "votes": 13443,
+     "pct": 0.6,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Conservative",
+     "party": "cons",
+     "votes": 59237,
+     "pct": 2.65,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 16256,
+     "pct": 0.73,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Seat change is \"new\" in the table for Mana, Conservative (stored as null). Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2014",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2014-09-20",
+   "totalSeats": 121,
+   "turnout": 77.9,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2014_New_Zealand_general_election",
+    "revid": 1379021426
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 1131501,
+     "pct": 47.04,
+     "seats": 60,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 604535,
+     "pct": 25.13,
+     "seats": 32,
+     "change": -2
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 257359,
+     "pct": 10.7,
+     "seats": 14,
+     "change": 0
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 208300,
+     "pct": 8.66,
+     "seats": 11,
+     "change": 3
+    },
+    {
+     "name": "Māori Party",
+     "party": "tpm",
+     "votes": 31849,
+     "pct": 1.32,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 16689,
+     "pct": 0.69,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Future",
+     "party": "uf",
+     "votes": 5286,
+     "pct": 0.22,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Conservative",
+     "party": "cons",
+     "votes": 95598,
+     "pct": 3.97,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Internet Mana",
+     "party": "imp",
+     "votes": 34094,
+     "pct": 1.42,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 20411,
+     "pct": 0.85,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2017",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2017-09-23",
+   "totalSeats": 120,
+   "turnout": 79.75,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/Results_of_the_2017_New_Zealand_general_election",
+    "revid": 1350200316
+   },
+   "candidates": [
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 1152075,
+     "pct": 44.45,
+     "seats": 56,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 956184,
+     "pct": 36.89,
+     "seats": 46,
+     "change": 14
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 186706,
+     "pct": 7.2,
+     "seats": 9,
+     "change": -2
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 162443,
+     "pct": 6.27,
+     "seats": 8,
+     "change": -6
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 13075,
+     "pct": 0.5,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Opportunities",
+     "party": "top",
+     "votes": 63261,
+     "pct": 2.44,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Māori Party",
+     "party": "tpm",
+     "votes": 30580,
+     "pct": 1.18,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 27572,
+     "pct": 1.06,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Figures come from the separate results article, which the main article transcludes. Seat change is \"new\" in the table for Opportunities (stored as null). Turnout is the results table's figure."
+  },
+  {
+   "id": "nz-house-2020",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2020-10-17",
+   "totalSeats": 120,
+   "turnout": 82.24,
+   "source": {
+    "name": "Wikipedia, citing the Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/Results_of_the_2020_New_Zealand_general_election",
+    "revid": 1366566918
+   },
+   "candidates": [
+    {
+     "name": "Labour",
+     "party": "lab",
+     "votes": 1443545,
+     "pct": 50.01,
+     "seats": 65,
+     "change": 19,
+     "winner": true
+    },
+    {
+     "name": "National",
+     "party": "nat",
+     "votes": 738275,
+     "pct": 25.58,
+     "seats": 33,
+     "change": -23
+    },
+    {
+     "name": "Green",
+     "party": "grn",
+     "votes": 226757,
+     "pct": 7.86,
+     "seats": 10,
+     "change": 2
+    },
+    {
+     "name": "ACT",
+     "party": "act",
+     "votes": 219031,
+     "pct": 7.59,
+     "seats": 10,
+     "change": 9
+    },
+    {
+     "name": "Māori Party",
+     "party": "tpm",
+     "votes": 33630,
+     "pct": 1.17,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "NZ First",
+     "party": "nzf",
+     "votes": 75020,
+     "pct": 2.6,
+     "seats": 0,
+     "change": -9
+    },
+    {
+     "name": "Opportunities (TOP)",
+     "party": "top",
+     "votes": 43449,
+     "pct": 1.51,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "New Conservative",
+     "party": "cons",
+     "votes": 42613,
+     "pct": 1.48,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 64100,
+     "pct": 2.22,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and percentages are the party vote; seats are electorate and list seats together. Figures come from the separate results article, which the main article transcludes. New Conservative is the renamed Conservative Party. Turnout is the results table's figure."
+  }
+ ]
+}

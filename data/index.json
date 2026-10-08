@@ -515,6 +515,48 @@
         "constituencies"
       ],
       "history": true
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "atlasId": "578",
+      "marker": [
+        10,
+        61.5
+      ],
+      "view": {
+        "center": [
+          15,
+          65
+        ],
+        "span": 8
+      },
+      "regionTerm": [
+        "county",
+        "counties"
+      ],
+      "history": true
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "atlasId": "554",
+      "marker": [
+        174.5,
+        -40
+      ],
+      "view": {
+        "center": [
+          172.8,
+          -41.2
+        ],
+        "span": 7.5
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
     }
   ]
 }

@@ -236,6 +236,22 @@
         "url": "https://data.gov.ie/dataset/constituency-boundaries-ungeneralised-national-electoral-boundaries-2023",
         "note": "© Tailte Éireann. The 43 constituencies used from the 2024 election, simplified for display."
       }
+    },
+    "NO": {
+      "access": "public",
+      "name": "Norwegian Directorate of Elections",
+      "short": "Valgdirektoratet",
+      "url": "https://valgresultat.no",
+      "role": "Official results",
+      "note": "Publishes the count on valgresultat.no as votes are counted."
+    },
+    "NZ": {
+      "access": "public",
+      "name": "Electoral Commission",
+      "short": "Electoral Commission",
+      "url": "https://electionresults.govt.nz",
+      "role": "Official results",
+      "note": "Publishes the preliminary count on election night and the official result, including special votes, about three weeks later."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."
