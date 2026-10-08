@@ -1,0 +1,5587 @@
+{
+ "code": "PH",
+ "parties": {
+  "adelante": {
+   "name": "Adelante Zamboanga Party",
+   "color": "#FF7F50"
+  },
+  "akbayan": {
+   "name": "Akbayan",
+   "color": "#FE0000",
+   "article": "Akbayan"
+  },
+  "aksyon": {
+   "name": "Aksyon Demokratiko",
+   "color": "#9683EC",
+   "article": "Aksyon Demokratiko"
+  },
+  "alayon": {
+   "name": "Alayon Alang sa Kalambu-an ng Kalinaw",
+   "color": "#6B8E23"
+  },
+  "appointed": {
+   "name": "Appointed members",
+   "color": "#8E8E93"
+  },
+  "arangkada": {
+   "name": "Arangkada San Joseño",
+   "color": "#FF8000",
+   "article": "Arangkada San Joseño"
+  },
+  "asensoabra": {
+   "name": "Asenso Abrenio",
+   "color": "#ED4B9E",
+   "article": "Asenso Abrenio"
+  },
+  "asensomnl": {
+   "name": "Asenso Manileño",
+   "color": "#2F358D",
+   "article": "Asenso Manileño"
+  },
+  "bangon": {
+   "name": "Bangon Pilipinas",
+   "color": "#2E8B57",
+   "article": "Bangon Pilipinas"
+  },
+  "basilan": {
+   "name": "Basilan Unity Party",
+   "color": "#8FBC8F"
+  },
+  "bayanmuna": {
+   "name": "Bayan Muna",
+   "color": "#BF0C0C",
+   "article": "Bayan Muna"
+  },
+  "bicolsaro": {
+   "name": "Bicol Saro",
+   "color": "#008FCB",
+   "article": "Bicol Saro"
+  },
+  "bileg": {
+   "name": "Bileg Party",
+   "color": "#FF0038",
+   "article": "Bileg Party"
+  },
+  "blknnl": {
+   "name": "Bagong Lipunan–KNNLL",
+   "color": "#E9967A"
+  },
+  "bukidnon": {
+   "name": "Bukidnon Paglaum",
+   "color": "#9ACD32",
+   "article": "Bukidnon Paglaum"
+  },
+  "bvnp": {
+   "name": "Bagumbayan–VNP",
+   "color": "#8B4513",
+   "article": "Bagumbayan–VNP"
+  },
+  "cca": {
+   "name": "Concerned Citizens' Aggrupation",
+   "color": "#20B2AA"
+  },
+  "cdp": {
+   "name": "Centrist Democratic Party of the Philippines",
+   "color": "#0067B4",
+   "article": "Centrist Democratic Party of the Philippines"
+  },
+  "dp": {
+   "name": "Democratic Party",
+   "color": "#1E90FF",
+   "article": "Democratic Party (Philippines)"
+  },
+  "fp": {
+   "name": "Federal Party",
+   "color": "#1353B4",
+   "article": "Federal Party (Philippines)"
+  },
+  "gad": {
+   "name": "Grand Alliance for Democracy",
+   "color": "#4169E1",
+   "article": "Grand Alliance for Democracy"
+  },
+  "hnp": {
+   "name": "Hugpong ng Pagbabago",
+   "color": "#CE1126",
+   "article": "Hugpong ng Pagbabago"
+  },
+  "hugpong": {
+   "name": "Hugpong sa Tawong Lungsod",
+   "color": "#038D5A",
+   "article": "Hugpong sa Tawong Lungsod"
+  },
+  "ilp": {
+   "name": "Independent Liberal",
+   "color": "#DAA520",
+   "article": "Independent Liberal"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#DCDCDC",
+   "article": "Independent politician"
+  },
+  "indenrile": {
+   "name": "Independent",
+   "color": "#6A5ACD",
+   "article": "Juan Ponce Enrile"
+  },
+  "indpoe": {
+   "name": "Independent",
+   "color": "#0070C0",
+   "article": "Grace Poe"
+  },
+  "inp": {
+   "name": "Independent Nacionalista",
+   "color": "#2F4F4F"
+  },
+  "kabaka": {
+   "name": "Kabalikat ng Bayan sa Kaunlaran",
+   "color": "#01692E",
+   "article": "Kabalikat ng Bayan sa Kaunlaran"
+  },
+  "kabayani": {
+   "name": "Kabayani",
+   "color": "#9ACD32"
+  },
+  "kambilan": {
+   "name": "Kambilan ning Memalen Kapampangan",
+   "color": "#DDA0DD"
+  },
+  "kampi": {
+   "name": "Kabalikat ng Malayang Pilipino",
+   "color": "#DC9A38",
+   "article": "Kabalikat ng Malayang Pilipino"
+  },
+  "kapatiran": {
+   "name": "Ang Kapatiran",
+   "color": "#008080",
+   "article": "Ang Kapatiran"
+  },
+  "kbl": {
+   "name": "Kilusang Bagong Lipunan",
+   "color": "#CE1126",
+   "article": "Kilusang Bagong Lipunan"
+  },
+  "kblind": {
+   "name": "Kilusang Bagong Lipunan (independent)",
+   "color": "#8B0000"
+  },
+  "kdp": {
+   "name": "Katipunan ng Demokratikong Pilipino",
+   "color": "#DC241F",
+   "article": "Katipunan ng Demokratikong Pilipino"
+  },
+  "knp": {
+   "name": "Koalisyon ng Nagkakaisang Pilipino",
+   "color": "#0038A8",
+   "article": "Koalisyon ng Nagkakaisang Pilipino"
+  },
+  "knpil": {
+   "name": "Katipunan ng Nagkakaisang Pilipino",
+   "color": "#E50A4D",
+   "article": "Katipunan ng Nagkakaisang Pilipino"
+  },
+  "kp": {
+   "name": "Koalisyong Pambansa",
+   "color": "#FFCC00",
+   "article": "Koalisyong Pambansa"
+  },
+  "kusogbaryo": {
+   "name": "Kusog Baryohanon",
+   "color": "#CD853F"
+  },
+  "kusugagusan": {
+   "name": "Kusug Agusanon",
+   "color": "#F4A460"
+  },
+  "lakas": {
+   "name": "Lakas–CMD",
+   "color": "#B0E0E6",
+   "article": "Lakas–CMD"
+  },
+  "lakas91": {
+   "name": "Lakas–CMD (1991)",
+   "color": "#B0E0E6",
+   "article": "Lakas–CMD (1991)"
+  },
+  "lakaslaban": {
+   "name": "Lakas–Laban Coalition",
+   "color": "#0000CD",
+   "article": "Lakas–Laban Coalition"
+  },
+  "lammp": {
+   "name": "Laban ng Makabayang Masang Pilipino",
+   "color": "#FFA500",
+   "article": "Laban ng Makabayang Masang Pilipino"
+  },
+  "ldp": {
+   "name": "Laban ng Demokratikong Pilipino",
+   "color": "#002868",
+   "article": "Laban ng Demokratikong Pilipino"
+  },
+  "lingap": {
+   "name": "Lingap Lugud",
+   "color": "#BC8F8F"
+  },
+  "lingkodtaguig": {
+   "name": "Lingkod Taguig",
+   "color": "#5F9EA0"
+  },
+  "lipingkalookan": {
+   "name": "Liping Kalookan",
+   "color": "#4682B4"
+  },
+  "lnb": {
+   "name": "Lakas ng Bayan",
+   "color": "#FFB347",
+   "article": "Lakas ng Bayan"
+  },
+  "lnbansa": {
+   "name": "Lakas ng Bansa",
+   "color": "#0000CD",
+   "article": "Lakas ng Bansa"
+  },
+  "lp": {
+   "name": "Liberal Party",
+   "color": "#F0E68C",
+   "article": "Liberal Party (Philippines)"
+  },
+  "lpavelino": {
+   "name": "Liberal Party (Avelino wing)",
+   "color": "#F7F2C1"
+  },
+  "lpquirino": {
+   "name": "Liberal Party (Quirino wing)",
+   "color": "#F7F2C1"
+  },
+  "magdalo": {
+   "name": "Partido Magdalo",
+   "color": "#556B2F",
+   "article": "Partido Magdalo"
+  },
+  "magdiwang": {
+   "name": "Partido Magdiwang",
+   "color": "#B8860B"
+  },
+  "makabayan": {
+   "name": "Makabayan",
+   "color": "#29176E",
+   "article": "Makabayan"
+  },
+  "mindanao": {
+   "name": "Mindanao Alliance",
+   "color": "#9370DB"
+  },
+  "mindoro": {
+   "name": "Mindoro bago Sarili",
+   "color": "#66CDAA"
+  },
+  "navoteno": {
+   "name": "Partido Navoteño",
+   "color": "#568203",
+   "article": "Partido Navoteño"
+  },
+  "ncp": {
+   "name": "Nationalist Citizens' Party",
+   "color": "#50C878",
+   "article": "Nationalist Citizens' Party"
+  },
+  "np": {
+   "name": "Nacionalista Party",
+   "color": "#98FB98",
+   "article": "Nacionalista Party"
+  },
+  "npc": {
+   "name": "Nationalist People's Coalition",
+   "color": "#4AA02C",
+   "article": "Nationalist People's Coalition"
+  },
+  "nppw": {
+   "name": "National Political Party of Women",
+   "color": "#DB7093"
+  },
+  "nup": {
+   "name": "National Unity Party",
+   "color": "#104A21",
+   "article": "National Unity Party (Philippines)"
+  },
+  "ompia": {
+   "name": "Ompia Party",
+   "color": "#FFF44F",
+   "article": "Ompia Party"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "padayon": {
+   "name": "Padayon Pilipino",
+   "color": "#800080",
+   "article": "Padayon Pilipino"
+  },
+  "palawan": {
+   "name": "Partidong Pagbabago ng Palawan",
+   "color": "#0099FF",
+   "article": "Partidong Pagbabago ng Palawan"
+  },
+  "panaghiusa": {
+   "name": "Partido Panaghiusa",
+   "color": "#551A8B",
+   "article": "Partido Panaghiusa"
+  },
+  "partylist": {
+   "name": "Party-list seats",
+   "color": "#7B68EE",
+   "article": "Party-list representation in the House of Representatives of the Philippines"
+  },
+  "pcm": {
+   "name": "People's Champ Movement",
+   "color": "#C71585",
+   "article": "People's Champ Movement"
+  },
+  "pdds": {
+   "name": "Pederalismo ng Dugong Dakilang Samahan",
+   "color": "#FF1493",
+   "article": "Pederalismo ng Dugong Dakilang Samahan"
+  },
+  "pdplaban": {
+   "name": "PDP–Laban",
+   "color": "#FFD700",
+   "article": "PDP–Laban"
+  },
+  "pdsp": {
+   "name": "Partido Demokratiko Sosyalista ng Pilipinas",
+   "color": "#CD5C5C",
+   "article": "Partido Demokratiko Sosyalista ng Pilipinas"
+  },
+  "pf": {
+   "name": "Popular Front",
+   "color": "#FF0066",
+   "article": "Popular Front (Philippines)"
+  },
+  "pfp": {
+   "name": "Partido Federal ng Pilipinas",
+   "color": "#0F22BD",
+   "article": "Partido Federal ng Pilipinas"
+  },
+  "plm": {
+   "name": "Partido Lakas ng Masa",
+   "color": "#FF7F50",
+   "article": "Partido Lakas ng Masa"
+  },
+  "pmp": {
+   "name": "Pwersa ng Masang Pilipino",
+   "color": "#FE7E00",
+   "article": "Pwersa ng Masang Pilipino"
+  },
+  "pnb": {
+   "name": "Partido ng Bayan",
+   "color": "#800000",
+   "article": "Bagong Alyansang Makabayan"
+  },
+  "pp": {
+   "name": "Progressive Party",
+   "color": "#4F69C6",
+   "article": "Progressive Party (Philippines)"
+  },
+  "ppc": {
+   "name": "People Power Coalition",
+   "color": "#FFFF33",
+   "article": "People Power Coalition"
+  },
+  "ppp": {
+   "name": "Partido Pilipino sa Pagbabago",
+   "color": "#000000",
+   "article": "Partido Pilipino sa Pagbabago"
+  },
+  "promdi": {
+   "name": "PROMDI",
+   "color": "#000040",
+   "article": "PROMDI"
+  },
+  "prp": {
+   "name": "People's Reform Party",
+   "color": "#F08080",
+   "article": "People's Reform Party"
+  },
+  "pusyon": {
+   "name": "Pusyon Bisaya",
+   "color": "#4C00B0",
+   "article": "Pusyon Bisaya"
+  },
+  "pvdm": {
+   "name": "People's (Veterans) Democratic Movement for Good Government",
+   "color": "#A0522D"
+  },
+  "reporma": {
+   "name": "Partido para sa Demokratikong Reporma",
+   "color": "#CC0000",
+   "article": "Partido para sa Demokratikong Reporma"
+  },
+  "sectoral": {
+   "name": "Sectoral representatives",
+   "color": "#C0A060",
+   "article": "Sectoral representation in the Philippines"
+  },
+  "sulong": {
+   "name": "Sulong Zambales Party",
+   "color": "#FF0000",
+   "article": "Sulong Zambales Party"
+  },
+  "tinig": {
+   "name": "Partido Tinig ng Masa",
+   "color": "#D2691E"
+  },
+  "ubp": {
+   "name": "United Benguet Party",
+   "color": "#BDB76B"
+  },
+  "una": {
+   "name": "United Nationalist Alliance",
+   "color": "#FE4D00",
+   "article": "United Nationalist Alliance"
+  },
+  "unaff": {
+   "name": "Unaffiliated",
+   "color": "#696969"
+  },
+  "unangsigaw": {
+   "name": "Unang Sigaw",
+   "color": "#000084",
+   "article": "Unang Sigaw"
+  },
+  "unegros": {
+   "name": "United Negros Alliance",
+   "color": "#043927",
+   "article": "United Negros Alliance"
+  },
+  "unido": {
+   "name": "United Nationalist Democratic Organization",
+   "color": "#FFFF00",
+   "article": "United Nationalist Democratic Organization"
+  },
+  "uno": {
+   "name": "United Opposition",
+   "color": "#0000FF",
+   "article": "United Opposition (Philippines)"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#76767B"
+  },
+  "wpp": {
+   "name": "Workers' and Peasants' Party",
+   "color": "#CD853F",
+   "article": "Workers' and Peasants' Party (Philippines)"
+  }
+ },
+ "elections": [
+  {
+   "id": "ph-president-1949",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1949-11-08",
+   "turnout": 69.7,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1949_Philippine_presidential_election_results",
+    "revid": 1327629622
+   },
+   "candidates": [
+    {
+     "name": "Elpidio Quirino",
+     "party": "lp",
+     "votes": 1803808,
+     "pct": 50.93,
+     "winner": true
+    },
+    {
+     "name": "Jose P. Laurel",
+     "party": "np",
+     "votes": 1318320,
+     "pct": 37.22
+    },
+    {
+     "name": "José Avelino",
+     "party": "lpavelino",
+     "votes": 419890,
+     "pct": 11.85
+    }
+   ],
+   "notes": "The Liberal Party was split: Elpidio Quirino led its main wing and José Avelino the other. Shares are of valid votes; 37,899 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1949 Philippine presidential election results}}\", cited here; the article is \"1949 Philippine presidential election\"."
+  },
+  {
+   "id": "ph-president-1953",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1953-11-10",
+   "turnout": 77.22,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1953_Philippine_presidential_election_results",
+    "revid": 1327629479
+   },
+   "candidates": [
+    {
+     "name": "Ramon Magsaysay",
+     "party": "np",
+     "votes": 2912992,
+     "pct": 68.9,
+     "winner": true
+    },
+    {
+     "name": "Elpidio Quirino",
+     "party": "lp",
+     "votes": 1313991,
+     "pct": 31.08
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 736,
+     "pct": 0.02
+    }
+   ],
+   "notes": "Shares are of valid votes; 98,987 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1953 Philippine presidential election results}}\", cited here; the article is \"1953 Philippine presidential election\". Others: Gaudencio Bueno."
+  },
+  {
+   "id": "ph-president-1957",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1957-11-12",
+   "turnout": 75.66,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1957_Philippine_presidential_election_results",
+    "revid": 1327629453
+   },
+   "candidates": [
+    {
+     "name": "Carlos P. Garcia",
+     "party": "np",
+     "votes": 2072257,
+     "pct": 41.28,
+     "winner": true
+    },
+    {
+     "name": "José Yulo",
+     "party": "lp",
+     "votes": 1386829,
+     "pct": 27.62
+    },
+    {
+     "name": "Manuel Manahan",
+     "party": "pp",
+     "votes": 1049420,
+     "pct": 20.9
+    },
+    {
+     "name": "Claro M. Recto",
+     "party": "ncp",
+     "votes": 429226,
+     "pct": 8.55
+    },
+    {
+     "name": "Antonio Quirino",
+     "party": "lpquirino",
+     "votes": 60328,
+     "pct": 1.2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 22144,
+     "pct": 0.44
+    }
+   ],
+   "notes": "Antonio Quirino ran under his own wing of the Liberal Party. Shares are of valid votes; 87,908 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1957 Philippine presidential election results}}\", cited here; the article is \"1957 Philippine presidential election\". Others: Valentin de los Santos, Alfredo Abcede."
+  },
+  {
+   "id": "ph-president-1961",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1961-11-14",
+   "turnout": 79.4,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1961_Philippine_presidential_election_results",
+    "revid": 1327629336
+   },
+   "candidates": [
+    {
+     "name": "Diosdado Macapagal",
+     "party": "lp",
+     "votes": 3554840,
+     "pct": 55.05,
+     "winner": true
+    },
+    {
+     "name": "Carlos P. Garcia",
+     "party": "np",
+     "votes": 2902996,
+     "pct": 44.95
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 11,
+     "pct": 0
+    }
+   ],
+   "notes": "Shares are of valid votes; 280,988 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1961 Philippine presidential election results}}\", cited here; the article is \"1961 Philippine presidential election\". Others: Alfredo Abcede, German F. Villanueva, Gregorio L. Llanza, Praxedes Floro."
+  },
+  {
+   "id": "ph-president-1965",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1965-11-09",
+   "turnout": 76.4,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1965_Philippine_presidential_election_results",
+    "revid": 1327629165
+   },
+   "candidates": [
+    {
+     "name": "Ferdinand Marcos",
+     "party": "np",
+     "votes": 3861324,
+     "pct": 51.94,
+     "winner": true
+    },
+    {
+     "name": "Diosdado Macapagal",
+     "party": "lp",
+     "votes": 3187752,
+     "pct": 42.88
+    },
+    {
+     "name": "Raul Manglapus",
+     "party": "pp",
+     "votes": 384564,
+     "pct": 5.17
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 791,
+     "pct": 0.01
+    }
+   ],
+   "notes": "Raul Manglapus ran for the Party for Philippine Progress (the Progressive Party's article). Shares are of valid votes; 175,620 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1965 Philippine presidential election results}}\", cited here; the article is \"1965 Philippine presidential election\". Others: Gaudencio Bueno, Aniceto A. Hidalgo, Segundo Baldovi, Nic V. Garces, German F. Villanueva, Guillermo M. Mercado, Antonio Nicolas Jr., Blandino P. Ruan, Praxedes Floro."
+  },
+  {
+   "id": "ph-president-1969",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1969-11-11",
+   "turnout": 79.6,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1969_Philippine_presidential_election_results",
+    "revid": 1327629149
+   },
+   "candidates": [
+    {
+     "name": "Ferdinand Marcos",
+     "party": "np",
+     "votes": 5017343,
+     "pct": 62.24,
+     "winner": true
+    },
+    {
+     "name": "Sergio Osmeña Jr.",
+     "party": "lp",
+     "votes": 3043122,
+     "pct": 37.75
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1339,
+     "pct": 0.02
+    }
+   ],
+   "notes": "Shares are of valid votes; 140,989 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1969 Philippine presidential election results}}\", cited here; the article is \"1969 Philippine presidential election\". Others: Pascual Racuyal, Segundo Baldovi, Pantaleon H. Panelo, German F. Villanueva, Gaudencio Bueno, Angel Comagon, Cesar Bulacan, Espiridion D. Buencamino, Nic V. Garces, Benito Jose."
+  },
+  {
+   "id": "ph-president-1981",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1981-06-16",
+   "note": "Main opposition boycotted",
+   "turnout": 80.9,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1981_Philippine_presidential_election_results",
+    "revid": 1361502889
+   },
+   "candidates": [
+    {
+     "name": "Ferdinand Marcos",
+     "party": "kbl",
+     "votes": 18309360,
+     "pct": 88.02,
+     "winner": true
+    },
+    {
+     "name": "Alejo Santos",
+     "party": "np",
+     "votes": 1716449,
+     "pct": 8.25
+    },
+    {
+     "name": "Bartolome Cabangbang",
+     "party": "fp",
+     "votes": 749845,
+     "pct": 3.6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 25749,
+     "pct": 0.12
+    }
+   ],
+   "notes": "Held under the 1973 constitution, months after martial law was lifted; the lead says most opposition parties boycotted the election. Alejo Santos ran for the wing of the Nacionalista Party led by Jose Roy. Shares are of valid votes. Turnout is the infobox figure. The results come from the transcluded template \"{{1981 Philippine presidential election results}}\", cited here; the article is \"1981 Philippine presidential election and referendum\". Others: Delfin R. Manapaz, Ursula C. Dajao, Benito L. Valdez, Lope B. Rimando, Lucio A. Hinigpit, Pacifico S. Morelos, Jose C. Igrobay, Simeon G. del Rosario, Salvador Q. Enage, Florencio Z. Tipano."
+  },
+  {
+   "id": "ph-president-1986",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1986-02-07",
+   "note": "Marred by fraud; Aquino took office after the People Power Revolution",
+   "turnout": 78.8,
+   "source": {
+    "name": "Wikipedia, citing the International Observer Delegation report (official Batasang Pambansa canvass)",
+    "url": "https://en.wikipedia.org/wiki/Template:1986_Philippine_presidential_election_results",
+    "revid": 1327627605
+   },
+   "candidates": [
+    {
+     "name": "Ferdinand Marcos",
+     "party": "kbl",
+     "votes": 10807197,
+     "pct": 53.62,
+     "winner": true
+    },
+    {
+     "name": "Corazon Aquino",
+     "party": "unido",
+     "votes": 9291716,
+     "pct": 46.1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 57693,
+     "pct": 0.29
+    }
+   ],
+   "notes": "The table is the official canvass by the Batasang Pambansa, which proclaimed Ferdinand Marcos the winner (53.62% per the infobox's COMELEC figures); he is flagged as winner on that basis. The lead says the election was marred by irregularities and fraud; NAMFREL's count (also in the article) had Corazon Aquino ahead with 7,909,320 votes to 7,376,599, and she was inaugurated on 25 February 1986 after the People Power Revolution deposed Marcos. 559,469 invalid ballots are excluded from the shares. Turnout is the infobox figure. The results come from the transcluded template \"{{1986 Philippine presidential election results}}\", cited here; the article is \"1986 Philippine presidential election\". Others: Reuben Canoy, Narciso Padilla. Region winners are from the article's by-region table of the official count; only Metro Manila, Bicol and the three Visayas regions had today's boundaries, so the other regions are left out.",
+   "regionWinners": {
+    "NCR": "unido",
+    "V": "unido",
+    "VI": "kbl",
+    "VII": "unido",
+    "VIII": "kbl"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1986_Philippine_presidential_election"
+  },
+  {
+   "id": "ph-president-1992",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1992-05-11",
+   "turnout": 75.5,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1992_Philippine_presidential_election_results",
+    "revid": 1270956245
+   },
+   "candidates": [
+    {
+     "name": "Fidel V. Ramos",
+     "party": "lakas91",
+     "votes": 5342521,
+     "pct": 23.58,
+     "winner": true
+    },
+    {
+     "name": "Miriam Defensor Santiago",
+     "party": "prp",
+     "votes": 4468173,
+     "pct": 19.72
+    },
+    {
+     "name": "Danding Cojuangco",
+     "party": "npc",
+     "votes": 4116376,
+     "pct": 18.17
+    },
+    {
+     "name": "Ramon Mitra Jr.",
+     "party": "ldp",
+     "votes": 3316661,
+     "pct": 14.64
+    },
+    {
+     "name": "Imelda Marcos",
+     "party": "kbl",
+     "votes": 2338294,
+     "pct": 10.32
+    },
+    {
+     "name": "Jovito Salonga",
+     "party": "lp",
+     "votes": 2302124,
+     "pct": 10.16
+    },
+    {
+     "name": "Salvador Laurel",
+     "party": "np",
+     "votes": 770046,
+     "pct": 3.4
+    }
+   ],
+   "notes": "Fidel Ramos ran for Lakas–NUCD (the article of Lakas–CMD founded in 1991). Shares are of valid votes; 1,600,759 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1992 Philippine presidential election results}}\", cited here; the article is \"1992 Philippine presidential election\"."
+  },
+  {
+   "id": "ph-president-1998",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1998-05-11",
+   "turnout": 86.5,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1998_Philippine_presidential_election_results",
+    "revid": 1270956712
+   },
+   "candidates": [
+    {
+     "name": "Joseph Estrada",
+     "party": "lammp",
+     "votes": 10722295,
+     "pct": 39.86,
+     "winner": true
+    },
+    {
+     "name": "Jose de Venecia Jr.",
+     "party": "lakas91",
+     "votes": 4268483,
+     "pct": 15.87
+    },
+    {
+     "name": "Raul Roco",
+     "party": "aksyon",
+     "votes": 3720212,
+     "pct": 13.83
+    },
+    {
+     "name": "Lito Osmeña",
+     "party": "promdi",
+     "votes": 3347631,
+     "pct": 12.44
+    },
+    {
+     "name": "Alfredo Lim",
+     "party": "lp",
+     "votes": 2344362,
+     "pct": 8.71
+    },
+    {
+     "name": "Renato de Villa",
+     "party": "reporma",
+     "votes": 1308352,
+     "pct": 4.86
+    },
+    {
+     "name": "Miriam Defensor Santiago",
+     "party": "prp",
+     "votes": 797206,
+     "pct": 2.96
+    },
+    {
+     "name": "Juan Ponce Enrile",
+     "party": "indenrile",
+     "votes": 343139,
+     "pct": 1.28
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 50856,
+     "pct": 0.19
+    }
+   ],
+   "notes": "Renato de Villa ran for Reporma–LM. Shares are of valid votes; 2,383,239 invalid ballots, which include 232,714 votes for Imelda Marcos after she withdrew, are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{1998 Philippine presidential election results}}\", cited here; the article is \"1998 Philippine presidential election\". Others: Santiago Dumlao, Manuel Morato."
+  },
+  {
+   "id": "ph-president-2004",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2004-05-10",
+   "turnout": 76.3,
+   "source": {
+    "name": "Wikipedia (the results table names no source)",
+    "url": "https://en.wikipedia.org/wiki/Template:2004_Philippine_presidential_election_results",
+    "revid": 1327842303
+   },
+   "candidates": [
+    {
+     "name": "Gloria Macapagal Arroyo",
+     "party": "lakas91",
+     "votes": 12905808,
+     "pct": 39.99,
+     "winner": true
+    },
+    {
+     "name": "Fernando Poe Jr.",
+     "party": "knp",
+     "votes": 11782232,
+     "pct": 36.51
+    },
+    {
+     "name": "Panfilo Lacson",
+     "party": "ldp",
+     "votes": 3510080,
+     "pct": 10.88
+    },
+    {
+     "name": "Raul Roco",
+     "party": "aksyon",
+     "votes": 2082762,
+     "pct": 6.45
+    },
+    {
+     "name": "Eddie Villanueva",
+     "party": "bangon",
+     "votes": 1988218,
+     "pct": 6.16
+    }
+   ],
+   "notes": "Panfilo Lacson ran for the wing of the LDP led by Butz Aquino; the rest of the party backed Fernando Poe Jr.'s coalition. The results template names no source. Shares are of valid votes; 1,240,992 invalid ballots are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{2004 Philippine presidential election results}}\", cited here; the article is \"2004 Philippine presidential election\". Region winners are the candidate with the most votes in each region, from the article's by-region table. ARMM is matched to today's Bangsamoro region, whose boundaries differ slightly (Cotabato City joined it from Soccsksargen in 2019).",
+   "regionWinners": {
+    "I": "knp",
+    "CAR": "lakas91",
+    "II": "knp",
+    "III": "knp",
+    "NCR": "knp",
+    "IVA": "knp",
+    "IVB": "knp",
+    "V": "aksyon",
+    "VI": "lakas91",
+    "VII": "lakas91",
+    "VIII": "lakas91",
+    "IX": "lakas91",
+    "X": "lakas91",
+    "XI": "knp",
+    "XII": "knp",
+    "XIII": "lakas91",
+    "BARMM": "lakas91"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2004_Philippine_presidential_election"
+  },
+  {
+   "id": "ph-president-2010",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2010-05-10",
+   "turnout": 74.34,
+   "source": {
+    "name": "Wikipedia, citing the Commission on Elections (COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/Template:2010_Philippine_presidential_election_results",
+    "revid": 1317847393
+   },
+   "candidates": [
+    {
+     "name": "Benigno Aquino III",
+     "party": "lp",
+     "votes": 15208678,
+     "pct": 42.08,
+     "winner": true
+    },
+    {
+     "name": "Joseph Estrada",
+     "party": "pmp",
+     "votes": 9487837,
+     "pct": 26.25
+    },
+    {
+     "name": "Manny Villar",
+     "party": "np",
+     "votes": 5573835,
+     "pct": 15.42
+    },
+    {
+     "name": "Gilbert Teodoro",
+     "party": "lakas",
+     "votes": 4095839,
+     "pct": 11.33
+    },
+    {
+     "name": "Eddie Villanueva",
+     "party": "bangon",
+     "votes": 1125878,
+     "pct": 3.12
+    },
+    {
+     "name": "Dick Gordon",
+     "party": "bvnp",
+     "votes": 501727,
+     "pct": 1.39
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 145308,
+     "pct": 0.4
+    }
+   ],
+   "notes": "Gilbert Teodoro ran for Lakas–Kampi–CMD (the article of Lakas–CMD after 2009). Shares are of valid votes; 2,010,269 invalid ballots, which include 181,985 votes for the disqualified Vetellano Acosta, are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{2010 Philippine presidential election results}}\", cited here; the article is \"2010 Philippine presidential election\". Others: Nicanor Perlas, Jamby Madrigal, John Carlos de los Reyes. Region winners are the candidate with the most votes in each region, from the article's by-region table. ARMM is matched to today's Bangsamoro region, whose boundaries differ slightly (Cotabato City joined it from Soccsksargen in 2019).",
+   "regionWinners": {
+    "I": "lp",
+    "CAR": "lp",
+    "II": "pmp",
+    "III": "lp",
+    "NCR": "lp",
+    "IVA": "lp",
+    "IVB": "lp",
+    "V": "lp",
+    "VI": "lp",
+    "VII": "lp",
+    "VIII": "lp",
+    "IX": "lp",
+    "X": "pmp",
+    "XI": "pmp",
+    "XII": "pmp",
+    "XIII": "lp",
+    "BARMM": "lp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2010_Philippine_presidential_election"
+  },
+  {
+   "id": "ph-president-2016",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2016-05-09",
+   "turnout": 80.69,
+   "source": {
+    "name": "Wikipedia, citing the Congress of the Philippines (national canvass)",
+    "url": "https://en.wikipedia.org/wiki/Template:2016_Philippine_presidential_election_results",
+    "revid": 1270958160
+   },
+   "candidates": [
+    {
+     "name": "Rodrigo Duterte",
+     "party": "pdplaban",
+     "votes": 16601997,
+     "pct": 39.02,
+     "winner": true
+    },
+    {
+     "name": "Mar Roxas",
+     "party": "lp",
+     "votes": 9978175,
+     "pct": 23.45
+    },
+    {
+     "name": "Grace Poe",
+     "party": "indpoe",
+     "votes": 9100991,
+     "pct": 21.39
+    },
+    {
+     "name": "Jejomar Binay",
+     "party": "una",
+     "votes": 5416140,
+     "pct": 12.73
+    },
+    {
+     "name": "Miriam Defensor Santiago",
+     "party": "prp",
+     "votes": 1455532,
+     "pct": 3.42
+    }
+   ],
+   "notes": "Grace Poe ran as an independent (the table colours her as Partido Galing at Puso). Shares are of valid votes; 2,426,316 invalid ballots, which include 25,779 votes for Roy Señeres, who withdrew and died after the ballots were printed, are excluded. Turnout is the infobox figure. The results come from the transcluded template \"{{2016 Philippine presidential election results}}\", cited here; the article is \"2016 Philippine presidential election\". Region winners are the candidate with the most votes in each region, from the article's by-region table. Western and Central Visayas are left out: the table counts the Negros Island Region, which existed in 2016, separately. ARMM is matched to today's Bangsamoro region, whose boundaries differ slightly (Cotabato City joined it from Soccsksargen in 2019).",
+   "regionWinners": {
+    "I": "indpoe",
+    "CAR": "indpoe",
+    "II": "una",
+    "III": "pdplaban",
+    "NCR": "pdplaban",
+    "IVA": "pdplaban",
+    "IVB": "lp",
+    "V": "indpoe",
+    "VIII": "lp",
+    "IX": "pdplaban",
+    "X": "pdplaban",
+    "XI": "pdplaban",
+    "XII": "pdplaban",
+    "XIII": "pdplaban",
+    "BARMM": "pdplaban"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2016_Philippine_presidential_election"
+  },
+  {
+   "id": "ph-senate-1949",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1949-11-08",
+   "totalSeats": 24,
+   "turnout": 69.7,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1949_Philippine_Senate_election",
+    "revid": 1360147705
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party (Quirino wing)",
+     "party": "lp",
+     "votes": 12782449,
+     "pct": 52.52,
+     "seats": 17,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 8900568,
+     "pct": 36.57,
+     "seats": 4,
+     "change": -4
+    },
+    {
+     "name": "Liberal Party (Avelino wing)",
+     "party": "lpavelino",
+     "votes": 2649512,
+     "pct": 10.89,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Popular Front",
+     "party": "pf",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Vacancy",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4123,
+     "pct": 0.02,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. The Liberal Party was split into the Quirino and Avelino wings, listed separately. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1951",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1951-11-13",
+   "totalSeats": 24,
+   "turnout": 92.36,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1951_Philippine_Senate_election",
+    "revid": 1294788219
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 9280247,
+     "pct": 38.19,
+     "seats": 13,
+     "change": -5,
+     "winner": true
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 14140100,
+     "pct": 58.2,
+     "seats": 11,
+     "change": 8
+    },
+    {
+     "name": "National Political Party of Women",
+     "party": "nppw",
+     "votes": 431328,
+     "pct": 1.78,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party (independent)",
+     "party": "ilp",
+     "votes": 348785,
+     "pct": 1.44,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 96749,
+     "pct": 0.4,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 9 were contested. Nine seats were filled, including one vacated seat. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. Nacionalista Party won the most contested seats (9), but Liberal Party remained the largest party with 13 seats after the election."
+  },
+  {
+   "id": "ph-senate-1953",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1953-11-10",
+   "totalSeats": 8,
+   "chamberSize": 24,
+   "turnout": 77.22,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1953_Philippine_Senate_election",
+    "revid": 1374854144
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 9813166,
+     "pct": 39.83,
+     "seats": 5,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": 3793654,
+     "pct": 15.4,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Citizens' Party",
+     "party": "ncp",
+     "votes": 2156717,
+     "pct": 8.75,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 8861244,
+     "pct": 35.97,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 9804,
+     "pct": 0.04,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. The table's composition after the election adds up to 23, not 24, so seats are seats won (8 of 24) and there is no change column."
+  },
+  {
+   "id": "ph-senate-1955",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1955-11-08",
+   "totalSeats": 24,
+   "turnout": 77.79,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1955_Philippine_Senate_election",
+    "revid": 1313590704
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 18422368,
+     "pct": 67.18,
+     "seats": 23,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Citizens Party",
+     "party": "ncp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 8968978,
+     "pct": 32.71,
+     "seats": 0,
+     "change": -4
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 29580,
+     "pct": 0.11,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 9 were contested. Nine seats were filled, including one vacated seat. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1957",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1957-11-12",
+   "totalSeats": 24,
+   "turnout": 75.52,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1957_Philippine_Senate_election",
+    "revid": 1315878261
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 13271831,
+     "pct": 47.28,
+     "seats": 20,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 8898218,
+     "pct": 31.7,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": 1949972,
+     "pct": 6.95,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Progressive Party",
+     "party": "pp",
+     "votes": 3393935,
+     "pct": 12.09,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "People's (Veterans) Democratic Movement for Good Government",
+     "party": "pvdm",
+     "votes": 346585,
+     "pct": 1.23,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 211773,
+     "pct": 0.75,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1959",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1959-11-10",
+   "totalSeats": 24,
+   "turnout": 81.74,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1959_Philippine_Senate_election",
+    "revid": 1345473805
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 15426288,
+     "pct": 45.04,
+     "seats": 19,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 9691155,
+     "pct": 28.29,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": 2029200,
+     "pct": 5.92,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Progressive Party",
+     "party": "pp",
+     "votes": 7059564,
+     "pct": 20.61,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45960,
+     "pct": 0.13,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1961",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1961-11-14",
+   "totalSeats": 24,
+   "turnout": 79.43,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1961_Philippine_Senate_election",
+    "revid": 1315878140
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 17834477,
+     "pct": 45.07,
+     "seats": 13,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 14988931,
+     "pct": 37.88,
+     "seats": 8,
+     "change": 3
+    },
+    {
+     "name": "Party for Philippine Progress",
+     "party": "pp",
+     "votes": 6577698,
+     "pct": 16.62,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 171262,
+     "pct": 0.43,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. The Party for Philippine Progress uses the Progressive Party's article. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. Liberal Party won the most contested seats (4), but Nacionalista Party remained the largest party with 13 seats after the election."
+  },
+  {
+   "id": "ph-senate-1963",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1963-11-12",
+   "totalSeats": 24,
+   "turnout": 79.58,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1963_Philippine_Senate_election",
+    "revid": 1294788649
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 22983462,
+     "pct": 50.17,
+     "seats": 11,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 22794310,
+     "pct": 49.76,
+     "seats": 10,
+     "change": 2
+    },
+    {
+     "name": "Progressive Party",
+     "party": "pp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 34698,
+     "pct": 0.08,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1965",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1965-11-09",
+   "totalSeats": 24,
+   "turnout": 76.39,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1965_Philippine_Senate_election",
+    "revid": 1294788704
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 21619502,
+     "pct": 43.8,
+     "seats": 11,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 23158197,
+     "pct": 46.92,
+     "seats": 10,
+     "change": 1
+    },
+    {
+     "name": "Party for Philippine Progress",
+     "party": "pp",
+     "votes": 1128652,
+     "pct": 2.29,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": 3014618,
+     "pct": 6.11,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 434343,
+     "pct": 0.88,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1967",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1967-11-14",
+   "totalSeats": 24,
+   "turnout": 81.66,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1967_Philippine_Senate_election",
+    "revid": 1342084347
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 27237424,
+     "pct": 55.75,
+     "seats": 15,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 18094284,
+     "pct": 37.04,
+     "seats": 7,
+     "change": -4
+    },
+    {
+     "name": "Nacionalista Party (independent)",
+     "party": "inp",
+     "votes": 3466676,
+     "pct": 7.1,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 57628,
+     "pct": 0.12,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1969",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1969-11-11",
+   "totalSeats": 24,
+   "turnout": 79.63,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1969_Philippine_Senate_election",
+    "revid": 1359956030
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 31526492,
+     "pct": 58.58,
+     "seats": 17,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 22256444,
+     "pct": 41.35,
+     "seats": 6,
+     "change": -2
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 39163,
+     "pct": 0.07,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1971",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1971-11-08",
+   "totalSeats": 24,
+   "turnout": 80.77,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1971_Philippine_Senate_election",
+    "revid": 1375433557
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 24819175,
+     "pct": 42.58,
+     "seats": 16,
+     "change": -1,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 33469677,
+     "pct": 57.42,
+     "seats": 8,
+     "change": 2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 8 were contested. Congress was closed under martial law in 1972; the next Senate election was in 1987. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. Liberal Party won the most contested seats (5), but Nacionalista Party remained the largest party with 16 seats after the election."
+  },
+  {
+   "id": "ph-senate-1995",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1995-05-08",
+   "totalSeats": 24,
+   "turnout": 70.68,
+   "source": {
+    "name": "Wikipedia, citing Julio Teehankee, Electoral Politics in the Philippines",
+    "url": "https://en.wikipedia.org/wiki/1995_Philippine_Senate_election",
+    "revid": 1373506398
+   },
+   "candidates": [
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 63402619,
+     "pct": 34.72,
+     "seats": 14,
+     "change": -2,
+     "winner": true
+    },
+    {
+     "name": "Lakas–NUCD",
+     "party": "lakas91",
+     "votes": 43034397,
+     "pct": 23.56,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 29381030,
+     "pct": 16.09,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 17669807,
+     "pct": 9.68,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 11044407,
+     "pct": 6.05,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 8522148,
+     "pct": 4.67,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 8168768,
+     "pct": 4.47,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1403652,
+     "pct": 0.77,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1998",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1998-05-11",
+   "totalSeats": 24,
+   "turnout": 86.46,
+   "source": {
+    "name": "Wikipedia (the results table names no source)",
+    "url": "https://en.wikipedia.org/wiki/1998_Philippine_Senate_election",
+    "revid": 1366981631
+   },
+   "candidates": [
+    {
+     "name": "Lakas–NUCD–UMDP",
+     "party": "lakas91",
+     "votes": 93261379,
+     "pct": 45.44,
+     "seats": 9,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 56058540,
+     "pct": 27.31,
+     "seats": 5,
+     "change": -5
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 9242652,
+     "pct": 4.5,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 7275858,
+     "pct": 3.54,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 10227765,
+     "pct": 4.98,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 8968616,
+     "pct": 4.37,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Grand Alliance for Democracy/Gabaybayan",
+     "party": "gad",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Vacancy",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma",
+     "party": "reporma",
+     "votes": 13090781,
+     "pct": 6.38,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 5429123,
+     "pct": 2.65,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1688775,
+     "pct": 0.82,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Turnout uses the per-coalition table's 29,285,775 votes and 33,873,665 voters; the per-party table repeats 1995's figures. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-2001",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2001-05-14",
+   "totalSeats": 24,
+   "turnout": 81.26,
+   "source": {
+    "name": "Wikipedia, citing Julio Teehankee, Electoral Politics in the Philippines",
+    "url": "https://en.wikipedia.org/wiki/2001_Philippine_Senate_election",
+    "revid": 1376077510
+   },
+   "candidates": [
+    {
+     "name": "Lakas–NUCD–UMDP",
+     "party": "lakas91",
+     "votes": 47466515,
+     "pct": 19.53,
+     "seats": 7,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 94470802,
+     "pct": 38.87,
+     "seats": 6,
+     "change": 3
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 51853133,
+     "pct": 21.34,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 11593389,
+     "pct": 4.77,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 19131732,
+     "pct": 7.87,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Partido ng Masang Pilipino",
+     "party": "pmp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 9622742,
+     "pct": 3.96,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 6728728,
+     "pct": 2.77,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2162912,
+     "pct": 0.89,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 13 were contested. Thirteen seats were filled; the 13th winner served the rest of a vacated term. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. Independents won the most contested seats (6), but Lakas–NUCD–UMDP remained the largest party with 7 seats after the election."
+  },
+  {
+   "id": "ph-senate-2004",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2004-05-10",
+   "totalSeats": 24,
+   "turnout": 81.56,
+   "source": {
+    "name": "Wikipedia (per-party sums of the candidate results, which cite COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2004_Philippine_Senate_election",
+    "revid": 1372112411
+   },
+   "candidates": [
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas91",
+     "votes": 80684233,
+     "pct": 31.74,
+     "seats": 7,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Koalisyon ng Nagkakaisang Pilipino",
+     "party": "knp",
+     "votes": 90234627,
+     "pct": 35.5,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 19877921,
+     "pct": 7.82,
+     "seats": 4,
+     "change": -2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 30008158,
+     "pct": 11.8,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 12187401,
+     "pct": 4.79,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Vacancy",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 9362416,
+     "pct": 3.68,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 5718740,
+     "pct": 2.25,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma",
+     "party": "reporma",
+     "votes": 4740531,
+     "pct": 1.86,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1402716,
+     "pct": 0.55,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. Koalisyon ng Nagkakaisang Pilipino won the most contested seats (5), but Lakas–CMD remained the largest party with 7 seats after the election."
+  },
+  {
+   "id": "ph-senate-2007",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2007-05-14",
+   "totalSeats": 12,
+   "chamberSize": 24,
+   "turnout": 68.44,
+   "source": {
+    "name": "Wikipedia (per-party sums of the candidate results, which cite COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2007_Philippine_Senate_election",
+    "revid": 1374185336
+   },
+   "candidates": [
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 48767467,
+     "pct": 18.12,
+     "seats": 2,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "United Opposition",
+     "party": "uno",
+     "votes": 33965907,
+     "pct": 12.62,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 28844027,
+     "pct": 10.72,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 27126091,
+     "pct": 10.08,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas91",
+     "votes": 59976735,
+     "pct": 22.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 19605877,
+     "pct": 7.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 12657769,
+     "pct": 4.7,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kabalikat ng Malayang Pilipino",
+     "party": "kampi",
+     "votes": 11803107,
+     "pct": 4.39,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 10987347,
+     "pct": 4.08,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 8457748,
+     "pct": 3.14,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 6926209,
+     "pct": 2.57,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. The table's composition after the election adds up to 23, not 24, so seats are seats won (12 of 24) and there is no change column."
+  },
+  {
+   "id": "ph-senate-2010",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2010-05-10",
+   "totalSeats": 24,
+   "turnout": 74.34,
+   "source": {
+    "name": "Wikipedia (per-party sums of the candidate results, which cite COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2010_Philippine_Senate_election",
+    "revid": 1370094413
+   },
+   "candidates": [
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 24004705,
+     "pct": 8.08,
+     "seats": 5,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 78227817,
+     "pct": 26.34,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 49585503,
+     "pct": 16.69,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Lakas Kampi CMD",
+     "party": "lakas",
+     "votes": 38123091,
+     "pct": 12.83,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 47111982,
+     "pct": 15.86,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 13409616,
+     "pct": 4.51,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 17344742,
+     "pct": 5.84,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Vacancy",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 6635023,
+     "pct": 2.23,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Bangon Pilipinas",
+     "party": "bangon",
+     "votes": 6486749,
+     "pct": 2.18,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "PROMDI",
+     "party": "promdi",
+     "votes": 3980370,
+     "pct": 1.34,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Bayan Muna",
+     "party": "bayanmuna",
+     "votes": 3539345,
+     "pct": 1.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Grand Alliance for Democracy/Gabaybayan",
+     "party": "gad",
+     "votes": 3331083,
+     "pct": 1.12,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 5256088,
+     "pct": 1.77,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters. Independents held the most seats (5, flagged as winner); the largest parties were Liberal Party, Nacionalista Party, Lakas Kampi CMD (4 each)."
+  },
+  {
+   "id": "ph-senate-2013",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2013-05-13",
+   "totalSeats": 24,
+   "turnout": 75.77,
+   "source": {
+    "name": "Wikipedia (per-party sums of the candidate results, which cite COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2013_Philippine_Senate_election",
+    "revid": 1371591751
+   },
+   "candidates": [
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 80257922,
+     "pct": 26.96,
+     "seats": 5,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 45531389,
+     "pct": 15.3,
+     "seats": 5,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 33678948,
+     "pct": 11.31,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 48332949,
+     "pct": 16.24,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 30204220,
+     "pct": 10.15,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 16005564,
+     "pct": 5.38,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 14725114,
+     "pct": 4.95,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Akbayan",
+     "party": "akbayan",
+     "votes": 10994843,
+     "pct": 3.69,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Bangon Pilipinas",
+     "party": "bangon",
+     "votes": 6932985,
+     "pct": 2.33,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Makabayan",
+     "party": "makabayan",
+     "votes": 4295151,
+     "pct": 1.44,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Ang Kapatiran",
+     "party": "kapatiran",
+     "votes": 2975641,
+     "pct": 1,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3741071,
+     "pct": 1.26,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-2016",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2016-05-09",
+   "totalSeats": 24,
+   "turnout": 80.69,
+   "source": {
+    "name": "Wikipedia (per-party sums of the candidate results, which cite COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2016_Philippine_Senate_election",
+    "revid": 1373311463
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 100512795,
+     "pct": 31.28,
+     "seats": 6,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 100939528,
+     "pct": 31.42,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 32154139,
+     "pct": 10.01,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 2775191,
+     "pct": 0.86,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 24660722,
+     "pct": 7.68,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Akbayan",
+     "party": "akbayan",
+     "votes": 15915213,
+     "pct": 4.95,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 11932700,
+     "pct": 3.71,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": 13056845,
+     "pct": 4.06,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 8433168,
+     "pct": 2.62,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Makabayan",
+     "party": "makabayan",
+     "votes": 6484985,
+     "pct": 2.02,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4441987,
+     "pct": 1.38,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-2019",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2019-05-13",
+   "totalSeats": 24,
+   "turnout": 74.31,
+   "source": {
+    "name": "Wikipedia (per-party sums of the candidate results, which cite COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2019_Philippine_Senate_election",
+    "revid": 1374864543
+   },
+   "candidates": [
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 77340222,
+     "pct": 21.35,
+     "seats": 5,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 60955374,
+     "pct": 16.83,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 53959909,
+     "pct": 14.9,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 43273583,
+     "pct": 11.95,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 31279191,
+     "pct": 8.64,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": 22240710,
+     "pct": 6.14,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 18161862,
+     "pct": 5.01,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 14974776,
+     "pct": 4.13,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Akbayan",
+     "party": "akbayan",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 16678603,
+     "pct": 4.61,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Makabayan",
+     "party": "makabayan",
+     "votes": 4683942,
+     "pct": 1.29,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Katipunan ng Demokratikong Pilipino",
+     "party": "kdp",
+     "votes": 4185673,
+     "pct": 1.16,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 14445311,
+     "pct": 3.99,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-2022",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "2022-05-09",
+   "totalSeats": 24,
+   "turnout": 83.11,
+   "source": {
+    "name": "Wikipedia, citing the Commission on Elections (COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/2022_Philippine_Senate_election",
+    "revid": 1376614068
+   },
+   "candidates": [
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 103621754,
+     "pct": 23.99,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 97629933,
+     "pct": 22.6,
+     "seats": 5,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 42632566,
+     "pct": 9.87,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 19475592,
+     "pct": 4.51,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Akbayan",
+     "party": "akbayan",
+     "votes": 15420807,
+     "pct": 3.57,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 15108625,
+     "pct": 3.5,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 13263970,
+     "pct": 3.07,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Pederalismo ng Dugong Dakilang Samahan",
+     "party": "pdds",
+     "votes": 2921685,
+     "pct": 0.68,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 24034685,
+     "pct": 5.56,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 20184747,
+     "pct": 4.67,
+     "seats": 0,
+     "change": -3
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma",
+     "party": "reporma",
+     "votes": 18656456,
+     "pct": 4.32,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Katipunan ng Nagkakaisang Pilipino",
+     "party": "knpil",
+     "votes": 9978444,
+     "pct": 2.31,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 9691607,
+     "pct": 2.24,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Bagumbayan–VNP",
+     "party": "bvnp",
+     "votes": 8377893,
+     "pct": 1.94,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 7782964,
+     "pct": 1.8,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Makabayan",
+     "party": "makabayan",
+     "votes": 7677167,
+     "pct": 1.78,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Ang Kapatiran",
+     "party": "kapatiran",
+     "votes": 5477088,
+     "pct": 1.27,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Partido Lakas ng Masa",
+     "party": "plm",
+     "votes": 5045401,
+     "pct": 1.17,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 5002563,
+     "pct": 1.16,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Seats are the Senate's composition after the election (24 seats); 12 were contested. Party votes are the table's totals, the sum of each party's candidates' votes; every voter could choose several candidates, so shares are of all such votes. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1987",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1987-05-11",
+   "totalSeats": 24,
+   "turnout": 85.59,
+   "source": {
+    "name": "Wikipedia (the results table names no source)",
+    "url": "https://en.wikipedia.org/wiki/1987_Philippine_Senate_election",
+    "revid": 1373506445
+   },
+   "candidates": [
+    {
+     "name": "Lakas ng Bayan",
+     "party": "lnb",
+     "votes": 243237045,
+     "pct": 64.89,
+     "seats": 22,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Grand Alliance for Democracy",
+     "party": "gad",
+     "votes": 98060057,
+     "pct": 26.16,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Union for Peace and Progress–Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 16346234,
+     "pct": 4.36,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Alliance for New Politics",
+     "party": "pnb",
+     "votes": 8512824,
+     "pct": 2.27,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 8299562,
+     "pct": 2.21,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 372024,
+     "pct": 0.1,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "All 24 seats were elected, the first Senate election since 1971. The article gives only a per-coalition table, so rows are coalitions: Lakas ng Bayan (the administration coalition) and the Grand Alliance for Democracy. Votes are each coalition's candidates' votes added up; every voter could choose up to 24 candidates. The \"Union for Peace and Progress–KBL\" row links to the KBL article and \"Alliance for New Politics\" to Partido ng Bayan. No change column. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-senate-1992",
+   "office": "Senate",
+   "kind": "legislative",
+   "date": "1992-05-11",
+   "totalSeats": 24,
+   "turnout": 75.46,
+   "source": {
+    "name": "Wikipedia, citing Julio Teehankee, Electoral Politics in the Philippines",
+    "url": "https://en.wikipedia.org/wiki/1992_Philippine_Senate_election",
+    "revid": 1377276904
+   },
+   "candidates": [
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 124076351,
+     "pct": 44.95,
+     "seats": 16,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 49881921,
+     "pct": 18.07,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Lakas–NUCD",
+     "party": "lakas91",
+     "votes": 48789154,
+     "pct": 17.67,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Koalisyong Pambansa",
+     "party": "kp",
+     "votes": 19104398,
+     "pct": 6.92,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 14485802,
+     "pct": 5.25,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 12648229,
+     "pct": 4.58,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 6506463,
+     "pct": 2.36,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 550382,
+     "pct": 0.2,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "All 24 seats were elected (the top 12 for six years, the next 12 for three), so seats won are the whole Senate. Party votes are the table's totals, the sum of each party's candidates' votes. Lakas–NUCD uses the article of Lakas–CMD founded in 1991. Turnout is the table's total votes over registered voters."
+  },
+  {
+   "id": "ph-house-1949",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1949-11-08",
+   "totalSeats": 100,
+   "turnout": 69.7,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1949_Philippine_House_election_results",
+    "revid": 1253308169
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party (Quirino wing)",
+     "party": "lp",
+     "votes": 1834173,
+     "pct": 53,
+     "seats": 60,
+     "change": 11,
+     "winner": true
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 1178402,
+     "pct": 34.05,
+     "seats": 33,
+     "change": -2
+    },
+    {
+     "name": "Liberal Party (Avelino wing)",
+     "party": "lpavelino",
+     "votes": 385188,
+     "pct": 11.13,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 49265,
+     "pct": 1.42,
+     "seats": 1,
+     "change": -4
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 13862,
+     "pct": 0.4,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. The Liberal Party was split into the Quirino and Avelino wings, listed separately. The infobox gives the Quirino wing 66 seats; the results table's 60 is used (its rows add up to the 100 seats). Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1949 Philippine House election results}}\", cited here; the article is \"1949 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 100, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-1953",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1953-11-10",
+   "totalSeats": 102,
+   "turnout": 77.22,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1953_Philippine_House_election_results",
+    "revid": 1241898201
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 1930367,
+     "pct": 47.3,
+     "seats": 59,
+     "change": 26,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 1624571,
+     "pct": 39.81,
+     "seats": 31,
+     "change": -29
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": 284222,
+     "pct": 6.96,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 111160,
+     "pct": 2.72,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Nacionalista Party (independent)",
+     "party": "inp",
+     "votes": 42081,
+     "pct": 1.03,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 88800,
+     "pct": 2.18,
+     "seats": 2,
+     "change": null
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1953 Philippine House election results}}\", cited here; the article is \"1953 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 102, the total in the article's infobox. Others includes joint candidacies of two or more parties (2 seats)."
+  },
+  {
+   "id": "ph-house-1957",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1957-11-12",
+   "totalSeats": 102,
+   "turnout": 75.52,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1957_Philippine_House_election_results",
+    "revid": 1241904258
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 2948409,
+     "pct": 61.19,
+     "seats": 82,
+     "change": 51,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 1453527,
+     "pct": 30.17,
+     "seats": 19,
+     "change": -40
+    },
+    {
+     "name": "Nationalist Citizens' Party",
+     "party": "ncp",
+     "votes": 137093,
+     "pct": 2.85,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 112537,
+     "pct": 2.34,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Progressive Party",
+     "party": "pp",
+     "votes": 62968,
+     "pct": 1.31,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Nacionalista Party (independent)",
+     "party": "inp",
+     "votes": 51729,
+     "pct": 1.07,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": 42890,
+     "pct": 0.89,
+     "seats": 0,
+     "change": -9
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 9367,
+     "pct": 0.19,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1957 Philippine House election results}}\", cited here; the article is \"1957 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 102, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-1961",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1961-11-14",
+   "totalSeats": 104,
+   "turnout": 79.43,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1961_Philippine_House_election_results",
+    "revid": 1241894395
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 3923390,
+     "pct": 61.02,
+     "seats": 74,
+     "change": -8,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 2167641,
+     "pct": 33.71,
+     "seats": 29,
+     "change": 10
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 243110,
+     "pct": 3.78,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 95671,
+     "pct": 1.49,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1961 Philippine House election results}}\", cited here; the article is \"1961 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 104, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-1965",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1965-11-09",
+   "totalSeats": 104,
+   "turnout": 76.39,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1965_Philippine_House_election_results",
+    "revid": 1241894198
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 3721460,
+     "pct": 51.32,
+     "seats": 61,
+     "change": 32,
+     "winner": true
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 3028224,
+     "pct": 41.76,
+     "seats": 38,
+     "change": -36
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 268327,
+     "pct": 3.7,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party (independent)",
+     "party": "ilp",
+     "votes": 107001,
+     "pct": 1.48,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Nacionalista Party (independent)",
+     "party": "inp",
+     "votes": 71955,
+     "pct": 0.99,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 54547,
+     "pct": 0.75,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1965 Philippine House election results}}\", cited here; the article is \"1965 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 104, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-1969",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1969-11-11",
+   "totalSeats": 110,
+   "turnout": 79.63,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1969_Philippine_House_election_results",
+    "revid": 1241894326
+   },
+   "candidates": [
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 4590374,
+     "pct": 58.93,
+     "seats": 88,
+     "change": 50,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 2641786,
+     "pct": 33.91,
+     "seats": 18,
+     "change": -43
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 394700,
+     "pct": 5.07,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Nacionalista Party (independent)",
+     "party": "inp",
+     "votes": 129424,
+     "pct": 1.66,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 33537,
+     "pct": 0.43,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Congress was closed under martial law in 1972. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1969 Philippine House election results}}\", cited here; the article is \"1969 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 110, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-1978",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1978-04-07",
+   "note": "Interim Batasang Pambansa, under martial law",
+   "totalSeats": 190,
+   "turnout": 85.52,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/1978_Philippine_parliamentary_election",
+    "revid": 1377249134
+   },
+   "candidates": [
+    {
+     "name": "KBL",
+     "party": "kbl",
+     "votes": 147885493,
+     "pct": 71.13,
+     "seats": 137,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Bagong Lipunan-Kilusan ng Nagkakaisang Nacionalista, Liberal",
+     "party": "blknnl",
+     "votes": 7981060,
+     "pct": 3.84,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Sectoral seats",
+     "party": "sectoral",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Pusyon Bisaya",
+     "party": "pusyon",
+     "votes": 9495416,
+     "pct": 4.57,
+     "seats": 13,
+     "change": null
+    },
+    {
+     "name": "Appointed seats",
+     "party": "appointed",
+     "votes": null,
+     "pct": null,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 7633851,
+     "pct": 3.67,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Mindanao Alliance",
+     "party": "mindanao",
+     "votes": 6685224,
+     "pct": 3.22,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "LABAN",
+     "party": "lnb",
+     "votes": 21541600,
+     "pct": 10.36,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Bicol Saro",
+     "party": "bicolsaro",
+     "votes": 2105599,
+     "pct": 1.01,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 4566456,
+     "pct": 2.2,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Election to the Interim Batasang Pambansa, the martial-law parliament, filed here under the House. Voters chose several regional representatives each, so votes are each party's candidates' votes added up. Fourteen sectoral representatives were elected on 27 April and ten members were appointed; both are rows in the table. The table's rows add up to 190 seats (166 regional), while the lead gives 165 regional and 189 in all. Turnout is the table's figure."
+  },
+  {
+   "id": "ph-house-1984",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1984-05-14",
+   "note": "Regular Batasang Pambansa, under Marcos",
+   "totalSeats": 200,
+   "turnout": 83.74,
+   "source": {
+    "name": "Wikipedia, citing Julio Teehankee, Electoral Politics in the Philippines",
+    "url": "https://en.wikipedia.org/wiki/1984_Philippine_parliamentary_election",
+    "revid": 1379095336
+   },
+   "candidates": [
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 27237315,
+     "pct": 46.01,
+     "seats": 110,
+     "change": -40,
+     "winner": true
+    },
+    {
+     "name": "United Nationalist Democratic Organization",
+     "party": "unido",
+     "votes": 20352815,
+     "pct": 34.38,
+     "seats": 35,
+     "change": null
+    },
+    {
+     "name": "Sectoral seats",
+     "party": "sectoral",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": 0
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 4352328,
+     "pct": 7.35,
+     "seats": 6,
+     "change": 5
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 1344607,
+     "pct": 2.27,
+     "seats": 6,
+     "change": 6
+    },
+    {
+     "name": "Kilusang Bagong Lipunan (independent)",
+     "party": "kblind",
+     "votes": 1596900,
+     "pct": 2.7,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Appointed seats",
+     "party": "appointed",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 2084331,
+     "pct": 3.52,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Partido Panaghiusa",
+     "party": "panaghiusa",
+     "votes": 471551,
+     "pct": 0.8,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Mindanao Alliance",
+     "party": "mindanao",
+     "votes": 202945,
+     "pct": 0.34,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Concerned Citizens' Aggrupation",
+     "party": "cca",
+     "votes": 41735,
+     "pct": 0.07,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Pusyon Bisaya",
+     "party": "pusyon",
+     "votes": 161944,
+     "pct": 0.27,
+     "seats": 0,
+     "change": -13
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1358214,
+     "pct": 2.29,
+     "seats": 17,
+     "change": 17
+    }
+   ],
+   "notes": "Election to the Regular Batasang Pambansa, filed here under the House. The table gives 110 seats to the KBL and 35 to UNIDO; the lead's 114 and 60 count differently. Coalition candidates (17 seats in the table) are in Others. Sectoral (14) and appointed (3) members are rows in the table. Turnout is the infobox figure, as the table gives no invalid votes. Others includes \"Coalitions\" (17 seats)."
+  },
+  {
+   "id": "ph-house-1987",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1987-05-11",
+   "totalSeats": 214,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/1987_Philippine_House_of_Representatives_elections",
+    "revid": 1376782302
+   },
+   "candidates": [
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": null,
+     "pct": null,
+     "seats": 43,
+     "change": 49,
+     "winner": true
+    },
+    {
+     "name": "Lakas ng Bansa",
+     "party": "lnbansa",
+     "votes": null,
+     "pct": null,
+     "seats": 24,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 23,
+     "change": 17
+    },
+    {
+     "name": "United Nationalist Democratic Organization",
+     "party": "unido",
+     "votes": null,
+     "pct": null,
+     "seats": 19,
+     "change": -16
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Appointed seats",
+     "party": "sectoral",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": 11
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": null,
+     "pct": null,
+     "seats": 11,
+     "change": -99
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Partido ng Bayan",
+     "party": "pnb",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Grand Alliance for Democracy",
+     "party": "gad",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Lakas ng Bayan",
+     "party": "lnb",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 55,
+     "change": 38
+    }
+   ],
+   "notes": "The table gives seats only, no votes. Candidates of coalitions and other groups (55 seats in the table) are in Others. Appointed sectoral members are a row in the table. Others includes \"Coalitions/others\" (55 seats)."
+  },
+  {
+   "id": "ph-house-1992",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1992-05-11",
+   "totalSeats": 216,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1992_Philippine_House_election_results",
+    "revid": 1251562761
+   },
+   "candidates": [
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 6286922,
+     "pct": 33.73,
+     "seats": 86,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Lakas–NUCD",
+     "party": "lakas91",
+     "votes": 3951144,
+     "pct": 21.2,
+     "seats": 41,
+     "change": null
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 3478780,
+     "pct": 18.66,
+     "seats": 30,
+     "change": null
+    },
+    {
+     "name": "Appointed seats",
+     "party": "sectoral",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": 0
+    },
+    {
+     "name": "Koalisyong Pambansa",
+     "party": "kp",
+     "votes": 1644568,
+     "pct": 8.82,
+     "seats": 11,
+     "change": null
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 730696,
+     "pct": 3.92,
+     "seats": 7,
+     "change": 3
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 938558,
+     "pct": 5.04,
+     "seats": 6,
+     "change": -17
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 438577,
+     "pct": 2.35,
+     "seats": 3,
+     "change": -8
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1171381,
+     "pct": 6.28,
+     "seats": 16,
+     "change": null
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Lakas–NUCD uses the article of Lakas–CMD founded in 1991. Appointed sectoral members are a row in the table. The results come from the transcluded template \"{{1992 Philippine House election results}}\", cited here; the article is \"1992 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 216, the total in the article's infobox. Others includes \"Coalitions\" (14 seats), \"Others\" (2 seats)."
+  },
+  {
+   "id": "ph-house-1995",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1995-05-08",
+   "totalSeats": 220,
+   "turnout": 70.68,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific: A Data Handbook",
+    "url": "https://en.wikipedia.org/wiki/Template:1995_Philippine_House_election_results",
+    "revid": 1341127316
+   },
+   "candidates": [
+    {
+     "name": "Lakas–NUCD–UMDP",
+     "party": "lakas91",
+     "votes": 7811625,
+     "pct": 40.66,
+     "seats": 100,
+     "change": 59,
+     "winner": true
+    },
+    {
+     "name": "Lakas–Laban Coalition",
+     "party": "lakaslaban",
+     "votes": 1998810,
+     "pct": 10.4,
+     "seats": 25,
+     "change": null
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 2342378,
+     "pct": 12.19,
+     "seats": 22,
+     "change": -8
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 2079611,
+     "pct": 10.83,
+     "seats": 17,
+     "change": -69
+    },
+    {
+     "name": "Appointed seats",
+     "party": "sectoral",
+     "votes": null,
+     "pct": null,
+     "seats": 16,
+     "change": 0
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 1238214,
+     "pct": 6.45,
+     "seats": 7,
+     "change": 1
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 358245,
+     "pct": 1.86,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 153088,
+     "pct": 0.8,
+     "seats": 1,
+     "change": -6
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 130695,
+     "pct": 0.68,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 101624,
+     "pct": 0.53,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2996866,
+     "pct": 15.6,
+     "seats": 25,
+     "change": null
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Lakas–NUCD–UMDP uses the article of Lakas–CMD founded in 1991. Joint candidacies of two or more parties are in Others. Appointed sectoral members are a row in the table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1995 Philippine House election results}}\", cited here; the article is \"1995 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 220, while the article's infobox gives 226. Others includes joint candidacies of two or more parties (25 seats)."
+  },
+  {
+   "id": "ph-house-1998",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1998-05-11",
+   "totalSeats": 257,
+   "turnout": 86.46,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., Elections in Asia and the Pacific, and Teehankee",
+    "url": "https://en.wikipedia.org/wiki/Template:1998_Philippine_House_election_results",
+    "revid": 1288261123
+   },
+   "candidates": [
+    {
+     "name": "Lakas–NUCD–UMDP",
+     "party": "lakas91",
+     "votes": 11981024,
+     "pct": 49.01,
+     "seats": 111,
+     "change": 11,
+     "winner": true
+    },
+    {
+     "name": "Laban ng Makabayang Masang Pilipino",
+     "party": "lammp",
+     "votes": 6520744,
+     "pct": 26.68,
+     "seats": 55,
+     "change": null
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 51,
+     "change": 51
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 1773124,
+     "pct": 7.25,
+     "seats": 15,
+     "change": 10
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 998239,
+     "pct": 4.08,
+     "seats": 9,
+     "change": -13
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma",
+     "party": "reporma",
+     "votes": 966653,
+     "pct": 3.95,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Probinsya Muna Development Initiative",
+     "party": "promdi",
+     "votes": 586954,
+     "pct": 2.4,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Unaffiliated",
+     "party": "unaff",
+     "votes": 348281,
+     "pct": 1.42,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 834934,
+     "pct": 3.42,
+     "seats": 2,
+     "change": -5
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 106843,
+     "pct": 0.44,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Ompia Party",
+     "party": "ompia",
+     "votes": 46462,
+     "pct": 0.19,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 281140,
+     "pct": 1.15,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{1998 Philippine House election results}}\", cited here; the article is \"1998 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 257, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-2001",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2001-05-14",
+   "totalSeats": 261,
+   "source": {
+    "name": "Wikipedia, citing the Commission on Elections (COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/Template:2001_Philippine_House_election_results",
+    "revid": 1290034058
+   },
+   "candidates": [
+    {
+     "name": "Lakas–NUCD–UMDP",
+     "party": "lakas91",
+     "votes": null,
+     "pct": null,
+     "seats": 79,
+     "change": -32,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 52,
+     "change": 1
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": null,
+     "pct": null,
+     "seats": 42,
+     "change": 33
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 21,
+     "change": 21
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 19,
+     "change": 4
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 8,
+     "change": 6
+    },
+    {
+     "name": "Not indicated and undeclared",
+     "party": "unaff",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Alayon Alang sa Kalambu-an ng Kalinaw",
+     "party": "alayon",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Partido ng Masang Pilipino",
+     "party": "pmp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "United Negros Alliance",
+     "party": "unegros",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "PROMDI",
+     "party": "promdi",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Partido Magdalo",
+     "party": "magdalo",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma–Lapiang Manggagawa",
+     "party": "reporma",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "Kabayani",
+     "party": "kabayani",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kabalikat ng Malayang Pilipino",
+     "party": "kampi",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Liping Kalookan",
+     "party": "lipingkalookan",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Demokratiko Sosyalista ng Pilipinas",
+     "party": "pdsp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "People Power Coalition",
+     "party": "ppc",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": null,
+     "pct": null,
+     "seats": 7,
+     "change": null
+    }
+   ],
+   "notes": "The table gives seats only, no votes. Joint candidacies are in Others; Reporma–LM is filed under Reporma. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. The results come from the transcluded template \"{{2001 Philippine House election results}}\", cited here; the article is \"2001 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 261, the total in the article's infobox. Others includes joint candidacies of two or more parties (7 seats)."
+  },
+  {
+   "id": "ph-house-2004",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2004-05-10",
+   "totalSeats": 261,
+   "source": {
+    "name": "Wikipedia, citing Julio Teehankee, Electoral Politics in the Philippines",
+    "url": "https://en.wikipedia.org/wiki/Template:2004_Philippine_House_election_results",
+    "revid": 1294795521
+   },
+   "candidates": [
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas91",
+     "votes": null,
+     "pct": null,
+     "seats": 92,
+     "change": 13,
+     "winner": true
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": null,
+     "pct": null,
+     "seats": 53,
+     "change": 11
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 52,
+     "change": 0
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 29,
+     "change": 10
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": -6
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 1
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": -4
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Kabalikat ng Malayang Pilipino",
+     "party": "kampi",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Partido Demokratiko Sosyalista ng Pilipinas",
+     "party": "pdsp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma",
+     "party": "reporma",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -1
+    }
+   ],
+   "notes": "The table gives seats only, no votes. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. The results come from the transcluded template \"{{2004 Philippine House election results}}\", cited here; the article is \"2004 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 261, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-2007",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2007-05-14",
+   "totalSeats": 271,
+   "source": {
+    "name": "Wikipedia (the results table names no source)",
+    "url": "https://en.wikipedia.org/wiki/Template:2007_Philippine_House_election_results",
+    "revid": 1245264965
+   },
+   "candidates": [
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas91",
+     "votes": null,
+     "pct": null,
+     "seats": 89,
+     "change": -3,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 53,
+     "change": 1
+    },
+    {
+     "name": "Kabalikat ng Malayang Pilipino",
+     "party": "kampi",
+     "votes": null,
+     "pct": null,
+     "seats": 44,
+     "change": 42
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": null,
+     "pct": null,
+     "seats": 28,
+     "change": -25
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": null,
+     "pct": null,
+     "seats": 23,
+     "change": -6
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": null,
+     "pct": null,
+     "seats": 11,
+     "change": 9
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -10
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "Partido Demokratiko Sosyalista ng Pilipinas",
+     "party": "pdsp",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Lingkod Taguig",
+     "party": "lingkodtaguig",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "The table gives seats only, no votes, and names no source. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. The results come from the transcluded template \"{{2007 Philippine House election results}}\", cited here; the article is \"2007 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 271, while the article's infobox gives 270."
+  },
+  {
+   "id": "ph-house-2010",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2010-05-10",
+   "totalSeats": 286,
+   "turnout": 74.34,
+   "source": {
+    "name": "Wikipedia (the results table names no source)",
+    "url": "https://en.wikipedia.org/wiki/Template:2010_Philippine_House_election_results",
+    "revid": 1341127162
+   },
+   "candidates": [
+    {
+     "name": "Lakas Kampi CMD",
+     "party": "lakas",
+     "votes": 12769649,
+     "pct": 37.41,
+     "seats": 106,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 57,
+     "change": 4
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 6802227,
+     "pct": 19.93,
+     "seats": 47,
+     "change": 24
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 5450135,
+     "pct": 15.97,
+     "seats": 29,
+     "change": 1
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 3872637,
+     "pct": 11.35,
+     "seats": 25,
+     "change": 14
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 2371949,
+     "pct": 6.95,
+     "seats": 7,
+     "change": -3
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 853619,
+     "pct": 2.5,
+     "seats": 4,
+     "change": 0
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 246697,
+     "pct": 0.72,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 162434,
+     "pct": 0.48,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Partido Demokratiko Sosyalista ng Pilipinas",
+     "party": "pdsp",
+     "votes": 171345,
+     "pct": 0.5,
+     "seats": 1,
+     "change": -2
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 158416,
+     "pct": 0.46,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "People's Champ Movement",
+     "party": "pcm",
+     "votes": 120052,
+     "pct": 0.35,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Lapiang Manggagawa",
+     "party": "wpp",
+     "votes": 86556,
+     "pct": 0.25,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Navoteño",
+     "party": "navoteno",
+     "votes": 76276,
+     "pct": 0.22,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kabalikat ng Bayan sa Kaunlaran",
+     "party": "kabaka",
+     "votes": 70852,
+     "pct": 0.21,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Magdiwang",
+     "party": "magdiwang",
+     "votes": 47840,
+     "pct": 0.14,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 872454,
+     "pct": 2.56,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. The results table names no source. Lakas Kampi CMD uses the Lakas–CMD article. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{2010 Philippine House election results}}\", cited here; the article is \"2010 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 286, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-2013",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2013-05-13",
+   "totalSeats": 293,
+   "turnout": 77.18,
+   "source": {
+    "name": "Wikipedia (the results table names no source)",
+    "url": "https://en.wikipedia.org/wiki/Template:2013_Philippine_House_election_results",
+    "revid": 1273548570
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 10557265,
+     "pct": 37.56,
+     "seats": 109,
+     "change": 62,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 59,
+     "change": 2
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 4800907,
+     "pct": 17.08,
+     "seats": 42,
+     "change": 13
+    },
+    {
+     "name": "National Unity Party",
+     "party": "nup",
+     "votes": 2402097,
+     "pct": 8.55,
+     "seats": 24,
+     "change": null
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 2364400,
+     "pct": 8.41,
+     "seats": 18,
+     "change": -7
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": 1472464,
+     "pct": 5.24,
+     "seats": 14,
+     "change": -92
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 3140381,
+     "pct": 11.17,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 1665324,
+     "pct": 5.92,
+     "seats": 6,
+     "change": -1
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 90070,
+     "pct": 0.32,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Bukidnon Paglaum",
+     "party": "bukidnon",
+     "votes": 100405,
+     "pct": 0.36,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kambilan ning Memalen Kapampangan",
+     "party": "kambilan",
+     "votes": 96433,
+     "pct": 0.34,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kabalikat ng Bayan sa Kaunlaran",
+     "party": "kabaka",
+     "votes": 94966,
+     "pct": 0.34,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Unang Sigaw",
+     "party": "unangsigaw",
+     "votes": 94952,
+     "pct": 0.34,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kilusang Bagong Lipunan",
+     "party": "kbl",
+     "votes": 94484,
+     "pct": 0.34,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Negros Alliance",
+     "party": "unegros",
+     "votes": 91467,
+     "pct": 0.33,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kusug Agusanon",
+     "party": "kusugagusan",
+     "votes": 71436,
+     "pct": 0.25,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Centrist Democratic Party of the Philippines",
+     "party": "cdp",
+     "votes": 68281,
+     "pct": 0.24,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partidong Pagbabago ng Palawan",
+     "party": "palawan",
+     "votes": 57485,
+     "pct": 0.2,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Akbayan",
+     "party": "akbayan",
+     "votes": 34239,
+     "pct": 0.12,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Magdiwang",
+     "party": "magdiwang",
+     "votes": 23253,
+     "pct": 0.08,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 281320,
+     "pct": 1,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 506092,
+     "pct": 1.8,
+     "seats": 0,
+     "change": -5
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. The results table names no source. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{2013 Philippine House election results}}\", cited here; the article is \"2013 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 293, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-2016",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2016-05-09",
+   "totalSeats": 297,
+   "turnout": 81.66,
+   "source": {
+    "name": "Wikipedia, citing the Commission on Elections (COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/Template:2016_Philippine_House_election_results",
+    "revid": 1341127061
+   },
+   "candidates": [
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 15552401,
+     "pct": 41.72,
+     "seats": 115,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 59,
+     "change": 0
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 6350310,
+     "pct": 17.04,
+     "seats": 42,
+     "change": 0
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 3512975,
+     "pct": 9.42,
+     "seats": 24,
+     "change": 6
+    },
+    {
+     "name": "National Unity Party",
+     "party": "nup",
+     "votes": 3604266,
+     "pct": 9.67,
+     "seats": 23,
+     "change": -1
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 2468335,
+     "pct": 6.62,
+     "seats": 11,
+     "change": 3
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 2172562,
+     "pct": 5.83,
+     "seats": 4,
+     "change": -2
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": 573843,
+     "pct": 1.54,
+     "seats": 4,
+     "change": -10
+    },
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 706407,
+     "pct": 1.9,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Asenso Manileño",
+     "party": "asensomnl",
+     "votes": 184602,
+     "pct": 0.5,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 111086,
+     "pct": 0.3,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 514612,
+     "pct": 1.38,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kusog Baryohanon",
+     "party": "kusogbaryo",
+     "votes": 172601,
+     "pct": 0.46,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Tinig ng Masa",
+     "party": "tinig",
+     "votes": 145417,
+     "pct": 0.39,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Champ Movement",
+     "party": "pcm",
+     "votes": 142307,
+     "pct": 0.38,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Bukidnon Paglaum",
+     "party": "bukidnon",
+     "votes": 129678,
+     "pct": 0.35,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Lingap Lugud",
+     "party": "lingap",
+     "votes": 127762,
+     "pct": 0.34,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Arangkada San Joseño",
+     "party": "arangkada",
+     "votes": 83945,
+     "pct": 0.23,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kabalikat ng Bayan sa Kaunlaran",
+     "party": "kabaka",
+     "votes": 72130,
+     "pct": 0.19,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 650193,
+     "pct": 1.74,
+     "seats": 0,
+     "change": -2
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{2016 Philippine House election results}}\", cited here; the article is \"2016 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 297, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-2019",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2019-05-13",
+   "totalSeats": 304,
+   "turnout": 75.9,
+   "source": {
+    "name": "Wikipedia, citing the Commission on Elections (COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/Template:2019_Philippine_House_election_results",
+    "revid": 1341126989
+   },
+   "candidates": [
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 12653960,
+     "pct": 31.22,
+     "seats": 82,
+     "change": 79,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 61,
+     "change": 2
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 6524100,
+     "pct": 16.1,
+     "seats": 42,
+     "change": 18
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 5797543,
+     "pct": 14.31,
+     "seats": 37,
+     "change": -5
+    },
+    {
+     "name": "National Unity Party",
+     "party": "nup",
+     "votes": 3852909,
+     "pct": 9.51,
+     "seats": 25,
+     "change": 2
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 2321759,
+     "pct": 5.73,
+     "seats": 18,
+     "change": -97
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": 2069871,
+     "pct": 5.11,
+     "seats": 12,
+     "change": 8
+    },
+    {
+     "name": "Partido Federal ng Pilipinas",
+     "party": "pfp",
+     "votes": 965048,
+     "pct": 2.38,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Hugpong ng Pagbabago",
+     "party": "hnp",
+     "votes": 652318,
+     "pct": 1.61,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 2014211,
+     "pct": 4.97,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "Bukidnon Paglaum",
+     "party": "bukidnon",
+     "votes": 335628,
+     "pct": 0.83,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 252806,
+     "pct": 0.62,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Partidong Pagbabago ng Palawan",
+     "party": "palawan",
+     "votes": 185810,
+     "pct": 0.46,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Asenso Manileño",
+     "party": "asensomnl",
+     "votes": 84656,
+     "pct": 0.21,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 398616,
+     "pct": 0.98,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Pwersa ng Masang Pilipino",
+     "party": "pmp",
+     "votes": 396614,
+     "pct": 0.98,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Hugpong sa Tawong Lungsod",
+     "party": "hugpong",
+     "votes": 197024,
+     "pct": 0.49,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Bileg Ti Ilokano",
+     "party": "bileg",
+     "votes": 158523,
+     "pct": 0.39,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 138014,
+     "pct": 0.34,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Asenso Abrenio",
+     "party": "asensoabra",
+     "votes": 115865,
+     "pct": 0.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Centrist Democratic Party of the Philippines",
+     "party": "cdp",
+     "votes": 81741,
+     "pct": 0.2,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Navoteño",
+     "party": "navoteno",
+     "votes": 80265,
+     "pct": 0.2,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kabalikat ng Bayan sa Kaunlaran",
+     "party": "kabaka",
+     "votes": 65836,
+     "pct": 0.16,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 232657,
+     "pct": 0.57,
+     "seats": 0,
+     "change": -11
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 949408,
+     "pct": 2.34,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{2019 Philippine House election results}}\", cited here; the article is \"2019 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 304, the total in the article's infobox."
+  },
+  {
+   "id": "ph-house-2022",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2022-05-09",
+   "totalSeats": 316,
+   "turnout": 84.1,
+   "source": {
+    "name": "Wikipedia, citing the Commission on Elections (COMELEC)",
+    "url": "https://en.wikipedia.org/wiki/Template:2022_Philippine_House_election_results",
+    "revid": 1273582206
+   },
+   "candidates": [
+    {
+     "name": "PDP–Laban",
+     "party": "pdplaban",
+     "votes": 10950696,
+     "pct": 22.77,
+     "seats": 66,
+     "change": -16,
+     "winner": true
+    },
+    {
+     "name": "Party-list seats",
+     "party": "partylist",
+     "votes": null,
+     "pct": null,
+     "seats": 63,
+     "change": 2
+    },
+    {
+     "name": "Nacionalista Party",
+     "party": "np",
+     "votes": 6610876,
+     "pct": 13.75,
+     "seats": 36,
+     "change": -6
+    },
+    {
+     "name": "Nationalist People's Coalition",
+     "party": "npc",
+     "votes": 5637211,
+     "pct": 11.72,
+     "seats": 35,
+     "change": -2
+    },
+    {
+     "name": "National Unity Party",
+     "party": "nup",
+     "votes": 6087288,
+     "pct": 12.66,
+     "seats": 33,
+     "change": 8
+    },
+    {
+     "name": "Lakas–CMD",
+     "party": "lakas",
+     "votes": 4432113,
+     "pct": 9.22,
+     "seats": 26,
+     "change": 14
+    },
+    {
+     "name": "Liberal Party",
+     "party": "lp",
+     "votes": 1823426,
+     "pct": 3.79,
+     "seats": 10,
+     "change": -8
+    },
+    {
+     "name": "Independent",
+     "party": "ind",
+     "votes": 2137093,
+     "pct": 4.44,
+     "seats": 6,
+     "change": 4
+    },
+    {
+     "name": "Hugpong ng Pagbabago",
+     "party": "hnp",
+     "votes": 1223815,
+     "pct": 2.54,
+     "seats": 6,
+     "change": 3
+    },
+    {
+     "name": "People's Reform Party",
+     "party": "prp",
+     "votes": 942719,
+     "pct": 1.96,
+     "seats": 3,
+     "change": 2
+    },
+    {
+     "name": "Partido para sa Demokratikong Reporma",
+     "party": "reporma",
+     "votes": 478031,
+     "pct": 0.99,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Partido Federal ng Pilipinas",
+     "party": "pfp",
+     "votes": 458038,
+     "pct": 0.95,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Pederalismo ng Dugong Dakilang Samahan",
+     "party": "pdds",
+     "votes": 426451,
+     "pct": 0.89,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Bukidnon Paglaum",
+     "party": "bukidnon",
+     "votes": 336266,
+     "pct": 0.7,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Padayon Pilipino",
+     "party": "padayon",
+     "votes": 245206,
+     "pct": 0.51,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Laban ng Demokratikong Pilipino",
+     "party": "ldp",
+     "votes": 373988,
+     "pct": 0.78,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "People's Champ Movement",
+     "party": "pcm",
+     "votes": 204076,
+     "pct": 0.42,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Sulong Zambales Party",
+     "party": "sulong",
+     "votes": 144060,
+     "pct": 0.3,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Mindoro bago Sarili",
+     "party": "mindoro",
+     "votes": 142095,
+     "pct": 0.3,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Basilan Unity Party",
+     "party": "basilan",
+     "votes": 137976,
+     "pct": 0.29,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Centrist Democratic Party of the Philippines",
+     "party": "cdp",
+     "votes": 128134,
+     "pct": 0.27,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "United Benguet Party",
+     "party": "ubp",
+     "votes": 123801,
+     "pct": 0.26,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Partido Navoteño",
+     "party": "navoteno",
+     "votes": 79505,
+     "pct": 0.17,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Adelante Zamboanga Party",
+     "party": "adelante",
+     "votes": 73785,
+     "pct": 0.15,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "United Nationalist Alliance",
+     "party": "una",
+     "votes": 68572,
+     "pct": 0.14,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Aksyon Demokratiko",
+     "party": "aksyon",
+     "votes": 868668,
+     "pct": 1.81,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Partido Pilipino sa Pagbabago",
+     "party": "ppp",
+     "votes": 503827,
+     "pct": 1.05,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3451832,
+     "pct": 7.18,
+     "seats": 12,
+     "change": null
+    }
+   ],
+   "notes": "Votes are district votes and shares are of the table's valid votes. Joint candidacies of a national and a local party are in Others. Party-list seats are one row, as the House results table gives only their total; the groups' own results are in the separate party-list table. Turnout is the table's valid and invalid votes over registered voters. The results come from the transcluded template \"{{2022 Philippine House election results}}\", cited here; the article is \"2022 Philippine House of Representatives elections\". The template states no seat total; its rows add up to 316, the total in the article's infobox. Others includes joint candidacies of two or more parties (12 seats)."
+  }
+ ]
+}

@@ -1,0 +1,623 @@
+{
+  "code": "RU",
+  "name": "Russia",
+  "subtitle": "Federal elections",
+  "about": {
+    "system": "Federal semi-presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Federal Assembly: State Duma (450) and Federation Council",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 112789817,
+    "offices": {
+      "President": "Elected by popular vote for a six-year term, with a run-off between the top two if no candidate wins a majority. The president is head of state, commands the armed forces and appoints the prime minister with the Duma's consent.",
+      "State Duma": "All 450 deputies are elected for five years by parallel voting: 225 from national party lists with a 5% threshold and 225 in single-member constituencies. The Duma passes federal laws and confirms the prime minister."
+    }
+  },
+  "parties": {
+    "against": {
+      "name": "Against all",
+      "color": "#4A4A4F"
+    },
+    "apr": {
+      "name": "Agrarian Party of Russia",
+      "color": "#EED23C"
+    },
+    "bloc89": {
+      "name": "Bloc '89",
+      "color": "#9ACD32"
+    },
+    "blocind": {
+      "name": "Bloc of Independents",
+      "color": "#F5821F"
+    },
+    "brni": {
+      "name": "Future of Russia–New Names",
+      "color": "#8FBC8F"
+    },
+    "ci": {
+      "name": "Civic Initiative",
+      "color": "#C71585"
+    },
+    "civpower": {
+      "name": "Civilian Power",
+      "color": "#66CDAA"
+    },
+    "comcause": {
+      "name": "Common Cause",
+      "color": "#F7C451"
+    },
+    "cp": {
+      "name": "Civic Platform",
+      "color": "#420F77"
+    },
+    "cu": {
+      "name": "Civic Union",
+      "color": "#F73239"
+    },
+    "dandc": {
+      "name": "Dignity and Charity",
+      "color": "#0BC3AD"
+    },
+    "derzhava": {
+      "name": "Derzhava",
+      "color": "#800080"
+    },
+    "dpa": {
+      "name": "Movement in Support of the Army",
+      "color": "#7C273A"
+    },
+    "dpe": {
+      "name": "Development of Enterprise",
+      "color": "#20B2AA"
+    },
+    "dpr": {
+      "name": "Democratic Party of Russia",
+      "color": "#8B6914"
+    },
+    "dvr": {
+      "name": "Democratic Choice of Russia",
+      "color": "#29166F"
+    },
+    "dvrod": {
+      "name": "Democratic Choice of Russia – United Democrats",
+      "color": "#3A46CE"
+    },
+    "fcd": {
+      "name": "For Civic Dignity",
+      "color": "#FFA500"
+    },
+    "govorukhin": {
+      "name": "Stanislav Govorukhin Bloc",
+      "color": "#556B2F"
+    },
+    "greens": {
+      "name": "Russian Ecological Party \"The Greens\"",
+      "color": "#438E58"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "indbakatin": {
+      "name": "Independent",
+      "color": "#5E8C61"
+    },
+    "indglazyev": {
+      "name": "Independent",
+      "color": "#B03A2E"
+    },
+    "indkhakamada": {
+      "name": "Independent",
+      "color": "#E07AB0"
+    },
+    "indmakashov": {
+      "name": "Independent",
+      "color": "#7A1F1F"
+    },
+    "indprokhorov": {
+      "name": "Independent",
+      "color": "#2E8B57"
+    },
+    "indputin": {
+      "name": "Independent",
+      "color": "#24408E"
+    },
+    "indtitov": {
+      "name": "Independent",
+      "color": "#6A5ACD"
+    },
+    "indtuleyev": {
+      "name": "Independent",
+      "color": "#8E5B3E"
+    },
+    "indyeltsin": {
+      "name": "Independent",
+      "color": "#0948B1"
+    },
+    "kpe": {
+      "name": "Conceptual Party \"Unity\"",
+      "color": "#11007D"
+    },
+    "kprf": {
+      "name": "Communist Party of the Russian Federation",
+      "color": "#CC1111"
+    },
+    "kprsfsr": {
+      "name": "Communist Party of the RSFSR",
+      "color": "#CD0000"
+    },
+    "kr": {
+      "name": "Communists of Russia",
+      "color": "#6B0F1A"
+    },
+    "kro": {
+      "name": "Congress of Russian Communities",
+      "color": "#FCCA19"
+    },
+    "ldpr": {
+      "name": "Liberal Democratic Party of Russia",
+      "color": "#4488CC"
+    },
+    "ldpsu": {
+      "name": "Liberal Democratic Party of the Soviet Union",
+      "color": "#7295DB"
+    },
+    "myfath": {
+      "name": "My Fatherland",
+      "color": "#9932CC"
+    },
+    "ncar": {
+      "name": "New Course — Automobile Russia",
+      "color": "#708090"
+    },
+    "ndr": {
+      "name": "Our Home – Russia",
+      "color": "#28166F"
+    },
+    "nikfyod": {
+      "name": "Andrei Nikolayev and Svyatoslav Fyodorov Bloc",
+      "color": "#FF4400"
+    },
+    "np": {
+      "name": "New People",
+      "color": "#0AD1C9"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "ovr": {
+      "name": "Fatherland – All Russia",
+      "color": "#008B8B"
+    },
+    "parnas": {
+      "name": "People's Freedom Party",
+      "color": "#8A1739"
+    },
+    "pef": {
+      "name": "Party of Economic Freedom",
+      "color": "#295EC4"
+    },
+    "pg": {
+      "name": "Party of Growth",
+      "color": "#55AAFF"
+    },
+    "pprf": {
+      "name": "People's Party of the Russian Federation",
+      "color": "#FFCC00"
+    },
+    "pres": {
+      "name": "Party of Russian Unity and Accord",
+      "color": "#019CDC"
+    },
+    "prr": {
+      "name": "Party of Russia's Rebirth",
+      "color": "#00A1FF"
+    },
+    "pttp": {
+      "name": "Power to the People",
+      "color": "#FF9C00"
+    },
+    "pws": {
+      "name": "Party of Workers' Self-Government",
+      "color": "#FF4400"
+    },
+    "rddr": {
+      "name": "Russian Democratic Reform Movement",
+      "color": "#E9E26E"
+    },
+    "rkrp": {
+      "name": "Russian Communist Workers Party",
+      "color": "#8B1A1A"
+    },
+    "rodina": {
+      "name": "Rodina",
+      "color": "#F08080"
+    },
+    "rodinabloc": {
+      "name": "Rodina (bloc)",
+      "color": "#A0522D"
+    },
+    "rov": {
+      "name": "Russian All-People's Union",
+      "color": "#FF9C00"
+    },
+    "rpp": {
+      "name": "Russian Party of Pensioners for Social Justice",
+      "color": "#C52030"
+    },
+    "rsp": {
+      "name": "Russian Socialist Party",
+      "color": "#B8860B"
+    },
+    "rybkin": {
+      "name": "Ivan Rybkin Bloc",
+      "color": "#E377C2"
+    },
+    "spirit": {
+      "name": "Spiritual Heritage",
+      "color": "#BC8F8F"
+    },
+    "sps": {
+      "name": "Union of Right Forces",
+      "color": "#E67E22"
+    },
+    "sr": {
+      "name": "A Just Russia",
+      "color": "#FFC003"
+    },
+    "transf": {
+      "name": "Transformation of the Fatherland",
+      "color": "#808000"
+    },
+    "tuiul": {
+      "name": "Trade Unions and Industrialists – Union of Labour",
+      "color": "#B5651D"
+    },
+    "unity": {
+      "name": "Unity",
+      "color": "#0D3B66"
+    },
+    "ur": {
+      "name": "United Russia",
+      "color": "#2E4EA4"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#8E8E93"
+    },
+    "vperyod": {
+      "name": "Forward, Russia!",
+      "color": "#1C1A0D"
+    },
+    "vres": {
+      "name": "Great Russia – Eurasian Union",
+      "color": "#7C73CC"
+    },
+    "wor": {
+      "name": "Women of Russia",
+      "color": "#5AB5CE"
+    },
+    "yabloko": {
+      "name": "Yabloko",
+      "color": "#00A23D"
+    }
+  },
+  "elections": [
+    {
+      "id": "ru-president-2024",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2024-03-17",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 77.49,
+      "system": "Two-round popular vote, six-year term",
+      "cite": {
+        "name": "the Central Election Commission of Russia",
+        "url": "https://en.wikipedia.org/wiki/2024_Russian_presidential_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2024_Russian_presidential_election",
+      "note": "Not free or fair, according to international observers",
+      "candidates": [
+        {
+          "name": "Vladimir Putin",
+          "party": "indputin",
+          "votes": 76277708,
+          "pct": 88.48,
+          "winner": true
+        },
+        {
+          "name": "Nikolay Kharitonov",
+          "party": "kprf",
+          "votes": 3768470,
+          "pct": 4.37
+        },
+        {
+          "name": "Vladislav Davankov",
+          "party": "np",
+          "votes": 3362484,
+          "pct": 3.9
+        },
+        {
+          "name": "Leonid Slutsky",
+          "party": "ldpr",
+          "votes": 2795629,
+          "pct": 3.24
+        }
+      ],
+      "regions": [
+        {"name":"Altai Krai","abbr":"ALT","winner":"indputin","margin":78.7,"turnout":73.2,"votes":1206478,"results":[{"party":"indputin","pct":85.6,"votes":1032745},{"party":"np","pct":6.9,"votes":83247},{"party":"ldpr","pct":4.3,"votes":51879},{"party":"kprf","pct":3.3,"votes":39814}]},
+        {"name":"Altai Republic","abbr":"AL","winner":"indputin","margin":79.3,"turnout":80.7,"votes":939312,"results":[{"party":"indputin","pct":86,"votes":807808},{"party":"np","pct":6.7,"votes":62934},{"party":"ldpr","pct":4.4,"votes":41330},{"party":"kprf","pct":2.9,"votes":27240}]},
+        {"name":"Amur","abbr":"AMU","winner":"indputin","margin":82.4,"turnout":70.9,"votes":1088849,"results":[{"party":"indputin","pct":88.1,"votes":959276},{"party":"np","pct":5.7,"votes":62064},{"party":"kprf","pct":3.5,"votes":38110},{"party":"ldpr","pct":2.8,"votes":30488}]},
+        {"name":"Arkhangelsk","abbr":"ARK","winner":"indputin","margin":81.7,"turnout":81.5,"votes":1179807,"results":[{"party":"indputin","pct":86.9,"votes":1025252},{"party":"kprf","pct":5.2,"votes":61350},{"party":"np","pct":4.5,"votes":53091},{"party":"ldpr","pct":3.4,"votes":40113}]},
+        {"name":"Astrakhan","abbr":"AST","winner":"indputin","margin":87.2,"turnout":73.4,"votes":1106925,"results":[{"party":"indputin","pct":91.6,"votes":1013943},{"party":"np","pct":4.4,"votes":48705},{"party":"kprf","pct":2.3,"votes":25459},{"party":"ldpr","pct":1.7,"votes":18818}]},
+        {"name":"Bashkortostan","abbr":"BA","winner":"indputin","margin":92,"turnout":76.4,"votes":1052569,"results":[{"party":"indputin","pct":94.2,"votes":991520},{"party":"kprf","pct":2.2,"votes":23157},{"party":"np","pct":2,"votes":21051},{"party":"ldpr","pct":1.5,"votes":15789}]},
+        {"name":"Belgorod","abbr":"BEL","winner":"indputin","margin":86.6,"turnout":76.3,"votes":935394,"results":[{"party":"indputin","pct":90.8,"votes":849338},{"party":"ldpr","pct":4.2,"votes":39287},{"party":"np","pct":3.1,"votes":28997},{"party":"kprf","pct":1.9,"votes":17772}]},
+        {"name":"Bryansk","abbr":"BRY","winner":"indputin","margin":73.1,"turnout":83.8,"votes":853248,"results":[{"party":"indputin","pct":81,"votes":691131},{"party":"np","pct":7.9,"votes":67407},{"party":"kprf","pct":6.3,"votes":53755},{"party":"ldpr","pct":4.7,"votes":40103}]},
+        {"name":"Chechnya","abbr":"CE","winner":"indputin","margin":87.1,"turnout":71,"votes":1009798,"results":[{"party":"indputin","pct":91,"votes":918916},{"party":"ldpr","pct":3.9,"votes":39382},{"party":"kprf","pct":3.1,"votes":31304},{"party":"np","pct":2.1,"votes":21206}]},
+        {"name":"Chelyabinsk","abbr":"CHE","winner":"indputin","margin":75,"turnout":82.1,"votes":1084566,"results":[{"party":"indputin","pct":82.5,"votes":894767},{"party":"np","pct":7.5,"votes":81342},{"party":"kprf","pct":6.5,"votes":70497},{"party":"ldpr","pct":3.6,"votes":39044}]},
+        {"name":"Chukotka Autonomous Okrug","abbr":"CHU","winner":"indputin","margin":81.5,"turnout":81.1,"votes":1077824,"results":[{"party":"indputin","pct":86.2,"votes":929084},{"party":"kprf","pct":4.7,"votes":50658},{"party":"np","pct":4.6,"votes":49580},{"party":"ldpr","pct":4.5,"votes":48502}]},
+        {"name":"Chuvash Republic","abbr":"CU","winner":"indputin","margin":86.2,"turnout":81.6,"votes":926503,"results":[{"party":"indputin","pct":90.1,"votes":834779},{"party":"kprf","pct":3.9,"votes":36134},{"party":"np","pct":3.1,"votes":28722},{"party":"ldpr","pct":3,"votes":27795}]},
+        {"name":"Irkutsk","abbr":"IRK","winner":"indputin","margin":81.1,"turnout":82.2,"votes":1231143,"results":[{"party":"indputin","pct":86.9,"votes":1069863},{"party":"kprf","pct":5.8,"votes":71406},{"party":"np","pct":3.8,"votes":46783},{"party":"ldpr","pct":3.5,"votes":43090}]},
+        {"name":"Ivanovo","abbr":"IVA","winner":"indputin","margin":80.5,"turnout":79.6,"votes":995375,"results":[{"party":"indputin","pct":85.8,"votes":854032},{"party":"kprf","pct":5.3,"votes":52755},{"party":"np","pct":4.6,"votes":45787},{"party":"ldpr","pct":4.3,"votes":42801}]},
+        {"name":"Jewish Autonomous Oblast","abbr":"YEV","winner":"indputin","margin":81.9,"turnout":77.4,"votes":1168678,"results":[{"party":"indputin","pct":88.5,"votes":1034280},{"party":"kprf","pct":6.6,"votes":77133},{"party":"np","pct":2.7,"votes":31554},{"party":"ldpr","pct":2.2,"votes":25711}]},
+        {"name":"Kabardino-Balkaria","abbr":"KB","winner":"indputin","margin":81,"turnout":76.7,"votes":970447,"results":[{"party":"indputin","pct":87,"votes":844289},{"party":"kprf","pct":6,"votes":58227},{"party":"ldpr","pct":4.1,"votes":39788},{"party":"np","pct":3,"votes":29113}]},
+        {"name":"Kaliningrad","abbr":"KGD","winner":"indputin","margin":77,"turnout":70.8,"votes":860189,"results":[{"party":"indputin","pct":84.2,"votes":724279},{"party":"kprf","pct":7.2,"votes":61934},{"party":"ldpr","pct":4.8,"votes":41289},{"party":"np","pct":3.8,"votes":32687}]},
+        {"name":"Kaluga","abbr":"KLU","winner":"indputin","margin":83.8,"turnout":83.5,"votes":1010881,"results":[{"party":"indputin","pct":88.6,"votes":895641},{"party":"np","pct":4.8,"votes":48522},{"party":"ldpr","pct":4.2,"votes":42457},{"party":"kprf","pct":2.3,"votes":23250}]},
+        {"name":"Kamchatka Krai","abbr":"KAM","winner":"indputin","margin":83.3,"turnout":74.8,"votes":1029825,"results":[{"party":"indputin","pct":87.7,"votes":903157},{"party":"np","pct":4.4,"votes":45312},{"party":"kprf","pct":4.2,"votes":43253},{"party":"ldpr","pct":3.7,"votes":38104}]},
+        {"name":"Karachay-Cherkess Republic","abbr":"KC","winner":"indputin","margin":87.6,"turnout":83.9,"votes":1052920,"results":[{"party":"indputin","pct":91.3,"votes":961316},{"party":"kprf","pct":3.7,"votes":38958},{"party":"np","pct":3.4,"votes":35799},{"party":"ldpr","pct":1.7,"votes":17900}]},
+        {"name":"Karelia","abbr":"KR","winner":"indputin","margin":76.9,"turnout":82.8,"votes":1069081,"results":[{"party":"indputin","pct":83.1,"votes":888406},{"party":"np","pct":6.2,"votes":66283},{"party":"kprf","pct":5.7,"votes":60938},{"party":"ldpr","pct":5,"votes":53454}]},
+        {"name":"Kemerovo","abbr":"KEM","winner":"indputin","margin":76.8,"turnout":76.3,"votes":1213498,"results":[{"party":"indputin","pct":83,"votes":1007203},{"party":"kprf","pct":6.2,"votes":75237},{"party":"np","pct":5.4,"votes":65529},{"party":"ldpr","pct":5.3,"votes":64315}]},
+        {"name":"Khabarovsk Krai","abbr":"KHA","winner":"indputin","margin":91.6,"turnout":80.3,"votes":1033053,"results":[{"party":"indputin","pct":94.2,"votes":973136},{"party":"kprf","pct":2.6,"votes":26859},{"party":"np","pct":1.8,"votes":18595},{"party":"ldpr","pct":1.3,"votes":13430}]},
+        {"name":"Khanty-Mansi Autonomous Okrug","abbr":"KHM","winner":"indputin","margin":85.1,"turnout":75.6,"votes":1058081,"results":[{"party":"indputin","pct":89,"votes":941692},{"party":"kprf","pct":3.9,"votes":41265},{"party":"np","pct":3.8,"votes":40207},{"party":"ldpr","pct":3.3,"votes":34917}]},
+        {"name":"Kirov","abbr":"KIR","winner":"indputin","margin":84.6,"turnout":73.5,"votes":981232,"results":[{"party":"indputin","pct":88.6,"votes":869372},{"party":"ldpr","pct":4,"votes":39249},{"party":"kprf","pct":3.7,"votes":36306},{"party":"np","pct":3.7,"votes":36306}]},
+        {"name":"Komi Republic","abbr":"KO","winner":"indputin","margin":83.9,"turnout":70.8,"votes":1234416,"results":[{"party":"indputin","pct":88,"votes":1086286},{"party":"np","pct":4.1,"votes":50611},{"party":"ldpr","pct":4,"votes":49377},{"party":"kprf","pct":3.9,"votes":48142}]},
+        {"name":"Kostroma","abbr":"KOS","winner":"indputin","margin":85.6,"turnout":82.8,"votes":831964,"results":[{"party":"indputin","pct":90.2,"votes":750432},{"party":"kprf","pct":4.6,"votes":38270},{"party":"ldpr","pct":2.8,"votes":23295},{"party":"np","pct":2.4,"votes":19967}]},
+        {"name":"Krasnodar Krai","abbr":"KDA","winner":"indputin","margin":80.4,"turnout":80.9,"votes":952897,"results":[{"party":"indputin","pct":86.6,"votes":825209},{"party":"np","pct":6.2,"votes":59080},{"party":"kprf","pct":4.1,"votes":39069},{"party":"ldpr","pct":3.2,"votes":30493}]},
+        {"name":"Krasnoyarsk Krai","abbr":"KYA","winner":"indputin","margin":86.6,"turnout":79.7,"votes":1188470,"results":[{"party":"indputin","pct":90.7,"votes":1077942},{"party":"np","pct":4.1,"votes":48727},{"party":"ldpr","pct":2.6,"votes":30900},{"party":"kprf","pct":2.5,"votes":29712}]},
+        {"name":"Kurgan","abbr":"KGN","winner":"indputin","margin":83,"turnout":82.5,"votes":980049,"results":[{"party":"indputin","pct":87.8,"votes":860483},{"party":"kprf","pct":4.8,"votes":47042},{"party":"np","pct":4.5,"votes":44102},{"party":"ldpr","pct":2.9,"votes":28421}]},
+        {"name":"Kursk","abbr":"KRS","winner":"indputin","margin":67.6,"turnout":74.4,"votes":878382,"results":[{"party":"indputin","pct":76.5,"votes":671962},{"party":"kprf","pct":8.9,"votes":78176},{"party":"np","pct":7.8,"votes":68514},{"party":"ldpr","pct":6.8,"votes":59730}]},
+        {"name":"Leningrad","abbr":"LEN","winner":"indputin","margin":83.8,"turnout":83.1,"votes":1230960,"results":[{"party":"indputin","pct":87.9,"votes":1082014},{"party":"kprf","pct":4.1,"votes":50469},{"party":"np","pct":4.1,"votes":50469},{"party":"ldpr","pct":3.8,"votes":46776}]},
+        {"name":"Lipetsk","abbr":"LIP","winner":"indputin","margin":80.7,"turnout":73,"votes":1143766,"results":[{"party":"indputin","pct":86.3,"votes":987070},{"party":"kprf","pct":5.6,"votes":64051},{"party":"np","pct":4.5,"votes":51469},{"party":"ldpr","pct":3.6,"votes":41176}]},
+        {"name":"Magadan","abbr":"MAG","winner":"indputin","margin":89.9,"turnout":80.7,"votes":1095375,"results":[{"party":"indputin","pct":93.2,"votes":1020890},{"party":"kprf","pct":3.3,"votes":36147},{"party":"np","pct":1.8,"votes":19717},{"party":"ldpr","pct":1.6,"votes":17526}]},
+        {"name":"Mari El Republic","abbr":"ME","winner":"indputin","margin":89.1,"turnout":81.3,"votes":972005,"results":[{"party":"indputin","pct":92,"votes":894245},{"party":"kprf","pct":2.9,"votes":28188},{"party":"ldpr","pct":2.6,"votes":25272},{"party":"np","pct":2.5,"votes":24300}]},
+        {"name":"Moscow","abbr":"MOW","winner":"indputin","margin":89,"turnout":76.9,"votes":1187266,"results":[{"party":"indputin","pct":92,"votes":1092285},{"party":"ldpr","pct":3,"votes":35618},{"party":"kprf","pct":2.5,"votes":29682},{"party":"np","pct":2.4,"votes":28494}]},
+        {"name":"Moscow Oblast","abbr":"MOS","winner":"indputin","margin":86.6,"turnout":78.4,"votes":886419,"results":[{"party":"indputin","pct":90.2,"votes":799550},{"party":"ldpr","pct":3.6,"votes":31911},{"party":"np","pct":3.4,"votes":30138},{"party":"kprf","pct":2.8,"votes":24820}]},
+        {"name":"Murmansk","abbr":"MUR","winner":"indputin","margin":74.6,"turnout":80.8,"votes":1075625,"results":[{"party":"indputin","pct":82.9,"votes":891693},{"party":"kprf","pct":8.3,"votes":89277},{"party":"np","pct":4.9,"votes":52706},{"party":"ldpr","pct":3.9,"votes":41949}]},
+        {"name":"Nenets Autonomous Okrug","abbr":"NEN","winner":"indputin","margin":85,"turnout":75.3,"votes":961685,"results":[{"party":"indputin","pct":89.6,"votes":861670},{"party":"kprf","pct":4.6,"votes":44238},{"party":"np","pct":4,"votes":38467},{"party":"ldpr","pct":1.8,"votes":17310}]},
+        {"name":"Nizhny Novgorod","abbr":"NIZ","winner":"indputin","margin":89.5,"turnout":71.5,"votes":951715,"results":[{"party":"indputin","pct":92.9,"votes":884143},{"party":"np","pct":3.4,"votes":32358},{"party":"ldpr","pct":2,"votes":19034},{"party":"kprf","pct":1.7,"votes":16179}]},
+        {"name":"North Ossetia–Alania","abbr":"SE","winner":"indputin","margin":84.1,"turnout":79.3,"votes":1228451,"results":[{"party":"indputin","pct":89.7,"votes":1101921},{"party":"kprf","pct":5.6,"votes":68793},{"party":"np","pct":2.4,"votes":29483},{"party":"ldpr","pct":2.3,"votes":28254}]},
+        {"name":"Novgorod","abbr":"NGR","winner":"indputin","margin":86.3,"turnout":79,"votes":1179783,"results":[{"party":"indputin","pct":90.5,"votes":1067704},{"party":"kprf","pct":4.2,"votes":49551},{"party":"ldpr","pct":3.6,"votes":42472},{"party":"np","pct":1.7,"votes":20056}]},
+        {"name":"Novosibirsk","abbr":"NVS","winner":"indputin","margin":84.8,"turnout":79.8,"votes":1237287,"results":[{"party":"indputin","pct":89.5,"votes":1107372},{"party":"kprf","pct":4.7,"votes":58152},{"party":"np","pct":3.4,"votes":42068},{"party":"ldpr","pct":2.4,"votes":29695}]},
+        {"name":"Omsk","abbr":"OMS","winner":"indputin","margin":73.7,"turnout":74.7,"votes":1019687,"results":[{"party":"indputin","pct":81.8,"votes":834104},{"party":"kprf","pct":8.1,"votes":82595},{"party":"np","pct":6.7,"votes":68319},{"party":"ldpr","pct":3.4,"votes":34669}]},
+        {"name":"Orenburg","abbr":"ORE","winner":"indputin","margin":85.1,"turnout":81.1,"votes":1016145,"results":[{"party":"indputin","pct":89.6,"votes":910466},{"party":"kprf","pct":4.5,"votes":45727},{"party":"np","pct":3.7,"votes":37597},{"party":"ldpr","pct":2.2,"votes":22355}]},
+        {"name":"Oryol","abbr":"ORL","winner":"indputin","margin":84.5,"turnout":82.9,"votes":1193302,"results":[{"party":"indputin","pct":88.9,"votes":1060845},{"party":"kprf","pct":4.4,"votes":52505},{"party":"np","pct":4,"votes":47732},{"party":"ldpr","pct":2.7,"votes":32219}]},
+        {"name":"Penza","abbr":"PNZ","winner":"indputin","margin":80.9,"turnout":73.9,"votes":1180285,"results":[{"party":"indputin","pct":86.7,"votes":1023307},{"party":"np","pct":5.8,"votes":68457},{"party":"ldpr","pct":4.2,"votes":49572},{"party":"kprf","pct":3.3,"votes":38949}]},
+        {"name":"Perm Krai","abbr":"PER","winner":"indputin","margin":79.1,"turnout":80.2,"votes":1154378,"results":[{"party":"indputin","pct":85.3,"votes":984684},{"party":"np","pct":6.2,"votes":71571},{"party":"ldpr","pct":5.2,"votes":60028},{"party":"kprf","pct":3.3,"votes":38094}]},
+        {"name":"Primorsky Krai","abbr":"PRI","winner":"indputin","margin":77.6,"turnout":71.7,"votes":956388,"results":[{"party":"indputin","pct":84.5,"votes":808148},{"party":"np","pct":6.9,"votes":65991},{"party":"kprf","pct":4.8,"votes":45907},{"party":"ldpr","pct":3.9,"votes":37299}]},
+        {"name":"Pskov","abbr":"PSK","winner":"indputin","margin":89.3,"turnout":79.4,"votes":1146950,"results":[{"party":"indputin","pct":92.6,"votes":1062076},{"party":"kprf","pct":3.3,"votes":37849},{"party":"ldpr","pct":2.5,"votes":28674},{"party":"np","pct":1.6,"votes":18351}]},
+        {"name":"Republic of Adygea","abbr":"AD","winner":"indputin","margin":70.5,"turnout":75,"votes":1217562,"results":[{"party":"indputin","pct":80,"votes":974050},{"party":"kprf","pct":9.5,"votes":115668},{"party":"np","pct":5.4,"votes":65748},{"party":"ldpr","pct":5.1,"votes":62096}]},
+        {"name":"Republic of Buryatia","abbr":"BU","winner":"indputin","margin":90.2,"turnout":81,"votes":856037,"results":[{"party":"indputin","pct":93,"votes":796114},{"party":"kprf","pct":2.8,"votes":23969},{"party":"np","pct":2.4,"votes":20545},{"party":"ldpr","pct":1.8,"votes":15409}]},
+        {"name":"Republic of Dagestan","abbr":"DA","winner":"indputin","margin":87.1,"turnout":77,"votes":917957,"results":[{"party":"indputin","pct":91.3,"votes":838095},{"party":"kprf","pct":4.2,"votes":38554},{"party":"np","pct":3,"votes":27539},{"party":"ldpr","pct":1.5,"votes":13769}]},
+        {"name":"Republic of Ingushetia","abbr":"IN","winner":"indputin","margin":82.8,"turnout":80.3,"votes":1097940,"results":[{"party":"indputin","pct":88.2,"votes":968383},{"party":"np","pct":5.4,"votes":59289},{"party":"ldpr","pct":3.8,"votes":41722},{"party":"kprf","pct":2.5,"votes":27449}]},
+        {"name":"Republic of Kalmykia","abbr":"KL","winner":"indputin","margin":83.1,"turnout":80.3,"votes":1145411,"results":[{"party":"indputin","pct":88.2,"votes":1010253},{"party":"kprf","pct":5.1,"votes":58416},{"party":"np","pct":3.5,"votes":40089},{"party":"ldpr","pct":3.2,"votes":36653}]},
+        {"name":"Republic of Khakassia","abbr":"KK","winner":"indputin","margin":84.2,"turnout":76.4,"votes":920797,"results":[{"party":"indputin","pct":88.7,"votes":816747},{"party":"np","pct":4.5,"votes":41436},{"party":"ldpr","pct":3.8,"votes":34990},{"party":"kprf","pct":3.1,"votes":28545}]},
+        {"name":"Republic of Mordovia","abbr":"MO","winner":"indputin","margin":69.7,"turnout":80.2,"votes":1025418,"results":[{"party":"indputin","pct":78.1,"votes":800851},{"party":"kprf","pct":8.4,"votes":86135},{"party":"ldpr","pct":6.9,"votes":70754},{"party":"np","pct":6.7,"votes":68703}]},
+        {"name":"Republic of Tatarstan","abbr":"TA","winner":"indputin","margin":88.2,"turnout":74.3,"votes":1120955,"results":[{"party":"indputin","pct":91.6,"votes":1026795},{"party":"kprf","pct":3.4,"votes":38112},{"party":"np","pct":2.8,"votes":31387},{"party":"ldpr","pct":2.1,"votes":23540}]},
+        {"name":"Rostov","abbr":"ROS","winner":"indputin","margin":85.9,"turnout":79.1,"votes":1211003,"results":[{"party":"indputin","pct":90,"votes":1089903},{"party":"kprf","pct":4.1,"votes":49651},{"party":"np","pct":3.3,"votes":39963},{"party":"ldpr","pct":2.6,"votes":31486}]},
+        {"name":"Ryazan","abbr":"RYA","winner":"indputin","margin":84.3,"turnout":76.5,"votes":959287,"results":[{"party":"indputin","pct":88.8,"votes":851847},{"party":"kprf","pct":4.5,"votes":43168},{"party":"np","pct":3.5,"votes":33575},{"party":"ldpr","pct":3.1,"votes":29738}]},
+        {"name":"Saint Petersburg","abbr":"SPE","winner":"indputin","margin":83.9,"turnout":71.4,"votes":1072854,"results":[{"party":"indputin","pct":89,"votes":954840},{"party":"ldpr","pct":5.1,"votes":54716},{"party":"kprf","pct":3.7,"votes":39696},{"party":"np","pct":2.3,"votes":24676}]},
+        {"name":"Sakha Republic","abbr":"SA","winner":"indputin","margin":82.9,"turnout":76.4,"votes":1121822,"results":[{"party":"indputin","pct":88.9,"votes":997300},{"party":"kprf","pct":6,"votes":67309},{"party":"ldpr","pct":3.1,"votes":34776},{"party":"np","pct":2,"votes":22436}]},
+        {"name":"Sakhalin","abbr":"SAK","winner":"indputin","margin":88.1,"turnout":75.8,"votes":956119,"results":[{"party":"indputin","pct":91.7,"votes":876761},{"party":"kprf","pct":3.6,"votes":34420},{"party":"np","pct":2.4,"votes":22947},{"party":"ldpr","pct":2.3,"votes":21991}]},
+        {"name":"Samara","abbr":"SAM","winner":"indputin","margin":77.6,"turnout":78.8,"votes":1023360,"results":[{"party":"indputin","pct":84.1,"votes":860646},{"party":"np","pct":6.5,"votes":66518},{"party":"kprf","pct":5.1,"votes":52191},{"party":"ldpr","pct":4.3,"votes":44004}]},
+        {"name":"Saratov","abbr":"SAR","winner":"indputin","margin":87.5,"turnout":77.3,"votes":832581,"results":[{"party":"indputin","pct":91,"votes":757649},{"party":"ldpr","pct":3.5,"votes":29140},{"party":"kprf","pct":3.4,"votes":28308},{"party":"np","pct":2,"votes":16652}]},
+        {"name":"Smolensk","abbr":"SMO","winner":"indputin","margin":74.7,"turnout":73.3,"votes":896087,"results":[{"party":"indputin","pct":82.6,"votes":740168},{"party":"kprf","pct":7.9,"votes":70791},{"party":"ldpr","pct":6.1,"votes":54661},{"party":"np","pct":3.4,"votes":30467}]},
+        {"name":"Stavropol Krai","abbr":"STA","winner":"indputin","margin":85.3,"turnout":83.3,"votes":1085977,"results":[{"party":"indputin","pct":89.7,"votes":974121},{"party":"kprf","pct":4.4,"votes":47783},{"party":"ldpr","pct":3.3,"votes":35837},{"party":"np","pct":2.6,"votes":28235}]},
+        {"name":"Sverdlovsk","abbr":"SVE","winner":"indputin","margin":91.7,"turnout":80.1,"votes":856239,"results":[{"party":"indputin","pct":94,"votes":804865},{"party":"np","pct":2.3,"votes":19693},{"party":"kprf","pct":1.9,"votes":16269},{"party":"ldpr","pct":1.8,"votes":15412}]},
+        {"name":"Tambov","abbr":"TAM","winner":"indputin","margin":72.6,"turnout":80.2,"votes":907218,"results":[{"party":"indputin","pct":81.3,"votes":737568},{"party":"kprf","pct":8.7,"votes":78928},{"party":"ldpr","pct":5.6,"votes":50804},{"party":"np","pct":4.4,"votes":39918}]},
+        {"name":"Tomsk","abbr":"TOM","winner":"indputin","margin":81.7,"turnout":74.5,"votes":879521,"results":[{"party":"indputin","pct":88.5,"votes":778376},{"party":"kprf","pct":6.8,"votes":59807},{"party":"np","pct":2.3,"votes":20229},{"party":"ldpr","pct":2.3,"votes":20229}]},
+        {"name":"Tula","abbr":"TUL","winner":"indputin","margin":84,"turnout":80.2,"votes":1186376,"results":[{"party":"indputin","pct":88.6,"votes":1051129},{"party":"np","pct":4.6,"votes":54573},{"party":"ldpr","pct":4.1,"votes":48641},{"party":"kprf","pct":2.7,"votes":32032}]},
+        {"name":"Tuva Republic","abbr":"TY","winner":"indputin","margin":85.3,"turnout":81.9,"votes":889459,"results":[{"party":"indputin","pct":89.4,"votes":795176},{"party":"kprf","pct":4.1,"votes":36468},{"party":"ldpr","pct":3.9,"votes":34689},{"party":"np","pct":2.6,"votes":23126}]},
+        {"name":"Tver","abbr":"TVE","winner":"indputin","margin":80.2,"turnout":80,"votes":962821,"results":[{"party":"indputin","pct":85.9,"votes":827063},{"party":"np","pct":5.7,"votes":54881},{"party":"kprf","pct":5.3,"votes":51030},{"party":"ldpr","pct":3.1,"votes":29847}]},
+        {"name":"Tyumen","abbr":"TYU","winner":"indputin","margin":81.7,"turnout":82.7,"votes":1193046,"results":[{"party":"indputin","pct":87,"votes":1037950},{"party":"ldpr","pct":5.3,"votes":63231},{"party":"kprf","pct":4,"votes":47722},{"party":"np","pct":3.7,"votes":44143}]},
+        {"name":"Udmurt Republic","abbr":"UD","winner":"indputin","margin":83.6,"turnout":70.7,"votes":1036575,"results":[{"party":"indputin","pct":89.2,"votes":924625},{"party":"np","pct":5.6,"votes":58048},{"party":"ldpr","pct":2.6,"votes":26951},{"party":"kprf","pct":2.5,"votes":25914}]},
+        {"name":"Ulyanovsk","abbr":"ULY","winner":"indputin","margin":72.4,"turnout":75,"votes":1044253,"results":[{"party":"indputin","pct":80.8,"votes":843756},{"party":"kprf","pct":8.4,"votes":87717},{"party":"np","pct":6.8,"votes":71009},{"party":"ldpr","pct":4,"votes":41770}]},
+        {"name":"Vladimir","abbr":"VLA","winner":"indputin","margin":74.7,"turnout":75.7,"votes":885618,"results":[{"party":"indputin","pct":82.4,"votes":729749},{"party":"np","pct":7.7,"votes":68193},{"party":"kprf","pct":5.6,"votes":49595},{"party":"ldpr","pct":4.3,"votes":38082}]},
+        {"name":"Volgograd","abbr":"VGG","winner":"indputin","margin":86.5,"turnout":74.9,"votes":1169735,"results":[{"party":"indputin","pct":90.5,"votes":1058610},{"party":"np","pct":4,"votes":46789},{"party":"kprf","pct":2.7,"votes":31583},{"party":"ldpr","pct":2.7,"votes":31583}]},
+        {"name":"Vologda","abbr":"VLG","winner":"indputin","margin":75.2,"turnout":76.6,"votes":850235,"results":[{"party":"indputin","pct":82.2,"votes":698893},{"party":"np","pct":7,"votes":59516},{"party":"kprf","pct":5.8,"votes":49314},{"party":"ldpr","pct":5,"votes":42512}]},
+        {"name":"Voronezh","abbr":"VOR","winner":"indputin","margin":84.4,"turnout":80.2,"votes":1218265,"results":[{"party":"indputin","pct":88.9,"votes":1083038},{"party":"np","pct":4.5,"votes":54822},{"party":"ldpr","pct":3.7,"votes":45076},{"party":"kprf","pct":2.9,"votes":35330}]},
+        {"name":"Yamalo-Nenets Autonomous Okrug","abbr":"YAN","winner":"indputin","margin":84.5,"turnout":84.1,"votes":1183549,"results":[{"party":"indputin","pct":89.2,"votes":1055726},{"party":"kprf","pct":4.7,"votes":55627},{"party":"ldpr","pct":3.3,"votes":39057},{"party":"np","pct":2.8,"votes":33139}]},
+        {"name":"Yaroslavl","abbr":"YAR","winner":"indputin","margin":86.8,"turnout":79.6,"votes":1179281,"results":[{"party":"indputin","pct":90.9,"votes":1071966},{"party":"ldpr","pct":4.1,"votes":48351},{"party":"kprf","pct":2.6,"votes":30661},{"party":"np","pct":2.4,"votes":28303}]},
+        {"name":"Zabaykalsky Krai","abbr":"ZAB","winner":"indputin","margin":87.6,"turnout":73.1,"votes":964285,"results":[{"party":"indputin","pct":90.9,"votes":876535},{"party":"kprf","pct":3.3,"votes":31821},{"party":"ldpr","pct":3.3,"votes":31821},{"party":"np","pct":2.5,"votes":24107}]}
+      ]
+    },
+    {
+      "id": "ru-duma-2026",
+      "office": "State Duma",
+      "kind": "legislative",
+      "date": "2026-09-20",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 59.58,
+      "system": "450 seats: half by party list, half in single-member districts",
+      "totalSeats": 450,
+      "majority": 226,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Central Election Commission of Russia",
+        "url": "https://en.wikipedia.org/wiki/2026_Russian_legislative_election"
+      },
+      "candidates": [
+        {
+          "name": "United Russia",
+          "party": "ur",
+          "votes": 39118497,
+          "pct": 59.01,
+          "seats": 349,
+          "change": 25,
+          "winner": true
+        },
+        {
+          "name": "Communist Party",
+          "party": "kprf",
+          "votes": 9051776,
+          "pct": 13.66,
+          "seats": 37,
+          "change": -20
+        },
+        {
+          "name": "Liberal Democratic Party",
+          "party": "ldpr",
+          "votes": 5970578,
+          "pct": 9.01,
+          "seats": 23,
+          "change": 2
+        },
+        {
+          "name": "New People",
+          "party": "np",
+          "votes": 5253202,
+          "pct": 7.92,
+          "seats": 19,
+          "change": 6
+        },
+        {
+          "name": "A Just Russia",
+          "party": "sr",
+          "votes": 3589806,
+          "pct": 5.42,
+          "seats": 17,
+          "change": -10
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "Rodina",
+          "party": "rodina",
+          "votes": 469972,
+          "pct": 0.71,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Party of Pensioners",
+          "party": "rpp",
+          "votes": 1286329,
+          "pct": 1.94,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "The Greens",
+          "party": "greens",
+          "votes": 761542,
+          "pct": 1.15,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 786954,
+          "pct": 1.19,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Altai Krai","abbr":"ALT","winner":"ur","margin":51.5,"turnout":65.8,"votes":889202,"results":[{"party":"ur","pct":66.2,"votes":588652},{"party":"kprf","pct":14.7,"votes":130713},{"party":"ldpr","pct":11.9,"votes":105815},{"party":"np","pct":4.6,"votes":40903},{"party":"sr","pct":2.6,"votes":23119}]},
+        {"name":"Altai Republic","abbr":"AL","winner":"ur","margin":56.3,"turnout":55,"votes":811992,"results":[{"party":"ur","pct":67,"votes":544035},{"party":"kprf","pct":10.7,"votes":86883},{"party":"ldpr","pct":9.8,"votes":79575},{"party":"np","pct":8.4,"votes":68207},{"party":"sr","pct":4.1,"votes":33292}]},
+        {"name":"Amur","abbr":"AMU","winner":"ur","margin":34.2,"turnout":54.2,"votes":659558,"results":[{"party":"ur","pct":50.6,"votes":333736},{"party":"np","pct":16.4,"votes":108168},{"party":"ldpr","pct":14,"votes":92338},{"party":"kprf","pct":12.5,"votes":82445},{"party":"sr","pct":6.6,"votes":43531}]},
+        {"name":"Arkhangelsk","abbr":"ARK","winner":"ur","margin":32.3,"turnout":55.7,"votes":685553,"results":[{"party":"ur","pct":51.7,"votes":354431},{"party":"kprf","pct":19.4,"votes":132997},{"party":"ldpr","pct":11.5,"votes":78839},{"party":"sr","pct":10.1,"votes":69241},{"party":"np","pct":7.3,"votes":50045}]},
+        {"name":"Astrakhan","abbr":"AST","winner":"ur","margin":48.8,"turnout":65,"votes":954278,"results":[{"party":"ur","pct":63.3,"votes":604058},{"party":"kprf","pct":14.5,"votes":138370},{"party":"ldpr","pct":11.1,"votes":105925},{"party":"np","pct":6.3,"votes":60120},{"party":"sr","pct":4.8,"votes":45805}]},
+        {"name":"Bashkortostan","abbr":"BA","winner":"ur","margin":28.4,"turnout":56.5,"votes":815624,"results":[{"party":"ur","pct":50.1,"votes":408628},{"party":"kprf","pct":21.7,"votes":176990},{"party":"ldpr","pct":13,"votes":106031},{"party":"np","pct":11.6,"votes":94612},{"party":"sr","pct":3.6,"votes":29362}]},
+        {"name":"Belgorod","abbr":"BEL","winner":"ur","margin":47.8,"turnout":56.8,"votes":903157,"results":[{"party":"ur","pct":63.4,"votes":572602},{"party":"kprf","pct":15.6,"votes":140892},{"party":"np","pct":9,"votes":81284},{"party":"sr","pct":6.8,"votes":61415},{"party":"ldpr","pct":5.2,"votes":46964}]},
+        {"name":"Bryansk","abbr":"BRY","winner":"ur","margin":28.8,"turnout":52.7,"votes":892838,"results":[{"party":"ur","pct":46.2,"votes":412491},{"party":"kprf","pct":17.4,"votes":155354},{"party":"np","pct":15,"votes":133926},{"party":"ldpr","pct":13,"votes":116069},{"party":"sr","pct":8.4,"votes":74998}]},
+        {"name":"Chechnya","abbr":"CE","winner":"ur","margin":41.2,"turnout":64.2,"votes":839712,"results":[{"party":"ur","pct":61,"votes":512224},{"party":"kprf","pct":19.8,"votes":166263},{"party":"np","pct":7.5,"votes":62978},{"party":"sr","pct":6.5,"votes":54581},{"party":"ldpr","pct":5.3,"votes":44505}]},
+        {"name":"Chelyabinsk","abbr":"CHE","winner":"ur","margin":53.5,"turnout":60.5,"votes":700053,"results":[{"party":"ur","pct":66.5,"votes":465535},{"party":"kprf","pct":13,"votes":91007},{"party":"ldpr","pct":8.3,"votes":58104},{"party":"np","pct":8.3,"votes":58104},{"party":"sr","pct":3.9,"votes":27302}]},
+        {"name":"Chukotka Autonomous Okrug","abbr":"CHU","winner":"ur","margin":62.2,"turnout":55.1,"votes":885107,"results":[{"party":"ur","pct":71.5,"votes":632852},{"party":"kprf","pct":9.3,"votes":82315},{"party":"ldpr","pct":7.4,"votes":65498},{"party":"sr","pct":6.4,"votes":56647},{"party":"np","pct":5.4,"votes":47796}]},
+        {"name":"Chuvash Republic","abbr":"CU","winner":"ur","margin":32.7,"turnout":53.2,"votes":759148,"results":[{"party":"ur","pct":50.3,"votes":381851},{"party":"ldpr","pct":17.6,"votes":133610},{"party":"kprf","pct":13.4,"votes":101726},{"party":"np","pct":12.8,"votes":97171},{"party":"sr","pct":5.9,"votes":44790}]},
+        {"name":"Irkutsk","abbr":"IRK","winner":"ur","margin":32.4,"turnout":65.8,"votes":941819,"results":[{"party":"ur","pct":54.3,"votes":511408},{"party":"kprf","pct":21.9,"votes":206258},{"party":"np","pct":11.3,"votes":106426},{"party":"sr","pct":7,"votes":65927},{"party":"ldpr","pct":5.6,"votes":52742}]},
+        {"name":"Ivanovo","abbr":"IVA","winner":"ur","margin":59.5,"turnout":63.6,"votes":862057,"results":[{"party":"ur","pct":69.3,"votes":597406},{"party":"ldpr","pct":9.8,"votes":84482},{"party":"kprf","pct":9.7,"votes":83620},{"party":"np","pct":6.5,"votes":56034},{"party":"sr","pct":4.7,"votes":40517}]},
+        {"name":"Jewish Autonomous Oblast","abbr":"YEV","winner":"ur","margin":49.1,"turnout":65.4,"votes":723832,"results":[{"party":"ur","pct":64.4,"votes":466148},{"party":"kprf","pct":15.3,"votes":110746},{"party":"ldpr","pct":7.5,"votes":54287},{"party":"sr","pct":7,"votes":50668},{"party":"np","pct":5.7,"votes":41258}]},
+        {"name":"Kabardino-Balkaria","abbr":"KB","winner":"ur","margin":26.7,"turnout":56.8,"votes":944054,"results":[{"party":"ur","pct":49,"votes":462586},{"party":"kprf","pct":22.3,"votes":210524},{"party":"ldpr","pct":11.8,"votes":111398},{"party":"np","pct":9.1,"votes":85909},{"party":"sr","pct":7.9,"votes":74580}]},
+        {"name":"Kaliningrad","abbr":"KGD","winner":"ur","margin":45.7,"turnout":55.3,"votes":932556,"results":[{"party":"ur","pct":62.6,"votes":583780},{"party":"kprf","pct":16.9,"votes":157602},{"party":"np","pct":9.8,"votes":91390},{"party":"ldpr","pct":6.8,"votes":63414},{"party":"sr","pct":4,"votes":37302}]},
+        {"name":"Kaluga","abbr":"KLU","winner":"ur","margin":50.9,"turnout":61.9,"votes":766968,"results":[{"party":"ur","pct":63,"votes":483190},{"party":"kprf","pct":12.1,"votes":92803},{"party":"ldpr","pct":10.3,"votes":78998},{"party":"np","pct":8.8,"votes":67493},{"party":"sr","pct":5.9,"votes":45251}]},
+        {"name":"Kamchatka Krai","abbr":"KAM","winner":"ur","margin":44.7,"turnout":57.7,"votes":773104,"results":[{"party":"ur","pct":61.3,"votes":473913},{"party":"kprf","pct":16.6,"votes":128335},{"party":"ldpr","pct":10.7,"votes":82722},{"party":"np","pct":6.3,"votes":48706},{"party":"sr","pct":5.1,"votes":39428}]},
+        {"name":"Karachay-Cherkess Republic","abbr":"KC","winner":"ur","margin":58.8,"turnout":56.5,"votes":922998,"results":[{"party":"ur","pct":70.8,"votes":653483},{"party":"ldpr","pct":12,"votes":110760},{"party":"kprf","pct":7.6,"votes":70148},{"party":"sr","pct":4.8,"votes":44304},{"party":"np","pct":4.7,"votes":43381}]},
+        {"name":"Karelia","abbr":"KR","winner":"ur","margin":39,"turnout":57.8,"votes":839708,"results":[{"party":"ur","pct":55.3,"votes":464359},{"party":"kprf","pct":16.3,"votes":136872},{"party":"np","pct":15.3,"votes":128475},{"party":"ldpr","pct":7.8,"votes":65497},{"party":"sr","pct":5.2,"votes":43665}]},
+        {"name":"Kemerovo","abbr":"KEM","winner":"ur","margin":52.4,"turnout":62.8,"votes":911212,"results":[{"party":"ur","pct":63,"votes":574064},{"party":"np","pct":10.6,"votes":96588},{"party":"ldpr","pct":9.6,"votes":87476},{"party":"kprf","pct":8.5,"votes":77453},{"party":"sr","pct":8.2,"votes":74719}]},
+        {"name":"Khabarovsk Krai","abbr":"KHA","winner":"ur","margin":57.1,"turnout":53,"votes":713454,"results":[{"party":"ur","pct":68.3,"votes":487289},{"party":"kprf","pct":11.2,"votes":79907},{"party":"ldpr","pct":8.3,"votes":59217},{"party":"np","pct":7.4,"votes":52796},{"party":"sr","pct":4.9,"votes":34959}]},
+        {"name":"Khanty-Mansi Autonomous Okrug","abbr":"KHM","winner":"ur","margin":58.2,"turnout":61.9,"votes":798569,"results":[{"party":"ur","pct":69.2,"votes":552610},{"party":"ldpr","pct":11,"votes":87843},{"party":"kprf","pct":8.2,"votes":65483},{"party":"sr","pct":6,"votes":47914},{"party":"np","pct":5.6,"votes":44720}]},
+        {"name":"Kirov","abbr":"KIR","winner":"ur","margin":26.9,"turnout":59.7,"votes":878672,"results":[{"party":"ur","pct":44.9,"votes":394524},{"party":"kprf","pct":18,"votes":158161},{"party":"np","pct":16.2,"votes":142345},{"party":"ldpr","pct":13.9,"votes":122135},{"party":"sr","pct":7,"votes":61507}]},
+        {"name":"Komi Republic","abbr":"KO","winner":"ur","margin":44.4,"turnout":58.2,"votes":898409,"results":[{"party":"ur","pct":60.2,"votes":540842},{"party":"kprf","pct":15.8,"votes":141949},{"party":"ldpr","pct":11.6,"votes":104215},{"party":"np","pct":8.1,"votes":72771},{"party":"sr","pct":4.3,"votes":38632}]},
+        {"name":"Kostroma","abbr":"KOS","winner":"ur","margin":34.7,"turnout":55.4,"votes":775063,"results":[{"party":"ur","pct":53,"votes":410783},{"party":"kprf","pct":18.3,"votes":141837},{"party":"ldpr","pct":16.3,"votes":126335},{"party":"np","pct":7.6,"votes":58905},{"party":"sr","pct":4.7,"votes":36428}]},
+        {"name":"Krasnodar Krai","abbr":"KDA","winner":"ur","margin":66.8,"turnout":55.2,"votes":645462,"results":[{"party":"ur","pct":74.9,"votes":483451},{"party":"np","pct":8.1,"votes":52282},{"party":"kprf","pct":7.6,"votes":49055},{"party":"sr","pct":5.5,"votes":35500},{"party":"ldpr","pct":3.9,"votes":25173}]},
+        {"name":"Krasnoyarsk Krai","abbr":"KYA","winner":"ur","margin":35.9,"turnout":61.4,"votes":852189,"results":[{"party":"ur","pct":54.1,"votes":461034},{"party":"kprf","pct":18.2,"votes":155098},{"party":"sr","pct":10.6,"votes":90332},{"party":"ldpr","pct":9.1,"votes":77549},{"party":"np","pct":8,"votes":68175}]},
+        {"name":"Kurgan","abbr":"KGN","winner":"ur","margin":55.2,"turnout":53.5,"votes":811004,"results":[{"party":"ur","pct":68.2,"votes":553105},{"party":"kprf","pct":13,"votes":105431},{"party":"np","pct":7.6,"votes":61636},{"party":"ldpr","pct":6,"votes":48660},{"party":"sr","pct":5.2,"votes":42172}]},
+        {"name":"Kursk","abbr":"KRS","winner":"ur","margin":55.6,"turnout":54,"votes":856684,"results":[{"party":"ur","pct":66.1,"votes":566268},{"party":"ldpr","pct":10.5,"votes":89952},{"party":"kprf","pct":10.2,"votes":87382},{"party":"np","pct":7.5,"votes":64251},{"party":"sr","pct":5.7,"votes":48831}]},
+        {"name":"Leningrad","abbr":"LEN","winner":"ur","margin":52.3,"turnout":63.8,"votes":839994,"results":[{"party":"ur","pct":63,"votes":529196},{"party":"kprf","pct":10.7,"votes":89879},{"party":"ldpr","pct":10.6,"votes":89039},{"party":"np","pct":9.3,"votes":78119},{"party":"sr","pct":6.4,"votes":53760}]},
+        {"name":"Lipetsk","abbr":"LIP","winner":"ur","margin":43.8,"turnout":66.5,"votes":682027,"results":[{"party":"ur","pct":60.4,"votes":411944},{"party":"kprf","pct":16.6,"votes":113216},{"party":"ldpr","pct":10.2,"votes":69567},{"party":"np","pct":9.7,"votes":66157},{"party":"sr","pct":3.2,"votes":21825}]},
+        {"name":"Magadan","abbr":"MAG","winner":"ur","margin":47.2,"turnout":63.3,"votes":664305,"results":[{"party":"ur","pct":63.5,"votes":421834},{"party":"kprf","pct":16.3,"votes":108282},{"party":"sr","pct":7.9,"votes":52480},{"party":"ldpr","pct":6.8,"votes":45173},{"party":"np","pct":5.6,"votes":37201}]},
+        {"name":"Mari El Republic","abbr":"ME","winner":"ur","margin":48,"turnout":60.2,"votes":876205,"results":[{"party":"ur","pct":62.3,"votes":545876},{"party":"kprf","pct":14.3,"votes":125297},{"party":"np","pct":11.5,"votes":100764},{"party":"ldpr","pct":7.7,"votes":67468},{"party":"sr","pct":4.2,"votes":36801}]},
+        {"name":"Moscow","abbr":"MOW","winner":"ur","margin":27.4,"turnout":62.7,"votes":664008,"results":[{"party":"ur","pct":51.6,"votes":342628},{"party":"kprf","pct":24.2,"votes":160690},{"party":"sr","pct":10.9,"votes":72377},{"party":"np","pct":6.7,"votes":44489},{"party":"ldpr","pct":6.6,"votes":43825}]},
+        {"name":"Moscow Oblast","abbr":"MOS","winner":"ur","margin":39.3,"turnout":55.5,"votes":883899,"results":[{"party":"ur","pct":55,"votes":486144},{"party":"kprf","pct":15.7,"votes":138772},{"party":"ldpr","pct":11.6,"votes":102532},{"party":"np","pct":8.9,"votes":78667},{"party":"sr","pct":8.8,"votes":77783}]},
+        {"name":"Murmansk","abbr":"MUR","winner":"ur","margin":47.7,"turnout":55.2,"votes":645729,"results":[{"party":"ur","pct":63,"votes":406809},{"party":"kprf","pct":15.3,"votes":98797},{"party":"ldpr","pct":11.9,"votes":76842},{"party":"np","pct":6.3,"votes":40681},{"party":"sr","pct":3.5,"votes":22601}]},
+        {"name":"Nenets Autonomous Okrug","abbr":"NEN","winner":"ur","margin":49.6,"turnout":59.4,"votes":750923,"results":[{"party":"ur","pct":64,"votes":480591},{"party":"kprf","pct":14.4,"votes":108133},{"party":"ldpr","pct":10.9,"votes":81851},{"party":"np","pct":6.2,"votes":46557},{"party":"sr","pct":4.5,"votes":33792}]},
+        {"name":"Nizhny Novgorod","abbr":"NIZ","winner":"ur","margin":43.1,"turnout":54.2,"votes":797789,"results":[{"party":"ur","pct":60.8,"votes":485056},{"party":"kprf","pct":17.7,"votes":141209},{"party":"ldpr","pct":11.1,"votes":88555},{"party":"np","pct":5.8,"votes":46272},{"party":"sr","pct":4.6,"votes":36698}]},
+        {"name":"North Ossetia–Alania","abbr":"SE","winner":"ur","margin":55.9,"turnout":55.2,"votes":743769,"results":[{"party":"ur","pct":66.7,"votes":496094},{"party":"kprf","pct":10.8,"votes":80327},{"party":"np","pct":8.5,"votes":63220},{"party":"sr","pct":7.3,"votes":54295},{"party":"ldpr","pct":6.7,"votes":49833}]},
+        {"name":"Novgorod","abbr":"NGR","winner":"ur","margin":41.4,"turnout":65.8,"votes":652628,"results":[{"party":"ur","pct":58,"votes":378524},{"party":"kprf","pct":16.6,"votes":108336},{"party":"ldpr","pct":9.8,"votes":63958},{"party":"np","pct":9.2,"votes":60042},{"party":"sr","pct":6.3,"votes":41116}]},
+        {"name":"Novosibirsk","abbr":"NVS","winner":"ur","margin":42.1,"turnout":53.2,"votes":911577,"results":[{"party":"ur","pct":56.2,"votes":512306},{"party":"ldpr","pct":14.1,"votes":128532},{"party":"np","pct":12.2,"votes":111212},{"party":"kprf","pct":11.3,"votes":103008},{"party":"sr","pct":6.2,"votes":56518}]},
+        {"name":"Omsk","abbr":"OMS","winner":"ur","margin":46.7,"turnout":60.5,"votes":746795,"results":[{"party":"ur","pct":62.6,"votes":467494},{"party":"kprf","pct":15.9,"votes":118740},{"party":"ldpr","pct":11.9,"votes":88869},{"party":"np","pct":6.5,"votes":48542},{"party":"sr","pct":3.2,"votes":23897}]},
+        {"name":"Orenburg","abbr":"ORE","winner":"ur","margin":45.8,"turnout":55.7,"votes":758659,"results":[{"party":"ur","pct":59.2,"votes":449126},{"party":"kprf","pct":13.4,"votes":101660},{"party":"np","pct":11.3,"votes":85728},{"party":"ldpr","pct":10.4,"votes":78901},{"party":"sr","pct":5.8,"votes":44002}]},
+        {"name":"Oryol","abbr":"ORL","winner":"ur","margin":41.5,"turnout":53.6,"votes":707868,"results":[{"party":"ur","pct":57.4,"votes":406316},{"party":"kprf","pct":15.9,"votes":112551},{"party":"ldpr","pct":10.4,"votes":73618},{"party":"np","pct":9.1,"votes":64416},{"party":"sr","pct":7.2,"votes":50966}]},
+        {"name":"Penza","abbr":"PNZ","winner":"ur","margin":49.8,"turnout":60,"votes":808121,"results":[{"party":"ur","pct":63,"votes":509116},{"party":"kprf","pct":13.2,"votes":106672},{"party":"ldpr","pct":11.3,"votes":91318},{"party":"sr","pct":6.8,"votes":54952},{"party":"np","pct":5.7,"votes":46063}]},
+        {"name":"Perm Krai","abbr":"PER","winner":"ur","margin":28.3,"turnout":56.5,"votes":836231,"results":[{"party":"ur","pct":50.5,"votes":422297},{"party":"kprf","pct":22.2,"votes":185643},{"party":"ldpr","pct":12.9,"votes":107874},{"party":"np","pct":10.5,"votes":87804},{"party":"sr","pct":3.9,"votes":32613}]},
+        {"name":"Primorsky Krai","abbr":"PRI","winner":"ur","margin":58.3,"turnout":62,"votes":746101,"results":[{"party":"ur","pct":69.6,"votes":519286},{"party":"ldpr","pct":11.3,"votes":84309},{"party":"kprf","pct":9,"votes":67149},{"party":"sr","pct":6.7,"votes":49989},{"party":"np","pct":3.5,"votes":26114}]},
+        {"name":"Pskov","abbr":"PSK","winner":"ur","margin":33.2,"turnout":54.7,"votes":915054,"results":[{"party":"ur","pct":49,"votes":448376},{"party":"ldpr","pct":15.8,"votes":144579},{"party":"np","pct":15.2,"votes":139088},{"party":"kprf","pct":15.1,"votes":138173},{"party":"sr","pct":4.9,"votes":44838}]},
+        {"name":"Republic of Adygea","abbr":"AD","winner":"ur","margin":42.8,"turnout":60.8,"votes":920224,"results":[{"party":"ur","pct":59.8,"votes":550294},{"party":"kprf","pct":17,"votes":156438},{"party":"ldpr","pct":9,"votes":82820},{"party":"np","pct":8.9,"votes":81900},{"party":"sr","pct":5.3,"votes":48772}]},
+        {"name":"Republic of Buryatia","abbr":"BU","winner":"ur","margin":51.6,"turnout":59.9,"votes":705547,"results":[{"party":"ur","pct":65,"votes":458606},{"party":"kprf","pct":13.4,"votes":94543},{"party":"ldpr","pct":10.3,"votes":72671},{"party":"np","pct":9,"votes":63499},{"party":"sr","pct":2.2,"votes":15522}]},
+        {"name":"Republic of Dagestan","abbr":"DA","winner":"ur","margin":59.3,"turnout":63.3,"votes":798146,"results":[{"party":"ur","pct":72.2,"votes":576261},{"party":"kprf","pct":12.9,"votes":102961},{"party":"ldpr","pct":8.8,"votes":70237},{"party":"np","pct":3.5,"votes":27935},{"party":"sr","pct":2.6,"votes":20752}]},
+        {"name":"Republic of Ingushetia","abbr":"IN","winner":"ur","margin":62.5,"turnout":56.6,"votes":658169,"results":[{"party":"ur","pct":74.1,"votes":487703},{"party":"kprf","pct":11.6,"votes":76348},{"party":"np","pct":6.4,"votes":42123},{"party":"ldpr","pct":4.9,"votes":32250},{"party":"sr","pct":3.1,"votes":20403}]},
+        {"name":"Republic of Kalmykia","abbr":"KL","winner":"ur","margin":53.2,"turnout":61.6,"votes":787987,"results":[{"party":"ur","pct":65.9,"votes":519283},{"party":"kprf","pct":12.7,"votes":100074},{"party":"ldpr","pct":9.2,"votes":72495},{"party":"np","pct":8,"votes":63039},{"party":"sr","pct":4.2,"votes":33095}]},
+        {"name":"Republic of Khakassia","abbr":"KK","winner":"ur","margin":49.9,"turnout":65.2,"votes":831402,"results":[{"party":"ur","pct":62.8,"votes":522120},{"party":"kprf","pct":12.9,"votes":107251},{"party":"np","pct":11.9,"votes":98937},{"party":"ldpr","pct":7,"votes":58198},{"party":"sr","pct":5.3,"votes":44064}]},
+        {"name":"Republic of Mordovia","abbr":"MO","winner":"ur","margin":21.3,"turnout":53.4,"votes":713285,"results":[{"party":"ur","pct":47.9,"votes":341664},{"party":"kprf","pct":26.6,"votes":189734},{"party":"np","pct":11,"votes":78461},{"party":"ldpr","pct":8.6,"votes":61343},{"party":"sr","pct":5.9,"votes":42084}]},
+        {"name":"Republic of Tatarstan","abbr":"TA","winner":"ur","margin":20.4,"turnout":65.6,"votes":812560,"results":[{"party":"ur","pct":45.4,"votes":368902},{"party":"kprf","pct":25,"votes":203140},{"party":"np","pct":13.5,"votes":109696},{"party":"ldpr","pct":8.5,"votes":69068},{"party":"sr","pct":7.7,"votes":62567}]},
+        {"name":"Rostov","abbr":"ROS","winner":"ur","margin":41.5,"turnout":57.1,"votes":918103,"results":[{"party":"ur","pct":55.1,"votes":505875},{"party":"kprf","pct":13.6,"votes":124862},{"party":"ldpr","pct":12.1,"votes":111090},{"party":"sr","pct":10,"votes":91810},{"party":"np","pct":9.3,"votes":85384}]},
+        {"name":"Ryazan","abbr":"RYA","winner":"ur","margin":42,"turnout":66,"votes":727236,"results":[{"party":"ur","pct":57.1,"votes":415252},{"party":"kprf","pct":15.1,"votes":109813},{"party":"ldpr","pct":11.8,"votes":85814},{"party":"np","pct":9,"votes":65451},{"party":"sr","pct":7,"votes":50907}]},
+        {"name":"Saint Petersburg","abbr":"SPE","winner":"ur","margin":14.2,"turnout":60.8,"votes":902696,"results":[{"party":"ur","pct":44.2,"votes":398992},{"party":"kprf","pct":30,"votes":270809},{"party":"sr","pct":9.1,"votes":82145},{"party":"ldpr","pct":8.8,"votes":79437},{"party":"np","pct":7.8,"votes":70410}]},
+        {"name":"Sakha Republic","abbr":"SA","winner":"ur","margin":33.6,"turnout":66.4,"votes":814164,"results":[{"party":"ur","pct":50.8,"votes":413595},{"party":"kprf","pct":17.2,"votes":140036},{"party":"np","pct":15.5,"votes":126195},{"party":"ldpr","pct":9.7,"votes":78974},{"party":"sr","pct":6.8,"votes":55363}]},
+        {"name":"Sakhalin","abbr":"SAK","winner":"ur","margin":40.7,"turnout":61.4,"votes":790508,"results":[{"party":"ur","pct":59.9,"votes":473514},{"party":"kprf","pct":19.2,"votes":151778},{"party":"ldpr","pct":12.5,"votes":98814},{"party":"np","pct":4.4,"votes":34782},{"party":"sr","pct":4,"votes":31620}]},
+        {"name":"Samara","abbr":"SAM","winner":"ur","margin":16,"turnout":54,"votes":818206,"results":[{"party":"ur","pct":40.9,"votes":334646},{"party":"kprf","pct":24.9,"votes":203733},{"party":"ldpr","pct":16.9,"votes":138277},{"party":"np","pct":11.9,"votes":97367},{"party":"sr","pct":5.3,"votes":43365}]},
+        {"name":"Saratov","abbr":"SAR","winner":"ur","margin":43.2,"turnout":57.2,"votes":816162,"results":[{"party":"ur","pct":60.5,"votes":493778},{"party":"kprf","pct":17.3,"votes":141196},{"party":"sr","pct":10,"votes":81616},{"party":"ldpr","pct":6.5,"votes":53051},{"party":"np","pct":5.6,"votes":45705}]},
+        {"name":"Smolensk","abbr":"SMO","winner":"ur","margin":35.7,"turnout":64.2,"votes":823216,"results":[{"party":"ur","pct":51.3,"votes":422310},{"party":"np","pct":15.6,"votes":128422},{"party":"kprf","pct":14.8,"votes":121836},{"party":"ldpr","pct":12.9,"votes":106195},{"party":"sr","pct":5.5,"votes":45277}]},
+        {"name":"Stavropol Krai","abbr":"STA","winner":"ur","margin":38.3,"turnout":61,"votes":953886,"results":[{"party":"ur","pct":56.1,"votes":535130},{"party":"kprf","pct":17.8,"votes":169792},{"party":"np","pct":9.6,"votes":91573},{"party":"ldpr","pct":8.6,"votes":82034},{"party":"sr","pct":7.9,"votes":75357}]},
+        {"name":"Sverdlovsk","abbr":"SVE","winner":"ur","margin":51.8,"turnout":61.8,"votes":663694,"results":[{"party":"ur","pct":63.7,"votes":422773},{"party":"ldpr","pct":11.9,"votes":78980},{"party":"sr","pct":8.5,"votes":56414},{"party":"kprf","pct":8.3,"votes":55087},{"party":"np","pct":7.5,"votes":49777}]},
+        {"name":"Tambov","abbr":"TAM","winner":"ur","margin":26.7,"turnout":54.7,"votes":776113,"results":[{"party":"ur","pct":49.4,"votes":383400},{"party":"kprf","pct":22.7,"votes":176178},{"party":"np","pct":13.4,"votes":103999},{"party":"ldpr","pct":10.9,"votes":84596},{"party":"sr","pct":3.7,"votes":28716}]},
+        {"name":"Tomsk","abbr":"TOM","winner":"ur","margin":62.3,"turnout":60,"votes":757703,"results":[{"party":"ur","pct":72.2,"votes":547062},{"party":"ldpr","pct":9.9,"votes":75013},{"party":"kprf","pct":7.6,"votes":57585},{"party":"sr","pct":5.8,"votes":43947},{"party":"np","pct":4.4,"votes":33339}]},
+        {"name":"Tula","abbr":"TUL","winner":"ur","margin":49.8,"turnout":53.8,"votes":760513,"results":[{"party":"ur","pct":64.4,"votes":489770},{"party":"kprf","pct":14.6,"votes":111035},{"party":"ldpr","pct":12.3,"votes":93543},{"party":"np","pct":4.9,"votes":37265},{"party":"sr","pct":3.8,"votes":28899}]},
+        {"name":"Tuva Republic","abbr":"TY","winner":"ur","margin":49.8,"turnout":54.3,"votes":788989,"results":[{"party":"ur","pct":66.2,"votes":522311},{"party":"kprf","pct":16.4,"votes":129394},{"party":"np","pct":7.3,"votes":57596},{"party":"ldpr","pct":7.2,"votes":56807},{"party":"sr","pct":2.9,"votes":22881}]},
+        {"name":"Tver","abbr":"TVE","winner":"ur","margin":53.9,"turnout":61,"votes":715235,"results":[{"party":"ur","pct":67.2,"votes":480638},{"party":"kprf","pct":13.3,"votes":95126},{"party":"ldpr","pct":10.7,"votes":76530},{"party":"np","pct":6.1,"votes":43629},{"party":"sr","pct":2.7,"votes":19311}]},
+        {"name":"Tyumen","abbr":"TYU","winner":"ur","margin":49.9,"turnout":55.2,"votes":690144,"results":[{"party":"ur","pct":64.5,"votes":445143},{"party":"kprf","pct":14.6,"votes":100761},{"party":"np","pct":8.4,"votes":57972},{"party":"ldpr","pct":6.7,"votes":46240},{"party":"sr","pct":5.8,"votes":40028}]},
+        {"name":"Udmurt Republic","abbr":"UD","winner":"ur","margin":49.1,"turnout":66.2,"votes":911847,"results":[{"party":"ur","pct":64.1,"votes":584494},{"party":"kprf","pct":15,"votes":136777},{"party":"ldpr","pct":10.2,"votes":93008},{"party":"np","pct":8.2,"votes":74771},{"party":"sr","pct":2.5,"votes":22796}]},
+        {"name":"Ulyanovsk","abbr":"ULY","winner":"ur","margin":31.9,"turnout":65.8,"votes":663868,"results":[{"party":"ur","pct":52,"votes":345211},{"party":"kprf","pct":20.1,"votes":133437},{"party":"ldpr","pct":12.5,"votes":82984},{"party":"np","pct":9.5,"votes":63067},{"party":"sr","pct":5.9,"votes":39168}]},
+        {"name":"Vladimir","abbr":"VLA","winner":"ur","margin":28.1,"turnout":54.4,"votes":911901,"results":[{"party":"ur","pct":44.2,"votes":403060},{"party":"kprf","pct":16.1,"votes":146816},{"party":"ldpr","pct":15.6,"votes":142257},{"party":"np","pct":14.2,"votes":129490},{"party":"sr","pct":9.9,"votes":90278}]},
+        {"name":"Volgograd","abbr":"VGG","winner":"ur","margin":24.4,"turnout":65.9,"votes":802607,"results":[{"party":"ur","pct":47,"votes":377225},{"party":"kprf","pct":22.6,"votes":181389},{"party":"ldpr","pct":16.3,"votes":130825},{"party":"np","pct":10.7,"votes":85879},{"party":"sr","pct":3.4,"votes":27289}]},
+        {"name":"Vologda","abbr":"VLG","winner":"ur","margin":55.6,"turnout":58.7,"votes":752578,"results":[{"party":"ur","pct":68.8,"votes":517774},{"party":"kprf","pct":13.2,"votes":99340},{"party":"np","pct":9.1,"votes":68485},{"party":"sr","pct":4.9,"votes":36876},{"party":"ldpr","pct":4,"votes":30103}]},
+        {"name":"Voronezh","abbr":"VOR","winner":"ur","margin":51.1,"turnout":63.1,"votes":817728,"results":[{"party":"ur","pct":65.3,"votes":533976},{"party":"kprf","pct":14.2,"votes":116117},{"party":"ldpr","pct":8.3,"votes":67871},{"party":"np","pct":8,"votes":65418},{"party":"sr","pct":4.2,"votes":34345}]},
+        {"name":"Yamalo-Nenets Autonomous Okrug","abbr":"YAN","winner":"ur","margin":46.7,"turnout":56.2,"votes":764434,"results":[{"party":"ur","pct":61.5,"votes":470127},{"party":"kprf","pct":14.8,"votes":113136},{"party":"np","pct":10.7,"votes":81794},{"party":"ldpr","pct":8.1,"votes":61919},{"party":"sr","pct":4.9,"votes":37457}]},
+        {"name":"Yaroslavl","abbr":"YAR","winner":"ur","margin":41.9,"turnout":58.8,"votes":795889,"results":[{"party":"ur","pct":57.4,"votes":456840},{"party":"ldpr","pct":15.5,"votes":123363},{"party":"kprf","pct":13.6,"votes":108241},{"party":"np","pct":6.9,"votes":54916},{"party":"sr","pct":6.6,"votes":52529}]},
+        {"name":"Zabaykalsky Krai","abbr":"ZAB","winner":"ur","margin":24.3,"turnout":62.7,"votes":669894,"results":[{"party":"ur","pct":48.8,"votes":326908},{"party":"kprf","pct":24.5,"votes":164124},{"party":"ldpr","pct":13.6,"votes":91106},{"party":"np","pct":8.6,"votes":57611},{"party":"sr","pct":4.6,"votes":30815}]}
+      ]
+    }
+  ]
+}

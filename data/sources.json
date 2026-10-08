@@ -252,6 +252,22 @@
       "url": "https://electionresults.govt.nz",
       "role": "Official results",
       "note": "Publishes the preliminary count on election night and the official result, including special votes, about three weeks later."
+    },
+    "RU": {
+      "access": "public",
+      "name": "Central Election Commission of the Russian Federation",
+      "short": "CEC",
+      "url": "http://www.cikrf.ru/",
+      "role": "Official results",
+      "note": "Its national totals include votes cast in Crimea and Sevastopol since 2016, and in occupied parts of Donetsk, Luhansk, Zaporizhzhia and Kherson oblasts since 2024."
+    },
+    "PH": {
+      "access": "public",
+      "name": "Commission on Elections",
+      "short": "COMELEC",
+      "url": "https://comelec.gov.ph/",
+      "role": "Official results",
+      "note": "Congress, as the national board of canvassers, proclaims the president and vice president; COMELEC canvasses the Senate and party-list votes."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

@@ -553,5 +553,57 @@
     "timezone": "Pacific/Auckland",
     "pollsClose": "19:00",
     "basedOn": "nz-house-2023"
+  },
+  {
+    "country": "RU",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2030-03-17",
+    "note": "Due in March 2030",
+    "timezone": "Europe/Moscow",
+    "pollsClose": "21:00",
+    "basedOn": "ru-president-2024",
+    "tentative": true
+  },
+  {
+    "country": "RU",
+    "office": "State Duma",
+    "kind": "legislative",
+    "date": "2031-09-21",
+    "note": "Due in September 2031",
+    "timezone": "Europe/Moscow",
+    "pollsClose": "21:00",
+    "basedOn": "ru-duma-2026",
+    "tentative": true
+  },
+  {
+    "country": "PH",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2028-05-08",
+    "note": "Second Monday of May",
+    "timezone": "Asia/Manila",
+    "pollsClose": "19:00",
+    "basedOn": "ph-president-2022"
+  },
+  {
+    "country": "PH",
+    "office": "Senate",
+    "kind": "legislative",
+    "date": "2028-05-08",
+    "note": "Second Monday of May; 12 of 24 seats",
+    "timezone": "Asia/Manila",
+    "pollsClose": "19:00",
+    "basedOn": "ph-senate-2025"
+  },
+  {
+    "country": "PH",
+    "office": "House of Representatives",
+    "kind": "legislative",
+    "date": "2028-05-08",
+    "note": "Second Monday of May",
+    "timezone": "Asia/Manila",
+    "pollsClose": "19:00",
+    "basedOn": "ph-house-2025"
   }
 ]

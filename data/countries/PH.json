@@ -1,0 +1,886 @@
+{
+  "code": "PH",
+  "name": "Philippines",
+  "subtitle": "National elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "Congress: Senate (24) and House of Representatives (318)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 69673653,
+    "offices": {
+      "President": "Elected by plurality vote for a single six-year term, with no re-election. The president is head of state and government and commands the armed forces.",
+      "Senate": "Twenty-four senators are elected nationwide for six-year terms, half every three years, with each voter choosing up to 12 candidates. The Senate shares lawmaking with the House and ratifies treaties.",
+      "House of Representatives": "Members serve three-year terms: most are elected by plurality in single-member districts, and the rest through the party-list system. The House shares lawmaking with the Senate and starts budget bills and impeachments."
+    }
+  },
+  "parties": {
+    "adelante": {
+      "name": "Adelante Zamboanga Party",
+      "color": "#FF7F50"
+    },
+    "akbayan": {
+      "name": "Akbayan",
+      "color": "#FE0000"
+    },
+    "aksyon": {
+      "name": "Aksyon Demokratiko",
+      "color": "#9683EC"
+    },
+    "alayon": {
+      "name": "Alayon Alang sa Kalambu-an ng Kalinaw",
+      "color": "#6B8E23"
+    },
+    "appointed": {
+      "name": "Appointed members",
+      "color": "#8E8E93"
+    },
+    "arangkada": {
+      "name": "Arangkada San Joseño",
+      "color": "#FF8000"
+    },
+    "asensoabra": {
+      "name": "Asenso Abrenio",
+      "color": "#ED4B9E"
+    },
+    "asensomnl": {
+      "name": "Asenso Manileño",
+      "color": "#2F358D"
+    },
+    "bangon": {
+      "name": "Bangon Pilipinas",
+      "color": "#2E8B57"
+    },
+    "basilan": {
+      "name": "Basilan Unity Party",
+      "color": "#8FBC8F"
+    },
+    "bayanmuna": {
+      "name": "Bayan Muna",
+      "color": "#BF0C0C"
+    },
+    "bicolsaro": {
+      "name": "Bicol Saro",
+      "color": "#008FCB"
+    },
+    "bileg": {
+      "name": "Bileg Party",
+      "color": "#FF0038"
+    },
+    "blknnl": {
+      "name": "Bagong Lipunan–KNNLL",
+      "color": "#E9967A"
+    },
+    "bukidnon": {
+      "name": "Bukidnon Paglaum",
+      "color": "#9ACD32"
+    },
+    "bvnp": {
+      "name": "Bagumbayan–VNP",
+      "color": "#8B4513"
+    },
+    "cca": {
+      "name": "Concerned Citizens' Aggrupation",
+      "color": "#20B2AA"
+    },
+    "cdp": {
+      "name": "Centrist Democratic Party of the Philippines",
+      "color": "#0067B4"
+    },
+    "dp": {
+      "name": "Democratic Party",
+      "color": "#1E90FF"
+    },
+    "fp": {
+      "name": "Federal Party",
+      "color": "#1353B4"
+    },
+    "gad": {
+      "name": "Grand Alliance for Democracy",
+      "color": "#4169E1"
+    },
+    "hnp": {
+      "name": "Hugpong ng Pagbabago",
+      "color": "#CE1126"
+    },
+    "hugpong": {
+      "name": "Hugpong sa Tawong Lungsod",
+      "color": "#038D5A"
+    },
+    "ilp": {
+      "name": "Independent Liberal",
+      "color": "#DAA520"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "indenrile": {
+      "name": "Independent",
+      "color": "#6A5ACD"
+    },
+    "indlacson": {
+      "name": "Independent",
+      "color": "#004777"
+    },
+    "indpoe": {
+      "name": "Independent",
+      "color": "#0070C0"
+    },
+    "indrobredo": {
+      "name": "Independent",
+      "color": "#FE18A3"
+    },
+    "inp": {
+      "name": "Independent Nacionalista",
+      "color": "#2F4F4F"
+    },
+    "kabaka": {
+      "name": "Kabalikat ng Bayan sa Kaunlaran",
+      "color": "#01692E"
+    },
+    "kabayani": {
+      "name": "Kabayani",
+      "color": "#9ACD32"
+    },
+    "kambilan": {
+      "name": "Kambilan ning Memalen Kapampangan",
+      "color": "#DDA0DD"
+    },
+    "kampi": {
+      "name": "Kabalikat ng Malayang Pilipino",
+      "color": "#DC9A38"
+    },
+    "kapatiran": {
+      "name": "Ang Kapatiran",
+      "color": "#008080"
+    },
+    "kbl": {
+      "name": "Kilusang Bagong Lipunan",
+      "color": "#CE1126"
+    },
+    "kblind": {
+      "name": "Kilusang Bagong Lipunan (independent)",
+      "color": "#8B0000"
+    },
+    "kdp": {
+      "name": "Katipunan ng Demokratikong Pilipino",
+      "color": "#DC241F"
+    },
+    "knp": {
+      "name": "Koalisyon ng Nagkakaisang Pilipino",
+      "color": "#0038A8"
+    },
+    "knpil": {
+      "name": "Katipunan ng Nagkakaisang Pilipino",
+      "color": "#E50A4D"
+    },
+    "kp": {
+      "name": "Koalisyong Pambansa",
+      "color": "#FFCC00"
+    },
+    "kusogbaryo": {
+      "name": "Kusog Baryohanon",
+      "color": "#CD853F"
+    },
+    "kusugagusan": {
+      "name": "Kusug Agusanon",
+      "color": "#F4A460"
+    },
+    "lakas": {
+      "name": "Lakas–CMD",
+      "color": "#B0E0E6"
+    },
+    "lakas91": {
+      "name": "Lakas–CMD (1991)",
+      "color": "#B0E0E6"
+    },
+    "lakaslaban": {
+      "name": "Lakas–Laban Coalition",
+      "color": "#0000CD"
+    },
+    "lammp": {
+      "name": "Laban ng Makabayang Masang Pilipino",
+      "color": "#FFA500"
+    },
+    "ldp": {
+      "name": "Laban ng Demokratikong Pilipino",
+      "color": "#002868"
+    },
+    "lingap": {
+      "name": "Lingap Lugud",
+      "color": "#BC8F8F"
+    },
+    "lingkodtaguig": {
+      "name": "Lingkod Taguig",
+      "color": "#5F9EA0"
+    },
+    "lipingkalookan": {
+      "name": "Liping Kalookan",
+      "color": "#4682B4"
+    },
+    "lnb": {
+      "name": "Lakas ng Bayan",
+      "color": "#FFB347"
+    },
+    "lnbansa": {
+      "name": "Lakas ng Bansa",
+      "color": "#0000CD"
+    },
+    "lp": {
+      "name": "Liberal Party",
+      "color": "#F0E68C"
+    },
+    "lpavelino": {
+      "name": "Liberal Party (Avelino wing)",
+      "color": "#F7F2C1"
+    },
+    "lpquirino": {
+      "name": "Liberal Party (Quirino wing)",
+      "color": "#F7F2C1"
+    },
+    "magdalo": {
+      "name": "Partido Magdalo",
+      "color": "#556B2F"
+    },
+    "magdiwang": {
+      "name": "Partido Magdiwang",
+      "color": "#B8860B"
+    },
+    "makabayan": {
+      "name": "Makabayan",
+      "color": "#29176E"
+    },
+    "makatizens": {
+      "name": "Makatizens United Party",
+      "color": "#1A8CFA"
+    },
+    "mindanao": {
+      "name": "Mindanao Alliance",
+      "color": "#9370DB"
+    },
+    "mindoro": {
+      "name": "Mindoro bago Sarili",
+      "color": "#66CDAA"
+    },
+    "navoteno": {
+      "name": "Partido Navoteño",
+      "color": "#568203"
+    },
+    "ncp": {
+      "name": "Nationalist Citizens' Party",
+      "color": "#50C878"
+    },
+    "np": {
+      "name": "Nacionalista Party",
+      "color": "#98FB98"
+    },
+    "npc": {
+      "name": "Nationalist People's Coalition",
+      "color": "#4AA02C"
+    },
+    "nppw": {
+      "name": "National Political Party of Women",
+      "color": "#DB7093"
+    },
+    "nup": {
+      "name": "National Unity Party",
+      "color": "#104A21"
+    },
+    "ompia": {
+      "name": "Ompia Party",
+      "color": "#FFF44F"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "padayon": {
+      "name": "Padayon Pilipino",
+      "color": "#800080"
+    },
+    "palawan": {
+      "name": "Partidong Pagbabago ng Palawan",
+      "color": "#0099FF"
+    },
+    "panaghiusa": {
+      "name": "Partido Panaghiusa",
+      "color": "#551A8B"
+    },
+    "partylist": {
+      "name": "Party-list seats",
+      "color": "#7B68EE"
+    },
+    "pcm": {
+      "name": "People's Champ Movement",
+      "color": "#C71585"
+    },
+    "pdds": {
+      "name": "Pederalismo ng Dugong Dakilang Samahan",
+      "color": "#FF1493"
+    },
+    "pdplaban": {
+      "name": "PDP–Laban",
+      "color": "#FFD700"
+    },
+    "pdsp": {
+      "name": "Partido Demokratiko Sosyalista ng Pilipinas",
+      "color": "#CD5C5C"
+    },
+    "pf": {
+      "name": "Popular Front",
+      "color": "#FF0066"
+    },
+    "pfp": {
+      "name": "Partido Federal ng Pilipinas",
+      "color": "#0F22BD"
+    },
+    "plm": {
+      "name": "Partido Lakas ng Masa",
+      "color": "#FF7F50"
+    },
+    "pmp": {
+      "name": "Pwersa ng Masang Pilipino",
+      "color": "#FE7E00"
+    },
+    "pnb": {
+      "name": "Partido ng Bayan",
+      "color": "#800000"
+    },
+    "pp": {
+      "name": "Progressive Party",
+      "color": "#4F69C6"
+    },
+    "ppc": {
+      "name": "People Power Coalition",
+      "color": "#FFFF33"
+    },
+    "ppp": {
+      "name": "Partido Pilipino sa Pagbabago",
+      "color": "#000000"
+    },
+    "promdi": {
+      "name": "PROMDI",
+      "color": "#000040"
+    },
+    "prp": {
+      "name": "People's Reform Party",
+      "color": "#F08080"
+    },
+    "pusyon": {
+      "name": "Pusyon Bisaya",
+      "color": "#4C00B0"
+    },
+    "pvdm": {
+      "name": "People's (Veterans) Democratic Movement for Good Government",
+      "color": "#A0522D"
+    },
+    "reformph": {
+      "name": "Reform PH Party",
+      "color": "#800000"
+    },
+    "reporma": {
+      "name": "Partido para sa Demokratikong Reporma",
+      "color": "#CC0000"
+    },
+    "sectoral": {
+      "name": "Sectoral representatives",
+      "color": "#C0A060"
+    },
+    "sulong": {
+      "name": "Sulong Zambales Party",
+      "color": "#FF0000"
+    },
+    "tinig": {
+      "name": "Partido Tinig ng Masa",
+      "color": "#D2691E"
+    },
+    "ubp": {
+      "name": "United Benguet Party",
+      "color": "#BDB76B"
+    },
+    "una": {
+      "name": "United Nationalist Alliance",
+      "color": "#FE4D00"
+    },
+    "unaff": {
+      "name": "Unaffiliated",
+      "color": "#696969"
+    },
+    "unangsigaw": {
+      "name": "Unang Sigaw",
+      "color": "#000084"
+    },
+    "unegros": {
+      "name": "United Negros Alliance",
+      "color": "#043927"
+    },
+    "unido": {
+      "name": "United Nationalist Democratic Organization",
+      "color": "#FFFF00"
+    },
+    "uno": {
+      "name": "United Opposition",
+      "color": "#0000FF"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#76767B"
+    },
+    "wpp": {
+      "name": "Workers' and Peasants' Party",
+      "color": "#CD853F"
+    }
+  },
+  "elections": [
+    {
+      "id": "ph-president-2022",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2022-05-09",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 83.07,
+      "system": "Single-round popular vote, six-year term",
+      "cite": {
+        "name": "the Congress of the Philippines (national canvass)",
+        "url": "https://en.wikipedia.org/wiki/Template:2022_Philippine_presidential_election_results"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2022_Philippine_presidential_election",
+      "candidates": [
+        {
+          "name": "Bongbong Marcos",
+          "party": "pfp",
+          "votes": 31629783,
+          "pct": 58.77,
+          "winner": true
+        },
+        {
+          "name": "Leni Robredo",
+          "party": "indrobredo",
+          "votes": 15035773,
+          "pct": 27.94
+        },
+        {
+          "name": "Manny Pacquiao",
+          "party": "promdi",
+          "votes": 3663113,
+          "pct": 6.81
+        },
+        {
+          "name": "Isko Moreno",
+          "party": "aksyon",
+          "votes": 1933909,
+          "pct": 3.59
+        },
+        {
+          "name": "Panfilo Lacson",
+          "party": "indlacson",
+          "votes": 892375,
+          "pct": 1.66
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 660531,
+          "pct": 1.23
+        }
+      ],
+      "regions": [
+        {"name":"Bangsamoro","abbr":"BARMM","winner":"pfp","margin":6,"turnout":83.8,"votes":3132982,"results":[{"party":"pfp","pct":46,"votes":1441172},{"party":"indrobredo","pct":40,"votes":1253193},{"party":"promdi","pct":8.1,"votes":253772},{"party":"aksyon","pct":4.7,"votes":147250},{"party":"indlacson","pct":1.3,"votes":40729}]},
+        {"name":"Bicol","abbr":"V","winner":"indrobredo","margin":3,"turnout":88.4,"votes":3655153,"results":[{"party":"indrobredo","pct":48.2,"votes":1761784},{"party":"pfp","pct":45.2,"votes":1652129},{"party":"promdi","pct":2.9,"votes":105999},{"party":"aksyon","pct":2.5,"votes":91379},{"party":"indlacson","pct":1.2,"votes":43862}]},
+        {"name":"Cagayan Valley","abbr":"II","winner":"pfp","margin":36.5,"turnout":79,"votes":3449480,"results":[{"party":"pfp","pct":63.7,"votes":2197319},{"party":"indrobredo","pct":27.2,"votes":938259},{"party":"promdi","pct":5.8,"votes":200070},{"party":"aksyon","pct":2.2,"votes":75889},{"party":"indlacson","pct":1.1,"votes":37944}]},
+        {"name":"Calabarzon","abbr":"IVA","winner":"pfp","margin":35.6,"turnout":84.3,"votes":3654283,"results":[{"party":"pfp","pct":62.7,"votes":2291235},{"party":"indrobredo","pct":27.1,"votes":990311},{"party":"promdi","pct":6.7,"votes":244837},{"party":"aksyon","pct":2.1,"votes":76740},{"party":"indlacson","pct":1.5,"votes":54814}]},
+        {"name":"Caraga","abbr":"XIII","winner":"pfp","margin":20.2,"turnout":86.3,"votes":3576237,"results":[{"party":"pfp","pct":53.3,"votes":1906134},{"party":"indrobredo","pct":33.1,"votes":1183734},{"party":"promdi","pct":9.4,"votes":336166},{"party":"aksyon","pct":3,"votes":107287},{"party":"indlacson","pct":1.3,"votes":46491}]},
+        {"name":"Central Luzon","abbr":"III","winner":"pfp","margin":27.3,"turnout":88.2,"votes":3213725,"results":[{"party":"pfp","pct":56.3,"votes":1809327},{"party":"indrobredo","pct":29,"votes":931980},{"party":"promdi","pct":9.4,"votes":302090},{"party":"aksyon","pct":2.9,"votes":93198},{"party":"indlacson","pct":2.5,"votes":80343}]},
+        {"name":"Central Visayas","abbr":"VII","winner":"pfp","margin":35.3,"turnout":86,"votes":3255558,"results":[{"party":"pfp","pct":60.4,"votes":1966357},{"party":"indrobredo","pct":25.1,"votes":817145},{"party":"promdi","pct":7.8,"votes":253934},{"party":"aksyon","pct":4.6,"votes":149756},{"party":"indlacson","pct":2.1,"votes":68367}]},
+        {"name":"Cordillera","abbr":"CAR","winner":"pfp","margin":12,"turnout":82,"votes":2610568,"results":[{"party":"pfp","pct":48.9,"votes":1276568},{"party":"indrobredo","pct":36.9,"votes":963300},{"party":"promdi","pct":9.1,"votes":237562},{"party":"aksyon","pct":4,"votes":104423},{"party":"indlacson","pct":1.1,"votes":28716}]},
+        {"name":"Davao","abbr":"XI","winner":"pfp","margin":1.5,"turnout":81.2,"votes":3510983,"results":[{"party":"pfp","pct":45.5,"votes":1597497},{"party":"indrobredo","pct":44,"votes":1544833},{"party":"promdi","pct":6.7,"votes":235236},{"party":"aksyon","pct":2.4,"votes":84264},{"party":"indlacson","pct":1.4,"votes":49154}]},
+        {"name":"Eastern Visayas","abbr":"VIII","winner":"pfp","margin":23.1,"turnout":78.1,"votes":2594764,"results":[{"party":"pfp","pct":53.4,"votes":1385604},{"party":"indrobredo","pct":30.3,"votes":786213},{"party":"promdi","pct":9.7,"votes":251692},{"party":"aksyon","pct":4.1,"votes":106385},{"party":"indlacson","pct":2.5,"votes":64869}]},
+        {"name":"Ilocos","abbr":"I","winner":"pfp","margin":16.7,"turnout":78.2,"votes":3565422,"results":[{"party":"pfp","pct":52,"votes":1854019},{"party":"indrobredo","pct":35.3,"votes":1258594},{"party":"promdi","pct":6.8,"votes":242449},{"party":"aksyon","pct":4.7,"votes":167575},{"party":"indlacson","pct":1.2,"votes":42785}]},
+        {"name":"Metro Manila","abbr":"NCR","winner":"pfp","margin":33.1,"turnout":82.8,"votes":3130729,"results":[{"party":"pfp","pct":61.8,"votes":1934791},{"party":"indrobredo","pct":28.7,"votes":898519},{"party":"promdi","pct":4.3,"votes":134621},{"party":"aksyon","pct":4.3,"votes":134621},{"party":"indlacson","pct":0.8,"votes":25046}]},
+        {"name":"Mimaropa","abbr":"IVB","winner":"pfp","margin":26.2,"turnout":86.6,"votes":3375112,"results":[{"party":"pfp","pct":59.2,"votes":1998066},{"party":"indrobredo","pct":33,"votes":1113787},{"party":"promdi","pct":4.1,"votes":138380},{"party":"aksyon","pct":2.2,"votes":74252},{"party":"indlacson","pct":1.5,"votes":50627}]},
+        {"name":"Northern Mindanao","abbr":"X","winner":"pfp","margin":13.6,"turnout":85.2,"votes":3468933,"results":[{"party":"pfp","pct":51.1,"votes":1772625},{"party":"indrobredo","pct":37.5,"votes":1300850},{"party":"promdi","pct":6.6,"votes":228950},{"party":"aksyon","pct":2.7,"votes":93661},{"party":"indlacson","pct":2.2,"votes":76317}]},
+        {"name":"Soccsksargen","abbr":"XII","winner":"pfp","margin":37.5,"turnout":85.3,"votes":2949795,"results":[{"party":"pfp","pct":61.5,"votes":1814124},{"party":"indrobredo","pct":24,"votes":707951},{"party":"aksyon","pct":7.2,"votes":212385},{"party":"promdi","pct":5.8,"votes":171088},{"party":"indlacson","pct":1.5,"votes":44247}]},
+        {"name":"Western Visayas","abbr":"VI","winner":"indrobredo","margin":0.7,"turnout":88.2,"votes":3344812,"results":[{"party":"indrobredo","pct":44.2,"votes":1478407},{"party":"pfp","pct":43.5,"votes":1454993},{"party":"promdi","pct":5.7,"votes":190654},{"party":"aksyon","pct":4.1,"votes":137137},{"party":"indlacson","pct":2.6,"votes":86965}]},
+        {"name":"Zamboanga Peninsula","abbr":"IX","winner":"pfp","margin":58.5,"turnout":80.2,"votes":3161034,"results":[{"party":"pfp","pct":75.1,"votes":2373937},{"party":"indrobredo","pct":16.6,"votes":524732},{"party":"promdi","pct":3.9,"votes":123280},{"party":"aksyon","pct":2.7,"votes":85348},{"party":"indlacson","pct":1.8,"votes":56899}]}
+      ]
+    },
+    {
+      "id": "ph-senate-2025",
+      "office": "Senate",
+      "kind": "legislative",
+      "date": "2025-05-12",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 82.31,
+      "system": "24 seats · 12 contested, elected nationwide",
+      "totalSeats": 24,
+      "majority": 13,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Commission on Elections (COMELEC)",
+        "url": "https://en.wikipedia.org/wiki/2025_Philippine_Senate_election"
+      },
+      "candidates": [
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 100379540,
+          "pct": 23.43,
+          "seats": 6,
+          "change": 1
+        },
+        {
+          "name": "Nationalist People's Coalition",
+          "party": "npc",
+          "votes": 40035743,
+          "pct": 9.34,
+          "seats": 6,
+          "change": 1,
+          "winner": true
+        },
+        {
+          "name": "Nacionalista Party",
+          "party": "np",
+          "votes": 45513982,
+          "pct": 10.62,
+          "seats": 4,
+          "change": -1
+        },
+        {
+          "name": "PDP–Laban",
+          "party": "pdplaban",
+          "votes": 84607405,
+          "pct": 19.75,
+          "seats": 3,
+          "change": 0
+        },
+        {
+          "name": "Lakas–CMD",
+          "party": "lakas",
+          "votes": 29146726,
+          "pct": 6.8,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Katipunan ng Nagkakaisang Pilipino",
+          "party": "knpil",
+          "votes": 20971899,
+          "pct": 4.89,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 15343229,
+          "pct": 3.58,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Akbayan",
+          "party": "akbayan",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Pwersa ng Masang Pilipino",
+          "party": "pmp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Partido Federal ng Pilipinas",
+          "party": "pfp",
+          "votes": 29680203,
+          "pct": 6.93,
+          "seats": 0,
+          "change": -1
+        },
+        {
+          "name": "Makabayan",
+          "party": "makabayan",
+          "votes": 28001064,
+          "pct": 6.53,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Partido Lakas ng Masa",
+          "party": "plm",
+          "votes": 10618312,
+          "pct": 2.48,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Aksyon Demokratiko",
+          "party": "aksyon",
+          "votes": 7959042,
+          "pct": 1.86,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Reform PH Party",
+          "party": "reformph",
+          "votes": 6700772,
+          "pct": 1.56,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Workers' and Peasants' Party",
+          "party": "wpp",
+          "votes": 4279819,
+          "pct": 1,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 5251879,
+          "pct": 1.23,
+          "seats": 0,
+          "change": -1
+        }
+      ],
+      "regions": [
+        {"name":"Bangsamoro","abbr":"BARMM","winner":"ind","margin":19,"turnout":75.5,"votes":28908752,"results":[{"party":"ind","pct":42,"votes":12141676},{"party":"np","pct":23,"votes":6649013},{"party":"pdplaban","pct":17.9,"votes":5174667},{"party":"npc","pct":9.7,"votes":2804149},{"party":"pfp","pct":7.4,"votes":2139248}]},
+        {"name":"Bicol","abbr":"V","winner":"pdplaban","margin":7.5,"turnout":83.1,"votes":21733745,"results":[{"party":"pdplaban","pct":38.7,"votes":8410959},{"party":"ind","pct":31.2,"votes":6780928},{"party":"np","pct":13.1,"votes":2847121},{"party":"npc","pct":11,"votes":2390712},{"party":"pfp","pct":6,"votes":1304025}]},
+        {"name":"Cagayan Valley","abbr":"II","winner":"ind","margin":11.7,"turnout":84.4,"votes":22008291,"results":[{"party":"ind","pct":35.5,"votes":7812943},{"party":"pdplaban","pct":23.8,"votes":5237973},{"party":"np","pct":19.6,"votes":4313625},{"party":"npc","pct":12.7,"votes":2795053},{"party":"pfp","pct":8.3,"votes":1826688}]},
+        {"name":"Calabarzon","abbr":"IVA","winner":"ind","margin":18.2,"turnout":87.7,"votes":22775170,"results":[{"party":"ind","pct":37.6,"votes":8563464},{"party":"pdplaban","pct":19.4,"votes":4418383},{"party":"npc","pct":18.7,"votes":4258957},{"party":"np","pct":17.8,"votes":4053980},{"party":"pfp","pct":6.4,"votes":1457611}]},
+        {"name":"Caraga","abbr":"XIII","winner":"ind","margin":20.6,"turnout":77.4,"votes":24889862,"results":[{"party":"ind","pct":42.7,"votes":10627971},{"party":"pdplaban","pct":22.1,"votes":5500660},{"party":"np","pct":19.6,"votes":4878413},{"party":"pfp","pct":8.4,"votes":2090748},{"party":"npc","pct":7.2,"votes":1792070}]},
+        {"name":"Central Luzon","abbr":"III","winner":"pdplaban","margin":15.4,"turnout":84.5,"votes":23195963,"results":[{"party":"pdplaban","pct":35,"votes":8118587},{"party":"np","pct":19.6,"votes":4546409},{"party":"ind","pct":19.4,"votes":4500017},{"party":"npc","pct":14.9,"votes":3456198},{"party":"pfp","pct":11,"votes":2551556}]},
+        {"name":"Central Visayas","abbr":"VII","winner":"pdplaban","margin":8.3,"turnout":77.5,"votes":26201842,"results":[{"party":"pdplaban","pct":41.8,"votes":10952370},{"party":"ind","pct":33.5,"votes":8777617},{"party":"np","pct":10.6,"votes":2777395},{"party":"npc","pct":7.8,"votes":2043744},{"party":"pfp","pct":6.3,"votes":1650716}]},
+        {"name":"Cordillera","abbr":"CAR","winner":"ind","margin":16,"turnout":81.2,"votes":23052275,"results":[{"party":"ind","pct":34.1,"votes":7860826},{"party":"pdplaban","pct":18.1,"votes":4172462},{"party":"np","pct":17.5,"votes":4034148},{"party":"npc","pct":16.9,"votes":3895834},{"party":"pfp","pct":13.4,"votes":3089005}]},
+        {"name":"Davao","abbr":"XI","winner":"ind","margin":33,"turnout":82.7,"votes":24522330,"results":[{"party":"ind","pct":52.7,"votes":12923268},{"party":"pdplaban","pct":19.7,"votes":4830899},{"party":"npc","pct":13.3,"votes":3261470},{"party":"np","pct":8.8,"votes":2157965},{"party":"pfp","pct":5.4,"votes":1324206}]},
+        {"name":"Eastern Visayas","abbr":"VIII","winner":"ind","margin":6.8,"turnout":78,"votes":22429489,"results":[{"party":"ind","pct":39.5,"votes":8859648},{"party":"pdplaban","pct":32.7,"votes":7334443},{"party":"np","pct":10.5,"votes":2355096},{"party":"pfp","pct":10,"votes":2242949},{"party":"npc","pct":7.3,"votes":1637353}]},
+        {"name":"Ilocos","abbr":"I","winner":"pdplaban","margin":1.2,"turnout":77.3,"votes":27451297,"results":[{"party":"pdplaban","pct":30.5,"votes":8372646},{"party":"ind","pct":29.3,"votes":8043230},{"party":"npc","pct":17.6,"votes":4831428},{"party":"pfp","pct":13.2,"votes":3623571},{"party":"np","pct":9.4,"votes":2580422}]},
+        {"name":"Metro Manila","abbr":"NCR","winner":"ind","margin":29.1,"turnout":85.2,"votes":28211529,"results":[{"party":"ind","pct":47.3,"votes":13344053},{"party":"np","pct":18.2,"votes":5134498},{"party":"pdplaban","pct":16.8,"votes":4739537},{"party":"pfp","pct":10.6,"votes":2990422},{"party":"npc","pct":7,"votes":1974807}]},
+        {"name":"Mimaropa","abbr":"IVB","winner":"ind","margin":6.7,"turnout":80.2,"votes":20828389,"results":[{"party":"ind","pct":29.2,"votes":6081890},{"party":"pdplaban","pct":22.5,"votes":4686388},{"party":"np","pct":21.3,"votes":4436447},{"party":"npc","pct":19.1,"votes":3978222},{"party":"pfp","pct":7.9,"votes":1645443}]},
+        {"name":"Northern Mindanao","abbr":"X","winner":"ind","margin":1.8,"turnout":84.6,"votes":22155939,"results":[{"party":"ind","pct":28.2,"votes":6247975},{"party":"pdplaban","pct":26.4,"votes":5849168},{"party":"np","pct":18.9,"votes":4187472},{"party":"npc","pct":18,"votes":3988069},{"party":"pfp","pct":8.6,"votes":1905411}]},
+        {"name":"Soccsksargen","abbr":"XII","winner":"ind","margin":10.5,"turnout":88.3,"votes":30064244,"results":[{"party":"ind","pct":33.4,"votes":10041457},{"party":"pdplaban","pct":22.9,"votes":6884712},{"party":"np","pct":20.2,"votes":6072977},{"party":"npc","pct":12.7,"votes":3818159},{"party":"pfp","pct":10.8,"votes":3246938}]},
+        {"name":"Western Visayas","abbr":"VI","winner":"pdplaban","margin":13.5,"turnout":84.7,"votes":27421640,"results":[{"party":"pdplaban","pct":34.2,"votes":9378201},{"party":"ind","pct":20.7,"votes":5676279},{"party":"np","pct":18,"votes":4935895},{"party":"pfp","pct":14.5,"votes":3976138},{"party":"npc","pct":12.7,"votes":3482548}]},
+        {"name":"Zamboanga Peninsula","abbr":"IX","winner":"pdplaban","margin":11.6,"turnout":77.6,"votes":28792431,"results":[{"party":"pdplaban","pct":36.7,"votes":10566822},{"party":"ind","pct":25.1,"votes":7226900},{"party":"np","pct":14.7,"votes":4232487},{"party":"npc","pct":14.2,"votes":4088525},{"party":"pfp","pct":9.4,"votes":2706489}]}
+      ]
+    },
+    {
+      "id": "ph-house-2025",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2025-05-12",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 83.4,
+      "system": "318 seats: districts and party lists",
+      "totalSeats": 318,
+      "majority": 160,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Commission on Elections (COMELEC)",
+        "url": "https://en.wikipedia.org/wiki/Template:2025_Philippine_House_election_results"
+      },
+      "candidates": [
+        {
+          "name": "Lakas–CMD",
+          "party": "lakas",
+          "votes": 16596698,
+          "pct": 32.87,
+          "seats": 103,
+          "change": 77,
+          "winner": true
+        },
+        {
+          "name": "Party-list seats",
+          "party": "partylist",
+          "votes": null,
+          "pct": null,
+          "seats": 64,
+          "change": 1
+        },
+        {
+          "name": "National Unity Party",
+          "party": "nup",
+          "votes": 6080987,
+          "pct": 12.05,
+          "seats": 32,
+          "change": -1
+        },
+        {
+          "name": "Nationalist People's Coalition",
+          "party": "npc",
+          "votes": 5974201,
+          "pct": 11.83,
+          "seats": 31,
+          "change": -4
+        },
+        {
+          "name": "Partido Federal ng Pilipinas",
+          "party": "pfp",
+          "votes": 5286538,
+          "pct": 10.47,
+          "seats": 27,
+          "change": 25
+        },
+        {
+          "name": "Nacionalista Party",
+          "party": "np",
+          "votes": 4724803,
+          "pct": 9.36,
+          "seats": 22,
+          "change": -14
+        },
+        {
+          "name": "Independent",
+          "party": "ind",
+          "votes": 4371611,
+          "pct": 8.66,
+          "seats": 11,
+          "change": 5
+        },
+        {
+          "name": "Liberal Party",
+          "party": "lp",
+          "votes": 1555941,
+          "pct": 3.08,
+          "seats": 6,
+          "change": -4
+        },
+        {
+          "name": "Hugpong sa Tawong Lungsod",
+          "party": "hugpong",
+          "votes": 542710,
+          "pct": 1.07,
+          "seats": 3,
+          "change": 3
+        },
+        {
+          "name": "Aksyon Demokratiko",
+          "party": "aksyon",
+          "votes": 1341540,
+          "pct": 2.66,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "PDP–Laban",
+          "party": "pdplaban",
+          "votes": 666067,
+          "pct": 1.32,
+          "seats": 2,
+          "change": -64
+        },
+        {
+          "name": "Laban ng Demokratikong Pilipino",
+          "party": "ldp",
+          "votes": 314981,
+          "pct": 0.62,
+          "seats": 2,
+          "change": 1
+        },
+        {
+          "name": "Pwersa ng Masang Pilipino",
+          "party": "pmp",
+          "votes": 269949,
+          "pct": 0.53,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "Makatizens United Party",
+          "party": "makatizens",
+          "votes": 150189,
+          "pct": 0.3,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "People's Reform Party",
+          "party": "prp",
+          "votes": 292665,
+          "pct": 0.58,
+          "seats": 1,
+          "change": -2
+        },
+        {
+          "name": "United Nationalist Alliance",
+          "party": "una",
+          "votes": 142655,
+          "pct": 0.28,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Centrist Democratic Party of the Philippines",
+          "party": "cdp",
+          "votes": 127646,
+          "pct": 0.25,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Partido Navoteño",
+          "party": "navoteno",
+          "votes": 116622,
+          "pct": 0.23,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Adelante Zamboanga Party",
+          "party": "adelante",
+          "votes": 100035,
+          "pct": 0.2,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Asenso Manileño",
+          "party": "asensomnl",
+          "votes": 70780,
+          "pct": 0.14,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 1758526,
+          "pct": 3.48,
+          "seats": 3,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Bangsamoro","abbr":"BARMM","winner":"lakas","margin":20,"turnout":80.4,"votes":2567695,"results":[{"party":"lakas","pct":39.1,"votes":1003969},{"party":"npc","pct":19.1,"votes":490430},{"party":"pfp","pct":17.7,"votes":454482},{"party":"np","pct":16.7,"votes":428805},{"party":"nup","pct":7.4,"votes":190009}]},
+        {"name":"Bicol","abbr":"V","winner":"lakas","margin":15.8,"turnout":81.7,"votes":2866335,"results":[{"party":"lakas","pct":37.5,"votes":1074876},{"party":"nup","pct":21.7,"votes":621995},{"party":"npc","pct":18.4,"votes":527406},{"party":"np","pct":14.7,"votes":421351},{"party":"pfp","pct":7.7,"votes":220708}]},
+        {"name":"Cagayan Valley","abbr":"II","winner":"lakas","margin":1.1,"turnout":83.3,"votes":3465937,"results":[{"party":"lakas","pct":23,"votes":797166},{"party":"nup","pct":21.9,"votes":759040},{"party":"npc","pct":19.9,"votes":689721},{"party":"np","pct":18,"votes":623869},{"party":"pfp","pct":17.2,"votes":596141}]},
+        {"name":"Calabarzon","abbr":"IVA","winner":"lakas","margin":14.8,"turnout":86.5,"votes":2559181,"results":[{"party":"lakas","pct":39.1,"votes":1000640},{"party":"nup","pct":24.3,"votes":621881},{"party":"npc","pct":16.2,"votes":414587},{"party":"pfp","pct":12.3,"votes":314779},{"party":"np","pct":8.1,"votes":207294}]},
+        {"name":"Caraga","abbr":"XIII","winner":"lakas","margin":29.6,"turnout":82.5,"votes":3017490,"results":[{"party":"lakas","pct":46.2,"votes":1394080},{"party":"pfp","pct":16.6,"votes":500903},{"party":"nup","pct":13.4,"votes":404344},{"party":"npc","pct":13.1,"votes":395291},{"party":"np","pct":10.8,"votes":325889}]},
+        {"name":"Central Luzon","abbr":"III","winner":"lakas","margin":5.9,"turnout":76.7,"votes":2426750,"results":[{"party":"lakas","pct":29.7,"votes":720745},{"party":"nup","pct":23.8,"votes":577567},{"party":"npc","pct":23.8,"votes":577567},{"party":"np","pct":12.1,"votes":293637},{"party":"pfp","pct":10.6,"votes":257236}]},
+        {"name":"Central Visayas","abbr":"VII","winner":"lakas","margin":16.5,"turnout":86,"votes":3140795,"results":[{"party":"lakas","pct":36.1,"votes":1133827},{"party":"nup","pct":19.6,"votes":615596},{"party":"np","pct":17.1,"votes":537076},{"party":"npc","pct":16.4,"votes":515090},{"party":"pfp","pct":10.9,"votes":342347}]},
+        {"name":"Cordillera","abbr":"CAR","winner":"lakas","margin":46.7,"turnout":81.5,"votes":3106655,"results":[{"party":"lakas","pct":58.7,"votes":1823606},{"party":"npc","pct":12,"votes":372799},{"party":"nup","pct":10,"votes":310666},{"party":"np","pct":9.8,"votes":304452},{"party":"pfp","pct":9.5,"votes":295132}]},
+        {"name":"Davao","abbr":"XI","winner":"lakas","margin":39.7,"turnout":89,"votes":3445671,"results":[{"party":"lakas","pct":53.8,"votes":1853771},{"party":"np","pct":14.1,"votes":485840},{"party":"pfp","pct":13.9,"votes":478948},{"party":"npc","pct":10.6,"votes":365241},{"party":"nup","pct":7.6,"votes":261871}]},
+        {"name":"Eastern Visayas","abbr":"VIII","winner":"lakas","margin":32.4,"turnout":82.4,"votes":3052969,"results":[{"party":"lakas","pct":50,"votes":1526485},{"party":"npc","pct":17.6,"votes":537323},{"party":"pfp","pct":14.2,"votes":433522},{"party":"nup","pct":10.1,"votes":308350},{"party":"np","pct":8.1,"votes":247290}]},
+        {"name":"Ilocos","abbr":"I","winner":"lakas","margin":27.4,"turnout":82.5,"votes":3134113,"results":[{"party":"lakas","pct":43.7,"votes":1369607},{"party":"pfp","pct":16.3,"votes":510860},{"party":"npc","pct":15.5,"votes":485788},{"party":"np","pct":13.6,"votes":426239},{"party":"nup","pct":10.9,"votes":341618}]},
+        {"name":"Metro Manila","abbr":"NCR","winner":"lakas","margin":33.4,"turnout":77.8,"votes":3254843,"results":[{"party":"lakas","pct":53.2,"votes":1731576},{"party":"nup","pct":19.8,"votes":644459},{"party":"pfp","pct":10.4,"votes":338504},{"party":"npc","pct":10.1,"votes":328739},{"party":"np","pct":6.5,"votes":211565}]},
+        {"name":"Mimaropa","abbr":"IVB","winner":"lakas","margin":32,"turnout":86.1,"votes":3169028,"results":[{"party":"lakas","pct":48.2,"votes":1527471},{"party":"np","pct":16.2,"votes":513383},{"party":"npc","pct":14.1,"votes":446833},{"party":"nup","pct":11.8,"votes":373945},{"party":"pfp","pct":9.6,"votes":304227}]},
+        {"name":"Northern Mindanao","abbr":"X","winner":"lakas","margin":4.6,"turnout":89.8,"votes":2707933,"results":[{"party":"lakas","pct":28.1,"votes":760929},{"party":"nup","pct":23.5,"votes":636364},{"party":"npc","pct":21,"votes":568666},{"party":"pfp","pct":19.9,"votes":538879},{"party":"np","pct":7.4,"votes":200387}]},
+        {"name":"Soccsksargen","abbr":"XII","winner":"lakas","margin":29.7,"turnout":86.9,"votes":3118718,"results":[{"party":"lakas","pct":46.9,"votes":1462679},{"party":"nup","pct":17.2,"votes":536419},{"party":"np","pct":14.5,"votes":452214},{"party":"pfp","pct":12.3,"votes":383602},{"party":"npc","pct":9.2,"votes":286922}]},
+        {"name":"Western Visayas","abbr":"VI","winner":"lakas","margin":22.7,"turnout":89.7,"votes":3066235,"results":[{"party":"lakas","pct":41.8,"votes":1281686},{"party":"np","pct":19.1,"votes":585651},{"party":"npc","pct":17.5,"votes":536591},{"party":"nup","pct":12.5,"votes":383279},{"party":"pfp","pct":9.1,"votes":279027}]},
+        {"name":"Zamboanga Peninsula","abbr":"IX","winner":"lakas","margin":21.7,"turnout":79.3,"votes":3352973,"results":[{"party":"lakas","pct":38.8,"votes":1300954},{"party":"npc","pct":17.1,"votes":573358},{"party":"pfp","pct":16.2,"votes":543182},{"party":"np","pct":15.9,"votes":533123},{"party":"nup","pct":11.9,"votes":399004}]}
+      ]
+    }
+  ]
+}

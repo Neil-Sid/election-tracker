@@ -557,6 +557,48 @@
         "regions"
       ],
       "history": true
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "atlasId": "643",
+      "marker": [
+        96,
+        62
+      ],
+      "view": {
+        "center": [
+          100,
+          64
+        ],
+        "span": 38
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "atlasId": "608",
+      "marker": [
+        121.8,
+        13
+      ],
+      "view": {
+        "center": [
+          122,
+          12.5
+        ],
+        "span": 9
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
     }
   ]
 }
