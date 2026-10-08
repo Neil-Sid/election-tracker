@@ -360,7 +360,12 @@
         {"name":"Namur","abbr":"WNA","winner":"le","margin":14.2,"turnout":94,"votes":678875,"results":[{"party":"le","pct":44.2,"votes":300063},{"party":"mr","pct":30,"votes":203663},{"party":"ps","pct":13.1,"votes":88933},{"party":"pvda","pct":6.9,"votes":46842},{"party":"ecolo","pct":5.7,"votes":38696}]},
         {"name":"Walloon Brabant","abbr":"WBR","winner":"ps","margin":1.3,"turnout":94.6,"votes":540724,"results":[{"party":"ps","pct":34.6,"votes":187091},{"party":"mr","pct":33.3,"votes":180061},{"party":"pvda","pct":15.3,"votes":82731},{"party":"le","pct":10.9,"votes":58939},{"party":"ecolo","pct":5.8,"votes":31362}]},
         {"name":"West Flanders","abbr":"VWV","winner":"vb","margin":16.2,"turnout":84.3,"votes":624301,"results":[{"party":"vb","pct":39.9,"votes":249096},{"party":"nva","pct":23.7,"votes":147959},{"party":"cdv","pct":17.1,"votes":106755},{"party":"vooruit","pct":11.8,"votes":73668},{"party":"ovld","pct":7.3,"votes":45574}]}
-      ]
+      ],
+      "statesFrom": "https://en.wikipedia.org/wiki/Category:Constituencies_of_the_Chamber_of_Representatives_(Belgium)",
+      "statesSourced": {
+        "n": 9,
+        "of": 11
+      }
     }
   ]
 }

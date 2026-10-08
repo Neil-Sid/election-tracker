@@ -292,7 +292,12 @@
         {"name":"Southern Savonia","abbr":"04","winner":"ps","margin":3.9,"turnout":72.8,"votes":147894,"results":[{"party":"ps","pct":34.5,"votes":51023},{"party":"sdp","pct":30.6,"votes":45256},{"party":"kok","pct":18.8,"votes":27804},{"party":"kesk","pct":8.8,"votes":13015},{"party":"vas","pct":7.3,"votes":10796}]},
         {"name":"Tavastia Proper","abbr":"06","winner":"ps","margin":11.8,"turnout":71.8,"votes":202684,"results":[{"party":"ps","pct":33.5,"votes":67899},{"party":"kok","pct":21.7,"votes":43982},{"party":"kesk","pct":19.9,"votes":40334},{"party":"sdp","pct":15.8,"votes":32024},{"party":"vas","pct":9,"votes":18242}]},
         {"name":"Uusimaa","abbr":"18","winner":"kok","margin":2.1,"turnout":74.2,"votes":149270,"results":[{"party":"kok","pct":29.7,"votes":44333},{"party":"sdp","pct":27.6,"votes":41199},{"party":"kesk","pct":16.2,"votes":24182},{"party":"ps","pct":15.7,"votes":23435},{"party":"vas","pct":10.9,"votes":16270}]}
-      ]
+      ],
+      "statesFrom": "https://en.wikipedia.org/wiki/Electoral_districts_of_Finland",
+      "statesSourced": {
+        "n": 6,
+        "of": 18
+      }
     },
     {
       "id": "fi-president-2024",

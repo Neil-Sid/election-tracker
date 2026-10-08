@@ -645,7 +645,12 @@
             {"name":"Ucayali","abbr":"UCA","winner":"fp","margin":24.8,"turnout":68.7,"votes":699625,"results":[{"party":"fp","pct":62.4,"votes":436566},{"party":"jp","pct":37.6,"votes":263059}]}
           ]
         }
-      ]
+      ],
+      "statesFrom": "https://en.wikipedia.org/wiki/2026_Peruvian_general_election",
+      "statesSourced": {
+        "n": 24,
+        "of": 26
+      }
     },
     {
       "id": "pe-senate-2026",

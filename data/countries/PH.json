@@ -880,7 +880,12 @@
         {"name":"Soccsksargen","abbr":"XII","winner":"lakas","margin":29.7,"turnout":86.9,"votes":3118718,"results":[{"party":"lakas","pct":46.9,"votes":1462679},{"party":"nup","pct":17.2,"votes":536419},{"party":"np","pct":14.5,"votes":452214},{"party":"pfp","pct":12.3,"votes":383602},{"party":"npc","pct":9.2,"votes":286922}]},
         {"name":"Western Visayas","abbr":"VI","winner":"lakas","margin":22.7,"turnout":89.7,"votes":3066235,"results":[{"party":"lakas","pct":41.8,"votes":1281686},{"party":"np","pct":19.1,"votes":585651},{"party":"npc","pct":17.5,"votes":536591},{"party":"nup","pct":12.5,"votes":383279},{"party":"pfp","pct":9.1,"votes":279027}]},
         {"name":"Zamboanga Peninsula","abbr":"IX","winner":"lakas","margin":21.7,"turnout":79.3,"votes":3352973,"results":[{"party":"lakas","pct":38.8,"votes":1300954},{"party":"npc","pct":17.1,"votes":573358},{"party":"pfp","pct":16.2,"votes":543182},{"party":"np","pct":15.9,"votes":533123},{"party":"nup","pct":11.9,"votes":399004}]}
-      ]
+      ],
+      "statesFrom": "https://en.wikipedia.org/wiki/2025_Philippine_House_of_Representatives_elections",
+      "statesSourced": {
+        "n": 10,
+        "of": 17
+      }
     }
   ]
 }
