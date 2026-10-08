@@ -179,9 +179,12 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     renderExtras();
     const el = current();
     const asOf = !picked && ctx.index.asOf ? ` Results as of ${fmtFullDate(ctx.index.asOf)}.` : '';
-    fineprint.textContent = el.cite
+    // The boundary licences ask for credit wherever the maps are shown.
+    const boundaries = ctx.sources?.countries?.[meta.code]?.boundaries;
+    const credits = [boundaries && `Map: ${boundaries.name} (${boundaries.licence}).`, ctx.sources?.maps].filter(Boolean).join(' ');
+    fineprint.textContent = (el.cite
       ? `National results from ${el.cite.name}, via Wikipedia. ${el.statesFrom ? `Winners by ${term} are sourced; their shares are illustrative.` : `Results by ${term} are illustrative.`}${asOf}`
-      : 'Sample data for layout. Results are not real.';
+      : 'Sample data for layout. Results are not real.') + (credits ? ` ${credits}` : '');
   }
 
   // One button per election of this office, oldest first, under a bar in the
@@ -564,8 +567,6 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
 
     const pollFrom = poll ? new Date(poll.series[0].points[0][0]).toLocaleDateString('en-GB', { day: 'numeric', month: 'long' }) : '';
 
-    const src = ctx.sources?.countries?.[meta.code];
-    const access = { public: 'Public feed', registration: 'Feed with registration', licensed: 'Licensed feed', none: 'No official live feed', varies: 'Varies by state' };
     extrasEl.innerHTML = `
       ${poll ? `
         <section class="block">
@@ -589,20 +590,6 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
           <h2 class="block-title">How it works</h2>
           ${about.offices?.[office] ? `<p class="prose">${about.offices[office]}</p>` : ''}
           <dl class="spec">${spec.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
-        </section>` : ''}
-      ${src ? `
-        <section class="block">
-          <h2 class="block-title">Results and calls</h2>
-          <dl class="spec">
-            <div><dt>Source</dt><dd><a href="${src.url}" target="_blank" rel="noopener">${src.name}</a></dd></div>
-            <div><dt>Role</dt><dd>${src.role}</dd></div>
-            <div><dt>Access</dt><dd>${access[src.access] ?? src.access}</dd></div>
-            <div><dt>In this tracker</dt><dd>Not connected, sample data</dd></div>
-            ${src.boundaries ? `<div><dt>Boundaries</dt><dd><a href="${src.boundaries.url}" target="_blank" rel="noopener">${src.boundaries.name}</a> · ${src.boundaries.licence}</dd></div>` : ''}
-          </dl>
-          <p class="note">${src.note}</p>
-          ${src.boundaries?.note ? `<p class="note">${src.boundaries.note}</p>` : ''}
-          ${ctx.sources.maps ? `<p class="note">${ctx.sources.maps}</p>` : ''}
         </section>` : ''}
       ${upcoming.length ? `
         <section class="block">
