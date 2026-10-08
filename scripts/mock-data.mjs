@@ -447,7 +447,7 @@ for (const code of CODES) {
   }
 
   const { name, subtitle, parties, elections } = country;
-  const out = { code, name, subtitle, about: ABOUT[code], parties, elections, ...(country.polls?.some(p => p.source) ? { polls: country.polls } : {}) };
+  const out = { code, name, subtitle, about: ABOUT[code] ?? country.about, parties, elections, ...(country.polls?.some(p => p.source) ? { polls: country.polls } : {}) };
   await writeFile(file, countryJSON(out));
   const regions = elections.reduce((n, e) => n + (e.regions?.length ?? 0), 0);
   console.log(`${code}: ${elections.length} elections, ${regions} region results`);

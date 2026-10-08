@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 // Builds data/regions.topo.json, the state/province shapes drawn on the globe.
-// Source: Natural Earth 10m admin-1 (public domain), e.g.
-//   https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_1_states_provinces.geojson
+// Source: Natural Earth 10m admin-1 with lakes cut out (public domain), e.g.
+//   https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_1_states_provinces_lakes.geojson
 //
-//   node scripts/build-regions.mjs path/to/ne_10m_admin_1_states_provinces.geojson [--replace=IE=path]
+//   node scripts/build-regions.mjs path/to/ne_10m_admin_1_states_provinces_lakes.geojson [--replace=IE=path]
 //
 // --replace swaps a country's Natural Earth regions for another boundary file
 // where results are counted in different units (Ireland counts by Dáil
@@ -25,7 +25,7 @@ const replacements = Object.fromEntries(process.argv.slice(3)
   .filter(a => a.startsWith('--replace='))
   .map(a => a.slice('--replace='.length).split(/=(.*)/s).slice(0, 2)));
 if (!src) {
-  console.error('Usage: node scripts/build-regions.mjs <ne_10m_admin_1_states_provinces.geojson>');
+  console.error('Usage: node scripts/build-regions.mjs <ne_10m_admin_1_states_provinces_lakes.geojson>');
   process.exit(1);
 }
 
@@ -56,6 +56,41 @@ const IT = {
   Abruzzo: ['ABR', 'Abruzzo'], Molise: ['MOL', 'Molise'], Apulia: ['PUG', 'Apulia'], Basilicata: ['BAS', 'Basilicata'],
   Calabria: ['CAL', 'Calabria'], Campania: ['CAM', 'Campania'], Lazio: ['LAZ', 'Lazio'], Toscana: ['TOS', 'Tuscany'],
   Sicily: ['SIC', 'Sicily'], Sardegna: ['SAR', 'Sardinia'], Umbria: ['UMB', 'Umbria']
+};
+
+// The Philippines' provinces and cities, merged into its regions.
+const PH = {
+  'National Capital Region': ['NCR', 'Metro Manila'], 'Cordillera Administrative Region (CAR)': ['CAR', 'Cordillera'],
+  'Ilocos (Region I)': ['I', 'Ilocos'], 'Cagayan Valley (Region II)': ['II', 'Cagayan Valley'], 'Central Luzon (Region III)': ['III', 'Central Luzon'],
+  'CALABARZON (Region IV-A)': ['IVA', 'Calabarzon'], 'MIMAROPA (Region IV-B)': ['IVB', 'Mimaropa'], 'Bicol (Region V)': ['V', 'Bicol'],
+  'Western Visayas (Region VI)': ['VI', 'Western Visayas'], 'Central Visayas (Region VII)': ['VII', 'Central Visayas'],
+  'Eastern Visayas (Region VIII)': ['VIII', 'Eastern Visayas'], 'Zamboanga Peninsula (Region IX)': ['IX', 'Zamboanga Peninsula'],
+  'Northern Mindanao (Region X)': ['X', 'Northern Mindanao'], 'Davao (Region XI)': ['XI', 'Davao'], 'SOCCSKSARGEN (Region XII)': ['XII', 'Soccsksargen'],
+  'Dinagat Islands (Region XIII)': ['XIII', 'Caraga'], 'Autonomous Region in Muslim Mindanao (ARMM)': ['BARMM', 'Bangsamoro']
+};
+
+// Russia's federal subjects. Natural Earth files Crimea and Sevastopol under
+// Russia; they are left off as Ukrainian territory. It also swaps the codes of
+// Moscow city and Moscow Oblast.
+const RU_NAMES = {
+  MOW: 'Moscow', MOS: 'Moscow Oblast', SPE: 'Saint Petersburg', ALT: 'Altai Krai', AL: 'Altai Republic', MAG: 'Magadan',
+  YEV: 'Jewish Autonomous Oblast', SE: 'North Ossetia–Alania', CE: 'Chechnya', ZAB: 'Zabaykalsky Krai'
+};
+const RU = p => {
+  if (!p.iso_3166_2.startsWith('RU-') || p.iso_3166_2.includes('~')) return ['RU', null];
+  const abbr = { Moskva: 'MOW', Moskovskaya: 'MOS' }[p.name] ?? iso(p);
+  return ['RU', abbr, RU_NAMES[abbr] ?? p.name_en ?? p.name];
+};
+
+// Hungary's cities with county rights, folded into their counties.
+const HU_CITY = {
+  BC: 'BE', DE: 'HB', DU: 'FE', ED: 'PE', EG: 'HE', GY: 'GS', HV: 'CS', KM: 'BK', KV: 'SO', MI: 'BZ', NK: 'ZA', NY: 'SZ',
+  PS: 'BA', SD: 'CS', SF: 'FE', SH: 'VA', SK: 'JN', SN: 'GS', SS: 'TO', ST: 'NO', TB: 'KE', VM: 'VE', ZE: 'ZA'
+};
+const HU_NAMES = {
+  BA: 'Baranya', BE: 'Békés', BK: 'Bács-Kiskun', BU: 'Budapest', BZ: 'Borsod-Abaúj-Zemplén', CS: 'Csongrád-Csanád', FE: 'Fejér',
+  GS: 'Győr-Moson-Sopron', HB: 'Hajdú-Bihar', HE: 'Heves', JN: 'Jász-Nagykun-Szolnok', KE: 'Komárom-Esztergom', NO: 'Nógrád',
+  PE: 'Pest', SO: 'Somogy', SZ: 'Szabolcs-Szatmár-Bereg', TO: 'Tolna', VA: 'Vas', VE: 'Veszprém', ZA: 'Zala'
 };
 
 // Natural Earth spells some names without diacritics or with typos.
@@ -96,7 +131,28 @@ const KEY = {
   NLD: p => ['NL', /^[A-Z]{2}$/.test(iso(p)) ? iso(p) : null, p.name],
   SWE: own('SE'),
   PRT: own('PT'),
-  AUT: own('AT')
+  AUT: own('AT'),
+  RUS: RU,
+  // Norway's 19 old counties are still its Storting constituencies.
+  NOR: p => ['NO', /^NO-\d+$/.test(p.iso_3166_2) && p.iso_3166_2 !== 'NO-21' ? iso(p) : null, p.name],
+  BOL: p => ['BO', iso(p), p.name_en ?? p.name],
+  // Lima Province (the capital) and Lima Region share a code in Natural Earth.
+  PER: p => ['PE', p.name === 'Lima Province' ? 'LMA' : iso(p), p.name === 'Lima Province' ? 'Lima Metropolitan' : p.name],
+  // Bogotá is filed under Cundinamarca's code.
+  COL: p => ['CO', p.name === 'Bogota' ? 'DC' : p.iso_3166_2.includes('~') ? null : iso(p), p.name === 'Bogota' ? 'Bogotá' : p.name],
+  CHL: p => ['CL', iso(p), { MA: 'Magallanes', RM: 'Santiago Metropolitan' }[iso(p)] ?? p.name_en ?? p.name],
+  PHL: merged('PH', PH, 'region'),
+  CZE: p => ['CZ', iso(p), { PL: 'Plzeň' }[iso(p)] ?? p.name_en ?? p.name],
+  SVK: p => ['SK', iso(p), p.name_en ?? p.name],
+  HUN: p => ['HU', HU_CITY[iso(p)] ?? iso(p), HU_NAMES[HU_CITY[iso(p)] ?? iso(p)]],
+  ROU: p => ['RO', iso(p), p.name_en ?? p.name],
+  // The 13 regions; Mount Athos is self-governing and elects no one.
+  GRC: p => ['GR', iso(p) === '69' ? null : iso(p), { B: 'Central Macedonia', E: 'Thessaly' }[iso(p)] ?? p.name_en ?? p.name],
+  BEL: p => ['BE', iso(p), { BRU: 'Brussels' }[iso(p)] ?? p.name_en ?? p.name],
+  DNK: p => ['DK', iso(p), { 84: 'Capital Region' }[iso(p)] ?? p.name_en ?? p.name],
+  FIN: own('FI'),
+  // The 16 regions; outlying islands and the Chatham Islands are left off.
+  NZL: p => ['NZ', p.iso_3166_2.startsWith('NZ-') && !p.iso_3166_2.includes('~') && p.iso_3166_2 !== 'NZ-CIT' ? iso(p) : null, p.name_en ?? p.name]
 };
 
 // map(properties) -> { abbr, name, seats? } for countries whose regions come

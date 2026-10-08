@@ -291,14 +291,14 @@ npm run history
 
 After each election, the steps in [docs/REFRESH.md](docs/REFRESH.md) add the official
 results. They move the previous result into history, check every vote count against the
-cited Wikipedia revision, and end in a pull request for review. A scheduled routine runs
-them daily; `npm run due` lists the elections waiting for results.
+cited Wikipedia revision, and end in a pull request for review. They are run by hand for
+now; `npm run due` lists the elections waiting for results.
 
 ## Rebuilding generated data
 
 ```
 npm install
-npm run regions -- path/to/ne_10m_admin_1_states_provinces.geojson --replace=IE=path/to/dail_constituencies_2023.geojson
+npm run regions -- path/to/ne_10m_admin_1_states_provinces_lakes.geojson --replace=IE=path/to/dail_constituencies_2023.geojson
 npm run districts -- US path/to/cb_2025_us_cd119_20m.zip
 npm run world -- path/to/countries-50m.json
 npm run mock

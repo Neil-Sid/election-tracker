@@ -241,6 +241,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const rule = rounds ? null
       : named.length === 1 ? 'Unopposed'
       : !won ? (/single-round/i.test(el.system ?? '') ? 'The most votes wins' : null)
+      : el.chosenBy ? `Chosen by ${el.chosenBy}`
       : won.pct == null ? null
       : won !== top ? 'Shares are from the first count'
       : won.pct > 50 ? 'Won with a majority of the vote' : 'Won with the most votes';

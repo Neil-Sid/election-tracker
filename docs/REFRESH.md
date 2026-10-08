@@ -1,9 +1,9 @@
 # Refreshing results after an election
 
-A scheduled routine follows this every day. Most days nothing is due and it stops
-at step 1. When an election in `data/schedule.json` has taken place, it adds the
-official results, moves the previous result into history, and opens a pull
-request for the owner to review. Nothing is merged without review.
+Follow this after an election in `data/schedule.json` has taken place. It adds the
+official results, moves the previous result into history, and ends in a pull
+request for the owner to review. Nothing is merged without review. It is written
+so that an agent with no other context can follow it.
 
 The site promises accurate national results, so the rules in step 3 matter more
 than finishing: if something can't be sourced, leave it out and say so.
