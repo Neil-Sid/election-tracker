@@ -44,23 +44,39 @@ function crimeaToUkraine(topo) {
   return topo;
 }
 
-const westernSahara =
-  "-filter 'id == \"504\"' target=countries + name=north -clip bbox=-20,27.6667,0,37 target=north " +
-  "-filter 'id == \"504\" || id == \"732\"' target=countries + name=sahara -clip bbox=-20,10,0,27.6667 target=sahara " +
-  "-each 'id = \"732\"; name = \"W. Sahara\"' target=sahara -dissolve2 id copy-fields=name target=sahara " +
-  "-filter 'id != \"504\" && id != \"732\"' target=countries -merge-layers target=countries,north,sahara name=countries force ";
-
-const build = async (src, simplify = '') => {
+// Only Morocco and Western Sahara go through mapshaper's clipping, which would
+// join the shapes split at the 180th meridian (Russia, Fiji) if it ran on the
+// whole map. Their new outlines are added as fresh arcs.
+async function westernSahara(topo) {
+  const shape = id => topo.objects.countries.geometries.find(g => g.id === id);
+  const features = ['504', '732'].map(id => ({ ...topojson.feature(topo, shape(id)), properties: { id } }));
   const out = await mapshaper.applyCommands(
-    `-i world.json id-field=id ${westernSahara}${simplify}` +
-    '-o out.json format=topojson quantization=100000 id-field=id target=countries,land',
-    { 'world.json': await readFile(src, 'utf8') }
+    "-i in.json -filter 'id == \"504\"' + name=north -clip bbox=-20,27.6667,0,37 target=north " +
+    "-clip bbox=-20,10,0,27.6667 target=in -each 'id = \"732\"' target=in -dissolve2 id target=in " +
+    '-merge-layers target=north,in name=out force -o out.json format=geojson target=out',
+    { 'in.json': { type: 'FeatureCollection', features } }
   );
-  return crimeaToUkraine(JSON.parse(out['out.json']));
-};
+  const { scale: [sx, sy], translate: [tx, ty] } = topo.transform;
+  const arcFor = ring => {
+    const q = ring.map(([x, y]) => [Math.round((x - tx) / sx), Math.round((y - ty) / sy)]);
+    topo.arcs.push(q.map((p, i) => (i ? [p[0] - q[i - 1][0], p[1] - q[i - 1][1]] : p)));
+    return topo.arcs.length - 1;
+  };
+  for (const { properties, geometry } of JSON.parse(out['out.json']).features) {
+    const polygons = geometry.type === 'Polygon' ? [geometry.coordinates] : geometry.coordinates;
+    Object.assign(shape(properties.id), { type: 'MultiPolygon', arcs: polygons.map(rings => rings.map(r => [arcFor(r)])) });
+  }
+  return topo;
+}
+
+const detail = await mapshaper.applyCommands(
+  '-i world.json -simplify 18% weighted keep-shapes -filter-slivers min-area=30km2 ' +
+  '-o detail.json format=topojson quantization=100000 id-field=id',
+  { 'world.json': await readFile(detailSrc, 'utf8') }
+);
 const outputs = {
-  'world-detail.topo.json': await build(detailSrc, '-simplify 18% weighted keep-shapes target=countries,land -filter-slivers min-area=30km2 target=countries,land '),
-  'world-coarse.topo.json': await build(coarseSrc)
+  'world-detail.topo.json': crimeaToUkraine(await westernSahara(JSON.parse(detail['detail.json']))),
+  'world-coarse.topo.json': crimeaToUkraine(await westernSahara(JSON.parse(await readFile(coarseSrc, 'utf8'))))
 };
 for (const [file, topo] of Object.entries(outputs)) {
   const json = JSON.stringify(topo);
