@@ -174,52 +174,6 @@ A live file (`data/live/US.json`) is `{ code, updatedAt, elections: [...] }` in 
 same shape. The page overlays it by election id, so it can update an existing race or
 add this year's race on top of the last one.
 
-## The cron job
-
-`scripts/update-results.mjs` is meant to run every two minutes, every day, to match
-the page. It reads `data/schedule.json`, works out today's date in each election's own
-time zone, and exits at once unless something is scheduled for today or a count that
-began on an earlier day is still running. On election day it asks the feed for results
-and writes `data/live/<CODE>.json` and the manifest. Once every race in the file is
-final, it folds the result into `data/countries/<CODE>.json` and removes the live file.
-From then on the page shows it as the previous result, and the older result moves into
-"Past results".
-
-```
-*/2 * * * * cd /path/to/election-tracker && node scripts/update-results.mjs
-```
-
-On Windows, Task Scheduler with the same command and a two-minute repeat does the same
-job.
-
-```
-node scripts/update-results.mjs --date=2026-11-03                     pretend it is another day
-node scripts/update-results.mjs --force --country=US --reporting=70   write a live file now
-node scripts/update-results.mjs --country=US --force --dry-run        print, write nothing
-node scripts/update-results.mjs --reset                               remove live files
-```
-
-`npm run cron:demo` and `npm run cron:reset` wrap the force and reset commands. Every
-country page also has an "Election night preview" button that replays the last result
-as a live count without touching any files.
-
-## Race calls
-
-No API is used for race calls. The feed in use is the mock in
-`scripts/adapters/mock.mjs`, and the tracker calls races itself with
-`scripts/calls.mjs`: a region or district is called when it has finished counting, or
-when the leader's margin is larger than every vote left to count. A legislature is
-called when a party's called seats reach a majority. Exit polls and media projections
-are never used. Regions and districts that are leading but not called are drawn pale
-on the globe and listed as "leads" in the panel.
-
-`data/sources.json` names the official results authority for each country, for
-reference. The AP and TSE clients in `scripts/adapters/` are kept for later but are not
-connected; switching one on means routing a country to it in
-`scripts/adapters/index.mjs`. An adapter receives `{ entry, country, reporting, now }`
-and returns an election in the shape above, with `winner` set only on called regions
-and districts. Schedule rows can carry `holdovers` (seats not up) and `contested`
-(regions voting).
 
 ## District maps
 
