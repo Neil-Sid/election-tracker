@@ -69,14 +69,18 @@ const PH = {
   'Dinagat Islands (Region XIII)': ['XIII', 'Caraga'], 'Autonomous Region in Muslim Mindanao (ARMM)': ['BARMM', 'Bangsamoro']
 };
 
+const UA_NAMES = { 30: 'Kyiv', 32: 'Kyiv Oblast', 43: 'Crimea', 51: 'Odesa' };
+const UA = p => ['UA', iso(p), UA_NAMES[iso(p)] ?? p.name_en ?? p.name];
+
 // Russia's federal subjects. Natural Earth files Crimea and Sevastopol under
-// Russia; they are left off as Ukrainian territory. It also swaps the codes of
-// Moscow city and Moscow Oblast.
+// Russia; they are internationally recognised as Ukraine and drawn there. It
+// also swaps the codes of Moscow city and Moscow Oblast.
 const RU_NAMES = {
   MOW: 'Moscow', MOS: 'Moscow Oblast', SPE: 'Saint Petersburg', ALT: 'Altai Krai', AL: 'Altai Republic', MAG: 'Magadan',
   YEV: 'Jewish Autonomous Oblast', SE: 'North Ossetia–Alania', CE: 'Chechnya', ZAB: 'Zabaykalsky Krai'
 };
 const RU = p => {
+  if (p.iso_3166_2.startsWith('UA-')) return UA(p);
   if (!p.iso_3166_2.startsWith('RU-') || p.iso_3166_2.includes('~')) return ['RU', null];
   const abbr = { Moskva: 'MOW', Moskovskaya: 'MOS' }[p.name] ?? iso(p);
   return ['RU', abbr, RU_NAMES[abbr] ?? p.name_en ?? p.name];
@@ -92,6 +96,18 @@ const HU_NAMES = {
   GS: 'Győr-Moson-Sopron', HB: 'Hajdú-Bihar', HE: 'Heves', JN: 'Jász-Nagykun-Szolnok', KE: 'Komárom-Esztergom', NO: 'Nógrád',
   PE: 'Pest', SO: 'Somogy', SZ: 'Szabolcs-Szatmár-Bereg', TO: 'Tolna', VA: 'Vas', VE: 'Veszprém', ZA: 'Zala'
 };
+
+// Iran's provinces by today's ISO codes; Natural Earth still uses the old
+// numbering, which gives Tehran and Alborz the same code.
+const IR = {
+  Markazi: '00', Gilan: '01', Mazandaran: '02', 'East Azerbaijan': '03', 'West Azerbaijan': '04', Kermanshah: '05',
+  Khuzestan: '06', Fars: '07', Kerman: '08', 'Razavi Khorasan': '09', Isfahan: '10', 'Sistan and Baluchestan': '11',
+  Kurdistan: '12', Hamadan: '13', 'Chaharmahal and Bakhtiari': '14', Lorestan: '15', Ilam: '16',
+  'Kohgiluyeh and Boyer-Ahmad': '17', Bushehr: '18', Zanjan: '19', Semnan: '20', Yazd: '21', Hormozgan: '22',
+  Tehran: '23', Ardabil: '24', Qom: '25', Qazvin: '26', Golestan: '27', 'North Khorasan': '28', 'South Khorasan': '29',
+  Alborz: '30'
+};
+const IQ_NAMES = { AN: 'Anbar', BB: 'Babil', MU: 'Muthanna', QA: 'Al-Qadisiyyah' };
 
 // Natural Earth spells some names without diacritics or with typos.
 const RENAME = {
@@ -151,6 +167,10 @@ const KEY = {
   BEL: p => ['BE', iso(p), { BRU: 'Brussels' }[iso(p)] ?? p.name_en ?? p.name],
   DNK: p => ['DK', iso(p), { 84: 'Capital Region' }[iso(p)] ?? p.name_en ?? p.name],
   FIN: own('FI'),
+  CHE: p => ['CH', iso(p), { GR: 'Graubünden' }[iso(p)] ?? p.name_en ?? p.name],
+  UKR: UA,
+  IRN: p => ['IR', IR[p.name_en], p.name_en],
+  IRQ: p => ['IQ', iso(p), IQ_NAMES[iso(p)] ?? p.name_en ?? p.name],
   // The 16 regions; outlying islands and the Chatham Islands are left off.
   NZL: p => ['NZ', p.iso_3166_2.startsWith('NZ-') && !p.iso_3166_2.includes('~') && p.iso_3166_2 !== 'NZ-CIT' ? iso(p) : null, p.name_en ?? p.name]
 };

@@ -92,7 +92,7 @@ data/schedule.json          upcoming elections; the cron reads this
 data/countries/*.json       parties, results, regions, districts, system facts
 data/regions.topo.json      state/province shapes keyed like "US-OH"
 data/districts/*.topo.json  single-member districts keyed like "US-CA-12"
-data/world-coarse.topo.json world-atlas 110m, the zoomed-out globe
+data/world-coarse.topo.json world-atlas 110m, the zoomed-out globe (Crimea drawn as Ukraine)
 data/world-detail.topo.json lighter cut of world-atlas 50m for country zoom
 data/sources.json           official results authority and district map source per country
 data/live/index.json        which countries have a live file (kept by the cron)
@@ -116,7 +116,7 @@ scripts/adapters/ap.mjs     Associated Press client, kept but not connected
 scripts/adapters/tse.mjs    Brazil electoral court client, kept but not connected
 scripts/build-regions.mjs   rebuilds regions.topo.json from Natural Earth
 scripts/build-districts.mjs rebuilds data/districts from each country's boundary file
-scripts/build-world.mjs     rebuilds world-detail.topo.json from world-atlas 50m
+scripts/build-world.mjs     rebuilds both world files from world-atlas 50m and 110m
 scripts/seeds.mjs           national figures for the countries and chambers added later
 scripts/districts.mjs       sample district results that add up to the national seats
 scripts/mock-data.mjs       regenerates all sample detail
@@ -300,7 +300,7 @@ now; `npm run due` lists the elections waiting for results.
 npm install
 npm run regions -- path/to/ne_10m_admin_1_states_provinces_lakes.geojson --replace=IE=path/to/dail_constituencies_2023.geojson
 npm run districts -- US path/to/cb_2025_us_cd119_20m.zip
-npm run world -- path/to/countries-50m.json
+npm run world -- path/to/countries-50m.json path/to/countries-110m.json
 npm run mock
 npm run history
 ```
