@@ -1,0 +1,379 @@
+{
+  "code": "MA",
+  "name": "Morocco",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary semi-constitutional monarchy",
+    "headOfState": "The King",
+    "headOfGovernment": "Head of Government",
+    "legislature": "Parliament: House of Representatives (395) and House of Councillors",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 15801162,
+    "offices": {
+      "House of Representatives": "Its 395 members are elected for five years by closed-list proportional representation: 305 in 92 local constituencies and 90, reserved for women, on 12 regional lists. Under the 2011 constitution the king appoints the head of government from the party that wins the most seats."
+    }
+  },
+  "parties": {
+    "ag": {
+      "name": "Left Alliance",
+      "color": "#0A1C37"
+    },
+    "ahd": {
+      "name": "Al-ʽAhd",
+      "color": "#915701"
+    },
+    "al": {
+      "name": "Alliance of Liberties",
+      "color": "#6FA293"
+    },
+    "cdt": {
+      "name": "Democratic Confederation of Labour",
+      "color": "#020202"
+    },
+    "cid": {
+      "name": "Citizen Initiative for Development",
+      "color": "#76D7C4"
+    },
+    "cni": {
+      "name": "National Ittihadi Congress",
+      "color": "#1170C1"
+    },
+    "fc": {
+      "name": "Citizens' Forces",
+      "color": "#4C4B51"
+    },
+    "fdic": {
+      "name": "Front for the Defence of Constitutional Institutions",
+      "color": "#FFD700"
+    },
+    "ffd": {
+      "name": "Front of Democratic Forces",
+      "color": "#95954D"
+    },
+    "fgd": {
+      "name": "Federation of the Democratic Left",
+      "color": "#784212"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "istiqlal": {
+      "name": "Istiqlal Party",
+      "color": "#F1A4BE"
+    },
+    "mds": {
+      "name": "Democratic and Social Movement",
+      "color": "#9AAD35"
+    },
+    "mnp": {
+      "name": "National Popular Movement",
+      "color": "#FB0242"
+    },
+    "mp": {
+      "name": "Popular Movement",
+      "color": "#FCCA50"
+    },
+    "mpdc": {
+      "name": "Constitutional and Democratic Popular Movement",
+      "color": "#D0353B"
+    },
+    "neodem": {
+      "name": "New Democrats Party",
+      "color": "#284A70"
+    },
+    "oadp": {
+      "name": "Organisation for Democratic and Popular Action",
+      "color": "#FFF185"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "pa": {
+      "name": "Action Party",
+      "color": "#1E90FF"
+    },
+    "padscnipsu": {
+      "name": "PADS–CNI–PSU Union",
+      "color": "#7A4E9C"
+    },
+    "pam": {
+      "name": "Authenticity and Modernity Party",
+      "color": "#0047AB"
+    },
+    "pdi": {
+      "name": "Democratic Independence Party",
+      "color": "#AE872A"
+    },
+    "pe": {
+      "name": "Equity Party",
+      "color": "#961140"
+    },
+    "ped": {
+      "name": "Environment and Development Party",
+      "color": "#A1845A"
+    },
+    "pgv": {
+      "name": "Moroccan Greens Party",
+      "color": "#428D31"
+    },
+    "pjd": {
+      "name": "Justice and Development Party",
+      "color": "#022E5F"
+    },
+    "plsj": {
+      "name": "Party of Liberty and Social Justice",
+      "color": "#B22234"
+    },
+    "pml": {
+      "name": "Moroccan Liberal Party",
+      "color": "#5D6D7E"
+    },
+    "pnd": {
+      "name": "National Democratic Party",
+      "color": "#00FF00"
+    },
+    "pndahd": {
+      "name": "PND–Al-ʽAhd Union",
+      "color": "#5E8C3A"
+    },
+    "pps": {
+      "name": "Party of Progress and Socialism",
+      "color": "#C71585"
+    },
+    "prd": {
+      "name": "Reform and Development Party",
+      "color": "#93CDE1"
+    },
+    "prv": {
+      "name": "Party of Renaissance and Virtue",
+      "color": "#FEED00"
+    },
+    "ps": {
+      "name": "Socialist Party",
+      "color": "#63D207"
+    },
+    "psd": {
+      "name": "Democratic Socialist Party",
+      "color": "#188410"
+    },
+    "psp": {
+      "name": "Social Progress Party",
+      "color": "#008000"
+    },
+    "psu": {
+      "name": "Unified Socialist Party",
+      "color": "#8E44AD"
+    },
+    "pt": {
+      "name": "Labour Party",
+      "color": "#D04933"
+    },
+    "pud": {
+      "name": "Unity and Democracy Party",
+      "color": "#48C9B0"
+    },
+    "puns": {
+      "name": "Party of Union and National Solidarity",
+      "color": "#8D6E63"
+    },
+    "rni": {
+      "name": "National Rally of Independents",
+      "color": "#00B5EE"
+    },
+    "uc": {
+      "name": "Constitutional Union",
+      "color": "#F29400"
+    },
+    "ud": {
+      "name": "Democratic Union",
+      "color": "#3F48CC"
+    },
+    "ugtm": {
+      "name": "General Union of Moroccan Workers",
+      "color": "#41695E"
+    },
+    "umd": {
+      "name": "Moroccan Union for Democracy",
+      "color": "#CD1237"
+    },
+    "umt": {
+      "name": "Moroccan Workers' Union",
+      "color": "#0160B2"
+    },
+    "unfp": {
+      "name": "National Union of Popular Forces",
+      "color": "#EC1B24"
+    },
+    "usfp": {
+      "name": "Socialist Union of Popular Forces",
+      "color": "#E15691"
+    }
+  },
+  "elections": [
+    {
+      "id": "ma-house-of-representatives-2026",
+      "office": "House of Representatives",
+      "kind": "legislative",
+      "date": "2026-09-23",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 38.08,
+      "system": "395 seats, list proportional",
+      "totalSeats": 395,
+      "majority": 198,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Ministry of the Interior and Hespress",
+        "url": "https://en.wikipedia.org/wiki/2026_Moroccan_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2026_Moroccan_general_election",
+      "statesSourced": {
+        "n": 12,
+        "of": 15
+      },
+      "candidates": [
+        {
+          "name": "Authenticity and Modernity Party",
+          "party": "pam",
+          "votes": 1043781,
+          "pct": 21.3,
+          "seats": 97,
+          "change": 10,
+          "winner": true
+        },
+        {
+          "name": "National Rally of Independents",
+          "party": "rni",
+          "votes": 718630,
+          "pct": 14.66,
+          "seats": 66,
+          "change": -36
+        },
+        {
+          "name": "Istiqlal Party",
+          "party": "istiqlal",
+          "votes": 751672,
+          "pct": 15.34,
+          "seats": 65,
+          "change": -16
+        },
+        {
+          "name": "Justice and Development Party",
+          "party": "pjd",
+          "votes": 696031,
+          "pct": 14.2,
+          "seats": 54,
+          "change": 41
+        },
+        {
+          "name": "Popular Movement",
+          "party": "mp",
+          "votes": 356172,
+          "pct": 7.27,
+          "seats": 29,
+          "change": 1
+        },
+        {
+          "name": "Socialist Union of Popular Forces",
+          "party": "usfp",
+          "votes": 327741,
+          "pct": 6.69,
+          "seats": 26,
+          "change": -8
+        },
+        {
+          "name": "Party of Progress and Socialism",
+          "party": "pps",
+          "votes": 247154,
+          "pct": 5.04,
+          "seats": 19,
+          "change": -3
+        },
+        {
+          "name": "Constitutional Union",
+          "party": "uc",
+          "votes": 225121,
+          "pct": 4.59,
+          "seats": 17,
+          "change": -1
+        },
+        {
+          "name": "Democratic and Social Movement",
+          "party": "mds",
+          "votes": 170472,
+          "pct": 3.48,
+          "seats": 8,
+          "change": 3
+        },
+        {
+          "name": "Left Alliance",
+          "party": "ag",
+          "votes": 134379,
+          "pct": 2.74,
+          "seats": 8,
+          "change": 6
+        },
+        {
+          "name": "Front of Democratic Forces",
+          "party": "ffd",
+          "votes": 45988,
+          "pct": 0.94,
+          "seats": 2,
+          "change": -1
+        },
+        {
+          "name": "Equity Party",
+          "party": "pe",
+          "votes": 21551,
+          "pct": 0.44,
+          "seats": 2,
+          "change": 2
+        },
+        {
+          "name": "New Democrats Party",
+          "party": "neodem",
+          "votes": 28882,
+          "pct": 0.59,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Unity and Democracy Party",
+          "party": "pud",
+          "votes": 24731,
+          "pct": 0.5,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 108072,
+          "pct": 2.21,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Chaouia-Ouardigha","abbr":"09","winner":"pam","margin":12.8,"turnout":35,"votes":279846,"results":[{"party":"pam","pct":35.5,"votes":99345},{"party":"istiqlal","pct":22.7,"votes":63525},{"party":"rni","pct":20.5,"votes":57368},{"party":"pjd","pct":14.5,"votes":40578},{"party":"mp","pct":6.8,"votes":19030}]},
+        {"name":"Doukkala-Abda","abbr":"10","winner":"pam","margin":5,"turnout":41.6,"votes":309798,"results":[{"party":"pam","pct":29.4,"votes":91081},{"party":"istiqlal","pct":24.4,"votes":75591},{"party":"rni","pct":22.9,"votes":70944},{"party":"mp","pct":11.9,"votes":36866},{"party":"pjd","pct":11.3,"votes":35007}]},
+        {"name":"Fès-Boulemane","abbr":"05","winner":"rni","margin":14.3,"turnout":35.7,"votes":374735,"results":[{"party":"rni","pct":35.5,"votes":133031},{"party":"istiqlal","pct":21.2,"votes":79444},{"party":"pam","pct":20.7,"votes":77570},{"party":"pjd","pct":11.6,"votes":43469},{"party":"mp","pct":11,"votes":41221}]},
+        {"name":"Gharb-Chrarda-Béni Hssen","abbr":"02","winner":"pjd","margin":6.6,"turnout":35.3,"votes":347741,"results":[{"party":"pjd","pct":30.9,"votes":107452},{"party":"pam","pct":24.3,"votes":84501},{"party":"istiqlal","pct":21.2,"votes":73721},{"party":"rni","pct":15.8,"votes":54943},{"party":"mp","pct":7.8,"votes":27124}]},
+        {"name":"Grand Casablanca","abbr":"08","winner":"pjd","margin":6.7,"turnout":43.2,"votes":313256,"results":[{"party":"pjd","pct":33.1,"votes":103688},{"party":"pam","pct":26.4,"votes":82700},{"party":"rni","pct":15.9,"votes":49808},{"party":"istiqlal","pct":15.6,"votes":48868},{"party":"mp","pct":8.9,"votes":27880}]},
+        {"name":"Guelmim-Es Semara","abbr":"14","winner":"pam","margin":4.8,"turnout":40.6,"votes":327876,"results":[{"party":"pam","pct":29.5,"votes":96723},{"party":"istiqlal","pct":24.7,"votes":80985},{"party":"pjd","pct":21.1,"votes":69182},{"party":"rni","pct":20.1,"votes":65903},{"party":"mp","pct":4.7,"votes":15410}]},
+        {"name":"Laâyoune-Boujdour-Sakia El Hamra","abbr":"15","winner":"istiqlal","margin":2.6,"turnout":40.9,"votes":356148,"results":[{"party":"istiqlal","pct":25.6,"votes":91174},{"party":"pam","pct":23,"votes":81914},{"party":"rni","pct":22,"votes":78353},{"party":"pjd","pct":20.5,"votes":73010},{"party":"mp","pct":9,"votes":32053}]},
+        {"name":"Marrakesh-Tensift-El Haouz","abbr":"11","winner":"pam","margin":13.5,"turnout":35,"votes":274432,"results":[{"party":"pam","pct":35.4,"votes":97149},{"party":"istiqlal","pct":21.9,"votes":60101},{"party":"rni","pct":16.9,"votes":46379},{"party":"pjd","pct":14.1,"votes":38695},{"party":"mp","pct":11.6,"votes":31834}]},
+        {"name":"Meknès-Tafilalet","abbr":"06","winner":"pam","margin":2.6,"turnout":37.2,"votes":305026,"results":[{"party":"pam","pct":29.4,"votes":89678},{"party":"istiqlal","pct":26.8,"votes":81747},{"party":"pjd","pct":19,"votes":57955},{"party":"rni","pct":17.7,"votes":53990},{"party":"mp","pct":7.1,"votes":21657}]},
+        {"name":"Oriental","abbr":"04","winner":"pam","margin":3,"turnout":41.1,"votes":342211,"results":[{"party":"pam","pct":26.4,"votes":90344},{"party":"istiqlal","pct":23.4,"votes":80077},{"party":"pjd","pct":21.7,"votes":74260},{"party":"rni","pct":20.2,"votes":69127},{"party":"mp","pct":8.4,"votes":28746}]},
+        {"name":"Rabat-Salé-Zemmour-Zaër","abbr":"07","winner":"pam","margin":7.9,"turnout":35,"votes":308747,"results":[{"party":"pam","pct":32.4,"votes":100034},{"party":"rni","pct":24.5,"votes":75643},{"party":"istiqlal","pct":21.4,"votes":66072},{"party":"pjd","pct":14.8,"votes":45695},{"party":"mp","pct":7,"votes":21612}]},
+        {"name":"Souss-Massa-Drâa","abbr":"13","winner":"rni","margin":0.4,"turnout":35.6,"votes":377695,"results":[{"party":"rni","pct":26.7,"votes":100845},{"party":"pam","pct":26.3,"votes":99334},{"party":"istiqlal","pct":19.5,"votes":73651},{"party":"pjd","pct":17,"votes":64208},{"party":"mp","pct":10.5,"votes":39658}]},
+        {"name":"Tadla-Azilal","abbr":"12","winner":"pam","margin":7.7,"turnout":40.3,"votes":351315,"results":[{"party":"pam","pct":31.1,"votes":109259},{"party":"rni","pct":23.4,"votes":82208},{"party":"pjd","pct":22.4,"votes":78695},{"party":"istiqlal","pct":11.6,"votes":40753},{"party":"mp","pct":11.4,"votes":40050}]},
+        {"name":"Tangier-Tetouan","abbr":"01","winner":"pam","margin":8.4,"turnout":38.1,"votes":377350,"results":[{"party":"pam","pct":29.3,"votes":110564},{"party":"pjd","pct":20.9,"votes":78866},{"party":"rni","pct":20.7,"votes":78111},{"party":"istiqlal","pct":20.3,"votes":76602},{"party":"mp","pct":8.7,"votes":32829}]},
+        {"name":"Taza-Al Hoceïma-Taounate","abbr":"03","winner":"pam","margin":10.6,"turnout":39.9,"votes":286589,"results":[{"party":"pam","pct":35.4,"votes":101453},{"party":"pjd","pct":24.8,"votes":71074},{"party":"istiqlal","pct":21.5,"votes":61617},{"party":"rni","pct":11.8,"votes":33818},{"party":"mp","pct":6.4,"votes":18342}]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+ "code": "BW",
+ "parties": {
+  "bdp": {
+   "name": "Botswana Democratic Party",
+   "color": "#E61C23",
+   "article": "Botswana Democratic Party"
+  },
+  "bpp": {
+   "name": "Botswana People's Party",
+   "color": "#00CC00",
+   "article": "Botswana People's Party"
+  },
+  "bip": {
+   "name": "Botswana Independence Party",
+   "color": "#000099",
+   "article": "Botswana Independence Party"
+  },
+  "bnf": {
+   "name": "Botswana National Front",
+   "color": "#EEB01F",
+   "article": "Botswana National Front"
+  },
+  "bpu": {
+   "name": "Botswana Progressive Union",
+   "color": "#FFFF00"
+  },
+  "ifp": {
+   "name": "Independence Freedom Party",
+   "color": "#5B8DB8"
+  },
+  "bcp": {
+   "name": "Botswana Congress Party",
+   "color": "#92C947",
+   "article": "Botswana Congress Party"
+  },
+  "bam": {
+   "name": "Botswana Alliance Movement",
+   "color": "#0000CD",
+   "article": "Botswana Alliance Movement"
+  },
+  "udc": {
+   "name": "Umbrella for Democratic Change",
+   "color": "#244197",
+   "article": "Umbrella for Democratic Change"
+  },
+  "bmd": {
+   "name": "Botswana Movement for Democracy",
+   "color": "#F58924",
+   "article": "Botswana Movement for Democracy"
+  },
+  "bpf": {
+   "name": "Botswana Patriotic Front",
+   "color": "#FECE00",
+   "article": "Botswana Patriotic Front"
+  },
+  "ap": {
+   "name": "Alliance for Progressives",
+   "color": "#662E91",
+   "article": "Alliance for Progressives"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "bw-national-assembly-1965",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1965-03-01",
+   "note": "Legislative Assembly, before independence",
+   "totalSeats": 31,
+   "turnout": 74.55,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1965_Bechuanaland_general_election",
+    "revid": 1372973930
+   },
+   "candidates": [
+    {
+     "name": "Bechuanaland Democratic Party",
+     "party": "bdp",
+     "votes": 113167,
+     "pct": 80.38,
+     "seats": 28,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Bechuanaland People's Party",
+     "party": "bpp",
+     "votes": 19964,
+     "pct": 14.18,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Bechuanaland Independence Party",
+     "party": "bip",
+     "votes": 6491,
+     "pct": 4.61,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1166,
+     "pct": 0.83,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 31 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Bechuanaland Protectorate's first election under universal suffrage, for the assembly that became the National Assembly at independence in 1966. Three BDP candidates were elected unopposed, the article says. The BDP and BPP ran as the Bechuanaland Democratic and People's Parties. Turnout is the infobox's share of registered voters. Others: Bechuanaland People's Party (Motsete Branch) 377, Independents 789. The table gives no seat changes."
+  },
+  {
+   "id": "bw-national-assembly-1969",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1969-10-18",
+   "totalSeats": 31,
+   "turnout": 54.73,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1969_Botswana_general_election",
+    "revid": 1369892228
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 52518,
+     "pct": 68.33,
+     "seats": 24,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 10410,
+     "pct": 13.54,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 9329,
+     "pct": 12.14,
+     "seats": 3,
+     "change": 0
+    },
+    {
+     "name": "Botswana Independence Party",
+     "party": "bip",
+     "votes": 4601,
+     "pct": 5.99,
+     "seats": 1,
+     "change": 1
+    }
+   ],
+   "notes": "Seats are the 31 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Turnout is the infobox's share of registered voters. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-1974",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1974-10-26",
+   "totalSeats": 32,
+   "turnout": 31.22,
+   "source": {
+    "name": "Wikipedia, citing EISA and Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1974_Botswana_general_election",
+    "revid": 1369892162
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 49047,
+     "pct": 76.62,
+     "seats": 27,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 7358,
+     "pct": 11.49,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 4199,
+     "pct": 6.56,
+     "seats": 2,
+     "change": -1
+    },
+    {
+     "name": "Botswana Independence Party",
+     "party": "bip",
+     "votes": 3086,
+     "pct": 4.82,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 321,
+     "pct": 0.5,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 32 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Turnout is the infobox's share of registered voters. Others: Independents 321. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-1979",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1979-10-20",
+   "totalSeats": 32,
+   "turnout": 55.24,
+   "source": {
+    "name": "Wikipedia, citing EISA and Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1979_Botswana_general_election",
+    "revid": 1369892102
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 101098,
+     "pct": 75.17,
+     "seats": 29,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 17480,
+     "pct": 13,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 9983,
+     "pct": 7.42,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Botswana Independence Party",
+     "party": "bip",
+     "votes": 5657,
+     "pct": 4.21,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 278,
+     "pct": 0.21,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the 32 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Turnout is the infobox's share of registered voters. Others: Independents 278. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-1984",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1984-09-08",
+   "totalSeats": 34,
+   "turnout": 77.58,
+   "source": {
+    "name": "Wikipedia, citing the IPU and Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1984_Botswana_general_election",
+    "revid": 1369892014
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 154863,
+     "pct": 68,
+     "seats": 29,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 46550,
+     "pct": 20.44,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 14961,
+     "pct": 6.57,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Botswana Independence Party",
+     "party": "bip",
+     "votes": 7288,
+     "pct": 3.2,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Botswana Progressive Union",
+     "party": "bpu",
+     "votes": 3036,
+     "pct": 1.33,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1058,
+     "pct": 0.46,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the 34 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Turnout is the infobox's share of registered voters. Others: Independents 1,058. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-1989",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1989-10-07",
+   "totalSeats": 34,
+   "turnout": 68.24,
+   "source": {
+    "name": "Wikipedia, citing the IPU and Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1989_Botswana_general_election",
+    "revid": 1275410476
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 162277,
+     "pct": 64.78,
+     "seats": 31,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 67513,
+     "pct": 26.95,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 10891,
+     "pct": 4.35,
+     "seats": 0,
+     "change": -1
+    },
+    {
+     "name": "Botswana Independence Party",
+     "party": "bip",
+     "votes": 6209,
+     "pct": 2.48,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3597,
+     "pct": 1.44,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 34 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Turnout is the infobox's share of registered voters. Others: Botswana Progressive Union 2,186, Botswana Freedom Party 1,363, Botswana Liberal Party 48. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-1994",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1994-10-15",
+   "totalSeats": 40,
+   "turnout": 76.55,
+   "source": {
+    "name": "Wikipedia, citing the Parliament of Botswana",
+    "url": "https://en.wikipedia.org/wiki/1994_Botswana_general_election",
+    "revid": 1369891956
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 154705,
+     "pct": 54.59,
+     "seats": 27,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 105109,
+     "pct": 37.09,
+     "seats": 13,
+     "change": 10
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 11586,
+     "pct": 4.09,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Independence Freedom Party",
+     "party": "ifp",
+     "votes": 7653,
+     "pct": 2.7,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Botswana Progressive Union",
+     "party": "bpu",
+     "votes": 3016,
+     "pct": 1.06,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1306,
+     "pct": 0.46,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 40 elected seats as the table gives them; the table's 4 indirectly-elected members are left out. Turnout is the infobox's share of registered voters. Others: United Democratic Front 783, United Socialist Party 265, Lesedi la Botswana 235, Botswana Liberal Party 23. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-1999",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1999-10-16",
+   "totalSeats": 40,
+   "turnout": 77.11,
+   "source": {
+    "name": "Wikipedia, citing EISA",
+    "url": "https://en.wikipedia.org/wiki/1999_Botswana_general_election",
+    "revid": 1367731677
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 192598,
+     "pct": 57.15,
+     "seats": 33,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 87457,
+     "pct": 25.95,
+     "seats": 6,
+     "change": -7
+    },
+    {
+     "name": "Botswana Congress Party",
+     "party": "bcp",
+     "votes": 40096,
+     "pct": 11.9,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Botswana Alliance Movement",
+     "party": "bam",
+     "votes": 15806,
+     "pct": 4.69,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 1026,
+     "pct": 0.3,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 40 elected seats as the table gives them; the table's 4 indirectly-elected seats are left out. Turnout is the infobox's share of registered voters. Others: MELS Movement of Botswana 22, Independents 1,004. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-2004",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2004-10-30",
+   "totalSeats": 57,
+   "turnout": 76.2,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2004_Botswana_general_election",
+    "revid": 1340591481
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 213308,
+     "pct": 51.73,
+     "seats": 44,
+     "change": 11,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 107451,
+     "pct": 26.06,
+     "seats": 12,
+     "change": 6
+    },
+    {
+     "name": "Botswana Congress Party",
+     "party": "bcp",
+     "votes": 68556,
+     "pct": 16.62,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Botswana Alliance Movement",
+     "party": "bam",
+     "votes": 11716,
+     "pct": 2.84,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 7886,
+     "pct": 1.91,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 3462,
+     "pct": 0.84,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 57 elected seats as the table gives them; the table's 6 indirectly-elected seats are left out. Turnout is the infobox's share of registered voters. Others: New Democratic Front 3,237, MELS Movement of Botswana 121, Independents 104. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-2009",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2009-10-16",
+   "totalSeats": 57,
+   "turnout": 76.71,
+   "source": {
+    "name": "Wikipedia, citing EISA",
+    "url": "https://en.wikipedia.org/wiki/2009_Botswana_general_election",
+    "revid": 1369891907
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 290099,
+     "pct": 53.26,
+     "seats": 45,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Botswana National Front",
+     "party": "bnf",
+     "votes": 119509,
+     "pct": 21.94,
+     "seats": 6,
+     "change": -6
+    },
+    {
+     "name": "Botswana Congress Party",
+     "party": "bcp",
+     "votes": 104302,
+     "pct": 19.15,
+     "seats": 4,
+     "change": 3
+    },
+    {
+     "name": "Botswana Alliance Movement",
+     "party": "bam",
+     "votes": 12387,
+     "pct": 2.27,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 10464,
+     "pct": 1.92,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Botswana People's Party",
+     "party": "bpp",
+     "votes": 7554,
+     "pct": 1.39,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 332,
+     "pct": 0.06,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 57 elected seats as the table gives them; the table's 6 indirectly-elected seats are left out. Turnout is the infobox's share of registered voters. Others: MELS Movement of Botswana 292, Tlhoko Tiro Organisation 40. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "bw-national-assembly-2014",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2014-10-24",
+   "totalSeats": 57,
+   "turnout": 84.75,
+   "source": {
+    "name": "Wikipedia, citing the Independent Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2014_Botswana_general_election",
+    "revid": 1360684262
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 320647,
+     "pct": 46.45,
+     "seats": 37,
+     "change": -8,
+     "winner": true
+    },
+    {
+     "name": "Umbrella for Democratic Change",
+     "party": "udc",
+     "votes": 207113,
+     "pct": 30.01,
+     "seats": 17,
+     "change": 11
+    },
+    {
+     "name": "Botswana Congress Party",
+     "party": "bcp",
+     "votes": 140998,
+     "pct": 20.43,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 21484,
+     "pct": 3.11,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Seats are the 57 elected seats as the table gives them; the table's 6 appointed and ex officio members are left out. The Umbrella for Democratic Change is one row with the table's alliance subtotal; its members in the table: Botswana National Front 114,741 votes, 8 seats; Botswana Movement for Democracy 73,697 votes, 9 seats; Botswana People's Party 18,675 votes, 0 seats. Turnout is the infobox's share of registered voters. Changes are the table's (\"New\" shown as no change). Region winners are the party with most seats in each unit of the article's results-by-district-and-city table that matches a map region (North-West is Ngamiland plus Chobe, which the article on North-West District says formed it until 2006); Kweneng, Selebi-Phikwe, Ghanzi were ties and are left out. Central, Southern and South-East are left out because the towns of Sowa, Jwaneng and Lobatse share constituencies with them (Nata-Gweta, Jwaneng-Mabutsane, and Lobatse with its surrounding rural area), and those towns have no unit of their own.",
+   "regionWinners": {
+    "GA": "udc",
+    "NW": "bdp",
+    "FR": "bdp",
+    "KL": "udc",
+    "KG": "bdp",
+    "NE": "bdp"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2014_Botswana_general_election"
+  },
+  {
+   "id": "bw-national-assembly-2019",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2019-10-23",
+   "totalSeats": 57,
+   "turnout": 84.06,
+   "source": {
+    "name": "Wikipedia, citing the Independent Electoral Commission",
+    "url": "https://en.wikipedia.org/wiki/2019_Botswana_general_election",
+    "revid": 1374654156
+   },
+   "candidates": [
+    {
+     "name": "Botswana Democratic Party",
+     "party": "bdp",
+     "votes": 406561,
+     "pct": 52.65,
+     "seats": 38,
+     "change": 1,
+     "winner": true
+    },
+    {
+     "name": "Umbrella for Democratic Change",
+     "party": "udc",
+     "votes": 277071,
+     "pct": 35.88,
+     "seats": 15,
+     "change": -2
+    },
+    {
+     "name": "Botswana Patriotic Front",
+     "party": "bpf",
+     "votes": 34068,
+     "pct": 4.41,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Alliance for Progressives",
+     "party": "ap",
+     "votes": 39561,
+     "pct": 5.12,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 12694,
+     "pct": 1.64,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Botswana Movement for Democracy",
+     "party": "bmd",
+     "votes": 2058,
+     "pct": 0.27,
+     "seats": 0,
+     "change": -9
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 145,
+     "pct": 0.02,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 57 elected seats as the table gives them; the table's 8 appointed and ex officio members are left out. The Umbrella for Democratic Change is one row with the table's alliance subtotal; its members in the table: Botswana National Front 148,122 votes, 4 seats; Botswana Congress Party 112,479 votes, 11 seats; Botswana People's Party 16,470 votes, 0 seats. Turnout is the infobox's share of registered voters. Others: Real Alternative Party 145. Changes are the table's (\"New\" shown as no change)."
+  }
+ ]
+}

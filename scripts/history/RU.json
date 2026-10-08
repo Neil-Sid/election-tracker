@@ -1152,8 +1152,7 @@
           "votes": null,
           "pct": null,
           "seats": 135,
-          "change": null,
-          "winner": true
+          "change": null
         },
         {
           "name": "Liberal Democratic Party of Russia",
@@ -1161,7 +1160,8 @@
           "votes": 12318562,
           "pct": 22.92,
           "seats": 64,
-          "change": null
+          "change": null,
+          "winner": true
         },
         {
           "name": "Choice of Russia",

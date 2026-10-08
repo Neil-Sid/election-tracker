@@ -935,6 +935,69 @@
         "governorates"
       ],
       "history": true
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "atlasId": "404",
+      "marker": [
+        37.9,
+        0.2
+      ],
+      "view": {
+        "center": [
+          37.9,
+          0.4
+        ],
+        "span": 6.5
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "atlasId": "072",
+      "marker": [
+        24,
+        -22.3
+      ],
+      "view": {
+        "center": [
+          24.5,
+          -22.2
+        ],
+        "span": 6
+      },
+      "regionTerm": [
+        "district",
+        "districts"
+      ],
+      "history": true
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "atlasId": "504",
+      "marker": [
+        -6.5,
+        31.8
+      ],
+      "view": {
+        "center": [
+          -7,
+          31.6
+        ],
+        "span": 7
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
     }
   ]
 }

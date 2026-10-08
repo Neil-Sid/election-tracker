@@ -395,6 +395,30 @@
       "url": "https://ihec.iq",
       "role": "Official results",
       "note": "Runs the elections and announces the results; the Federal Supreme Court ratifies them."
+    },
+    "KE": {
+      "access": "public",
+      "name": "Independent Electoral and Boundaries Commission",
+      "short": "IEBC",
+      "url": "https://www.iebc.or.ke",
+      "role": "Official results",
+      "note": "Runs elections and referendums and declares the results; presidential results can be challenged in the Supreme Court."
+    },
+    "BW": {
+      "access": "public",
+      "name": "Independent Electoral Commission",
+      "short": "IEC",
+      "url": "https://www.iec.gov.bw",
+      "role": "Official results",
+      "note": "Runs parliamentary and local elections and referendums, registers voters and publishes the results; it does not draw constituencies or settle election disputes."
+    },
+    "MA": {
+      "access": "public",
+      "name": "Ministry of the Interior",
+      "short": "Interior Ministry",
+      "url": "https://www.elections.ma",
+      "role": "Official results",
+      "note": "Organises the elections and publishes the official results on its elections portal."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

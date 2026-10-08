@@ -1,0 +1,1712 @@
+{
+ "code": "MA",
+ "parties": {
+  "fdic": {
+   "name": "Front for the Defence of Constitutional Institutions",
+   "color": "#FFD700",
+   "article": "Front for the Defence of Constitutional Institutions"
+  },
+  "istiqlal": {
+   "name": "Istiqlal Party",
+   "color": "#F1A4BE",
+   "article": "Istiqlal Party"
+  },
+  "unfp": {
+   "name": "National Union of Popular Forces",
+   "color": "#EC1B24",
+   "article": "National Union of Popular Forces"
+  },
+  "mp": {
+   "name": "Popular Movement",
+   "color": "#FCCA50",
+   "article": "Popular Movement (Morocco)"
+  },
+  "pdi": {
+   "name": "Democratic Independence Party",
+   "color": "#AE872A",
+   "article": "Democratic Independence Party"
+  },
+  "psp": {
+   "name": "Social Progress Party",
+   "color": "#008000"
+  },
+  "usfp": {
+   "name": "Socialist Union of Popular Forces",
+   "color": "#E15691",
+   "article": "Socialist Union of Popular Forces"
+  },
+  "pps": {
+   "name": "Party of Progress and Socialism",
+   "color": "#C71585",
+   "article": "Party of Progress and Socialism"
+  },
+  "mpdc": {
+   "name": "Constitutional and Democratic Popular Movement",
+   "color": "#D0353B"
+  },
+  "pa": {
+   "name": "Action Party",
+   "color": "#1E90FF",
+   "article": "Action Party (Morocco)"
+  },
+  "umt": {
+   "name": "Moroccan Workers' Union",
+   "color": "#0160B2",
+   "article": "Moroccan Workers' Union"
+  },
+  "uc": {
+   "name": "Constitutional Union",
+   "color": "#F29400",
+   "article": "Constitutional Union (Morocco)"
+  },
+  "rni": {
+   "name": "National Rally of Independents",
+   "color": "#00B5EE",
+   "article": "National Rally of Independents"
+  },
+  "pnd": {
+   "name": "National Democratic Party",
+   "color": "#00FF00",
+   "article": "National Democratic Party (Morocco)"
+  },
+  "oadp": {
+   "name": "Organisation for Democratic and Popular Action",
+   "color": "#FFF185"
+  },
+  "puns": {
+   "name": "Party of Union and National Solidarity",
+   "color": "#8D6E63"
+  },
+  "cdt": {
+   "name": "Democratic Confederation of Labour",
+   "color": "#020202",
+   "article": "Democratic Confederation of Labour (Morocco)"
+  },
+  "ugtm": {
+   "name": "General Union of Moroccan Workers",
+   "color": "#41695E",
+   "article": "General Union of Moroccan Workers"
+  },
+  "mnp": {
+   "name": "National Popular Movement",
+   "color": "#FB0242",
+   "article": "National Popular Movement"
+  },
+  "mds": {
+   "name": "Democratic and Social Movement",
+   "color": "#9AAD35",
+   "article": "Democratic and Social Movement (Morocco)"
+  },
+  "ffd": {
+   "name": "Front of Democratic Forces",
+   "color": "#95954D",
+   "article": "Front of Democratic Forces"
+  },
+  "psd": {
+   "name": "Democratic Socialist Party",
+   "color": "#188410",
+   "article": "Democratic Socialist Party (Morocco)"
+  },
+  "pjd": {
+   "name": "Justice and Development Party",
+   "color": "#022E5F",
+   "article": "Justice and Development Party (Morocco)"
+  },
+  "ud": {
+   "name": "Democratic Union",
+   "color": "#3F48CC",
+   "article": "Democratic Union (Morocco)"
+  },
+  "ahd": {
+   "name": "Al-ʽAhd",
+   "color": "#915701",
+   "article": "Al-ʽAhd (Morocco)"
+  },
+  "al": {
+   "name": "Alliance of Liberties",
+   "color": "#6FA293",
+   "article": "Alliance of Liberties"
+  },
+  "cni": {
+   "name": "National Ittihadi Congress",
+   "color": "#1170C1",
+   "article": "National Ittihadi Congress"
+  },
+  "prd": {
+   "name": "Reform and Development Party",
+   "color": "#93CDE1",
+   "article": "Reform and Development Party (Morocco)"
+  },
+  "fc": {
+   "name": "Citizens' Forces",
+   "color": "#4C4B51",
+   "article": "Citizens' Forces"
+  },
+  "ped": {
+   "name": "Environment and Development Party",
+   "color": "#A1845A",
+   "article": "Environment and Development Party"
+  },
+  "pml": {
+   "name": "Moroccan Liberal Party",
+   "color": "#5D6D7E",
+   "article": "Moroccan Liberal Party"
+  },
+  "psu": {
+   "name": "Unified Socialist Party",
+   "color": "#8E44AD",
+   "article": "Unified Socialist Party (Morocco)"
+  },
+  "cid": {
+   "name": "Citizen Initiative for Development",
+   "color": "#76D7C4",
+   "article": "Citizen Initiative for Development"
+  },
+  "pe": {
+   "name": "Equity Party",
+   "color": "#961140",
+   "article": "Equity Party (Morocco)"
+  },
+  "pt": {
+   "name": "Labour Party",
+   "color": "#D04933",
+   "article": "Labour Party (Morocco)"
+  },
+  "pndahd": {
+   "name": "PND–Al-ʽAhd Union",
+   "color": "#5E8C3A"
+  },
+  "padscnipsu": {
+   "name": "PADS–CNI–PSU Union",
+   "color": "#7A4E9C"
+  },
+  "umd": {
+   "name": "Moroccan Union for Democracy",
+   "color": "#CD1237",
+   "article": "Moroccan Union for Democracy"
+  },
+  "ps": {
+   "name": "Socialist Party",
+   "color": "#63D207",
+   "article": "Socialist Party (Morocco)"
+  },
+  "prv": {
+   "name": "Party of Renaissance and Virtue",
+   "color": "#FEED00",
+   "article": "Party of Renaissance and Virtue"
+  },
+  "pam": {
+   "name": "Authenticity and Modernity Party",
+   "color": "#0047AB",
+   "article": "Authenticity and Modernity Party"
+  },
+  "pgv": {
+   "name": "Moroccan Greens Party",
+   "color": "#428D31"
+  },
+  "pud": {
+   "name": "Unity and Democracy Party",
+   "color": "#48C9B0"
+  },
+  "plsj": {
+   "name": "Party of Liberty and Social Justice",
+   "color": "#B22234",
+   "article": "Party of Liberty and Social Justice"
+  },
+  "fgd": {
+   "name": "Federation of the Democratic Left",
+   "color": "#784212",
+   "article": "Federation of the Democratic Left"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "ma-house-of-representatives-1963",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1963-05-17",
+   "totalSeats": 144,
+   "turnout": 71.79,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1963_Moroccan_general_election",
+    "revid": 1363577894
+   },
+   "candidates": [
+    {
+     "name": "Front for the Defence of Constitutional Institutions",
+     "party": "fdic",
+     "votes": 1159932,
+     "pct": 34.78,
+     "seats": 69,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 1000506,
+     "pct": 30,
+     "seats": 41,
+     "change": null
+    },
+    {
+     "name": "National Union of Popular Forces",
+     "party": "unfp",
+     "votes": 751056,
+     "pct": 22.52,
+     "seats": 28,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 421479,
+     "pct": 12.64,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 2345,
+     "pct": 0.07,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Morocco's first parliamentary election. The table gives one popular vote and 144 seats; the House of Councillors, elected indirectly in October, is not tracked. Turnout is votes cast (valid plus 113,221 invalid) over 4,803,654 registered voters, as the table gives it; the lead gives 71.8%. The lead says the Supreme Court later annulled several seats won by the opposition, and by-elections in January 1964 gave the FDIC control of Parliament. Others: Moroccan Communist Party 2,345. The table gives no seat changes."
+  },
+  {
+   "id": "ma-house-of-representatives-1970",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1970-08-21",
+   "note": "Opposition boycott; 90 of 240 seats elected directly",
+   "totalSeats": 240,
+   "turnout": 85.34,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al. and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1970_Moroccan_general_election",
+    "revid": 1301017533
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": null,
+     "pct": null,
+     "seats": 159,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": null,
+     "pct": null,
+     "seats": 60,
+     "change": null
+    },
+    {
+     "name": "Social Progress Party",
+     "party": "psp",
+     "votes": null,
+     "pct": null,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": null,
+     "pct": null,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Constitutional Democratic Party",
+     "party": "pdi",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "National Union of Popular Forces",
+     "party": "unfp",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "Assembly of Representatives of 240: 90 members elected directly, 90 by local councillors and 60 by professional colleges. Seats are the table's totals, direct and indirect; the table gives no votes by party. The lead says the Istiqlal Party and the UNFP boycotted the election, though some of their candidates stood. The Constitutional Democratic Party is today's Democratic Independence Party (same article). Turnout is the direct election's votes cast (4,106,015 valid plus 54,001 invalid) over 4,874,598 registered voters, as the table gives it; the lead says 85%. The table gives no seat changes."
+  },
+  {
+   "id": "ma-house-of-representatives-1977",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1977-06-03",
+   "note": "176 of 264 seats elected directly",
+   "totalSeats": 264,
+   "turnout": 82.36,
+   "source": {
+    "name": "Wikipedia, citing the IPU",
+    "url": "https://en.wikipedia.org/wiki/1977_Moroccan_general_election",
+    "revid": 1335775101
+   },
+   "candidates": [
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 2254297,
+     "pct": 44.68,
+     "seats": 141,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 1090960,
+     "pct": 21.62,
+     "seats": 51,
+     "change": null
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 625786,
+     "pct": 12.4,
+     "seats": 44,
+     "change": null
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 738541,
+     "pct": 14.64,
+     "seats": 15,
+     "change": null
+    },
+    {
+     "name": "Moroccan Workers' Union",
+     "party": "umt",
+     "votes": 26111,
+     "pct": 0.52,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Constitutional and Democratic Popular Movement",
+     "party": "mpdc",
+     "votes": 102358,
+     "pct": 2.03,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Action Party",
+     "party": "pa",
+     "votes": 90840,
+     "pct": 1.8,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 116470,
+     "pct": 2.31,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "House of 264: 176 members elected directly, 48 by colleges of local councillors and 40 by professional colleges. Votes and shares are the direct election's; seats are the table's totals, direct and indirect. The table has no change column. Turnout is the direct election's votes cast (valid plus 324,068 invalid) over 6,519,301 registered voters, as the table gives it. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara."
+  },
+  {
+   "id": "ma-house-of-representatives-1984",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1984-09-14",
+   "note": "199 of 306 seats elected directly",
+   "totalSeats": 306,
+   "turnout": 67.43,
+   "source": {
+    "name": "Wikipedia, citing López García and Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1984_Moroccan_general_election",
+    "revid": 1335774685
+   },
+   "candidates": [
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 1101502,
+     "pct": 24.79,
+     "seats": 83,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 763395,
+     "pct": 17.18,
+     "seats": 61,
+     "change": null
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 695020,
+     "pct": 15.64,
+     "seats": 47,
+     "change": 3
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 681083,
+     "pct": 15.33,
+     "seats": 41,
+     "change": -10
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 550291,
+     "pct": 12.39,
+     "seats": 36,
+     "change": 21
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "pnd",
+     "votes": 396370,
+     "pct": 8.92,
+     "seats": 24,
+     "change": null
+    },
+    {
+     "name": "Moroccan Workers' Union",
+     "party": "umt",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": -2
+    },
+    {
+     "name": "Democratic Confederation of Labour",
+     "party": "cdt",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 102314,
+     "pct": 2.3,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "General Union of Moroccan Workers",
+     "party": "ugtm",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Organisation for Democratic and Popular Action",
+     "party": "oadp",
+     "votes": 32766,
+     "pct": 0.74,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Party of Union and National Solidarity",
+     "party": "puns",
+     "votes": 9810,
+     "pct": 0.22,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Constitutional and Democratic Popular Movement",
+     "party": "mpdc",
+     "votes": 69862,
+     "pct": 1.57,
+     "seats": 0,
+     "change": -3
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 40591,
+     "pct": 0.91,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the direct election's; seats are the table's totals: 199 elected directly and 107 indirectly (by local councillors, professional bodies and workers' organisations). The lead gives 102 indirect seats and says the Constitutional Union won 82 of 301; the table and infobox give 83 of 306. The trade unions (UMT, CDT, UGTM) won indirect seats only. Turnout is the direct election's votes cast (valid plus 556,642 invalid) over 7,414,846 registered voters, as the table gives it. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: Action Party 20,465, Democratic Independence Party 20,126. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-1993",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1993-06-25",
+   "note": "222 of 333 seats elected directly",
+   "totalSeats": 333,
+   "turnout": 62.75,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al., López García and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1993_Moroccan_general_election",
+    "revid": 1335774691
+   },
+   "candidates": [
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 799149,
+     "pct": 12.84,
+     "seats": 54,
+     "change": -28,
+     "winner": true
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 820641,
+     "pct": 13.19,
+     "seats": 52,
+     "change": 17
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 760082,
+     "pct": 12.22,
+     "seats": 52,
+     "change": 12
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 751864,
+     "pct": 12.08,
+     "seats": 51,
+     "change": 4
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 824117,
+     "pct": 13.24,
+     "seats": 41,
+     "change": -19
+    },
+    {
+     "name": "National Popular Movement",
+     "party": "mnp",
+     "votes": 662214,
+     "pct": 10.64,
+     "seats": 25,
+     "change": null
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "pnd",
+     "votes": 500253,
+     "pct": 8.04,
+     "seats": 24,
+     "change": 0
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 245064,
+     "pct": 3.94,
+     "seats": 10,
+     "change": 8
+    },
+    {
+     "name": "Democratic Independence Party",
+     "party": "pdi",
+     "votes": 257372,
+     "pct": 4.14,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 259213,
+     "pct": 4.17,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Democratic Confederation of Labour",
+     "party": "cdt",
+     "votes": null,
+     "pct": null,
+     "seats": 4,
+     "change": 1
+    },
+    {
+     "name": "Moroccan Workers' Union",
+     "party": "umt",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": -2
+    },
+    {
+     "name": "Organisation for Democratic and Popular Action",
+     "party": "oadp",
+     "votes": 196268,
+     "pct": 3.15,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Action Party",
+     "party": "pa",
+     "votes": 145981,
+     "pct": 2.35,
+     "seats": 2,
+     "change": 2
+    }
+   ],
+   "notes": "Votes and shares are the direct election's; seats are the table's totals: 222 elected directly and 111 indirectly. The lead says the USFP won most directly elected seats (48); with the indirect seats the Constitutional Union had most (54). The trade unions (CDT, UMT) won indirect seats only. Turnout is the direct election's votes cast (valid plus 930,993 invalid) over 11,398,987 registered voters, as the table gives it. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-1997",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "1997-11-14",
+   "totalSeats": 325,
+   "turnout": 58.3,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1997_Moroccan_general_election",
+    "revid": 1335774700
+   },
+   "candidates": [
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 884061,
+     "pct": 13.87,
+     "seats": 57,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 647746,
+     "pct": 10.17,
+     "seats": 50,
+     "change": -4
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 705397,
+     "pct": 11.07,
+     "seats": 46,
+     "change": 6
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 659331,
+     "pct": 10.35,
+     "seats": 40,
+     "change": -11
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 840315,
+     "pct": 13.19,
+     "seats": 32,
+     "change": -20
+    },
+    {
+     "name": "Democratic and Social Movement",
+     "party": "mds",
+     "votes": 603156,
+     "pct": 9.47,
+     "seats": 32,
+     "change": null
+    },
+    {
+     "name": "National Popular Movement",
+     "party": "mnp",
+     "votes": 431651,
+     "pct": 6.77,
+     "seats": 19,
+     "change": -6
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "pnd",
+     "votes": 270425,
+     "pct": 4.24,
+     "seats": 10,
+     "change": -14
+    },
+    {
+     "name": "Party of Renewal and Progress",
+     "party": "pps",
+     "votes": 274862,
+     "pct": 4.31,
+     "seats": 9,
+     "change": -1
+    },
+    {
+     "name": "Constitutional and Democratic Popular Movement",
+     "party": "mpdc",
+     "votes": 264324,
+     "pct": 4.15,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Front of Democratic Forces",
+     "party": "ffd",
+     "votes": 243275,
+     "pct": 3.82,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Democratic Socialist Party",
+     "party": "psd",
+     "votes": 188520,
+     "pct": 2.96,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Organisation for Democratic and Popular Action",
+     "party": "oadp",
+     "votes": 184009,
+     "pct": 2.89,
+     "seats": 4,
+     "change": 2
+    },
+    {
+     "name": "Action Party",
+     "party": "pa",
+     "votes": 89614,
+     "pct": 1.41,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Democratic Independence Party",
+     "party": "pdi",
+     "votes": 76176,
+     "pct": 1.2,
+     "seats": 1,
+     "change": -8
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 8768,
+     "pct": 0.14,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "First election with the whole House elected directly. The lead says the USFP won 57 of 319 seats; the table and infobox give 325. The Party of Renewal and Progress is the Party of Progress and Socialism (same article). Turnout is votes cast (valid plus 1,085,366 invalid) over 12,790,631 registered voters, as the table gives it. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: Movement for Democracy 8,768. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-2002",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2002-09-27",
+   "totalSeats": 325,
+   "turnout": 51.61,
+   "source": {
+    "name": "Wikipedia, citing García",
+    "url": "https://en.wikipedia.org/wiki/2002_Moroccan_general_election",
+    "revid": 1366149551
+   },
+   "candidates": [
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 718725,
+     "pct": 11.88,
+     "seats": 50,
+     "change": -7,
+     "winner": true
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 598226,
+     "pct": 9.89,
+     "seats": 48,
+     "change": 16
+    },
+    {
+     "name": "Justice and Development Party",
+     "party": "pjd",
+     "votes": 595439,
+     "pct": 9.84,
+     "seats": 42,
+     "change": 33
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 561514,
+     "pct": 9.28,
+     "seats": 41,
+     "change": -5
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 396932,
+     "pct": 6.56,
+     "seats": 27,
+     "change": -13
+    },
+    {
+     "name": "National Popular Movement",
+     "party": "mnp",
+     "votes": 312239,
+     "pct": 5.16,
+     "seats": 18,
+     "change": -1
+    },
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 310939,
+     "pct": 5.14,
+     "seats": 16,
+     "change": -34
+    },
+    {
+     "name": "Front of Democratic Forces",
+     "party": "ffd",
+     "votes": 296288,
+     "pct": 4.9,
+     "seats": 12,
+     "change": 3
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "pnd",
+     "votes": 275884,
+     "pct": 4.56,
+     "seats": 12,
+     "change": 2
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 275024,
+     "pct": 4.55,
+     "seats": 11,
+     "change": 2
+    },
+    {
+     "name": "Democratic Union",
+     "party": "ud",
+     "votes": 244558,
+     "pct": 4.04,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Democratic and Social Movement",
+     "party": "mds",
+     "votes": 163546,
+     "pct": 2.7,
+     "seats": 7,
+     "change": -25
+    },
+    {
+     "name": "Democratic Socialist Party",
+     "party": "psd",
+     "votes": 179131,
+     "pct": 2.96,
+     "seats": 6,
+     "change": 1
+    },
+    {
+     "name": "Al-ʽAhd",
+     "party": "ahd",
+     "votes": 138186,
+     "pct": 2.28,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Alliance of Liberties",
+     "party": "al",
+     "votes": 131796,
+     "pct": 2.18,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Reform and Development Party",
+     "party": "prd",
+     "votes": 110633,
+     "pct": 1.83,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Moroccan Liberal Party",
+     "party": "pml",
+     "votes": 82088,
+     "pct": 1.36,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Party of the Unified Socialist Left",
+     "party": "psu",
+     "votes": 81985,
+     "pct": 1.35,
+     "seats": 3,
+     "change": -1
+    },
+    {
+     "name": "Citizens' Forces",
+     "party": "fc",
+     "votes": 104247,
+     "pct": 1.72,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Environment and Development Party",
+     "party": "ped",
+     "votes": 90609,
+     "pct": 1.5,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Democratic Independence Party",
+     "party": "pdi",
+     "votes": 61258,
+     "pct": 1.01,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "National Ittihadi Congress",
+     "party": "cni",
+     "votes": 120330,
+     "pct": 1.99,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 83346,
+     "pct": 1.38,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 117756,
+     "pct": 1.95,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the table's totals: 295 local seats and 30 national-list seats. The table gives one vote count per party. The Party of the Unified Socialist Left is today's Unified Socialist Party, and the Party of Renewal and Equity today's Equity Party (same articles). Turnout is votes cast (valid plus 1,114,527 invalid) over 13,884,467 registered voters, as the table gives it. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: Citizen Initiative for Development 49,710, Party of Renewal and Equity 39,483, Action Party 28,563. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-2007",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2007-09-07",
+   "totalSeats": 325,
+   "turnout": 37.12,
+   "source": {
+    "name": "Wikipedia, citing Desrues and García",
+    "url": "https://en.wikipedia.org/wiki/2007_Moroccan_general_election",
+    "revid": 1375064926
+   },
+   "candidates": [
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 494256,
+     "pct": 10.73,
+     "seats": 52,
+     "change": 4,
+     "winner": true
+    },
+    {
+     "name": "Justice and Development Party",
+     "party": "pjd",
+     "votes": 503396,
+     "pct": 10.93,
+     "seats": 46,
+     "change": 4
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 426849,
+     "pct": 9.26,
+     "seats": 41,
+     "change": 14
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 447244,
+     "pct": 9.71,
+     "seats": 39,
+     "change": -4
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 408945,
+     "pct": 8.88,
+     "seats": 38,
+     "change": -12
+    },
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 335116,
+     "pct": 7.27,
+     "seats": 27,
+     "change": 11
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 248103,
+     "pct": 5.38,
+     "seats": 17,
+     "change": 6
+    },
+    {
+     "name": "Front of Democratic Forces",
+     "party": "ffd",
+     "votes": 207982,
+     "pct": 4.51,
+     "seats": 9,
+     "change": -3
+    },
+    {
+     "name": "Democratic and Social Movement",
+     "party": "mds",
+     "votes": 168960,
+     "pct": 3.67,
+     "seats": 9,
+     "change": 2
+    },
+    {
+     "name": "PND–Al-ʽAhd Union",
+     "party": "pndahd",
+     "votes": 139688,
+     "pct": 3.03,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Labour Party",
+     "party": "pt",
+     "votes": 140224,
+     "pct": 3.04,
+     "seats": 5,
+     "change": 5
+    },
+    {
+     "name": "Environment and Development Party",
+     "party": "ped",
+     "votes": 131524,
+     "pct": 2.85,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "PADS–CNI–PSU Union",
+     "party": "padscnipsu",
+     "votes": 98202,
+     "pct": 2.13,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 81364,
+     "pct": 1.77,
+     "seats": 5,
+     "change": 5
+    },
+    {
+     "name": "Party of Renewal and Equity",
+     "party": "pe",
+     "votes": 83516,
+     "pct": 1.81,
+     "seats": 4,
+     "change": 4
+    },
+    {
+     "name": "Al-ʽAhd",
+     "party": "ahd",
+     "votes": 57952,
+     "pct": 1.26,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "National Democratic Party",
+     "party": "pnd",
+     "votes": 56176,
+     "pct": 1.22,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Moroccan Union for Democracy",
+     "party": "umd",
+     "votes": 76795,
+     "pct": 1.67,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Socialist Party",
+     "party": "ps",
+     "votes": 67786,
+     "pct": 1.47,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Citizen Initiative for Development",
+     "party": "cid",
+     "votes": 50278,
+     "pct": 1.09,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Party of Renaissance and Virtue",
+     "party": "prv",
+     "votes": 36781,
+     "pct": 0.8,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Alliance of Liberties",
+     "party": "al",
+     "votes": 34801,
+     "pct": 0.76,
+     "seats": 1,
+     "change": -3
+    },
+    {
+     "name": "Citizens' Forces",
+     "party": "fc",
+     "votes": 31207,
+     "pct": 0.68,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "National Ittihadi Congress",
+     "party": "cni",
+     "votes": 25695,
+     "pct": 0.56,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Reform and Development Party",
+     "party": "prd",
+     "votes": 47141,
+     "pct": 1.02,
+     "seats": 0,
+     "change": -3
+    },
+    {
+     "name": "Moroccan Liberal Party",
+     "party": "pml",
+     "votes": 46526,
+     "pct": 1.01,
+     "seats": 0,
+     "change": -3
+    },
+    {
+     "name": "Democratic Socialist Party",
+     "party": "psd",
+     "votes": 10973,
+     "pct": 0.24,
+     "seats": 0,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 150013,
+     "pct": 3.26,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the constituency vote (295 seats); the table's national-list vote (30 seats) has no figures for some parties. Seats are the table's totals. The PND–Al-ʽAhd and PADS–CNI–PSU joint lists are separate rows in the table, as are the parties that also ran alone. The Party of Renewal and Equity is today's Equity Party (same article). Turnout is the constituency vote's votes cast (valid plus 1,131,393 invalid) over 15,462,362 registered voters, as the table gives it. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: Democratic Independence Party 31,105, Action Party 24,384, Social Centre Party 22,826, Party of Hope 16,376, Party of Liberty and Social Justice 5,452, Unified Socialist Party 20,353, Al-Badil al-Hadari Party 15,600, Renaissance Party 10,156, Socialist Democratic Vanguard Party 3,761. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-2011",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2011-11-25",
+   "totalSeats": 395,
+   "turnout": 45.5,
+   "source": {
+    "name": "Wikipedia, citing García, Atlasinfo and Psephos",
+    "url": "https://en.wikipedia.org/wiki/2011_Moroccan_general_election",
+    "revid": 1376514585
+   },
+   "candidates": [
+    {
+     "name": "Justice and Development Party",
+     "party": "pjd",
+     "votes": 1080914,
+     "pct": 22.78,
+     "seats": 107,
+     "change": 61,
+     "winner": true
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 562720,
+     "pct": 11.86,
+     "seats": 60,
+     "change": 8
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 537552,
+     "pct": 11.33,
+     "seats": 52,
+     "change": 13
+    },
+    {
+     "name": "Authenticity and Modernity Party",
+     "party": "pam",
+     "votes": 524386,
+     "pct": 11.05,
+     "seats": 47,
+     "change": null
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 408108,
+     "pct": 8.6,
+     "seats": 39,
+     "change": 1
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 354468,
+     "pct": 7.47,
+     "seats": 32,
+     "change": -9
+    },
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 275137,
+     "pct": 5.8,
+     "seats": 23,
+     "change": -4
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 269336,
+     "pct": 5.68,
+     "seats": 18,
+     "change": 1
+    },
+    {
+     "name": "Labour Party",
+     "party": "pt",
+     "votes": 107399,
+     "pct": 2.26,
+     "seats": 4,
+     "change": -1
+    },
+    {
+     "name": "Environment and Development Party",
+     "party": "ped",
+     "votes": 109335,
+     "pct": 2.3,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Al-ʽAhd",
+     "party": "ahd",
+     "votes": 82213,
+     "pct": 1.73,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Democratic and Social Movement",
+     "party": "mds",
+     "votes": 81324,
+     "pct": 1.71,
+     "seats": 2,
+     "change": -7
+    },
+    {
+     "name": "Party of Renewal and Equity",
+     "party": "pe",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -2
+    },
+    {
+     "name": "Front of Democratic Forces",
+     "party": "ffd",
+     "votes": 135161,
+     "pct": 2.85,
+     "seats": 1,
+     "change": -8
+    },
+    {
+     "name": "Green Left Party",
+     "party": "pgv",
+     "votes": 33841,
+     "pct": 0.71,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Action Party",
+     "party": "pa",
+     "votes": 14916,
+     "pct": 0.31,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Unity and Democracy Party",
+     "party": "pud",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Party of Liberty and Social Justice",
+     "party": "plsj",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "National Ittihadi Congress",
+     "party": "cni",
+     "votes": 56402,
+     "pct": 1.19,
+     "seats": 0,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 112141,
+     "pct": 2.36,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the national-list vote (90 seats), the only vote the table gives; it has no votes for 12 parties. Seats are the table's totals: 305 constituency seats and 90 national-list seats. The Party of Renewal and Equity is today's Equity Party (same article). Turnout is the infobox's. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: Socialist Party 44,278, Moroccan Liberal Party 42,313, Social Centre Party 25,550. The table gives no votes for 9 other parties without seats. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-2016",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2016-10-07",
+   "totalSeats": 395,
+   "turnout": 42.29,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and Le Matin",
+    "url": "https://en.wikipedia.org/wiki/2016_Moroccan_general_election",
+    "revid": 1377443397
+   },
+   "candidates": [
+    {
+     "name": "Justice and Development Party",
+     "party": "pjd",
+     "votes": 1571659,
+     "pct": 27.14,
+     "seats": 125,
+     "change": 18,
+     "winner": true
+    },
+    {
+     "name": "Authenticity and Modernity Party",
+     "party": "pam",
+     "votes": 1205444,
+     "pct": 20.82,
+     "seats": 102,
+     "change": 55
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 621280,
+     "pct": 10.73,
+     "seats": 46,
+     "change": -14
+    },
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 558875,
+     "pct": 9.65,
+     "seats": 37,
+     "change": -15
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 409085,
+     "pct": 7.06,
+     "seats": 27,
+     "change": -5
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 367622,
+     "pct": 6.35,
+     "seats": 20,
+     "change": -19
+    },
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 268813,
+     "pct": 4.64,
+     "seats": 19,
+     "change": -4
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 279226,
+     "pct": 4.82,
+     "seats": 12,
+     "change": -6
+    },
+    {
+     "name": "Democratic and Social Movement",
+     "party": "mds",
+     "votes": 74472,
+     "pct": 1.29,
+     "seats": 3,
+     "change": 1
+    },
+    {
+     "name": "Federation of the Democratic Left",
+     "party": "fgd",
+     "votes": 139793,
+     "pct": 2.41,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Unity and Democracy Party",
+     "party": "pud",
+     "votes": 20240,
+     "pct": 0.35,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Green Left Party",
+     "party": "pgv",
+     "votes": 13389,
+     "pct": 0.23,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 260654,
+     "pct": 4.5,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the constituency vote (305 seats, with the table's percentages); the table also gives the nationwide-list vote (90 seats: 60 women, 30 youth). Seats are the table's totals. Turnout is the infobox's; the table gives no invalid votes. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: Covenant and Restoration Alliance 49,040, Front of Democratic Forces 51,945, Environment and Sustainable Development Party 35,645, New Democratic Party 17,003, Party of Renaissance and Virtue 15,522, Party of Liberty and Social Justice 10,811, Democratic Independence Party 13,097, Renaissance Party 11,194, Party of Hope 7,747, Labour Party 2,910, Social Centre Party 6,156, Moroccan Union for Democracy 5,266, Democratic Society Party 3,046, Reform and Development Party 16,501, National Democratic Party 5,115, Independents 9,656. Changes are the table's (\"New\" shown as no change)."
+  },
+  {
+   "id": "ma-house-of-representatives-2021",
+   "office": "House of Representatives",
+   "kind": "legislative",
+   "date": "2021-09-08",
+   "totalSeats": 395,
+   "turnout": 50.86,
+   "source": {
+    "name": "Wikipedia, citing Elections.ma and IDEA",
+    "url": "https://en.wikipedia.org/wiki/2021_Moroccan_general_election",
+    "revid": 1376722030
+   },
+   "candidates": [
+    {
+     "name": "National Rally of Independents",
+     "party": "rni",
+     "votes": 2099036,
+     "pct": 27.69,
+     "seats": 102,
+     "change": 65,
+     "winner": true
+    },
+    {
+     "name": "Authenticity and Modernity Party",
+     "party": "pam",
+     "votes": 1400122,
+     "pct": 18.47,
+     "seats": 87,
+     "change": -15
+    },
+    {
+     "name": "Istiqlal Party",
+     "party": "istiqlal",
+     "votes": 1278420,
+     "pct": 16.87,
+     "seats": 81,
+     "change": 35
+    },
+    {
+     "name": "Socialist Union of Popular Forces",
+     "party": "usfp",
+     "votes": 598293,
+     "pct": 7.89,
+     "seats": 34,
+     "change": 14
+    },
+    {
+     "name": "Popular Movement",
+     "party": "mp",
+     "votes": 534292,
+     "pct": 7.05,
+     "seats": 28,
+     "change": 1
+    },
+    {
+     "name": "Party of Progress and Socialism",
+     "party": "pps",
+     "votes": 378603,
+     "pct": 5,
+     "seats": 22,
+     "change": 10
+    },
+    {
+     "name": "Constitutional Union",
+     "party": "uc",
+     "votes": 418945,
+     "pct": 5.53,
+     "seats": 18,
+     "change": -1
+    },
+    {
+     "name": "Justice and Development Party",
+     "party": "pjd",
+     "votes": 322758,
+     "pct": 4.26,
+     "seats": 13,
+     "change": -112
+    },
+    {
+     "name": "Democratic and Social Movement",
+     "party": "mds",
+     "votes": 126399,
+     "pct": 1.67,
+     "seats": 5,
+     "change": 2
+    },
+    {
+     "name": "Front of Democratic Forces",
+     "party": "ffd",
+     "votes": 70218,
+     "pct": 0.93,
+     "seats": 3,
+     "change": 3
+    },
+    {
+     "name": "Federation of the Democratic Left",
+     "party": "fgd",
+     "votes": 83130,
+     "pct": 1.1,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "Unified Socialist Party",
+     "party": "psu",
+     "votes": 60313,
+     "pct": 0.8,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 208976,
+     "pct": 2.76,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the local-list vote (305 seats), whose shares the infobox uses; the table also gives the regional-list vote (90 seats reserved for women). Seats are the table's totals. Turnout is the infobox's; the table gives no invalid votes. As in the official results, national totals include the constituencies in Moroccan-administered Western Sahara. Others: New Democrats Party 32,295, Environment and Sustainable Development Party 22,959, Social Centre Party 11,968, Hope Party 17,262, Equity Party 16,358, Moroccan Liberal Party 18,884, Unity and Democracy Party 12,841, Moroccan Greens Party 15,639, Democratic Independence Party 8,328, Party of Liberty and Social Justice 7,719, Action Party 6,373, Reform and Development Party 9,891, Renaissance Party 5,730, Democratic Society Party 3,885, Party of Renaissance and Virtue 8,181, National Democratic Party 1,682, Moroccan Union for Democracy 7,983, Democratic Agreement Party 998. Changes are the table's (\"New\" shown as no change)."
+  }
+ ]
+}

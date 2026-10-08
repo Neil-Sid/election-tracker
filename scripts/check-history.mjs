@@ -97,6 +97,12 @@ for (const file of files) {
     } else if (el.annulled) {
       if (winners.length) errors.push(`${at}: an annulled election flags no winner`);
     } else if (winners.length !== 1) errors.push(`${at}: ${winners.length} winners flagged, expected 1`);
+    // Independents carry the winner flag only when they hold a majority of the seats.
+    const ind = el.candidates.find(c => c.party === 'ind');
+    if (ind && el.totalSeats && !el.annulled && el.call?.status !== 'runoff') {
+      const majority = (ind.seats ?? 0) > el.totalSeats / 2;
+      if (majority !== Boolean(ind.winner)) errors.push(`${at}: independents ${majority ? 'hold a majority, so they carry' : 'have no majority, so the largest party carries'} the winner flag`);
+    }
     if (el.kind !== 'presidential' || el.totalSeats != null) {
       const seats = el.candidates.reduce((n, c) => n + (c.seats ?? 0), 0);
       if (!Number.isInteger(el.totalSeats)) errors.push(`${at}: totalSeats missing`);

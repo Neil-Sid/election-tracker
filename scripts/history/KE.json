@@ -1,0 +1,1873 @@
+{
+ "code": "KE",
+ "parties": {
+  "kanu": {
+   "name": "Kenya African National Union",
+   "color": "#F50519",
+   "article": "Kenya African National Union"
+  },
+  "kadu": {
+   "name": "Kenya African Democratic Union",
+   "color": "#008C51",
+   "article": "Kenya African Democratic Union"
+  },
+  "app": {
+   "name": "African People's Party",
+   "color": "#DA7987",
+   "article": "African People's Party"
+  },
+  "fordasili": {
+   "name": "FORD–Asili",
+   "color": "#2A9D8F",
+   "article": "Forum for the Restoration of Democracy – Asili"
+  },
+  "fordk": {
+   "name": "FORD–Kenya",
+   "color": "#339933",
+   "article": "Forum for the Restoration of Democracy – Kenya"
+  },
+  "fordp": {
+   "name": "FORD–People",
+   "color": "#6666FF",
+   "article": "Forum for the Restoration of Democracy – People"
+  },
+  "dp": {
+   "name": "Democratic Party",
+   "color": "#336600",
+   "article": "Democratic Party (Kenya)"
+  },
+  "ksc": {
+   "name": "Kenya Social Congress",
+   "color": "#882D17",
+   "article": "Kenya Social Congress"
+  },
+  "knc": {
+   "name": "Kenya National Congress",
+   "color": "#000000",
+   "article": "Kenya National Congress"
+  },
+  "pick": {
+   "name": "Party of Independent Candidates of Kenya",
+   "color": "#DF9023",
+   "article": "Party of Independent Candidates of Kenya"
+  },
+  "kenda": {
+   "name": "Kenya National Democratic Alliance",
+   "color": "#6633FF",
+   "article": "Kenya National Democratic Alliance"
+  },
+  "sdp": {
+   "name": "Social Democratic Party",
+   "color": "#E0447C",
+   "article": "Social Democratic Party of Kenya"
+  },
+  "ndp": {
+   "name": "National Development Party",
+   "color": "#000040",
+   "article": "National Development Party (Kenya)"
+  },
+  "safina": {
+   "name": "Safina",
+   "color": "#CC6633",
+   "article": "Safina (political party)"
+  },
+  "shirikisho": {
+   "name": "Shirikisho Party of Kenya",
+   "color": "#ADD8E6",
+   "article": "Shirikisho Party of Kenya"
+  },
+  "narc": {
+   "name": "National Rainbow Coalition",
+   "color": "#1889C7",
+   "article": "National Rainbow Coalition"
+  },
+  "sks": {
+   "name": "Sisi Kwa Sisi",
+   "color": "#CCFF99",
+   "article": "Sisi Kwa Sisi"
+  },
+  "odm": {
+   "name": "Orange Democratic Movement",
+   "color": "#F38521",
+   "article": "Orange Democratic Movement"
+  },
+  "pnu": {
+   "name": "Party of National Unity",
+   "color": "#00008B",
+   "article": "Party of National Unity (Kenya)"
+  },
+  "wiper": {
+   "name": "Wiper Democratic Movement – Kenya",
+   "color": "#00ADEF",
+   "article": "Wiper Patriotic Front"
+  },
+  "kaddu": {
+   "name": "Kenya African Democratic Development Union",
+   "color": "#D2559D",
+   "article": "Kenya African Democratic Development Union"
+  },
+  "narck": {
+   "name": "NARC–Kenya",
+   "color": "#66FF66",
+   "article": "People's Liberation Party (Kenya)"
+  },
+  "ccu": {
+   "name": "Chama Cha Uzalendo",
+   "color": "#7E57C2",
+   "article": "Chama Cha Uzalendo"
+  },
+  "udm": {
+   "name": "United Democratic Movement",
+   "color": "#F6FC4F",
+   "article": "United Democratic Movement (Kenya)"
+  },
+  "mazingira": {
+   "name": "Mazingira Green Party of Kenya",
+   "color": "#A4C639",
+   "article": "Mazingira Green Party of Kenya"
+  },
+  "nfk": {
+   "name": "New Ford Kenya",
+   "color": "#0000FF",
+   "article": "New Forum for the Restoration of Democracy–Kenya"
+  },
+  "nlp": {
+   "name": "National Labour Party",
+   "color": "#23C539",
+   "article": "National Labour Party (Kenya)"
+  },
+  "kaduasili": {
+   "name": "KADU–Asili",
+   "color": "#7C7968",
+   "article": "Kenya African Democratic Union – Asili"
+  },
+  "pdp": {
+   "name": "Peoples Democratic Party",
+   "color": "#FF6600",
+   "article": "Peoples Democratic Party (Kenya)"
+  },
+  "ppk": {
+   "name": "Peoples Party of Kenya",
+   "color": "#8E6BB8",
+   "article": "Peoples Party of Kenya"
+  },
+  "tna": {
+   "name": "The National Alliance",
+   "color": "#B0124A",
+   "article": "The National Alliance"
+  },
+  "urp": {
+   "name": "United Republican Party",
+   "color": "#FFD32C",
+   "article": "United Republican Party (Kenya)"
+  },
+  "udf": {
+   "name": "United Democratic Forum Party",
+   "color": "#FFF100",
+   "article": "United Democratic Forum Party"
+  },
+  "apk": {
+   "name": "Alliance Party of Kenya",
+   "color": "#C0CA33",
+   "article": "Alliance Party of Kenya"
+  },
+  "gnu": {
+   "name": "Grand National Union of Kenya",
+   "color": "#FFA500",
+   "article": "Grand National Union of Kenya"
+  },
+  "fpk": {
+   "name": "Federal Party of Kenya",
+   "color": "#158A43",
+   "article": "Federal Party of Kenya"
+  },
+  "tip": {
+   "name": "The Independent Party",
+   "color": "#CC9966",
+   "article": "The Independent Party"
+  },
+  "muungano": {
+   "name": "Muungano Party",
+   "color": "#254306",
+   "article": "Muungano Party"
+  },
+  "mdp": {
+   "name": "Maendeleo Democratic Party",
+   "color": "#03F601",
+   "article": "Maendeleo Democratic Party"
+  },
+  "jubileeall": {
+   "name": "Jubilee Alliance",
+   "color": "#F5051C",
+   "article": "Jubilee Alliance"
+  },
+  "cord": {
+   "name": "Coalition for Reforms and Democracy",
+   "color": "#F6A438",
+   "article": "Coalition for Reforms and Democracy"
+  },
+  "amani": {
+   "name": "Amani Coalition",
+   "color": "#FFFF00",
+   "article": "Amani Coalition"
+  },
+  "jubilee": {
+   "name": "Jubilee Party",
+   "color": "#D84315",
+   "article": "Jubilee Party"
+  },
+  "nasa": {
+   "name": "National Super Alliance",
+   "color": "#FFA500",
+   "article": "National Super Alliance"
+  },
+  "anc": {
+   "name": "Amani National Congress",
+   "color": "#A52A2A",
+   "article": "Amani National Congress"
+  },
+  "mccp": {
+   "name": "Maendeleo Chap Chap Party",
+   "color": "#632F91",
+   "article": "Maendeleo Chap Chap Party"
+  },
+  "ccm": {
+   "name": "Chama Cha Mashinani",
+   "color": "#FFFF00",
+   "article": "Chama Cha Mashinani"
+  },
+  "efp": {
+   "name": "Economic Freedom Party",
+   "color": "#0002C5",
+   "article": "Economic Freedom Party"
+  },
+  "fap": {
+   "name": "Frontier Alliance Party",
+   "color": "#B0855B",
+   "article": "Frontier Alliance Party"
+  },
+  "newdem": {
+   "name": "New Democrats",
+   "color": "#E23237",
+   "article": "New Democrats (Kenya)"
+  },
+  "kpp": {
+   "name": "Kenya Patriots Party",
+   "color": "#F5E18D"
+  },
+  "nap": {
+   "name": "National Agenda Party",
+   "color": "#2D4766",
+   "article": "National Agenda Party (Kenya)"
+  },
+  "uda": {
+   "name": "United Democratic Alliance",
+   "color": "#F4CB23",
+   "article": "United Democratic Alliance (Kenya)"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#8E8E93",
+   "article": "Independent politician"
+  },
+  "appt": {
+   "name": "Appointed members",
+   "color": "#7A8794"
+  },
+  "vac": {
+   "name": "Vacant",
+   "color": "#E5E5EA"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  }
+ },
+ "elections": [
+  {
+   "id": "ke-president-1969",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1969-12-06",
+   "note": "Sole candidate, elected unopposed",
+   "source": {
+    "name": "Wikipedia, citing the IPU and EISA",
+    "url": "https://en.wikipedia.org/wiki/1969_Kenyan_general_election",
+    "revid": 1318859494
+   },
+   "candidates": [
+    {
+     "name": "Jomo Kenyatta",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "notes": "Kenyatta was the sole candidate and, the article says, was automatically elected without a vote, on the day of the general election. No votes were cast."
+  },
+  {
+   "id": "ke-president-1974",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1974-10-14",
+   "note": "Sole candidate, elected unopposed",
+   "source": {
+    "name": "Wikipedia, citing EISA and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1974_Kenyan_general_election",
+    "revid": 1336997680
+   },
+   "candidates": [
+    {
+     "name": "Jomo Kenyatta",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "notes": "Kenyatta was the sole candidate and, the article says, was automatically elected without a vote, on the day of the general election. No votes were cast."
+  },
+  {
+   "id": "ke-president-1978",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1978-11-08",
+   "note": "Sole candidate, elected unopposed",
+   "source": {
+    "name": "Wikipedia, citing Kuria, Assensoh and Cullen",
+    "url": "https://en.wikipedia.org/wiki/1978_Kenyan_presidential_election",
+    "revid": 1367573753
+   },
+   "candidates": [
+    {
+     "name": "Daniel arap Moi",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "notes": "Held after Jomo Kenyatta died in office in August 1978. Moi, the acting president, was the sole candidate and, the article says, was automatically elected without a vote. No votes were cast."
+  },
+  {
+   "id": "ke-president-1979",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1979-11-08",
+   "note": "Sole candidate, elected unopposed",
+   "source": {
+    "name": "Wikipedia, citing EISA and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1979_Kenyan_general_election",
+    "revid": 1315649055
+   },
+   "candidates": [
+    {
+     "name": "Daniel arap Moi",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "notes": "Moi was the sole candidate and, the article says, was automatically elected without a vote, on the day of the general election. No votes were cast."
+  },
+  {
+   "id": "ke-president-1983",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1983-09-26",
+   "note": "Sole candidate, elected unopposed",
+   "source": {
+    "name": "Wikipedia, citing EISA and the IPU",
+    "url": "https://en.wikipedia.org/wiki/1983_Kenyan_general_election",
+    "revid": 1319851938
+   },
+   "candidates": [
+    {
+     "name": "Daniel arap Moi",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "notes": "Moi was the sole candidate and, the article says, was automatically elected without a vote, on the day of the general election. No votes were cast."
+  },
+  {
+   "id": "ke-president-1988",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1988-03-21",
+   "note": "Sole candidate, elected unopposed",
+   "source": {
+    "name": "Wikipedia, citing the Parliament of Kenya",
+    "url": "https://en.wikipedia.org/wiki/1988_Kenyan_general_election",
+    "revid": 1254188189
+   },
+   "candidates": [
+    {
+     "name": "Daniel arap Moi",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "winner": true
+    }
+   ],
+   "notes": "Moi was the sole candidate and, the article says, was automatically elected without a vote, on the day of the general election. No votes were cast."
+  },
+  {
+   "id": "ke-president-1992",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1992-12-29",
+   "note": "Marred by irregularities",
+   "turnout": 69,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/1992_Kenyan_general_election",
+    "revid": 1367295824
+   },
+   "candidates": [
+    {
+     "name": "Daniel arap Moi",
+     "party": "kanu",
+     "votes": 1962866,
+     "pct": 36.35,
+     "winner": true
+    },
+    {
+     "name": "Kenneth Matiba",
+     "party": "fordasili",
+     "votes": 1404266,
+     "pct": 26
+    },
+    {
+     "name": "Mwai Kibaki",
+     "party": "dp",
+     "votes": 1050617,
+     "pct": 19.45
+    },
+    {
+     "name": "Jaramogi Oginga Odinga",
+     "party": "fordk",
+     "votes": 944197,
+     "pct": 17.48
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 38378,
+     "pct": 0.71
+    }
+   ],
+   "notes": "First direct presidential election. Turnout is the lead's figure (69%) for the general election; the table gives no invalid votes. The lead says the results were marred by irregularities, including intimidation and ballot-box stuffing. Region winners are the leading candidate in each province from the article's by-province table (Nohlen et al.), whose totals are a little lower than the national table's. Others: George Anyona 14,273, Chibule wa Tsuma 10,221, John Harun Mwau 8,118, David Mukaru Ng'ang'a 5,766.",
+   "regionWinners": {
+    "110": "fordasili",
+    "200": "fordasili",
+    "300": "kanu",
+    "400": "dp",
+    "500": "kanu",
+    "600": "fordk",
+    "700": "kanu",
+    "800": "kanu"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1992_Kenyan_general_election"
+  },
+  {
+   "id": "ke-president-1997",
+   "office": "President",
+   "kind": "presidential",
+   "date": "1997-12-29",
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1997_Kenyan_general_election",
+    "revid": 1367545579
+   },
+   "candidates": [
+    {
+     "name": "Daniel arap Moi",
+     "party": "kanu",
+     "votes": 2500865,
+     "pct": 40.4,
+     "winner": true
+    },
+    {
+     "name": "Mwai Kibaki",
+     "party": "dp",
+     "votes": 1911742,
+     "pct": 30.89
+    },
+    {
+     "name": "Raila Odinga",
+     "party": "ndp",
+     "votes": 667886,
+     "pct": 10.79
+    },
+    {
+     "name": "Michael Kijana Wamalwa",
+     "party": "fordk",
+     "votes": 505704,
+     "pct": 8.17
+    },
+    {
+     "name": "Charity Ngilu",
+     "party": "sdp",
+     "votes": 488600,
+     "pct": 7.89
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 114887,
+     "pct": 1.86
+    }
+   ],
+   "notes": "The table gives an electorate (9,063,390) but no invalid votes, so turnout is omitted. Region winners are the leading candidate in each province from the article's by-province table, which gives the top five candidates. Others: Martin Shikuku 36,512, Katama Mkangi 23,554, George Anyona 16,428, Kimani wa Nyoike 8,306, Koigi wa Wamwere 7,745, Munyua Waiyaki 6,194, Godfrey M' Mwereria 4,627, Wangari Maathai 4,246, Stephen Oludhe 3,691, David Waweru Ng'ethe 3,584.",
+   "regionWinners": {
+    "110": "dp",
+    "200": "dp",
+    "300": "kanu",
+    "400": "kanu",
+    "500": "kanu",
+    "600": "ndp",
+    "700": "kanu",
+    "800": "fordk"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/1997_Kenyan_general_election"
+  },
+  {
+   "id": "ke-president-2002",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2002-12-27",
+   "turnout": 57.18,
+   "source": {
+    "name": "Wikipedia, citing IFES",
+    "url": "https://en.wikipedia.org/wiki/2002_Kenyan_general_election",
+    "revid": 1368172464
+   },
+   "candidates": [
+    {
+     "name": "Mwai Kibaki",
+     "party": "narc",
+     "votes": 3646277,
+     "pct": 62.2,
+     "winner": true
+    },
+    {
+     "name": "Uhuru Kenyatta",
+     "party": "kanu",
+     "votes": 1835890,
+     "pct": 31.32
+    },
+    {
+     "name": "Simeon Nyachae",
+     "party": "fordp",
+     "votes": 345152,
+     "pct": 5.89
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 34585,
+     "pct": 0.59
+    }
+   ],
+   "notes": "Turnout is votes cast (valid plus 114,006 invalid) over 10,451,150 registered voters, as the table gives it; the infobox also gives 57.18%. Others: James Orengo 24,524, David Ng'ethe 10,061."
+  },
+  {
+   "id": "ke-president-2007",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2007-12-27",
+   "note": "Disputed result",
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2007_Kenyan_general_election",
+    "revid": 1375215182
+   },
+   "candidates": [
+    {
+     "name": "Mwai Kibaki",
+     "party": "pnu",
+     "votes": 4584721,
+     "pct": 46.42,
+     "winner": true
+    },
+    {
+     "name": "Raila Odinga",
+     "party": "odm",
+     "votes": 4352993,
+     "pct": 44.07
+    },
+    {
+     "name": "Kalonzo Musyoka",
+     "party": "wiper",
+     "votes": 879903,
+     "pct": 8.91
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 59411,
+     "pct": 0.6
+    }
+   ],
+   "notes": "The lead says Odinga also claimed victory and that the international community agrees the presidential election was at least partly manipulated; the 2007–08 crisis followed. The table gives an electorate (14,296,180) but no invalid votes, so turnout is omitted. Musyoka's ODM–Kenya is today's Wiper (same article). Others: Joseph Karani 21,171, Pius Muiru 9,667, Nazlin Omar 8,624, Kenneth Matiba 8,046, David Waweru Ng'ethe 5,976, Nixon Kukubo 5,927."
+  },
+  {
+   "id": "ke-president-2013",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2013-03-04",
+   "source": {
+    "name": "Wikipedia, citing the IEBC",
+    "url": "https://en.wikipedia.org/wiki/2013_Kenyan_general_election",
+    "revid": 1371516541
+   },
+   "candidates": [
+    {
+     "name": "Uhuru Kenyatta",
+     "party": "jubileeall",
+     "votes": 6173433,
+     "pct": 50.51,
+     "winner": true
+    },
+    {
+     "name": "Raila Odinga",
+     "party": "cord",
+     "votes": 5340546,
+     "pct": 43.7
+    },
+    {
+     "name": "Musalia Mudavadi",
+     "party": "amani",
+     "votes": 483981,
+     "pct": 3.96
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 223093,
+     "pct": 1.83
+    }
+   ],
+   "notes": "Parties are the coalitions the table names: Kenyatta (The National Alliance) for the Jubilee Alliance and Odinga (ODM) for CORD. Turnout is votes cast (valid plus 108,975 invalid) over 14,388,781 registered voters, as the table gives it; the infobox gives 85.91%. Odinga's challenge in the Supreme Court failed. Others: Peter Kenneth 72,786, Mohammed Abduba Dida 52,848, Martha Karua 43,881, James ole Kiyiapi 40,998, Paul Muite 12,580.",
+   "turnout": 85.69
+  },
+  {
+   "id": "ke-president-2017-08",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2017-08-08",
+   "label": "August 2017",
+   "annulled": true,
+   "note": "Annulled by the Supreme Court",
+   "turnout": 79.51,
+   "source": {
+    "name": "Wikipedia, citing the IEBC",
+    "url": "https://en.wikipedia.org/wiki/2017_Kenyan_general_election",
+    "revid": 1373765438
+   },
+   "candidates": [
+    {
+     "name": "Uhuru Kenyatta",
+     "party": "jubilee",
+     "votes": 8223369,
+     "pct": 54.17
+    },
+    {
+     "name": "Raila Odinga",
+     "party": "nasa",
+     "votes": 6822812,
+     "pct": 44.94
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 135359,
+     "pct": 0.89
+    }
+   ],
+   "notes": "The IEBC declared Kenyatta elected, but the Supreme Court annulled the result and ordered a new election, held on 26 October 2017. Turnout is votes cast (valid plus 411,510 invalid) over 19,611,423 registered voters, as the table gives it; the infobox also gives 79.51%. Region winners are the leading candidate in each former province, summing the article's by-county table (the 47 counties, without the diaspora and prisons rows) into provinces as \"Counties of Kenya\" groups them. Others: Joseph Nyagah 38,029, Abduba Dida 38,004, Ekuru Aukot 27,400, Japheth Kaluyu 11,774, Cyrus Jirongo 11,282, Michael Wainaina 8,870.",
+   "regionWinners": {
+    "110": "nasa",
+    "200": "jubilee",
+    "300": "nasa",
+    "400": "jubilee",
+    "500": "jubilee",
+    "600": "nasa",
+    "700": "jubilee",
+    "800": "nasa"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2017_Kenyan_general_election"
+  },
+  {
+   "id": "ke-president-2017-10",
+   "office": "President",
+   "kind": "presidential",
+   "date": "2017-10-26",
+   "label": "October 2017",
+   "note": "Re-run; Raila Odinga withdrew",
+   "turnout": 39.03,
+   "source": {
+    "name": "Wikipedia, citing the IEBC",
+    "url": "https://en.wikipedia.org/wiki/October_2017_Kenyan_presidential_election",
+    "revid": 1374859721
+   },
+   "candidates": [
+    {
+     "name": "Uhuru Kenyatta",
+     "party": "jubilee",
+     "votes": 7483895,
+     "pct": 98.26,
+     "winner": true
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 132322,
+     "pct": 1.74
+    }
+   ],
+   "notes": "Re-run after the Supreme Court annulled the August election. Raila Odinga withdrew on 10 October but stayed on the ballot; his 73,228 votes (0.96%) are under Others. Turnout is votes cast (valid plus 37,713 invalid) over 19,611,423 registered voters; the infobox also gives 39.03%. Others: Raila Odinga 73,228, Ekuru Aukot 21,333, Abduba Dida 14,107, Japheth Kaluyu 8,261, Michael Wainaina 6,007, Joseph Nyagah 5,554, Cyrus Jirongo 3,832."
+  },
+  {
+   "id": "ke-national-assembly-1963",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1963-05-26",
+   "note": "House of Representatives, before independence",
+   "totalSeats": 129,
+   "source": {
+    "name": "Wikipedia, citing EISA and Sternberger et al.",
+    "url": "https://en.wikipedia.org/wiki/1963_Kenyan_general_election",
+    "revid": 1362454022
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 988311,
+     "pct": 53.6,
+     "seats": 83,
+     "change": 64,
+     "winner": true
+    },
+    {
+     "name": "Kenya African Democratic Union",
+     "party": "kadu",
+     "votes": 476218,
+     "pct": 25.83,
+     "seats": 33,
+     "change": 22
+    },
+    {
+     "name": "African People's Party",
+     "party": "app",
+     "votes": 137008,
+     "pct": 7.43,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 218311,
+     "pct": 11.84,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 24031,
+     "pct": 1.3,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "House of Representatives of Kenya Colony, elected 18–26 May 1963; the date is the last day. Seats are the table's totals: 117 constituency seats and 12 \"national\" seats, as the table splits them. The 5 vacant seats are constituencies that, the lead says, remained unfilled because of a secessionist conflict on the border with Somalia. Others: the Baluhya Political Union (14,896 votes) and the Coast People's Party (9,135). Changes are the table's (\"New\" shown as no change). The table gives an electorate of 2,583,000 but no invalid votes, so turnout is omitted."
+  },
+  {
+   "id": "ke-national-assembly-1969",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1969-12-06",
+   "note": "De facto one-party state (KANU)",
+   "totalSeats": 170,
+   "turnout": 44.6,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1969_Kenyan_general_election",
+    "revid": 1318859494
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 1687734,
+     "pct": 100,
+     "seats": 158,
+     "change": 75,
+     "winner": true
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": null
+    }
+   ],
+   "notes": "Turnout is the lead's figure (44.6%); the table has no invalid votes. KANU was the only party to take part: the Kenya People's Union had been banned on 30 October. 600 KANU candidates stood for 158 seats. The 12 appointed members are a row of the table. The total of 170 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-1974",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1974-10-14",
+   "note": "De facto one-party state (KANU)",
+   "totalSeats": 170,
+   "turnout": 56.5,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1974_Kenyan_general_election",
+    "revid": 1336997680
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 2627308,
+     "pct": 100,
+     "seats": 158,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is the lead's figure (56.5%); the table has no invalid votes. KANU was the only party to take part; 740 KANU candidates stood for 158 seats. The 12 appointed members are a row of the table. The total of 170 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-1979",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1979-11-08",
+   "note": "De facto one-party state (KANU)",
+   "totalSeats": 170,
+   "turnout": 67.7,
+   "source": {
+    "name": "Wikipedia, citing the IPU",
+    "url": "https://en.wikipedia.org/wiki/1979_Kenyan_general_election",
+    "revid": 1315649055
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 3733537,
+     "pct": 100,
+     "seats": 158,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is votes cast (valid plus 58,956 invalid) over the registered electorate, as the table gives it; the lead gives 67.3%. KANU was the only party to take part; 742 KANU candidates stood for 158 seats. The 12 appointed members are a row of the table. The total of 170 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-1983",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1983-09-26",
+   "note": "Single party (KANU)",
+   "totalSeats": 170,
+   "turnout": 48.25,
+   "source": {
+    "name": "Wikipedia, citing the IPU",
+    "url": "https://en.wikipedia.org/wiki/1983_Kenyan_general_election",
+    "revid": 1319851938
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 3331047,
+     "pct": 100,
+     "seats": 158,
+     "change": 0,
+     "winner": true
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is votes cast (valid plus 63,676 invalid) over the registered electorate, as the table gives it; the lead gives 45.9%. KANU had been made the sole legal party in 1982. The 12 appointed members are a row of the table. The total of 170 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-1988",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1988-03-21",
+   "note": "Single party (KANU)",
+   "totalSeats": 200,
+   "turnout": 40.7,
+   "source": {
+    "name": "Wikipedia, citing the IPU",
+    "url": "https://en.wikipedia.org/wiki/1988_Kenyan_general_election",
+    "revid": 1254188189
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 2231229,
+     "pct": 100,
+     "seats": 188,
+     "change": 30,
+     "winner": true
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is votes cast (valid plus 33,152 invalid) over the registered electorate, as the table gives it. KANU was the sole legal party; the Assembly grew from 158 to 188 elected seats. The 12 appointed members are a row of the table. The total of 200 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-1992",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1992-12-29",
+   "note": "Marred by irregularities",
+   "totalSeats": 200,
+   "turnout": 69,
+   "source": {
+    "name": "Wikipedia, citing Nohlen et al.",
+    "url": "https://en.wikipedia.org/wiki/1992_Kenyan_general_election",
+    "revid": 1367295824
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "seats": 100,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "FORD–Asili",
+     "party": "fordasili",
+     "votes": null,
+     "pct": null,
+     "seats": 31,
+     "change": null
+    },
+    {
+     "name": "FORD–Kenya",
+     "party": "fordk",
+     "votes": null,
+     "pct": null,
+     "seats": 31,
+     "change": null
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": null,
+     "pct": null,
+     "seats": 23,
+     "change": null
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "Kenya National Congress",
+     "party": "knc",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Party of Independent Candidates of Kenya",
+     "party": "pick",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kenya Social Congress",
+     "party": "ksc",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "First multi-party election since independence. The table gives seats only (188 elected plus 12 appointed members, a row of the table; the text says Moi nominated 12 KANU members). The Kenya National Democratic Alliance and the Social Democratic Party won no seats; the table gives no votes. Turnout is the lead's figure (69%) for the general election. The lead says the results were marred by irregularities, including intimidation and ballot-box stuffing. The total of 200 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-1997",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "1997-12-29",
+   "totalSeats": 222,
+   "turnout": 65.2,
+   "source": {
+    "name": "Wikipedia, citing the IPU",
+    "url": "https://en.wikipedia.org/wiki/1997_Kenyan_general_election",
+    "revid": 1367545579
+   },
+   "candidates": [
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "seats": 107,
+     "change": 7,
+     "winner": true
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": null,
+     "pct": null,
+     "seats": 39,
+     "change": 16
+    },
+    {
+     "name": "National Development Party",
+     "party": "ndp",
+     "votes": null,
+     "pct": null,
+     "seats": 21,
+     "change": null
+    },
+    {
+     "name": "FORD–Kenya",
+     "party": "fordk",
+     "votes": null,
+     "pct": null,
+     "seats": 17,
+     "change": -14
+    },
+    {
+     "name": "Social Democratic Party",
+     "party": "sdp",
+     "votes": null,
+     "pct": null,
+     "seats": 15,
+     "change": 15
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    },
+    {
+     "name": "Safina",
+     "party": "safina",
+     "votes": null,
+     "pct": null,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "FORD–People",
+     "party": "fordp",
+     "votes": null,
+     "pct": null,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "FORD–Asili",
+     "party": "fordasili",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": -30
+    },
+    {
+     "name": "Kenya Social Congress",
+     "party": "ksc",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Shirikisho Party of Kenya",
+     "party": "shirikisho",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    }
+   ],
+   "notes": "The table gives seats only: 210 elected plus 12 appointed members, a row of the table (the text says six were KANU, two Democratic Party and one each from the NDP, FORD–Kenya, the SDP and Safina). Turnout is the table's valid (5,813,599) plus invalid (95,349) votes over 9,063,390 registered voters. Changes are the table's (\"New\" shown as no change). The total of 222 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-2002",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2002-12-27",
+   "totalSeats": 222,
+   "source": {
+    "name": "Wikipedia, citing the African Elections Database",
+    "url": "https://en.wikipedia.org/wiki/2002_Kenyan_general_election",
+    "revid": 1368172464
+   },
+   "candidates": [
+    {
+     "name": "National Rainbow Coalition",
+     "party": "narc",
+     "votes": null,
+     "pct": null,
+     "seats": 125,
+     "change": 69,
+     "winner": true
+    },
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": null,
+     "pct": null,
+     "seats": 64,
+     "change": -43
+    },
+    {
+     "name": "FORD–People",
+     "party": "fordp",
+     "votes": null,
+     "pct": null,
+     "seats": 14,
+     "change": 11
+    },
+    {
+     "name": "Appointed members",
+     "party": "appt",
+     "votes": null,
+     "pct": null,
+     "seats": 12,
+     "change": 0
+    },
+    {
+     "name": "FORD–Asili",
+     "party": "fordasili",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Safina",
+     "party": "safina",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": -3
+    },
+    {
+     "name": "Sisi Kwa Sisi",
+     "party": "sks",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Shirikisho Party of Kenya",
+     "party": "shirikisho",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": 0
+    }
+   ],
+   "notes": "The table gives seats only. NARC is one row with its alliance total (125); the table lists its members as the Liberal Democratic Party 59, the Democratic Party 39, FORD–Kenya 21 and the National Party of Kenya 6. The 12 appointed members are a row of the table (the text says seven NARC, four KANU and one FORD–People). \"Other parties\" won no seats. Turnout is not given for the National Assembly (the presidential turnout was 57.18%). The total of 222 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-2007",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2007-12-27",
+   "totalSeats": 210,
+   "source": {
+    "name": "Wikipedia, citing IDE",
+    "url": "https://en.wikipedia.org/wiki/2007_Kenyan_general_election",
+    "revid": 1375215182
+   },
+   "candidates": [
+    {
+     "name": "Orange Democratic Movement",
+     "party": "odm",
+     "votes": 2973415,
+     "pct": 30.83,
+     "seats": 99,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Party of National Unity",
+     "party": "pnu",
+     "votes": 2014413,
+     "pct": 20.89,
+     "seats": 43,
+     "change": null
+    },
+    {
+     "name": "Orange Democratic Movement–Kenya",
+     "party": "wiper",
+     "votes": 633880,
+     "pct": 6.57,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 613864,
+     "pct": 6.36,
+     "seats": 15,
+     "change": -49
+    },
+    {
+     "name": "Safina",
+     "party": "safina",
+     "votes": 366629,
+     "pct": 3.8,
+     "seats": 5,
+     "change": 3
+    },
+    {
+     "name": "NARC–Kenya",
+     "party": "narck",
+     "votes": 158752,
+     "pct": 1.65,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "National Rainbow Coalition",
+     "party": "narc",
+     "votes": 328945,
+     "pct": 3.41,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "FORD–People",
+     "party": "fordp",
+     "votes": 192489,
+     "pct": 2,
+     "seats": 3,
+     "change": -11
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": 237205,
+     "pct": 2.46,
+     "seats": 2,
+     "change": -37
+    },
+    {
+     "name": "Sisi Kwa Sisi",
+     "party": "sks",
+     "votes": 149933,
+     "pct": 1.55,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Chama Cha Uzalendo",
+     "party": "ccu",
+     "votes": 115243,
+     "pct": 1.19,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "New Ford Kenya",
+     "party": "nfk",
+     "votes": 88562,
+     "pct": 0.92,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Party of Independent Candidates of Kenya",
+     "party": "pick",
+     "votes": 85348,
+     "pct": 0.88,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Kenya African Democratic Development Union",
+     "party": "kaddu",
+     "votes": 190051,
+     "pct": 1.97,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Kenya National Democratic Alliance",
+     "party": "kenda",
+     "votes": 162538,
+     "pct": 1.69,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "United Democratic Movement",
+     "party": "udm",
+     "votes": 107831,
+     "pct": 1.12,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Mazingira Green Party of Kenya",
+     "party": "mazingira",
+     "votes": 95227,
+     "pct": 0.99,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "FORD–Kenya",
+     "party": "fordk",
+     "votes": 75145,
+     "pct": 0.78,
+     "seats": 1,
+     "change": -20
+    },
+    {
+     "name": "FORD–Asili",
+     "party": "fordasili",
+     "votes": 66013,
+     "pct": 0.68,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "National Labour Party",
+     "party": "nlp",
+     "votes": 51887,
+     "pct": 0.54,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "KADU–Asili",
+     "party": "kaduasili",
+     "votes": 30462,
+     "pct": 0.32,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Peoples Democratic Party",
+     "party": "pdp",
+     "votes": 15655,
+     "pct": 0.16,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Peoples Party of Kenya",
+     "party": "ppk",
+     "votes": 14892,
+     "pct": 0.15,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 876827,
+     "pct": 9.09,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Seats are the 210 elected seats in the table; the 12 members nominated after the election are not in it. The 2 vacant seats are Kamukunji and Kilgoris, where, the text says, the elections were cancelled. Shares are of the votes in the table (no invalid votes or electorate given, so no turnout). Others: 94 parties without seats, none above 1%. Changes are the table's (\"New\" and \"–\" shown as no change). Region winners are the party that won most constituencies in each province, counted from the constituency lists in \"Results of the 2007 Kenyan general election\". North Eastern is left out: the list gives ODM 5 seats to KANU's 4 there, and its KANU total (14) is one below the main table's 15.",
+   "regionWinners": {
+    "110": "odm",
+    "200": "pnu",
+    "300": "odm",
+    "400": "wiper",
+    "600": "odm",
+    "700": "odm",
+    "800": "odm"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/Results_of_the_2007_Kenyan_general_election"
+  },
+  {
+   "id": "ke-national-assembly-2013",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2013-03-04",
+   "totalSeats": 349,
+   "source": {
+    "name": "Wikipedia, citing the IEBC",
+    "url": "https://en.wikipedia.org/wiki/2013_Kenyan_general_election",
+    "revid": 1371516541
+   },
+   "candidates": [
+    {
+     "name": "Orange Democratic Movement",
+     "party": "odm",
+     "votes": 2608898,
+     "pct": 21.39,
+     "seats": 96,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "The National Alliance",
+     "party": "tna",
+     "votes": 3044810,
+     "pct": 24.97,
+     "seats": 88,
+     "change": null
+    },
+    {
+     "name": "United Republican Party",
+     "party": "urp",
+     "votes": 1509802,
+     "pct": 12.38,
+     "seats": 76,
+     "change": null
+    },
+    {
+     "name": "Wiper Democratic Movement – Kenya",
+     "party": "wiper",
+     "votes": 682597,
+     "pct": 5.6,
+     "seats": 26,
+     "change": null
+    },
+    {
+     "name": "United Democratic Forum Party",
+     "party": "udf",
+     "votes": 452543,
+     "pct": 3.71,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "FORD–Kenya",
+     "party": "fordk",
+     "votes": 429670,
+     "pct": 3.52,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "New Ford Kenya",
+     "party": "nfk",
+     "votes": 143395,
+     "pct": 1.18,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 286393,
+     "pct": 2.35,
+     "seats": 6,
+     "change": null
+    },
+    {
+     "name": "Alliance Party of Kenya",
+     "party": "apk",
+     "votes": 292652,
+     "pct": 2.4,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 107898,
+     "pct": 0.88,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "National Rainbow Coalition",
+     "party": "narc",
+     "votes": 366256,
+     "pct": 3,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Federal Party of Kenya",
+     "party": "fpk",
+     "votes": 195742,
+     "pct": 1.61,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "FORD–People",
+     "party": "fordp",
+     "votes": 91218,
+     "pct": 0.75,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "Kenya National Congress",
+     "party": "knc",
+     "votes": 196609,
+     "pct": 1.61,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Chama Cha Uzalendo",
+     "party": "ccu",
+     "votes": 132246,
+     "pct": 1.08,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "The Independent Party",
+     "party": "tip",
+     "votes": 132159,
+     "pct": 1.08,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "NARC–Kenya",
+     "party": "narck",
+     "votes": 99715,
+     "pct": 0.82,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Peoples Democratic Party",
+     "party": "pdp",
+     "votes": 92278,
+     "pct": 0.76,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Muungano Party",
+     "party": "muungano",
+     "votes": 77233,
+     "pct": 0.63,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Maendeleo Democratic Party",
+     "party": "mdp",
+     "votes": 34564,
+     "pct": 0.28,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "KADU–Asili",
+     "party": "kaduasili",
+     "votes": 19907,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Grand National Union of Kenya",
+     "party": "gnu",
+     "votes": 260562,
+     "pct": 2.14,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Democratic Party",
+     "party": "dp",
+     "votes": 174453,
+     "pct": 1.43,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 764050,
+     "pct": 6.26,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the constituency vote (the table also gives the county women's representative vote). Seats are the table's totals: 290 constituency seats, 47 county women's seats and 12 appointed seats. The table has no change column. ODM won the most seats of any single party, though Kenyatta (TNA, backed by the Jubilee Alliance) won the presidency. Others: 38 parties without seats, none above 1%. The total of 349 seats is the sum of the table's rows; the wikitext prints no total."
+  },
+  {
+   "id": "ke-national-assembly-2017",
+   "office": "National Assembly",
+   "kind": "legislative",
+   "date": "2017-08-08",
+   "totalSeats": 349,
+   "source": {
+    "name": "Wikipedia, citing the IPU and the IEBC",
+    "url": "https://en.wikipedia.org/wiki/2017_Kenyan_general_election",
+    "revid": 1373765438
+   },
+   "candidates": [
+    {
+     "name": "Jubilee Party",
+     "party": "jubilee",
+     "votes": 6029273,
+     "pct": 40.2,
+     "seats": 169,
+     "change": -33,
+     "winner": true
+    },
+    {
+     "name": "Orange Democratic Movement",
+     "party": "odm",
+     "votes": 2884267,
+     "pct": 19.23,
+     "seats": 77,
+     "change": -20
+    },
+    {
+     "name": "Wiper Democratic Movement – Kenya",
+     "party": "wiper",
+     "votes": 770875,
+     "pct": 5.14,
+     "seats": 23,
+     "change": -3
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 2347061,
+     "pct": 15.65,
+     "seats": 14,
+     "change": 10
+    },
+    {
+     "name": "Amani National Congress",
+     "party": "anc",
+     "votes": 569022,
+     "pct": 3.79,
+     "seats": 14,
+     "change": null
+    },
+    {
+     "name": "Forum for the Restoration of Democracy – Kenya",
+     "party": "fordk",
+     "votes": 495043,
+     "pct": 3.3,
+     "seats": 12,
+     "change": 2
+    },
+    {
+     "name": "Kenya African National Union",
+     "party": "kanu",
+     "votes": 366808,
+     "pct": 2.45,
+     "seats": 10,
+     "change": 4
+    },
+    {
+     "name": "Party of Development and Reforms",
+     "party": "uda",
+     "votes": 67515,
+     "pct": 0.45,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Economic Freedom Party",
+     "party": "efp",
+     "votes": 66711,
+     "pct": 0.44,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Maendeleo Chap Chap Party",
+     "party": "mccp",
+     "votes": 251876,
+     "pct": 1.68,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Chama Cha Mashinani",
+     "party": "ccm",
+     "votes": 90923,
+     "pct": 0.61,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Peoples Democratic Party",
+     "party": "pdp",
+     "votes": 53358,
+     "pct": 0.36,
+     "seats": 2,
+     "change": 1
+    },
+    {
+     "name": "Kenya National Congress",
+     "party": "knc",
+     "votes": 44222,
+     "pct": 0.29,
+     "seats": 2,
+     "change": 0
+    },
+    {
+     "name": "Kenya Patriots Party",
+     "party": "kpp",
+     "votes": 23785,
+     "pct": 0.16,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Party of National Unity",
+     "party": "pnu",
+     "votes": 179130,
+     "pct": 1.19,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Democratic Party of Kenya",
+     "party": "dp",
+     "votes": 70388,
+     "pct": 0.47,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Muungano Party",
+     "party": "muungano",
+     "votes": 63320,
+     "pct": 0.42,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Frontier Alliance Party",
+     "party": "fap",
+     "votes": 39462,
+     "pct": 0.26,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Chama Cha Uzalendo",
+     "party": "ccu",
+     "votes": 30926,
+     "pct": 0.21,
+     "seats": 1,
+     "change": -1
+    },
+    {
+     "name": "New Democrats",
+     "party": "newdem",
+     "votes": 24343,
+     "pct": 0.16,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "National Agenda Party of Kenya",
+     "party": "nap",
+     "votes": 17421,
+     "pct": 0.12,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Vacant",
+     "party": "vac",
+     "votes": null,
+     "pct": null,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 514203,
+     "pct": 3.43,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Votes and shares are the constituency vote (the table also gives the county women's representative vote). Seats are the table's totals: 290 constituency seats, 47 county women's seats and 12 appointed seats; one seat was vacant because of the death of a candidate. The Party of Development and Reforms is today's United Democratic Alliance (same article). Changes are the table's (blank or \"New\" shown as no change). Others: 44 parties without seats, none above 1%."
+  }
+ ]
+}

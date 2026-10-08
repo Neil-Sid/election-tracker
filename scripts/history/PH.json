@@ -2330,8 +2330,7 @@
      "votes": 24004705,
      "pct": 8.08,
      "seats": 5,
-     "change": 0,
-     "winner": true
+     "change": 0
     },
     {
      "name": "Liberal Party",
@@ -2339,7 +2338,8 @@
      "votes": 78227817,
      "pct": 26.34,
      "seats": 4,
-     "change": 0
+     "change": 0,
+     "winner": true
     },
     {
      "name": "Nacionalista Party",

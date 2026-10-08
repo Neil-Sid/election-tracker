@@ -901,5 +901,43 @@
     "pollsClose": "18:00",
     "basedOn": "iq-council-of-representatives-2025",
     "tentative": true
+  },
+  {
+    "country": "KE",
+    "office": "President",
+    "kind": "presidential",
+    "date": "2027-08-10",
+    "timezone": "Africa/Nairobi",
+    "pollsClose": "17:00",
+    "basedOn": "ke-president-2022"
+  },
+  {
+    "country": "KE",
+    "office": "National Assembly",
+    "kind": "legislative",
+    "date": "2027-08-10",
+    "timezone": "Africa/Nairobi",
+    "pollsClose": "17:00",
+    "basedOn": "ke-national-assembly-2022"
+  },
+  {
+    "country": "BW",
+    "office": "National Assembly",
+    "kind": "legislative",
+    "date": "2029-10-31",
+    "timezone": "Africa/Gaborone",
+    "pollsClose": "19:00",
+    "basedOn": "bw-national-assembly-2024",
+    "tentative": true
+  },
+  {
+    "country": "MA",
+    "office": "House of Representatives",
+    "kind": "legislative",
+    "date": "2031-09-01",
+    "timezone": "Africa/Casablanca",
+    "pollsClose": "19:00",
+    "basedOn": "ma-house-of-representatives-2026",
+    "tentative": true
   }
 ]

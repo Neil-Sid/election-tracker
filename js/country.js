@@ -248,11 +248,12 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     // A single-round race says how it was won; the first-round shares of a race
     // won on transfers or without its run-off don't show the winner ahead.
     const named = view.candidates.filter(c => c.party !== 'oth');
+    const others = view.candidates.find(c => c.party === 'oth');
     const won = named.find(c => c.winner);
     const top = [...named].sort((a, b) => (b.pct ?? 0) - (a.pct ?? 0))[0];
     const rule = el.annulled ? 'Annulled'
       : rounds ? null
-      : named.length === 1 ? 'Unopposed'
+      : named.length === 1 && !(others?.pct > 0) ? 'Unopposed'
       : !won ? (/single-round/i.test(el.system ?? '') ? 'The most votes wins' : null)
       : el.chosenBy ? `Chosen by ${el.chosenBy}`
       : won.pct == null ? null

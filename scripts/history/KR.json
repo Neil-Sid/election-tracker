@@ -1404,8 +1404,7 @@
           "votes": 2745483,
           "pct": 40.47,
           "seats": 85,
-          "change": null,
-          "winner": true
+          "change": null
         },
         {
           "name": "National Association",
@@ -1413,7 +1412,8 @@
           "votes": 1755543,
           "pct": 25.87,
           "seats": 55,
-          "change": null
+          "change": null,
+          "winner": true
         },
         {
           "name": "Korea Democratic Party",

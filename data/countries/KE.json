@@ -1,0 +1,561 @@
+{
+  "code": "KE",
+  "name": "Kenya",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary presidential republic",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "Parliament: National Assembly (349) and Senate (67)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 22120458,
+    "offices": {
+      "President": "Elected by popular vote with a running mate for deputy president; to win in the first round a candidate needs more than half of the votes nationally and at least a quarter of the votes in 24 of the 47 counties, otherwise the top two meet in a run-off. The president is head of state and of government, and the 2010 constitution limits presidents to two terms.",
+      "National Assembly": "Its 349 members are 290 elected by first past the post in single-member constituencies, 47 women elected in the counties, and 12 nominated by the parties according to their seats; the Speaker is an ex officio member. It is the lower house of Parliament since the Senate was restored in 2013, and general elections are held on the second Tuesday of August every fifth year."
+    }
+  },
+  "parties": {
+    "amani": {
+      "name": "Amani Coalition",
+      "color": "#FFFF00"
+    },
+    "anc": {
+      "name": "Amani National Congress",
+      "color": "#A52A2A"
+    },
+    "apk": {
+      "name": "Alliance Party of Kenya",
+      "color": "#C0CA33"
+    },
+    "app": {
+      "name": "African People's Party",
+      "color": "#DA7987"
+    },
+    "appt": {
+      "name": "Appointed members",
+      "color": "#7A8794"
+    },
+    "azimio": {
+      "name": "Azimio la Umoja",
+      "color": "#011FB1"
+    },
+    "cck": {
+      "name": "Chama Cha Kazi",
+      "color": "#3853A4"
+    },
+    "ccm": {
+      "name": "Chama Cha Mashinani",
+      "color": "#FFFF00"
+    },
+    "ccu": {
+      "name": "Chama Cha Uzalendo",
+      "color": "#7E57C2"
+    },
+    "cord": {
+      "name": "Coalition for Reforms and Democracy",
+      "color": "#F6A438"
+    },
+    "dap": {
+      "name": "Democratic Action Party",
+      "color": "#313691"
+    },
+    "dp": {
+      "name": "Democratic Party",
+      "color": "#336600"
+    },
+    "efp": {
+      "name": "Economic Freedom Party",
+      "color": "#0002C5"
+    },
+    "fap": {
+      "name": "Frontier Alliance Party",
+      "color": "#B0855B"
+    },
+    "fordasili": {
+      "name": "FORD–Asili",
+      "color": "#2A9D8F"
+    },
+    "fordk": {
+      "name": "FORD–Kenya",
+      "color": "#339933"
+    },
+    "fordp": {
+      "name": "FORD–People",
+      "color": "#6666FF"
+    },
+    "fpk": {
+      "name": "Federal Party of Kenya",
+      "color": "#158A43"
+    },
+    "gddp": {
+      "name": "Grand Dream Development Party",
+      "color": "#113673"
+    },
+    "gnu": {
+      "name": "Grand National Union of Kenya",
+      "color": "#FFA500"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "jubilee": {
+      "name": "Jubilee Party",
+      "color": "#D84315"
+    },
+    "jubileeall": {
+      "name": "Jubilee Alliance",
+      "color": "#F5051C"
+    },
+    "kaddu": {
+      "name": "Kenya African Democratic Development Union",
+      "color": "#D2559D"
+    },
+    "kadu": {
+      "name": "Kenya African Democratic Union",
+      "color": "#008C51"
+    },
+    "kaduasili": {
+      "name": "KADU–Asili",
+      "color": "#7C7968"
+    },
+    "kanu": {
+      "name": "Kenya African National Union",
+      "color": "#F50519"
+    },
+    "kenda": {
+      "name": "Kenya National Democratic Alliance",
+      "color": "#6633FF"
+    },
+    "knc": {
+      "name": "Kenya National Congress",
+      "color": "#000000"
+    },
+    "kpp": {
+      "name": "Kenya Patriots Party",
+      "color": "#F5E18D"
+    },
+    "ksc": {
+      "name": "Kenya Social Congress",
+      "color": "#882D17"
+    },
+    "kup": {
+      "name": "Kenya Union Party",
+      "color": "#80DEEA"
+    },
+    "mazingira": {
+      "name": "Mazingira Green Party of Kenya",
+      "color": "#A4C639"
+    },
+    "mccp": {
+      "name": "Maendeleo Chap Chap Party",
+      "color": "#632F91"
+    },
+    "mdg": {
+      "name": "Movement for Democracy and Growth",
+      "color": "#003F1D"
+    },
+    "mdp": {
+      "name": "Maendeleo Democratic Party",
+      "color": "#03F601"
+    },
+    "muungano": {
+      "name": "Muungano Party",
+      "color": "#254306"
+    },
+    "nap": {
+      "name": "National Agenda Party",
+      "color": "#2D4766"
+    },
+    "narc": {
+      "name": "National Rainbow Coalition",
+      "color": "#1889C7"
+    },
+    "narck": {
+      "name": "NARC–Kenya",
+      "color": "#66FF66"
+    },
+    "nasa": {
+      "name": "National Super Alliance",
+      "color": "#FFA500"
+    },
+    "ndp": {
+      "name": "National Development Party",
+      "color": "#000040"
+    },
+    "newdem": {
+      "name": "New Democrats",
+      "color": "#E23237"
+    },
+    "nfk": {
+      "name": "New Ford Kenya",
+      "color": "#0000FF"
+    },
+    "nlp": {
+      "name": "National Labour Party",
+      "color": "#23C539"
+    },
+    "nopeu": {
+      "name": "National Ordinary People Empowerment Union",
+      "color": "#08702D"
+    },
+    "odm": {
+      "name": "Orange Democratic Movement",
+      "color": "#F38521"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "paa": {
+      "name": "Pamoja African Alliance",
+      "color": "#0227B6"
+    },
+    "pdp": {
+      "name": "Peoples Democratic Party",
+      "color": "#FF6600"
+    },
+    "pick": {
+      "name": "Party of Independent Candidates of Kenya",
+      "color": "#DF9023"
+    },
+    "pnu": {
+      "name": "Party of National Unity",
+      "color": "#00008B"
+    },
+    "ppk": {
+      "name": "Peoples Party of Kenya",
+      "color": "#8E6BB8"
+    },
+    "safina": {
+      "name": "Safina",
+      "color": "#CC6633"
+    },
+    "sdp": {
+      "name": "Social Democratic Party",
+      "color": "#E0447C"
+    },
+    "shirikisho": {
+      "name": "Shirikisho Party of Kenya",
+      "color": "#ADD8E6"
+    },
+    "sks": {
+      "name": "Sisi Kwa Sisi",
+      "color": "#CCFF99"
+    },
+    "tip": {
+      "name": "The Independent Party",
+      "color": "#CC9966"
+    },
+    "tna": {
+      "name": "The National Alliance",
+      "color": "#B0124A"
+    },
+    "tsp": {
+      "name": "The Service Party",
+      "color": "#26A69A"
+    },
+    "uda": {
+      "name": "United Democratic Alliance",
+      "color": "#F4CB23"
+    },
+    "udf": {
+      "name": "United Democratic Forum Party",
+      "color": "#FFF100"
+    },
+    "udm": {
+      "name": "United Democratic Movement",
+      "color": "#F6FC4F"
+    },
+    "udp": {
+      "name": "United Democratic Party",
+      "color": "#5D4037"
+    },
+    "upa": {
+      "name": "United Progressive Alliance",
+      "color": "#C2185B"
+    },
+    "upia": {
+      "name": "United Party of Independent Alliance",
+      "color": "#9575CD"
+    },
+    "urp": {
+      "name": "United Republican Party",
+      "color": "#FFD32C"
+    },
+    "vac": {
+      "name": "Vacant",
+      "color": "#E5E5EA"
+    },
+    "wiper": {
+      "name": "Wiper Democratic Movement – Kenya",
+      "color": "#00ADEF"
+    }
+  },
+  "elections": [
+    {
+      "id": "ke-president-2022",
+      "office": "President",
+      "kind": "presidential",
+      "date": "2022-08-09",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 64.77,
+      "system": "Popular vote with a county spread rule, five-year term",
+      "cite": {
+        "name": "the IEBC",
+        "url": "https://en.wikipedia.org/wiki/2022_Kenyan_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2022_Kenyan_general_election",
+      "statesSourced": {
+        "n": 7,
+        "of": 8
+      },
+      "candidates": [
+        {
+          "name": "William Ruto",
+          "party": "uda",
+          "votes": 7176141,
+          "pct": 50.49,
+          "winner": true
+        },
+        {
+          "name": "Raila Odinga",
+          "party": "azimio",
+          "votes": 6942930,
+          "pct": 48.85
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 93956,
+          "pct": 0.66
+        }
+      ],
+      "regions": [
+        {"name":"Central","abbr":"200","winner":"uda","margin":7.7,"turnout":71.6,"votes":1986607,"results":[{"party":"uda","pct":53.6,"votes":1064821},{"party":"azimio","pct":45.9,"votes":911853},{"party":"oth","pct":0.5,"votes":9933}]},
+        {"name":"Coast","abbr":"300","winner":"azimio","margin":18.4,"turnout":62.2,"votes":1741127,"results":[{"party":"azimio","pct":58.8,"votes":1023783},{"party":"uda","pct":40.4,"votes":703415},{"party":"oth","pct":0.8,"votes":13929}]},
+        {"name":"Eastern","abbr":"400","winner":"uda","margin":11.8,"turnout":67.8,"votes":1844441,"results":[{"party":"uda","pct":55.2,"votes":1018131},{"party":"azimio","pct":43.4,"votes":800487},{"party":"oth","pct":1.4,"votes":25822}]},
+        {"name":"Nairobi","abbr":"110","winner":"azimio","margin":2.6,"turnout":59.3,"votes":1521662,"results":[{"party":"azimio","pct":51.1,"votes":777569},{"party":"uda","pct":48.5,"votes":738006},{"party":"oth","pct":0.4,"votes":6087}]},
+        {"name":"North Eastern","abbr":"500","winner":"azimio","margin":10.5,"turnout":62.7,"votes":1928429,"results":[{"party":"azimio","pct":54.7,"votes":1054851},{"party":"uda","pct":44.2,"votes":852366},{"party":"oth","pct":1.2,"votes":23141}]},
+        {"name":"Nyanza","abbr":"600","winner":"azimio","margin":6.2,"turnout":68.5,"votes":1876781,"results":[{"party":"azimio","pct":52.9,"votes":992817},{"party":"uda","pct":46.7,"votes":876457},{"party":"oth","pct":0.4,"votes":7507}]},
+        {"name":"Rift Valley","abbr":"700","winner":"uda","margin":2.3,"turnout":65.7,"votes":1510169,"results":[{"party":"uda","pct":50.8,"votes":767166},{"party":"azimio","pct":48.5,"votes":732432},{"party":"oth","pct":0.7,"votes":10571}]},
+        {"name":"Western","abbr":"800","winner":"azimio","margin":6.5,"turnout":60.6,"votes":1574691,"results":[{"party":"azimio","pct":53,"votes":834586},{"party":"uda","pct":46.5,"votes":732231},{"party":"oth","pct":0.4,"votes":6299}]}
+      ]
+    },
+    {
+      "id": "ke-national-assembly-2022",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2022-08-09",
+      "status": "final",
+      "reporting": 100,
+      "system": "349 seats, mostly first past the post",
+      "totalSeats": 349,
+      "majority": 175,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "NTV",
+        "url": "https://en.wikipedia.org/wiki/2022_Kenyan_general_election"
+      },
+      "candidates": [
+        {
+          "name": "United Democratic Alliance",
+          "party": "uda",
+          "votes": null,
+          "pct": null,
+          "seats": 143,
+          "change": null,
+          "winner": true
+        },
+        {
+          "name": "Orange Democratic Movement",
+          "party": "odm",
+          "votes": null,
+          "pct": null,
+          "seats": 89,
+          "change": 12
+        },
+        {
+          "name": "Jubilee Party",
+          "party": "jubilee",
+          "votes": null,
+          "pct": null,
+          "seats": 28,
+          "change": -141
+        },
+        {
+          "name": "Wiper Democratic Movement – Kenya",
+          "party": "wiper",
+          "votes": null,
+          "pct": null,
+          "seats": 26,
+          "change": 3
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": null,
+          "pct": null,
+          "seats": 12,
+          "change": -2
+        },
+        {
+          "name": "Amani National Congress",
+          "party": "anc",
+          "votes": null,
+          "pct": null,
+          "seats": 8,
+          "change": -6
+        },
+        {
+          "name": "United Democratic Movement",
+          "party": "udm",
+          "votes": null,
+          "pct": null,
+          "seats": 7,
+          "change": 7
+        },
+        {
+          "name": "Forum for the Restoration of Democracy – Kenya",
+          "party": "fordk",
+          "votes": null,
+          "pct": null,
+          "seats": 6,
+          "change": -6
+        },
+        {
+          "name": "Democratic Action Party",
+          "party": "dap",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": null
+        },
+        {
+          "name": "Kenya African National Union",
+          "party": "kanu",
+          "votes": null,
+          "pct": null,
+          "seats": 5,
+          "change": -5
+        },
+        {
+          "name": "Pamoja African Alliance",
+          "party": "paa",
+          "votes": null,
+          "pct": null,
+          "seats": 3,
+          "change": null
+        },
+        {
+          "name": "Maendeleo Chap Chap Party",
+          "party": "mccp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": -2
+        },
+        {
+          "name": "United Party of Independent Alliance",
+          "party": "upia",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Kenya Union Party",
+          "party": "kup",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "United Progressive Alliance",
+          "party": "upa",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "The Service Party",
+          "party": "tsp",
+          "votes": null,
+          "pct": null,
+          "seats": 2,
+          "change": null
+        },
+        {
+          "name": "Movement for Democracy and Growth",
+          "party": "mdg",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "United Democratic Party",
+          "party": "udp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Chama Cha Kazi",
+          "party": "cck",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "Democratic Party",
+          "party": "dp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "Grand Dream Development Party",
+          "party": "gddp",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        },
+        {
+          "name": "National Agenda Party",
+          "party": "nap",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": 0
+        },
+        {
+          "name": "National Ordinary People Empowerment Union",
+          "party": "nopeu",
+          "votes": null,
+          "pct": null,
+          "seats": 1,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Central","abbr":"200","winner":"odm","margin":1,"turnout":56.5,"results":[{"party":"odm","pct":38},{"party":"uda","pct":37},{"party":"wiper","pct":10.5},{"party":"jubilee","pct":8.7},{"party":"ind","pct":5.9}]},
+        {"name":"Coast","abbr":"300","winner":"uda","margin":31.5,"turnout":54.5,"results":[{"party":"uda","pct":56},{"party":"odm","pct":24.5},{"party":"jubilee","pct":10.6},{"party":"ind","pct":4.6},{"party":"wiper","pct":4.3}]},
+        {"name":"Eastern","abbr":"400","winner":"uda","margin":18,"turnout":64.7,"results":[{"party":"uda","pct":45.8},{"party":"odm","pct":27.8},{"party":"jubilee","pct":12.6},{"party":"wiper","pct":10.4},{"party":"ind","pct":3.5}]},
+        {"name":"Nairobi","abbr":"110","winner":"uda","margin":12.5,"turnout":53.6,"results":[{"party":"uda","pct":39.4},{"party":"odm","pct":26.9},{"party":"jubilee","pct":15.7},{"party":"wiper","pct":10.4},{"party":"ind","pct":7.5}]},
+        {"name":"North Eastern","abbr":"500","winner":"uda","margin":11.8,"turnout":60.9,"results":[{"party":"uda","pct":42.7},{"party":"odm","pct":30.9},{"party":"wiper","pct":12.5},{"party":"jubilee","pct":8.8},{"party":"ind","pct":5}]},
+        {"name":"Nyanza","abbr":"600","winner":"odm","margin":17.8,"turnout":66,"results":[{"party":"odm","pct":44.1},{"party":"uda","pct":26.3},{"party":"jubilee","pct":14.5},{"party":"wiper","pct":12},{"party":"ind","pct":3.1}]},
+        {"name":"Rift Valley","abbr":"700","winner":"uda","margin":3.8,"turnout":62,"results":[{"party":"uda","pct":41},{"party":"odm","pct":37.2},{"party":"wiper","pct":8.9},{"party":"jubilee","pct":8.3},{"party":"ind","pct":4.7}]},
+        {"name":"Western","abbr":"800","winner":"uda","margin":14.6,"turnout":58.6,"results":[{"party":"uda","pct":46.1},{"party":"odm","pct":31.5},{"party":"wiper","pct":10.9},{"party":"jubilee","pct":8.2},{"party":"ind","pct":3.4}]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "code": "BW",
+  "name": "Botswana",
+  "subtitle": "General elections",
+  "about": {
+    "system": "Unitary parliamentary republic with an executive presidency",
+    "headOfState": "President",
+    "headOfGovernment": "President",
+    "legislature": "National Assembly (69)",
+    "votingAge": 18,
+    "compulsory": false,
+    "registered": 1038275,
+    "offices": {
+      "National Assembly": "61 members are elected by first past the post in single-member constituencies; six specially elected members, nominated by the president and approved by the Assembly, and two ex officio members (the President and the Speaker) complete the 69 seats. The Assembly elects the president for a five-year term: when a party or alliance wins a majority of the elected seats, its leader becomes president."
+    }
+  },
+  "parties": {
+    "ap": {
+      "name": "Alliance for Progressives",
+      "color": "#662E91"
+    },
+    "bam": {
+      "name": "Botswana Alliance Movement",
+      "color": "#0000CD"
+    },
+    "bcp": {
+      "name": "Botswana Congress Party",
+      "color": "#92C947"
+    },
+    "bdp": {
+      "name": "Botswana Democratic Party",
+      "color": "#E61C23"
+    },
+    "bip": {
+      "name": "Botswana Independence Party",
+      "color": "#000099"
+    },
+    "bmd": {
+      "name": "Botswana Movement for Democracy",
+      "color": "#F58924"
+    },
+    "bnf": {
+      "name": "Botswana National Front",
+      "color": "#EEB01F"
+    },
+    "bpf": {
+      "name": "Botswana Patriotic Front",
+      "color": "#FECE00"
+    },
+    "bpp": {
+      "name": "Botswana People's Party",
+      "color": "#00CC00"
+    },
+    "bpu": {
+      "name": "Botswana Progressive Union",
+      "color": "#FFFF00"
+    },
+    "ifp": {
+      "name": "Independence Freedom Party",
+      "color": "#5B8DB8"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#8E8E93"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "udc": {
+      "name": "Umbrella for Democratic Change",
+      "color": "#244197"
+    }
+  },
+  "elections": [
+    {
+      "id": "bw-national-assembly-2024",
+      "office": "National Assembly",
+      "kind": "legislative",
+      "date": "2024-10-30",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 81.42,
+      "system": "61 seats, first past the post",
+      "totalSeats": 61,
+      "majority": 31,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Independent Electoral Commission",
+        "url": "https://en.wikipedia.org/wiki/2024_Botswana_general_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/2024_Botswana_general_election",
+      "statesSourced": {
+        "n": 7,
+        "of": 15
+      },
+      "candidates": [
+        {
+          "name": "Umbrella for Democratic Change",
+          "party": "udc",
+          "votes": 310869,
+          "pct": 37.21,
+          "seats": 36,
+          "change": 21,
+          "winner": true
+        },
+        {
+          "name": "Botswana Congress Party",
+          "party": "bcp",
+          "votes": 175972,
+          "pct": 21.06,
+          "seats": 15,
+          "change": null
+        },
+        {
+          "name": "Botswana Patriotic Front",
+          "party": "bpf",
+          "votes": 68978,
+          "pct": 8.26,
+          "seats": 5,
+          "change": 2
+        },
+        {
+          "name": "Botswana Democratic Party",
+          "party": "bdp",
+          "votes": 254583,
+          "pct": 30.47,
+          "seats": 4,
+          "change": -34
+        },
+        {
+          "name": "Independents",
+          "party": "ind",
+          "votes": 19690,
+          "pct": 2.36,
+          "seats": 1,
+          "change": 1
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 5321,
+          "pct": 0.64,
+          "seats": 0,
+          "change": null
+        }
+      ],
+      "regions": [
+        {"name":"Central","abbr":"CE","winner":"bdp","margin":7,"turnout":79.4,"votes":66293,"results":[{"party":"bdp","pct":36.2,"votes":23998},{"party":"udc","pct":29.2,"votes":19358},{"party":"bcp","pct":24.1,"votes":15977},{"party":"bpf","pct":8.1,"votes":5370},{"party":"ind","pct":2.3,"votes":1525}]},
+        {"name":"Francistown","abbr":"FR","winner":"udc","margin":14.3,"turnout":75.1,"votes":63356,"results":[{"party":"udc","pct":40.7,"votes":25786},{"party":"bdp","pct":26.4,"votes":16726},{"party":"bcp","pct":22.2,"votes":14065},{"party":"bpf","pct":8.8,"votes":5575},{"party":"ind","pct":2,"votes":1267}]},
+        {"name":"Gaborone","abbr":"GA","winner":"udc","margin":12.4,"turnout":76.8,"votes":64991,"results":[{"party":"udc","pct":38.9,"votes":25281},{"party":"bcp","pct":26.5,"votes":17223},{"party":"bdp","pct":25.5,"votes":16573},{"party":"bpf","pct":7.3,"votes":4744},{"party":"ind","pct":1.8,"votes":1170}]},
+        {"name":"Ghanzi","abbr":"GH","winner":"udc","margin":11.1,"turnout":77.3,"votes":66515,"results":[{"party":"udc","pct":46.8,"votes":31129},{"party":"bdp","pct":35.7,"votes":23746},{"party":"bcp","pct":9.8,"votes":6518},{"party":"bpf","pct":5.3,"votes":3525},{"party":"ind","pct":2.3,"votes":1530}]},
+        {"name":"Jwaneng","abbr":"JW","winner":"udc","margin":11,"turnout":85,"votes":57564,"results":[{"party":"udc","pct":37,"votes":21299},{"party":"bdp","pct":26,"votes":14967},{"party":"bcp","pct":25.3,"votes":14564},{"party":"bpf","pct":9.5,"votes":5469},{"party":"ind","pct":2.2,"votes":1266}]},
+        {"name":"Kgalagadi","abbr":"KG","winner":"udc","margin":26.4,"turnout":79.4,"votes":61034,"results":[{"party":"udc","pct":51.3,"votes":31310},{"party":"bdp","pct":24.9,"votes":15197},{"party":"bcp","pct":14.9,"votes":9094},{"party":"bpf","pct":6.1,"votes":3723},{"party":"ind","pct":2.8,"votes":1709}]},
+        {"name":"Kgatleng","abbr":"KL","winner":"bdp","margin":28.5,"turnout":78.2,"votes":47670,"results":[{"party":"bdp","pct":50.5,"votes":24073},{"party":"udc","pct":22,"votes":10487},{"party":"bcp","pct":12.9,"votes":6149},{"party":"bpf","pct":11.8,"votes":5625},{"party":"ind","pct":2.8,"votes":1335}]},
+        {"name":"Kweneng","abbr":"KW","winner":"udc","margin":7.1,"turnout":80.8,"votes":52775,"results":[{"party":"udc","pct":34,"votes":17944},{"party":"bcp","pct":26.9,"votes":14196},{"party":"bdp","pct":25.4,"votes":13405},{"party":"bpf","pct":12.4,"votes":6544},{"party":"ind","pct":1.4,"votes":739}]},
+        {"name":"Lobatse","abbr":"LO","winner":"udc","margin":2.5,"turnout":83.9,"votes":45186,"results":[{"party":"udc","pct":39.6,"votes":17894},{"party":"bdp","pct":37.1,"votes":16764},{"party":"bcp","pct":13.8,"votes":6236},{"party":"bpf","pct":8.3,"votes":3750},{"party":"ind","pct":1.3,"votes":587}]},
+        {"name":"North-East","abbr":"NE","winner":"udc","margin":5.5,"turnout":78.5,"votes":45046,"results":[{"party":"udc","pct":33.1,"votes":14910},{"party":"bcp","pct":27.6,"votes":12433},{"party":"bdp","pct":22.8,"votes":10270},{"party":"bpf","pct":13,"votes":5856},{"party":"ind","pct":3.6,"votes":1622}]},
+        {"name":"North-West","abbr":"NW","winner":"bcp","margin":6,"turnout":78.8,"votes":44811,"results":[{"party":"bcp","pct":34.9,"votes":15639},{"party":"udc","pct":28.9,"votes":12950},{"party":"bdp","pct":27,"votes":12099},{"party":"bpf","pct":5.4,"votes":2420},{"party":"ind","pct":3.9,"votes":1748}]},
+        {"name":"Selebi-Phikwe","abbr":"SP","winner":"bcp","margin":18,"turnout":84.5,"votes":55776,"results":[{"party":"bcp","pct":45.7,"votes":25490},{"party":"bdp","pct":27.7,"votes":15450},{"party":"udc","pct":21.6,"votes":12048},{"party":"bpf","pct":3.1,"votes":1729},{"party":"ind","pct":1.8,"votes":1004}]},
+        {"name":"South-East","abbr":"SE","winner":"udc","margin":1.8,"turnout":82.6,"votes":62355,"results":[{"party":"udc","pct":36.3,"votes":22635},{"party":"bcp","pct":34.5,"votes":21512},{"party":"bdp","pct":17.9,"votes":11162},{"party":"bpf","pct":9.2,"votes":5737},{"party":"ind","pct":2.1,"votes":1309}]},
+        {"name":"Southern","abbr":"SO","winner":"udc","margin":20.7,"turnout":81.8,"votes":55051,"results":[{"party":"udc","pct":47.9,"votes":26369},{"party":"bdp","pct":27.2,"votes":14974},{"party":"bcp","pct":13.7,"votes":7542},{"party":"bpf","pct":9.3,"votes":5120},{"party":"ind","pct":1.9,"votes":1046}]},
+        {"name":"Sowa","abbr":"ST","winner":"udc","margin":11.8,"turnout":79.6,"votes":47752,"results":[{"party":"udc","pct":44.8,"votes":21393},{"party":"bdp","pct":33,"votes":15758},{"party":"bcp","pct":12.6,"votes":6017},{"party":"bpf","pct":7.3,"votes":3486},{"party":"ind","pct":2.4,"votes":1146}]}
+      ]
+    }
+  ]
+}
