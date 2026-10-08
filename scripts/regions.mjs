@@ -76,6 +76,13 @@ export const REGIONAL = {
   },
   CA: { only: { bq: ['QC'] } },
   AR: { only: { innov: ['SA', 'MN', 'NQ', 'RN'], defcba: ['CB'], psj: ['SJ'] } },
+  // Belgian parties stand on one side of the language border, and in Brussels.
+  BE: {
+    only: {
+      ...Object.fromEntries(['nva', 'vb', 'vooruit', 'cdv', 'ovld', 'groen', 'blanco'].map(p => [p, ['VAN', 'VBR', 'VLI', 'VOV', 'VWV', 'BRU']])),
+      ...Object.fromEntries(['mr', 'ps', 'le', 'ecolo', 'defi'].map(p => [p, ['WBR', 'WHT', 'WLG', 'WLX', 'WNA', 'BRU']]))
+    }
+  },
   ES: {
     only: {
       erc: ['CT'], junts: ['CT'], bildu: ['PV', 'NC'], pnv: ['PV'], upn: ['NC'], bng: ['GA'],

@@ -1,0 +1,2526 @@
+{
+ "code": "GR",
+ "parties": {
+  "lp": {
+   "name": "People's Party",
+   "color": "#4169E1",
+   "article": "People's Party (Greece)"
+  },
+  "kf": {
+   "name": "Liberal Party",
+   "color": "#FFA500",
+   "article": "Liberal Party (Greece)"
+  },
+  "epek": {
+   "name": "National Progressive Center Union",
+   "color": "#9370DB",
+   "article": "National Progressive Center Union"
+  },
+  "gpp": {
+   "name": "Georgios Papandreou Party",
+   "color": "#FFFF00",
+   "article": "Democratic Socialist Party of Greece"
+  },
+  "dpa": {
+   "name": "Democratic Alignment (1950)",
+   "color": "#FF0000",
+   "article": "Democratic Alignment (1950)"
+  },
+  "pap": {
+   "name": "Politically Independent Alignment",
+   "color": "#000000",
+   "article": "Politically Independent Alignment"
+  },
+  "nrf": {
+   "name": "National Reconstruction Front",
+   "color": "#ADD8E6",
+   "article": "National Reconstruction Front (Greece)"
+  },
+  "npg": {
+   "name": "National Party of Greece",
+   "color": "#8D6E63"
+  },
+  "pfl": {
+   "name": "Party of Farmers and Labourers",
+   "color": "#4CAF50",
+   "article": "Party of Farmers and Labourers"
+  },
+  "newp": {
+   "name": "New Party",
+   "color": "#00008B",
+   "article": "New Party (Greece, 1947)"
+  },
+  "npwp": {
+   "name": "National Party of Working People",
+   "color": "#80CBC4"
+  },
+  "oth": {
+   "name": "Others",
+   "color": "#B8B8BD"
+  },
+  "es": {
+   "name": "Greek Rally",
+   "color": "#1935D0",
+   "article": "Greek Rally"
+  },
+  "eda": {
+   "name": "United Democratic Left",
+   "color": "#ADD8E6",
+   "article": "United Democratic Left"
+  },
+  "akp": {
+   "name": "Agricultural and Labour Party",
+   "color": "#FFB4A1",
+   "article": "Agricultural and Labour Party"
+  },
+  "epekkf": {
+   "name": "National Progressive Center Union–Liberal Party",
+   "color": "#B07CC6"
+  },
+  "loi": {
+   "name": "List of Independents",
+   "color": "#78909C",
+   "article": "List of Independents"
+  },
+  "ind": {
+   "name": "Independents",
+   "color": "#DCDCDC",
+   "article": "Independent politician"
+  },
+  "ere": {
+   "name": "National Radical Union",
+   "color": "#005AC0",
+   "article": "National Radical Union"
+  },
+  "dea": {
+   "name": "Democratic Union",
+   "color": "#FFA500",
+   "article": "Democratic Union (Greece, 1956)"
+  },
+  "kp": {
+   "name": "Progressive Party",
+   "color": "#8B4513",
+   "article": "Progressive Party (Greece)"
+  },
+  "pade": {
+   "name": "Progressive Agricultural Democratic Union",
+   "color": "#837050",
+   "article": "Progressive Agricultural Democratic Union"
+  },
+  "unpop": {
+   "name": "Union of Populars",
+   "color": "#9FA8DA",
+   "article": "Union of Populars"
+  },
+  "ekkp": {
+   "name": "Centre Union–Progressive Party",
+   "color": "#E0A030"
+  },
+  "pdaf": {
+   "name": "All-Democratic Agricultural Front",
+   "color": "#FF0000",
+   "article": "All-Democratic Agricultural Front"
+  },
+  "ek": {
+   "name": "Centre Union",
+   "color": "#FCB825",
+   "article": "Centre Union"
+  },
+  "erekp": {
+   "name": "National Radical Union–Progressive Party",
+   "color": "#2F6DB5"
+  },
+  "nd": {
+   "name": "New Democracy",
+   "color": "#1B5CC7",
+   "article": "New Democracy (Greece)"
+  },
+  "ekna": {
+   "name": "Centre Union – New Forces",
+   "color": "#F15A24",
+   "article": "Centre Union – New Forces"
+  },
+  "pasok": {
+   "name": "PASOK",
+   "color": "#2D902D",
+   "article": "PASOK"
+  },
+  "ea": {
+   "name": "United Left",
+   "color": "#EC1C24",
+   "article": "United Left (Greece)"
+  },
+  "edee": {
+   "name": "National Democratic Union",
+   "color": "#00008B",
+   "article": "National Democratic Union (Greece)"
+  },
+  "edik": {
+   "name": "Union of the Democratic Centre",
+   "color": "#FF7F50",
+   "article": "Union of the Democratic Centre (Greece)"
+  },
+  "kke": {
+   "name": "Communist Party of Greece",
+   "color": "#E30301",
+   "article": "Communist Party of Greece"
+  },
+  "ep": {
+   "name": "National Alignment",
+   "color": "#2B388F",
+   "article": "National Alignment"
+  },
+  "spad": {
+   "name": "Progress and Left Forces Alliance",
+   "color": "#EF9A9A",
+   "article": "Progress and Left Forces Alliance"
+  },
+  "kn": {
+   "name": "Party of New Liberals",
+   "color": "#FFCA28",
+   "article": "Party of New Liberals"
+  },
+  "kkees": {
+   "name": "Communist Party of Greece (Interior)",
+   "color": "#F06292",
+   "article": "Communist Party of Greece (Interior)"
+  },
+  "syn": {
+   "name": "Synaspismos",
+   "color": "#FFD000",
+   "article": "Synaspismos"
+  },
+  "dian": {
+   "name": "Democratic Renewal",
+   "color": "#007FFF",
+   "article": "Democratic Renewal"
+  },
+  "trust": {
+   "name": "Trust",
+   "color": "#1DC2E0",
+   "article": "Trust (Greek political party)"
+  },
+  "ae": {
+   "name": "Alternative Ecologists",
+   "color": "#8BC34A",
+   "article": "Alternative Ecologists"
+  },
+  "moira": {
+   "name": "Fate",
+   "color": "#B02840",
+   "article": "Fate (political party)"
+  },
+  "samos90": {
+   "name": "Independent Coalition in the Department of Samos \"Cooperation\"",
+   "color": "#8D6E63"
+  },
+  "kefal90": {
+   "name": "Kefalonia and Ithaki Democratic Cooperation",
+   "color": "#78909C"
+  },
+  "zak90": {
+   "name": "Zakynthos Initiative for the Progress-Development Simple Proportional Vote",
+   "color": "#B39DDB"
+  },
+  "lefk90": {
+   "name": "Independents Coalition in the Department of Lefkas \"Democratic Progressive Cooperation\"",
+   "color": "#FFAB91"
+  },
+  "polan": {
+   "name": "Political Spring",
+   "color": "#252E93",
+   "article": "Political Spring"
+  },
+  "dikki": {
+   "name": "Democratic Social Movement",
+   "color": "#FF7F00",
+   "article": "Democratic Social Movement"
+  },
+  "syriza": {
+   "name": "Syriza",
+   "color": "#EE808F",
+   "article": "Syriza"
+  },
+  "laos": {
+   "name": "Popular Orthodox Rally",
+   "color": "#000080",
+   "article": "Popular Orthodox Rally"
+  },
+  "oikpr": {
+   "name": "Ecologist Greens",
+   "color": "#9ACD32",
+   "article": "Ecologist Greens"
+  },
+  "anel": {
+   "name": "Independent Greeks",
+   "color": "#38A3E7",
+   "article": "Independent Greeks"
+  },
+  "xa": {
+   "name": "Golden Dawn",
+   "color": "#00022D",
+   "article": "Golden Dawn (Greece)"
+  },
+  "dimar": {
+   "name": "Democratic Left",
+   "color": "#FF4100",
+   "article": "Democratic Left (Greece)"
+  },
+  "disy": {
+   "name": "Democratic Alliance",
+   "color": "#F36F21",
+   "article": "Democratic Alliance (Greece)"
+  },
+  "recreate": {
+   "name": "Recreate Greece",
+   "color": "#FFC107",
+   "article": "Creation (political party)"
+  },
+  "drasifp": {
+   "name": "Drassi–Liberal Alliance",
+   "color": "#AB47BC"
+  },
+  "antarsya": {
+   "name": "Antarsya",
+   "color": "#800000",
+   "article": "Antarsya"
+  },
+  "recdrasi": {
+   "name": "Recreate Greece–Drassi–Liberal Alliance",
+   "color": "#FFD54F"
+  },
+  "potami": {
+   "name": "The River",
+   "color": "#9C514A",
+   "article": "The River (Greece)"
+  },
+  "kidiso": {
+   "name": "Movement of Democratic Socialists",
+   "color": "#D81B60",
+   "article": "Movement of Democratic Socialists"
+  },
+  "enken": {
+   "name": "Union of Centrists",
+   "color": "#FD7F2B",
+   "article": "Union of Centrists"
+  },
+  "teleia": {
+   "name": "Teleia",
+   "color": "#26C6DA",
+   "article": "Teleia (political party)"
+  },
+  "dimarpr": {
+   "name": "Democratic Left–Greens",
+   "color": "#FF8A65"
+  },
+  "dimsym": {
+   "name": "Democratic Alignment (2015)",
+   "color": "#2D902D",
+   "article": "Democratic Alignment (2015)"
+  },
+  "lae": {
+   "name": "Popular Unity",
+   "color": "#B01740",
+   "article": "Popular Unity (Greece)"
+  },
+  "kinal": {
+   "name": "PASOK – Movement for Change",
+   "color": "#01783D",
+   "article": "PASOK – Movement for Change"
+  },
+  "el": {
+   "name": "Greek Solution",
+   "color": "#6BB6E6",
+   "article": "Greek Solution"
+  },
+  "mera25": {
+   "name": "MeRA25",
+   "color": "#EF3F24",
+   "article": "MeRA25"
+  },
+  "pe": {
+   "name": "Course of Freedom",
+   "color": "#9F1897",
+   "article": "Course of Freedom"
+  },
+  "niki": {
+   "name": "Niki",
+   "color": "#910048",
+   "article": "Niki (Greek political party)"
+  }
+ },
+ "elections": [
+  {
+   "id": "gr-parliament-1950",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1950-03-05",
+   "note": "Men only",
+   "totalSeats": 250,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1950_Greek_parliamentary_election",
+    "revid": 1371937163
+   },
+   "candidates": [
+    {
+     "name": "People's Party",
+     "party": "lp",
+     "votes": 317312,
+     "pct": 18.79,
+     "seats": 62,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Liberal Party",
+     "party": "kf",
+     "votes": 291083,
+     "pct": 17.24,
+     "seats": 56,
+     "change": null
+    },
+    {
+     "name": "National Progressive Center Union",
+     "party": "epek",
+     "votes": 277739,
+     "pct": 16.45,
+     "seats": 45,
+     "change": null
+    },
+    {
+     "name": "Georgios Papandreou Party",
+     "party": "gpp",
+     "votes": 180185,
+     "pct": 10.67,
+     "seats": 35,
+     "change": null
+    },
+    {
+     "name": "Democratic Alignment",
+     "party": "dpa",
+     "votes": 163824,
+     "pct": 9.7,
+     "seats": 18,
+     "change": null
+    },
+    {
+     "name": "Politically Independent Alignment",
+     "party": "pap",
+     "votes": 137618,
+     "pct": 8.15,
+     "seats": 16,
+     "change": null
+    },
+    {
+     "name": "National Reconstruction Front",
+     "party": "nrf",
+     "votes": 88979,
+     "pct": 5.27,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "National Party of Greece",
+     "party": "npg",
+     "votes": 61575,
+     "pct": 3.65,
+     "seats": 7,
+     "change": null
+    },
+    {
+     "name": "Party of Farmers and Labourers",
+     "party": "pfl",
+     "votes": 44308,
+     "pct": 2.62,
+     "seats": 3,
+     "change": null
+    },
+    {
+     "name": "New Party",
+     "party": "newp",
+     "votes": 42157,
+     "pct": 2.5,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "National Party of Working People",
+     "party": "npwp",
+     "votes": 26925,
+     "pct": 1.59,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 56900,
+     "pct": 3.37,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "Only men voted: the 1956 article says that was the first general election in which women could vote. The table gives no electorate, so there is no turnout. \"National Party of Greece\" links to a list of parties rather than its own article. The table has no seat-change column, so change is null."
+  },
+  {
+   "id": "gr-parliament-1951",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1951-09-09",
+   "note": "Men only",
+   "totalSeats": 258,
+   "turnout": 77.2,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010) and the Hellenic Parliament",
+    "url": "https://en.wikipedia.org/wiki/1951_Greek_parliamentary_election",
+    "revid": 1371937179
+   },
+   "candidates": [
+    {
+     "name": "Greek Rally",
+     "party": "es",
+     "votes": 624316,
+     "pct": 36.53,
+     "seats": 114,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "National Progressive Center Union",
+     "party": "epek",
+     "votes": 401379,
+     "pct": 23.49,
+     "seats": 74,
+     "change": 29
+    },
+    {
+     "name": "Liberal Party",
+     "party": "kf",
+     "votes": 325390,
+     "pct": 19.04,
+     "seats": 57,
+     "change": 1
+    },
+    {
+     "name": "United Democratic Left",
+     "party": "eda",
+     "votes": 180640,
+     "pct": 10.57,
+     "seats": 10,
+     "change": -8
+    },
+    {
+     "name": "People's Party",
+     "party": "lp",
+     "votes": 113876,
+     "pct": 6.66,
+     "seats": 2,
+     "change": -60
+    },
+    {
+     "name": "Agricultural and Labour Party",
+     "party": "akp",
+     "votes": 21009,
+     "pct": 1.23,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Georgios Papandreou Party",
+     "party": "gpp",
+     "votes": 35810,
+     "pct": 2.1,
+     "seats": 0,
+     "change": -35
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 6484,
+     "pct": 0.38,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Only men voted (women first voted in a general election in 1956, per that article). Turnout is computed from the table (valid + invalid votes over the 2,224,246 registered). No numeric seat change in the table for Greek Rally (New), Agricultural and Labour Party (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1952",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1952-11-16",
+   "note": "Men only",
+   "totalSeats": 300,
+   "turnout": 75.37,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1952_Greek_parliamentary_election",
+    "revid": 1371937189
+   },
+   "candidates": [
+    {
+     "name": "Greek Rally",
+     "party": "es",
+     "votes": 783541,
+     "pct": 49.22,
+     "seats": 247,
+     "change": 133,
+     "winner": true
+    },
+    {
+     "name": "National Progressive Center Union–Liberal Party",
+     "party": "epekkf",
+     "votes": 544834,
+     "pct": 34.23,
+     "seats": 51,
+     "change": -80
+    },
+    {
+     "name": "List of Independents",
+     "party": "loi",
+     "votes": 56679,
+     "pct": 3.56,
+     "seats": 2,
+     "change": 2
+    },
+    {
+     "name": "United Democratic Left",
+     "party": "eda",
+     "votes": 152011,
+     "pct": 9.55,
+     "seats": 0,
+     "change": -10
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 26853,
+     "pct": 1.69,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "People's Party",
+     "party": "lp",
+     "votes": 16767,
+     "pct": 1.05,
+     "seats": 0,
+     "change": -2
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 11122,
+     "pct": 0.7,
+     "seats": 0,
+     "change": -1
+    }
+   ],
+   "notes": "Only men voted (women first voted in a general election in 1956, per that article). The National Progressive Center Union and the Liberal Party ran a joint list. Its change (−80) compares with the two parties' 1951 seats. Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-1956",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1956-02-19",
+   "totalSeats": 300,
+   "turnout": 74.97,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1956_Greek_parliamentary_election",
+    "revid": 1371937197
+   },
+   "candidates": [
+    {
+     "name": "National Radical Union",
+     "party": "ere",
+     "votes": 1594112,
+     "pct": 47.38,
+     "seats": 165,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Democratic Union",
+     "party": "dea",
+     "votes": 1620007,
+     "pct": 48.15,
+     "seats": 132,
+     "change": null
+    },
+    {
+     "name": "List of Independents",
+     "party": "loi",
+     "votes": 31022,
+     "pct": 0.92,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Independents",
+     "party": "ind",
+     "votes": 14851,
+     "pct": 0.44,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Progressive Party",
+     "party": "kp",
+     "votes": 74545,
+     "pct": 2.22,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 29824,
+     "pct": 0.89,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "First general election in which women could vote. The article says the National Radical Union won most seats despite trailing in votes, because of an electoral system that used first past the post in rural constituencies and proportional representation in urban ones. Turnout is computed from the table. The table has no seat-change column, so change is null."
+  },
+  {
+   "id": "gr-parliament-1958",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1958-05-11",
+   "totalSeats": 300,
+   "turnout": 75.48,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1958_Greek_parliamentary_election",
+    "revid": 1371937203
+   },
+   "candidates": [
+    {
+     "name": "National Radical Union",
+     "party": "ere",
+     "votes": 1583885,
+     "pct": 41.16,
+     "seats": 171,
+     "change": 6,
+     "winner": true
+    },
+    {
+     "name": "United Democratic Left",
+     "party": "eda",
+     "votes": 939902,
+     "pct": 24.43,
+     "seats": 79,
+     "change": null
+    },
+    {
+     "name": "Liberal Party",
+     "party": "kf",
+     "votes": 795445,
+     "pct": 20.67,
+     "seats": 36,
+     "change": null
+    },
+    {
+     "name": "Progressive Agricultural Democratic Union",
+     "party": "pade",
+     "votes": 408787,
+     "pct": 10.62,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Union of Popular Parties",
+     "party": "unpop",
+     "votes": 113358,
+     "pct": 2.95,
+     "seats": 4,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 6348,
+     "pct": 0.16,
+     "seats": 0,
+     "change": -3
+    }
+   ],
+   "notes": "Turnout is computed from the table. No numeric seat change in the table for United Democratic Left (–), Liberal Party (–), Progressive Agricultural Democratic Union (New), Union of Popular Parties (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1961",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1961-10-29",
+   "totalSeats": 300,
+   "turnout": 81.6,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1961_Greek_parliamentary_election",
+    "revid": 1371937209
+   },
+   "candidates": [
+    {
+     "name": "National Radical Union",
+     "party": "ere",
+     "votes": 2347824,
+     "pct": 50.81,
+     "seats": 176,
+     "change": 5,
+     "winner": true
+    },
+    {
+     "name": "Centre Union–Progressive Party",
+     "party": "ekkp",
+     "votes": 1555442,
+     "pct": 33.66,
+     "seats": 100,
+     "change": 54
+    },
+    {
+     "name": "All-Democratic Agricultural Front",
+     "party": "pdaf",
+     "votes": 675867,
+     "pct": 14.63,
+     "seats": 24,
+     "change": -36
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 41550,
+     "pct": 0.9,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Centre Union and the Progressive Party ran a joint list. Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-1963",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1963-11-03",
+   "totalSeats": 300,
+   "turnout": 83.15,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1963_Greek_parliamentary_election",
+    "revid": 1371937217
+   },
+   "candidates": [
+    {
+     "name": "Centre Union",
+     "party": "ek",
+     "votes": 1962074,
+     "pct": 42.04,
+     "seats": 138,
+     "change": 52,
+     "winner": true
+    },
+    {
+     "name": "National Radical Union",
+     "party": "ere",
+     "votes": 1837377,
+     "pct": 39.37,
+     "seats": 132,
+     "change": -44
+    },
+    {
+     "name": "United Democratic Left",
+     "party": "eda",
+     "votes": 669267,
+     "pct": 14.34,
+     "seats": 28,
+     "change": 6
+    },
+    {
+     "name": "Progressive Party",
+     "party": "kp",
+     "votes": 173981,
+     "pct": 3.73,
+     "seats": 2,
+     "change": -12
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 24455,
+     "pct": 0.52,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-1964",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1964-02-16",
+   "totalSeats": 300,
+   "turnout": 81.71,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1964_Greek_parliamentary_election",
+    "revid": 1371937219
+   },
+   "candidates": [
+    {
+     "name": "Centre Union",
+     "party": "ek",
+     "votes": 2424477,
+     "pct": 52.72,
+     "seats": 171,
+     "change": 33,
+     "winner": true
+    },
+    {
+     "name": "National Radical Union-Progressive Party",
+     "party": "erekp",
+     "votes": 1621546,
+     "pct": 35.26,
+     "seats": 107,
+     "change": -27
+    },
+    {
+     "name": "United Democratic Left",
+     "party": "eda",
+     "votes": 542865,
+     "pct": 11.8,
+     "seats": 22,
+     "change": -6
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 9951,
+     "pct": 0.22,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The National Radical Union and the Progressive Party ran a joint list. Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-1974",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1974-11-17",
+   "totalSeats": 300,
+   "turnout": 79.53,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1974_Greek_parliamentary_election",
+    "revid": 1351061625
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2669133,
+     "pct": 54.37,
+     "seats": 220,
+     "change": null,
+     "winner": true
+    },
+    {
+     "name": "Centre Union – New Forces",
+     "party": "ekna",
+     "votes": 1002559,
+     "pct": 20.42,
+     "seats": 60,
+     "change": null
+    },
+    {
+     "name": "Panhellenic Socialist Movement",
+     "party": "pasok",
+     "votes": 666413,
+     "pct": 13.58,
+     "seats": 12,
+     "change": null
+    },
+    {
+     "name": "United Left",
+     "party": "ea",
+     "votes": 464787,
+     "pct": 9.47,
+     "seats": 8,
+     "change": null
+    },
+    {
+     "name": "National Democratic Union",
+     "party": "edee",
+     "votes": 52768,
+     "pct": 1.07,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 53314,
+     "pct": 1.09,
+     "seats": 0,
+     "change": null
+    }
+   ],
+   "notes": "First election after the 1967–1974 military junta. The article says the 1974–1985 system greatly favoured parties above 17% of the vote (only they took part in the second seat distribution). Turnout is computed from the table. The table has no seat-change column, so change is null."
+  },
+  {
+   "id": "gr-parliament-1977",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1977-11-20",
+   "totalSeats": 300,
+   "turnout": 81.11,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1977_Greek_parliamentary_election",
+    "revid": 1351061734
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2146365,
+     "pct": 41.84,
+     "seats": 171,
+     "change": -49,
+     "winner": true
+    },
+    {
+     "name": "Panhellenic Socialist Movement",
+     "party": "pasok",
+     "votes": 1300025,
+     "pct": 25.34,
+     "seats": 93,
+     "change": 81
+    },
+    {
+     "name": "Union of the Democratic Centre",
+     "party": "edik",
+     "votes": 612786,
+     "pct": 11.95,
+     "seats": 16,
+     "change": 16
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 480272,
+     "pct": 9.36,
+     "seats": 11,
+     "change": null
+    },
+    {
+     "name": "National Alignment",
+     "party": "ep",
+     "votes": 349988,
+     "pct": 6.82,
+     "seats": 5,
+     "change": null
+    },
+    {
+     "name": "Progress and Left Forces Alliance",
+     "party": "spad",
+     "votes": 139356,
+     "pct": 2.72,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Party of New Liberals",
+     "party": "kn",
+     "votes": 55494,
+     "pct": 1.08,
+     "seats": 2,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 45485,
+     "pct": 0.89,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the 1974–1985 system greatly favoured parties above 17% of the vote. Turnout is computed from the table. No numeric seat change in the table for Communist Party of Greece (–), National Alignment (New), Progress and Left Forces Alliance (–), Party of New Liberals (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1981",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1981-10-18",
+   "totalSeats": 300,
+   "turnout": 81.5,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1981_Greek_parliamentary_election",
+    "revid": 1367483402
+   },
+   "candidates": [
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 2726309,
+     "pct": 48.07,
+     "seats": 172,
+     "change": 79,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2034496,
+     "pct": 35.88,
+     "seats": 115,
+     "change": -56
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 620302,
+     "pct": 10.94,
+     "seats": 13,
+     "change": 2
+    },
+    {
+     "name": "Progressive Party",
+     "party": "kp",
+     "votes": 95799,
+     "pct": 1.69,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Greece (Interior)",
+     "party": "kkees",
+     "votes": 76404,
+     "pct": 1.35,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Union of the Democratic Centre",
+     "party": "edik",
+     "votes": 22763,
+     "pct": 0.4,
+     "seats": 0,
+     "change": -16
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 94984,
+     "pct": 1.67,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is computed from the table. No numeric seat change in the table for Progressive Party (New), Communist Party of Greece (Interior) (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1985",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1985-06-02",
+   "totalSeats": 300,
+   "turnout": 80.19,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior and Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1985_Greek_parliamentary_election",
+    "revid": 1373191113
+   },
+   "candidates": [
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 2916735,
+     "pct": 45.82,
+     "seats": 161,
+     "change": -11,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2599681,
+     "pct": 40.84,
+     "seats": 126,
+     "change": 11
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 629525,
+     "pct": 9.89,
+     "seats": 12,
+     "change": -1
+    },
+    {
+     "name": "Communist Party of Greece (Interior)",
+     "party": "kkees",
+     "votes": 117135,
+     "pct": 1.84,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 102018,
+     "pct": 1.6,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the elections of this era used \"reinforced proportional representation\", which was engineered to produce single-party majorities by giving the leading party a larger share of the seats left after the first distribution. The 1985 law removed the vote thresholds but recalibrated the distribution to favour the leading party. Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-1989-06",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1989-06-18",
+   "label": "June 1989",
+   "totalSeats": 300,
+   "turnout": 80.33,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/June_1989_Greek_parliamentary_election",
+    "revid": 1372867880
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2887488,
+     "pct": 44.28,
+     "seats": 145,
+     "change": 19,
+     "winner": true
+    },
+    {
+     "name": "Panhellenic Socialist Movement",
+     "party": "pasok",
+     "votes": 2551518,
+     "pct": 39.13,
+     "seats": 125,
+     "change": -36
+    },
+    {
+     "name": "Coalition of the Left and Progress",
+     "party": "syn",
+     "votes": 855944,
+     "pct": 13.13,
+     "seats": 28,
+     "change": null
+    },
+    {
+     "name": "Democratic Renewal",
+     "party": "dian",
+     "votes": 65614,
+     "pct": 1.01,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Trust",
+     "party": "trust",
+     "votes": 25099,
+     "pct": 0.38,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 135548,
+     "pct": 2.08,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the electoral law was changed before this election (Law 1847/1989) towards proportional representation, making a majority harder to win. Turnout is computed from the table. No numeric seat change in the table for Coalition of the Left and Progress (New), Democratic Renewal (New), Trust (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1989-11",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1989-11-05",
+   "label": "November 1989",
+   "totalSeats": 300,
+   "turnout": 80.7,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/November_1989_Greek_parliamentary_election",
+    "revid": 1339532357
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 3093055,
+     "pct": 46.19,
+     "seats": 148,
+     "change": 3,
+     "winner": true
+    },
+    {
+     "name": "Panhellenic Socialist Movement",
+     "party": "pasok",
+     "votes": 2723739,
+     "pct": 40.67,
+     "seats": 128,
+     "change": 3
+    },
+    {
+     "name": "Coalition of the Left and Progress",
+     "party": "syn",
+     "votes": 734552,
+     "pct": 10.97,
+     "seats": 21,
+     "change": -7
+    },
+    {
+     "name": "Alternative Ecologists",
+     "party": "ae",
+     "votes": 39130,
+     "pct": 0.58,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Trust",
+     "party": "trust",
+     "votes": 26012,
+     "pct": 0.39,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Fate",
+     "party": "moira",
+     "votes": 10971,
+     "pct": 0.16,
+     "seats": 1,
+     "change": 1
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 69633,
+     "pct": 1.04,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is computed from the table. No numeric seat change in the table for Alternative Ecologists (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1990",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1990-04-08",
+   "totalSeats": 300,
+   "turnout": 79.24,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/1990_Greek_parliamentary_election",
+    "revid": 1339531971
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 3088137,
+     "pct": 46.89,
+     "seats": 150,
+     "change": 2,
+     "winner": true
+    },
+    {
+     "name": "Panhellenic Socialist Movement",
+     "party": "pasok",
+     "votes": 2543042,
+     "pct": 38.61,
+     "seats": 123,
+     "change": -5
+    },
+    {
+     "name": "Coalition of the Left and Progress",
+     "party": "syn",
+     "votes": 677059,
+     "pct": 10.28,
+     "seats": 19,
+     "change": -2
+    },
+    {
+     "name": "Alternative Ecologists",
+     "party": "ae",
+     "votes": 50868,
+     "pct": 0.77,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Democratic Renewal",
+     "party": "dian",
+     "votes": 44077,
+     "pct": 0.67,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Trust",
+     "party": "trust",
+     "votes": 29547,
+     "pct": 0.45,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Independent Coalition in the Department of Samos \"Cooperation\"",
+     "party": "samos90",
+     "votes": 17098,
+     "pct": 0.26,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Fate",
+     "party": "moira",
+     "votes": 16434,
+     "pct": 0.25,
+     "seats": 1,
+     "change": 0
+    },
+    {
+     "name": "Kefalonia and Ithaki Democratic Cooperation for Social Progress and Economic Development",
+     "party": "kefal90",
+     "votes": 13700,
+     "pct": 0.21,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Zakynthos Initiative for the Progress-Development Simple Proportional Vote",
+     "party": "zak90",
+     "votes": 12961,
+     "pct": 0.2,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Independents Coalition in the Department of Lefkas \"Democratic Progressive Cooperation\"",
+     "party": "lefk90",
+     "votes": 10395,
+     "pct": 0.16,
+     "seats": 1,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 82722,
+     "pct": 1.26,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Four local lists (Samos, Kefalonia and Ithaki, Zakynthos, Lefkada) won one seat each and are listed under the table's names. The article says the Supreme Special Court later corrected a seat-calculation error, giving the New Democracy–Democratic Renewal majority a 152nd seat; the table shows the declared result (New Democracy 150). Turnout is computed from the table. No numeric seat change in the table for Democratic Renewal (New), Independent Coalition in the Department of Samos \"Cooperation\" (New), Kefalonia and Ithaki Democratic Cooperation for Social Progress and Economic Development (New), Zakynthos Initiative for the Progress-Development Simple Proportional Vote (New), Independents Coalition in the Department of Lefkas \"Democratic Progressive Cooperation\" (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-1993",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1993-10-10",
+   "totalSeats": 300,
+   "turnout": 79.22,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1993_Greek_parliamentary_election",
+    "revid": 1364788817
+   },
+   "candidates": [
+    {
+     "name": "Panhellenic Socialist Movement",
+     "party": "pasok",
+     "votes": 3235017,
+     "pct": 46.88,
+     "seats": 170,
+     "change": 47,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2711737,
+     "pct": 39.3,
+     "seats": 111,
+     "change": -39
+    },
+    {
+     "name": "Political Spring",
+     "party": "polan",
+     "votes": 336460,
+     "pct": 4.88,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 313001,
+     "pct": 4.54,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Coalition of the Left and Progress",
+     "party": "syn",
+     "votes": 202887,
+     "pct": 2.94,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 101209,
+     "pct": 1.47,
+     "seats": 0,
+     "change": -6
+    }
+   ],
+   "notes": "Turnout is computed from the table. No numeric seat change in the table for Political Spring (New), Communist Party of Greece (–), Coalition of the Left and Progress (–); stored as null."
+  },
+  {
+   "id": "gr-parliament-1996",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "1996-09-22",
+   "totalSeats": 300,
+   "turnout": 76.34,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/1996_Greek_parliamentary_election",
+    "revid": 1364788541
+   },
+   "candidates": [
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 2814779,
+     "pct": 41.49,
+     "seats": 162,
+     "change": -8,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2586089,
+     "pct": 38.12,
+     "seats": 108,
+     "change": -3
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 380046,
+     "pct": 5.6,
+     "seats": 11,
+     "change": 2
+    },
+    {
+     "name": "Synaspismos",
+     "party": "syn",
+     "votes": 347236,
+     "pct": 5.12,
+     "seats": 10,
+     "change": 10
+    },
+    {
+     "name": "Democratic Social Movement",
+     "party": "dikki",
+     "votes": 300954,
+     "pct": 4.44,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Political Spring",
+     "party": "polan",
+     "votes": 199686,
+     "pct": 2.94,
+     "seats": 0,
+     "change": -10
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 154655,
+     "pct": 2.28,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is computed from the table. No numeric seat change in the table for Democratic Social Movement (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-2000",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2000-04-09",
+   "totalSeats": 300,
+   "turnout": 75.74,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/2000_Greek_parliamentary_election",
+    "revid": 1366879426
+   },
+   "candidates": [
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 3008081,
+     "pct": 43.8,
+     "seats": 158,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2934948,
+     "pct": 42.73,
+     "seats": 125,
+     "change": 17
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 379280,
+     "pct": 5.52,
+     "seats": 11,
+     "change": 0
+    },
+    {
+     "name": "Synaspismos",
+     "party": "syn",
+     "votes": 219988,
+     "pct": 3.2,
+     "seats": 6,
+     "change": -4
+    },
+    {
+     "name": "Democratic Social Movement",
+     "party": "dikki",
+     "votes": 184648,
+     "pct": 2.69,
+     "seats": 0,
+     "change": -9
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 141184,
+     "pct": 2.06,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-2004",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2004-03-07",
+   "totalSeats": 300,
+   "turnout": 76.62,
+   "source": {
+    "name": "Wikipedia, citing Nohlen & Stöver (2010)",
+    "url": "https://en.wikipedia.org/wiki/2004_Greek_parliamentary_election",
+    "revid": 1366879555
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 3360424,
+     "pct": 45.36,
+     "seats": 165,
+     "change": 40,
+     "winner": true
+    },
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 3003988,
+     "pct": 40.55,
+     "seats": 117,
+     "change": -41
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 436818,
+     "pct": 5.9,
+     "seats": 12,
+     "change": 1
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 241714,
+     "pct": 3.26,
+     "seats": 6,
+     "change": 0
+    },
+    {
+     "name": "Popular Orthodox Rally",
+     "party": "laos",
+     "votes": 162492,
+     "pct": 2.19,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Democratic Social Movement",
+     "party": "dikki",
+     "votes": 132933,
+     "pct": 1.79,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 70005,
+     "pct": 0.94,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the electoral law practically guaranteed a majority to a party polling a plurality above 40%. Turnout is computed from the table. No numeric seat change in the table for Popular Orthodox Rally (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-2007",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2007-09-16",
+   "totalSeats": 300,
+   "turnout": 74.15,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/2007_Greek_parliamentary_election",
+    "revid": 1375064966
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2994979,
+     "pct": 41.84,
+     "seats": 152,
+     "change": -13,
+     "winner": true
+    },
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 2727279,
+     "pct": 38.1,
+     "seats": 102,
+     "change": -15
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 583750,
+     "pct": 8.15,
+     "seats": 22,
+     "change": 10
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 361101,
+     "pct": 5.04,
+     "seats": 14,
+     "change": 8
+    },
+    {
+     "name": "Popular Orthodox Rally",
+     "party": "laos",
+     "votes": 271809,
+     "pct": 3.8,
+     "seats": 10,
+     "change": 10
+    },
+    {
+     "name": "Ecologist Greens",
+     "party": "oikpr",
+     "votes": 75502,
+     "pct": 1.05,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 144586,
+     "pct": 2.02,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the largest party received a bonus of 40 seats; the other 260 were shared proportionally among parties above 3%. Turnout is computed from the table. No numeric seat change in the table for Ecologist Greens (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-2009",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2009-10-04",
+   "totalSeats": 300,
+   "turnout": 70.95,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/2009_Greek_parliamentary_election",
+    "revid": 1377542800
+   },
+   "candidates": [
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 3012542,
+     "pct": 43.92,
+     "seats": 160,
+     "change": 58,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2295719,
+     "pct": 33.47,
+     "seats": 91,
+     "change": -61
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 517249,
+     "pct": 7.54,
+     "seats": 21,
+     "change": -1
+    },
+    {
+     "name": "Popular Orthodox Rally",
+     "party": "laos",
+     "votes": 386205,
+     "pct": 5.63,
+     "seats": 15,
+     "change": 5
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 315665,
+     "pct": 4.6,
+     "seats": 13,
+     "change": -1
+    },
+    {
+     "name": "Ecologist Greens",
+     "party": "oikpr",
+     "votes": 173589,
+     "pct": 2.53,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 157452,
+     "pct": 2.3,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "Turnout is computed from the table (valid, invalid and blank votes over registered voters). Region winners (most votes) come from the article's results-by-region table, which uses the 13 administrative regions.",
+   "regionWinners": {
+    "A1": "pasok",
+    "H": "pasok",
+    "B": "pasok",
+    "M": "pasok",
+    "A": "pasok",
+    "D": "pasok",
+    "F": "pasok",
+    "K": "pasok",
+    "J": "pasok",
+    "L": "pasok",
+    "E": "pasok",
+    "G": "pasok",
+    "C": "pasok"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/2009_Greek_parliamentary_election#By_region"
+  },
+  {
+   "id": "gr-parliament-2012-05",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2012-05-06",
+   "label": "May 2012",
+   "totalSeats": 300,
+   "turnout": 65.12,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/May_2012_Greek_parliamentary_election",
+    "revid": 1367510161
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 1192103,
+     "pct": 18.85,
+     "seats": 108,
+     "change": 17,
+     "winner": true
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 1061928,
+     "pct": 16.79,
+     "seats": 52,
+     "change": 39
+    },
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 833452,
+     "pct": 13.18,
+     "seats": 41,
+     "change": -119
+    },
+    {
+     "name": "Independent Greeks",
+     "party": "anel",
+     "votes": 671324,
+     "pct": 10.62,
+     "seats": 33,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 536105,
+     "pct": 8.48,
+     "seats": 26,
+     "change": 5
+    },
+    {
+     "name": "Popular Association–Golden Dawn",
+     "party": "xa",
+     "votes": 440966,
+     "pct": 6.97,
+     "seats": 21,
+     "change": 21
+    },
+    {
+     "name": "Democratic Left",
+     "party": "dimar",
+     "votes": 386394,
+     "pct": 6.11,
+     "seats": 19,
+     "change": null
+    },
+    {
+     "name": "Ecologist Greens",
+     "party": "oikpr",
+     "votes": 185485,
+     "pct": 2.93,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Popular Orthodox Rally",
+     "party": "laos",
+     "votes": 182925,
+     "pct": 2.89,
+     "seats": 0,
+     "change": -15
+    },
+    {
+     "name": "Democratic Alliance",
+     "party": "disy",
+     "votes": 161550,
+     "pct": 2.55,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Recreate Greece",
+     "party": "recreate",
+     "votes": 135960,
+     "pct": 2.15,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Drassi–Liberal Alliance",
+     "party": "drasifp",
+     "votes": 114066,
+     "pct": 1.8,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Antarsya",
+     "party": "antarsya",
+     "votes": 75416,
+     "pct": 1.19,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 346462,
+     "pct": 5.48,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the largest party received a 50-seat majority bonus. Turnout is computed from the table. Region winners (most votes) come from the article's results-by-region table (13 administrative regions). No numeric seat change in the table for Independent Greeks (New), Democratic Left (New), Democratic Alliance (New), Recreate Greece (New), Drassi–Liberal Alliance (New); stored as null.",
+   "regionWinners": {
+    "A1": "syriza",
+    "H": "nd",
+    "B": "nd",
+    "M": "pasok",
+    "A": "nd",
+    "D": "nd",
+    "F": "nd",
+    "K": "nd",
+    "J": "nd",
+    "L": "nd",
+    "E": "nd",
+    "G": "nd",
+    "C": "nd"
+   },
+   "regionSource": "https://en.wikipedia.org/wiki/May_2012_Greek_parliamentary_election#By_region"
+  },
+  {
+   "id": "gr-parliament-2012-06",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2012-06-17",
+   "label": "June 2012",
+   "totalSeats": 300,
+   "turnout": 62.49,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/June_2012_Greek_parliamentary_election",
+    "revid": 1370388471
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 1825497,
+     "pct": 29.66,
+     "seats": 129,
+     "change": 21,
+     "winner": true
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 1655022,
+     "pct": 26.89,
+     "seats": 71,
+     "change": 19
+    },
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 756024,
+     "pct": 12.28,
+     "seats": 33,
+     "change": -8
+    },
+    {
+     "name": "Independent Greeks",
+     "party": "anel",
+     "votes": 462406,
+     "pct": 7.51,
+     "seats": 20,
+     "change": -13
+    },
+    {
+     "name": "Golden Dawn",
+     "party": "xa",
+     "votes": 426025,
+     "pct": 6.92,
+     "seats": 18,
+     "change": -3
+    },
+    {
+     "name": "Democratic Left",
+     "party": "dimar",
+     "votes": 384986,
+     "pct": 6.25,
+     "seats": 17,
+     "change": -2
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 277227,
+     "pct": 4.5,
+     "seats": 12,
+     "change": -14
+    },
+    {
+     "name": "Recreate Greece–Drassi–Liberal Alliance",
+     "party": "recdrasi",
+     "votes": 98140,
+     "pct": 1.59,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Popular Orthodox Rally",
+     "party": "laos",
+     "votes": 97099,
+     "pct": 1.58,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 173038,
+     "pct": 2.81,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the largest party received a 50-seat majority bonus. Recreate Greece, Drassi and the Liberal Alliance ran a joint list. Turnout is computed from the table."
+  },
+  {
+   "id": "gr-parliament-2015-01",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2015-01-25",
+   "label": "January 2015",
+   "totalSeats": 300,
+   "turnout": 63.62,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/January_2015_Greek_parliamentary_election",
+    "revid": 1367510016
+   },
+   "candidates": [
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 2245978,
+     "pct": 36.34,
+     "seats": 149,
+     "change": 78,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 1718694,
+     "pct": 27.81,
+     "seats": 76,
+     "change": -53
+    },
+    {
+     "name": "Popular Association–Golden Dawn",
+     "party": "xa",
+     "votes": 388387,
+     "pct": 6.28,
+     "seats": 17,
+     "change": -1
+    },
+    {
+     "name": "The River",
+     "party": "potami",
+     "votes": 373924,
+     "pct": 6.05,
+     "seats": 17,
+     "change": null
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 338188,
+     "pct": 5.47,
+     "seats": 15,
+     "change": 3
+    },
+    {
+     "name": "Independent Greeks",
+     "party": "anel",
+     "votes": 293683,
+     "pct": 4.75,
+     "seats": 13,
+     "change": -7
+    },
+    {
+     "name": "PASOK",
+     "party": "pasok",
+     "votes": 289469,
+     "pct": 4.68,
+     "seats": 13,
+     "change": -20
+    },
+    {
+     "name": "Movement of Democratic Socialists",
+     "party": "kidiso",
+     "votes": 152557,
+     "pct": 2.47,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Union of Centrists",
+     "party": "enken",
+     "votes": 110923,
+     "pct": 1.79,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Teleia",
+     "party": "teleia",
+     "votes": 109500,
+     "pct": 1.77,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Popular Orthodox Rally",
+     "party": "laos",
+     "votes": 63669,
+     "pct": 1.03,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "Democratic Left–Greens",
+     "party": "dimarpr",
+     "votes": 29820,
+     "pct": 0.48,
+     "seats": 0,
+     "change": -17
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 66080,
+     "pct": 1.07,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the largest party received a 50-seat majority bonus. Democratic Left and the Greens ran a joint list; the table gives it −17 seats. Turnout is computed from the table. No numeric seat change in the table for The River (New), Movement of Democratic Socialists (New), Teleia (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-2015-09",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2015-09-20",
+   "label": "September 2015",
+   "totalSeats": 300,
+   "turnout": 56.16,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/September_2015_Greek_parliamentary_election",
+    "revid": 1367514515
+   },
+   "candidates": [
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 1926526,
+     "pct": 35.46,
+     "seats": 145,
+     "change": -4,
+     "winner": true
+    },
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 1526400,
+     "pct": 28.09,
+     "seats": 75,
+     "change": -1
+    },
+    {
+     "name": "Golden Dawn",
+     "party": "xa",
+     "votes": 379722,
+     "pct": 6.99,
+     "seats": 18,
+     "change": 1
+    },
+    {
+     "name": "Democratic Alignment",
+     "party": "dimsym",
+     "votes": 341732,
+     "pct": 6.29,
+     "seats": 17,
+     "change": 4
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 301684,
+     "pct": 5.55,
+     "seats": 15,
+     "change": 0
+    },
+    {
+     "name": "The River",
+     "party": "potami",
+     "votes": 222349,
+     "pct": 4.09,
+     "seats": 11,
+     "change": -6
+    },
+    {
+     "name": "Independent Greeks",
+     "party": "anel",
+     "votes": 200532,
+     "pct": 3.69,
+     "seats": 10,
+     "change": -3
+    },
+    {
+     "name": "Union of Centrists",
+     "party": "enken",
+     "votes": 186644,
+     "pct": 3.44,
+     "seats": 9,
+     "change": 9
+    },
+    {
+     "name": "Popular Unity",
+     "party": "lae",
+     "votes": 155320,
+     "pct": 2.86,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 192467,
+     "pct": 3.54,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the largest party received a 50-seat majority bonus. The article says Democratic Alignment comprised PASOK and Democratic Left; it has its own key here. Turnout is computed from the table. No numeric seat change in the table for Popular Unity (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-2019",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2019-07-07",
+   "totalSeats": 300,
+   "turnout": 57.78,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/2019_Greek_parliamentary_election",
+    "revid": 1357310990
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2251618,
+     "pct": 39.85,
+     "seats": 158,
+     "change": 83,
+     "winner": true
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 1781057,
+     "pct": 31.53,
+     "seats": 86,
+     "change": -59
+    },
+    {
+     "name": "Movement for Change",
+     "party": "kinal",
+     "votes": 457623,
+     "pct": 8.1,
+     "seats": 22,
+     "change": 5
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 299621,
+     "pct": 5.3,
+     "seats": 15,
+     "change": 0
+    },
+    {
+     "name": "Greek Solution",
+     "party": "el",
+     "votes": 209290,
+     "pct": 3.7,
+     "seats": 10,
+     "change": null
+    },
+    {
+     "name": "MeRA25",
+     "party": "mera25",
+     "votes": 194576,
+     "pct": 3.44,
+     "seats": 9,
+     "change": null
+    },
+    {
+     "name": "Golden Dawn",
+     "party": "xa",
+     "votes": 165620,
+     "pct": 2.93,
+     "seats": 0,
+     "change": -18
+    },
+    {
+     "name": "Course of Freedom",
+     "party": "pe",
+     "votes": 82786,
+     "pct": 1.47,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Union of Centrists",
+     "party": "enken",
+     "votes": 70178,
+     "pct": 1.24,
+     "seats": 0,
+     "change": -9
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 137158,
+     "pct": 2.43,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says the 2016 law abolishing the bonus did not yet apply, so the largest party received 50 bonus seats. Turnout is computed from the table (valid, invalid and blank votes over registered voters). No numeric seat change in the table for Greek Solution (New), MeRA25 (New), Course of Freedom (New); stored as null."
+  },
+  {
+   "id": "gr-parliament-2023-05",
+   "office": "Parliament",
+   "kind": "legislative",
+   "date": "2023-05-21",
+   "label": "May 2023",
+   "totalSeats": 300,
+   "turnout": 61.1,
+   "source": {
+    "name": "Wikipedia, citing the Ministry of the Interior",
+    "url": "https://en.wikipedia.org/wiki/May_2023_Greek_parliamentary_election",
+    "revid": 1375387120
+   },
+   "candidates": [
+    {
+     "name": "New Democracy",
+     "party": "nd",
+     "votes": 2407750,
+     "pct": 40.79,
+     "seats": 146,
+     "change": -12,
+     "winner": true
+    },
+    {
+     "name": "Syriza",
+     "party": "syriza",
+     "votes": 1184621,
+     "pct": 20.07,
+     "seats": 71,
+     "change": -15
+    },
+    {
+     "name": "PASOK – Movement for Change",
+     "party": "kinal",
+     "votes": 676165,
+     "pct": 11.46,
+     "seats": 41,
+     "change": 19
+    },
+    {
+     "name": "Communist Party of Greece",
+     "party": "kke",
+     "votes": 426628,
+     "pct": 7.23,
+     "seats": 26,
+     "change": 11
+    },
+    {
+     "name": "Greek Solution",
+     "party": "el",
+     "votes": 262498,
+     "pct": 4.45,
+     "seats": 16,
+     "change": 6
+    },
+    {
+     "name": "Victory",
+     "party": "niki",
+     "votes": 172260,
+     "pct": 2.92,
+     "seats": 0,
+     "change": null
+    },
+    {
+     "name": "Course of Freedom",
+     "party": "pe",
+     "votes": 170424,
+     "pct": 2.89,
+     "seats": 0,
+     "change": 0
+    },
+    {
+     "name": "MeRA25",
+     "party": "mera25",
+     "votes": 155107,
+     "pct": 2.63,
+     "seats": 0,
+     "change": -9
+    },
+    {
+     "name": "Others",
+     "party": "oth",
+     "votes": 447310,
+     "pct": 7.58,
+     "seats": 0,
+     "change": 0
+    }
+   ],
+   "notes": "The article says this was the first election since 1990 without a seat bonus (pure proportional representation). Turnout is computed from the table (valid, invalid and blank votes over registered voters); the infobox gives 61.76%. No numeric seat change in the table for Victory (New); stored as null."
+  }
+ ]
+}

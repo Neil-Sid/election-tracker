@@ -31,6 +31,8 @@ const NORTH_IT = ['LOM', 'VEN', 'PIE', 'LIG', 'EMR', 'FVG', 'TAA', 'VDA', 'TOS',
 const KURDISH_TR = ['02', '04', '12', '13', '21', '30', '36', '47', '49', '56', '62', '63', '65', '72', '73', '76'];
 const GREAT_BRITAIN = ['ENG', 'SCT', 'WLS'];
 const EAST_DE = ['BB', 'MV', 'SN', 'ST', 'TH', 'BE'];
+const FLANDERS = ['VAN', 'VBR', 'VLI', 'VOV', 'VWV', 'BRU'];
+const WALLONIA = ['WBR', 'WHT', 'WLG', 'WLX', 'WNA', 'BRU'];
 const RULES = {
   IN: {
     pdf: ['TG'], aigp: ['OR'], sad: ['PB'], sada: ['PB'], adsfs: ['PB'], tntp: ['TN'], cwp: ['TN'], ttnc: ['TN'],
@@ -78,6 +80,16 @@ const RULES = {
     b90: EAST_DE, dsu: EAST_DE
   },
   PL: { mn: ['OP', 'SL'], ras: ['SL'] },
+  // Belgium's national parties split by language: the Christian Democrats in
+  // 1968, the Liberals in 1972 and the Socialists in 1978.
+  BE: {
+    ...Object.fromEntries(['vu', 'cvvu', 'vc', 'vblok', 'vb', 'nva', 'cdv', 'ovld', 'groen', 'ldd', 'rossem', 'spaspirit', 'cdvnva', 'blanco', 'vooruit']
+      .map(p => [p, FLANDERS])),
+    ...Object.fromEntries(['mr', 'ps', 'le', 'ecolo', 'defi', 'fdfrw', 'rw', 'fw', 'ptw', 'prl', 'prlfdf', 'psbrw', 'rscl', 'udrt', 'fn', 'pp', 'ptbgo', 'psccsp']
+      .map(p => [p, WALLONIA])),
+    pvv: { in: FLANDERS, from: '1972-01-01' },
+    bsplux: ['WLX'], fdfpdlp: ['BRU'], bsprl: ['BRU'], rl: ['BRU']
+  },
   CA: { bq: ['QC'], rc: ['QC'], ue: ['QC'], ref: ['BC', 'AB', 'SK', 'MB', 'ON', 'NB', 'NS', 'PE', 'NL', 'YT', 'NT'] },
   AR: {
     ...Object.fromEntries(['pac', 'plc', 'pnuevo', 'proyctes', 'fcsc', 'fdt96'].map(p => [p, ['CN']])),

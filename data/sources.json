@@ -323,6 +323,22 @@
       "url": "https://vtr.valasztas.hu",
       "role": "Official results",
       "note": "Nemzeti Választási Iroda publishes the count on vtr.valasztas.hu as votes are counted; postal votes from abroad are added in the following days."
+    },
+    "GR": {
+      "access": "public",
+      "name": "Ministry of the Interior",
+      "short": "YPES",
+      "url": "https://ekloges.ypes.gr",
+      "role": "Official results",
+      "note": "Publishes the official results on ekloges.ypes.gr."
+    },
+    "BE": {
+      "access": "public",
+      "name": "Federal Public Service Interior",
+      "short": "IBZ",
+      "url": "https://elections.fgov.be",
+      "role": "Official results",
+      "note": "Its elections directorate publishes the official results on resultatselection.belgium.be."
     }
   },
   "maps": "Country and state outlines: Natural Earth and world-atlas (public domain)."

@@ -790,5 +790,27 @@
     "pollsClose": "19:00",
     "basedOn": "hu-national-assembly-2026",
     "tentative": true
+  },
+  {
+    "country": "GR",
+    "office": "Parliament",
+    "kind": "legislative",
+    "date": "2027-07-25",
+    "note": "Due by 25 July 2027; the prime minister has said he intends to hold it in spring 2027",
+    "timezone": "Europe/Athens",
+    "pollsClose": "19:00",
+    "basedOn": "gr-parliament-2023-06",
+    "tentative": true
+  },
+  {
+    "country": "BE",
+    "office": "Chamber of Representatives",
+    "kind": "legislative",
+    "date": "2029-06-10",
+    "note": "Due in 2029 alongside the European Parliament election; the date is not yet set",
+    "timezone": "Europe/Brussels",
+    "pollsClose": "16:00",
+    "basedOn": "be-chamber-of-representatives-2024",
+    "tentative": true
   }
 ]

@@ -746,6 +746,48 @@
         "counties"
       ],
       "history": true
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "atlasId": "300",
+      "marker": [
+        22.5,
+        39.3
+      ],
+      "view": {
+        "center": [
+          23.8,
+          38.4
+        ],
+        "span": 5
+      },
+      "regionTerm": [
+        "region",
+        "regions"
+      ],
+      "history": true
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "atlasId": "056",
+      "marker": [
+        4.5,
+        50.6
+      ],
+      "view": {
+        "center": [
+          4.6,
+          50.6
+        ],
+        "span": 1.9
+      },
+      "regionTerm": [
+        "province",
+        "provinces"
+      ],
+      "history": true
     }
   ]
 }

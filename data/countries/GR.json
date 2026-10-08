@@ -1,0 +1,429 @@
+{
+  "code": "GR",
+  "name": "Greece",
+  "subtitle": "Parliamentary elections",
+  "about": {
+    "system": "Unitary parliamentary republic",
+    "headOfState": "President",
+    "headOfGovernment": "Prime Minister",
+    "legislature": "Hellenic Parliament (300)",
+    "votingAge": 17,
+    "compulsory": true,
+    "registered": 9813595,
+    "offices": {
+      "Parliament": "The 300 members are elected for four years by proportional representation, 285 in 59 constituencies and 15 from national lists, with a 3% threshold and, under the 2020 law, a bonus of 20 to 50 seats for the largest party. Parliament passes laws and the budget, the government needs its confidence, and it elects the President for a five-year term; voting is compulsory in law but the penalties are not enforced."
+    }
+  },
+  "parties": {
+    "nd": {
+      "name": "New Democracy",
+      "color": "#1B5CC7"
+    },
+    "syriza": {
+      "name": "Syriza",
+      "color": "#EE808F"
+    },
+    "kinal": {
+      "name": "PASOK – Movement for Change",
+      "color": "#01783D"
+    },
+    "kke": {
+      "name": "Communist Party of Greece",
+      "color": "#E30301"
+    },
+    "spartans": {
+      "name": "Spartans",
+      "color": "#E9B460"
+    },
+    "el": {
+      "name": "Greek Solution",
+      "color": "#6BB6E6"
+    },
+    "niki": {
+      "name": "Niki",
+      "color": "#910048"
+    },
+    "pe": {
+      "name": "Course of Freedom",
+      "color": "#9F1897"
+    },
+    "mera25": {
+      "name": "MeRA25",
+      "color": "#EF3F24"
+    },
+    "oth": {
+      "name": "Others",
+      "color": "#B8B8BD"
+    },
+    "lp": {
+      "name": "People's Party",
+      "color": "#4169E1"
+    },
+    "kf": {
+      "name": "Liberal Party",
+      "color": "#FFA500"
+    },
+    "epek": {
+      "name": "National Progressive Center Union",
+      "color": "#9370DB"
+    },
+    "gpp": {
+      "name": "Georgios Papandreou Party",
+      "color": "#FFFF00"
+    },
+    "dpa": {
+      "name": "Democratic Alignment (1950)",
+      "color": "#FF0000"
+    },
+    "pap": {
+      "name": "Politically Independent Alignment",
+      "color": "#000000"
+    },
+    "nrf": {
+      "name": "National Reconstruction Front",
+      "color": "#ADD8E6"
+    },
+    "npg": {
+      "name": "National Party of Greece",
+      "color": "#8D6E63"
+    },
+    "pfl": {
+      "name": "Party of Farmers and Labourers",
+      "color": "#4CAF50"
+    },
+    "newp": {
+      "name": "New Party",
+      "color": "#00008B"
+    },
+    "npwp": {
+      "name": "National Party of Working People",
+      "color": "#80CBC4"
+    },
+    "es": {
+      "name": "Greek Rally",
+      "color": "#1935D0"
+    },
+    "eda": {
+      "name": "United Democratic Left",
+      "color": "#ADD8E6"
+    },
+    "akp": {
+      "name": "Agricultural and Labour Party",
+      "color": "#FFB4A1"
+    },
+    "epekkf": {
+      "name": "National Progressive Center Union–Liberal Party",
+      "color": "#B07CC6"
+    },
+    "loi": {
+      "name": "List of Independents",
+      "color": "#78909C"
+    },
+    "ind": {
+      "name": "Independents",
+      "color": "#DCDCDC"
+    },
+    "ere": {
+      "name": "National Radical Union",
+      "color": "#005AC0"
+    },
+    "dea": {
+      "name": "Democratic Union",
+      "color": "#FFA500"
+    },
+    "kp": {
+      "name": "Progressive Party",
+      "color": "#8B4513"
+    },
+    "pade": {
+      "name": "Progressive Agricultural Democratic Union",
+      "color": "#837050"
+    },
+    "unpop": {
+      "name": "Union of Populars",
+      "color": "#9FA8DA"
+    },
+    "ekkp": {
+      "name": "Centre Union–Progressive Party",
+      "color": "#E0A030"
+    },
+    "pdaf": {
+      "name": "All-Democratic Agricultural Front",
+      "color": "#FF0000"
+    },
+    "ek": {
+      "name": "Centre Union",
+      "color": "#FCB825"
+    },
+    "erekp": {
+      "name": "National Radical Union–Progressive Party",
+      "color": "#2F6DB5"
+    },
+    "ekna": {
+      "name": "Centre Union – New Forces",
+      "color": "#F15A24"
+    },
+    "pasok": {
+      "name": "PASOK",
+      "color": "#2D902D"
+    },
+    "ea": {
+      "name": "United Left",
+      "color": "#EC1C24"
+    },
+    "edee": {
+      "name": "National Democratic Union",
+      "color": "#00008B"
+    },
+    "edik": {
+      "name": "Union of the Democratic Centre",
+      "color": "#FF7F50"
+    },
+    "ep": {
+      "name": "National Alignment",
+      "color": "#2B388F"
+    },
+    "spad": {
+      "name": "Progress and Left Forces Alliance",
+      "color": "#EF9A9A"
+    },
+    "kn": {
+      "name": "Party of New Liberals",
+      "color": "#FFCA28"
+    },
+    "kkees": {
+      "name": "Communist Party of Greece (Interior)",
+      "color": "#F06292"
+    },
+    "syn": {
+      "name": "Synaspismos",
+      "color": "#FFD000"
+    },
+    "dian": {
+      "name": "Democratic Renewal",
+      "color": "#007FFF"
+    },
+    "trust": {
+      "name": "Trust",
+      "color": "#1DC2E0"
+    },
+    "ae": {
+      "name": "Alternative Ecologists",
+      "color": "#8BC34A"
+    },
+    "moira": {
+      "name": "Fate",
+      "color": "#B02840"
+    },
+    "samos90": {
+      "name": "Independent Coalition in the Department of Samos \"Cooperation\"",
+      "color": "#8D6E63"
+    },
+    "kefal90": {
+      "name": "Kefalonia and Ithaki Democratic Cooperation",
+      "color": "#78909C"
+    },
+    "zak90": {
+      "name": "Zakynthos Initiative for the Progress-Development Simple Proportional Vote",
+      "color": "#B39DDB"
+    },
+    "lefk90": {
+      "name": "Independents Coalition in the Department of Lefkas \"Democratic Progressive Cooperation\"",
+      "color": "#FFAB91"
+    },
+    "polan": {
+      "name": "Political Spring",
+      "color": "#252E93"
+    },
+    "dikki": {
+      "name": "Democratic Social Movement",
+      "color": "#FF7F00"
+    },
+    "laos": {
+      "name": "Popular Orthodox Rally",
+      "color": "#000080"
+    },
+    "oikpr": {
+      "name": "Ecologist Greens",
+      "color": "#9ACD32"
+    },
+    "anel": {
+      "name": "Independent Greeks",
+      "color": "#38A3E7"
+    },
+    "xa": {
+      "name": "Golden Dawn",
+      "color": "#00022D"
+    },
+    "dimar": {
+      "name": "Democratic Left",
+      "color": "#FF4100"
+    },
+    "disy": {
+      "name": "Democratic Alliance",
+      "color": "#F36F21"
+    },
+    "recreate": {
+      "name": "Recreate Greece",
+      "color": "#FFC107"
+    },
+    "drasifp": {
+      "name": "Drassi–Liberal Alliance",
+      "color": "#AB47BC"
+    },
+    "antarsya": {
+      "name": "Antarsya",
+      "color": "#800000"
+    },
+    "recdrasi": {
+      "name": "Recreate Greece–Drassi–Liberal Alliance",
+      "color": "#FFD54F"
+    },
+    "potami": {
+      "name": "The River",
+      "color": "#9C514A"
+    },
+    "kidiso": {
+      "name": "Movement of Democratic Socialists",
+      "color": "#D81B60"
+    },
+    "enken": {
+      "name": "Union of Centrists",
+      "color": "#FD7F2B"
+    },
+    "teleia": {
+      "name": "Teleia",
+      "color": "#26C6DA"
+    },
+    "dimarpr": {
+      "name": "Democratic Left–Greens",
+      "color": "#FF8A65"
+    },
+    "dimsym": {
+      "name": "Democratic Alignment (2015)",
+      "color": "#2D902D"
+    },
+    "lae": {
+      "name": "Popular Unity",
+      "color": "#B01740"
+    }
+  },
+  "elections": [
+    {
+      "id": "gr-parliament-2023-06",
+      "office": "Parliament",
+      "kind": "legislative",
+      "date": "2023-06-25",
+      "status": "final",
+      "reporting": 100,
+      "turnout": 53.74,
+      "system": "300 seats, reinforced proportional representation",
+      "totalSeats": 300,
+      "majority": 151,
+      "seatLabel": "Seats",
+      "cite": {
+        "name": "the Ministry of the Interior",
+        "url": "https://en.wikipedia.org/wiki/June_2023_Greek_parliamentary_election"
+      },
+      "statesFrom": "https://en.wikipedia.org/wiki/June_2023_Greek_parliamentary_election#By_region",
+      "candidates": [
+        {
+          "name": "New Democracy",
+          "party": "nd",
+          "votes": 2115322,
+          "pct": 40.56,
+          "seats": 158,
+          "change": 12,
+          "winner": true
+        },
+        {
+          "name": "Syriza",
+          "party": "syriza",
+          "votes": 930013,
+          "pct": 17.83,
+          "seats": 47,
+          "change": -24
+        },
+        {
+          "name": "PASOK – Movement for Change",
+          "party": "kinal",
+          "votes": 617487,
+          "pct": 11.84,
+          "seats": 32,
+          "change": -9
+        },
+        {
+          "name": "Communist Party of Greece",
+          "party": "kke",
+          "votes": 401224,
+          "pct": 7.69,
+          "seats": 21,
+          "change": -5
+        },
+        {
+          "name": "Spartans",
+          "party": "spartans",
+          "votes": 243922,
+          "pct": 4.68,
+          "seats": 12,
+          "change": null
+        },
+        {
+          "name": "Greek Solution",
+          "party": "el",
+          "votes": 231491,
+          "pct": 4.44,
+          "seats": 12,
+          "change": -4
+        },
+        {
+          "name": "Victory",
+          "party": "niki",
+          "votes": 193124,
+          "pct": 3.7,
+          "seats": 10,
+          "change": 10
+        },
+        {
+          "name": "Course of Freedom",
+          "party": "pe",
+          "votes": 165523,
+          "pct": 3.17,
+          "seats": 8,
+          "change": 8
+        },
+        {
+          "name": "MeRA25",
+          "party": "mera25",
+          "votes": 130378,
+          "pct": 2.5,
+          "seats": 0,
+          "change": 0
+        },
+        {
+          "name": "Others",
+          "party": "oth",
+          "votes": 186723,
+          "pct": 3.58,
+          "seats": 0,
+          "change": 0
+        }
+      ],
+      "regions": [
+        {"name":"Attica","abbr":"A1","winner":"nd","margin":29.1,"turnout":54.5,"votes":397284,"results":[{"party":"nd","pct":47.7,"votes":189504},{"party":"syriza","pct":18.6,"votes":73895},{"party":"kinal","pct":16.3,"votes":64757},{"party":"kke","pct":12,"votes":47674},{"party":"spartans","pct":5.4,"votes":21453}]},
+        {"name":"Central Greece","abbr":"H","winner":"nd","margin":12.8,"turnout":53.1,"votes":433616,"results":[{"party":"nd","pct":41.4,"votes":179517},{"party":"syriza","pct":28.6,"votes":124014},{"party":"kinal","pct":16.7,"votes":72414},{"party":"spartans","pct":7.7,"votes":33388},{"party":"kke","pct":5.6,"votes":24282}]},
+        {"name":"Central Macedonia","abbr":"B","winner":"nd","margin":17.7,"turnout":57,"votes":411754,"results":[{"party":"nd","pct":43.5,"votes":179113},{"party":"syriza","pct":25.8,"votes":106233},{"party":"kinal","pct":12,"votes":49410},{"party":"kke","pct":9.4,"votes":38705},{"party":"spartans","pct":9.3,"votes":38293}]},
+        {"name":"Crete","abbr":"M","winner":"nd","margin":43.5,"turnout":49.8,"votes":361336,"results":[{"party":"nd","pct":57.5,"votes":207768},{"party":"syriza","pct":14,"votes":50587},{"party":"kinal","pct":10.8,"votes":39024},{"party":"kke","pct":10.8,"votes":39024},{"party":"spartans","pct":6.9,"votes":24932}]},
+        {"name":"East Macedonia and Thrace","abbr":"A","winner":"nd","margin":16.6,"turnout":46.9,"votes":398458,"results":[{"party":"nd","pct":43.4,"votes":172931},{"party":"syriza","pct":26.8,"votes":106787},{"party":"kinal","pct":16.8,"votes":66941},{"party":"kke","pct":9.1,"votes":36260},{"party":"spartans","pct":4,"votes":15938}]},
+        {"name":"Epirus","abbr":"D","winner":"nd","margin":21.6,"turnout":50.9,"votes":416929,"results":[{"party":"nd","pct":44.7,"votes":186367},{"party":"syriza","pct":23.1,"votes":96311},{"party":"kinal","pct":14.4,"votes":60038},{"party":"kke","pct":10.7,"votes":44611},{"party":"spartans","pct":7.1,"votes":29602}]},
+        {"name":"Ionian Islands","abbr":"F","winner":"nd","margin":33.4,"turnout":48.8,"votes":425373,"results":[{"party":"nd","pct":52,"votes":221194},{"party":"syriza","pct":18.6,"votes":79119},{"party":"kinal","pct":14.7,"votes":62530},{"party":"kke","pct":8.8,"votes":37433},{"party":"spartans","pct":5.9,"votes":25097}]},
+        {"name":"North Aegean","abbr":"K","winner":"nd","margin":26.7,"turnout":47.4,"votes":326452,"results":[{"party":"nd","pct":51.3,"votes":167470},{"party":"syriza","pct":24.6,"votes":80307},{"party":"kke","pct":11.5,"votes":37542},{"party":"kinal","pct":9.5,"votes":31013},{"party":"spartans","pct":3.1,"votes":10120}]},
+        {"name":"Peloponnese","abbr":"J","winner":"nd","margin":12.8,"turnout":47.6,"votes":477026,"results":[{"party":"nd","pct":41.9,"votes":199874},{"party":"syriza","pct":29.1,"votes":138815},{"party":"kke","pct":12.9,"votes":61536},{"party":"kinal","pct":10.6,"votes":50565},{"party":"spartans","pct":5.5,"votes":26236}]},
+        {"name":"South Aegean","abbr":"L","winner":"nd","margin":43.4,"turnout":55.3,"votes":435199,"results":[{"party":"nd","pct":58.6,"votes":255027},{"party":"kinal","pct":15.2,"votes":66150},{"party":"syriza","pct":10.2,"votes":44390},{"party":"kke","pct":10,"votes":43520},{"party":"spartans","pct":6,"votes":26112}]},
+        {"name":"Thessaly","abbr":"E","winner":"nd","margin":9.8,"turnout":56,"votes":461255,"results":[{"party":"nd","pct":42.3,"votes":195111},{"party":"syriza","pct":32.5,"votes":149908},{"party":"kke","pct":11.1,"votes":51199},{"party":"kinal","pct":9.7,"votes":44742},{"party":"spartans","pct":4.4,"votes":20295}]},
+        {"name":"West Greece","abbr":"G","winner":"nd","margin":42.5,"turnout":50.3,"votes":419876,"results":[{"party":"nd","pct":57.9,"votes":243108},{"party":"kinal","pct":15.4,"votes":64661},{"party":"syriza","pct":12.8,"votes":53744},{"party":"kke","pct":11.2,"votes":47026},{"party":"spartans","pct":2.8,"votes":11757}]},
+        {"name":"West Macedonia","abbr":"C","winner":"nd","margin":15.6,"turnout":57.8,"votes":356966,"results":[{"party":"nd","pct":40.3,"votes":143857},{"party":"kinal","pct":24.7,"votes":88171},{"party":"syriza","pct":19.7,"votes":70322},{"party":"kke","pct":10.7,"votes":38195},{"party":"spartans","pct":4.5,"votes":16063}]}
+      ]
+    }
+  ]
+}
