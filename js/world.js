@@ -44,7 +44,7 @@ function prep(features, idOf) {
 // few pre-thinned copies. The globe draws the coarsest copy whose error is
 // under about half a screen pixel, so zoomed-out views project far fewer
 // points while close-ups keep full detail.
-const LEVELS = [2e-8, 1e-7, 4e-7, 1.6e-6, 6.4e-6];
+const LEVELS = [2e-8, 1e-7, 4e-7, 1.6e-6, 6.4e-6, 2.56e-5];
 function withDetail(topo, name, shapes) {
   const pre = topojson.presimplify(topo, topojson.sphericalTriangleArea);
   shapes.forEach(s => { s.lods = []; });

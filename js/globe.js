@@ -135,14 +135,14 @@ export async function createGlobe(pane, { countries }) {
     const cap = visibleCap();
     const seen = s => d3.geoDistance(center, s.c) - s.r < cap;
     const tolerance = (moving ? MOVING_DETAIL : 1) * 0.5 / Math.pow(R * k * dpr, 2);
-    const shape = s => atDetail(s, tolerance);
+    const shape = (s, coarser = 1) => atDetail(s, tolerance * coarser);
     // d3 caches its projection pipeline per output target, so shapes are
     // drawn in batches that share a target instead of switching per shape.
     const into = target => {
       path.context(target);
       openPath.context(target);
     };
-    const put = s => (d3.geoDistance(center, s.c) + s.r < Math.PI / 2 - 0.02 ? openPath : path)(shape(s));
+    const put = (s, coarser) => (d3.geoDistance(center, s.c) + s.r < Math.PI / 2 - 0.02 ? openPath : path)(shape(s, coarser));
     const world = k >= DETAIL_ZOOM && detail?.length ? detail : coarse;
 
     ctx.beginPath();
@@ -211,10 +211,13 @@ export async function createGlobe(pane, { countries }) {
         if (key === selected) selectedShape = s;
       }
       const outlines = new Path2D();
+      // Districts are small and thinly outlined, so in motion they can come from
+      // a much coarser copy than the rest of the map.
+      const coarser = fine && moving ? 16 : 1;
       for (const [fill, list] of groups) {
         const p = new Path2D();
         into(p);
-        list.forEach(put);
+        list.forEach(s => put(s, coarser));
         ctx.fillStyle = fill === 'hatch' ? hatch : fill;
         ctx.fill(p);
         outlines.addPath(p);
@@ -229,7 +232,7 @@ export async function createGlobe(pane, { countries }) {
         ctx.lineWidth = 1.6;
         ctx.beginPath();
         into(ctx);
-        for (const r of focus.regions) if (seen(r)) put(r);
+        for (const r of focus.regions) if (seen(r)) put(r, coarser);
         ctx.stroke();
       }
       ctx.globalAlpha = 1;
@@ -594,17 +597,20 @@ export async function createGlobe(pane, { countries }) {
     state() {
       return { k: Math.round(k * 100) / 100, centre: [-rot[0], -rot[1]].map(v => Math.round(v * 10) / 10), flying: Boolean(fly), selected };
     },
-    // Dev check: draws `frames` frames while turning and returns ms per frame.
-    benchmark(frames = 60, zoom = k) {
+    // Dev check: draws `frames` frames while turning and returns ms per frame;
+    // `asMoving` draws them as the globe does in motion.
+    benchmark(frames = 60, zoom = k, asMoving = false) {
       const start = rot;
       const k0 = k;
       k = zoom;
+      moving = asMoving;
       const t0 = performance.now();
       for (let i = 0; i < frames; i++) {
         rot = [start[0] + i * 0.75, start[1]];
         render();
       }
       ctx.getImageData(0, 0, 1, 1);
+      moving = false;
       rot = start;
       k = k0;
       dirty = true;
