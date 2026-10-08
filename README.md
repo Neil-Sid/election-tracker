@@ -259,6 +259,7 @@ now; `npm run due` lists the elections waiting for results.
 npm install
 npm run regions -- path/to/ne_10m_admin_1_states_provinces_lakes.geojson --replace=IE=path/to/dail_constituencies_2023.geojson
 npm run districts -- US path/to/cb_2025_us_cd119_20m.zip
+npm run districts -- CA path/to/FederalElectoralDistricts.zip --land=path/to/ne_10m_admin_1_states_provinces_lakes.geojson
 npm run world -- path/to/countries-50m.json path/to/countries-110m.json
 npm run mock
 npm run history

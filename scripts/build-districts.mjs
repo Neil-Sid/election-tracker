@@ -5,8 +5,11 @@
 // region abbreviations in data/countries/<CODE>.json).
 //
 //   node scripts/build-districts.mjs US path/to/cb_2025_us_cd119_20m.zip
+//   node scripts/build-districts.mjs CA path/to/FederalElectoralDistricts.zip --land=path/to/ne_10m_admin_1_states_provinces_lakes.geojson
 //
-// Sources per country are listed in SOURCES below.
+// Sources per country are listed in SOURCES below. Sources whose boundaries run
+// out over the sea (Canada's) are clipped to the country's land in Natural Earth,
+// the same coastline the state/province map uses.
 
 import { readFile, writeFile, mkdir, readdir, mkdtemp } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
@@ -16,7 +19,8 @@ import { fileURLToPath } from 'node:url';
 import mapshaper from 'mapshaper';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const [code, src] = process.argv.slice(2);
+const [code, src] = process.argv.slice(2).filter(a => !a.startsWith('--'));
+const landFile = process.argv.find(a => a.startsWith('--land='))?.slice(7);
 
 const FIPS = {
   '01': 'AL', '02': 'AK', '04': 'AZ', '05': 'AR', '06': 'CA', '08': 'CO', '09': 'CT', '10': 'DE', '11': 'DC', '12': 'FL', '13': 'GA',
@@ -85,6 +89,7 @@ export const SOURCES = {
   CA: {
     source: 'Elections Canada federal electoral districts, 2023 Representation Order',
     simplify: '1.2%',
+    land: 'CAN',
     map: p => {
       const region = { 10: 'NL', 11: 'PE', 12: 'NS', 13: 'NB', 24: 'QC', 35: 'ON', 46: 'MB', 47: 'SK', 48: 'AB', 59: 'BC', 60: 'YT', 61: 'NT', 62: 'NU' }[String(p.FED_NUM).slice(0, 2)];
       return region ? { key: String(p.FED_NUM), name: p.ED_NAMEE, region } : null;
@@ -226,10 +231,21 @@ async function main() {
   }
   if (repaired.length) console.log(`${code}: restored ${repaired.join(', ')}`);
 
+  let shapes = cleaned;
+  if (cfg.land) {
+    if (!landFile) throw new Error(`${code} districts run out over the sea: pass --land=<Natural Earth admin-1 file>`);
+    const ne = JSON.parse(await readFile(landFile, 'utf8'));
+    const land = { type: 'FeatureCollection', features: ne.features.filter(f => f.properties.adm0_a3 === cfg.land) };
+    shapes = JSON.parse((await mapshaper.applyCommands('-i in.json -clip land.json -o out.json format=geojson',
+      { 'in.json': cleaned, 'land.json': land }))['out.json']);
+    const lost = cleaned.features.filter(f => !shapes.features.some(g => g.properties.id === f.properties.id && g.geometry));
+    if (lost.length) throw new Error(`Clipping to land removed ${lost.map(f => f.properties.name).join(', ')}`);
+  }
+
   const result = await mapshaper.applyCommands(
     `-i in.json -simplify ${cfg.simplify} weighted keep-shapes ` +
     '-rename-layers districts -o out.json format=topojson quantization=100000 id-field=id',
-    { 'in.json': cleaned }
+    { 'in.json': shapes }
   );
   await mkdir(path.join(root, 'data', 'districts'), { recursive: true });
   const target = path.join(root, 'data', 'districts', `${code}.topo.json`);
