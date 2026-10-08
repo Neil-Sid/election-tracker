@@ -538,6 +538,7 @@ export const NEW = {
     elections: [{
       id: 'pt-assembly-2025', office: 'Assembly of the Republic', kind: 'legislative', date: '2025-05-18', status: 'final', reporting: 100, turnout: 58.25,
       cite: { name: 'the Ministry of Internal Administration', url: 'https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election' },
+      statesFrom: 'https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election',
       system: '230 seats, closed-list proportional (D’Hondt) in 22 constituencies', totalSeats: 230, majority: 116, seatLabel: 'Seats',
       // Ministry of Internal Administration. AD includes its Azores coalition (PSD/CDS/PPM).
       candidates: [
@@ -548,7 +549,7 @@ export const NEW = {
         c('JPP', 'jpp', 0.34, 1, { votes: 20900, change: 1 }), c('ADN', 'adn', 1.35, 0, { votes: 81660, change: 0 }),
         c('Others', 'oth', 1.23, 0, { votes: 74484, change: 0 })
       ],
-      regionSeats: { 11: 48, 13: 40, '03': 19, 15: 19, '01': 16, 10: 10, '06': 9, '08': 9, 14: 9, 18: 8, 30: 6, 16: 6, 20: 5, 17: 5, '05': 4, '07': 3, '09': 3, '02': 3, '04': 3, 12: 2 },
+      regionSeats: { 11: 48, 13: 40, '03': 19, 15: 19, '01': 16, 10: 10, '06': 9, '08': 9, 14: 9, 18: 8, 30: 6, 16: 5, 20: 5, 17: 5, '05': 4, '07': 3, '09': 3, '02': 3, '04': 3, 12: 2 },
       defaultWinner: 'ad', winners: { '08': 'chega', '02': 'chega', 12: 'chega', 15: 'chega', '07': 'ps' }
     }, {
       id: 'pt-president-2026', office: 'President', kind: 'presidential', date: '2026-02-08', status: 'final', reporting: 100, turnout: 50.03,

@@ -59,6 +59,11 @@ const SEAT_SPLITS = {
     RI: { dem: 2 }, SC: { gop: 6, dem: 1 }, SD: { gop: 1 }, TN: { gop: 8, dem: 1 }, TX: { gop: 25, dem: 13 }, UT: { gop: 4 }, VT: { dem: 1 },
     VA: { gop: 5, dem: 6 }, WA: { gop: 2, dem: 8 }, WV: { gop: 2 }, WI: { gop: 6, dem: 2 }, WY: { gop: 1 }
   },
+  // The 40 seats up in 2025; the national figures are the whole Senate after it.
+  'au-senate-2025': {
+    NSW: { alp: 2, lnp: 2, grn: 1, on: 1 }, VIC: { alp: 3, lnp: 2, grn: 1 }, QLD: { lnp: 2, alp: 2, grn: 1, on: 1 }, WA: { alp: 2, lnp: 2, grn: 1, on: 1 },
+    SA: { alp: 3, lnp: 2, grn: 1 }, TAS: { alp: 2, lnp: 2, grn: 1, jln: 1 }, ACT: { ind: 1, alp: 1 }, NT: { alp: 1, lnp: 1 }
+  },
   'au-house-2025': {
     NSW: { alp: 28, lnp: 12, ind: 6 }, VIC: { alp: 27, lnp: 9, ind: 2 }, QLD: { lnp: 16, alp: 12, grn: 1, kap: 1 }, WA: { alp: 11, lnp: 4, ind: 1 },
     SA: { alp: 7, lnp: 2, ca: 1 }, TAS: { alp: 4, ind: 1 }, ACT: { alp: 3 }, NT: { alp: 2 }
@@ -73,6 +78,15 @@ const SEAT_SPLITS = {
     SCT: { lab: 37, snp: 9, ld: 6, con: 5 },
     WLS: { lab: 27, pc: 4, ld: 1 },
     NI: { sf: 7, dup: 5, sdlp: 2, apni: 1, uup: 1, tuv: 1, ind: 1 }
+  },
+  // The four seats elected abroad aren't on the map.
+  'pt-assembly-2025': {
+    '01': { ad: 7, chega: 4, ps: 4, il: 1 }, '02': { ad: 1, chega: 1, ps: 1 }, '03': { ad: 8, chega: 5, ps: 5, il: 1 }, '04': { ad: 2, ps: 1 },
+    '05': { ad: 2, chega: 1, ps: 1 }, '06': { ad: 4, chega: 2, ps: 3 }, '07': { ad: 1, chega: 1, ps: 1 }, '08': { ad: 3, chega: 4, ps: 2 },
+    '09': { ad: 1, chega: 1, ps: 1 }, 10: { ad: 5, chega: 3, ps: 2 }, 11: { ad: 15, chega: 11, ps: 12, il: 4, livre: 3, cdu: 1, be: 1, pan: 1 },
+    12: { chega: 1, ps: 1 }, 13: { ad: 15, chega: 9, ps: 11, il: 2, livre: 2, cdu: 1 }, 14: { ad: 4, chega: 3, ps: 2 },
+    15: { ad: 5, chega: 6, ps: 5, il: 1, livre: 1, cdu: 1 }, 16: { ad: 3, chega: 1, ps: 1 }, 17: { ad: 3, chega: 1, ps: 1 },
+    18: { ad: 4, chega: 2, ps: 2 }, 20: { ad: 3, chega: 1, ps: 1 }, 30: { ad: 3, chega: 1, ps: 1, jpp: 1 }
   }
 };
 
@@ -262,7 +276,9 @@ function fitRegionSeats(el, stands) {
   const regs = (el.regions ?? []).filter(r => r.seats && r.contested !== false && r.results?.length);
   const parties = el.candidates.filter(c => (c.seats ?? 0) > 0);
   const sum = xs => xs.reduce((a, b) => a + b, 0);
-  if (!regs.length || sum(regs.map(r => r.seats)) !== el.totalSeats || sum(parties.map(c => c.seats)) !== el.totalSeats) return;
+  if (!regs.length || sum(parties.map(c => c.seats)) !== el.totalSeats) return;
+  // A real split may leave out seats that aren't on the map; a fitted one can't.
+  if (!split && sum(regs.map(r => r.seats)) !== el.totalSeats) return;
   const weights = regs.map(r => parties.map(c => {
     if (!stands(c.party, r.abbr)) return 0;
     return Math.max(r.results.find(x => x.party === c.party)?.pct ?? (c.pct ?? 1) * 0.3, 0.5);

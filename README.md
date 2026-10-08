@@ -100,6 +100,11 @@ data/live/*.json            written by the cron on election day only
 data/history/*.json         past elections with illustrative results by region (built)
 scripts/history/*.json      past national results, read from Wikipedia's results tables
 scripts/check-history.mjs   checks scripts/history before a build
+scripts/verify-history.mjs  finds every vote count in the cited Wikipedia revision
+scripts/check-current.mjs   checks generated maps against national and sourced results
+scripts/due.mjs             lists elections that have happened but have no results yet
+scripts/wiki/               fetches articles by revision, parses results tables, looks up party colours
+docs/REFRESH.md             how results are refreshed after an election
 scripts/build-history.mjs   builds data/history from scripts/history
 scripts/regions.mjs         region results and regional-party rules, shared by mock-data and build-history
 scripts/update-results.mjs  cron entry point
@@ -281,6 +286,13 @@ US Senate year. When a source gives only the seats won in a partial renewal
 ```
 npm run history
 ```
+
+## Refreshing results
+
+After each election, the steps in [docs/REFRESH.md](docs/REFRESH.md) add the official
+results. They move the previous result into history, check every vote count against the
+cited Wikipedia revision, and end in a pull request for review. A scheduled routine runs
+them daily; `npm run due` lists the elections waiting for results.
 
 ## Rebuilding generated data
 
