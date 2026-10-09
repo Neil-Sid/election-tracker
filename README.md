@@ -275,10 +275,10 @@ the district maps stop changing its region winners.
 ## Performance
 
 The globe is one canvas redrawn per frame. Shapes outside the visible cap are skipped,
-shapes wholly on the visible side skip horizon clipping, each layer keeps
-level-of-detail copies so only about half a pixel of error is drawn (a coarser copy
-while the globe moves, then one full frame when it stops), and shapes are filled in
-batches by colour. Region shapes are prepared on the first hover over a tracked
+shapes wholly on the visible side skip d3 altogether (each vertex's unit vector is
+cached, so a frame is one rotation and scale per point), each layer keeps
+level-of-detail copies so only about half a pixel of error is drawn, and shapes are
+filled in batches by colour. Region shapes are prepared on the first hover over a tracked
 country, so the first fly-in doesn't pause. Open the page with `?debug` and run `globe.benchmark()`
 in the console for milliseconds per frame; `?debug` also shows the election-night replay.
 

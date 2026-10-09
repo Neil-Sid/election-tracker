@@ -3,7 +3,54 @@ import { loadWorld, loadDetail, loadRegions, loadDistricts, contains, atDetail }
 const HOME = [-35, 24];
 const MARGIN = 28;
 const DETAIL_ZOOM = 1.7;
-const MOVING_DETAIL = 16;
+const RAD = Math.PI / 180;
+
+// Each geometry's vertices as unit vectors, worked out once: rings of x, y, z
+// with the closing point dropped, as d3 draws them.
+const vectors = new WeakMap();
+function unitVectors(g) {
+  let v = vectors.get(g);
+  if (v) return v;
+  const polygons = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+  const rings = polygons.flat();
+  const xyz = new Float64Array(rings.reduce((n, r) => n + r.length - 1, 0) * 3);
+  let i = 0;
+  for (const ring of rings) {
+    for (let j = 0; j < ring.length - 1; j++) {
+      const lambda = ring[j][0] * RAD, phi = ring[j][1] * RAD, cosPhi = Math.cos(phi);
+      xyz[i++] = Math.cos(lambda) * cosPhi;
+      xyz[i++] = Math.sin(lambda) * cosPhi;
+      xyz[i++] = Math.sin(phi);
+    }
+  }
+  v = { xyz, lengths: rings.map(r => r.length - 1) };
+  vectors.set(g, v);
+  return v;
+}
+
+// d3's orthographic projection with rotate([λ, φ]), reduced to per-frame
+// constants: rotate about the pole by λ, tilt by φ, keep the y and z axes.
+function rotation([lambda, phi], scale, tx, ty) {
+  return { cl: Math.cos(lambda * RAD), sl: Math.sin(lambda * RAD), cp: Math.cos(phi * RAD), sp: Math.sin(phi * RAD), scale, tx, ty };
+}
+
+function drawOpen(target, feature, r) {
+  const g = feature?.geometry;
+  if (!g) return;
+  const { xyz, lengths } = unitVectors(g);
+  const { cl, sl, cp, sp, scale, tx, ty } = r;
+  let i = 0;
+  for (const n of lengths) {
+    for (let j = 0; j < n; j++, i += 3) {
+      const x = xyz[i] * cl - xyz[i + 1] * sl;
+      const sx = tx + scale * (xyz[i] * sl + xyz[i + 1] * cl);
+      const sy = ty - scale * (xyz[i + 2] * cp + x * sp);
+      if (j) target.lineTo(sx, sy);
+      else target.moveTo(sx, sy);
+    }
+    target.closePath();
+  }
+}
 const THEME_KEYS = ['ocean', 'ocean-edge', 'land', 'land-line', 'land-dim', 'grat', 'tracked', 'tracked-dim', 'tracked-soon',
   'tracked-live', 'hover', 'uncalled', 'hatch-bg', 'hatch-line', 'shade-mid', 'shade-lo', 'fg', 'bg'];
 
@@ -33,9 +80,6 @@ export async function createGlobe(pane, { countries }) {
   let vel = [0, 0];
   let fly = null;
   let dragging = false;
-  // While the globe moves, shapes are drawn from a coarser copy (most of a
-  // frame is projecting points); the frame after it stops is drawn in full.
-  let moving = false;
   let pointerInside = false;
   let lastInput = -Infinity;
   let lastFrame = performance.now();
@@ -54,10 +98,6 @@ export async function createGlobe(pane, { countries }) {
 
   const projection = d3.geoOrthographic().clipAngle(90).precision(0);
   const path = d3.geoPath(projection, ctx);
-  // Most shapes sit wholly on the visible side, where horizon clipping does
-  // nothing but cost time; they go through a projection without it.
-  const open = d3.geoOrthographic().preclip(stream => stream).precision(0);
-  const openPath = d3.geoPath(open, ctx);
   const graticule = d3.geoGraticule10();
   // The grid is cheap, so it keeps adaptive resampling and stays curved when zoomed.
   const gridProjection = d3.geoOrthographic().clipAngle(90).precision(0.3);
@@ -130,19 +170,22 @@ export async function createGlobe(pane, { countries }) {
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.clearRect(0, 0, W, H);
     projection.translate([W / 2, H / 2]).scale(R * k).rotate(rot);
-    open.translate([W / 2, H / 2]).scale(R * k).rotate(rot);
     const center = [-rot[0], -rot[1]];
     const cap = visibleCap();
     const seen = s => d3.geoDistance(center, s.c) - s.r < cap;
-    const tolerance = (moving ? MOVING_DETAIL : 1) * 0.5 / Math.pow(R * k * dpr, 2);
-    const shape = (s, coarser = 1) => atDetail(s, tolerance * coarser);
+    const tolerance = 0.5 / Math.pow(R * k * dpr, 2);
+    const shape = s => atDetail(s, tolerance);
     // d3 caches its projection pipeline per output target, so shapes are
     // drawn in batches that share a target instead of switching per shape.
-    const into = target => {
-      path.context(target);
-      openPath.context(target);
+    let target = ctx;
+    const into = t => {
+      target = t;
+      path.context(t);
     };
-    const put = (s, coarser) => (d3.geoDistance(center, s.c) + s.r < Math.PI / 2 - 0.02 ? openPath : path)(shape(s, coarser));
+    // Shapes wholly on the visible side need no horizon clipping, so they skip
+    // d3's stream: a rotation and a scale per cached unit vector.
+    const spin = rotation(rot, R * k, W / 2, H / 2);
+    const put = s => (d3.geoDistance(center, s.c) + s.r < Math.PI / 2 - 0.02 ? drawOpen(target, shape(s), spin) : path(shape(s)));
     const world = k >= DETAIL_ZOOM && detail?.length ? detail : coarse;
 
     ctx.beginPath();
@@ -211,13 +254,10 @@ export async function createGlobe(pane, { countries }) {
         if (key === selected) selectedShape = s;
       }
       const outlines = new Path2D();
-      // Districts are small and thinly outlined, so in motion they can come from
-      // a much coarser copy than the rest of the map.
-      const coarser = fine && moving ? 16 : 1;
       for (const [fill, list] of groups) {
         const p = new Path2D();
         into(p);
-        list.forEach(s => put(s, coarser));
+        list.forEach(put);
         ctx.fillStyle = fill === 'hatch' ? hatch : fill;
         ctx.fill(p);
         outlines.addPath(p);
@@ -232,7 +272,7 @@ export async function createGlobe(pane, { countries }) {
         ctx.lineWidth = 1.6;
         ctx.beginPath();
         into(ctx);
-        for (const r of focus.regions) if (seen(r)) put(r, coarser);
+        for (const r of focus.regions) if (seen(r)) put(r);
         ctx.stroke();
       }
       ctx.globalAlpha = 1;
@@ -317,9 +357,6 @@ export async function createGlobe(pane, { countries }) {
       detail = [];
       loadDetail().then(d => { detail = d; dirty = true; }).catch(() => { detail = null; });
     }
-    const nowMoving = Boolean(fly) || dragging || zoomTarget != null || Math.abs(vel[0]) + Math.abs(vel[1]) > 0.0008;
-    if (moving && !nowMoving) dirty = true;
-    moving = nowMoving;
     if (dirty) {
       render();
       dirty = false;
@@ -597,20 +634,17 @@ export async function createGlobe(pane, { countries }) {
     state() {
       return { k: Math.round(k * 100) / 100, centre: [-rot[0], -rot[1]].map(v => Math.round(v * 10) / 10), flying: Boolean(fly), selected };
     },
-    // Dev check: draws `frames` frames while turning and returns ms per frame;
-    // `asMoving` draws them as the globe does in motion.
-    benchmark(frames = 60, zoom = k, asMoving = false) {
+    // Dev check: draws `frames` frames while turning and returns ms per frame.
+    benchmark(frames = 60, zoom = k) {
       const start = rot;
       const k0 = k;
       k = zoom;
-      moving = asMoving;
       const t0 = performance.now();
       for (let i = 0; i < frames; i++) {
         rot = [start[0] + i * 0.75, start[1]];
         render();
       }
       ctx.getImageData(0, 0, 1, 1);
-      moving = false;
       rot = start;
       k = k0;
       dirty = true;
