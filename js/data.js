@@ -52,6 +52,9 @@ export async function checkLive(code) {
 // by scripts/build-history.mjs.
 export const loadHistory = code => getJSON(asset(`data/history/${code}.json`));
 
+// Results by district for a past election that has them (districtSet).
+export const loadPastDistricts = id => getJSON(asset(`data/history/districts/${id}.json`));
+
 export async function loadCountry(code) {
   return mergeLive(await getJSON(asset(`data/countries/${code}.json`)), live.get(code));
 }

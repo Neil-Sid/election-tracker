@@ -8,11 +8,12 @@ import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { EXTRA, NEW, NEW_INDEX, NEW_SCHEDULE, NEW_HISTORY, NEW_ABOUT, EXTRA_ABOUT } from './seeds.mjs';
-import { buildDistricts, fitSeats, addSeatShares } from './districts.mjs';
+import { buildDistricts, fromSource, fitSeats, addSeatShares } from './districts.mjs';
 import { seeded, r1, nationalBase, allocate, regionResult, REGIONAL, standsIn } from './regions.mjs';
 
 // Chambers elected in single-member districts get a district breakdown when
-// data/districts/<CODE>.topo.json exists.
+// data/districts/<CODE>.topo.json exists: the real one when
+// scripts/history/districts/<id>.json has it, a sample otherwise.
 const DISTRICT_ELECTIONS = {
   'us-house-2024': 'US', 'gb-commons-2024': 'GB', 'ca-house-2025': 'CA', 'au-house-2025': 'AU',
   'fr-assembly-2024': 'FR', 'de-bundestag-2025': 'DE', 'in-lok-sabha-2024': 'IN', 'jp-representatives-2026': 'JP'
@@ -418,9 +419,11 @@ for (const code of CODES) {
     ? known.filter(r => !r.abbr.includes('-')).map(r => ({ name: r.name, abbr: r.abbr }))
     : shapeNames(code);
 
-  const realPast = new Set((await readJSON(path.join(root, 'scripts', 'history', `${code}.json`), { elections: [] })).elections.map(e => e.office));
+  const pastFile = await readJSON(path.join(root, 'scripts', 'history', `${code}.json`), { parties: {}, elections: [] });
+  const realPast = new Set(pastFile.elections.map(e => e.office));
   for (const el of country.elections) {
     if (el.source) continue;
+    const real = DISTRICT_ELECTIONS[el.id] && await readJSON(path.join(root, 'scripts', 'history', 'districts', `${el.id}.json`), null);
     // District maps feed region winners back in, so each election is rebuilt
     // until it stops changing. Seed winners only shape the first pass.
     for (let pass = 0, last; pass < 8; pass++) {
@@ -438,11 +441,25 @@ for (const code of CODES) {
       // Sample past results only for offices without real ones in scripts/history.
       if (HISTORY[el.id] && !realPast.has(el.office)) el.history = history(el, HISTORY[el.id], seeded(`history-${el.id}`));
       else delete el.history;
-      const shapes = DISTRICT_ELECTIONS[el.id] && await districtShapes(code);
-      if (shapes?.length) el.districts = buildDistricts(el, shapes, seeded(`${el.id}-districts`), standsIn(code), SEAT_SPLITS[el.id]) ?? undefined;
+      if (real) {
+        el.districts = fromSource(el, real.districts);
+        el.districtsFrom = { name: real.source.name, url: real.source.url };
+      } else {
+        const shapes = DISTRICT_ELECTIONS[el.id] && await districtShapes(code);
+        if (shapes?.length) el.districts = buildDistricts(el, shapes, seeded(`${el.id}-districts`), standsIn(code), SEAT_SPLITS[el.id]) ?? undefined;
+      }
       const now = JSON.stringify(el);
       if (now === last) break;
       last = now;
+    }
+  }
+
+  // Parties that only appear in real district results take their name and
+  // colour from the history file.
+  for (const d of country.elections.flatMap(e => (e.districtsFrom ? e.districts : []))) {
+    for (const x of d.results) {
+      const p = pastFile.parties?.[x.party];
+      if (!country.parties[x.party] && p) country.parties[x.party] = { name: p.name, color: p.color };
     }
   }
 

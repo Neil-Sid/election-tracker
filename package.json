@@ -19,6 +19,7 @@
     "history": "node scripts/check-history.mjs && node scripts/build-history.mjs",
     "world": "node scripts/build-world.mjs",
     "districts": "node scripts/build-districts.mjs",
+    "district-results": "node scripts/district-results/fetch.mjs && node scripts/district-results/build.mjs",
     "due": "node scripts/due.mjs",
     "verify": "node scripts/verify-history.mjs"
   },

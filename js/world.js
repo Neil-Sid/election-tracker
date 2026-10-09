@@ -99,11 +99,12 @@ export function contains(shape, lonlat) {
   return d3.geoContains(shape.feature, lonlat);
 }
 
-// Single-member districts (congressional districts, constituencies, ridings),
-// one file per country. Keys look like "CA-12": the part after the country
-// code, which is what election data uses.
-export const loadDistricts = code => once(`districts-${code}`, async () => {
-  const res = await fetch(asset(`data/districts/${code}.topo.json`));
+// Single-member districts (congressional districts, constituencies, ridings):
+// today's in <CODE>.topo.json, earlier boundary sets in <CODE>.<set>.topo.json.
+// Keys look like "CA-12": the part after the country code, which is what
+// election data uses.
+export const loadDistricts = (code, set) => once(`districts-${code}${set ? `.${set}` : ''}`, async () => {
+  const res = await fetch(asset(`data/districts/${code}${set ? `.${set}` : ''}.topo.json`));
   if (!res.ok) return [];
   const topo = await res.json();
   const shapes = prep(topojson.feature(topo, topo.objects.districts).features, f => f.id).map(s => {

@@ -185,16 +185,41 @@ export function buildDistricts(el, shapes, rand, stands = () => true, splits = n
       });
     });
 
-    // The region now reports the seats its districts produced.
     const seats = Object.fromEntries(winners.map((c, j) => [c.party, table[i][j]]));
-    if (share > 0.8) {
-      r.seats = shapesHere.length;
-      r.results = (r.results ?? []).map(x => ({ ...x, seats: seats[x.party] ?? 0 }));
-      addSeatShares(r, seats);
-      // A tie keeps the region's existing winner.
-      const best = Object.entries(seats).sort((a, b) => b[1] - a[1] || (b[0] === r.winner) - (a[0] === r.winner))[0];
-      r.winner = best[0];
-    }
+    if (share > 0.8) regionSeats(r, seats, shapesHere.length);
   });
   return districts;
+}
+
+// Winner's share minus the runner-up's.
+export function marginOf(winner, results) {
+  if (!winner) return undefined;
+  const won = results.find(x => x.party === winner)?.pct ?? 0;
+  return r1(won - Math.max(0, ...results.filter(x => x.party !== winner).map(x => x.pct)));
+}
+
+// Real results by district (scripts/history/districts/<id>.json) for a chamber
+// that is all districts. Regions report the seats as with sample districts.
+export function fromSource(el, rows) {
+  const districts = rows.map(({ results, votes, ...d }) => ({
+    ...d,
+    margin: marginOf(d.winner, results),
+    ...(votes ? { votes } : {}),
+    results: results.map(({ party, pct }) => ({ party, pct }))
+  }));
+  for (const r of el.regions ?? []) {
+    const mine = districts.filter(d => d.region === r.abbr);
+    const seats = {};
+    for (const d of mine) if (d.winner) seats[d.winner] = (seats[d.winner] ?? 0) + 1;
+    if (Object.keys(seats).length) regionSeats(r, seats, mine.length);
+  }
+  return districts;
+}
+
+// A region reports the seats its districts produced. A tie keeps its winner.
+function regionSeats(r, seats, n) {
+  r.seats = n;
+  r.results = (r.results ?? []).map(x => ({ ...x, seats: seats[x.party] ?? 0 }));
+  addSeatShares(r, seats);
+  r.winner = Object.entries(seats).sort((a, b) => b[1] - a[1] || (b[0] === r.winner) - (a[0] === r.winner))[0][0];
 }

@@ -21,6 +21,8 @@ import mapshaper from 'mapshaper';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const [code, src] = process.argv.slice(2).filter(a => !a.startsWith('--'));
 const landFile = process.argv.find(a => a.startsWith('--land='))?.slice(7);
+// A past boundary set, e.g. --set=cd113, is written beside today's as US.cd113.topo.json.
+const set = process.argv.find(a => a.startsWith('--set='))?.slice(6);
 
 const FIPS = {
   '01': 'AL', '02': 'AK', '04': 'AZ', '05': 'AR', '06': 'CA', '08': 'CO', '09': 'CT', '10': 'DE', '11': 'DC', '12': 'FL', '13': 'GA',
@@ -70,7 +72,7 @@ export const SOURCES = {
     simplify: '15%',
     map: p => {
       const st = FIPS[p.STATEFP];
-      const cd = p.CD119FP;
+      const cd = p[Object.keys(p).find(k => /^CD\d+FP$/.test(k))];
       if (!st || st === 'DC' || cd === 'ZZ') return null;
       const n = Number(cd);
       return n === 0
@@ -82,8 +84,9 @@ export const SOURCES = {
     source: 'ONS Westminster Parliamentary Constituencies (July 2024) UK BUC',
     simplify: '9%',
     map: p => {
-      const region = { E14: 'ENG', W07: 'WLS', S14: 'SCT', N05: 'NI' }[p.PCON24CD?.slice(0, 3)];
-      return region ? { key: p.PCON24CD, name: p.PCON24NM, region } : null;
+      const code = p.PCON24CD ?? p.pcon19cd;
+      const region = { E14: 'ENG', W07: 'WLS', S14: 'SCT', N05: 'NI', N06: 'NI' }[code?.slice(0, 3)];
+      return region ? { key: code, name: p.PCON24NM ?? p.pcon19nm, region } : null;
     }
   },
   CA: {
@@ -94,7 +97,7 @@ export const SOURCES = {
     islands: '1000km2',
     map: p => {
       const region = { 10: 'NL', 11: 'PE', 12: 'NS', 13: 'NB', 24: 'QC', 35: 'ON', 46: 'MB', 47: 'SK', 48: 'AB', 59: 'BC', 60: 'YT', 61: 'NT', 62: 'NU' }[String(p.FED_NUM).slice(0, 2)];
-      return region ? { key: String(p.FED_NUM), name: p.ED_NAMEE, region } : null;
+      return region ? { key: String(p.FED_NUM), name: p.ED_NAMEE ?? p.ENNAME, region } : null;
     }
   },
   AU: {
@@ -250,7 +253,7 @@ async function main() {
     { 'in.json': shapes }
   );
   await mkdir(path.join(root, 'data', 'districts'), { recursive: true });
-  const target = path.join(root, 'data', 'districts', `${code}.topo.json`);
+  const target = path.join(root, 'data', 'districts', `${code}${set ? `.${set}` : ''}.topo.json`);
   await writeFile(target, result['out.json']);
   const topo = JSON.parse(result['out.json']);
   const regions = new Set(topo.objects.districts.geometries.map(g => g.properties.region));

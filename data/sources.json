@@ -11,7 +11,14 @@
         "name": "US Census Bureau, 119th Congress cartographic boundaries",
         "licence": "Public domain",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html",
-        "note": "Boundaries in force for the 2024 election. Mid-decade redraws for 2026 are not included yet."
+        "note": "Boundaries in force for the 2024 election. Mid-decade redraws for 2026 are not included yet.",
+        "sets": {
+          "cd113": { "name": "US Census Bureau, 113th Congress cartographic boundaries", "licence": "Public domain" },
+          "cd115": { "name": "US Census Bureau, 115th Congress cartographic boundaries", "licence": "Public domain" },
+          "cd116": { "name": "US Census Bureau, 116th Congress cartographic boundaries", "licence": "Public domain" },
+          "cd117": { "name": "US Census Bureau, 116th Congress cartographic boundaries, with North Carolina's 2019 plan from the NC General Assembly", "licence": "Public domain and public record" },
+          "cd118": { "name": "US Census Bureau, 118th Congress cartographic boundaries", "licence": "Public domain" }
+        }
       }
     },
     "CA": {
@@ -24,7 +31,10 @@
       "boundaries": {
         "name": "Elections Canada, federal electoral districts (2023 Representation Order)",
         "licence": "Open Government Licence – Canada",
-        "url": "https://www.elections.ca/"
+        "url": "https://www.elections.ca/",
+        "sets": {
+          "2013": { "name": "Elections Canada and Natural Resources Canada, federal electoral districts (2013 Representation Order)", "licence": "Open Government Licence – Canada" }
+        }
       }
     },
     "BR": {
@@ -54,7 +64,14 @@
         "name": "Office for National Statistics, Westminster constituencies (July 2024)",
         "licence": "Open Government Licence v3.0",
         "url": "https://geoportal.statistics.gov.uk/",
-        "note": "Contains public sector information licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright and database right 2024."
+        "note": "Contains public sector information licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright and database right 2024.",
+        "sets": {
+          "2010": {
+            "name": "Office for National Statistics, Westminster constituencies (December 2019)",
+            "licence": "Open Government Licence v3.0",
+            "note": "The constituencies used from 2010 to 2019. Contains public sector information licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright and database right."
+          }
+        }
       }
     },
     "ES": {

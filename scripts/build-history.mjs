@@ -8,6 +8,10 @@
 // the national split, except that a region's winner is the real one wherever
 // the source recorded it (regionWinners).
 //
+// Elections with real results by district (scripts/history/districts/<id>.json)
+// also get data/history/districts/<id>.json, loaded when that election is
+// opened and drawn on the boundaries in force at the time (districtSet).
+//
 //   node scripts/build-history.mjs              every country in scripts/history
 //   node scripts/build-history.mjs FR NL        only these
 //   node scripts/build-history.mjs path/to/dir  another input folder
@@ -16,6 +20,7 @@ import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { seeded, nationalBase, regionResult, standsIn } from './regions.mjs';
+import { marginOf } from './districts.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const args = process.argv.slice(2);
@@ -116,7 +121,9 @@ const rulesFor = (code, date) => ({
   }
 });
 
-await mkdir(outDir, { recursive: true });
+await mkdir(path.join(outDir, 'districts'), { recursive: true });
+const districtDir = path.join(srcDir, 'districts');
+const districtIds = new Set((await readdir(districtDir).catch(() => [])).filter(f => f.endsWith('.json')).map(f => f.slice(0, -5)));
 const codes = (await readdir(srcDir))
   .filter(f => /^[A-Z]{2}\.json$/.test(f))
   .map(f => f.slice(0, 2))
@@ -127,6 +134,9 @@ const index = await readJSON(indexFile);
 for (const code of codes) {
   const hist = await readJSON(path.join(srcDir, `${code}.json`));
   const current = await readJSON(path.join(root, 'data', 'countries', `${code}.json`));
+  const byDistrict = Object.fromEntries(await Promise.all(hist.elections
+    .filter(e => districtIds.has(e.id))
+    .map(async e => [e.id, await readJSON(path.join(districtDir, `${e.id}.json`))])));
   // Each office is drawn on the units today's election of that office uses
   // (DC only for the presidency, for example).
   const regionsNow = office => {
@@ -198,16 +208,31 @@ for (const code of codes) {
         const n = voting.filter(r => regionWinners[r.abbr]).length;
         if (n < voting.length) el.statesSourced = { n, of: voting.length };
       }
+      const d = byDistrict[el.id];
+      if (d) {
+        el.districtSet = d.set;
+        el.districtsFrom = { name: d.source.name, url: d.source.url };
+      }
       return el;
     })
     .sort((a, b) => b.date.localeCompare(a.date));
 
   const parties = Object.fromEntries(Object.entries(hist.parties).map(([key, p]) => [key, { name: p.name, color: p.color }]));
   await writeFile(path.join(outDir, `${code}.json`), JSON.stringify({ code, parties, elections }) + '\n');
+  for (const [id, d] of Object.entries(byDistrict)) {
+    const districts = d.districts.map(({ results, votes, ...x }) => ({
+      ...x,
+      margin: marginOf(x.winner, results),
+      ...(votes ? { votes } : {}),
+      results: results.map(({ party, pct }) => ({ party, pct }))
+    }));
+    await writeFile(path.join(outDir, 'districts', `${id}.json`), JSON.stringify({ set: d.set, districts }) + '\n');
+  }
   const meta = index.countries.find(c => c.code === code);
   if (meta) meta.history = true;
   const offices = Object.entries(Object.groupBy(elections, e => e.office)).map(([o, l]) => `${o} ${l.length}`).join(', ');
-  console.log(`${code}: ${elections.length} past elections (${offices})`);
+  const withDistricts = Object.keys(byDistrict).length;
+  console.log(`${code}: ${elections.length} past elections (${offices})${withDistricts ? `, ${withDistricts} by district` : ''}`);
 }
 
 await writeFile(indexFile, JSON.stringify(index, null, 2) + '\n');

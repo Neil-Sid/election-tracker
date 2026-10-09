@@ -650,17 +650,22 @@ export async function createGlobe(pane, { countries }) {
       dirty = true;
       return Math.round(((performance.now() - t0) / frames) * 100) / 100;
     },
-    // 'regions' or 'districts'. Districts load on first use; resolves to
-    // whether the country has a district layer at all.
-    async setLayer(layer) {
+    // 'regions' or 'districts', on today's boundaries or an earlier set.
+    // Districts load on first use, and the shapes on screen stay until the new
+    // ones arrive. Resolves to whether there are any.
+    async setLayer(layer, set) {
       if (!focus) return false;
       const target = focus;
       target.layer = layer;
       dirty = true;
       if (layer !== 'districts') return true;
-      target.districts ??= await loadDistricts(target.code);
-      dirty = true;
-      return target.districts.length > 0;
+      target.set = set;
+      const shapes = await loadDistricts(target.code, set);
+      if (target.set === set) {
+        target.districts = shapes;
+        dirty = true;
+      }
+      return shapes.length > 0;
     },
     hoverRegion(abbr) {
       if (abbr === hoverRegionAbbr) return;

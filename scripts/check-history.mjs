@@ -119,6 +119,8 @@ for (const file of files) {
     for (const abbr of el.voted ?? []) if (!regions.has(abbr)) errors.push(`${at}: voted region "${abbr}" is not on the map`);
     if (el.voted) for (const abbr of Object.keys(el.regionWinners ?? {})) if (!el.voted.includes(abbr)) errors.push(`${at}: region ${abbr} has a winner but is not in voted`);
     if (el.partial && !el.regionWinners && !el.voted) errors.push(`${at}: partial needs regionWinners or voted`);
+    const districts = await readFile(path.join(dir, 'districts', `${el.id}.json`), 'utf8').then(JSON.parse, () => null);
+    if (districts) errors.push(...await checkDistricts(code, el, districts, known));
   }
 
   const byOffice = Object.groupBy(hist.elections ?? [], e => e.office);
@@ -132,3 +134,35 @@ for (const file of files) {
   if (errors.length) failed++;
 }
 process.exit(failed ? 1 : 0);
+
+// Results by district (scripts/history/districts/<id>.json): one for each
+// district of the boundary set, each won by its largest party, adding up to
+// the national seats. A district whose result was voided counts as vacant.
+async function checkDistricts(code, el, d, known) {
+  const at = `${el.id} districts`;
+  const topo = await readFile(path.join(root, 'data', 'districts', `${code}.${d.set}.topo.json`), 'utf8').then(JSON.parse, () => null);
+  if (!topo) return [`${at}: no data/districts/${code}.${d.set}.topo.json`];
+  const errors = [];
+  const keys = new Set(topo.objects.districts.geometries.map(g => g.id.slice(code.length + 1)));
+  const seen = new Set();
+  const won = {};
+  for (const r of d.districts) {
+    if (seen.has(r.abbr)) errors.push(`${at}: ${r.abbr} appears twice`);
+    seen.add(r.abbr);
+    if (!keys.has(r.abbr)) errors.push(`${at}: ${r.abbr} is not on the ${d.set} map`);
+    for (const x of r.results) if (!known(x.party)) errors.push(`${at}: ${r.abbr} party "${x.party}" is not defined`);
+    const sum = r.results.reduce((n, x) => n + x.pct, 0);
+    if (sum < 99.3 || sum > 100.7) errors.push(`${at}: ${r.abbr} shares add up to ${sum.toFixed(1)}`);
+    const top = r.results.filter(x => x.party !== 'oth' || x.party === r.winner).sort((a, b) => b.pct - a.pct)[0];
+    if (r.winner ? top?.party !== r.winner : !r.voided) errors.push(`${at}: ${r.abbr} winner ${r.winner} is not the largest party`);
+    const party = r.winner ?? 'vac';
+    won[party] = (won[party] ?? 0) + 1;
+  }
+  const missing = [...keys].filter(k => !seen.has(k));
+  if (missing.length) errors.push(`${at}: no result for ${missing.join(' ')}`);
+  for (const c of el.candidates) {
+    if ((won[c.party] ?? 0) !== (c.seats ?? 0)) errors.push(`${at}: ${c.party} won ${won[c.party] ?? 0} districts but ${c.seats ?? 0} seats`);
+  }
+  for (const p of Object.keys(won)) if (!el.candidates.some(c => c.party === p)) errors.push(`${at}: ${p} won ${won[p]} districts but has no national row`);
+  return errors;
+}

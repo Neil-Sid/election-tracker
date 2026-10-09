@@ -1,4 +1,5 @@
-import { loadCountry } from './data.js';
+import { loadCountry, loadPastDistricts } from './data.js';
+import { loadDistricts } from './world.js';
 import { nextText } from './status.js';
 import { fmtInt, fmtPct, fmtDate, fmtFullDate, fmtChange, daysUntil, timeAgo, fmtCompact } from './format.js';
 import { chamber, duel, historyRows, pollChart } from './charts.js';
@@ -45,6 +46,15 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
   const layerOf = view => (view.districts?.length && layer !== 'regions' ? 'districts' : 'regions');
   const unitsOf = view => (layerOf(view) === 'districts' ? view.districts : view.regions) ?? [];
   const nameFor = (key, view = viewOf(current())) => view.candidates.find(c => c.party === key)?.name ?? party(key).name;
+  // A past election's results by district load the first time it is shown,
+  // together with the boundaries they were won on.
+  const withDistricts = el => (el?.districtSet && !el.districts
+    ? Promise.all([loadPastDistricts(el.id), loadDistricts(meta.code, el.districtSet)])
+      .then(([d]) => { el.districts = d.districts; })
+      .catch(err => console.error(err))
+    : Promise.resolve());
+  let opening = null;
+  let disposed = false;
 
   panel.innerHTML = `
     <div class="country">
@@ -96,6 +106,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const o = e.target.closest('button')?.dataset.office;
     if (!o || o === office) return;
     stopSim(false);
+    opening = null;
     office = o;
     picked = null;
     roundIdx = null;
@@ -167,9 +178,13 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     if (!sim) renderAll();
   };
 
-  renderAll();
+  if (picked?.districtSet && !picked.districts) withDistricts(picked).then(() => disposed || renderAll());
+  else renderAll();
 
-  return () => stopSim(false, true);
+  return () => {
+    disposed = true;
+    stopSim(false, true);
+  };
 
   function renderAll() {
     headStatus.innerHTML = statusPill(ctx.statuses.get(meta.code));
@@ -184,17 +199,21 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const el = current();
     const asOf = !picked && ctx.index.asOf ? ` Results as of ${fmtFullDate(ctx.index.asOf)}.` : '';
     // The boundary licences ask for credit wherever the maps are shown.
-    const boundaries = ctx.sources?.countries?.[meta.code]?.boundaries;
+    const today = ctx.sources?.countries?.[meta.code]?.boundaries;
+    const boundaries = today?.sets?.[el.districtSet] ?? today;
     const credits = [boundaries && `Map: ${boundaries.name} (${boundaries.licence}).`, ctx.sources?.maps].filter(Boolean).join(' ');
+    const districtNote = el.districtsFrom ? `Results by ${districtTerm} from ${el.districtsFrom.name}. `
+      : el.districts?.length ? `Results by ${districtTerm} are illustrative. ` : '';
     fineprint.textContent = (el.cite
-      ? `National results from ${el.cite.name}, via Wikipedia. ${sourcedText(el)}${asOf}`
+      ? `National results from ${el.cite.name}, via Wikipedia. ${districtNote}${sourcedText(el)}${asOf}`
       : 'Sample data for layout. Results are not real.') + (credits ? ` ${credits}` : '');
   }
 
   function sourcedText(el) {
     const s = el.statesSourced;
-    if (s) return `${s.n === 1 ? 'The winner' : 'Winners'} in ${s.n} of ${s.of} ${terms} ${s.n === 1 ? 'is' : 'are'} sourced; the other ${terms} and all shares are illustrative.`;
-    return el.statesFrom ? `Winners by ${term} are sourced; their shares are illustrative.` : `Results by ${term} are illustrative.`;
+    const shares = el.districtsFrom ? `the shares by ${term}` : null;
+    if (s) return `${s.n === 1 ? 'The winner' : 'Winners'} in ${s.n} of ${s.of} ${terms} ${s.n === 1 ? 'is' : 'are'} sourced; the other ${terms} and ${shares ?? 'all shares'} are illustrative.`;
+    return el.statesFrom ? `Winners by ${term} are sourced; ${shares ?? 'their shares'} are illustrative.` : `Results by ${term} are illustrative.`;
   }
 
   // One button per election of this office, oldest first, under a bar in the
@@ -214,9 +233,12 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     if (on) years.scrollLeft = on.offsetLeft - years.clientWidth / 2 + on.clientWidth / 2;
   }
 
-  function openElection(id, fromList) {
+  async function openElection(id, fromList) {
     const el = timeline(office).find(e => e.id === id);
     if (!el) return;
+    const token = (opening = {});
+    await withDistricts(el);
+    if (token !== opening || disposed) return;
     stopSim(false);
     picked = el === latestFor(office) ? null : el;
     roundIdx = null;
@@ -316,9 +338,10 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       </section>
       ${regionsBlock(view, live)}`;
     const want = layerOf(view);
-    if (want !== shownLayer) {
-      shownLayer = want;
-      globe.setLayer(want);
+    const set = want === 'districts' ? el.districtSet : undefined;
+    if (`${want}:${set ?? ''}` !== shownLayer) {
+      shownLayer = `${want}:${set ?? ''}`;
+      globe.setLayer(want, set);
     }
     renderRegionDetail();
     repaintGlobe();
@@ -339,7 +362,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       return `
         <tr data-region="${r.abbr}" class="${r.abbr === selected ? 'sel' : ''}${off ? ' off' : ''}">
           <td><i ${sw}></i>${r.name}</td>
-          <td class="muted">${off ? 'No race' : r.winner ? nameFor(r.winner, view) : r.leader ? `${nameFor(r.leader, view)} leads` : 'Counting'}</td>
+          <td class="muted">${off ? 'No race' : r.voided ? 'Result voided' : r.winner ? nameFor(r.winner, view) : r.leader ? `${nameFor(r.leader, view)} leads` : 'Counting'}</td>
           <td class="num">${r.winner && r.margin != null ? `+${r.margin.toFixed(1)}` : ''}</td>
           ${withSeats ? `<td class="num muted">${r.seats ?? ''}</td>` : ''}
         </tr>`;
@@ -373,13 +396,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
 
     const closest = called.filter(r => r.margin != null).sort((a, b) => a.margin - b.margin).slice(0, 5);
     const el = current();
-    const illustrative = el.cite && !live && !sim
-      ? `<p class="note">${el.statesSourced
-        ? `Who won ${el.statesSourced.n} of the ${el.statesSourced.of} ${terms} is from <a href="${el.statesFrom}" target="_blank" rel="noopener">the source</a>; the other ${terms} and all shares are illustrative.`
-        : el.statesFrom
-        ? `Who won each ${unit} is from <a href="${el.statesFrom}" target="_blank" rel="noopener">the source</a>; the shares are illustrative.`
-        : `Results by ${unit} are illustrative.`}</p>`
-      : '';
+    const illustrative = el.cite && !live && !sim ? `<p class="note">${sourceNote(el, byDistrict)}</p>` : '';
 
     return `
       <section class="block regions-block">
@@ -424,6 +441,22 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       </section>`;
   }
 
+  // Where the layer on screen comes from. State winners can be sourced while
+  // the shares are illustrative; districts are either all real or all sample.
+  function sourceNote(el, byDistrict) {
+    const link = (url, text) => `<a href="${url}" target="_blank" rel="noopener">${text}</a>`;
+    if (byDistrict) {
+      return el.districtsFrom
+        ? `Results by ${districtTerm} from ${link(el.districtsFrom.url, el.districtsFrom.name)}.`
+        : `Results by ${districtTerm} are illustrative.`;
+    }
+    const shares = el.districtsFrom ? `the shares by ${term}` : null;
+    const s = el.statesSourced;
+    if (s) return `Who won ${s.n} of the ${s.of} ${terms} is from ${link(el.statesFrom, 'the source')}; the other ${terms} and ${shares ?? 'all shares'} are illustrative.`;
+    if (el.statesFrom) return `Who won each ${term} is from ${link(el.statesFrom, 'the source')}; ${shares ?? 'the shares'} are illustrative.`;
+    return `Results by ${term} are illustrative.`;
+  }
+
   function regionOf(abbr) {
     return unitsOf(viewOf(current())).find(r => r.abbr === abbr) ?? null;
   }
@@ -461,7 +494,7 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
       box.innerHTML = `${head}<p class="rd-call muted">No ${office.toLowerCase()} race in ${r.name} this cycle.</p>`;
       return;
     }
-    if (!r.winner && !r.leader) {
+    if (!r.winner && !r.leader && !r.voided) {
       box.innerHTML = `${head}<p class="rd-call muted">No votes counted yet.</p>`;
       return;
     }
@@ -476,7 +509,9 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const showSeats = (r.seats ?? 0) > 1 && current().kind !== 'presidential';
     box.innerHTML = `
       ${head}
-      ${r.winner
+      ${r.voided
+        ? '<p class="rd-call muted">The result was voided and a new election ordered.</p>'
+        : r.winner
         ? `<p class="rd-call"><i class="sw" style="background:${party(r.winner).color}"></i><b>${nameFor(r.winner, view)}</b> ${r.margin != null ? `won by ${r.margin.toFixed(1)} points` : 'won'}</p>`
         : `<p class="rd-call"><i class="sw" style="background:${party(r.leader).color}"></i><b>${nameFor(r.leader, view)}</b> leads by ${(r.margin ?? 0).toFixed(1)} points. Not called yet.</p>`}
       ${r.call?.by ? `<p class="rd-by">Called by ${r.call.by}${r.call.at ? ` · ${whenText(r.call.at)}` : ''}</p>` : ''}
@@ -497,12 +532,13 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     if (!r) return `<span class="tip-muted">No data</span>`;
     if (r.contested === false) return `<strong>${r.name}</strong><span>No race this cycle</span>`;
     const view = viewOf(current());
+    const lines = (r.results ?? []).slice(0, 3).map(x => `
+      <span class="tip-row"><i class="sw" style="background:${party(x.party).color}"></i>${nameFor(x.party, view)}<b>${fmtPct(x.pct)}</b></span>`).join('');
+    if (r.voided) return `<strong>${r.name}</strong><span>Result voided</span>${lines}`;
     if (!r.winner) {
       const lead = r.leader ? `${nameFor(r.leader, view)} leads${r.margin != null ? ` by ${r.margin.toFixed(1)}` : ''}` : 'No votes counted yet';
       return `<strong>${r.name}</strong><span>${lead}</span><span class="tip-muted">${r.counted != null ? `${r.counted}% counted · ` : ''}not called</span>`;
     }
-    const lines = (r.results ?? []).slice(0, 3).map(x => `
-      <span class="tip-row"><i class="sw" style="background:${party(x.party).color}"></i>${nameFor(x.party, view)}<b>${fmtPct(x.pct)}</b></span>`).join('');
     return `<strong>${r.name}</strong>
       <span>${nameFor(r.winner, view)}${r.margin != null ? ` +${r.margin.toFixed(1)}` : ''}${r.seats ? ` · ${r.seats} ${r.seats === 1 ? 'seat' : current().seatLabel === 'Electoral votes' ? 'electoral votes' : 'seats'}` : ''}</span>
       ${lines}
@@ -525,12 +561,13 @@ export function renderCountry(panel, ctx, { meta, country: initial, archive, ele
     const regs = unitsOf(view);
     const wins = d3.rollups(regs.filter(r => r.winner), v => v.length, r => r.winner).sort((a, b) => b[1] - a[1]);
     const notUp = regs.some(r => r.contested === false);
-    const uncalled = regs.some(r => r.contested !== false && !r.winner && !r.leader);
+    const uncalled = regs.some(r => r.contested !== false && !r.winner && !r.leader && !r.voided);
     const leading = regs.some(r => !r.winner && r.leader);
     return `
       ${wins.map(([p]) => `<span><i class="k" style="background:${party(p).color}"></i>${nameFor(p, view)}</span>`).join('')}
       ${leading ? '<span><i class="k lead"></i>Leading, not called</span>' : ''}
       ${uncalled ? '<span><i class="k uncalled"></i>No votes yet</span>' : ''}
+      ${regs.some(r => r.voided) ? '<span><i class="k uncalled"></i>Result voided</span>' : ''}
       ${notUp ? '<span><i class="k not-up"></i>No race</span>' : ''}`;
   }
 
